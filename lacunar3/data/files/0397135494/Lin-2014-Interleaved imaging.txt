@@ -1,0 +1,2361 @@
+﻿[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2013.07.020
+[Link]
+mailto:hanli@uta.edu
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2013.07.020
+[Link]
+http://www.sciencedirect.com/science/journal/10538119
+Interleaved imaging of cerebral hemodynamics and bloodflow index to
+monitor ischemic stroke and treatment in rat by volumetric diffuse
+optical tomography
+Zi-Jing Lina,1,MingRenb,c,1, Lin Lia, Yueming Liu d,JianzhongSud, Shao-Hua Yangc, Hanli Liu a,⁎
+a Department of Bioengineering, Joint Graduate Program between University of Texas at Arlington and University of Texas Southwestern Medical Center,
+University of Texas at Arlington, TX 76019, USA
+b Department of Neurosurgery, Beijing Sanbo Brain Hospital, Capital Medical University, Beijing, China
+c Department of Pharmacology & Neuroscience, Institute for Aging and Alzheimer's Disease Research, University of North Texas Health Science Center,Fort Worth, TX 76107, USA
+d Department of Mathematics, University of Texas at Arlington, TX 76019, USA
+a b s t r a c t a r t i c l e  i n f o 
+Article history:
+Accepted 6 July 2013
+Available online 16 July 2013
+Keywords:
+Diffuse optical tomography
+Middle cerebra artery occlusion
+Stroke
+Embolism-induced ischemic model
+Depth compensation algorithm
+Three-dimensional reconstruction
+Hemodynamic concentration contrast
+Indocyanine green
+Diffuse optical tomography (DOT) has been used by several groups to assess cerebral hemodynamics of cerebral
+ischemia in humans and animals. In this study, we combined DOT with an indocyanine green (ICG)-tracking
+method to achieve interleaved images of cerebral hemodynamics and bloodflow index (BFI) using two middle
+cerebral artery occlusion (MCAO) rat models. To achieve volumetric images with high-spatial resolution, we
+first integrated a depth compensation algorithm (DCA) with a volumetric mesh-based rat head model to generate
+three-dimensional (3D) DOT on a rat brain atlas. Then, the experimental DOT data from two rat models were
+collected using interleaved strategy for cerebral hemodynamics and BFI during and after ischemic stroke, with
+and without a thrombolytic therapy for the embolic MCAO model. The acquired animal data were further analyzed
+using theintegrated rat-atlas-guided DOT method to form time-evolving 3D imagesof both cerebral hemodynamics
+and BFI. In particular, we were able to show and identify therapeutic outcomes of a thrombolytic
+treatment applied to the embolism-induced ischemic model. This paper demonstrates that volumetric DOT is
+capable of providing high-quality, interleaved images of cerebral hemodynamics and blood perfusion in small
+animals during and after ischemic stroke, with excellent 3D visualization and quantifications.
+© 2013 Elsevier Inc. All rights reserved.
+Introduction
+Ischemic stroke and animal models
+Stroke is an emergency cerebrovascular condition and is the major
+leading cause of death in the United States with more than 130,000
+deaths and disabilities annually (Kochanek et al., 2011). Stroke occurs
+when 1) blood flow to the brain is obstructed (ischemic stroke), or 2)
+blood vessels break and blood bleeds into brain tissues (hemorrhagic
+stroke).Ofall patients diagnosed with stroke, more than 80% experience
+an ischemic stroke. Animal models are often used to help researchers
+better understand the pathogenesis of ischemia, to define biochemical
+changes in brain tissues during and after ischemia, and to discover
+mechanisms involved in the evolution of ischemic injury to the brain,
+as well as to examine therapeutic outcomes of new drugs and treatments.
+Among animal models, rat ischemic models have been well
+developed and widely utilized because the anatomy of arterial supplies
+to cerebral hemispheres in rats is essentially similar to that in
+humans. In particular, middle cerebral artery (MCA) ischemic stroke
+models are well established in rats mostly through occlusion of MCA
+using either the craniotomic or endovascular approach because ischemic
+stroke is often caused by occlusion of MCA and/or its branches
+in humans.
+Non-invasive optical techniques to measure cerebral hemodynamics
+Several types of non-invasive imaging techniques, such as computed
+tomography (CT) (von Kummer et al., 1997) and magnetic resonance
+NeuroImage 85 (2014) 566–582
+Abbreviations:3D, three-dimensional;BFI,bloodflow index; CBF, cerebral bloodflow;
+CCA, common carotid artery; CT, computed tomography; DCA, depth compensation algorithm
+; DOT, diffuse optical tomography; DYNOT, dynamic near-infrared optical tomographic
+instrument; ECA, external carotid artery; FEM,finite element model; G
+I
+, Group I
+to represent the suture-induced MCAO rat model; GII, Group II to represent the
+embolism-induced MCAO rat model; HbO2, oxygenated hemoglobin concentration; HbR,
+deoxygenated hemoglobin concentration; HbT, total hemoglobin concentration; ICG, Indocyanine
+green; ICA, internal carotid artery; MCA, middle cerebral artery; MCAO, middle
+cerebral artery occlusion; MRI, magnetic resonance imaging; NIR, near-infrared; NIRFAST,
+a FEM-based MATLAB package; NIRS, near-infrared spectroscopy; OD, optical density;
+Ratio
+BFI
+, ratio between two spatially-averagedBFIvalues within ROI-2 and ROI-1; rCBF, regional
+CBF; ROI, region of interest; rtPA, recombinant tissue plasminogen activator; RW,
+real world.
+⁎ Corresponding author at: Bioengineering Department, University of Texas at Arlington
+, Arlington, TX 76019, USA. Fax: +1 215 272 2251.
+E-mail address:hanli@uta.edu(H. Liu).
+1 Both authors contributed equally to this paper.
+1053-8119/$ –see front matter © 2013 Elsevier Inc. All rights reserved.
+http://dx.doi.org/10.1016/j.neuroimage.2013.07.020
+Contents lists available atScienceDirect
+NeuroImage
+journal homepage: www.elsevier.com/locate/ynimg
+(PDF Extractor SDK TRIAL VERSION)
+imaging (MRI), especially diffusion- and perfusion-weighted MRI
+(Neumann-Haefelin et al., 1999), have been used to investigate
+stroke and its possible treatments in experimental studies. For the
+last decade, researchers have been investigating non-invasive detection
+of cerebral hemodynamics using near infrared spectroscopy
+(NIRS) due to its portability, non-radiation, cost-effectiveness, and
+high temporal resolution. Since light in the near-infrared (NIR)
+range (600–900 nm) can penetrate a few centimeters into brain tissues
+, it can probe changes in oxygenated (HbO
+2
+) and deoxygenated
+(HbR) hemoglobin concentrations in the cerebral regions. Total hemoglobin
+concentrations can be quantified by HbT = HbO
+2
++HbR,
+serving as another hemodynamic contrast in proportion to the
+cerebral blood volume.
+Specifically, with single or limited source–detector pairs, several
+NIRS measurements were performed in investigating cerebral hemodynamics
+during cerebral ischemia (Liu et al., 2008; Xia et al., 2007)using
+a suture-induced rat MCA occlusion (MCAO) model. With multiple
+source–detector pairs and a similar rat MCAO model, researchers
+(Chen et al., 2000, 2002) showed two dimensional (2D) topographic
+maps of HbT after performing spatial interpolation among the multichannel
+NIRS readings. Their results exhibited good correlations with
+MR imagesand histological brain slices oftheanimals. Moreover, diffuse
+optical tomography (DOT), which utilizes diffusion theory to reconstruct
+tomographic images of multi-channel NIRS with a relatively
+large number of source–detector pairs, has demonstrated the feasibility
+of three dimensional (3D) image reconstruction of cerebral hemodynamics
+during cerebral ischemia in rat MCAO (Culver et al., 2003a)or
+common carotid artery (CCA) occlusion models (Bluestone et al.,
+2004b).
+Non-invasive techniques to measure cerebral bloodflow
+Assessment of cerebral blood flow (CBF) is also important and
+useful for understanding and interpreting hemodynamic kinetics
+and cerebral physiology of acute ischemic stroke, especially for
+embolism-induced ischemia. Continuous observation of regional
+CBF (rCBF) for patients receiving thrombolytic treatment is crucial
+because ischemic tissues may be non-functional or dying due to different
+levels of blood reperfusion, which may cause a severe neurological
+and fatal deficit in the brain. Studies have shown that infarct
+volume highly depends on reduction of CBF during cerebral ischemia
+and perfusion recovery from ischemia (Soriano et al., 1997).
+There are several techniques providing rCBF measurements, including
+single photon emission tomography (SPECT) (Kwiatek et al.,
+2000; Pavics et al., 1999), CT, positron emission tomography (PET)
+(Johnson et al., 1999; Tuominen et al., 2004), perfusion-weighted
+MRI, diffuse correlation spectroscopy (DCS) (Shang et al., 2011;
+Zhou et al., 2006), and laser Doppler flowmetry (Liu et al., 2008;
+Tonnesen et al., 2005). All of these techniques have been adopted
+in human and animal studies.
+Furthermore, measurements of rCBF by tracking the kinetics of
+an intravenous tracer or contrast, namely, indocyanine green
+(ICG), with NIRS have been reported when evaluating reduction of
+rCBF for patients with acute ischemic stroke (Terborg et al., 2004).
+The ICG-tracking technique allows repetitive and minimally invasive
+(due to the injection of ICG solution) measurements in a very
+short period of time because of rapid clearance of ICG from the
+blood stream. Researchers have shown that a blood flow index
+(BFI) derived from ICG kinetics is significantly correlated with the
+cortical blood flow (Kuebler et al., 1998), and thus allows rCBF assessment
+with good reproducibility (Keller et al., 2003; Wagner
+et al., 2003). Using the NIRS topographic technique, researchers
+have also shown the feasibility of generating 2D CBF images of infant
+patients with infarcts and hemorrhages; those images had good correlation
+with SPECT images (Kusaka et al., 2001).
+Motivation and organization of this paper
+The aim of this study was to investigate changes in cerebral hemodynamics
+and CBF kinetics during and after ischemic stroke,
+with and without thrombolytic therapy for an embolic MCAO
+model, using three-dimensional diffuse optical tomography (3D
+DOT). We have achieved interleaved 3D imaging of hemispheric hemodynamic
+changes and CBF kinetics after integrating conventional
+DOT with our recently developed depth compensation algorithm
+(DCA). The novelty of this paper includes 1) design and implementation
+of an interleaved method to quantify two sets of changes in
+both hemoglobin concentrations and BFI during and after MCAO in
+rat, 2) integration of DCA with a volumetric mesh-based rat head
+model to generate volumetric DOT on a rat brain atlas, and 3) longitudinal
+imaging and quantification of cerebral hemodynamics and
+CBF index before, during, and after a thrombolytic therapy for an
+embolic MCAO model.
+This paper will provide details on several aspects of the study in
+the following order: First, we will modify and combine our recently
+developed DCA with a volumetric mesh-based rat head model to
+generate volumetric DOT on a rat brain atlas/template for improved
+depth localization and better visualization of MCAO effects in the rat
+brain. Second, we will describe how a suture-induced MCAO rat
+model was achieved and measured by a high-density DOT system
+one hour during and one hour after MCAO. The suture-induced
+MCAO model is studied mainly for validation of our experimental
+setup, measurement methodology, and volumetric image reconstruction
+as this model has been well established and documented.
+Third, we will introduce how our newly established embolisminduced
+MCAO rat model was utilized and measured with the same
+experimental setup and procedures. Next, interleaved data collection
+, analysis and volumetric image reconstruction will be described
+for longitudinal monitoring of cerebral hemodynamics and CBF
+index during and after MCA embolization. We will also discuss the
+effect of thrombolytic treatment. This work will demonstrate the
+feasibility of interleaved volumetric DOT to monitor longitudinal
+progress of cerebral hemodynamics and blood perfusion during
+and after cerebral ischemia in rats with and without therapeutic
+treatments. Results will be illustrated through high-quality 3D visualization
+and quantifications.
+We will also discussthe influence of ICG injectionson thequantification
+of hemodynamic variables and effect of thrombolytic treatment.
+This work will demonstrate the feasibility and limitation of interleaved
+volumetric DOT to monitor longitudinal progress of cerebral hemodynamics
+and blood perfusion during and after cerebral ischemia in rats
+with and without therapeutic treatments.
+Materials and methods
+Animal preparation
+Male Sprague–Dawley rats weighing 350–400 g were purchased
+from Charles River (Wilmington, MA) and housed in a 12 h light and
+12 h dark cycle with free access to water and food. All surgical procedures
+were approved by the Institutional Animal Care and Use Committee
+of the University of Texas at Arlington and the University of North
+Texas Health Science Center.
+In this study, we created and measured two types of ischemic stroke
+rat models: suture-induced (Longa et al., 1989; Xia et al., 2007)and
+embolism-induced MCAO model (Ren et al., 2012), respectively. We
+briefly describe the procedures here.
+1. Suture-induced ischemic model: The rat was anesthetized with
+isoflurane (2–2.5%); the left MCA was occluded by monofilament
+silicon-coated suture introduced throughout the left internal carotid
+artery (ICA), as shown in Xia et al. (2007). The time period for
+567 Z.-J. Lin et al. / NeuroImage 85 (2014) 566–582
+(EVALUATION PDF Extractor SDK 8.0.0.2542.445825815)
+occlusion was 60 min. Approximately 60 min after occlusion, the suture
+was smoothly withdrawn for reperfusion.
+2. Embolism-induced ischemic model (Fig. 1A): Blood clots mixed with
+thrombin, fibrinogen, and fresh blood withdrawn from a donor rat
+were made 24 h before the stroke induction (Ren et al., 2012). For
+surgery of embolic MCAO, the rat was anesthetized with isoflurane
+(2–2.5%); the left external carotid artery (ECA) was exposed through
+a midlinecervicalskin incision.Blood clotswere then introduced into
+the lumen of ECA via the PE-50 tubing (inner diameter = 0.58 mm;
+outer diameter = 0.99 mm) with the tip of the catheter close to the
+CCA bifurcation for delivering clots toward the brain. One hour after
+embolization, the rat received thrombolysis, in which recombinant
+tissue plasminogen activator (rtPA), a thrombolytic treatment, was
+intravenously injected into the jugular vein at a dose of 5 mg/kg
+body weight with a 10% bolus and 90% continuous infusion for
+30 min (Ren et al., 2012).
+Instrumentation and experimental setup for animal study
+DOT measurements on a rat head were performed non-invasively
+with a tomographic imaging system, namely, a dynamic near-infrared
+optical tomographic instrument, DYNOT (NIRx Medical Technologies,
+LLC, NY, USA). Laser lights from each of two laser diodes, with wave
+lengths of 760 nmand 830 nm,were sequentially coupled into different
+fiber bundles and delivered to various positions on the rat head. Specifically
+, a fiber array consisted of 20 bifurcated source–detector probes
+(4 rows × 5 columns) that were placed symmetrically on the rat's
+scalp above the region of cerebrum with a nearest inter-optode distance
+of 5 mm, as shown in Fig. 1B. The full tomographic dataset, involving
+20 sources and 20 detectors, contained a total of 380 source–detector
+pairs/measurements (i.e., 20 × 19, ignoring the collocationfibers). The
+system operated in a continuous-wave mode with a frame rate of
+1.81 Hz.
+The rat hair was trimmed to ensure betterfiber-skin contact. During
+the measurement, the animal was fixed in a rigid platform and kept in
+the supine position (Fig. 1C). The reason for having the rats in a supine
+position was that it allowed access to midline cervical structure for
+MCAO surgery without perturbing the DOT measurement, and it allowed
+investigators to keep the locations of optodes unchanged throughout the
+entire period of the experiment. During the measurements, the rats were
+anesthetized with isoflurane (2–2.5%) in 80% air and 20% O
+2
+.Bodytemperature
+was monitored by a rectal probe and was maintained by a
+heating pad between 36.5 °C and 37 °C. Physiological parameters including
+heart rate, breath rate, and arterial oxygen saturation were measured
+and monitored by a pulse oximeter (MouseOx, STARR Life Sciences Corp.,
+MN, USA). Multi-channel NIRS data recorded by DYNOT were preprocessed
+for each source–detector pair measurement. A band-pass filter
+, with corner frequencies between 0.01 and 0.3 Hz, was applied to remove
+the high-frequency instrument noise and low-frequency baseline
+drift.
+Experimental design to study ischemic stroke in rats
+Based on how the ischemic stroke was generated, our experimental
+protocols were divided into two major groups: G-I was for the sutureinduced
+ischemic model and G-II for embolism-induced ischemic model.
+For both models, an ICG-tracking method was also utilized to study
+reduction of CBF due to focal cerebral ischemia. ICG powder (Sigma-
+Aldrich Co. LLC, St. Louis, Mo) was dissolved and diluted with saline,
+having a dosage of 1 mg/kg, approximately 0.4 mg per rat. ICG solution
+was further separated into eight small volumes for multiple injections
+through the femoral vein at eight different time points during the entire
+experiment (seeFig. 2). For ICG injection, a catheter was replaced or imbedded
+(Fig. 1D) into the rat's cervical skin incision to minimize the
+leakage of ICG solution.
+To determine the inter-injection period for ICG, we performed
+ICG kinetics measurements on normal rats (n = 3). For each rat,
+the ICG solution with an appropriate concentration was injected
+three times every 30 min. We observed that the recovery time between
+the injection onset and the time when the optical signals
+returned to the pre-injection level was 2.2 ± 0.6 min. Based on
+this result, the inter-injection period was selected to be 10 min,
+which allows enough time for ICG to be cleared from the animal's
+blood stream.
+It is also noteworthy that the NIRS measurements of absorption
+would be interfered by ICG injections. In order to study the effect of
+ICG injections on the measured changes of hemodynamic signals
+during cerebral ischemia, we compared the hemodynamic measurements
+between two sub-groups that were with and without
+ICG injection. This comparison was carried out using only sutureinduced
+ischemic rat models. The two sub-groups are described
+as follows.
+1. G-I
+no-ICG
+(n = 9): In rats selected for MCAO surgery, the left MCA
+was occluded by silicon-coated suture for 60 min. followed by reperfusion
+after smoothly withdrawing the suture. The NIRS measurements
+were not perturbed by ICG injection.
+2. G-I
+ICG
+(n = 6): Rats selected for this procedure underwent MCAO
+surgery with the same procedures as that used in G-I
+no-ICG
+. ICG solution
+was injected at the following time points: 30, 40, and 50 min
+after the suture was introduced, 10 min after withdrawal of the suture
+, and every 10 min thereafter for 1 h.
+Furthermore, 12 rats were used for the embolism-induced ischemia
+study. Six rats were treated with rtPA, while the other six rats were used
+as a control group, receiving a saline injection instead. These two subgroups
+are described as follows.
+Fig. 1.(A) Embolism-induced MCAO. Clots (indicated by arrow) were delivered by catheter
+and stayed at MCA bifurcation.(B) Optode geometry for CW-DOT measurements, including
+a total of 20 bifurcatedfibers. (C) Photograph of experimental setup: It shows that the rat
+was kept in a supine position and several bifurcated fibers (indicated by white arrow)
+were placed vertically beneath the animal to contact the rat's scalp. (D) Catheter was
+implemented in femoral vein for ICG injection.
+568 Z.-J. Lin et al. / NeuroImage 85 (2014) 566–582
+(TRIAL PDF Extractor SDK 8.0.0.2542-1747906455)
+[Link]
+image of Fig. 2
+1. G-II
+ICG_no-rtPA
+(permanent cerebral ischemia, control group; n = 6):
+Rats underwent MCAO surgery; the left MCA was occluded by embolic
+clots for 60 min. Saline was administrated for 30 min after
+one hour occlusion. ICG solution was also injected at 30, 40, and
+50 min after embolization, 10 min after saline administration, and
+every 10 min thereafter for 1 h.
+2. G-II
+ICG_rtPA
+(temporary cerebral ischemia, treatment group; n = 6):
+Rats were similarly prepared as G-II
+ICG_no-rtPA
+but rtPA was administrated
+for 30 min after 60 min of embolic MCAO. Time points for ICG
+solution injections were the same as those used for G-II
+ICG_no-rtPA
+for
+appropriate comparison.
+All four sub-groups representing these experimental protocols are
+depicted or outlined inFig. 2.
+Rat head model and forward light modeling
+In order to accurately model light propagation in a realistic rat brain,
+high-quality co-registration of the optical optodes on a rat brain atlas or
+template was essential. Based on a 3D rat head atlas (Fig. 3A) generated
+by T2-weighted MRI (Valdes-Hernandez et al., 2011), we identified the
+boundaries of three main regions of interest (ROI), namely, the skin/
+muscle, skull, and brain, respectively, and further segmented them
+Fig. 2.Schematic drawingsto showmeasurementprotocolsusedforthe suture-induced ischemicmodel: (A)G-I
+no_ICG
+withoutICG,(B) ICG with G-I
+ICG
+; forthe embolism-induced ischemic
+model: (C) G-II
+ICG_no_rtPA
+and G-II
+ICG_rtPA
+without and with rtPA treatment. The X-axis is plotted, but not in scale.
+569 Z.-J. Lin et al. / NeuroImage 85 (2014) 566–582
+(TRIAL PDF Extractor SDK 8.0.0.2542-1628418847)
+[Link]
+http://iso2mesh.sourceforge.net/cgi-bin/index.cgi
+[Link]
+http://iso2mesh.sourceforge.net/cgi-bin/index.cgi
+[Link]
+image of Fig. 3
+using multi-level Otsu's thresholding technique (Liao et al., 2001). Each of
+the segmented 2D images was stacked in sequence together to form a 3D
+volume model as shown inFigs. 3BtoD.Volumetricfinite element model
+(FEM)meshes( Fig. 3E) were then generated by using a MATLAB-based
+mesh generator, iso2mesh (http://iso2mesh.sourceforge.net/cgi-bin/
+index.cgi). This FEM of a rat head contained 16,118 nodes, corresponding
+to 96,389 linear tetrahedral elements. Each node was belonged to and
+thus labeled by one of the three ROIs; the node locations were assigned
+specific tissue optical properties (Bluestone et al., 2004a). Accordingly,
+the absorption coefficients were 0.02 mm−1 for the rat skin/muscle,
+0.005 mm−1for the rat skull, and 0.015 mm−1for the rat brain. The corresponding
+reduced scattering coefficients were 0.68 mm−1 for the rat
+skin/muscle, 2.2 mm−1for the rat skull, and 2.2 mm−1for the rat brain
+(Bluestone et al., 2004a).
+Next, we needed to achieve a geometric transformation of the rat
+head coordinates so that the optode locations measured in the realworld
+coordinates could be read and projected on the MRI coordinates.
+To do so, we selected four landmarks on the rat head (i.e., the outlet
+points of the external auditory meatus and the centers of two eyeballs,
+as marked by four arrows inFig. 1B) as references to compute the transformation
+matrix, W.Speci fically, the optode locations in a real-world
+(RW) coordinates system were measured by a 3D Patriot™ digitizer
+(Polhemus Inc., Colchester, VT) (Cazzell et al., 2012). Using the coordinates
+of the rat's eyes and ears as reference points, the affine transformation
+matrix Wwas obtained by:
+P
+MRR
+¼WP
+RWR
+ð1Þ
+and
+P
+RWR
+¼
+x
+RW
+eyel
+y
+RW
+eyel
+z
+RW eyel
+1
+x
+RW
+eyer
+y
+RW
+eyer
+z
+RW eyer
+1
+x
+RW
+earl
+y
+RW
+earl
+z
+RW earl
+1
+x
+RW
+erarr
+y
+RW
+earr
+z
+RW earr
+1
+2
+6
+6
+4
+3
+7
+7
+5;
+P
+MRR
+¼
+x
+MR
+eyel
+y
+MR
+eyel
+z
+MR eyel
+1
+x
+MR
+eyer
+y
+MR
+eyer
+z
+MR eyer
+1
+x
+MR
+earl
+y
+MR
+earl
+z
+MR
+earl
+1
+x
+MR
+erarr
+y
+MR
+earr
+z
+MR
+earr
+1
+2
+6
+6
+4
+3
+7
+7
+5
+ð2Þ
+where P
+RWR
+represents the reference coordinates matrix for the
+animal's eyes and ears measured by the 3D digitizer using the real
+world (RW) coordinate system, andP
+MRR
+represents the reference coordinates
+of the same four points in the MRI (MR) coordinate system. The
+subscripts ‘r’and ‘l’represent right side and left side, respectively.
+After the transformation matrix, W, was obtained through
+Eqs. (1) and (2), the optode locations matrix measured by the digitizer
+and expressed in the RW coordinates, P
+RWO
+, was then ready to
+be projected onto the surface in the 3D (MRI) rat head model, as
+written by:
+P
+MRO
+¼WP
+RWO
+ð3Þ
+whereP
+MRO
+represents the coordinates of the optodes in the rat head
+model given by the MRI coordinates system. After affine transformation
+, the optode coordinates in Z axis were quite close to the surface
+of the animal head model, but not exactly located on the surface in
+most cases. In order to ensure projection of the optodes on the
+animal's head surface, the norms of closest surface patches were calculated
+and optodes were then projected along the averaged norm of
+those patches (Fig. 3F).
+Next, forward calculation to model light propagation in the rat
+head was performed using a FEM-based MATLAB package, NIRFAST
+(Dehghani et al., 2008), to obtain the Jacobian matrix (also called the
+sensitivity matrix) J, which represents changes of measured signals on
+the boundary due to a small absorption perturbation within the
+interrogated volume by the corresponding optode pair. Using the
+Rytov approximation (Arridge, 1999), the forward problem for light
+traveling inside the rat head model can then be written as:
+Δy ¼ J
+rh
+Δx; ð4Þ
+whereΔyrepresents a single-column (n × 1) matrix with each matrix element
+equal to a change in optical density [OD =log( I
+source
+/ I
+measured
+)],
+as expressed by Δy =( ΔOD
+11
+, ΔOD
+21
+,…, ΔOD
+m1
+,…ΔOD
+n1
+)T.Notethat
+m covers every combination of source–detector pairs that could be
+formed through the measurement optode array. Specifically, given the
+4 × 5 optode array shown in Fig. 1B, matrix Δy in this study had a
+row dimension of matrix to be m
+max
+= n = 380. Each element of Δy
+(i.e.,ΔOD
+m,1
+) wasobtained bycalculating the change inODatthe selected
+source–detector pair ofmdue to focal cerebral ischemia with respect
+to the initial baseline, as written mathematically by
+ΔDOD
+m;1
+¼ OD
+ischemia
+−OD
+baseline
+¼ log I
+source
+=I
+measured
+ischemia ð Þ ½  −log I
+source
+=I
+measured
+baseline ð Þ ½  
+¼ log½I
+measured
+baseline ð Þ =I
+measured
+ischemia ð Þ :
+Fig. 3. (A) T2-weighted MR image of a rat head (Valdes-Hernandez et al., 2011). Isosurface figures of segmented rat head tissues showing (B) skin/muscle, (C) skull (coded
+as yellow), and (D) brain (coded as light blue). (E) 3Dfinite element meshes with three
+ROIs, including skin/muscle, skull, and brain. (F) Optodes projection on 3D reconstructed
+rat head volume.
+570 Z.-J. Lin et al. / NeuroImage 85 (2014) 566–582
+(EVAL PDF Extractor SDK 8.0.0.2542-5396979)
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2013.07.020
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2013.07.020
+J
+rh
+is the Jacobian matrix derived from the rat head model, previously
+described herein. Δx represents a matrix of changes in absorption at
+each node within the 3D rat head coordinates system.
+Image reconstruction and depth compensation algorithm
+To recover the change of absorption at each node, the inverse problem
+was solved using Moore–Penrose generalized approach (Arridge,
+1999) with Tikhonov regularization:
+Δx ¼ J
+T
+rh
+J
+rh
+J
+T
+rh
+þλI
+  
+−1
+Δy ð5Þ
+where λ is the regularization factor and was chosen as 10−2 times the
+maximum of diagonal of the matrix J
+rh
+J
+rh
+T ,andI is the identity matrix.
+In this study, we applied our recently developed depth compensation
+algorithm (DCA) to improve accuracy of depth localization. The details
+can be found in (Niu et al., 2010a, 2010b) and is briefly described
+here. To increase the depth sensitivity, the weighting matrix M can be
+introduced to provide a counterbalanced increase in depth to matrix
+J
+rh
+withLlayers counted from the superficial to deep layers. Accordingly
+, themeasurementsensitivity matrixJ
+rh
+within therat headmodelcan
+be decomposed into L-layer-based sub-matrices. Then, the M matrix is
+formed as:
+M ¼ diag M J
+rh L
+ð Þ ;M J
+rh L−1
+ð Þ ;…;M J
+rh 2
+ð Þ ;M J
+rh 1
+ð Þ ð Þ ð Þ 
+γ
+; ð6Þ
+where γ is an adjustment power which varies between 0 and 3, and
+M(J
+rh
+_
+i
+) represents the maximum singular value for measurement sensitivityJ
+rh
+at theith layer, where i =1 … L. Notice that the adjustment
+power, γ, controls the compensating weight in M. A largeγvalue in M
+provides a larger weighttowards adeep layer. Inthis study, theadjusted
+sensitivity matrix J
+rh
+# is defined as J
+rh
+# = J
+rh
+M to be used in the inverse
+calculation. After replacing J
+rh
+with J
+rh
+# in the image reconstruction
+equation [i.e., Eq.(5)], the reconstructed image can be expressed as:
+Δx
+∧
+¼J
+#
+rh
+T
+J
+#
+rh
+J
+#
+rh
+T
+þλI
+  
+−1
+Δy¼MJ
+T
+rh
+J
+rh
+M
+2
+J
+T
+rh
+þλI
+  
+−1
+Δy: ð7Þ
+To implement DCA in the FEM-based rat brain atlas geometry, we
+needed to determineLto be compatible with the rat brain atlas. Numerically
+, we took the following steps in order to adapt DCA and to form
+volumetric DOT within the rat brain model:
+a. Calculate the total uncompensated sensitivity J
+rh
+totalat node nby:
+J
+total
+rh
+n
+¼
+X
+NM
+m¼1
+J
+rhm;n
+ð8Þ
+where J
+total
+rh
+n
+represents the total uncompensated sensitivity at node,
+NM is the total number of measurements (or of source–detector
+pairs), and J
+rh
+m;n
+is the uncompensated sensitivity at node n due to
+the measurement m.
+b. Find or quantify each L within the rat head atlas, group all of the
+nodes located on the scalp of the rat head model as groupΩ
+0
+and
+group the rest of the nodes below the scalp as Ω.Thencalculate
+the distance from an individual node inΩ to all of the nodes inΩ
+0
+;
+use the minimum of all these distances to define the distance between
+the respective node to the scalp. All the nodes having an
+equal distance to the rat scalp facilitates a layer within the rat head
+model to be used in DCA.
+c. Divide the distances into different depths with respect to the surface
+of the head model. Generate weighting matrix Mby calculating the
+maximum singular values within respective depths or layers.
+d. Modify the sensitivity matrix to beJ
+rh
+# = J
+rh
+M.
+e. Useγ = 1.2 in this study. Computation forcompensatedJ
+rh
+# will take
+10 s using a 3.30 GHz Intel i5-processor with 16 GB memory.J
+rh
+# must
+be calculated once for each rat data set at one time point and then
+applied to the entire time-varying-measurement series.
+Calculation of ICG kinetics and data analysis
+The two wavelengths (760 nm and 830 nm) used in the DOT measurements
+were all close to the maximal absorption spectral peak of
+ICG; thus, we selected the optical signals measured at 760 nm for
+reconstructing images associated with ICG concentrations. From each
+temporal or longitudinal measurement set per animal, a time series of
+volumetric reconstructed images proportional to the ICGconcentrations
+were obtained. ICG kinetics was then achieved by extracting the signals
+from each voxel alongthetimeaxis. Specifically,theoptical signals were
+first corrected or calibrated to the 5-s pre-injection baseline level and
+then de-trended to remove any signal drift due to either the instrument
+drift or slow hemodynamic drift in the rats during and/or after MCAO.
+To quantify the ICG kinetics, several parameters were defined and determined
+as follows (Kuebler et al., 1998).
+1. Maximum changes of ICG concentration (∆ICG): For most of NIRS
+measurements, HbO
+2
+and HbR are two major chromophores, which
+contribute to changes in optical signals. In this study, nevertheless,
+ICG was also utilized to study CBF or its index during and after
+MCAO. Note that we could not obtain the absolute concentration
+changes of ICG due to the limitation of used wavelengths for measurement.
+However, we observed significantly large changes or increases
+in optical density (more than 10-fold) right after ICG
+injectionin theanimals ascompared tothefluctuationsof optical signals
+caused by changes of HbO
+2
+and HbR concentration. Hence,
+changes of optical density (∆OD
+ICG
+) were de fined as∆ICG in this
+study (seeFig. 4).
+2. Rise time (RT): RT is defined as the time interval when∆OD
+ICG
+increased
+from 10% to 90% of maximum∆ICG,∆ICG
+max
+; this definition
+could avoid the exact temporal selection of start point of ICG bolus.
+3. Bloodflow index (BFI):BFIshould be defined as:
+BFI ¼
+ΔICG
+RT
+: ð9Þ
+As described in Image reconstruction and depth compensation
+algorithm section, changes in light absorption (due to either ischemia
+or ICG administration) can be reconstructed at each voxel or
+node in the rat head model. This allows one to reconstruct tomographic
+images of ∆OD
+ICG
+at different time points when ICG is
+injected. Accordingly, volumetric ICG kinetic images are generated
+by calculating the corresponding values of∆ICG, RT,andBFI, at each
+voxel or mesh node.
+4. In general,BFIis directly proportional to CBF. However, several studies
+have also reported that BFI can provide accurate, repeatable results
+only for intra-subject comparisons, but not for inter-subject
+comparisons because of the unknown proportionality or normalization
+factor amongdifferentanimals (Wagner et al., 2003). Thus,averaging
+individual BFI values across subjects or animals need
+validation. In order to remove subject-dependent variation, we
+introduced a BFI ratio, Ratio
+BFI
+, which computes the ratio between
+two spatially-averaged BFI values within ROI-2 and ROI-1 for each
+individual rat. Mathematically, RatioBFI ¼
+BFI
+s averaged ROI−2
+BFIs averaged ROI−1
+, where 
+BFI
+s _ averaged _ ROI− 1
+and BFI
+s _ averaged _ ROI− 2
+are spatially averaged
+over each voxel or node within entire regions of ROI-1 and ROI-2, respectively
+, for each animal. We then averaged theBFIratios across all
+rats and calculated a group mean of Ratio
+BFI
+for each time point (see
+Inline Supplementary Fig. S1).
+Inline Supplementary Fig. S1 can be found online at http://dx.doi.
+org/10.1016/j.neuroimage.2013.07.020.
+571 Z.-J. Lin et al. / NeuroImage 85 (2014) 566–582
+(PDF Extractor SDK TRIAL VERSION)
+[Link]
+image of Fig. 4
+Interleaved data acquisition and volumetric images for hemodynamics and
+BFI
+While the data collection in our animal experiments by the
+multi-channel DYNOT system was temporally continuous before,
+during, and after MCAO, two different types of optical density
+changes (ΔOD), which reflected two types of physiological signals
+, were acquired in an interleaved format. In general, ΔOD
+values at a selected wavelength in our rat MCAO measurement
+should be equal to ΔOD
+total
+=ΔOD
+ICG
++ΔOD
+no-ICG
+, where ΔOD
+ICG
+andΔOD
+no-ICG
+representΔODvalues with and without ICG administration
+in the animal. As mentioned in Experimental design to study
+ischemic stroke in rats and Calculation of ICG kinetics and data analysis
+sections, the clearance time of ICG in the animal was about 2.2 ±
+0.6 min, while an increase in ΔOD by ICG could be 10-fold or bigger
+right after ICG injection in the animals. Therefore, we designed an interleaved
+approach to obtain two phases of data selection/acquisition: One
+was to grasp theΔOD values within 3–4 min right after ICG injection so
+thatΔOD
+total
+≈ ΔOD
+ICG
+; the other was to pick up the optical signals
+five minutes after ICG administration so that ΔOD
+total
+≈ ΔOD
+no-ICG
+since most of ICG was cleared from the rat blood stream by then.
+The former phase measurement during ΔOD
+total
+≈ ΔOD
+ICG
+allowed
+us to determineBFIreadings as described inCalculation of ICG kinetics
+and data analysis section, while the latter phase measurement
+during ΔOD
+total
+≈ ΔOD
+no-ICG
+resulted in quantification of HbO
+2
+,
+HbR, and HbT.
+Specifically, the interleaved protocol is shown inFig. 2.Forhemodynamic
+signal (HbO
+2
+, HbR, HbT) analysis in all four animal groups
+(i.e., G-I
+no-ICG
+, G-I 
+ICG
+, G-II
+ICG_no_rtPA
+, and G-II 
+ICG_rtPA
+), we selected
+the data at specific time windows: 15 min after suture was introduced,
+followed by every 10 min thereafter until either the suture was withdrawn
+or rtPA/saline was administered. Note that for G-II (i.e.,
+embolism-induced MCAO) an extra period of 30 min was added one
+hour after MCAO to infuse the rtPA/saline solution for 30-min thrombolytic
+/sham treatment (seeFig. 2). On the other hand, forBFIdata acquisition
+in three groups (i.e., G-I
+ICG
+, G-II
+ICG_no_rtPA
+,andG-II
+ICG_rtPA
+), ICG
+solution was injected 30, 40, and 50 min after the MCAO was introduced
+, 10 min after suture withdrawal or rtPA/saline infusion, and
+every 10 min thereafter for 1 h (see Experimental design to study
+ischemic stroke in rats section and Fig. 2). Note that a time interval of
+5 min was given between the ICG injection onset and data grasp for hemodynamic
+signals in order tominimizethe crosstalk betweenchanges
+in hemoglobin concentrations and the early phase of ICG clearance.
+Statistical consideration
+All data were expressed as mean ± SD (standard deviation). The
+significance of differences between group means was determined
+using Student's paired t-test. The relationship of hemodynamic changes
+between G-I
+no-ICG
+and G-I
+ICG
+for each HbO
+2
+,HbR,andHbTatthesame
+time points throughout the entire experiment (before, during, and
+after MCAO) was examined by Pearson product–moment correlation.
+Any pvalue less than 0.05 was considered significant.
+Results
+Volumetric DOT measurement sensitivity (MS) shown on a rat brain atlas
+Considering the volumetric distributions of DOT sensitivities, we
+compared the depth-compensated and depth-uncompensated measurement
+sensitivities (MS), namely, J
+rh
+# versus J
+rh
+, within cortical
+(shown by yellow isosurface in Fig. 5A) and subcortical (shown by
+gray isosurface in Fig. 5A) areas. Moreover, since the distributions of
+MS depend highly on the arrangement of optodes, we chose three coronal
+cross sections to see volumetric sensitivity distributions, asmarked
+by three dashed lines inFig. 5B: ~2 mm above the bottom row (crosssection
+I), central line (cross-section II), and ~2 mm below the top
+row (cross-section III) of the optode array, respectively. Figs. 5CandD
+depict the corresponding coronal views of spatial distributions of uncompensated
+and compensated MS. Both sets of these figures reveal
+that the cortical and upper subcortical areas/volumes (red colored)
+have a MS higher than MS
+high
+(MS
+high
+=50%S
+max
+,whereS
+max
+is the
+maximum sensitivity). Without using DCA,Fig. 5Cshowsthatapproximately
+one-third of the cross-sectional cerebral area has a MS lower
+than MS
+low
+(MS
+low
+=10%S
+max
+), mainly located at the bottom of the
+subcortical area. After utilizing DCA, Fig. 5D illustrates that almost all
+the cortical and subcortical areas/volumes have a MS above MS
+medium
+(MS
+medium
+=25%S
+max
+),demonstrating improved MS indepth for imaging
+deeper tissues.
+Rat brain atlas-guided DOT images of cerebral hemodynamics in ischemic
+rats
+Using the procedures given in Rat head model and forward light
+modeling and Image reconstruction and depth compensation algorithm
+sections,wewereabletoobtainvolumetricDOTimagesreconstructed
+on a rat brain atlas for studying cerebral hemodynamics in ischemic
+stroke rats. Fig. 6A demonstrates reconstructed images from G-I
+no-ICG
+rats during MCAO. The upper row of Fig. 6Ashowstheisosurfaceplots
+or 3D rendered rat brains with changes in oxygenated (ΔHbO
+2
+), deoxygenated
+(ΔHbR), and total hemoglobin (ΔHbT) concentrations, averaged
+across nine rats, at ~30 min after MCAO. The bottom row illustrates
+reconstructed tomographic images of ΔHbO
+2
+, ΔHbR and ΔHbT sliced
+along a coronal view, as marked by the thick line across the center of
+the probe array in Fig. 6B. The areas shown correspond to the middle
+cerebral artery (MCA) territory. The isosurface plots inFig. 6A reveal decreases
+ofΔHbO
+2
+andΔHbT and increases inΔHbR during MCAO. These
+plots also demonstrate that major hemodynamic changes occurred on
+the outer side of the left hemispheres, which matched well near the
+MCA territory. The volumetric DOT results were confirmed by histological
+analysis [2,3,5-triphenyltetrazolium chloride (TTC) staining] of this
+suture-induced stroke rat model as shown in Fig. 6C. Furthermore, the
+coronal views of these images exhibit that major hemodynamic changes
+took place on the left (or ipsi-lateral) side of cortical as well as subcortical
+regions. Our observation is consistent with a review report (Carmichael,
+2005), which documented that most of the animal stroke models produce
+substantial damages to many different brain regions, including
+those seen in Fig. 6.
+Fig. 4.Change of opticaldensity after injection of (ICG).Bloodflow index (BFI)iscalculated
+using the maximal light absorption change after intravenous bolus injection of ICG. Rise
+time is defined by the temporal interval when the optical signal reaches its 90% maximum
+from its 10% maximum.
+572 Z.-J. Lin et al. / NeuroImage 85 (2014) 566–582
+(8.0.0.2542.1892632611 PDF Extractor SDK TRIAL VERSIOn)
+[Link]
+image of Fig. 5
+[Link]
+image of Fig. 6
+Changes of cerebral hemodynamics in suture-induced ischemic stroke
+model
+To further investigate the hemodynamic changes during MCAO and
+reperfusion, we compared the reconstructed DOT images between the
+ischemic and non-ischemic side of the rat brain. Two regions of interest
+(ROIs) within the reconstructed images were chosen and located on the
+outer right side (ROI-1, contralateral control region) and outer left side
+(ROI-2, ipsilateral ischemic region) of the rat brain, as shown in Fig. 7
+with correct dimensions and locations marked.
+Temporal and spatial analysis
+For temporal data analysis, all the FEM-based mesh nodes located
+within the two ROIs were extracted; the corresponding reconstructed
+parameters (e.g.,ΔHbO andΔHbR) were spatially summed and averaged
+at each time point for each rat followed by a grand average over nine rats.
+Quantitative time traces of hemodynamic changes from these ROIs at different
+time periods are plotted in the top panel ofFig. 8.FromFig. 8A, we
+observed a significant decrease inΔHbO
+2
+in ROI-2 while the suture was
+introduced (0 min at start of occlusion). In the meantime, a dramatic increase
+ofΔHbR could be seen at the start of occlusion (Fig. 8B). As the suture
+was withdrawn one hour after MCAO, bothΔHbO
+2
+andΔHbR values
+returned gradually toward the pre-MCAO baseline. However, both
+ΔHbO
+2
+andΔHbR did not completely recover to the pre-surgery baseline.
+Regarding the non-ischemic side of the rat brain in ROI-1, smallfluctuations
+were found in bothΔHbO
+2
+andΔHbR, but there was no statistical
+significance in either of them as compared to the pre-surgery baselines,
+respectively.
+Furthermore, statistical analysis was taken to compare respective
+hemodynamic parameters (i.e., ΔHbO
+2
+, ΔHbR, ΔHbT) between the
+two ROIs at selected time points (15 min right after MCAO, followed
+by every 10 min thereafter), as marked in the top panel of Fig. 8.The
+analysis results suggest that there exist significant differences in
+ΔHbO
+2
+andΔHbR between the two ROIs during both periods of occlusion
+and reperfusion, respectively. Fig. 8CshowsthatΔHbT in ROI-2
+exhibited a similar trend to ΔHbO
+2
+; however, there was no statistical
+difference in ΔHbT between the two ROIs at respective time points,
+nor between the pre-MCAO baseline andΔHbT signals before, during,
+and after MCAO surgery for each ROI.
+For spatialdata analysis, the bottom panel ofFig. 8shows three characteristic
+, time-evolving coronal images averaged over nine rats before,
+during, and after MCAO (i.e., baseline, 35 min and 95 min after the suture
+was introduced). Coronal images were sliced along the location
+marked in Fig. 6B. This set of coronal images consistently reveals that
+ROI-2 had a much greater decease in ΔHbO and an increase in ΔHbR
+throughout most of ROI-2 during MCAO, and that the recoveries in
+both parameters started to occur after the suture was removed; however
+, recoveries were only partial within ROI-2.
+Influence of ICG injection on hemodynamic signals
+To investigate possible interference on changes of hemodynamic signals
+from ICG injection, we compared hemodynamic changes taken from
+both animal groups of G-I
+no-ICG
+and G-I
+ICG
+. Quantitative hemodynamic
+changes from these two groups were analyzed using the same procedures
+as described above. The time points chosen to quantify temporal
+hemodynamic signals were interleaved with the time points for ICG administration
+(seeInterleaved data acquisition and volumetric images for
+hemodynamics and BFI section), so the inference from ICG absorption
+should be minimal. Pearson's correlation coefficients between the two
+groups (i.e., with and without ICG administration) were calculated
+for ΔHbO
+2
+, ΔHbR, and ΔHbT, respectively, throughout the entire time
+course and are shown in Fig. 9. The results demonstrate good positive
+correlations between G-I
+no-ICG
+and G-I
+ICG
+within ROI-2 in ΔHbO
+2
+(r =
+0.92; p b 0.001), ΔHbR (r = 0.90; p b 0.001) and ΔHbT (r = 0.84;
+p b 0.001), as listed in Table 1. Relatively low correlations appear between
+the two groups within ROI-1 for all three parameters (r = 0.52
+for ΔHbO
+2
+, 0.54 for ΔHbR, and 0.27 for ΔHbT; p N 0.05; see Table 1
+too). We do not expect a high correlation ofΔHbO
+2
+andΔHbR between
+G-I
+no-ICG
+and G-I
+ICG
+in ROI-1 since ROI-1 was the no-injury side and had
+no consistent pattern of hemodynamic changes observed from each
+rat. Also, relatively small hemodynamic fluctuations were found
+throughout entire measurements, but the changes were not significant
+as compared to the pre-MCAO baseline as shown in Fig. 8. Overall, the
+Fig. 5.(A) 3D rendered plot of cortical (yellow) and subcortical (gray) region of cerebrum.
+The distributions of different threshold levels of measurement sensitivities at three coronal
+locations, as marked in (B), while DCA was not (C) or was (D) applied.
+Fig. 6.Volumetric hemodynamic images reconstructed to show the rat brain at ~30 min
+after MCAO. (A) Upper row displays the 3D rendered brain ofΔHbO2,ΔHbR and ΔHbT,
+and lower row shows the respective coronal views at a selected cross-section as sliced
+and marked in (B). (C) 2,3,5-Triphenyltetrazolium chloride stain of the infarct region in
+a coronal view.
+573 Z.-J. Lin et al. / NeuroImage 85 (2014) 566–582
+(PDF Extractor SDK TRIAL VERSION)
+[Link]
+image of Fig. 7
+[Link]
+image of Fig. 8
+analysis on cerebral hemodynamic changes in the two animal groups
+with and without ICG injection confirmed that the injection of ICG did
+not significantly affect changes of hemodynamic signals.
+Changes of cerebral hemodynamics in embolism-induced ischemic stroke
+model
+The top panel inFig. 10shows the quantitative time traces of hemodynamic
+changes from two embolism-induced ischemia animal groups
+of G-II
+ICG_no-rtPA
+(control group, n = 6) and G-II
+ICG_rtPA
+(treatment
+group, n = 6). After using the same data analysis procedures as given
+in Temporal and spatial analysis section, we clearly see that the
+embolism-induced MCAO caused decreases ofΔHbO
+2
+on the ischemic
+side of the rat brain (ROI-2) after embolization in both groups (down
+to−5.2 ± 1.1 μM in G-II
+ICG_no-rtPA
+and−4.7 ± 1.3μMinG-II
+ICG_rtPA
+),
+while increases of ΔHbR also occurred (up to 4.8 ± 1.2μM in 
+G-II
+ICG_no-rtPA
+and 3.7 ± 1.2 μMinG-II
+ICG_rtPA
+). Further statistical analysis
+on temporal profiles revealed that in ROI-2, there existed significant differences
+inΔHbO
+2
+(see Fig. 10A) andΔHbR (see Fig. 10B) between the
+pre-MCAO and post-MCAO readings during the three periods of occlusion
+, treatment, and reperfusion, respectively, for both treated and
+untreated groups. In ROI-1, on the other hand, there was no statistically
+significant change ofΔHbO
+2
+(see Fig. 10A) andΔHbR (see Fig. 10B) between
+pre- and post-MCAO signals.
+In particular, for rtPA-treated rats, we found a trend of signal increases
+in ΔHbO
+2
+(from −4.9 ± 1.3 μM to −3.3 ± 1.1 μM; see
+Fig. 10A) and a trend of signal decreases in ΔHbR (from 3.4 ±
+1.4 μMto2.2± 0.8μM; see Fig. 10B) in ROI-2 15 min after completion
+of rtPA administration; these trends of recovery continued
+throughout the entire reperfusion period. For untreated animals,
+however, there was no significant change before and after injection
+of saline in bothΔHbO
+2
+andΔHbR signals. During the recovery period
+, we especially noticed that within 45 min and 55 min of completed
+rtPA infusion, respectively, ΔHbR and ΔHbO
+2
+started to
+show statistically significant differences between treated and
+untreated animals, as marked in Fig. 10A. While a similar tendency
+of ΔHbT to increase after rtPA infusion was noted in the treated
+group,ΔHbT remained no significant changes between the treated
+and untreated groups over the entire experimental period. No significant difference was seen between pre- and post-MCAO surgery
+either.
+For spatial data analysis, the two bottom panels of Fig. 10 show
+three characteristic, time-evolving coronal images averaged over
+six rats at time points before and during MCAO (i.e., baseline
+and 35 min after embolism was introduced), as well as 35 min
+after the 30-min rtPA/saline treatment. Images were sliced
+Fig. 7.Left panel: Two regions of interest (ROIs) within the rat brain and their corresponding
+dimensions. ROI-1 is located in the contralateral control hemisphere, while ROI-2 represents
+the ipsilateral ischemic hemisphere. Right panel: The coronal view of two ROIs.
+Fig.8.Upper row shows the time tracers of (A)ΔHbO2,(B)ΔHbR and (C)ΔHbT in two ROIs for protocol G-Ino-ICG. Every data point is presented as mean ± SD (standard deviation). Bottom row
+shows the respective coronal views of reconstructed images sliced across the center of the probe array, as marked in Fig. 6B, during three representative time points: baseline (t = 0 min),
+during occlusion (t = 35 min), and after reperfusion (t = 95 min), respectively. On the bottom left corner of thefigure, two ROIs are replotted from Fig. 7 for easy ROI recognition.
+574 Z.-J. Lin et al. / NeuroImage 85 (2014) 566–582
+(EVALUATION PDF Extractor SDK 8.0.0.2542.801163455)
+[Link]
+image of Fig. 9
+across the center of optode array as shown in Fig. 6B. This set of
+coronal images consistently reveals that the treated animal
+group had a much better improvement than the untreated
+group in both ΔHbO
+2
+and ΔHbR recovery 45–60 min after rtPA
+administration, throughout most of ROI-2. However, within this
+period of time, the recoveries in both parameters were only partial
+within ROI-2.
+Spatial distribution maps of ICG kinetics
+Based on Fig. 4 and Eq. (9),wewereabletoquantifyvaluesof
+∆ICG, RT and thus BFI at each FEM-mesh-based node. We were
+then able to form volumetric images of respective ICG kinetic parameters
+after obtaining 3D reconstruction of DOT. Fig. 11 shows
+coronal views, close to the middle of the animal brain (as marked
+in Fig. 6b), of averaged spatial distribution maps of∆ICG, RT and
+BFI from normal rats without any occlusion (n = 6) and the rats
+(n = 6) during embolism-induced MCAO. These spatial maps
+were smoothed using 3 × 3 uniform kernels. Fig. 11Ashowsarelatively
+symmetric pattern between the two hemispheres in each
+of the ∆ICG, RT and BFI images/maps. Compared to Fig. 11A,
+Fig. 11Bshowsalower∆ICG distribution over the entire ischemic
+(left) side of rat brain due to the lack of ICG delivery caused by
+MCA occlusion. Moreover, the RT map displays increases in the
+transit time of ICG on the ischemic side of hemispheres during occlusion.
+No such differences between the two hemispheres can be
+observed in normal rats. Accordingly, the spatial maps of BFI also
+indicate decreases of cerebral blood flow on the ischemic side of 
+the rat brain.
+ICG kinetics in suture-induced ischemic model
+To calculate time-evolving dynamic changes of BFI throughout the
+entire measurements before, during and after the suture-induced
+MCAO, we obtained the spatial BFI maps at the chosen coronal plane
+(see Fig. 6B) at different time points for each of the G-I
+ICG
+rats and
+then normalized their BFI maps individually between their respective
+maximum and minimum values. Values of normalized BFI were
+extracted at each node and spatially averaged, respectively, within
+ROI-1 and ROI-2 (as defined in Fig. 7). As mentioned in Calculation of
+ICG kinetics and data analysis section, it is not appropriate to make
+intra-subject comparisons of BFI because of unknown normalization
+factors among different animals (Wagner et al., 2003). Thus, we introduced
+the BFI ratio, Ratio
+BFI
+,as
+BFI
+s averaged ROI−2
+BFI
+s averaged ROI−1
+,whereBFI
+s _ averaged _ ROI− 1
+and BFI
+s _ averaged _ ROI− 2
+are spatially averaged over each voxel or node
+within entire regions of ROI-1 and ROI-2, respectively, for each animal.
+Based on this definition, we obtained a temporal profile (top panel of
+Fig. 12)ofRatio
+BFI
+, expressed as a relative reduction of BFI on the occlusion
+/stroke side with respect to the control side at different time points.
+For inter-subject comparison, BFI ratios at different time points for each
+rat were firstly computed and then BFI ratios across the rats were
+averaged as a group mean of Ratio
+BFI
+. To demonstrate the variability in
+Ratio
+BFI
+among rats, more detailed experimental data are given in Supplementary
+Material 1. Fig. 12 resulted from an average of six rats; it
+clearly demonstrates that much less bloodflow occurred on the ischemic
+hemisphere during MCAO, followed by a significant increase after suture
+was withdrawn, which is a clear indication of prompt recovery of blood
+reperfusion. Quantitatively, the time trace in Fig. 12 illustrates that the
+ratio of BFIs between the ischemic and normal side dropped to about
+14% (14 ± 11%) during MCAO, recovered to 77% (77 ± 12%) 10 min
+after MCAO, and then remained at an average of 79% (79 ± 13%) of BFI
+in ROI-1. The bottom panels of Fig. 12 show the corresponding spatial
+Fig. 9.Scatter plots for comparison of (A)ΔHbO
+2
+,(B)ΔHbR and (C)ΔHbT between G-I
+ICG
+and G-I
+no-ICG
+in two ROIs. The error bars in both X- and Y-axes are standard deviations.
+Table 1
+Correlation coefficients ofΔHbO
+2
+,ΔHbR, andΔHbT between G-I
+ICG
+and G-I
+no_ICG
+in ROI-1
+and ROI-2.
+ROI-1 ROI-2
+r Slope r Slope
+ΔHbO
+2
+0.52 (p = 0.59) 0.14 0.92 (p = 0.0001)⁎ 0.77
+ΔHbR 0.54 (p = 0.07) 1.09 0.90 (p = 0.0001)⁎ 0.89
+ΔHbT 0.27 (p = 0.39) 0.12 0.84 (p = 0.0007)⁎ 0.55
+r: correlation coefficient.
+⁎ p b 0.001.
+575 Z.-J. Lin et al. / NeuroImage 85 (2014) 566–582
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.1018865872)
+[Link]
+image of Fig. 10
+[Link]
+image of Fig. 11
+maps of normalized BFI ratios 30–35 min after MCAO and 30–35 min
+after reperfusion. Consistently, these two images confirm the gradual recovery
+of a spatial-symmetry pattern in Ratio
+BFI
+,whichwasseenasa
+characteristic in the BFIof normal rats (seeFig. 11A).
+ICG kinetics in embolism-induced ischemic model
+Using the same data processing approach, we analyzed ICG
+kinetics of the two embolism-induced ischemic rat models:
+namely, G-II
+ICG_no-rtPA
+and G-II
+ICG_rtPA
+. The corresponding temporal
+curves for the two animal groups are given in Fig. 13. Note 
+that rtPA was injected at 60 min after MCAO started, followed
+by a 30-min treatment period; then the first ICG injection for
+BFI measurement was administered 10 min after the treatment
+(i.e., 100 min after MCAO or 40 min after rtPA). A trend of recovery
+in BFI on the left hemisphere is revealed in this figure
+for G-II
+ICG_rtPA
+rats after rtPA administration while no obvious
+change was found for G-II
+ICG_no-rtPA
+rats after saline injection.
+Specifically, for the untreated group, the normalized Ratio
+BFI
+in
+ROI-2 (the ischemic side) dropped to 41% (41 ± 12%) with respect
+to the BFI over ROI-1 30 min after embolization followed
+by no changes thereafter. For the rtPA-treated animals, the normalized Ratio
+BFI
+from ROI-2 decreased to 34% (34 ± 12%) of the
+BFI over ROI-1 during occlusion, followed by a gradual return to
+59% (59 ± 17%) at 10 min after completion of rtPA administration
+(100 min after MCAO) and to 82% (82 ± 18%) at ~60 min
+after completion of the treatment (~150 min after MCAO). Statistical
+differences between the treated and untreated groups
+were found 30 min after completion of rtPA/saline injection; results
+remained consistent thereafter.
+Moreover, bottom left panels of Fig. 13 show the corresponding
+spatial maps of normalized BFI ratios during embolic MCAO
+for both treated (Fig. 13C) and untreated (Fig. 13B) rat groups,
+exhibiting a similar low Ratio
+BFI
+on the ischemic side. During reperfusion
+, 30 min after completion of rtPA intervention, values
+of Ratio
+BFI
+on the ischemic side of the treated rats appeared to
+gradually recover throughout the lesion region and exhibit a
+Fig. 10.Upper row shows the time tracers of (A)ΔHbO2,(B)ΔHbR and (C)ΔHbT in two ROIs for G-IIICG_no-rtPAand G-IIICG_rtPA. Every data point is presented as mean ± SD. Bottom rows show
+the corresponding coronal views of reconstructed images sliced across the center of the probe array as depicted inFig. 6B at three time points: baseline (t = 0), after embolization (t = 35 min),
+and 35 min after rtPA/saline treatment, respectively, for G-II
+ICG_no-rtPA
+and G-II
+ICG_rtPA
+. On the left bottom corner of thefigure, two ROIs are replotted from Fig. 7 for easy recognition of ROIs.
+Fig. 11.Coronal view of spatial distribution maps ofΔICG,RT,andBFIfrom (A) normal rats
+(n = 9), and (B) rats during MCAO (n = 6). Color scale forΔICGand BFI are normalized
+between their own minimum and maximum. Color inRTmaps represents time inseconds.
+576 Z.-J. Lin et al. / NeuroImage 85 (2014) 566–582
+(TRIAL PDF Extractor SDK 8.0.0.2542-1550418584)
+[Link]
+image of Fig. 12
+[Link]
+image of Fig. 13
+spatial-symmetry pattern with respect to the distribution of
+Ratio
+BFI
+on the control side (Fig. 13E). This recovery characteristic
+is very similar to that seen in the suture-induced MCAO rats (see
+Fig. 12). In contrast, saline intervention did not induce any noticeable
+changes in Ratio
+BFI
+on the ischemic side of the untreated
+rats (Fig. 13D).
+Discussion
+In this paper, we presented an experimental study of ischemic
+stroke using rat MCAO models and high-density DOT measurements.
+After utilizing DCA and co-registering the optical probes
+on a rat brain template, we were able to obtain rat brain atlasguided
+, volumetric DOT. In particular, an interleaved data acquisition
+and analysis process was planned and implemented so that
+we were able to obtain 3D visualization of hemodynamic changes
+and CBF index in the rat brain, with or without a thrombolytic
+treatment. Several special aspects of this study are summarized
+and discussed below.
+Rat brain atlas-guided, volumetric DOT
+While DOT suffers from lack of showing anatomical structures,
+we could calculate hemodynamic changes and compare corresponding
+differences between ROIs based on anatomical locations
+if MR images with prior structure information were incorporated.
+It is well known that reconstruction performances and spatial resolutions
+of DOT can be enhanced by using a priori structural information
+(Brooksby et al., 2006; Pogue and Paulsen, 1998), where
+imaging volumes can be divided into anatomical regions or contours
+, as ROIs, identified from prior images by MRI or CT. Accordingly
+, the identified ROIs can be assigned with heterogeneous
+optical properties so as to reduce the number of unknown optical
+properties in image reconstructions or in spatial constraint
+methods (Zhan et al., 2012). However, the key issue of these
+methods is that accurate subject-specific prior information needs
+to be acquired. In this study, we used the prioranatomical information
+to extract ROIs and to project reconstructed volumetric DOT
+images on a rat brain atlas. Since we did not have subject-specific
+MR images for each rat, the rat brain atlas-guided DOT matched appropriate
+anatomical locations only as a group-averaged approximation
+, but it still provided us with estimated anatomic views of
+in vivo ischemic rat brains non-invasively. Also, the image reconstruction
+process described in this study can be easily applied
+when subject-specific prior information is available.
+Arrangement of optodes may affect the measurement sensitivity
+, MS, and quality of image reconstruction. Xu et al. (2003)
+presented the improvement of sensitivity and image quality for
+deeper tissue structures by adding extra array-opposing fibers,
+which provided transmission measurements. In our animal measurements
+, fibers were placed on top of the animal's scalp, providing
+a back-reflection optode arrangement. It has also been shown
+that mathematical compensation algorithms can help greatly improve
+accuracy of depth localization for deeper tissue structures.
+Such depth compensated methods have been reported to counterbalance
+the decrease in measurement sensitivity with increase in
+depth, thus benefiting the image quality of DOT. Most of the approaches
+have been developed to image human brain activities
+(Niu et al., 2010a) or to detect human cancers (Tavakoli and Zhu,
+2011; Xu and Piao, 2012). For animal studies, on the other hand,
+Culver et al. (2003b) presented an approach using spatially variant
+regularization to monitor rat brain activation. In this study, our recently
+developed DCA was adopted to compensate the sensitivity
+loss in deeper layers and also to reduce the sensitivity on the superficial layer near the optode or measurement surface.
+Effects of baseline optical properties and mesh densities on reconstructed
+DOT images
+It is expected that different baseline optical properties lead to different
+values of reconstructed hemodynamic changes (i.e., ΔHbO and
+Fig. 12. Time tracers of BFI ratio in G-IICG. Every data point is represented as mean ± SD
+(n = 6). Bottom row shows coronal views of BFI images ~30–35 min after MCAO and
+~30–35 min after suture was withdrawn (reperfusion).
+Fig. 13. Time tracers of BFI ratio in G-II. Every data point is represented as mean ± SD.
+Bottom panels display coronal views of BFI ratio images ~30–35 min after embolization
+and ~30–35 min after rtPA (G-IIICG_ rtPA) or saline (G-IIICG_no-rtPA) treatment.
+577 Z.-J. Lin et al. / NeuroImage 85 (2014) 566–582
+( 8.0.0.2542.166371932 PDF Extractor SDK EVAL VERSION)
+ΔHbR) since the measurement sensitivity matrix, J
+rh
+, is generated accordingly
+based on baseline optical parameters (see Rat head model
+and forward light modeling section). Since a large diversity in optical
+properties of a rat head has been reported by different research groups,
+we investigated in this sub-section the degree of deviation in
+reconstructed hemodynamic parameters induced by different baseline
+optical properties, which were published by several groups. Table 2
+lists several sets of published optical properties of a rat head: Set 1
+was used earlier in this paper (see Rat head model and forward light
+modeling section and Bluestone et al., 2004a) to obtain reconstructed
+hemodynamic images due to suture-induced MCAO (Figs. 6 and 8)
+and embolism-induced MCAO with and without rtPA treatment
+(Fig. 10). The parameters of Set 2 were introduced by Pogue and
+Paulsen (1998), who noted a larger absorption coefficient in the rat
+brain tissues than that in the skin/muscle, which was a somewhat different
+trend when compared to that in Set 1. Both of these sets list
+very similar reduced scattering coefficients.
+Besides baseline optical properties, mesh distributions and densities
+may affect spatial reconstructions of hemodynamic parameters.
+To demonstrate this point, the baseline optical properties of
+a rat head in Set 3 had the same homogeneous values of absorption
+and reduced scattering coefficients, respectively, for each of the
+three layers that were seen in the three-layer model used in Sets
+1 and 2. On the other hand, Set 4 assumed only a one-layer homogenous
+model, having the same optical properties as those in Set 3
+(Schmitz et al., 2005).
+Figs. 14A to D show cross-sectionalcontours of reconstructedΔHbO
+2
+images duringcerebralischemia when four differentsets of baseline optical
+properties or mesh distributions were utilized to generate the MS
+matrix, J
+rh
+. Fig. 14A shows a more dramatic decrease in ΔHbO
+2
+near
+the upper regions (due to larger absorption and scattering properties)
+but illustrates a more uniformΔHbO
+2
+distribution in deeper/central regions
+, as compared to those in other panels.Figs. 14B to C reveal a similar ΔHbO
+2
+distribution pattern as most concentration changes are
+located on the left side of the rat brain. Fig. 14D, on the other hand,
+shows a more diffused and symmetrical/spherical pattern ofΔHbO
+2
+as
+we look into the left side of hemisphere because of its one-layer homogenous
+model.
+More quantitatively, ascompared to optical properties givenbySet 1
+used in this study, we found an averaged 38% increase inΔHbO
+2
+amplitude
+(~30 min afterocclusion within ROI-2) when Set2 was beingused,
+a 3% decrease in amplitude when Set 3 was being used, and a 34% decrease
+in amplitude when Set 4 was being used. This variation trend is
+further illustrated byFig. 14E, which was obtained by comparing the respective
+time traces of ΔHbO
+2
+from ROI-2 when using 4 sets of background
+optical properties. High correlations (r = 0.97–0.99; p b 0.05)
+are observed between theΔHbO
+2
+results with Set 1 background properties
+and those with the other three sets of background properties (see
+Fig. 14E). Overall, this analysis demonstrated that baseline optical properties
+do affect reconstructed changes in amplitudes of hemodynamic
+parameters, but they will not affect the trend of dynamic changes
+throughout the process.
+Two types of MCAO rat models
+Two rat MCAO models were measured and investigated in this
+study. The first model, where focal ischemia was carried out with
+suture-introduced intraluminal MCAO, has been well developed and
+widely used to investigate stroke physiology and intervention-related
+effects by fMRI, PET, and NIRS. Thus, we used it to validate our experimental
+setup of high-density DOT, to examine interleaved data acquisition
+and analysis process, and to confirm our volumetric reconstruction
+methodology. In this part of study, results show statistically significant
+differences as evidenced by a decrease of ΔHbO
+2
+and an increase of
+ΔHbR during the occlusion period across the injured brain side, ROI-2
+(seeFig. 8). These significant changes started within the early ischemic
+period (10–15 min after suture was introduced), followed by the recovery
+ofΔHbO
+2
+andΔHbR in the early period of reperfusion. An indicator
+of total blood volume (ΔHbT), however, did not show any statistical difference
+in its change as compared to that at the pre-surgery baseline. All
+the observations were consistent with previous publications (Culver
+et al., 2003a; Liu et al., 2008).
+A newly developed embolism-induced ischemic model, which more
+closely mimics ischemic stroke in humans than the suture model, was
+also measured and investigated in this study. In general, this embolic
+stroke model provides more precise lodgment or simulation of clots at
+MCA bifurcation, thus improving the reproducibility and similarity of ischemic
+injury. Also, treatment of ischemic stroke with rtPA has been
+well documented, which helps restore blood flow and oxygen in the
+focal stroke region affected by embolism-induced cerebral ischemia in
+both humans (Berrouschot et al., 2000) and animals ( Busch et al.,
+1998; Haelewyn et al., 2010; Jiang et al., 1998). In this study, we
+were able to demonstrate that time-evolving effects or longitudinal
+monitoring of thrombolytic therapy with rtPA could be achieved by
+non-invasive volumetric DOT using the embolic MCAO rat model. Specifically
+, the treated G-II
+ICG-rtPA
+animal group exhibited gradual recovery in
+both cerebral hemodynamics (Fig. 10) and blood reperfusion (Fig. 13),
+similar to those seen after withdrawal of the suture in the sutureinduced
+MCAO model (Figs. 8 and 12). After recanalization, however,
+the recovery of increasingΔHbO
+2
+and decreasingΔHbR were found to
+be slower as compared to those in the suture model since the process
+of clot breakdown took time, relatively much slower than withdrawing
+a suture. In order to validate our DOTresults, we also performed histology
+analysis on the post-surgery animal brains and found small
+breaking-down clots at a couple of peripheral branches of MCA, but
+only in one of the six rtPA-treated rats; however, no significant effect
+was observed when checking for changes in hemodynamic
+parameters. Both temporal and spatial results from G-II
+ICG_no-rtPA
+rats reveal
+the outcome of a permanent rat MCAO model, while the hemodynamic
+changes reconstructed from G-II
+ICG_rtPA
+animals represent
+Table 2
+Optical properties of 3-layer and 1-layer homogeneous rat head model.
+3-Layer model;μa(mm−1) 3-Layermodel; μs′(mm−1)
+Skin/muscle Skull Brain Skin/muscle Skull Brain
+Set 1 (Bluestone et al., 2004a) 0.02 0.005 0.015 0.68 2.2 2.2
+Set 2 (Pogue and Paulsen, 1998) 0.01 0.015 0.02 0.5 2.0 2.0
+Set 3 (Schmitz et al., 2005) 0.006 0.006 0.006 1.0 1.0 1.0
+Homogeneous model;μ
+a
+(mm−1) Homogeneous model;μ
+s
+′(mm−1)
+Set 4 (Schmitz et al., 2005) 0.006  1.0 
+578 Z.-J. Lin et al. / NeuroImage 85 (2014) 566–582
+(PDF Extractor SDK TRIAL VERSION)
+[Link]
+image of Fig. 14
+reversible retrieval of cerebral functions because of a timely therapeutic
+intervention, without causing obvious changes thereafter.
+Advantages of interleaved data acquisition and analysis
+One novelty of this study was to develop and achieve interleaved data
+acquisition and analysis (seeFig. 2) in order to obtain both hemodynamic
+parameters (ΔHbO
+2
+andΔHbR) and BFI, or to obtain volumetric DOT
+images ofΔHbO
+2
+,ΔHbR, andBFIduring and after ischemic stroke. Specifically
+, we determined and utilized a 10-min inter-injection interval
+based on our pilot study, which showed a rapid clearance time of ICG
+to be ~5 min or shorter in the blood stream of a living biological system
+(such as rats). Then, the measured optical density changes by multichannel
+NIRS were temporally interleaved into two categories during
+data analysis: 1) the data taken 0–5 min right after ICG administration
+was used to derive BFI;and2)thedatacollected5 –10 min after ICG injection
+gave rise toΔHbO
+2
+andΔHbR, with small interference from ICG
+absorption. This enabled us to acquire volumetric DOT images of
+ΔHbO
+2
+,ΔHbR, and BFI, before, during, and after MCAO in both ischemic
+stroke rat models.
+It is known, however, that NIRS or DOT measurements would be
+perturbed by multiple ICG injections, potentially by a small amount of
+ICG residual, thus leading to possible errors in quantification ofΔHbO
+2
+andΔHbR. To avoid such faulty outcomes,we carefully studied the effect
+of transit ICG injection on changes of hemodynamic parameters (see
+Interleaved data acquisition and volumetric images for hemodynamics
+andBFIand Influence of ICG injection on hemodynamic signalssections,
+and Fig. 9). We found that each of the hemodynamic parameters (i.e.,
+ΔHbO
+2
+, ΔHbR, and ΔHbT) are highly correlated between G-I
+no_ICG
+and
+G-I
+ICG
+on the ischemic side, indicating no significant effects due to ICG injection
+on trends of ΔHbO
+2
+, ΔHbR, and ΔHbT during and after sutureinduced
+MCAO. Also, the body-weight-proportioned ICG concentration
+was carefully calculated and diluted several times for injection; we
+expected to have minimal ICG accumulation or recirculation. There was
+one clear peak found in temporal profiles of optical density changes
+per ICG injection, but it did not affect results. De Visscher et al. (2002)
+also observed a lack of ICG accumulation or recirculation in related
+experiments.
+To investigate the reduction of CBF during cerebral ischemia, ICG-
+tracking technique was employed in our study. For a suture-induced
+MCAO model, it has been well documented that occlusion leads to a decrease
+in CBF to approximately 30% to 40% of the pre-ischemic baseline
+(Alkayed et al., 1998; Yang et al., 1994). CBF was recovered to approximate
+80% of the baseline after reperfusion (Liu et al., 2008). Our results
+exhibited thatBFIon the ischemic side dropped to approximately 14% of
+that on the control side during occlusion and then returned to 79%. In
+terms of the embolism-induced MCAO model, our study shows a
+relatively broader range of CBF drop after embolization compared to
+the suture-induced MCAO model. rtPA-mediated recanalization also
+exhibited a different range of CBF recovery. The reason could be the
+complexity of embolic model itself, e.g., length of clots, types of clot,
+etc. Our results showed that BFI on the ischemic side dropped to approximately
+34% of that on the control side in G-II
+ICG-rtPA
+after embolization
+and then returned to about 82% after rtPA treatment. The BFIratio
+decreased to 40% during the occlusion and remained stable with no significant changes after saline injection in G-II
+ICG_no-rtPA
+. Similar results
+were reported consistently byHaelewyn et al. (2010)where rats were
+only administered with saline after embolization.
+Notice that a large standard deviation is shown in our analysis and
+may be caused by the inter-subject variation. Although all procedures
+were done by a well-trained surgeon, the differences among animals
+still could not be eliminated. Notice that the BFI ratios in this study
+were calculated based on the assumption that no significant changes
+occurred on the control regions during MCAO and reperfusion for
+both rat models. Culver et al. (2003a) showed that CBF on the control
+side of animal brain remained relatively stable during occlusion and
+reperfusion in rats with the suture-induced ischemic stroke model.
+Haelewyn et al. (2010) also presented no significant changes on the
+non-ischemic side of rat brain when using the embolism-induced
+model. Although ICG-tracking techniques do not allow absolute quantification of CBF, our results demonstrated the feasibility of using
+continuous-wave NIRS measurement combined with ICG-tracking
+strategy to study the trend of dynamic changes of CBF due to cerebral
+ischemia.
+Influence of ICG on quantification of hemodynamic variables
+InInfluence of ICG injection on hemodynamic signalssection and
+Table 1, we showed that the slopes of correlations ofΔHbO
+2
+,ΔHbR,
+and ΔHbTinROI-2betweenG-I
+ICG
+and G-I
+no_ICG
+are 0.77, 0.89, and
+0.55, while the respective correlation coefficients are high (0.90,
+0.92, and 0.84). The implication of this set of results seems that readings
+ofΔHbO
+2
+,ΔHbR, andΔHbT induced by MCAO in the rat brains
+are affected by ICG injections. To examine whether an increase in
+ICG clearance time between adjacent ICG injections could help increase
+the correlation slopes between the two rat groups with and
+without ICG interventions, we computed the correlations between
+the two groups at 5, 7, and 9 min after ICG injections. Table 3 lists
+Fig. 14.Reconstructed images in coronal view ofΔHbO
+2
+from (A) to (D) are reconstructed
+by different sets of optical properties. Images (C) and (D) were obtained using the same
+optical properties but (D) was modeled with only one-layer. (E) It shows scatter plots
+for comparison of ΔHbO2 among four sets of optical properties given in ROI-2. X-axis
+marksΔHbO2values obtained by using set 1 background optical properties, while Y-axis
+labelsΔHbO
+2
+obtained by other sets of background optical properties.
+579 Z.-J. Lin et al. / NeuroImage 85 (2014) 566–582
+(PDF Extractor SDK TRIAL VERSION)
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2013.07.020
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2013.07.020
+the corresponding values for all threeΔHbO
+2
+, ΔHbR, andΔHbT parameters
+at three post-injection times. Paired t-tests were
+performed between the two groups at each of the three time points
+and gave rise to no statistically significant difference between them,
+respectively, as given in the table. Furthermore, results from oneway
+ANOVA also show no significant differences among three different
+time marks for all hemodynamic parameters (p =0.89  for
+ΔHbO
+2
+, p =0.94forΔHbR and p =0.52forΔHbT). In conclusion,
+the interference of ICG residuals was not large enough to cause a significant effect in hemodynamic changes during and after ischemic
+stroke.
+To completely minimize or eliminate the interference of ICG residuals
+, there are other approaches. First, we may reduce the concentration
+of ICG or injection volume and/or increase the interinjection
+period. However, this approach may cause decease in
+signal-to-noise ratio for ICG kinetics, leading to quantification errors
+during calculations. Also, increasing the inter-injection period will
+cause a loss of temporal resolution, which means we collect fewer
+temporal points to help determine the dynamic changes of CBF.
+Further investigation on how to optimally design the interleaved
+temporal data acquisition will help strengthen the proposed methodology.
+Ultimately, we wish to separate absorption of ICG from
+those of hemoglobin derivatives with minimal cross-talks between
+them. This can be achieved by increasing the number of wavelengths
+used from two to three or more, so absorption of ICG and
+that of hemoglobin species (HbO and HbR) can be quantified simultaneously
+and independently.
+For the embolism-induced model, we did not particularly study the
+interference of ICG injections to validate our methodology. However,
+since we have observed and shown similar spatial and temporal
+changes in hemodynamic parameters (compare Figs. 8 and 10) and 
+Ratio
+BFI
+patterns (compareFigs. 12 and 13) in the two MCAO rat models,
+we expect to have a similar effect of ICG on the signals measured for the
+embolism-induced model.
+Comparison of ratios of BFI before and after MCAO
+As shown inFigs. 11 to 13, increases inBFIandRatio
+BFI
+are observed
+after either suture removal or rtPA treatment. It would be also interesting
+to compare Ratio
+BFI
+values during recovery to the baseline values
+obtained before MCAO. Since the baseline values of Ratio
+BFI
+in MCAO
+rats before surgery should be equivalent to those from normal rats
+(n = 6) without MCAO surgery, we used Ratio
+BFI
+values of normal rats
+as the baseline for comparison. Specifically, the averaged Ratio
+BFI
+for 6
+normal rats was 98.4 ± 8.2%. We also identified Ratio
+BFI
+values from
+suture-induced MCAO rats (N = 6) at six different time points (with a
+10-min temporal interval) after suture removal. As shown in Fig. 11A
+in ICG kinetics in suture-induced ischemic model section, a symmetric
+pattern ofBFIbetween two hemispheres is clear. After comparing baselineBFIratio with those at different time points after suture removal, as
+shown by Inline Supplementary Fig. S2, we obtained several observations
+: 1) no obvious changes inBFIratios were found during the period
+of reperfusion, meaning that CBF remained a relative stable level during
+reperfusion;and 2) themeanBFIratios after suture removal werestatistically
+lower than that in baseline, indicating that CBF did not recover
+completely to the pre-surgery status although they increased greatly
+(see Fig. 12). This observation is consistent with those presented by
+Liu et al. (2008), reporting that CBF measured by Laser Doppler
+flowmetry did not return to pre-surgery baseline.
+Inline Supplementary Fig. S2 can be found online at http://dx.doi.
+org/10.1016/j.neuroimage.2013.07.020.
+ThedecreaseinCBFontheischemichemisphereafterMCAOcouldbe
+due to the MCAO model itself. In our suture-induced ischemic stroke, the
+left common carotid artery (CCA) was permanently cauterized during
+MCAO surgery. Blood could be supplied only from contralateral side or
+the non-ischemic hemisphere for blood circulation. However, somewhat
+inconsistent conclusions on CBF recovery after reperfusion were reported
+by different research groups. The inconsistency may result from uses of
+different measurement modalities as the fundamental physics and data
+processing method for each modality are different. Even with the same
+modality (Laser Dopplerflowmetry) to measure CBFrecovery after reperfusion
+, Tureyen et al. (2004) showed CBF returned to the baseline level
+within 20 min while Liu et al. demonstrated CBF did not recover to baseline
+even 60 min after suture was withdrawn. Our results provide good
+agreement with those by Liu et al., but a definite conclusion on time evolution
+of CBF recovery remains to be confirmed by future studies.
+Weakness of the study
+While we demonstrated in preceding sections that we can combine
+DOT with an ICG-tracking method to achieve interleaved 3D images of
+cerebral hemodynamics and bloodflow index in two MCAO rat models,
+the spatial resolution is still limited by the nature of light scattering in
+tissues. With a dense optode array used in this study (see Fig. 1B), the
+best spatial resolution that we could achieve is still in a severalmillimeter
+range, not permitting to observe detailed structures of occluded
+blood vessels. This intrinsic limitation might be improved by
+using a photo-acoustic approach (Wang and Hu, 2012), which needs
+further exploration and confirmation. Another weakness of the current
+method is the requirement for frequentinjectionsof ICG because it is invasive
+and is limited by the totalnumber of injections or by themaximal
+injected volume of ICG that a subject can tolerate. Further technical development
+is necessary in order to solve this problem, but it is beyond
+the focus of this study.
+Conclusions
+In conclusion, we have utilized a continuous-wave DOT system to
+study and image the changes of hemodynamic parameters resulting
+from suture-induced and embolism-induced rat stroke models. Meanwhile
+, by using the same experimental setup with the ICG-tracking
+method, we were able to investigate dynamic changes in cerebral perfusion
+at multiple temporal points during and after cerebral ischemia without
+extra instrumentation and with little interference of measurements.
+Moreover, utilizing DCA to achieve volumetric image reconstruction facilitated
+3D hemodynamics (i.e., HbO
+2
+and Hb) and BFI imaging. The
+methodology developed in this study also provided us with an excellent
+visualization and quantification tool to gain insight into cerebral changes
+at different sites of the rat brain undergoing ischemic stroke or treatment.
+Our analyzed results have exhibited consistent patterns of changes
+in cerebral hemodynamics and perfusion from both rat models during
+occlusion and reperfusion, and they are also in good agreement with previous
+studies. Overall, this research demonstrates that the interleaved
+imaging approach as shown herein is a useful and feasible tool to study
+stroke physiology and can also be used in evaluating the effect of
+thrombolysis.
+Table 3
+Comparison of correlation coefficients of hemodynamic parameters between G-I
+ICG
+and
+G-I
+no_ICG
+.
+ΔHbO2 ΔHbR ΔHbT
+Slopea pb Slopea pb Slopea pb
+5 min 0.77 0.51 0.89 0.81 0.55 0.13
+7 min 0.84 0.58 0.90 0.82 0.65 0.16
+9 min 0.81 0.52 0.88 0.81 0.63 0.15
+a This slope can be calculated and visualized usingFig. 9.
+b This pvalue is obtained by a paired t-test between G-IICGand G-Ino_ICG.
+580 Z.-J. Lin et al. / NeuroImage 85 (2014) 566–582
+(WITH PDF Extractor SDK TRIAL VERSION)
+[Link]
+http://www.dartmouth.edu/~nir/nirfast/
+[Link]
+http://iso2mesh.sourceforge.net/cgi-bin/index.cgi
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2013.07.020
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2013.07.020
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0005
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0005
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0245
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0015
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0015
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0020
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0020
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0020
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0025
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0025
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0030
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0030
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0030
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0035
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0035
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0035
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0040
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0040
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0045
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0045
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0045
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0055
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0055
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0050
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0050
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0060
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0060
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0060
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0065
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0065
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0070
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0070
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0070
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0075
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0075
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0075
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0080
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0080
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0080
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0085
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0085
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0085
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0085
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0090
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0090
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0095
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0095
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0095
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0095
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf1100
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf1100
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0100
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0100
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0100
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0105
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0105
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0110
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0110
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0110
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0110
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0115
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0115
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0120
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0120
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0120
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0125
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0125
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0130
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0130
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0135
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0135
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0135
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0140
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0140
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0140
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0145
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0145
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0145
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0145
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0150
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0150
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0150
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0255
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0255
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0255
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0160
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0160
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0165
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0165
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0170
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0170
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0170
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0170
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0175
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0175
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0180
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0180
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0180
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0185
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0185
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0185
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0190
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0190
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0190
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0195
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0195
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0195
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0200
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0200
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0200
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0205
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0205
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0210
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0210
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0210
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0215
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0215
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0220
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0220
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0220
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0260
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0260
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0260
+Acknowledgments
+This work has been supported by the National Institutes of Health
+(5R33CA101098). Authors gratefullyacknowledge the help of Dr. Haijing
+Niu from State Key Laboratory of Cognitive Neuroscience and Learning,
+Beijing Normal University, Beijing, China, for her suggestions in DCA. Authors
+especially acknowledge members of the NMD Lab at Tohoku University
+for permission to use their rat atlas. Authors also acknowledge
+two MATLAB-based packages available on the website, which are FEM
+solver NIRFAST:http://www.dartmouth.edu/~nir/nirfast/and mesh generator
+iso2mesh: http://iso2mesh.sourceforge.net/cgi-bin/index.cgi.
+Conflict of interest
+All of the authors have no conflict of interest for the work given in
+this paper.
+Appendix A. Supplementary material I: Variability inRatio
+BFI
+among
+rats
+Supplementary materials on variability inRatio
+BFI
+among rats to this
+article can be found online at http://dx.doi.org/10.1016/j.neuroimage.
+2013.07.020.
+References
+Alkayed, N.J., Harukuni, I., Kimes, A.S., London, E.D., Traystman, R.J., Hurn, P.D., 1998.Genderlinked
+brain injury in experimental stroke. Stroke 29, 159–165 (discussion 166).
+Arridge, S.R., 1999. Optical tomography in medical imaging. Inverse Probl. 15, R41–R93.
+Berrouschot, J., Barthel, H., Hesse, S., Knapp, W.H., Schneider, D., von Kummer, R., 2000.
+Reperfusion and metabolic recovery of brain tissue and clinical outcome after ischemic
+stroke and thrombolytic therapy. Stroke 31, 1545–1551.
+Bluestone, A.Y., Stewart, M., Lasker, J., Abdoulaev, G.S., Hielscher, A.H., 2004a. Threedimensional
+optical tomographic brain imaging in small animals, part 1: hypercapnia.
+J. Biomed. Opt. 9, 1046–1062.
+Bluestone, A.Y., Stewart, M., Lei, B., Kass, I.S., Lasker, J., Abdoulaev, G.S., Hielscher, A.H.,
+2004b. Three-dimensional optical tomographic brain imaging in small animals, part
+2: unilateral carotid occlusion. J. Biomed. Opt. 9, 1063–1073.
+Brooksby, B., Pogue, B.W., Jiang, S., Dehghani, H., Srinivasan, S., Kogel, C., Tosteson, T.D.,
+Weaver, J., Poplack, S.P., Paulsen, K.D., 2006.Imaging breast adipose andfibroglandular
+tissue molecular signatures by using hybrid MRI-guided near-infrared spectral tomography.Proc.Natl.Acad.Sci.U.S.A.103
+,8828 –8833.
+Busch, E., Kruger, K., Allegrini, P.R., Kerskens, C.M., Gyngell, M.L., Hoehn-Berlage, M.,
+Hossmann, K.A., 1998. Reperfusion after thrombolytic therapy of embolic stroke in
+the rat: magnetic resonance and biochemical imaging. J. Cereb. Blood Flow Metab.
+18, 407–418.
+Carmichael, S.T., 2005. Rodent models of focal stroke: size, mechanism, and purpose.
+NeuroRx 2, 396–409.
+Cazzell, M., Li, L., Lin, Z.J., Patel, S.J., Liu, H.L., 2012.Comparison of neural correlates of risk
+decision making between genders: an exploratory fNIRS study of the Balloon
+Analogue Risk Task (BART). NeuroImage 62, 1896–1911.
+Chen, W.G., Li, P.C., Luo, Q.M., Zeng, S.Q., Hu, B., 2000.Hemodynamic assessment of ischemic
+stroke with near-infrared spectroscopy. Space Med. Med. Eng. (Beijing) 13, 84–89.
+Chen, W., Lu, G., Lichty, W., 2002.Localizing the focus of ischemic stroke with near infrared
+spectroscopy. Chin. Med. J. (Engl.) 115, 84–88.
+Culver, J.P., Durduran, T., Furuya, D., Cheung, C., Greenberg, J.H., Yodh, A.G., 2003a.Diffuse
+optical tomography of cerebral bloodflow, oxygenation, and metabolism in rat during
+focal ischemia. J. Cereb. Blood Flow Metab. 23, 911–924.
+Culver, J.P., Siegel, A.M., Stott, J.J., Boas, D.A., 2003b.Volumetric diffuse optical tomography
+of brain activity. Opt. Lett. 28, 2061–2063.
+De Visscher, G., van Rossem, K., Van Reempts, J., Borgers, M., Flameng, W., Reneman, R.S.,
+2002.Cerebral bloodflow assessment with indocyanine green bolus transit detection
+by near-infrared spectroscopy in the rat. Comp. Biochem. Physiol. A Mol. Integr.
+Physiol. 132, 87–95.
+Dehghani, H., Eames, M.E., Yalavarthy, P.K., Davis, S.C., Srinivasan, S., Carpenter, C.M.,
+Pogue, B.W., Paulsen, K.D., 2008. Near infrared optical tomography using NIRFAST:
+algorithm for numerical model and image reconstruction. Commun. Numer. Methods
+Eng. 25, 711–732.
+Haelewyn, B., Risso, J.J., Abraini, J.H., 2010.Human recombinant tissue-plasminogen activator
+(alteplase): why not use the ‘human’ dose for stroke studies in rats? J. Cereb.
+Blood Flow Metab. 30, 900–903.
+Jiang, Q., Zhang, R.L., Zhang, Z.G., Ewing, J.R., Divine, G.W., Chopp, M., 1998.Diffusion-, T2-,
+and perfusion-weighted nuclear magnetic resonance imaging of middle cerebral artery
+embolic stroke and recombinant tissue plasminogen activator intervention in
+the rat. J. Cereb. Blood Flow Metab. 18, 758–767.
+Johnson, D.L., Wiebe, J.S., Gold, S.M., Andreasen, N.C., Hichwa, R.D., Watkins, G.L., Boles
+Ponto, L.L., 1999. Cerebral bloodflow and personality: a positron emission tomography
+study. Am. J. Psychiatry 156, 252–257.
+Keller, E., Nadler, A., Alkadhi, H., Kollias, S.S., Yonekawa, Y., Niederer, P., 2003.Noninvasive
+measurement of regional cerebral bloodflow and regional cerebral blood volume by
+near-infrared spectroscopy and indocyanine green dye dilution. NeuroImage 20,
+828–839.
+Kochanek, K., Xu, J., Murphy, S., Miniño, A., Kung, H., 2011.Deaths:final data for 2009 National
+Vital Statistics Reports 60.
+Kuebler, W.M., Sckell, A., Habler, O., Kleen, M., Kuhnle, G.E., Welte, M., Messmer, K.,
+Goetz, A.E., 1998. Noninvasive measurement of regional cerebral blood flow by
+near-infrared spectroscopy and indocyanine green. J. Cereb. Blood Flow Metab. 18,
+445–456.
+Kusaka, T., Isobe, K., Nagano, K., Okubo, K., Yasuda, S., Kondo, M., Itoh, S., Onishi, S., 2001.
+Estimation of regional cerebral bloodflow distribution in infants by near-infrared topography
+using indocyanine green. NeuroImage 13, 944–952.
+Kwiatek, R., Barnden, L., Tedman, R., Jarrett, R., Chew, J., Rowe, C., Pile, K., 2000. Regional
+cerebral bloodflow in fibromyalgia: single-photon-emission computed tomography
+evidence of reduction in the pontine tegmentum and thalami. Arthritis Rheum. 43,
+2823–2833.
+Liao, P.-S., Chen, T.-S., Chung, P.-C., 2001. A fast algorithm for multilevel thresholding.
+J. Inf. Sci. Eng. 17, 713–727.
+Liu, L.-F., Yeh, C.-K., Chen, C.-H., Wong, T.-W., Chen, J.-J.J., 2008. Measurement of cerebral
+blood flow and oxygen saturation using laser Doppler flowmetry and near infrared
+spectroscopy in ischemic stroke rats. Med. Biol. Eng. 28, 101–105.
+Longa, E.Z., Weinstein, P.R., Carlson, S., Cummins, R., 1989. Reversible middle cerebral
+artery occlusion without craniectomy in rats. Stroke 20, 84–91.
+Neumann-Haefelin, T., Wittsack, H.J., Wenserski, F., Siebler, M., Seitz, R.J., Modder, U.,
+Freund, H.J., 1999. Diffusion- and perfusion-weighted MRI. The DWI/PWI mismatch
+region in acute stroke. Stroke 30, 1591–1597.
+Niu, H., Lin, Z.J., Tian, F., Dhamne, S., Liu, H., 2010a.Comprehensive investigation of threedimensional
+diffuse optical tomography with depth compensation algorithm.
+J. Biomed. Opt. 15, 046005.
+Niu,H.,Tian,F.,Lin,Z.J.,Liu,H.,2010b.Development of a compensation algorithm
+for accurate depth localization in diffuse optical tomography. Opt. Lett. 35,
+429–431.
+Pavics, L., Grunwald, F., Reichmann, K., Horn, R., Kitschenberg, A., Hartmann, A., Menzel,
+C., Schomburg, A.G., Overbeck, B., Csernay, L., Biersack, H.J., 1999. Regional cerebral
+blood flow single-photon emission tomography with 99mTc-HMPAO and the acetazolamide
+test in the evaluation of vascular and Alzheimer's dementia. Eur. J. Nucl.
+Med. 26, 239–245.
+Pogue, B.W., Paulsen, K.D., 1998.High-resolution near-infrared tomographic imaging simulations
+of the rat cranium by use of a priori magnetic resonance imaging structural
+information. Opt. Lett. 23, 1716–1718.
+Ren, M., Lin, Z.-J., Qian, H., Choudhury, G.R., Liu, R., Liu, H., Yang, S.-H., 2012.Embolic middle
+cerebral artery occlusion model using thrombin andfibrinogen composed clots in
+rat. J. Neurosci. Methods 211, 296–304.
+Schmitz, C.H., Graber, H.L., Pei, Y., Farber, M., Stewart, M., Levina, R.D., Levin, M.B., Xu, Y.,
+Barbour, R.L., 2005.Dynamic studies of small animals with a four-color diffuse optical
+tomography imager. Rev. Sci. Instrum. 76, 094302.
+Shang, Y., Chen, L., Toborek, M., Yu, G., 2011.Diffuse optical monitoring of repeated cerebral
+ischemia in mice. Opt. Express 19, 20301–20315.
+Soriano,M.A.,Sanz,O.,Ferrer,I.,Planas,A.M.,1997.Cortical infarct volume is dependent
+on the ischemic reduction of perifocal cerebral bloodflow in a three-vessel
+intraluminal MCA occlusion/reperfusion model in the rat. Brain Res. 747,
+273–278.
+Tavakoli, B., Zhu, Q., 2011. Depth-correction algorithm that improves optical quantification
+of large breast lesions imaged by diffuse optical tomography. J. Biomed. Opt. 16, 056002.
+Terborg, C., Bramer, S., Harscher, S., Simon, M., Witte, O.W., 2004.Bedside assessment of cerebral
+perfusion reductions in patients with acute ischaemic stroke by near-infrared
+spectroscopy and indocyanine green. J. Neurol. Neurosurg. Psychiatry 75, 38–42.
+Tonnesen, J., Pryds, A., Larsen, E.H., Paulson, O.B., Hauerberg, J., Knudsen, G.M., 2005.Laser
+Doppler flowmetry is valid for measurement of cerebral blood flow autoregulation
+lower limit in rats. Exp. Physiol. 90, 349–355.
+Tuominen, S., Miao, Q., Kurki, T., Tuisku, S., Poyhonen, M., Kalimo, H., Viitanen, M., Sipila,
+H.T., Bergman, J., Rinne, J.O., 2004.Positron emission tomography examination of cerebral
+blood flow and glucose metabolism in young CADASIL patients. Stroke 35,
+1063–1067.
+Tureyen, K., Vemuganti, R., Sailor, K.A., Dempsey, R.J., 2004.Infarct volume quantification
+in mouse focal cerebral ischemia: a comparison of triphenyltetrazolium chloride and
+cresyl violet staining techniques. J. Neurosci. Methods 139, 203–207.
+Valdes-Hernandez, P.A., Sumiyoshi, A., Nonaka, H., Haga, R., Aubert-Vasquez, E., Ogawa, T.,
+Iturria-Medina, Y., Riera, J.J., Kawashima, R., 2011. An in vivo MRI template set for
+morphometry, tissue segmentation, and fMRI localization in rats. Front. Neuroinform.
+5, 26.
+von Kummer, R., Allen, K.L., Holle, R., Bozzao, L., Bastianello, S., Manelfe, C., Bluhmki, E.,
+Ringleb, P., Meier, D.H., Hacke, W., 1997.Acute stroke: usefulness of early CTfindings
+before thrombolytic therapy. Radiology 205, 327–333.
+Wagner, B.P., Gertsch, S., Ammann, R.A., Pfenninger, J., 2003.Reproducibility of the blood
+flow index as noninvasive, bedside estimation of cerebral bloodflow. Intensive Care
+Med. 29, 196–200.
+Wang, L.V., Hu, S., 2012. Photoacoustic tomography: in vivo imaging from organelles to
+organs. Science 335, 1458–1462.
+Xia,M.,Yang,S.,Simpkins,J.W.,Liu,H.,2007.Noninvasive monitoring of estrogen
+effects against ischemic stroke in rats by near-infrared spectroscopy. Appl. Opt. 46,
+8315–8321.
+Xu, G., Piao, D., 2012.A Geometric-differential-sensitivity Based Reconstruction Algorithm
+Improves Target-depth Localization for Trans-lumenal Outward-imaging Diffuse
+Optical Tomography.Biomedical Optics (BIOMED), Miami, Florida.
+581 Z.-J. Lin et al. / NeuroImage 85 (2014) 566–582
+(8.0.0.2542,388040098 PDF Extractor SDK TRIAL)
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0225
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0225
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0225
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0230
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0230
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0235
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0235
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0235
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0240
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0240
+[Link]
+http://refhub.elsevier.com/S1053-8119(13)00775-1/rf0240
+Xu, H., Dehghani, H., Pogue, B.W., Springett, R., Paulsen, K.D., Dunn, J.F., 2003.Near-infrared
+imaging in the small animal brain: optimization offiber positions. J. Biomed. Opt. 8,
+102–110.
+Yang, G., Chan, P.H., Chen, J., Carlson, E., Chen, S.F., Weinstein, P., Epstein, C.J., Kamii, H.,
+1994.Human copper–zinc superoxide dismutase transgenic mice are highly resistant
+to reperfusion injury after focal cerebral ischemia. Stroke 25, 165–170.
+Zhan, Y., Eggebrecht, A.T., Culver, J.P., Dehghani, H., 2012. Image quality analysis of highdensity
+diffuse optical tomography incorporating a subject-specificheadmodel.Front.
+Neuroenerg.4,6.
+Zhou, C., Yu, G., Furuya, D., Greenberg, J., Yodh, A., Durduran, T., 2006.Diffuse optical correlation
+tomography of cerebral blood flow during cortical spreading depression in
+rat brain. Opt. Express 14, 1125–1144.
+582 Z.-J. Lin et al. / NeuroImage 85 (2014) 566–582
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.687708527)
+

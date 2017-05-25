@@ -1,0 +1,951 @@
+Journal of Neuroscience Methods 245 (2015) 44–57
+
+Contents lists available at ScienceDirect
+
+Journal of Neuroscience Methods
+journal homepage: www.elsevier.com/locate/jneumeth
+
+Basic Neuroscience
+
+l-NIO as a novel mechanism for inducing focal cerebral ischemia in
+the adult rat brain
+Amelia R. Van Slooten a , Yuhui Sun a , Andrew N. Clarkson b,c , Bronwen J. Connor a,∗
+a
+Department of Pharmacology and Clinical Pharmacology, Centre for Brain Research, School of Medical Science, FMHS, University of Auckland, Auckland,
+New Zealand
+b
+Department of Anatomy, Brain Health Research Centre, University of Otago, Dunedin, New Zealand
+c
+Department of Psychology, Brain Health Research Centre, University of Otago, Dunedin, New Zealand
+
+h i g h l i g h t s
+• The l-NIO model is reproducible with zero mortality and low surgical complexity.
+• l-NIO lesioning produces blood–brain barrier dysfunction and neuronal hypoxia.
+• l-NIO lesioning produces neurodegeneration, glial activation and motor impairment.
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 9 December 2014
+Received in revised form 23 February 2015
+Accepted 25 February 2015
+Available online 5 March 2015
+Keywords:
+Animal model
+Focal ischemia
+Stroke
+Striatum
+Behavior
+Inﬂammation
+
+a b s t r a c t
+Background: Ischemic stroke is the most frequent cause of persistent neurological disability in Western societies. New treatment strategies are required and effective in vivo models are crucial to their
+development.
+New method: The current study establishes a novel in vivo rat model of focal striatal ischemia using the
+vasoconstrictive agent N5-(1-iminoethyl)-l-ornithine (l-NIO). Adult male Sprague Dawley rats received
+a unilateral intrastriatal infusion of l-NIO in combination with jugular vein occlusion.
+Results: l-NIO infusion was associated with zero mortality, low surgical complexity and a reproducible
+infarct, providing advantages over established models of focal ischemia. The mean infarct volume of
+8.5 ± 5.3% of the volume of the contralateral striatum resulted in blood–brain barrier dysfunction, neuronal hypoxia and ongoing neurodegeneration. Further characteristics of ischemic stroke were exhibited,
+including robust microglia/macrophage and astroglial responses lasting at least 35 days post-ischemia,
+in addition to chronic motor function impairment.
+Comparison with existing methods: When compared to other models such as the MCAo models, the consistency in regions affected, high success rate, zero mortality, reduced surgical complexity and minimal
+welfare requirements of the l-NIO model make it ideal for initial high-throughput investigations into
+preclinical efﬁcacy and proof of principle studies of acute ischemic stroke interventions.
+Conclusion: We propose that the l-NIO rat model of focal striatal ischemia does not replace the use of other
+ischemic stroke models. Rather it provides a new, complementary tool for initial preclinical investigations
+into the treatment of ischemic stroke.
+© 2015 Elsevier B.V. All rights reserved.
+
+1. Introduction
+Stroke is a debilitating neurological disorder that affects 17 million people globally every year (Feigin et al., 2014). Intravenous
+
+∗ Corresponding author at: Department of Pharmacology and Clinical Pharmacology, Centre for Brain Research, School of Medical Science, FMHS, University of
+Auckland, Private Bag 92019, Auckland Mail Centre 1142, Auckland, New Zealand.
+Tel.: +64 9 923 3037.
+E-mail address: b.connor@auckland.ac.nz (B.J. Connor).
+http://dx.doi.org/10.1016/j.jneumeth.2015.02.022
+0165-0270/© 2015 Elsevier B.V. All rights reserved.
+
+recombinant tissue plasminogen activator (rtPA) is the only
+approved pharmacological treatment available for acute ischemic
+stroke. However the strict criteria for treatment, including a 4.5 h
+therapeutic window from onset of symptoms, means that few
+patients are eligible to receive rtPA (Lees et al., 2010). The high
+prevalence of stroke, together with the associated social and economic burden, necessitates the development of novel therapies to
+reduce cell loss, promotes brain repair and enhances functional
+recovery. Effective in vivo models of ischemic stroke play a crucial role in the development of new therapeutic strategies. As such,
+there is a need for high-throughput, reliable models of ischemic
+
+A.R. Van Slooten et al. / Journal of Neuroscience Methods 245 (2015) 44–57
+
+stroke that produce focal infarcts commonly found in surviving
+human patients with the potential for recovery (Carmichael, 2005).
+The most widely used in vivo model of focal ischemic stroke
+is the middle cerebral artery occlusion (MCAo) model, of which
+there are several versions (Howells et al., 2010). While occlusion
+of the middle cerebral artery (MCA) can result in a high rate of
+successful infarct induction with low mortality and good reproducibility, this approach can be technically challenging, requiring
+signiﬁcant surgical skill, as well as being time-consuming, therefore reducing throughput (Carmichael, 2005; Howells et al., 2010).
+The MCAo model also has the signiﬁcant disadvantage of damaging
+multiple brain regions including the hypothalamus, which interferes with temperature regulation and hampers the assessment of
+regional drug-effects (Gerriets et al., 2003). In addition, embolic or
+thrombotic models produce variable results, due to limited control over clot formation or the timing and extent of reperfusion
+(Beech et al., 2001). Alternatively, intracerebral injection of a vasoconstrictive agent, such as endothelin-1, can produce consistent
+ischemic lesions without the requirement for extensive and technical surgical manipulation (Fuxe et al., 1992). Targeted intracerebral
+injection of endothelin-1 can be used to mediate vasoconstriction
+of either the MCA or a particular tissue target, resulting in focal
+ischemia (Fuxe et al., 1992; Sharkey and Butcher, 1995). However, a major concern regarding the use of endothelin-1 is potential
+receptor-mediated effects on endothelial cells, neurons, astrocytes
+and oligodendrocytes that are involved in both the pathophysiology of stroke and repair processes (Carmichael, 2005; Gadea et al.,
+2009; Hammond et al., 2014).
+An alternative vasoconstrictive agent, N5-(1-iminoethyl)-lornithine (l-NIO), has recently been used to induce focal ischemia
+in the subcortical white matter of the mouse (Hinman et al., 2013;
+Rosenzweig and Carmichael, 2013). l-NIO is a potent non-selective
+inhibitor of nitric oxide synthase (NOS) (Alderton et al., 2001;
+Rees et al., 1990) that induces local vasoconstriction at the site of
+infusion. Intravenous administration of l-NIO has been shown to
+increase mean arterial blood pressure and decrease regional cerebral blood ﬂow in adult rats (Alderton et al., 2001; Rees et al., 1990;
+Oyama et al., 2010). Moreover, l-NIO increases infarct volume when
+administered to rats prior to MCAo (Greco et al., 2011). While l-NIO
+has been used to induce white matter stroke in the corpus callosum
+of mice (Hinman et al., 2013; Rosenzweig and Carmichael, 2013), to
+date it has not been examined whether an intrastriatal infusion of lNIO can induce focal ischemia in the striatum of the adult rat brain.
+Different brain regions exhibit differing sensitivities to ischemia,
+for example, cortex versus striatum (Skelding et al., 2012).
+We therefore proposed that intrastriatal infusion of l-NIO could
+be used to induce a consistent focal ischemic infarct in rats, exhibiting characteristics seen in currently available models of stroke,
+including blood–brain barrier (BBB) leakage, hypoxia, neuronal
+degeneration, glial cell activation, functional impairment and the
+potential for neuroprotection. Generation of a NOS inhibitor model
+of focal cerebral ischemia would provide an alternative mechanism
+by which to identify and trial new therapeutic agents. The ability to
+establish a highly reliable model requiring minimal surgical manipulation would also allow for high-throughput production and drug
+screening, aiding in the advancement of stroke research.
+
+2. Materials and methods
+2.1. Animals
+Experimentation was performed in strict compliance with the
+University of Auckland Animal Ethics Guidelines, in accordance
+with the New Zealand Animal Welfare Act 1999, and conformed
+to international guidelines on the ethical use of animals. All efforts
+
+45
+
+were made to minimize the number of animals used and their suffering. Adult male Sprague Dawley rats (250–350 g) were used in
+these studies. The animals were housed in groups (n = 5 per cage)
+in a temperature and humidity-controlled room that was kept on
+a 12 h light/dark cycle. Food and water were available ad libitum
+throughout.
+2.2. l-NIO model surgical procedures
+Focal cerebral ischemia was induced by unilateral permanent
+ligation of the external jugular vein and stereotaxic infusion of
+l-NIO into the striatum. Anesthesia was induced using 5% isoﬂurane in oxygen gas at a ﬂow rate of 4 L/min and maintained at
+1.5–3.5% isoﬂurane, 0.8 L/min. Body temperature was maintained
+during surgery via a rectal probe and homeothermic feedback system set to 37 ◦ C (Harvard Apparatus, Holliston, MA, USA). Heart
+rate and oxygen saturation were measured and recorded throughout the surgery using a veterinary pulse oximeter (L.R. Instruments,
+Melbourne, Australia). The right external jugular vein was permanently ligated with 5–0 silk suture (Resorba, Nuremberg, Germany)
+through a ventral incision. The animal was then placed dorsal side
+up in a stereotaxic frame. l-NIO was injected directly into the striatum through a small craniotomy, using a Hamilton syringe with
+a 32 gauge needle (Hamilton, NV, USA), at a rate of 500 nl/min.
+Sham surgery consisted of the same surgical procedures with sterile
+saline (0.9%) injected in place of l-NIO.
+2.3. l-NIO dose determination
+N5-(1-iminoethyl)-l-ornithine (l-NIO; Sigma–Aldrich) was dissolved in sterile saline at the required concentration. A range of
+doses of l-NIO from 0.04 to 2.0 ␮mol per rat, in volumes from
+3.0 to 5.0 ␮l (n = 3–6/group) were trialed in either single or double site injection paradigms (single site: anterior–posterior (AP)
++0.7 mm, medial–lateral (ML) −3.2 mm and dorsal–ventral (DV)
+−5.5 mm relative to Bregma; double site; AP +1.0 mm, ML −3.2 mm,
+DV −5.5 mm and AP +0.5 mm, ML −3.2 mm, DV −5.5 mm relative to Bregma). Sham-lesioned animals (n = 3/group) were used
+for comparison. The ﬁnal dose used for histological and functional
+characterization of the model over time was 2.0 ␮mol of l-NIO
+in 5 ␮l sterile saline at each site. Treatment groups included animals that had undergone l-NIO-induced ischemia or sham surgery,
+culled between 1.5 h and 35 days post-ischemia.
+2.4. MK801 injections
+On the day of injection, (+)-MK801 hydrogen maleate powder (Sigma–Aldrich, St. Louis, USA) was dissolved in sterile saline
+at a concentration of 1 mg/ml and ﬁlter-sterilized. Intraperitoneal
+injections of MK801 (3 mg/kg) or vehicle were performed 30 min
+prior to the commencement of l-NIO infusion for pre-treatment
+paradigms and 10 min or 1 h following the l-NIO infusion for posttreatment paradigms (n = 3–5/group). Animals were culled 3 days
+following surgery.
+2.5. Motor function
+Rotarod and cylinder tests were performed on rats that had
+undergone focal ischemia or sham surgery and normal control rats
+that had not undergone surgery (n = 7–9/group). Both tests were
+performed 1 week prior to surgery (baseline), 1 week post-surgery
+(acute) and 4 weeks following surgery (chronic). Animals were
+culled 5 weeks post-surgery. All procedures were performed in the
+12 h dark cycle and the light cycles were synchronized between
+housing and testing areas. The rotarod paradigm included a 3 day
+training regime of 3 trials per day on the rotarod (IITC Life Science
+
+46
+
+A.R. Van Slooten et al. / Journal of Neuroscience Methods 245 (2015) 44–57
+
+Inc., CA, USA) at 12 rpm and a 2 day testing regime of 2 trials per
+day with the rod accelerating from 4 rpm to 40 rpm. For the cylinder test, animals were placed in a plexiglas cylinder (30 cm high and
+20 cm internal diameter) and were left alone to explore for 5 min
+while being videotaped. Mirrors were placed so that animals could
+be ﬁlmed from all angles. An investigator blinded to the treatment
+group later recorded the number of times each forepaw was used
+to initiate weight-shifting movements including rearing, wall contact and landing. The use of both paws together was scored as both
+a left and a right paw movement. Ipsilateral asymmetry was determined as the percentage of occasions where the right, unaffected
+ipsilateral paw was used to initiate the movement.
+
+−0.54 mm relative to Bregma). The infarct volume was estimated
+by (1) multiplying the distance between the sections by the sum of
+the cross-sectional area of the infarct across all sections; (2) multiplying this volume by the ratio between left and right striata to
+correct for edema; and (3) expressing the volume as a percentage
+of the contralateral striatum to correct for differences between animals and tissue processing (Golanov and Reis, 1995; Swanson et al.,
+1990). Edema was calculated by expressing the difference in volume between striata as a percentage of the contralateral striatum
+volume (Golanov and Reis, 1995).
+
+2.6. Tissue processing
+
+DAB–nickel sulfate immunohistochemistry was performed to
+analyze the expression of GFAP and Iba1 on six consecutive sections
+per animal that encompassed the infarct core (+1.38, +1.06, +0.74,
++0.42, +0.10, and −0.22 mm relative to Bregma). Virtual images of
+the ipsilateral striatum were created using a 10× objective lens
+and the striatum was manually outlined using ImageJ. The area of
+immunoreactivity as a percentage of the total area of the striatum
+was calculated for each section and results were expressed as the
+mean percentage area of immunoreactivity. For GFAP, the area of
+the GFAP-devoid core was subtracted from the area of the striatum,
+and the area of GFAP was presented as a percentage of this reduced
+area outside the infarct core. The area of the GFAP-devoid core was
+also presented as a percentage of the area of the striatum.
+
+Rats were culled by an overdose of sodium pentobarbitone
+(60 mg/ml) and were transcardially perfused with ice-cold sterile saline, followed by freshly prepared 4% paraformaldehyde in
+0.1 M phosphate buffer. Brains were extracted and ﬁxed overnight
+in 4% paraformaldehyde, then transferred to 30% sucrose solution for sectioning. Coronal sections (40 ␮m) were cut on a sliding
+microtome. Eight sets of sections were collected from each brain
+(320 mm between consecutive sections). Immunohistochemistry
+with either DAB–nickel sulfate or ﬂuorescent imaging was performed on free-ﬂoating sections using antibodies against NeuN
+(Merck Millipore, Billerica, MA, USA), DARPP-32 (Merck Millipore),
+choline acetyltransferase (ChAT; Merck Millipore), parvalbumin
+(Swant, Marly, Switzerland), neuronal NOS (nNOS; Life Technologies, Carlsbad, CA, USA), calretinin (Swant), RECA-1 (AbD Serotec,
+Oxford, United Kingdom), serum albumin (AbD Serotec), HIF1␣ (Merck Millipore), Iba1 (Abcam, Cambridge, United Kingdom)
+or GFAP (Dako, Glostrup, Denmark). A Nikon Eclipse E800 was
+used to obtain images of DAB–nickel sulfate-treated sections and
+confocal microscopy (Olympus FV1000) was used for imaging ﬂuorescent labels. Sequential scanning was used to minimize overlap
+between signals from multiple channels during acquisition of confocal images.
+For the TTC assay, fresh brain tissue was sectioned coronally at
+1 mm thickness using a brain matrix. The slices were soaked in a
+2% TTC solution for 25–30 min at room temperature. The tissue was
+then ﬁxed by removing the TTC solution and adding 10% formalin.
+
+2.9. Semi-quantitative analysis of glial cell activation
+
+2.10. Exclusion criteria
+A priori exclusion criteria for these studies included: premature mortality due to the surgical procedures (n = 0); surgical miss
+(no detectable infarct or an infarct equivalent to or smaller than the
+sham infarct; n = 4); infarct volume greater than two standard deviations from the mean of the treatment group (n = 0); and injury to
+the contralateral hemisphere (n = 0). Animals were excluded from
+the rotarod analysis if their latency to fall off the rotarod during the
+testing phase was more than two standard deviations outside the
+mean on more than one trial (n = 1) and from the cylinder analysis
+if they reared ﬁve or fewer times during the 5-min period analyzed
+(n = 3; one from each treatment group).
+2.11. Statistics
+
+2.7. Fluoro-Jade C staining for neurodegeneration
+Fluoro-Jade C staining was performed on coronal sections containing the striatum (n = 3 sections per animal: anterior, center
+and posterior striatum). Sections were mounted onto polylysine
+slides which were oven-dried at 50 ◦ C, rehydrated in distilled water,
+and placed in 0.06% potassium permanganate (Sigma–Aldrich) for
+10 min. Sections were then stained with a 0.0001% solution of
+Fluoro-Jade C (Merck Millipore). The number of Fluoro-Jade Clabeled neurons per section was counted using a counting frame
+on a ﬂuorescent microscope (Nikon Eclipse TE-2000) under 40×
+magniﬁcation.
+
+Statistical analyses were performed using IBM® SPSS® Statistics
+v21 (IBM Corporation, NY, USA). Levene’s test for equality of variances was performed on all data. For comparison of two groups, an
+independent samples two-tailed t-test was used. For comparisons
+between more than two groups, a one-way analysis of variance
+(ANOVA) was used. A repeated measures ANOVA was performed
+for motor function results. Post hoc analyses were performed with
+either Tukey’s test or the Games–Howell test if non-equal variances
+were found. Non-equal variances and non-parametric tests were
+used where appropriate. All data are presented as mean ± standard
+deviation. Results were considered signiﬁcant if p < 0.05.
+
+2.8. Quantiﬁcation of ischemic infarct
+
+3. Results
+
+DAB–nickel sulfate immunohistochemistry was performed for
+quantiﬁcation of the ischemic infarct. The area of the infarct was
+delineated as a region of decreased NeuN immunoreactivity. Neurolucida software (MBF Bioscience Inc., VT, USA) was used to create
+virtual sections from images taken using a 4× objective lens on a
+Nikon Eclipse E800 microscope. ImageJ software was used to manually outline the ischemic infarct, right ipsilateral striatum and
+left contralateral striatum through the anterior–posterior extent
+of the striata (+1.70, +1.38, +1.06, +0.74, +0.42, +0.10, −0.22, and
+
+3.1. l-NIO dose determination
+This study aimed to establish an l-NIO model of focal ischemia
+that produced a consistent, moderate infarct contained within
+the rat striatum and resulted in a measurable functional deﬁcit.
+NeuN immunohistochemistry was used to delineate the area of
+neuronal injury and thus determine infarct volume. No infarct
+was detected with a single infusion of l-NIO within the dose
+range of 0.04–0.150 ␮mol (n = 3–6/group, data not shown) 3 days
+
+A.R. Van Slooten et al. / Journal of Neuroscience Methods 245 (2015) 44–57
+
+post-surgery. Consequently, the dose was increased (0.5–2.0 ␮mol
+l-NIO) and the delivery sites altered to a double infusion paradigm
+(n = 3–5/group). The highest l-NIO dose of 2.0 ␮mol was the only
+dose that produced an infarct signiﬁcantly different in volume from
+sham animals (8.5 ± 5.3% of the contralateral striatum compared to
+the sham volume of 0.7 ± 0.3%; Fig. 1A and E).
+The response of microglia/macrophages to intrastriatal infusion
+of l-NIO was investigated by analyzing Iba1 immunoreactivity. In
+accordance with infarct volume, only the highest dose of l-NIO
+(2.0 ␮mol) produced a microglial/macrophage response that was
+signiﬁcantly different from that of sham animals (5.9 ± 2.4% of the
+striatal area compared to 1.8 ± 0.6% for sham; Fig. 1B).
+Tissue sections were also analyzed for GFAP immunoreactivity to investigate reactive astrogliosis. All three l-NIO doses
+(0.5–2.0 ␮mol) induced a signiﬁcant astroglial response, with the
+greatest extent of GFAP immunoreactivity observed at the lowest
+dose of l-NIO (0.5 ␮mol), where GFAP immunoreactivity covered
+11.0 ± 2.0% of the striatal area outside the lesion core compared
+to 3.9 ± 1.5% in sham animals (Fig. 1C). A core area devoid of GFAP
+immunoreactivity was also evident in the center of the l-NIO infarct
+that was not apparent in sham animals. The mean area of the GFAPdevoid core was signiﬁcantly different between the highest l-NIO
+dose and the sham group, with an area of 18.8 ± 13.0% of the striatum in l-NIO treated animals compared to 0% for shams (Fig. 1D).
+The two lower l-NIO doses also produced a core area devoid of GFAP
+(approximately 3.0–5.0%).
+
+3.2. Physiological monitoring
+Based on these results, 2.0 ␮mol of l-NIO in 5 ␮l of sterile saline
+was injected at two sites in the striatum in all further investigations.
+To document the physiological parameters during l-NIO surgery,
+data from all animals in the current study that underwent l-NIO
+or sham surgery were pooled (l-NIO n = 25, sham n = 17). To this
+end, rectal temperature, heart rate and oxygen saturation were
+measured at intervals throughout the surgery (Table 1). The only
+parameter that was signiﬁcantly different between the l-NIO and
+sham groups was the rectal temperature at the start of surgery. At
+this point l-NIO had not yet been injected, and the values were
+no longer different at the ﬁnish of surgery just after l-NIO infusion, therefore this difference is unlikely to have inﬂuenced the
+outcome of l-NIO-induced ischemia. Oxygen saturation was close
+to 97% in both groups at both time points. Heart rate and oxygen saturation did not vary between groups or across time points.
+Animals that received l-NIO lost a mean 2.3 ± 2.3% of their body
+weight in the 24 h following surgery; a value that was not significantly different to sham animals (Suppl. Fig. 1). They rarely lost
+any further weight and tended to increase in weight from 24 h
+onwards.
+Supplementary Fig. 1 related to this article can be found,
+in the online version, at http://dx.doi.org/10.1016/j.jneumeth.
+2015.02.022.
+
+3.3. Mortality and success rate
+There was zero mortality associated with focal ischemia induced
+by l-NIO infusion. No animals had to be removed from the immunohistochemical analysis due to the a priori exclusion criteria of
+premature mortality, infarct volume outside two standard deviations from the mean or damage in the contralateral hemisphere.
+Exclusions were made only on the basis of rare surgical misses
+occurring in 4 out of the 152 animals on which this procedure was
+performed. The rate of successful induction of l-NIO ischemia can
+therefore be estimated at 97%.
+
+47
+
+3.4. l-NIO infarct volume
+Using the 2.0 ␮mol dose of l-NIO, we characterized the temporal
+proﬁle of lesion development following local intrastriatal infusion
+of l-NIO. We observed that the infarct was consistently restricted to
+the striatum, apart from partial extension into the adjacent globus
+pallidus in 6 out of 25 animals. This was conﬁrmed using a TTC
+assay at 24 h and 3 days post-lesion (Suppl. Fig. 3). The infarct core
+3 days post-ischemia spanned a range of 1 mm (+0.75 to −0.25 mm
+relative to Bregma; Fig. 1E). Assessment of infarct volume 3 days
+post-ischemia revealed an infarct of 8.5 ± 5.3% of the volume of the
+contralateral striatum, signiﬁcantly greater than the sham infarct
+volume (0.7 ± 0.3%; Fig. 1F). There was no signiﬁcant difference
+in infarct volume from 3 to 35 days post-ischemia, however, 35
+days post-ischemia 12.3 ± 8.0% of the striatal volume had been lost
+in animals that had undergone l-NIO-induced ischemia compared
+to 4.1 ± 2.1% in sham animals (Fig. 1G). This suggests that tissue
+volume was progressively lost over time, and supporting this, we
+observed changes in infarct morphology over time course (Fig. 1H).
+The pale region devoid of NeuN immunoreactivity appeared to condense in area from 7 to 35 days, coincident with the loss of tissue
+volume.
+Finally, we investigated whether jugular occlusion was necessary in the l-NIO model. Interestingly we observed that there was
+no difference in infarct volume or striatal tissue volume when l-NIO
+injections were performed without jugular vein occlusion when
+compared to l-NIO injected animals that received a jugular vein
+occlusion (Suppl. Fig. 2) indicating the lesion effect is primarily due
+to l-NIO-induced vasoconstriction.
+Supplementary Figs. 2 and 3 related to this article can be found,
+in the online version, at http://dx.doi.org/10.1016/j.jneumeth.
+2015.02.022.
+
+3.5. BBB leakage
+Blood leakage from vessels in the striatum was investigated at
+acute time points, 1.5 and 6 h post-ischemia, using immunohistochemistry for rat endothelial cell antigen 1 (RECA-1) and serum
+albumin. At 1.5 h post-ischemia, serum albumin leakage into the
+brain parenchyma was observed in the vicinity of the needle tract
+only (Fig. 2A). However, 6 h following ischemia, extensive leakage of serum albumin, at least 500 ␮m from the needle tract,
+was observed. Accumulated leakage of serum albumin was also
+observed from 24 h to 14 days post-ischemia (results not shown).
+No serum albumin was detected within the contralateral striatum
+at any time point (Fig. 2A). These observations suggest that leakage
+through the BBB begins between 1.5 and 6 h post-ischemia.
+
+3.6. Hypoxia
+Cellular hypoxia was examined using immunohistochemistry
+for the transcription factor hypoxia inducible factor 1 alpha (HIF1␣). HIF-1␣ was detected at very low levels within the ipsilateral
+striatum both 1.5 and 6 h following ischemia, and was noticeably
+increased when assessed 24 h post-ischemia (Fig. 2B). When HIF1␣ was co-labeled with the neuronal nuclei marker NeuN, close to
+100% of the identiﬁed HIF-1␣-positive cells were also positive for
+NeuN (Fig. 2C). Some of the NeuN/HIF-1␣ co-labeled cells appeared
+to be more irregular in shape than HIF-1␣ negative, NeuN-positive
+cells, suggesting that only injured neurons, or possibly phagocytic
+cells, initiate the HIF-1␣-induced cellular response to hypoxic conditions within 24 h of ischemia. Interestingly, not all neurons in the
+infarct site appeared hypoxic even after 24 h. HIF-1␣ immunoreactivity was not observed in the contralateral striatum.
+
+48
+
+A.R. Van Slooten et al. / Journal of Neuroscience Methods 245 (2015) 44–57
+
+Fig. 1. Ischemic infarct resulting from l-NIO infusion. (A–D) l-NIO dose characterization 3 days post-ischemia. (A) Infarct volume as a percentage of the volume of the
+contralateral striatum. (B) The area of Iba1 immunoreactivity, expressed as a percentage of the area of the striatum. (C) The area of GFAP immunoreactivity, expressed as
+a percentage of the area of the striatum excluding the GFAP-devoid core. (D) Area of the core region devoid of GFAP, expressed as a percentage of the area of the striatum.
+(E–H) Infarct volume and change in tissue volume following l-NIO-induced ischemia. (E) The anterior–posterior proﬁle of the infarct 3 days post-ischemia, presented as an
+area of reduced NeuN immunoreactivity delineated in black. (F) Infarct volume as a percentage of the volume of the contralateral striatum over time. (G) Change in volume
+of the ipsilateral striatum relative to the contralateral striatum. (H) Comparison of infarct appearance 3–35 days post-ischemia. CC, corpus callosum; CX, cortex; EC, external
+capsule; ST, striatum. (A–D) Data are presented as the mean ± standard deviation (n = 3–5/group); *p ≤ 0.05, **p ≤ 0.01 compared to sham surgery. (F, G) *p < 0.05, **p < 0.01,
+two-tailed t-test; # p < 0.05, ## p < 0.01, Games–Howell post hoc analysis (3–14 days: n = 3–5; 35 days: n = 8–10). Scale bar = 2 mm.
+
+A.R. Van Slooten et al. / Journal of Neuroscience Methods 245 (2015) 44–57
+
+49
+
+Fig. 2. Acute pathophysiology of l-NIO-induced focal ischemia. (A) Leakage of serum albumin (green) from brain–blood vessels (RECA-1, red; co-label yellow) 1.5 h and 6 h
+post-ischemia, both adjacent to the needle tract and approximately 500 ␮m from the needle tract in the ipsilateral striatum. The contralateral striatum is shown for comparison.
+Scale bar = 100 ␮m. (B) Cells positive for hypoxia regulator HIF-1␣ (green) and NeuN (red; co-label yellow) 1.5 h, 6 h and 24 h post-ischemia. (C) High-magniﬁcation image
+demonstrating that all HIF-1␣-positive cells (green) appeared to co-label with NeuN (red; arrowheads), irrespective of time. Scale bar = 100 ␮m. (For interpretation of the
+references to color in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+50
+
+A.R. Van Slooten et al. / Journal of Neuroscience Methods 245 (2015) 44–57
+
+Table 1
+Physiological parameters during l-NIO surgery.
+Measure
+
+Rectal temperature (◦ C)
+l-NIO
+
+Mean
+Standard deviation
+Standard error
+
+Heart rate (bpm)
+l-NIO
+
+Sham
+
+Oxygen saturation (%)
+l-NIO
+
+Sham
+
+Sham
+
+Start
+
+Finish
+
+Start
+
+Finish
+
+Start
+
+Finish
+
+Start
+
+Finish
+
+Start
+
+Finish
+
+Start
+
+Finish
+
+36.4
+0.7
+0.2
+
+36.7
+0.1
+0.0
+
+36.9
+0.8
+0.2
+
+36.8
+0.1
+0.0
+
+324.8
+33.2
+7.4
+
+323.8
+21.5
+5.1
+
+322.8
+30.8
+8.6
+
+317.8
+14.4
+4.2
+
+96.8
+1.4
+0.3
+
+97.0
+1.3
+0.3
+
+97.1
+1.1
+0.3
+
+96.7
+1.0
+0.3
+
+3.7. Neuronal degeneration and loss
+Fluoro-Jade C was used to identify the presence of neurodegeneration following ischemia. Fluoro-Jade C was present in very
+low levels 1.5 and 6 h post-ischemia and only in the immediate
+vicinity of the needle tract (data not shown). However, after 24 h,
+Fluoro-Jade C could be detected throughout the infarct, becoming
+prominently expressed from 3 days post-ischemia (Fig. 3A) and
+remaining so until 35 days post-ischemia. The maximum number of
+Fluoro-Jade C positive cells occurred 7 days post-ischemia (Fig. 3C).
+A low level of Fluoro-Jade C staining was also seen in the shamlesioned animals (Fig. 3D), however, at all time points the number
+of Fluoro-Jade C positive cells in l-NIO lesioned animals was signiﬁcantly greater than in sham (Fig. 3B). Fluoro-Jade C staining was not
+observed in the contralateral hemisphere. These ﬁndings indicate
+that neurodegeneration continues for at least 35 days following
+l-NIO-induced focal ischemia.
+We investigated the presence of DARPP-32-positive medium
+spiny striatal neurons as well as striatal interneurons within the
+l-NIO lesioned striatum in order to deﬁne the sub-types of neurons affected by focal ischemia. Seven days following ischemia,
+there was an obvious region of pallor indicating an absence of
+DARPP-32 within the infarct, similar to that observed with NeuN
+immunoreactivity This loss of DARPP-32 expression was still evident within the infact 35 days following ischemia, indicating that
+medium spiny neurons are sensitive to l-NIO lesioning (Suppl.
+Fig. 4A). Parvalbumin- and calretinin-positive interneurons were
+also affected by l-NIO-induced ischemia, with a reduction in both
+cell populations observed in the lesioned striatum 7–35 days following l-NIO administration (Suppl. Figs. 4B and 2C). In addition,
+nNOS interneurons also exhibited susceptibility to l-NIO-induced
+ischemia, but with a delayed response, with loss of nNos not
+detected until 35 days following ischemia (Suppl. Fig. 4D). In contrast, we observed only a moderate loss of cholinergic interneurons
+by 35 days post-ischemia (Suppl. Fig. 4E).
+Supplementary Fig. 4 related to this article can be found,
+in the online version, at http://dx.doi.org/10.1016/j.jneumeth.
+2015.02.022.
+
+3.8. Inﬂammatory response to ischemia: glial cell activation
+Glial cell activation plays a major role in propagating the inﬂammatory response to cerebral ischemia. By 1.5 h following focal
+ischemia, we observed that Iba1-positive microglia/macrophages
+immediately adjacent to the infarct had changed in morphology
+and undergone hypertrophy, indicating a response to ischemic
+injury (Fig. 4A). After 3 days, microglia/macrophages were clearly
+present in the core of the infarct, as indicated by up-regulation of
+Iba1 in comparison to the contralateral striatum and sham animals (Fig. 4A and B). A ramiﬁed morphology was observed for
+Iba1-positive cells in the contralateral striatum, in the infarct of
+sham animals and some regions of the ipsilateral striatum (at early
+time points and/or distant from the infarct core; Fig. 4C), whereas
+Iba1-positive microglia/macrophages within the l-NIO infarct had
+an amoeboid or phagocytic morphology (Fig. 4D). Three days
+
+post-ischemia, we observed a signiﬁcant increase in the striatal
+area covered by Iba1 immunoreactivity in l-NIO lesioned animals
+compared to sham-lesioned animals (5.9 ± 2.4% versus 1.8 ± 0.6%;
+Fig. 4E). Even after 35 days, Iba1 immunoreactivity was still signiﬁcantly elevated in l-NIO animals compared to sham. Thus there
+is a distinct microglial/macrophage response speciﬁcally to l-NIOinduced ischemia that lasts at least 35 days following ischemia.
+3.9. Reactive astrogliosis
+Reactive astrogliosis was investigated by analyzing GFAP
+expression following ischemia. GFAP expression appeared to
+decrease in the infarct core 6–24 h following ischemia, while
+increasing in the region surrounding the core from approximately 3 days post-ischemia, compared to sham controls (Fig. 5A
+and B). Astrocytes in the contralateral striatum were bushy and
+globe-shaped with ﬁne processes (Fig. 5C). In contrast, astrocytic
+processes in the ipsilateral l-NIO lesioned striatum, and those close
+to the sham infarct, appeared to have undergone hypertrophy from
+1.5 h post-ischemia (Fig. 5A and D). Polarization of peri-infarct
+astrocytic processes toward the infarct core was also observed
+(Fig. 5E).
+A signiﬁcant change in the extent of GFAP immunoreactivity was
+seen 3–35 days post-ischemia compared to sham controls (Fig. 5F).
+Three days following ischemia, GFAP immunoreactivity covered
+7.9 ± 2.5% of the ipsilateral striatum, peaking at 12.5 ± 3.5% 7
+days post-ischemia, but remaining elevated 35 days post-ischemia.
+This indicates the presence of a chronic post-ischemic astroglial
+response that appears to be maximal 1 week following ischemia.
+Consistent with an evolving astroglial response, there was a large,
+distinct core area devoid of GFAP immunoreactivity 3 days postischemia that declined in size over time (Fig. 5A and G) and was
+absent in sham animals.
+3.10. Functional impairment resulting from the l-NIO infarct
+For a model of stroke to be relevant to the clinical situation, it is
+imperative that a deﬁcit in function is identiﬁed that can potentially
+be improved by experimental stroke therapies. The signiﬁcant role
+of the striatum in motor function suggests that any deﬁcit from
+a striatal infarct is likely to have a motor component. Therefore,
+two different functional paradigms were used to evaluate motor
+performance.
+Rotarod test: The rotarod test was used to identify whether
+animals developed a motor impairment affecting their ability to
+run. No impairment was identiﬁed on the rotarod test between
+treatment groups (Fig. 6A). However, there was a signiﬁcant difference between time points for each group individually (p = 0.033;
+Fig. 6B). The sham group declined in performance immediately
+post-surgery, demonstrating a signiﬁcant decrease in fall latency
+from 88 ± 32 s at baseline to 45 ± 30 s 1 week post-surgery (Fig. 6B).
+This may be related to the anesthetic and/or surgical intervention, as they did not decline further. Interestingly, the group that
+received l-NIO infusions declined signiﬁcantly in performance 4
+weeks post-ischemia (fall latency of 81 ± 28 s at baseline versus
+
+A.R. Van Slooten et al. / Journal of Neuroscience Methods 245 (2015) 44–57
+
+51
+
+Fig. 3. Neuronal degeneration following l-NIO-induced focal ischemia. (A) Images demonstrating Fluoro-Jade C expression from 3 to 35 days post-ischemia in the l-NIO
+lesioned compared to sham-lesioned striatum. (B–D) The mean number of Fluoro-Jade C positive cells in the l-NIO (B, C) and sham-lesioned (B, D) striatum over time. Data are
+presented as the mean ± standard deviation (n = 3–5/group; *p < 0.05, **p < 0.01, ***p < 0.001, relative to non-lesioned control animals unless indicated). Scale bar = 200 ␮m.
+
+46 ± 26 s 4 weeks post-ischemia). This suggests that there may be a
+long-term functional deﬁcit that warrants further investigation on
+a more sensitive test of motor function.
+Cylinder test: Forelimb use during spontaneous exploration was
+investigated using the cylinder test (Schallert et al., 2000). A signiﬁcant difference was found between the treatment groups over
+time in use of the unaffected, ipsilateral forelimb when all types
+of weight-shifting movements (rearing, ﬁrst wall contact and landing) were combined (p = 0.037, Fig. 6C). The ipsilateral limb was
+used to initiate movement signiﬁcantly more often in the l-NIO
+group compared to the no surgery control group 1 week postsurgery (64.6 ± 17.7% versus 40.6 ± 10.7%, respectively). However,
+
+this difference was no longer present 4 weeks post-surgery. A
+longer-lasting deﬁcit was found when the forelimb used to ﬁrst
+contact the wall upon rearing was analyzed separately from rearing
+and landing movements (Fig. 6D). There was a signiﬁcant difference
+between treatment groups over time (p = 0.041), with ipsilateral
+forelimb use increasing in the l-NIO group compared to the no
+surgery control group from 1 week post-ischemia (74.8 ± 25.4%
+versus 34.3 ± 27.3%, respectively) and remaining signiﬁcantly elevated for at least 4 weeks post-ischemia. When rearing and
+landing movements were analyzed individually, no differences
+were detected between treatment groups (Fig. 6E and F). These data
+suggest that there is a chronic functional deﬁcit induced by l-NIO
+
+52
+
+A.R. Van Slooten et al. / Journal of Neuroscience Methods 245 (2015) 44–57
+
+Fig. 4. Microglia/macrophage response to l-NIO-induced ischemia. (A) Iba1 expression from 1.5 h to 35 days post-ischemia. (B) Comparison between sham and l-NIO infarcts
+3 days post-ischemia, for both ipsilateral and contralateral striata. (C, D) High-magniﬁcation images show ramiﬁed microglia (C, arrowheads) and amoeboid (D, arrowheads)
+or phagocytic (D, arrows) microglia/macrophages. (E) Area of Iba1 immunoreactivity, expressed as a percentage of the area of the striatum, over time (3–14 days: n = 3–5; 35
+days: n = 8–10; *p < 0.05, **p < 0.01 relative to respective sham group). Scale bar = 100 ␮m.
+
+that is expressed as an increase in the use of the unaffected, ipsilateral forelimb, revealed through speciﬁc types of weight-shifting
+movements.
+3.11. Neuroprotection
+With the exception of rtPA, no compounds have yet translated
+from preclinical studies into the clinic. Neuroprotective compounds
+
+that have shown promise preclinically have been shown to do
+so using animal models that have large infarcts extending into
+multiple brain regions. Few studies have shown promise at minimizing damage to the striatum; therefore we assessed the potential
+of MK801 to induce neuroprotection following a striatal stroke.
+Neuroprotection has been shown previously in rodent models of
+focal ischemia when compounds are given just prior to and/or
+just following ischemia (Shuaib and Hussain, 2008). We therefore
+
+A.R. Van Slooten et al. / Journal of Neuroscience Methods 245 (2015) 44–57
+
+53
+
+Fig. 5. The astroglial response to l-NIO-induced ischemia. (A) GFAP expression from 1.5 h to 35 days post-ischemia. Dotted lines show the GFAP devoid-core. (B) Comparison
+between sham and l-NIO infarcts 3 days post-ischemia, for both ipsilateral and contralateral striata. (C–E) Astrocytes with GFAP-labeled ﬁne, bushy processes (globe-shaped,
+C), (D) hypertrophied processes or (E) hypertrophied processes polarized toward the infarct core. (F) The area of GFAP immunoreactivity, expressed as a percentage of the
+area of the striatum, over time (3–14 days: n = 3–5; 35 days: n = 8–10; *p < 0.05, **p < 0.01 two-tailed t-test; ## p < 0.01, one-way ANOVA and Tukey HSD post hoc analysis). (G)
+Area of the core region devoid of GFAP (*p < 0.05, one-way ANOVA and Games–Howell post hoc analysis). Scale bar = 100 ␮m.
+
+54
+
+A.R. Van Slooten et al. / Journal of Neuroscience Methods 245 (2015) 44–57
+
+Fig. 6. Motor function following l-NIO-induced ischemia. (A, B) Mean rotarod fall latency baseline, 1 week and 4 weeks post-ischemia, between treatment groups (A) and
+within treatment groups (B) (n = 8–9/group; *p < 0.05). (C–F) Use of the unaffected, ipsilateral forelimb for total weight shifting movements (C), ﬁrst wall contact (D), rearing (E)
+and landing (F) movements assessed by the cylinder test over time (n = 7–9; *p < 0.05, **p < 0.01). Treatment groups consisted of l-NIO lesioned, sham-lesioned or non-surgery
+control animals.
+
+A.R. Van Slooten et al. / Journal of Neuroscience Methods 245 (2015) 44–57
+
+55
+
+Fig. 7. Neuroprotective potential of the l-NIO model. Infarct volume for animals that received MK801 (3 mg/kg) or vehicle intraperitoneal injections (A) 30 min before, or
+(B) 10 min or 1 h following l-NIO-induced ischemia. Infarct volume is expressed as a percentage of the volume of the contralateral striatum. (C) The l-NIO infarct (outlined
+in white) is shown in representative animals with and without MK801 treatment (n = 3–5/group; *p < 0.05, **p < 0.01). Scale bar = 1 mm.
+
+investigated whether the l-NIO model was amenable to neuroprotection with either pre- or post-ischemic administration of the
+NMDA receptor antagonist MK801.
+Pre-treatment with MK801 30 min prior to infusion of l-NIO
+produced no signiﬁcant difference in infarct volume between
+treatment groups (Fig. 7A). However, a signiﬁcant difference was
+found in infarct volume between treatment groups when MK801
+was administered following ischemia (p = 0.002). Administration
+of MK801 10 min post-ischemia resulted in a signiﬁcant increase
+in infarct volume in l-NIO lesioned animals (31.5 ± 14.4%) compared to untreated l-NIO lesioned and sham-lesioned animals
+(8.5 ± 5.3%; Fig. 7B and C) suggesting an interaction of MK-801
+with l-NIO, or the induction of hypertension in anaesthetized animals. However, there was no difference in infarct volume between
+vehicle-treated l-NIO lesioned animals and l-NIO lesioned animals administered MK801 10 min following ischemia. In contrast,
+treatment with MK801 1 h following l-NIO infusion resulted in
+a signiﬁcant decrease in infarct volume (1.6 ± 1.9%) compared to
+the group that received MK801 10 min post-ischemia (Fig. 7B and
+C). However, post-treatment with MK-801 1 h following l-NIOinduced ischemia did not reduce infarct volume when compared to
+vehicle-treated l-NIO lesioned or untreated l-NIO lesioned animals.
+4. Discussion
+We have described the characterization of an ischemic
+infarct produced by stereotaxic infusion of the NOS inhibitor lNIO into the rat striatum. l-NIO-induced ischemia resulted in
+
+acutely compromised BBB function and hypoxia, in addition to
+chronic neurodegeneration and inﬂammation as demonstrated
+by microglial/macrophage and astroglial responses. A subtle but
+chronic impairment in forelimb use was also demonstrated postischemia.
+Infusion of l-NIO into the striatum, combined with ipsilateral
+jugular vein occlusion, consistently generated a moderate-sized
+infarct within the lateral striatum with occasional incorporation of
+the globus pallidus. Unlike the MCAo models, there was no involvement of the amygdala, thalamus, cortex, or hypothalamus, reducing
+the likelihood of interfering with temperature regulation (Gerriets
+et al., 2003) and potentially making the assessment of regional
+drug-effects easier. The l-NIO model was also associated with zero
+mortality, a high success rate and good recovery. Furthermore, the
+l-NIO model may offer an advantage over the closely related ET-1
+model of ischemia due to the potential receptor-mediated effects
+of ET-1 on multiple cell types involved in the pathophysiology of
+stroke and repair processes (Carmichael, 2005; Gadea et al., 2009;
+Hammond et al., 2014). We observed no signiﬁcant variation in
+infarct volume over 35 days following ischemia. This suggests that
+the majority of cell death contributing to the infarct volume has
+occurred by 3 days post-ischemia, though inﬂammation may contribute to ongoing tissue injury. In support, tissue atrophy was
+observed long-term.
+The effect of l-NIO administration on BBB leakage was investigated to assess acute ischemic pathophysiology. The BBB appeared
+to become compromised between 1.5 and 6 h following ischemia,
+as demonstrated by extensive extravasation of serum albumin from
+
+56
+
+A.R. Van Slooten et al. / Journal of Neuroscience Methods 245 (2015) 44–57
+
+the vasculature into the brain parenchyma 6 h, but not 1.5 h, postischemia. ET-1 induced focal ischemia in the striatum does not
+appear to result in BBB disruption (Hughes et al., 2003) demonstrating another advantage the l-NIO model may provide over the
+ET-1 model.
+We also investigated the occurrence of hypoxia following l-NIO
+infusion. The transcription factor HIF-1␣, which regulates cellular
+adaption to hypoxia (Lenihan and Taylor, 2013), was abundantly
+expressed preferentially in ipsilateral striatum neurons from 24 h
+onwards. In order to determine whether neuronal degeneration
+continued long term, degenerating neurons were identiﬁed by
+staining for Fluoro-Jade C. Fluoro-Jade C was expressed within the
+infarct from 24 h, becoming prominent from 3 to 35 days following ischemia, indicating that neurodegeneration occurs long term
+following l-NIO-induced ischemia. We further examined which
+neuronal sub-types were speciﬁcally affected in the l-NIO model
+and found that DARRP-32 medium spiny neurons in the striatum
+were lost by 7 days following ischemia, as has also been found following ET-1-induced striatal ischemia (Fuxe et al., 1992). nNOS,
+parvalbumin and calretinin interneurons were also susceptible to
+l-NIO-induced ischemia with only ChAT interneurons exhibiting
+a resistance to ischemic injury. These results are consistent with
+reports that striatal interneurons are more resistant to ischemia
+than striatal projection neurons (Satoshi et al., 1993).
+Consistent with other models of focal ischemia, l-NIO
+induced a chronic microglial/macrophage and astroglial response.
+Changes in the morphology and location of Iba1-positive
+microglia/macrophages were evident within hours of ischemia
+and Iba1 immunoreactivity was consistently elevated from 3 to
+at least 35 days following l-NIO administration. Early changes in
+morphology and location, and the increase in expression of Iba1
+are consistent with previous reports of microglia being the most
+numerous glial cell type in the ﬁrst 24 h following MCAo in mice
+(Gelderblom et al., 2009) and responding to injury earlier than
+astrocytes (Sozmen et al., 2009). The inﬂammatory response thus
+clearly begins in the hours following l-NIO-induced ischemia and
+continues long-term. GFAP-positive astrocytes were lost in the core
+region from around 6 h following ischemia. Conversely, from 24 h,
+GFAP immunoreactivity increased in the peri-infarct region, to form
+a border indicative of reactive gliosis that was obvious 3 days postischemia. The astroglial border was so distinct that it may provide
+an alternative means of quantifying infarct volume. ET-1 induced
+white matter stroke shows a very similar time course of astrocytic
+activation (Sozmen et al., 2009). The astroglial response observed
+is also consistent with results from Schroeter et al. (1995), who
+observed formation of a distinct GFAP-positive ring around the
+lesion infarct and a remote increase in GFAP immunoreactivity 3
+days following photothrombotic focal ischemia. Chronic astrogliosis and the formation of an astroglial border has also been observed
+in the striatum following both ET-1 and MCAo-induced ischemia
+(Fuxe et al., 1992; Clark et al., 1994). We observed the core area bordered by astrocytes decreased in size until it was no longer present
+after 35 days. It is not possible to say from this data whether the
+reduction in the core area is due to tissue loss, migration of astrocytes or proliferation of endogenous astrocytes. Recent research
+suggests that astrocytes may not migrate in response to injury
+but proliferate and relocate their processes to form glial borders
+(Bardehle et al., 2013; Wanner et al., 2013).
+We investigated the potential for neuroprotection following lNIO-induced ischemia by administration of the NMDA receptor
+antagonist MK801. MK801 has been shown to have different effects
+depending on whether animals are anesthetized or not; it may
+cause hypotension in conscious animals but hypertension in anesthetized animals (Park et al., 1988). Therefore the ischemic infarct
+could have been exacerbated by the 10 min injection paradigm
+because animals were still anaesthetized, whereas 1 h later the
+
+animals received injections when they were conscious. Studies
+using MCAo models have typically found that neuroprotection
+declines over time but protection has been shown with MK801 as
+late as 1 h following permanent MCAo (Hatﬁeld et al., 1992). The
+lack of MK801-induced neuroprotection in the l-NIO model may
+have been a result of the small infarct volume or the differing sensitivities to ischemia between brain regions (Skelding et al., 2012).
+An important next step would be to investigate alternative neuroprotective agents in this model to conﬁrm if neuroprotection can
+be induced following striatal stroke through other mechanisms.
+In conclusion, we have introduced a novel rat model of striatal
+focal ischemia. When compared to other models with similar histological and inﬂammatory proﬁles such as the MCAo models, the
+consistency in regions affected, high success rate, zero mortality,
+reduced surgical complexity and minimal welfare requirements of
+the l-NIO model make it ideal for initial high-throughput investigations into preclinical efﬁcacy and proof of principle studies of
+acute ischemic stroke interventions. For better generalization to
+the clinical condition, it is important to test putative therapeutic
+strategies in a range of focal ischemia models. We therefore propose
+the l-NIO model does not replace the use of other ischemic stroke
+models in the preclinical phase, rather it is complementary. The
+l-NIO model may provide a useful initial in vivo model, followed
+by thromboembolic models that are closer to the human etiology
+but are more difﬁcult to generate. It has been suggested that MCAo
+models represent malignant infarction and not the smaller, more
+treatable infarcts which are most common in humans; therefore
+small, focal models such as the l-NIO model are also important for
+clinical translation (Carmichael, 2005). Involvement of the striatum
+in human stroke has been demonstrated in approximately 24% of
+patients and a predominantly striatal infarct associated with mild
+neurological deﬁcits has been shown in 8% of patients (Delavaran
+et al., 2013). Therefore, the striatal location of the l-NIO-induced
+infarct and associated subtle functional deﬁcit are relevant to types
+of human stroke. As such, use of the l-NIO model of focal ischemic
+stroke provides an alternative strategy to aid in the advancement
+of stroke research.
+Conﬂict of interest
+The authors declare no conﬂicts of interest in the publishing of
+this research article.
+Acknowledgments
+The authors would like to thank Profs. Colin Green and Louise
+Nicholson for their input regarding assessment of blood–brain
+barrier dysfunction. Funding was provided by the Neurological
+Foundation of New Zealand, Maurice and Phyllis Paykel Trust, and
+the Lotteries Health Research Foundation. AVS was supported by
+a Neurological Foundation Miller Postgraduate Scholarship and a
+University of Auckland Doctoral Scholarship.
+References
+Alderton WK, Cooper CE, Knowles RG. Nitric oxide synthases: structure, function
+and inhibition. Biochem J 2001;357(Pt. 3):593–615.
+Bardehle S, Kruger M, Buggenthin F, Schwausch J, Ninkovic J, Clevers H, et al. Live
+imaging of astrocyte responses to acute injury reveals selective juxtavascular
+proliferation. Nat Neurosci 2013;16(5):580–6.
+Beech J, Williams S, Campbell C, Bath P, Parsons A, Hunter A, et al. Further
+characterisation of a thromboembolic model of stroke in the rat. Brain Res
+2001;895(1–2):18–24.
+Carmichael ST. Rodent models of focal stroke: size, mechanism, and purpose. NeuroRx 2005;2(3):396–409.
+Clark RK, Lee EV, White RF, Jonak ZL, Feuerstein GZ, Barone FC. Reperfusion following
+focal stroke hastens inﬂammation and resolution of ischemic injured tissue.
+Brain Res Bull 1994;35(4):387–92.
+
+A.R. Van Slooten et al. / Journal of Neuroscience Methods 245 (2015) 44–57
+Delavaran H, Sjunnesson H, Arvidsson A, Lindvall O, Norrving B, van Westen
+D, et al. Proximity of brain infarcts to regions of endogenous neurogenesis
+and involvement of striatum in ischaemic stroke. Eur J Neurol 2013;20(3):
+473–9.
+Feigin VL, Forouzanfar MH, Krishnamurthi R, Mensah GA, Connor M, Bennett DA,
+et al. Global and regional burden of stroke during 1990–2010: ﬁndings from the
+Global Burden of Disease Study 2010. Lancet 2014;383(9913):245–54.
+Fuxe K, Kurosawa N, Cintra A, Hallstrom A, Goiny M, Rosen L, et al. Involvement
+of local ischemia in endothelin-1 induced lesions of the neostriatum of the
+anaesthetized rat. Exp Brain Res 1992;88(1):131–9.
+Gadea A, Aguirre A, Haydar TF, Gallo V. Endothelin-1 regulates oligodendrocyte
+development. J Neurosci 2009;29(32):10047–62.
+Gelderblom M, Leypoldt F, Steinbach K, Behrens D, Choe CU, Siler DA, et al. Temporal
+and spatial dynamics of cerebral immune cell accumulation in stroke. Stroke
+2009;40(5):1849–57.
+Gerriets T, Stolz E, Walberer M, Kaps M, Bachmann G, Fisher M. Neuroprotective
+effects of MK-801 in different rat stroke models for permanent middle cerebral
+artery occlusion: adverse effects of hypothalamic damage and strategies for its
+avoidance. Stroke 2003;34(9):2234–9.
+Golanov EV, Reis DJ. Contribution of cerebral edema to the neuronal salvage elicited
+by stimulation of cerebellar fastigial nucleus after occlusion of the middle cerebral artery in rat. J Cerebr Blood Flow Metabol 1995;15(1):172–4.
+Greco R, Mangione AS, Amantea D, Bagetta G, Nappi G, Tassorelli C. IkappaB-alpha
+expression following transient focal cerebral ischemia is modulated by nitric
+oxide. Brain Res 2011;1372(C):145–51.
+Hammond TR, Gadea A, Dupree J, Kerninon C, Nait-Oumesmar B, Aguirre A, et al.
+Astrocyte-derived endothelin-1 inhibits remyelination through notch activation. Neuron 2014;81(3):588–602.
+Hatﬁeld RH, Gill R, Brazell C. The dose–response relationship and therapeutic window for dizocilpine (MK-801) in a rat focal ischaemia model. Eur J Pharmacol
+1992;216(1):1–7.
+Hinman JD, Rasband MN, Carmichael ST. Remodeling of the axon initial segment
+after focal cortical and white matter stroke. Stroke 2013;44(1):182–9.
+Howells DW, Porritt MJ, Rewell SS, O’Collins V, Sena ES, van der Worp HB, et al.
+Different strokes for different folks: the rich diversity of animal models of focal
+cerebral ischemia. J Cerebr Blood Flow Metabol 2010;30(8):1412–31.
+Hughes PM, Anthony DC, Ruddin M, Botham MS, Rankine EL, Sablone M, et al. Focal
+lesions in the rat central nervous system induced by endothelin-1. J Neuropathol
+Exp Neurol 2003;62(12):1276–86.
+Lees KR, Bluhmki E, von Kummer R, Brott TG, Toni D, Grotta JC, et al. Time
+to treatment with intravenous alteplase and outcome in stroke: an updated
+pooled analysis of ECASS, ATLANTIS, NINDS, and EPITHET trials. Lancet
+2010;375(9727):1695–703.
+
+57
+
+Lenihan CR, Taylor CT. The impact of hypoxia on cell death pathways. Biochem Soc
+Trans 2013;41(2):657–63.
+Oyama N, Yagita Y, Sasaki T, Omura-Matsuoka E, Terasaki Y, Sugiyama Y, et al. An
+angiotensin II type 1 receptor blocker can preserve endothelial function and
+attenuate brain ischemic damage in spontaneously hypertensive rats. J Neurosci
+Res 2010;88(13):2889–98.
+Park CK, Nehls DG, Graham DI, Teasdale GM, McCulloch J. The glutamate antagonist MK-801 reduces focal ischemic brain damage in the rat. Ann Neurol
+1988;24(4):543–51.
+Rees DD, Palmer RM, Schulz R, Hodson HF, Moncada S. Characterization of three
+inhibitors of endothelial nitric oxide synthase in vitro and in vivo. Br J Pharmacol
+1990;101(3):746–52.
+Rosenzweig S, Carmichael ST. Age-dependent exacerbation of white matter stroke
+outcomes: a role for oxidative damage and inﬂammatory mediators. Stroke
+2013;44(9):2579–86.
+Satoshi G, Shinji N, Kojiro K, Yukitaka U. Striatonigral involvement following transient focal cerebral ischemia in the rats: an immunohistochemical study on a
+reversible ischemia model. Acta Neuropathol 1993;85.
+Schallert T, Fleming SM, Leasure JL, Tillerson JL, Bland ST. CNS plasticity and assessment of forelimb sensorimotor outcome in unilateral rat models of stroke,
+cortical ablation, parkinsonism and spinal cord injury. Neuropharmacology
+2000;39(5):777–87.
+Schroeter M, Schiene K, Kraemer M, Hagemann G, Weigel H, Eysel UT, et al. Astroglial
+responses in photochemically induced focal ischemia of the rat cortex. Exp Brain
+Res 1995;106(1):1–6.
+Sharkey J, Butcher SP. Characterisation of an experimental model of stroke produced by intracerebral microinjection of endothelin-1 adjacent to the rat middle
+cerebral artery. J Neurosci Methods 1995;60(1–2):125–31.
+Shuaib A, Hussain MS. The past and future of neuroprotection in cerebral ischaemic
+stroke. Eur Neurol 2008;59(1–2):4–14.
+Skelding KA, Spratt NJ, Fluechter L, Dickson PW, Rostas JA. AlphaCaMKII is differentially regulated in brain regions that exhibit differing sensitivities to ischemia
+and excitotoxicity. J Cerebr Blood Flow Metabol 2012;32(12):2181–92.
+Sozmen EG, Kolekar A, Havton LA, Carmichael ST. A white matter stroke model in
+the mouse: axonal damage, progenitor responses and MRI correlates. J Neurosci
+Methods 2009;180(2):261–72.
+Swanson RA, Morton MT, Tsao-Wu G, Savalos RA, Davidson C, Sharp FR. A semiautomated method for measuring brain infarct volume. J Cerebr Blood Flow Metabol
+1990;10(2):290–3.
+Wanner I, Anderson M, Song B, Levine J, Fernandez A, Gray-Thompson Z, et al. Glial
+scar borders are formed by newly proliferated, elongated astrocytes that interact
+to corral inﬂammatory and ﬁbrotic cells via STAT3-dependent mechanisms after
+spinal cord injury. J Neurol Sci 2013;33(31):12870–86.
+
+

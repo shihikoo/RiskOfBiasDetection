@@ -1,0 +1,811 @@
+Journal of Cerebral Blood Flow & Metabolism (2014) 34, 1613–1621
+& 2014 ISCBFM All rights reserved 0271-678X/14 $32.00
+www.jcbfm.com
+
+ORIGINAL ARTICLE
+
+Neuronal NAMPT is released after cerebral ischemia and protects
+against white matter injury
+Zheng Jing1,2,5, Juan Xing1,2,5, Xinzhi Chen1,2, Ruth A Stetler2, Zhongfang Weng2, Yu Gan2, Feng Zhang2, Yanqin Gao3, Jun Chen1,2,
+Rehana K Leak4 and Guodong Cao1,2
+Nicotinamide phosphoribosyltransferase (NAMPT) has been implicated in neuroprotection against ischemic brain injury, but the
+mechanism underlying its protective effect remains largely unknown. To further examine the protective effect of NAMPT against
+ischemic stroke and its potential mechanism of action, we generated a novel neuron-speciﬁc NAMPT transgenic mouse line.
+Transgenic mice and wild-type littermates were subjected to transient occlusion of the middle cerebral artery (MCAO) for
+60 minutes. Neuron-speciﬁc NAMPT overexpression signiﬁcantly reduced infarct volume by 65% (P ¼ 0.018) and improved
+long-term neurologic outcomes (Pr0.05) compared with littermates. Interestingly, neuronal overexpression of NAMPT increased
+the area of myelinated ﬁbers in the striatum and corpus callosum, indicating that NAMPT protects against white matter injury. The
+mechanism of protection appeared to be through extracellular release of NAMPT. First, NAMPT was secreted into the extracellular
+medium by primary cortical neurons exposed to ischemia-like oxygen–glucose deprivation (OGD) in vitro. Second, conditioned
+medium from NAMPT-overexpressing neurons exposed to OGD protected cultured oligodendrocytes from OGD. Third, the
+protective effects of conditioned medium were abolished by antibody-mediated NAMPT depletion, strongly suggesting that the
+protective effect is mediated by the extracellular NAMPT released into in the medium. These data suggest a novel neuroprotective
+role for secreted NAMPT in the protection of white matter after ischemic injury.
+Journal of Cerebral Blood Flow & Metabolism (2014) 34, 1613–1621; doi:10.1038/jcbfm.2014.119; published online 9 July 2014
+Keywords: NAMPT; NAMPT secretion; neuroprotection; oligodendrocytes; transient MCAO; white matter injury
+
+INTRODUCTION
+Cerebral ischemic injury leads to complex tissue pathology
+involving both gray matter and white matter (WM). White matter
+in the telencephalon encompasses the corpus callosum, internal
+capsule, anterior commissure, and ﬁber bundles in the striatum,
+and is mainly involved in sensorimotor signal transduction to and
+from the cerebral cortex (CTX). Blood ﬂow within WM is relatively
+less than in gray matter and there is little collateral circulation,
+especially in deep WM. Oligodendrocytes (OLs) and OL precursor
+cells play an essential role in myelin formation in WM and are
+highly sensitive to ischemia.1 Furthermore, WM becomes even
+more susceptible to ischemia with age.2 Therefore, WM is highly
+vulnerable to ischemia and often more severely injured than gray
+matter.3 Indeed, WM is affected in most cases of human stroke,
+accounting for half of the lesion volume.4 Histologic changes of
+WM injury (WMI) range from demyelination, death of OLs, and
+axonal damage and loss, to mild reactive gliosis. Owing to the
+critical role of WM in neurotransmission, WMI may lead to sensorimotor disruption, neurobehavioral syndromes, and cognitive
+impairments.5–7 Despite the essential roles for WM in neural
+function and its susceptibility to ischemia, WMI has largely
+been overlooked in animal studies as well as in clinical
+treatments.8 Thus, complete neuroprotection cannot be truly
+
+attained without WM protection, and complete analyses of WMI
+in models of cerebral ischemia and potential WM protectants
+are essential.
+Nicotinamide phosphoribosyltransferase (NAMPT) converts
+nicotinamide to nicotinamide mononucleotide, the rate-limiting
+step in the salvage pathway of nicotinamide adenine dinucleotide
+(NAD) biosynthesis.9,10 Nicotinamide adenine dinucleotide is a
+major source of ATP production and also acts as the substrate
+for several important molecules, such as the DNA repair enzyme
+poly-[ADP-ribose]-polymerase 1 (PARP-1) and the transcription
+regulatory protein sirtuin 1. Nicotinamide phosphoribosyltransferase therefore plays a key role in the regulation of energy
+metabolism and stress responses. Previous studies indicated that
+lentivirus-mediated NAMPT overexpression is neuroprotective
+against ischemic brain injury,11 while genetic deletion of NAMPT
+exacerbates ischemic brain injury.12 Speciﬁcally, Wang and colleagues reported that NAMPT upregulation is part of a natural stress
+response to ischemic injury and that it protects gray matter
+through sirtuin 1-dependent modulation of the adenosine
+monophosphate-activated kinase pathway. These ﬁndings show
+that NAMPT is an endogenous neuroprotective molecule. However, beyond these observations, little is understood about the
+functions of the NAMPT molecule when overexpressed in the
+
+1
+Geriatric Research, Education and Clinical Center, Veterans Affairs Pittsburgh Healthcare System, Pittsburgh, Pennsylvania, USA; 2Department of Neurology, University of
+Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, USA; 3State Key Laboratory of Medical Neurobiology, Fudan University, Shanghai, China and 4Division of Pharmaceutical
+Sciences, Duquesne University, Pittsburgh, Pennsylvania, USA. Correspondence: Dr G Cao, Department of Neurology, University of Pittsburgh School of Medicine, BST S505,
+University of Pittsburgh, 3500 Terrace Street, Pittsburgh, PA 15260, USA.
+E-mail: caog@upmc.edu
+This project was supported by National Institutes of Health/NINDS grants NS079345, (to GC), VA Merit Review grants RX000199 and BX002346 (to GC), and Chinese Natural
+Science Foundation grants 81371306 (to Yanqin Gao).
+5
+These authors contributed equally to this work.
+Received 7 March 2014; accepted 6 June 2014; published online 9 July 2014
+
+NAMPT protects against ischemic WMI
+Z Jing et al
+
+1614
+central nervous system (CNS) and the mechanisms underlying its
+protective effects, particularly in the context of ischemic injury.
+In mammals, NAMPT protein can be found in both the
+intracellular (iNAMPT) and extracellular (eNAMPT) spaces. Whereas
+the function of iNAMPT as a NAD biosynthetic enzyme has been
+fully supported, the signiﬁcance and function of eNAMPT remains
+unknown. Extracellular NAMPT does not exhibit classic secretory
+signaling. Instead, it can be secreted into the extracellular space
+or into the blood via a non-classical secretory mechanism13
+by a number of cell types, such as adipocytes, hepatocytes,
+macrophages, and leukocytes.14–16 Whether neuronal cells also
+secrete eNAMPT and its potential function in the CNS remain
+unknown. In the present study, we observed that transgenic mice
+overexpressing NAMPT in a neuron-speciﬁc manner were highly
+resistant to focal cerebral ischemic brain damage. Interestingly,
+WMI was signiﬁcantly reduced in neuronal NAMPT transgenic
+(Tg-NAMPT) mice compared with WT littermates. Furthermore, we
+detected that ischemic neuronal cells secrete NAMPT into the
+extracellular space and that the conditioned medium from
+ischemic neurons overexpressing NAMPT is protective against
+ischemic injury in primary cultured OLs. Finally, recombinant
+NAMPT protein itself was also protective against ischemia-like
+insults when added to the medium of primary cultured OLs. These
+data support a novel role for eNAMPT in protection against
+ischemic WMI.
+
+Measurements of Infarct Volume
+At 72 hours after MCAO, brains were removed and the forebrain was sliced
+into 1 mm thick coronal sections. Sections were stained with 2% 2,3,5triphenyltetrazolium chloride. Infarct volume was determined using MCID
+image analysis (Imaging Research, St. Catherine’s, Canada). The experimenter was masked to genotype during all measurements.
+
+Neurologic Deﬁcits and Behavioral Tests
+Three neurobehavioral tests were performed by an observer masked to the
+experiments, as previously reported by us.18 First, neurologic deﬁcits were
+scored on a 0 to 5 scale as follows: no neurologic deﬁcit (0); failure to
+extend the right forepaw fully (1); circling to the right (2); falling to the
+right (3); unable to walk spontaneously (4); or dead (5). Second, the corner
+test was performed on days 0, 1, 3, 5, 7, 10, and 14 after ischemia. A mouse
+was placed between two angled (301) boards, facing the corner. Rearing
+and subsequent turning behavior to either side was recorded. The nonischemic mouse turns either left or right whereas the ischemic mouse turns
+preferentially toward the left side. The numbers of left turns were counted
+in 10 trials. For the third test, the rotarod, animals were placed on an
+accelerating rotating rod (from 4 to 40 r.p.m. over 300 seconds) and their
+latency to fall was recorded. Preoperative training was performed for three
+trials a day for 3 days and the last trial served as preoperative baseline.
+Postoperative testing was performed on day 1, 3, 5, 7, 10, and
+14 postinjury. The data are expressed as the mean duration of time on
+the rotarod per day as a percentage of the presurgery control value.
+
+Generation of Lentiviral Vectors
+MATERIALS AND METHODS
+Generation of Brain-Speciﬁc NAMPT Transgenic Mice
+Human NAMPT cDNA tagged with hemagglutinin (HA) was PCR-ampliﬁed
+and inserted into pcDNA 3.1 vector (Invitrogen, Grand Island, NY, USA).
+Cytomegalovirus promoter was substituted with a 4.1 kb Thy-1 promoter
+(kindly provided by Dr Joshua Sanes, Harvard University). To enhance the
+expression of NAMPT, the human b-globin intron was then inserted
+between the Thy-1 promoter and NAMPT cDNA. The resulting construct
+was linearized and microinjected into zygotes collected from C57BL/6
+mice. Microinjected zygotes were implanted into pseudo-pregnant C57BL/
+6 recipient mice. The microinjection and implantation procedures were
+performed by the University of Pittsburgh Transgenic Core. After birth,
+pups were genotyped and backbred with C57BL/6 mice. In all experiments,
+WT littermates backbred from the same transgenic colonies were used as
+controls. Only adult male mice (25 to 30 g) were used in the study.
+
+Murine Model of Transient Focal Ischemia
+All animal experiments were approved by the University of Pittsburgh
+Institutional Animal Care and Use Committee and performed in
+accordance with the NIH Guide for the Care and Use of Laboratory
+Animals. Focal cerebral ischemia was produced by intraluminal occlusion
+of the left middle cerebral artery (MCA) with a nylon monoﬁlament
+suture, as previously described.17 Brieﬂy, 8- to 10-week-old Tg-NAMPT
+or WT male littermates were anesthetized with 1.5% isoﬂurane in a 30%
+O2/70% N2O mixture under spontaneous breathing conditions. Rectal
+temperature was controlled at 37.01C±0.51C with a temperature-regulated
+heating pad during surgery and MCA occlusion (MCAO). Mean arterial
+blood pressure was monitored during MCAO through a tail cuff,
+and arterial blood gas was analyzed 15 minutes after the onset of
+ischemia. The animals underwent MCAO for 60 minutes and then
+reperfusion for 72 hours for infarct volume measurement or for 2 weeks
+for behavioral tests. In all experiments, the experimenter was masked to
+genotype.
+
+Regional Cerebral Blood Flow Measurement
+Changes in regional cerebral blood ﬂow at the surface of the left CTX were
+recorded using laser Doppler ﬂowmetry (PeriFlux system 5000; Jarfalla,
+Sweden) with a ﬂexible optical ﬁber probe. The tip of the probe was afﬁxed
+with glue on the skull over the core area supplied by the MCA (1 mm
+posterior and 5 mm lateral from bregma). Regional cerebral blood ﬂow was
+measured 5 minutes before MCAO (baseline), 5 and 55 minutes during
+MCAO, and 5 minutes after reperfusion and expressed as a percentage of
+baseline values.
+Journal of Cerebral Blood Flow & Metabolism (2014), 1613 – 1621
+
+Based on our experience, the phosphoglycerate kinase promoter mediates
+better gene expression than the ubiquitin promoter in neurons. Therefore,
+we modiﬁed the lentiviral shuttle vector FUEW (kindly provided by
+Dr Carlos Lois from the Massachusetts Institute of Technology) in which
+green ﬂuorescent protein (GFP) was driven by the ubiquitin promoter and
+generated two lentiviral vectors: lenti-GFP and lenti-NAMPT. Lenti-GFP was
+produced by substitution of the ubiquitin promoter in FUEW by the
+phosphoglycerate kinase promoter. Lenti-NAMPT was produced by
+substitution of GFP in lenti-GFP with NAMPT cDNA containing the HA
+tag. Lentiviral vectors were generated by CaPO4 precipitation transfection
+in 293 cells, concentrated by sucrose ultracentrifugation, and further
+puriﬁed by ion exchange chromatography using Mustang Q Acrodisc Units
+(PALL Corporation, Port Washington, NY, USA). The titer of the puriﬁed
+lentiviral vector was 1.2  109/transfection units/ml.
+
+Generation of NAMPT Protein
+His6-tagged NAMPT cDNA was generated by PCR, inserted into pET-30a
+(Novagen, Darmstadt, Germany), and transformed into BL21 Escherichia
+coli. Recombinant protein was puriﬁed using superﬂow Ni-NTA agarose
+column (Qiagen, Valencia, CA, USA) according to the manufacturer’s
+instructions and dialyzed in 300 NaCl containing 10 mmol/l Tris-HCl
+(pH 8.0).
+
+In Vitro Models of Ischemia-Like Insults
+Primary cultures of cortical neurons were prepared from 17 day-old
+Sprague Dawley rat embryos (Charles River Laboratories, Horsham, PA,
+USA), as previously described.17 Experiments were conducted at 8 to 10
+days in vitro, when cultures consisted primarily of neurons (97%). Cortical
+neurons were pretreated at 8 days in vitro with 1  107 transduction units/
+ml lenti-NAMPT or lenti-GFP virus for 72 hours, and then subjected to either
+oxygen–glucose deprivation (OGD) or N-methyl D-aspartate neurotoxicity.
+
+Primary Oligodendrocyte Precursor Cells/Oligodendrocytes
+Culture and In Vitro Models of Ischemia-Like Insults
+Primary OL precursor cell cultures were prepared as previously described.19
+Brieﬂy, cerebral cortices from postnatal day 1 to 3 Sprague Dawley rats
+were dissected and minced. Dissociated cells from 2 to 3 rats were plated
+in a tissue culture ﬂask coated with poly-L-lysine (Sigma, St Louis, MO, USA).
+Cell cultures were maintained in DMEM/F12 (Invitrogen) containing 10%
+fetal bovine serum at 371C with 5% CO2. Cultures were maintained for 10
+days, with a medium change every 3 days. On day 10, ﬂasks were sealed
+and rotated at 200 r.p.m. at 371C for 1 hour to shake off microglia. Flasks
+were then rotated again overnight. On the next morning, the medium
+containing the detached OL precursor cells was collected and plated on
+& 2014 ISCBFM
+
+NAMPT protects against ischemic WMI
+Z Jing et al
+
+1615
+tissue culture dishes coated with Poly-DL-ornithine (Sigma) in basal
+culture medium containing 10 ng/ml platelet-derived growth factor and
+10 ng/ml basic ﬁbroblast growth factor for OL precursor cells. For
+differentiation experiments, cells were kept in basal culture medium
+containing 15 nmol/l triiodothyronine and 10 ng/ml ciliary neurotrophic
+factor for 3 to 7 days.
+For the OGD model, OLs were subjected to OGD for 180 minutes,
+and returned to normal culture media and conditions. To induce alphaamino-3-hydroxy-5-methyl-4-isoxazoleproprionic acid (AMPA) excitotoxicity, OLs were challenged with 50 mmol/L of AMPA for 5 minutes and
+then returned to normal culture media and conditions. Puriﬁed
+recombinant NAMPT was added (5 mg/ml) to primary oligodendrocytic
+cultures before, during, and after insults. Twenty-four hours after insults,
+cell death was quantiﬁed by Hoechst 33258 (Invitrogen) nuclear staining
+and lactate dehydrogenase release.
+In a parallel study, neurons were transduced with lenti-NAMPT or control
+lenti-GFP virus and subjected to OGD treatment for 60 minutes.
+Conditioned medium was collected 24 hours after OGD, coincubated with
+OLs, and then subjected to OGD treatment for 180 minutes. Cells were
+incubated for 24 hours with conditioned medium and cell death was
+analyzed as above. To deplete NAMPT released into culture medium,
+conditioned medium was incubated with NAMPT antibodies (10 mg/ml)
+and agarose A/G beads, followed by centrifugation.
+
+Immunoﬂuorescent Staining
+After blocking with 5% bovine serum albumin in phosphate-buffered
+saline for 1 hour, sections were incubated with primary antibodies at 41C
+overnight followed by the appropriate secondary antibodies for 1 hour at
+room temperature. The primary antibodies used in this study include:
+mouse anti-HA (1:100, Cell Signaling, Danvers, MA, USA), rabbit antiNAMPT (1:500, Bethyl Laboratories, Montgomery, TX, USA), or mouse
+anti-NAMPT (1:300, Enzo Life Sciences, Farmingdale, NY, USA), mouse antiNeuN (1:500, Millipore, Billerica, MA, USA), rabbit anti-GFAP (1:500, Dako,
+Carpinteria, CA, USA), rabbit anti-Iba1 (1:2000, Wako, Richmond, VA, USA),
+mouse anti-APC (1:400, Millipore), rat anti-CD31 (1:200, Abcam, Cambridge,
+MA, USA), and rabbit anti-myelin basic protein (MBP, 1:500, Abcam).
+
+Luxol Fast Blue Stain
+Brain sections were deparafﬁnized with xylene and dehydrated with
+alcohols, and then immersed in a 0.1% alcoholic solution containing Luxol
+
+fast blue (Sigma) at 561C for 2 hours, followed by washing with distilled
+water. Sections were then incubated in 0.05% lithium carbonate,
+dehydrated through graded alcohols, mounted with Permount (Sigma),
+and examined by light microscopy. The quantitative analysis for
+remyelination in Luxol fast blue stained section was performed as
+described previously.20 The area of reduced Luxol fast blue staining was
+measured and expressed as a percentage of the contralateral hemisphere.
+
+Statistical Analysis
+Results are reported as mean±s.e.m. The difference between means
+was assessed by the Student’s t-test for single comparisons or by analysis
+of variance followed by post hoc Bonferroni–Dunn tests for multiple
+comparisons. Pp0.05 was deemed statistically signiﬁcant.
+
+RESULTS
+Neuron-Speciﬁc Overexpression of NAMPT is Protective Against
+Cerebral Ischemic Injury in a Transgenic Mouse Line
+Previous reports indicated that lentiviral-mediated NAMPT overexpression decreases cerebral ischemic infarct size in vivo.11 To
+better regulate the overexpression of NAMPT for further study
+in vivo, we developed a mouse line overexpressing the NAMPT
+transgene. Because NAMPT regulates NAD/ATP production, panorgan overexpression may complicate the interpretation of its role
+in the brain. Thus, we decided to overexpress NAMPT speciﬁcally
+within neurons by generating a brain-speciﬁc NAMPT transgenic
+mouse line. Nicotinamide phosphoribosyltransferase cDNA tagged
+with HA was placed under control of the neuron-speciﬁc promoter
+Thy-1, and an intron was inserted to enhance the expression
+of NAMPT (Figure 1A). After extensive breeding on a C57BL/6
+background, we successfully generated a transgenic mouse line
+that overexpresses NAMPT exclusively in the brain (Figure 1B).
+Transgenic NAMPT protein (HA-tagged) was found throughout the
+whole brain, but with particularly high expression in pyramidal
+cell layers 5 and 6 in the CTX and within striatal ﬁber bundles
+(Figure 1C). Furthermore, the majority of HA-positive cells were
+colabeled with the neuronal marker NeuN, indicating that the
+
+Figure 1. Generation of neuron-specific nicotinamide phosphoribosyltransferase (NAMPT) transgenic (Tg-NAMPT) mice. (A) Schematic map of
+NAMPT transgenic construct. (B) Western blotting using HA antibodies shows that transgenic NAMPT–HA is only expressed in the brain of
+Tg-NAMPT mice. (C) Immunofluorescent staining illustrates that NAMPT is predominantly expressed in the cortex and fiber bundles in the
+striatum. (D) Immunofluorescent double-labeling for HA tag with the neuronal marker NeuN, the astrocyte marker GFAP, the microglia marker
+Iba1, the oligodendrocyte marker APC, and the endothelial marker CD31; HA, hemagglutinin.
+& 2014 ISCBFM
+
+Journal of Cerebral Blood Flow & Metabolism (2014), 1613 – 1621
+
+NAMPT protects against ischemic WMI
+Z Jing et al
+
+1616
+transgene was primarily expressed in neurons (Figure 1D). No
+expression of HA–NAMPT was detected in other cell types, such as
+astrocytes, microglia, OLs, and endothelial cells (Figure 1D). No
+alterations in body weight or blood glucose levels were found in
+neuron-targeted Tg-NAMPT mice (data not shown), and endogenous NAMPT remained normally expressed in other tissues at
+similar levels as WT mice (data not shown).
+Using these novel neuron-speciﬁc Tg-NAMPT mice, we sought
+to determine if neuronal overexpression of NAMPT alone would
+be adequate to confer protection against focal ischemic injury.
+Neuronal Tg-NAMPT mice and WT littermates were subjected to
+60 minutes MCAO and infarct volume and neurologic deﬁcits were
+assessed 72 hours after reperfusion. Functional outcomes were
+evaluated by the corner and rotarod tests for 2 weeks. Neuronal
+NAMPT transgenic overexpression signiﬁcantly reduced infarct
+volume by 65% compared with WT littermates (P ¼ 0.018, Figures
+2A and 2B) at 72 hours after MCAO, suggesting that NAMPT overexpression exerts robust tissue protective effects. Compared
+with WT littermates, Tg-NAMPT mice also exhibited signiﬁcantly
+lower neurologic deﬁcit scores (Figure 2C, Pr0.05), turned less
+frequently to the left side in the corner test (Figure 2D, Pr0.05),
+and remained longer on the rotarod test (Figure 2E, Pr0.05).
+Importantly, the functional improvements lasted for 2 weeks after
+ischemia, indicating that NAMPT transgenic overexpression
+provides long-term functional improvement against ischemic
+brain injury. Physiologic parameters (blood pressure, blood gases,
+and blood glucose; data not shown) and regional cerebral
+blood ﬂow (Table 1) were not affected by transgene expression.
+Together, these data indicate that neuronal targeting of NAMPT
+
+is sufﬁcient to confer potent neuroprotection against focal
+cerebral ischemic injury.
+Nicotinamide Phosphoribosyltransferase Transgenic
+Overexpression Attenuates White Matter Injury after Ischemia
+Previous studies using lentiviral vectors in vivo or NAMPT deletion
+have already indicated a neuroprotective role for NAMPT against
+ischemic injury.11,12 Thus, the ﬁnding that neuronal overexpression of NAMPT was neuroprotective against cerebral ischemic
+injury was not surprising. Even though the preservation of
+neurons is beneﬁcial, focal ischemic injury affects both
+gray matter and WM and unresolved WMI can result in delayed
+axonal or Wallerian degeneration. Thus, in addition to the gross
+neural protection afforded by neuronal NAMPT transgenic
+expression (Figures 2A and 2B), we also examined the state of
+WM. Focal ischemia signiﬁcantly reduced myelin expression in
+striatal ﬁbers and corpus callosum in WT mice 72 hours after
+reperfusion, as reﬂected by lighter and smaller areas of Luxol fast
+blue staining (Figure 3A, top panels and Figure 3B). Notably,
+neuronal NAMPT transgenic overexpression signiﬁcantly increased
+the area of myelin expression after ischemia compared with WT
+littermates (Figure 3A, bottom panels and Figure 3B). This
+indicates that WMI was either prevented or repaired in mice
+overexpressing neuronal NAMPT. Since the NAMPT transgene was
+constructed to be under the control of the neuron-speciﬁc
+promoter Thy-1, we hypothesized that neuronally expressed
+NAMPT may be functioning in a novel extracellular manner
+to protect WM.
+
+Figure 2. Nicotinamide phosphoribosyltransferase (NAMPT) overexpression protects against ischemic brain injury. (A) Representative
+photographs of triphenyltetrazolium chloride (TTC) stained coronal brain sections from NAMPT transgenic (Tg-NAMPT) mice and wild-type
+(WT) littermates at 72 hours after 60-minute middle cerebral artery occlusion (MCAO). (B) Quantitative measurements of infarct volume.
+(C) Neurologic deficit scores. (D) Corner test. (E) Rotarod test. Data are mean±s.e.m., n ¼ 10/group. *Pp0.05 versus WT littermates; #Pp0.05
+versus sham.
+Journal of Cerebral Blood Flow & Metabolism (2014), 1613 – 1621
+
+& 2014 ISCBFM
+
+NAMPT protects against ischemic WMI
+Z Jing et al
+
+1617
+Table 1.
+
+Changes of rCBF before, during, and after MCAO in
+Tg-NAMPT mice and WT littermates
+
+5 Minutes before MCAO
+5 Minutes during MCAO
+55 Minutes during MCAO
+5 Minutes after reperfusion
+
+WT
+
+Tg-NAMPT
+
+100±6.69
+10.95±1.23*
+11.6±1.25*
+57.6±9.5*
+
+100±6.64
+10.4±1.21*
+10.5±0.75*
+56.5±8.2*
+
+MCAO, middle cerebral artery occlusion; rCBF, regional cerebral blood flow;
+Tg-NAMPT, NAMPT transgenic; WT, wild-type. rCBF at the surface of the left
+cortex at 5 minutes before MCAO, 5 and 55 minutes during MCAO, and
+5 minutes after reperfusion. Data represent mean±s.e.m. n ¼ 10, *Pp0.05
+versus before MCAO. There is no significant difference in rCBF changes
+between Tg-NAMPT mice and WT littermates.
+
+Figure 3. Nicotinamide phosphoribosyltransferase (NAMPT) overexpression attenuates white matter injury (WMI). (A) Representative
+Luxol fast blue (LFB) staining of contralateral and ipsilateral striatum
+and corpus callosum (CC) in NAMPT transgenic (Tg-NAMPT) mice
+and wild-type (WT) littermates. (B) Quantitative analysis of LFB
+staining. Data are expressed as a percentage of the contralateral
+hemisphere. *Pp0.01 versus WT littermates.
+
+Ischemic Injury Induces Nicotinamide Phosphoribosyltransferase
+Expression and Secretion from Neurons
+Extracellular NAMPT has been found both locally in non-CNS
+systems and circulating systemically in the blood. Extracellular
+NAMPT can be distinguished from iNAMPT by its larger molecular
+weight arising from posttranslational modiﬁcations.13 Whether the
+CNS also has eNAMPT and its function in the ischemic brain
+remains unknown. Both eNAMPT and iNAMPT protein expression
+was detectable with two different NAMPT antibodies in WT C57BL/
+6 mice. Although iNAMPT remained unchanged, eNAMPT was
+dramatically induced at 24 hours after ischemia, peaking at
+& 2014 ISCBFM
+
+72 hours but remaining at high levels even after 168 hours
+(Figure 4A). These ﬁndings suggest that eNAMPT is selectively
+induced after ischemia, perhaps as part of a long-term stress
+response pathway. Interestingly, NAMPT expression was induced
+in both neuronal cell bodies and WM regions, including striatal
+ﬁber bundles (Figure 4B, top panel) and the corpus callosum
+(Figure 4B, bottom panel) in WT mice after ischemia.
+To conﬁrm that ischemic neurons are capable of secreting
+NAMPT protein into the extracellular space, we subjected neuronal
+cultures to OGD and measured NAMPT levels in the medium using
+ELISA. Consistent with the in vivo results, we found that the
+presence of NAMPT was robustly increased in the culture medium,
+peaking at 4 hours after OGD, and then decreasing gradually,
+indicating that ischemic neurons are indeed capable of secreting
+NAMPT into the extracellular medium (Figure 4C). These novel
+ﬁndings suggest that eNAMPT is present in the CNS, and that
+ischemic neurons are able to secrete eNAMPT into the extracellular space.
+Secretion of NAMPT can be Induced by Forced Overexpression in
+Neurons and Confers WM Protection
+Given our in vitro observations, transgenically overexpressed
+NAMPT may also be secreted into the extracellular space in both
+CTX and striatum in vivo. Thus, we hypothesized that NAMPT
+overexpression in neurons may lead to protection against WMI via
+the heightened secretion of eNAMPT, based on the following
+observations: (1) ischemia-induced NAMPT protein expression
+appears fairly diffuse in the corpus callosum (a region with
+relatively few neuronal cell bodies, Figure 4B), (2) neuronal
+overexpression of NAMPT exerts ischemic protection of WM in vivo
+(Figure 3), and (3) ischemic neurons possess the ability to secrete
+NAMPT in vitro (Figure 4C).
+To directly address the extent of NAMPT secretion when
+overexpressed in neurons, we measured NAMPT levels in the
+culture medium of primary neurons transduced with either lentiNAMPT–HA or a control lenti-GFP vector. Forced NAMPT overexpression in neurons signiﬁcantly increased NAMPT secretion
+into the medium even without OGD, as detected by ELISA
+(Figure 5A), as well as by western blot (Figure 5B). Notably, the
+levels of protein found in the culture medium of transduced
+neurons exceeded the levels found from ischemic neurons by
+B50-fold. As the endogenous levels of NAMPT secreted by
+ischemic neurons appear to be insufﬁcient to confer full protection, exogenously delivered NAMPT protein may be necessary to
+effectively protect the brain against ischemic injury. We also
+observed that forced overexpression of NAMPT in Tg-NAMPT mice
+increased the levels of HA-tagged NAMPT within neuronal cell
+bodies as well as in the extracellular space under non-ischemic
+conditions (Figure 5C, upper panel). The expression of eNAMPT in
+the CTX and striatum of Tg-NAMPT mice was conﬁrmed by
+western blot analysis. In contrast, no eNAMPT was detected in the
+brain of WT mice (Figure 5C, lower panel).
+Because the presence of eNAMPT in transgenic mice was
+correlated with WM protection in vivo, we sought to directly assess
+if the protective effects of neuronal NAMPT overexpression were
+because of neuronal secretions or because of indirect effects
+stemming from neuronal protection. In the latter scenario, the WM
+protection might be secondary to direct protection of NAMPToverexpressing neurons and independent of NAMPT secretion. To
+assess whether NAMPT overexpression in neurons directly leads to
+OL protection against ischemia-like insults via extracellular factors,
+cultured cortical neurons were transduced with lenti-NAMPT or a
+control lenti-GFP vector and subjected to OGD for 60 minutes.
+Twenty-four hours after OGD, conditioned medium was collected
+from the ischemic neuronal cultures and coincubated with mature
+oligodendrocytic cultures that have been subjected to OGD for
+3 hours. As expected, conditioned medium from ischemic
+Journal of Cerebral Blood Flow & Metabolism (2014), 1613 – 1621
+
+NAMPT protects against ischemic WMI
+Z Jing et al
+
+1618
+
+Figure 4. Extracellular nicotinamide phosphoribosyltransferase (eNAMPT) is expressed in the brain and induced after ischemia. (A) Western
+blot analysis of NAMPT expression in the ischemic penumbra after middle cerebral artery occlusion (MCAO) in wild-type (WT) C57BL/6 mice
+using two different NAMPT antibodies for the intracellular (iNAMPT) and extracellular forms of NAMPT. (B) Immunofluorescent staining of
+brain slices with antibodies against NAMPT and myelin basic protein (MBP) shows that higher NAMPT level in fiber bundles of the striatum
+and corpus callosum (CC) in the ipsilateral (Ipsi) hemisphere. CTX: cortex. (C) Enzyme-linked immunosorbent assay (ELISA) for NAMPT release
+into extracellular medium from primary neurons subjected to oxygen–glucose deprivation (OGD). The ELISA was performed 0, 1, 2, 4, 8, and
+24 hours after OGD. Data are mean±s.e.m. from three independent experiments. *Pp0.05 versus untreated neurons.
+
+neuronal cultures transduced with lenti-NAMPT, but not lenti-GFP,
+signiﬁcantly inhibited OGD-induced OL cell death (Figures 5D
+and 5E). However, the protective effects of conditioned medium
+were abolished by antibody-mediated NAMPT depletion, strongly
+suggesting that the protective effect is mediated speciﬁcally by
+NAMPT protein secreted into the medium.
+To more directly assess the role of eNAMPT on WM ischemic
+protection, we incubated primary oligodendrocytic cultures with
+recombinant NAMPT protein (5 mg/ml) before, during, and after
+180 minutes of OGD. The addition of recombinant NAMPT protein
+signiﬁcantly inhibited ischemic oligodendrocytic cell death at
+24 hours after OGD (Figure 6A). Similarly, recombinant NAMPT
+protein reduced oligodendrocytic cell death induced by another
+ischemia-like insult, AMPA neurotoxicity (Figure 6B), suggesting
+that NAMPT delivered into the extracellular compartment—either
+via secretion by neurons or via exogenous administration of
+recombinant protein—effectively confers oligodendrocytic protection against ischemia-like insults.
+Together, these observations indicate that neuronal overexpression of NAMPT leads to secretion of NAMPT into the
+extracellular space, which directly protects WM independent of
+the presence of neurons. As addition of NAMPT antibodies signiﬁcantly reduced the protective effects of conditioned medium
+and the sole addition of recombinant NAMPT to oligodendrocytic
+cultures was sufﬁcient to confer protection, we conclude that
+eNAMPT is responsible for WM protection against ischemic injury.
+DISCUSSION
+The role of NAMPT in both non-CNS and neural systems has
+focused primarily on its intracellular function in NAD biosynthesis.
+Although this function is extremely important in ischemic
+contexts, we have discovered a new role for NAMPT in the
+present report. We are the ﬁrst group to show that NAMPT confers
+protection against ischemic WMI in vivo. Previous reports in stroke
+models had only showed protection of gray matter by NAMPT.
+The second novel ﬁnding of the present study is that neuronal
+overexpression of NAMPT leads to its secretion into the extracellular space after ischemia-like insults. Third, our in vitro data
+strongly suggest that secreted, eNAMPT can protect OLs from
+Journal of Cerebral Blood Flow & Metabolism (2014), 1613 – 1621
+
+ischemia-like insults. Fourth, delivery of exogenous NAMPT
+protein into the culture medium is sufﬁcient to protect OLs
+against ischemia-like insults. The potential for NAMPT to function
+in an extracellular manner leads to the exciting possibility of using
+the recombinant protein in a therapeutic setting. In considering its
+translational value, it is also important to note that NAMPT
+can cross the blood–brain barrier (unpublished ﬁndings). Thus,
+recombinant proteins such as NAMPT represent a clinically
+feasible tool that can be generated and delivered under controlled
+settings.
+In our transgenic mouse model, NAMPT was driven by the Thy-1
+promoter, which has been widely used for neuronal overexpression of transgenes. We did not observe the presence of HA-tagged
+NAMPT within non-neuronal cells in the mouse brain (Figure 1D),
+although Thy-1 has been reported to be expressed in endothelial
+cells and in white blood cells such as T lymphocytes,21,22 two cell
+types that are intimately involved in the pathogenesis of ischemic
+stroke. However, T-cell inﬁltration into the brain usually occurs 3
+days after cerebral ischemia,23 whereas NAMPT already exerted
+WM protection effect within this timeframe in our studies.
+Therefore, it is unlikely that NAMPT functions through or is
+affected by NAMPT expression in T cells, at least not at the early
+time points observed in this study.
+Nicotinamide phosphoribosyltransferase has been best characterized in terms of its function as the rate-limiting enzyme in the
+NAD biosynthetic pathway. As the availability of NAD is a critical
+determinant for neuronal ischemic sensitivity, the neuroprotective
+function of NAMPT has historically centered on the role of iNAMPT
+in NAD production. Consistent with the NAD biosynthetic function
+of NAMPT, inhibition of enzymatic activity of NAMPT by
+intraperitoneal administration of FK866 signiﬁcantly reduced brain
+nicotinamide mononucleotide levels and substantially enlarged
+MCAO-induced infarction.11 NAMPT has also been shown to
+protect against stroke by increasing the activity of sirtuin 1
+through an increase in NAD.11 However, our data suggest that a
+novel, extracellular function of NAMPT may also contribute to
+ischemic WM protection. On the other hand, NAMPT protection of
+WM could be distinct from NAD-dependent protection, especially
+given its extracellular localization. The function of NAMPT in the
+extracellular milieu could be either via NAD biosynthesis in the
+& 2014 ISCBFM
+
+NAMPT protects against ischemic WMI
+Z Jing et al
+
+1619
+
+Figure 5. Secretion of nicotinamide phosphoribosyltransferase (NAMPT) from neurons can be induced by forced overexpression and confers
+white matter (WM) protection. (A) Enzyme-linked immunosorbent assay (ELISA) for NAMPT release into medium from primary neurons 72
+hours after lentiviral transduction. ***Pp0.001 versus untreated neurons. (B) Western blot analysis of NAMPT from neurons transduced with
+lenti-NAMPT. (C) Upper panel: HA staining shows NAMPT secretion into the extracellular space in the cortex (CTX) and striatum (STR) in
+NAMPT transgenic (Tg-NAMPT) mice, but not in wild-type (WT) littermates. Yellow arrows showing extracellular HA staining and white arrows
+showing HA staining in striatal fiber bundles. Lower panel: Western blot analysis of extracellular NAMPT (eNAMPT) and intracellular NAMPT
+(iNAMPT) in both CTX and STR in Tg-NAMPT and WT mice. (D and E) Oligodendrocytic death induced by oxygen–glucose deprivation (OGD)
+in the presence or absence of conditioned media (CM) from neurons transduced with lenti-NAMPT. Conditioned media from neurons
+transfected with lenti-GFP served as a control. Secreted NAMPT in CM was depleted by specific NAMPT antibody. Cell death was analyzed
+24 hours later by Hoechst staining, D or LDH release, E. Data are mean±s.e.m. from three independent experiments. *Pp0.05 versus OGD
+alone/CM from lenti-GFP. CC, corpus callosum; GFP, green fluorescent protein; HA, hemagglutinin.
+
+extracellular compartment, or via an unknown capacity, such as
+binding to a receptor and activating pro-survival signaling
+pathways. In line with this, we have found that incubation of
+neurons/OLs with recombinant NAMPT protein can activate
+several pro-survival signaling pathways, such as PI3K/Akt, ERK1/
+2, and Stat5a (unpublished data), indicating that these molecules
+might mediate the protective role of NAMPT. In other words, it
+seems likely that NAMPT binds to an unrecognized receptor on
+cell membranes and then exerts its protective effect via downstream pro-survival signaling pathways. We are currently attempting to identify the potential receptor for NAMPT on neurons/OLs.
+Further exploration into the mechanism of NAMPT and its
+protection of ischemic WMI may yield novel insights into both
+the function of NAMPT and the process of WMI under ischemic
+settings.
+In addition to its function in NAD synthesis, NAMPT also has
+been characterized as a putative cytokine that can promote
+inﬂammation in peripheral systems. Nicotinamide phosphoribosyltransferase, also called pre-B-cell colony-enhancing factor 1,
+was ﬁrst isolated from a human peripheral blood lymphocyte
+cDNA library and was shown to synergize with the pre-B-cell
+& 2014 ISCBFM
+
+colony formation activity of stem cell factor and interleukin 7.21
+Nicotinamide phosphoribosyltransferase also regulates the
+activity of monocytes and neutrophils in response to inﬂammatory stimuli.22,23 The role of inﬂammation is well established in
+cerebral ischemic research and appears to exert a powerful
+inﬂuence over brain injury and recovery. As such, the acute
+overactivation of inﬂammatory processes likely contributes to the
+injured state, whereas a more subdued prolonged inﬂammatory
+response appears to assist in neural remodeling and repair, for
+which WM is critical. Our ﬁnding that NAMPT is secreted into
+the ischemic brain leads us to speculate that eNAMPT inﬂuences
+not only OLs, but also cells such as microglia, the resident
+inﬂammatory cells in the CNS, and contributes to the regulation of
+inﬂammatory processes after ischemia (data not shown). Further
+studies examining the role of exogenous NAMPT on inﬂammatory
+processes with longer survival periods may yield additional
+new insights into the effects of NAMPT on ischemic recovery. In
+addition to inﬂammation, oxidative stress has also been shown
+to propagate injury after ischemia. A recent study showed
+that NAMPT is essential for the beneﬁts of calorie restriction
+against oxidative stress,24 indicating that eNAMPT may also exert
+Journal of Cerebral Blood Flow & Metabolism (2014), 1613 – 1621
+
+NAMPT protects against ischemic WMI
+Z Jing et al
+
+1620
+suitable for this study. Further investigation on the role of NAMPT
+in diffuse WMI states will be a logical subsequent extension of the
+current study.
+In conclusion, the present study shows that NAMPT may not
+function simply in a restricted intracellular manner during stroke
+recovery and that it protects against ischemic injury in both gray
+matter and WM. We have presented multiple lines of evidence
+supporting the extracellular secretion of NAMPT by neuronal cells
+either overexpressing transgenic NAMPT or subjected to ischemic
+insults. This secretion is correlated with the protection of OLs from
+ischemic injury. Furthermore, the addition of recombinant NAMPT
+itself is protective against ischemic WMI. These ﬁndings promote
+the concept that NAMPT is an endogenous protective molecule
+that may circulate throughout neural tissue and exert beneﬁcial
+effects on a variety of cell types, likely via distinct mechanisms.
+The increase of NAMPT in ischemic tissue from non-transgenic
+mice also supports the notion that NAMPT is part of a
+natural stress response, consistent with previous reports.11 Thus,
+the preservation and recovery of WM by molecules such as
+NAMPT may lead to improvements in axonal repair and function
+and promote long-term behavioral recovery after cerebral
+ischemia.
+Figure 6. Exogenous nicotinamide phosphoribosyltransferase
+(NAMPT) protein reduces oxygen–glucose deprivation (OGD)- and
+alpha-amino-3-hydroxy-5-methyl-4-isoxazoleproprionic acid (AMPA)induced oligodendrocytic death. Primary oligodendrocytes (OLs)
+were pretreated with NAMPT protein (5 mg/ml) and then subjected
+to OGD for 180 minutes (A) or AMPA (50 mmol/L) for 5 minutes
+(B). Cell death was analyzed by Hoechst staining or lactate
+dehydrogenase (LDH) release 24 hours later. Data are mean±s.e.m.
+from three independent experiments. *Pp0.05 versus OGD/AMPA
+alone; #Pp0.05 versus untreated control cells.
+
+antioxidant effects. Thus, future studies to examine whether
+eNAMPT protects OLs by inhibiting oxidative stress are highly
+warranted.
+As mentioned above, the signiﬁcant contribution of WM to
+ischemic outcomes has been historically overlooked, and largely
+assumed to be secondary to neuronal or axonal injury. However,
+recent work underscores a unique role for WM health in
+determining ischemic severity. Several drugs that protect against
+ischemic injury are now being explored in their effects on WM,
+including the only FDA (Food and Drug Administration) approved
+therapeutic, tissue plasminogen activator2 as well as delayed
+administration of the histone deacetylase inhibitor valproic acid.25
+Similar to the novel means (secretion) by which NAMPT appears
+to promote WM integrity, tissue plasminogen activator may
+also promote WM protection and recovery independent of its
+classic proteolytic activity, acting instead as a novel cytokine-like
+molecule. Although it is tempting to speculate that NAMPT may
+exert WM protection via its NAD biosynthetic activity, the
+mechanisms of WMI and recovery after cerebral ischemia are
+not well understood and may respond to NAMPT in a novel
+manner. Further exploration into both the process by which
+WM responds to ischemic injury as well as the mechanism of WM
+protection by NAMPT will serve to further the development of
+effective therapeutics for stroke recovery.
+Several animal models, such as ET-1 injection and chronic
+hypoperfusion models,26,27 have been developed to speciﬁcally
+examine WMI after stroke and do not involve signiﬁcant gray
+matter injury. However, our initial ﬁndings that neuronal NAMPT
+confers ischemic WM protection and that neurons readily release
+NAMPT in vitro under ischemic contexts led us to hypothesize that
+NAMPT is released from damaged neurons and subsequently
+protects OLs from ischemic insults. Therefore, the classic tMCAO
+model, which involves both gray matter and WM damage, is more
+Journal of Cerebral Blood Flow & Metabolism (2014), 1613 – 1621
+
+DISCLOSURE/CONFLICT OF INTEREST
+The authors declare no conﬂict of interest.
+
+ACKNOWLEDGMENTS
+The authors thank Carol Culver for editorial assistance, Pat Strickler for secretarial
+support, Dr Joshua Sanes from Harvard University for providing Thy-1 promoter, and
+Dr Carlos Lois from Massachusetts Institute of Technology for providing the lentivirus
+system.
+
+REFERENCES
+1 McDonald JW, Althomsons SP, Hyrc KL, Choi DW, Goldberg MP. Oligodendrocytes
+from forebrain are highly vulnerable to AMPA/kainate receptor-mediated excitotoxicity. Nat Med 1998; 4: 291–297.
+2 Correa F, Gauberti M, Parcq J, Macrez R, Hommet Y, Obiang P et al. Tissue plasminogen activator prevents white matter damage following stroke. J Exp Med
+2011; 208: 1229–1242.
+3 Pantoni L, Garcia JH, Gutierrez JA. Cerebral white matter is highly vulnerable to
+ischemia. Stroke 1996; 27: 1641–1646, discussion 1647.
+4 Ho PW, Reutens DC, Phan TG, Wright PM, Markus R, Indra I et al. Is white matter
+involved in patients entered into typical trials of neuroprotection? Stroke 2005; 36:
+2742–2744.
+5 Desmond DW. Cognition and white matter lesions. Cerebrovasc Dis 2002;
+13(Suppl 2): 53–57.
+6 Leys D, Englund E, Del Ser T, Inzitari D, Fazekas F, Bornstein N et al. White matter
+changes in stroke patients. Relationship with stroke subtype and outcome.
+Eur Neurol 1999; 42: 67–75.
+7 Pantoni L, Leys D, Fazekas F, Longstreth Jr. WT, Inzitari D, Wallin A et al. Role of
+white matter lesions in cognitive impairment of vascular origin. Alzheimer Dis
+Assoc Disord 1999; 13(Suppl 3): S49–S54.
+8 Arai K, Lo EH. Experimental models for analysis of oligodendrocyte pathophysiology in stroke. Exp Transl Stroke Med 2009; 1: 6.
+9 Imai S. The NAD World: a new systemic regulatory network for metabolism and
+aging—Sirt1, systemic NAD biosynthesis, and their importance. Cell Biochem
+Biophys 2009; 53: 65–74.
+10 Magni G, Amici A, Emanuelli M, Raffaelli N, Ruggieri S. Enzymology of NAD þ
+synthesis. Adv Enzymol Relat Areas Mol Biol 1999; 73: 135–182xi.
+11 Wang P, Xu TY, Guan YF, Tian WW, Viollet B, Rui YC et al. Nicotinamide phosphoribosyltransferase protects against ischemic stroke through SIRT1-dependent
+adenosine monophosphate-activated kinase pathway. Ann Neurol 2011; 69:
+360–374.
+12 Zhang W, Xie Y, Wang T, Bi J, Li H, Zhang LQ et al. Neuronal protective role of
+PBEF in a mouse model of cerebral ischemia. J Cereb Blood Flow Metab 2010; 30:
+1962–1971.
+13 Revollo JR, Korner A, Mills KF, Satoh A, Wang T, Garten A et al. Nampt/PBEF/
+Visfatin regulates insulin secretion in beta cells as a systemic NAD biosynthetic
+enzyme. Cell Metab 2007; 6: 363–375.
+
+& 2014 ISCBFM
+
+NAMPT protects against ischemic WMI
+Z Jing et al
+
+1621
+14 Curat CA, Wegner V, Sengenes C, Miranville A, Tonus C, Busse R et al. Macrophages in human visceral adipose tissue: increased accumulation in obesity and a
+source of resistin and visfatin. Diabetologia 2006; 49: 744–747.
+15 Friebe D, Neef M, Kratzsch J, Erbs S, Dittrich K, Garten A et al. Leucocytes are
+a major source of circulating nicotinamide phosphoribosyltransferase (NAMPT)/
+pre-B cell colony (PBEF)/visfatin linking obesity and inﬂammation in humans.
+Diabetologia 2011; 54: 1200–1211.
+16 Garten A, Petzold S, Barnikol-Oettler A, Korner A, Thasler WE, Kratzsch J et al. Nicotinamide phosphoribosyltransferase (NAMPT/PBEF/visfatin) is constitutively released
+from human hepatocytes. Biochem Biophys Res Commun 2010; 391: 376–381.
+17 Cao G, Pei W, Ge H, Liang Q, Luo Y, Sharp FR et al. In vivo delivery of a Bcl-xL
+fusion protein containing the TAT protein transduction domain protects against
+ischemic brain injury and neuronal apoptosis. J Neurosci 2002; 22: 5423–5431.
+18 Gan Y, Xing J, Jing Z, Stetler RA, Zhang F, Luo Y et al. Mutant erythropoietin
+without erythropoietic activity is neuroprotective against ischemic brain injury.
+Stroke 2012; 43: 3071–3077.
+19 Chen Y, Balasubramaniyan V, Peng J, Hurlock EC, Tallquist M, Li J et al. Isolation
+and culture of rat and mouse oligodendrocyte precursor cells. Nat Protoc 2007; 2:
+1044–1051.
+20 Patani R, Balaratnam M, Vora A, Reynolds R. Remyelination can be extensive in
+multiple sclerosis despite a long disease course. Neuropathol Appl Neurobiol 2007;
+33: 277–287.
+
+& 2014 ISCBFM
+
+21 Schubert K, Gutknecht D, Koberle M, Anderegg U, Saalbach A. Melanoma cells use
+Thy-1 (CD90) on endothelial cells for metastasis formation. Am J Pathol 2013; 182:
+266–276.
+22 Ades EW, Zwerner RK, Acton RT, Balch CM. Isolation and partial characterization of
+the human homologue of Thy-1. J Exp Med 1980; 151: 400–406.
+23 Gelderblom M, Leypoldt F, Steinbach K, Behrens D, Choe CU, Siler DA et al.
+Temporal and spatial dynamics of cerebral immune cell accumulation in stroke.
+Stroke 2009; 40: 1849–1857.
+24 Song J, Ke SF, Zhou CC, Zhang SL, Guan YF, Xu TY et al. Nicotinamide phosphoribosyltransferase is required for the calorie restriction-mediated improvements in oxidative stress, mitochondrial biogenesis, and metabolic adaptation.
+J Gerontol A Biol Sci Med Sci 2014; 69: 44–57.
+25 Schilling E, Wehrhahn J, Klein C, Raulien N, Ceglarek U, Hauschildt S.
+Inhibition of nicotinamide phosphoribosyltransferase modiﬁes LPSinduced inﬂammatory responses of human monocytes. Innate Immun 2012; 18:
+518–530.
+26 Frost SB, Barbay S, Mumert ML, Stowe AM, Nudo RJ. An animal model of
+capsular infarct: endothelin-1 injections in the rat. Behav Brain Res 2006; 169:
+206–211.
+27 Shibata M, Ohtani R, Ihara M, Tomimoto H. White matter lesions and glial activation in a novel mouse model of chronic cerebral hypoperfusion. Stroke 2004;
+35: 2598–2603.
+
+Journal of Cerebral Blood Flow & Metabolism (2014), 1613 – 1621
+
+

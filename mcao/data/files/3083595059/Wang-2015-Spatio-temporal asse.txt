@@ -1,0 +1,569 @@
+Journal of the Neurological Sciences 357 (2015) 28–34
+
+Contents lists available at ScienceDirect
+
+Journal of the Neurological Sciences
+journal homepage: www.elsevier.com/locate/jns
+
+Spatio-temporal assessment of the neuroprotective effects of
+neuregulin-1 on ischemic stroke lesions using MRI
+Silun Wang a,1, Yonggang Li b,1, Ramesh Paudyal a, Byron D. Ford b,⁎, Xiaodong Zhang a,c,⁎⁎
+a
+b
+c
+
+Yerkes Imaging Center, Yerkes National Primate Research Center, Emory University, 954 Gatewood Road NE, Atlanta, GA 30329, USA
+Department of Neurobiology, Neuroscience Institute, Morehouse School of Medicine, Atlanta, GA 30310, USA
+Division of Neuropharmacology and Neurologic Diseases, Yerkes National Primate Research Center, Emory University, Atlanta, GA 30329, USA
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 9 March 2015
+Received in revised form 25 May 2015
+Accepted 25 June 2015
+Available online 27 June 2015
+Keywords:
+NRG-1
+MCAo
+Rat
+MRI
+Stroke
+Ischemia
+
+a b s t r a c t
+The neuroprotective effects of neuregulin-1 (NRG-1) on stroke lesions were assessed longitudinally in rats with
+middle cerebral artery occlusion (MCAo) using MRI. Sprague–Dawley rats (n = 16, 250 ± 20 g) underwent permanent MCAo surgery with cerebral blood ﬂow (CBF) monitored by laser doppler ﬂowmetry at ipsilateral side of
+bregma for 20 min post-occlusion. A single 50 μl bolus dose of NRG-1 or vehicle was administered into the left
+internal carotid artery immediately prior to MCAo. The expansion of the ischemic lesion into the cortex was attenuated by NRG-1 over a 48-hour (h) time span as measured by diffusion weighted imaging (DWI). The ﬁnal
+infarct volumes of NRG-1 treated rats were signiﬁcantly smaller than those of the vehicle treated rats at 48 h
+(264.8 ± 192.1 vs. 533.4 ± 175.5 mm3, p b 0.05). The NRG-1 treated rats were further subdivided into 2 subgroups according to their CBF reduction during stroke surgery: mild ischemia (b70% CBF reduction) or severe
+ischemia (N70% CBF reduction). In particular, ischemic infarction was not usually observed in the cortex of
+NRG-1 treated rats with mild ischemia at 3 and 48 h post-occlusion. Histological results validated the imaging
+ﬁndings and demonstrated that NRG-1 treated rats had fewer injured neurons in peri-infarct areas 48 h postischemia. In summary, the neuroprotective effect of NRG-1 in the pMCAo stroke model was demonstrated by prevention of ischemic lesion expansion, reduced infarct volume and protection of neurons from ischemic damage.
+© 2015 Elsevier B.V. All rights reserved.
+
+1. Introduction
+Stroke is the leading cause of adult disability and fourth leading
+cause of death in the United States [22]. More than 700,000 people
+have a stroke each year in the United States. Among them, about 80%
+of strokes are caused by focal cerebral ischemia due to arterial occlusion
+and the remaining are caused by hemorrhages [5]. Currently, the only
+FDA-approved post-stroke intervention is intravenous thrombolysis
+using recombinant tissue plasminogen activator (rt-PA) within
+4.5 hours (h) after the symptom onset [1,10]. Treatment with rt-PA
+can provide reperfusion of the ischemic territory and results in the salvage of the ischemic penumbra, reduced ﬁnal infarct size, and improved
+clinical outcomes. However, such thrombolysis strategy has many limitations including a short treatment time window and increased hemorrhage complication [9,25]. As a result, only few (typically 2% to 5%)
+
+⁎ Correspondence to: B.D. Ford, Department of Neurobiology, Neuroscience Institute,
+Morehouse School of Medicine, 720 Westview Drive, SW; MRC 22, Atlanta, GA 30310, USA.
+⁎⁎ Correspondence to: X. Zhang, Yerkes Imaging Center, Yerkes National Primate
+Research Center, Emory University, 954 Gatewood Road NE, Atlanta, GA 30329, USA.
+E-mail addresses: bford@msm.edu (B.D. Ford), xzhang8@emory.edu (X. Zhang).
+1
+Contributed equally to this study.
+
+http://dx.doi.org/10.1016/j.jns.2015.06.055
+0022-510X/© 2015 Elsevier B.V. All rights reserved.
+
+patients are able to receive rt-PA reperfusion therapies in clinic practice
+[1,10]. Therefore, strategies that can extend the time window for thrombolysis are still being pursued extensively.
+Neuregulin-1 (NRG-1) is a family of growth factors with multiple
+potent effects that include acetylcholine receptor inducing activity
+(ARIA), glial growth factor-2, heregulins and neu differentiation factors
+[4]. Its neuroprotective effects for ischemic brain injury have been
+reported [13,14,26,28]. In a rat model with transient middle cerebral artery occlusion (tMCAo), NRG-1 reduced cortical infarct volume by 90% if
+administered immediately after the onset of stroke and exhibited a therapeutic window of N13 h [26,28]. Such treatment efﬁcacy of NRG-1 on
+stroke was evaluated previously using histological analysis within 24 h
+but not characterized longitudinally.
+Diffusion-weighted imaging (DWI) is the most sensitive MRI modality to detect early stroke injury and has been widely utilized to assess
+the infarct evolution immediately after stroke onset [19,29]. Meanwhile,
+the apparent diffusion coefﬁcient (ADC, derived from DWI) demonstrates to be a robust imaging marker to evaluate the stroke lesion evolution and is time-dependent during acute stroke [20]. T2-weighted
+imaging is sensitive to brain tissue water content and can reveal vascular brain edema during acute stroke and identify the ﬁnal infarct territory. In particular, quantitative T2 measurement can be used to estimate
+
+S. Wang et al. / Journal of the Neurological Sciences 357 (2015) 28–34
+
+the water uptake in ischemic tissue [24]. Such MRI parameters provide
+complementary information to assess the structural alteration in
+stroke-damaged brains with or without therapeutic treatment.
+The neuroprotective effects of NRG-1 on stroke injury have been
+demonstrated in our previous reports. However, the spatial–temporal evolution of ischemic lesion treated by NRG-1 and its relationship with histological ﬁndings remain unknown. The overall goals
+of this study are therefore to assess the neuroprotective effects of NRG1 using MRI for better translation of ﬁndings in the animal into clinical
+trials.
+
+2. Methods
+2.1. Animal model preparation
+All procedures followed the protocols approved by the Institutional
+Animal Care and Use Committee (IACUC) of Emory University in accordance with the NIH Guide for Care and Use of Laboratory Animals. All
+surgical procedures were performed with sterile/aseptic techniques in
+accordance with institutional guidelines. Adult Sprague–Dawley rats
+weighing 230–270 g were used in this study. Rats were anesthetized
+using isoﬂurane (3% for induction and 2% for maintenance) mixed
+with O2. Permanent MCAo was induced by the intraluminal suture
+MCAo method as previously described [14,28]. Brieﬂy, the left common
+carotid artery (CCA) was exposed through a midline incision and was
+carefully dissected free from surrounding nerves and fascia. The internal
+carotid artery (ICA) was isolated and carefully separated from the adjacent vagus nerve, and the pterygopalatine artery was ligated close to its
+origin with a 6-0 silk suture. Then, a 40 mm 4-0 surgical monoﬁlament
+nylon suture coated with rubber silicone (diameter 0.39 mm; length
+2.3–2.5 mm) was inserted from the external carotid artery (ECA) into
+the internal carotid artery (ICA) and then into the circle of Willis to occlude the origin of the left middle cerebral artery.
+Laser Doppler ﬂowmetry (LDF) (wavelength, 780 nm; probe 407,
+Perimed, Stockholm, Sweden) was used to continuously monitor cerebral blood ﬂow (CBF) changes prior to, during, and 20 min following
+vessel occlusion to conﬁrm appropriate occlusion. A micro drill was
+used to make a 0.9 mm diameter parietal burr hole in the cranial skull
+at 2.0 mm posterior and 7.0 mm lateral to bregma. The burr hole did
+not penetrate the full thickness of the skull and the brain was not exposed in this procedure. The LDF probe was placed in the created defect
+in the skull and ﬁxed with sterile tissue glue. After CBF measurement,
+the probe was removed and the muscle and skin was closed. The
+CBF reduction was calculated as: (pre-occlusion CBF)-(post-occlusion CBF)/pre-occlusion CBF × 100%.
+
+2.2. NRG-1 administration
+To determine the effects of NRG-1 on ischemic stroke, rats were
+randomized and injected intra-arterially with a single bolus 50 μl
+dose of vehicle (1%BSA in PBS) or NRG-1β (20 μg/kg, EGF-like domain, R&D Systems, Minneapolis, Minnesota) through a Hamilton
+syringe as previously described [14,26]. NRG-1 (n = 10) or vehicle
+(n = 6) treated rats were administered by bolus injection into the
+ICA through ECA immediately before pMCAo. All NRG-1 and vehicle
+treatment studies were performed in a blinded manner. To evaluate
+the potential effects induced by NRG-1, physiological parameters including heart rate, respiratory rate, SpO2, temperature and CBF were
+continuously monitored at the baseline, during surgery and 20 min
+after injection of NRG-1 with the Mouse-Ox system (Starr life science, USA). During the surgery and MRI scans, the body temperature
+was monitored with a rectal probe (Starr life science, USA) and
+maintained at ~ 37 °C with a Homeothermic Blanket Control Unit
+(Harvard Apparatus).
+
+29
+
+2.3. MRI data acquisition
+In vivo MRI was performed using a 7 T animal MRI scanner (Bruker
+BioSpin, Billerica, MA) and a surface coil (internal diameter = 2.5 cm).
+The rats were immobilized with a custom-made head holder with earbars and teeth-bar during MRI scanning. All rats were imaged immediately after surgery from 0.5 h to 3 h and rescanned at 48 h post-surgery
+(Fig. 1). Coronal MRI sections were performed from 2 mm anterior to
+the corpus callosum to the end of the cerebrum. T2-weighted imaging
+(T2WI) was acquired with the following parameters: ﬁeld of view
+(FOV) = 3.0 × 3.0 cm2, matrix size = 256 × 256, repetition time
+(TR) = 1000 ms and echo time (TE) = 50 ms, slice thickness =
+1.0 mm. DTI was acquired with a four-shot EPI sequence. The imaging
+parameters were: TR = 3000 ms, TE = 32 ms, Δ = 20 ms, δ = 4 ms,
+FOV = 3.0 × 3.0 cm2, slice thickness = 1.0 mm, matrix size =
+128 × 128, NEX = 4, 30 gradient directions, b value = 1000 s/
+mm 2, respectively. To determine the stroke lesion area, each ROI
+was identiﬁed by referring to DWI and T2-weighted images. With
+each rat brain, the area of the stroke lesion and total brain area in
+every slice was manually measured using ImageJ 1.34 (National
+Institutes of Health, Bethesda, MD). Then, the total stroke volume
+was calculated as the sum of the lesion area across all slices, multiplied by the total slice thickness.
+2.4. Histopathology evaluation
+Rats were sacriﬁced for histological evaluation immediately after
+their last MRI scans (48 h post-stroke) without recovery from anesthesia. 1.0 mm-thick brain sections were stained with 2% triphenyltetrazolium chloride (TTC) solution and then transferred into a 4%
+formaldehyde solution for ﬁxation. For immunohistology, brain specimens were processed using standard histological protocols [14,26,27].
+Brieﬂy, rat brains were perfusion-ﬁxed through the left cardiac ventricle
+with phosphate-buffered saline (PBS) followed by 4% paraformaldehyde
+(PFA) in PBS. Brains were quickly removed and cryoprotected in 30% sucrose. The brains were then frozen in OCT compound (Sakura Finetek,
+Torrance, CA) and stored at −80 °C until sectioning. Coronal sections of
+20 μm thickness were cryosectioned and mounted on slides which were
+then stored at −80 °C until further processed. Brain sections were
+washed in PBS and incubated with Cy3 conjugated anti-NeuN (1:500,
+Millipore) overnight at 4 °C. Slides were then washed with PBS and
+mounted with Vectashield mounting medium containing DAPI. For double staining with Fluoro-Jade B (FJB) (Chemicon International, Temecula,
+CA, USA) double labeling, immunostaining was performed ﬁrst and then
+sections were incubated with 0.15% potassium permanganate for 1 min,
+washed with distilled water for 2 min and treated with 0.0001% FJB in
+0.1% acetic acid for 10 min. Sections were then washed and coverslipped
+in glycerol/0.3% acetic acid mounting medium. All sections were examined with ﬂuorescence microscopy in three random MCA served areas
+in the inner border of the infarct in the ischemic fronto-parietal cortex
+of each rat.
+2.5. Neurological assessment
+Standard neurological tests, utilizing a 6-point neurological scale
+(0 = no deﬁcit, 1 = failure to extend left forepaw fully, 2 = circling
+to the left, 3 = falling to the left, 4 = no spontaneous walking with a
+depressed level of consciousness, and 5 = dead), were performed at
+24 h and 48 h post-occlusion [23].
+2.6. Statistical analysis
+All results were expressed as mean ± standard deviation (SD).
+The student t-test was applied to evaluate differences between the
+stroke volumes of the vehicle and treatment groups. We further analyzed the infarct volumes of the NRG-1 treated rats, by dividing
+
+30
+
+S. Wang et al. / Journal of the Neurological Sciences 357 (2015) 28–34
+
+Fig. 1. Experimental protocols of MRI evaluations of NRG-1 neuroprotective treatment response in rats with permanent MCA occlusion (pMCAo).
+
+animals into two subgroups based upon the CBF reduction after
+pMCAo (mean CBF reduction = 76%): the mild ischemia group
+which consisted of the rats with less than 70% CBF reduction and
+the severe ischemia group which had the rats with more than 70%
+CBF reduction during surgery. A one-way analysis of variance
+(ANOVA) test, followed by the Tukey test, was applied to analyze
+the statistical differences in infarct volumes between vehicle and
+NRG-1 treatment groups. The Pearson correlation test was used to
+evaluate correlations between MRI results and CBF reduction. All statistical analysis procedures were performed using the SPSS for Windows statistical package (Version 18, SPSS, Chicago, IL). A p-value
+less than 0.05 was considered statistically signiﬁcant.
+3. Results
+3.1. Physiological parameters after MCAo and NRG-1 administration
+Physiological parameters were continually monitored at the
+baseline, during surgery and after injection of NRG-1. NRG-1 did
+not signiﬁcantly change any of the following physiological parameters in our studies, including heart rate, respiratory rate, SpO2, temperature (Table 1), consistent with our previous ﬁndings using the
+transient MCAo model [28]. Also, NRG-1 did not alter CBF signiﬁcantly, suggesting that vascular blood ﬂow was not affected signiﬁcantly due to the administration of NRG-1 (Fig. 2).
+3.2. Stroke lesion volume analysis after NRG-1 treatment
+
+hypointensity and DWI hyperintensity was observed at both striatum (100% of animals) and cortex (83% of animals, 5/6) as early as
+0.5 h post-occlusion. In contrast, NRG-1 treated rats showed ischemic lesions mostly within the striatum (70%, 7/10) at the 3 h and
+48 h time point (Fig. 3). It is known that early injury in the striatum
+is the core ischemic zone in the MCAo model [7], therefore the result
+of ischemic lesion after NRG-1 treatment suggests its penumbral
+protection in the cortex.
+In order to evaluate the treatment efﬁcacy of NRG-1 in rats with
+different severities of ischemia, we further analyzed the infarct volumes
+of the NRG-1 treated rats. These rats were divided into two subgroups
+based upon the CBF reduction after MCAo and the results are shown
+in Fig. 4.1. NRG-1 treated rats have signiﬁcantly decreased infarct volume compared to vehicle group (both p b 0.05) following mild and severe CBF reduction. The infarct volumes of NRG-1 treated group were
+signiﬁcantly smaller than those in vehicle treated group at all time
+points post-occlusion (all p b 0.05). In contrast, no signiﬁcant difference
+was observed in the infarct volumes of vehicle group rats divided by the
+same CBF reduction threshold (p N 0.30 at all time points). When comparing the infarct volumes in mild and severe ischemia groups it was
+found that the NRG-1 was more effective at neuroprotection in the
+mild ischemia group. Longitudinally, the mean stroke volume at 48 h
+was signiﬁcantly larger than that at any early points (p b 0.001) in
+both vehicle and treatment groups. At 48 h post-occlusion, infarct volume was reduced by 66% in the mild CBF reduction group compared
+to 40% in the severe group (180.8 ± 70.8 vs. 321.0 ± 232.3 mm3, p b
+0.05). Overall, signiﬁcant but weak correlations between the mean
+stroke volume and CBF reduction during the surgery were observed
+(p = 0.003, r = 0.326).
+
+Infarct volumes following MCAo were measured with longitudinal
+DWI images (1–3 h post-occlusion) and T2WI at the 48 h time point.
+Compared to the vehicle treated group, the infarct volumes of NRG-1
+treated group were signiﬁcantly reduced at 0.5 h (85.0 ± 20.1 vs.
+44.4 ± 21.2 mm3), 1 h (118.6 ± 70 vs. 56.5 ± 27.1 mm3), 2 h
+(147.2 ± 75.6 vs. 75.6 ± 41.2 mm3), 3 h (211.1 ± 126.9 vs. 83.0 ±
+45.6 mm3) and 48 h (533.4 ± 175.4 vs. 264.8 ± 192.1 mm3) post-occlusion (all p b 0.05). In the vehicle-treated rats, the region of ADC
+
+Table 1
+Physiological parameters including heart rate, respiratory rate, SpO2 and body temperature were continuously monitored at the baseline, during surgery and after injection of
+NRG-1 or vehicle. NRG-1 did not signiﬁcantly affect any of the following physiological
+parameters (determined by ANOVA).
+
+HR (per min)
+Respiratory rate (per min)
+SpO2 (%)
+Temperature (°C)
+
+Baseline
+
+During
+surgery
+
+20 min after
+NRG-1 injection
+
+287 ± 28
+86 ± 13
+98.2 ± 0.7
+36.4 ± 0.4
+
+279 ± 24
+83 ± 7
+95.6 ± 2.4
+36.6 ± 0.6
+
+263 ± 35
+83 ± 12
+94.9 ± 2.6
+36.8 ± 0.6
+
+Fig. 2. CBF measurements from LDF. The line chart illustrates the CBF measurements of LDF
+from the baseline to 20 min post-MCAo. NRG-1 was injected immediately prior to MCAo.
+No signiﬁcant differences of CBF were observed between NRG-1 and vehicle rats. Red line
+with solid square = NRG-1 treated rats, blue line with solid circle = vehicle rats.
+
+S. Wang et al. / Journal of the Neurological Sciences 357 (2015) 28–34
+
+31
+
+Fig. 3. MRI of stroke lesions in the vehicle and treatment groups at 3 h and 48 h post-occlusion. Top row: in a rat in the vehicle group (65% CBF reduction during surgery). Middle row: in a
+rat in the treatment group, the ischemic region was only observed in the striatum whereas no obvious ischemic region was seen in the cortex at 3 h and 48 h post-occlusion. There was a
+65% CBF reduction during the pMCAo surgery. Bottom row: in a rat with 95% CBF reduction, the ischemic region was only seen in the striatum on 3 h post-occlusion. However, the ischemic
+regions expand to most of ipsilateral brain including cortex.
+
+In addition, we evaluated the temporal evolution of stroke infarct
+volumes with the formula reported previously [30]:
+
+3.3. Histological evaluation of brains following ischemia and NRG-1
+treatment
+
+V ¼ C  ln ðtÞ þ V0
+
+We performed histopathological analysis to examine neuronal injury
+in rat brains with and without NRG-1 treatment. The infarction territory
+
+ð1Þ
+
+In which t is the time post-occlusion, V is the lesion volume at time t
+(t N 0, in hour), C is the growth rate of lesion volume per logarithmic
+time scale, V0 is the baseline value at the time t = 1, ln is the natural
+logarithm.
+The ﬁtting results are shown in Fig. 4.2. It is demonstrated that the
+evolution of the infarct volume follows the logarithmic pattern in rats
+without treatment (R2 = 0.9091), as similar as those reported previously in macaque brains with pMCAo [30]. Such pattern is also seen in rats
+with NRG-1 treatment (R2 = 0.9943 and 0.9451 with severe and mild
+stroke, respectively). In particular, the infarct growth rates decrease remarkably in rats of treatment groups compared to those in control
+group.
+
+Fig. 4.1. Temporal evolution of infarct volumes in rat brains with/without NRG-1 treatment. The ﬁnal infarct volume was identiﬁed by serial DWI images and T2WI on different
+time points. The infarct volumes of vehicle group (blue line with diamond symbol) were
+signiﬁcantly larger than those in NRG-1 treated group at all time points post-occlusion
+(all p b 0.05). In comparison of the stroke volumes in mild (red line with square marker)
+and severe ischemia group (green line with triangle marker) according to CBF reduction
+during surgery, the neuroprotective effects of NRG-1 are obviously better in the mild ischemia group. The star indicated the signiﬁcant difference between vehicle and treatment
+groups.
+
+Fig. 4.2. The longitudinal evolution of the infarct volume changes is ﬁtted with a logarithmic pattern in rats with/without NRG-1 treatment. Different growth rates are seen in rats
+without treatment and with treatment for severe and mild ischemia.
+
+32
+
+S. Wang et al. / Journal of the Neurological Sciences 357 (2015) 28–34
+
+detected by MRI at 48 h post-stroke correlated well with that seen in TTC
+staining (Fig. 5). The immunohistological results of NRG-1 treated and
+vehicle rats at 48 h post-occlusion are shown in Fig. 6. FJB labeling of
+brain tissues without treatment revealed numerous FJB-positive cells in
+the ischemic cortex and subcortical areas (Fig. 6A). In contrast, NRG-1
+pretreatment effectively abolished FJB labeling as illustrated in representative photomicrographs (Fig. 6B). The injured areas showed high numbers of FJB labeling, and low or no NeuN expressing cells (Fig. 6C).
+Neighboring neurons that were not injured showed relatively higher
+levels of NeuN immunoreactivity. NRG-1 treatment rescued NeuN immunoreactivity (Fig. 6D).
+3.4. Neurologic assessment of rats following MCAo and NRG-1 treatment
+The mean neurological scores of NRG-1 versus vehicle-treated rats
+were, 1.5 vs. 2.0 at 24 h (p = 0.04), and 3.0 vs. 4.7 at 48 h post-occlusion
+(p = 0.01), respectively (Fig. 7). The results indicated that NRG-1 treated rats had less progression of general decline in neurological status
+compared to vehicle group.
+4. Discussion
+We assessed the neuroprotective effects of NRG-1 in a rat model of
+pMCAo using MRI. We demonstrated that NRG-1 provided neuroprotection during the acute ischemic insult as indicated by reducing the infarct volume and reduced injury of neurons following ischemic insults,
+consistent with our previous results [14,26,28]. In particular, it is found
+that the efﬁcacy of NRG-1's neuroprotection is related with the severity
+of stroke insult. As seen in the present report, NRG-1 exhibits signiﬁcantly
+stronger neuroprotection in rats with mild ischemia than those with severe ischemia 48 h post-occlusion.
+Diffusion MRI has been widely used in animal and clinical studies to
+evaluate ischemic brain injury because of its unique ability for very early
+detection of ischemic lesion and the correlation with ﬁnal infarct volume [17], a strong predictor of clinical outcome. Early signal increase
+of DWI images reﬂects cell swelling in ischemic brain tissue due to energy
+failure of Na/K-ATP pump. In addition, ADC allows for quantitatively characterizing ischemic lesion. After initial decrease of ADC values in acute
+phase, ADC gradually recovers to baseline value due to water inﬂux
+from vessels to brain tissue, namely vasogenic edema [18]. NRG-1 treated
+group showed relatively slow ADC recovery until 48 h, especially in the
+mild ischemic lesion group (data not shown), indicating the mitigated
+
+impact of the vessel occlusion on neuronal injury compared to vehicle
+group. Histological evaluation also indicated that there were much
+fewer injured neurons in the NRG-1 treated group compared to vehicle
+group.
+It has been reported that the infarct volume evolution in macaque
+brains with pMCAo follows a logarithmic pattern during acute stroke
+for up to 48 h post-occlusion [30]. In the present study, the formula
+was also applied to ﬁt the infarct evolution in rats with pMCAo to examine the temporal-spatial changes of infarct with/without treatment. As
+seen in Fig. 4.2, the temporal changes of infarct volume in control and
+treatment groups exhibits a good ﬁtting of logarithmic pattern, as similar as those seen in macaque brains with pMCAo (without treatment).
+After NRG-1 treatment, the growth rates of infarct volume dramatically
+decrease (64.6, 29.5, and 11.4 in control group, treatment groups with
+severe and mild ischemia, respectively. unit: mm3 per hour (log scale)),
+indicating the treatment intervention alters the course of infarct evolution
+remarkably. Also, the growth rate is much smaller in rats with mild ischemia in which higher neuroprotection efﬁcacy of NRG-1 was observed,
+suggesting that the growth rate may be a complementary and sensitive
+indicator to assess the efﬁcacy of pharmaceutical treatment in subjects
+with pMCAo.
+The exact mechanism of the NRG-1 neuroprotective effects remains
+inconclusive. Without supply of oxygen and glucose, the cell death
+occurs due to the energy failure, which leads to shut down of ATP dependent Na+/K+-ATPase. Consequently, massive Na+ and Ca2+ cytoplasmic accumulation leads to overactivation of the NMDA subtype of
+glutamate receptors. Finally, cytoplasmic accumulation or Ca2 + ultimately leads to necrotic cell death [15]. NRG-1 may block NMDA receptors which prevent glutamate-mediated excitotoxic as well as necrotic
+neuronal death [8]. Another possible mechanism is that NRG-1 may
+play a key role in inhibition of apoptotic and pro-inﬂammatory responses [4,26–28]. NRG-1 prevented ischemia-induced mononuclear
+inﬁltration, astrocyte activation and cytokine production, which are
+known to be associated with delayed neuronal death following ischemia [4,26–28].
+Another important question is whether physiological parameters,
+including CBF are altered after NRG-1 administration. Xu et al. [28]
+analyzed physiological parameters in vehicle and NRG-1-treated animals before and after transient MCAo and showed that NRG-1 did not
+signiﬁcantly affect any of the physiological parameters including pH,
+pCO2, PO2, Hct (%), Na+, K+, Ca2+, heart rate, mean arterial pressure
+and blood pressure. Similarly, our current data suggested that NRG-1
+
+Fig. 5. Histological staining by 2,3,5-triphenyltetrazolium chloride (TTC) matched the MRI ﬁndings at 48 h after MCAo. (Column A and C) TTC-stained Brain sections. (Column B and
+D) Corresponding T2-weighted images. A and B: NRG-1 treated rat. C and D: vehicle-treated rat.
+
+S. Wang et al. / Journal of the Neurological Sciences 357 (2015) 28–34
+
+33
+
+Fig. 6. The immunohistology results of NRG-1 and vehicle treated rat brains 48 h post occlusion. In vehicle group (A), FJB positive cells widely distributed among the cortex where MCA
+supplied (open arrows). However FJB positive cells could not be observed at cortex in NRG-1 treated group (closed arrow) (B). In vehicle group (C), NeuN positive neuron shows obvious
+morphological changes of cell shrinkage and chromatin condenses. However, relatively normal neuron is found in the cortex in the NRG-1 treated rats (D). Scale bar = 100 μm.
+
+did not affect physiological parameters or CBF during the MCAo procedure. Further perfusion measurements with MRI may be employed to
+validate the CBF results in the future study.
+The neuroprotective effects of NRG-1 were partially contingent on
+the initial severity of ischemic insults. Our results show that NRG-1 neuroprotective effects are pronounced in mild ischemic insults (i.e., less
+than 70% CBF reduction) compared to severe ischemic insults. The CBF
+threshold was determined empirically based upon the present study.
+Initial CBF reduction status after stroke insult may be a key factor to determine the NRG-1 neuroprotective efﬁcacy. Additionally, the neuroprotective effects of NRG-1 at current dose were associated with the severity
+of injury and the CBF threshold and could be a dose-dependent effect.
+The dosage effect of NRG-1 will be further studied to determine the optimal dosage for maximal neuroprotection during mild and severe
+ischemia.
+
+Our ﬁndings suggest that NRG-1 given before pMCAO can reduce the
+infarction. The results from other models in our laboratory also indicate
+that a single administration of NRG-1 is sufﬁcient to block the downstream mechanisms of acute brain injury, even in the presence of the insult. We reported previously that NRG-1 blocked downstream neurotoxic
+and pro-inﬂammatory responses in animal models of nerve agent exposure and experimental cerebral malaria without affecting the levels of
+AChE inhibition or parasite numbers, respectively [13,21]. Therefore, it
+is not unexpected that NRG-1 prevents neuronal death despite the persistence of severe CBF reduction. We propose that NRG-1 blocks the
+pro-inﬂammatory responses downstream of ischemia that lead to secondary neuronal death.
+NRG-1 was delivered intra-arterially (i.a.) before pMCAo in the present study. With regard to i.a. administration, there is clear precedence
+for its utility in a number of neurological disorders, including
+stroke [2,11]. In fact, rt-PA, the only drug FDA approved for stroke
+therapy, was shown in clinical trials to be safe and efﬁcacious 6 h
+after stroke compared to the 3–4 h therapeutic window for intravenous (i.v.) administration [3]. However, we expect that i.v. administration of NRG-1 will provide similar neuroprotection as
+previously demonstrated in other models of acute brain injury
+[12,16]. In addition, ongoing pilot studies are examining whether
+NRG-1 can also be delivered i.v. and intra-nasally to treat ischemic
+neuronal injury.
+In summary, the spatio-temporal neuroprotective effects of NRG-1
+were demonstrated in a rat model of stroke using MRI and histological
+evaluations. More studies are needed to fully understand the mechanisms of NRG-1 neuroprotective effects and to optimize the treatment
+strategy in stroke patients. In vivo multiparametric MRI could serve as
+a valuable monitor tool in this endeavor.
+
+Fig. 7. Neurological assessment. Standard neurological tests utilizing a 6-point neurological
+scale (0 = no deﬁcit, 1 = failure to extend left forepaw fully, 2 = circling to the left, 3 =
+falling to the left, 4 = no spontaneous walking with a depressed level of consciousness,
+and 5 = dead) were performed at 24 h post-occlusion and 48 h post-occlusion. Gray
+bar = NRG-1 treated rats, black bar = vehicle treated rats.
+
+Conﬂict of interest statement
+Patent related to the work being reported is held by the author
+without direct corporate involvement at the time.
+
+34
+
+S. Wang et al. / Journal of the Neurological Sciences 357 (2015) 28–34
+
+Acknowledgments
+The authors thank Ruth Connelly, Paul Chen, and Doty Kempf (DVM)
+for animal handling. This project was supported in part by NCRR
+(P51RR000165) and currently by the Ofﬁce of Research Infrastructure
+Programs of NIH (OD P51OD011132).
+
+[15]
+[16]
+
+[17]
+
+[18]
+
+References
+[1] H. Adams, B.H. Bendixen, L.J. Kappelle, J. Biller, B.B. Love, D.L. Gordon, E.R. Marsh,
+Classiﬁcation of subtype of acute ischemic stroke. Deﬁnitions for use in a multicenter clinical trial. TOAST. Trial of Org 10172 in Acute Stroke Treatment, Stroke
+24 (1993) 35–41.
+[2] J.J. Connors III, Interventional stroke therapy: the potential beneﬁt of direct intraarterial infusion, Rev. Cardiovasc. Med. 3 (Suppl. 2) (2002) S92–S99.
+[3] J.A. Ellis, B.E. Youngerman, R.T. Higashida, D. Altschul, P.M. Meyers, Endovascular
+treatment strategies for acute ischemic stroke, Int. J. Stroke 6 (2011) 511–522.
+[4] D.L. Falls, K.M. Rosen, G. Corfas, W.S. Lane, G.D. Fischbach, ARIA, a protein that stimulates acetylcholine-receptor synthesis, is a member of the neu ligand family, Cell
+72 (1993) 801–815.
+[5] V.L. Feigin, C.M.M. Lawes, D.A. Bennett, C.S. Anderson, Stroke epidemiology: a review
+of population-based studies of incidence, prevalence, and case-fatality in the late
+20th century, Lancet Neurol. 2 (2003) 43–53.
+[7] M.D. Ginsberg, Adventures in the pathophysiology of brain ischemia: penumbra,
+gene expression, neuroprotection: the 2002 Thomas Willis Lecture, Stroke 34
+(2003) 214–223.
+[8] B.J. Gwag, D. Lobner, J.Y. Koh, M.B. Wie, D.W. Choi, Blockade of glutamate receptors
+unmasks neuronal apoptosis after oxygen-glucose deprivation in-vitro, Neuroscience 68 (1995) 615–619.
+[9] W. Hacke, M. Kaste, C. Fieschi, D. Toni, E. Lesaffre, R. Vonkummer, G. Boysen, E.
+Bluhmki, G. Hoxter, M.H. Mahagne, M. Hennerici, Intravenous thrombolysis with recombinant tissue-plasminogen activator for acute hemispheric stroke — the
+European Cooperative Acute Stroke Study (ECASS), JAMA 274 (1995) 1017–1025.
+[10] W. Hacke, G. Donnan, C. Fieschi, M. Kaste, R. Von Kummer, J. Broderick, T. Brott, M.
+Frankel, J. Grotta, E. Haley Jr., Association of outcome with early stroke treatment:
+pooled analysis of ATLANTIS, ECASS, and NINDS rt-PA stroke trials, Lancet 363
+(2004) 768–774.
+[11] R.T. Higashida, A.J. Furlan, H. Roberts, T. Tomsick, B. Connors, J. Barr, W. Dillon, S.
+Warach, J. Broderick, B. Tilley, D. Sacks, Trial design and reporting standards for
+intra-arterial cerebral thrombolysis for acute ischemic stroke, Stroke 34 (2003)
+e109–e137.
+[12] J.F. Iaci, A. Ganguly, S.P. Finklestein, T.J. Parry, J. Ren, S. Saha, D.K. Sietsma, M.
+Srinivas, A.M. Vecchione, A.O. Caggiano, Glial growth factor 2 promotes functional
+recovery with treatment initiated up to 7 days after permanent focal ischemic
+stroke, Neuropharmacology 59 (2010) 640–649.
+[13] Y. Li, Z. Xu, G.D. Ford, D.R. Croslan, T. Cairobe, Z. Li, B.D. Ford, Neuroprotection by
+neuregulin-1 in a rat model of permanent focal cerebral ischemia, Brain Res. 1184
+(2007) 277–283.
+[14] Y. Li, P.J. Lein, G.D. Ford, C. Liu, K.C. Stovall, T.E. White, D.A. Bruun, T. Tewolde, A.S.
+Gates, T.J. Distel, M.C. Surles-Zeigler, B.D. Ford, Neuregulin-1 inhibits
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24]
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29]
+
+[30]
+
+neuroinﬂammatory responses in a rat model of organophosphate-nerve agent-induced delayed neuronal injury, J. Neuroinﬂammation 12 (2015) 64.
+P. Lipton, Ischemic cell death in brain neurons, Physiol. Rev. 79 (1999) 1431–1568.
+J. Lok, H. Wang, Y. Murata, H.H. Zhu, T. Qin, M.J. Whalen, E.H. Lo, Effect of neuregulin1 on histopathological and functional outcome after controlled cortical impact in
+mice, J. Neurotrauma 24 (2007) 1817–1822.
+H.L. Lutsep, G.W. Albers, A. DeCrespigny, G.N. Kamat, M.P. Marks, M.E. Moseley, Clinical utility of diffusion-weighted magnetic resonance imaging in the assessment of
+ischemic stroke, Ann. Neurol. 41 (1997) 574–580.
+L. Olah, S. Wecker, M. Hoehn, Secondary deterioration of apparent diffusion coefﬁcient after 1-hour transient focal cerebral ischemia in rats, J. Cereb. Blood Flow
+Metab. 20 (2000) 1474–1482.
+P.W. Schaefer, L. Souza, S. Kamalian, J.A. Hirsch, A.J. Yoo, S. Kamalian, R.G. Gonzalez,
+M.H. Lev, Limited reliability of computed tomographic perfusion acute infarct volume measurements compared with diffusion-weighted imaging in anterior circulation stroke, Stroke 46 (2015) 419–424.
+G. Schlaug, B. Siewert, A. Benﬁeld, R.R. Edelman, S. Warach, Time course of the apparent diffusion coefﬁcient (ADC) abnormality in human stroke, Neurology 49
+(1997) 113–119.
+W. Solomon, N.O. Wilson, L. Anderson, S. Pitts, J. Patrickson, M. Liu, B.D. Ford, J.K.
+Stiles, Neuregulin-1 attenuates mortality associated with experimental cerebral malaria, J. Neuroinﬂammation 11 (2014) 9.
+A. Towﬁghi, J.L. Saver, Stroke declines from third to fourth leading cause of death in
+the United States: historical perspective and challenges ahead, Stroke 42 (2011)
+2351–2355.
+J.C. van Swieten, P.J. Koudstaal, M.C. Visser, H.J. Schouten, J. van Gijn, Interobserver
+agreement for the assessment of handicap in stroke patients, Stroke 19 (1988)
+604–607.
+R. Venkatesan, W. Lin, K. Gurleyik, Y.Y. He, R.P. Paczynski, W.J. Powers, C.Y. Hsu, Absolute measurements of water content using magnetic resonance imaging: preliminary ﬁndings in an in vivo focal ischemic rat model, Magn. Reson. Med. 43 (2000)
+146–150.
+S.M. Wolpert, H. Bruckmann, R. Greenlee, Neuroradiologic evaluation of patients
+with acute stroke treated with recombinant tissue-plasminogen activator, Am. J.
+Neuroradiol. 14 (1993) 3–13.
+Z.F. Xu, J. Jiang, G. Ford, B.D. Ford, Neuregulin-1 is neuroprotective and attenuates inﬂammatory responses induced by ischemic stroke, Biochem. Biophys. Res. Commun.
+322 (2004) 440–446.
+Z.F. Xu, G.D. Ford, D.R. Croslan, J. Jiang, A. Gates, R. Allen, B.D. Ford, Neuroprotection
+by neuregulin-1 following focal stroke is associated with the attenuation of
+ischemia-induced pro-inﬂammatory and stress gene expression, Neurobiol. Dis. 19
+(2005) 461–470.
+Z.F. Xu, D.R. Croslan, A.E. Harris, G.D. Ford, B.D. Ford, Extended therapeutic window
+and functional recovery after intraarterial administration of neuregulin-1 after focal
+ischemic stroke, J. Cereb. Blood Flow Metab. 26 (2006) 527–535.
+X. Zhang, F. Tong, C.X. Li, Y. Yan, G. Nair, T. Nagaoka, Y. Tanaka, S. Zola, L. Howell, A
+fast multiparameter MRI approach for acute stroke assessment on a 3 T clinical
+scanner: preliminary results in a non-human primate model with transient ischemic occlusion, Quant. Imaging Med. Surg. 4 (2014) 112–122.
+X. Zhang, F. Tong, C.X. Li, Y. Yan, D. Kempf, G. Nair, S. Wang, E.C. Muly, S. Zola, L.
+Howell, Temporal evolution of ischemic lesions in nonhuman primates: a diffusion
+and perfusion MRI study, PLoS ONE 10 (2015) e0117290.
+
+

@@ -1,0 +1,951 @@
+﻿,1 ,1
+*Department of Neurosurgery, Shanghai Jiao Tong University Affiliated Sixth People’s Hospital,
+School of Medicine, Shanghai Jiao Tong University, Shanghai, China
+†Department of Radiology, Shanghai Jiao Tong University Affiliated Sixth People’s Hospital, School of
+Medicine, Shanghai Jiao Tong University, Shanghai, China
+‡Neuroscience and Neuroengineering Research Center, Med-X Research Institute, Shanghai Jiao Tong
+University, Shanghai, China
+Abstract
+Sirtuin 2 (SIRT2) is a member of the sirtuin family of NAD+-
+dependent protein deacetylases. In recent years, SIRT2
+inhibition has emerged as a promising treatment for neurodegenerative
+diseases. However, to date, there is no evidence of
+a specific role for SIRT2 in traumatic brain injury (TBI). We
+investigated the effects of SIRT2 inhibition on experimental
+TBI using the controlled cortical impact (CCI) injury model.
+Adult male mice underwent CCI or sham surgery. A selective
+brain-permeable SIRT2 inhibitor, AK-7, was administrated
+30 min before injury. The volume of the brain edema lesion
+and the water content of the brain were significantly increased
+in mice treated with AK-7 (20 mg/kg), compared with the
+vehicle group, following TBI (p < 0.05 at 1 day and p < 0.05 at
+3 days, respectively). Concomitantly, AK-7 administration
+greatly worsened neurobehavioral deficits on days 3 and 7
+after CCI. Furthermore, blood–brain barrier disruption and
+matrix metalloproteinases (MMP)-9 activity increased following
+SIRT2 inhibition. AK-7 treatment increased TBI-induced
+microglial activation both in vivo and in vitro, accompanied by
+a large increase in the expression and release of inflammatory
+cytokines. Mechanistically, SIRT2 inhibition increased both
+K310 acetylation and nuclear translocation of NF-jB p65,
+leading to enhanced NF-jB activation and up-regulation of its
+target genes, including aquaporin 4 (AQP4), MMP-9, and proinflammatory cytokines. Together, these data demonstrate
+that SIRT2 inhibition exacerbates TBI by increasing NF-jB
+p65 acetylation and activation. Our findings provide additional
+evidence of an anti-inflammatory effect of SIRT2.
+Keywords: blood–brain barrier, cerebral edema,
+inflammation, SIRT2, traumatic brain injury.
+J. Neurochem. (2016) 136, 581–593.
+Traumatic brain injury (TBI) involves a primary insult that
+occurs at the moment of impact that initiates subsequent
+physiological and pathological reactions that may last
+for days to months (Masel and DeWitt 2010). Despite
+recent advances in the understanding of the pathological
+process of TBI, an effective treatment that prevents
+or repairs TBI-induced loss-of-function remains to be
+discovered.
+Received September 3, 2015; revised manuscript received October 13,
+2015; accepted October 27, 2015.
+Address correspondence and reprint requests to Heng-Li Tian,
+Department of Neurosurgery, Shanghai Jiao Tong University Affiliated
+Sixth People’s Hospital, School of Medicine, Shanghai Jiao Tong
+University, Shanghai 200233, China. E-mail: tianhlsh@126.com (or)
+Wei-Hai Ying, Neuroscience and Neuroengineering Research Center,
+Med-X Research Institute, Shanghai Jiao Tong University, Shanghai
+200025, China. E-mail: 415523055@qq.com
+1These authors contributed equally to this work.
+Abbreviations used: AQP4, aquaporin 4; BBB, blood–brain barrier;
+CCI, controlled cortical impact; EB, Evans blue; HD, Huntington’s
+disease; IL, interleukin; LPS, lipopolysaccharide; MAPKs, mitogenactivated
+protein kinases; MMP-9, matrix metalloproteinases 9; MRI,
+magnetic resonance imaging; NF-jB, nuclear factor kappa B; PD,
+Parkinson’s disease; SIRT2, sirtuin 2; TBI, traumatic brain injury.
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 581--593 581
+JOURNAL OF NEUROCHEMISTRY | 2016 | 136 | 581–593 doi: 10.1111/jnc.13423
+(PDF Extractor SDK TRIAL VERSION)
+Sirtuins are mammalian homologs of the Saccharomyces
+cerevisiae silencing protein Sir2, which uses NAD+ as a
+cofactor to remove an acetyl group from the epsilon amine of
+lysine (Houtkooperet al.2012). These proteins have received
+widespread attention over the last few years, owing to their
+diverse physiological roles in various biological processes (Qiu
+et al. 2010; Hoffmann et al. 2014; Wang et al. 2014). There
+are seven mammalian sirtuins (SIRT1-7), with distinctive
+subcellular localizations and enzymatic functions (Houtkooper
+et al. 2012). SIRT1, primarily localized to the nucleus, is the
+most similar to the yeast Sir2 and is also the best characterized
+of the sirtuin proteins (de Oliveira et al. 2012). In previous
+studies, pharmacological activation or up-regulation of the
+expression of SIRT1 had neuroprotective effects in several
+models of neurodegenerative disease (Kim et al. 2007; Donmez et al. 2012). A neuroprotective effect of SIRT1 was
+recently confirmed in experimental TBI, both in vitro and
+in vivo (Zhao et al. 2012). In contrast to SIRT1, SIRT2 is
+predominantlylocalizedtothecytosol,andlittleisknownabout
+its precise function (de Oliveiraet al.2012). Its inhibition, and
+not activation, has been shown to have beneficial effects in
+neurodegenerative diseases, such as Parkinson’s disease (PD)
+and Huntington’s disease (HD) (Outeiro et al. 2007; Pallos
+et al. 2008; Luthi-Carter et al. 2010; Taylor et al. 2011;
+Chopraet al.2012; Di Frusciaet al.2015). In tests onin vitro
+and invertebrate models of HD, SIRT2 inhibition conferred
+neuroprotective effects by the negative regulation of polyglutamine
+inclusion and sterol biosynthesis (Pallos et al. 2008;
+Luthi-Carter et al. 2010; Taylor et al. 2011; Chopra et al.
+2012). Similarly, in tests onin vitroand animal models of PD,
+its inhibition rescued neuronal cells froma-synuclein-induced
+toxicity, potentially by modulating microtubule stabilization
+(Outeiro et al. 2007). Curiously, contrary to pharmacological
+inhibition, reduction or ablation of SIRT2 expression has
+recently been shown to have no effect on HD progression, as
+assessed by physiological and behavioral tests (Bobrowska
+et al. 2012). The mechanism of SIRT2 inhibition-dependent
+neuroprotection remains elusive. TBI and neurodegenerative
+diseases share many pathological features, such as inflammation
+, oxidative stress, and the accumulation of b-amyloid
+(Loaneet al.2009;MannixandWhalen2012).Itistemptingto
+speculate that SIRT2 inhibition may have a beneficial effect on
+the TBI process and that SIRT2 may represent a novel potential
+therapeutic target for TBI treatment.
+In the present study, we utilized several preclinical targetvalidation
+paradigms and examined the in vivo efficacy of
+SIRT2 inhibition in a controlled cortical impact (CCI) model
+of TBI in mice.
+Materials and methods
+Study design and experimental groups
+AK-7 (Gene Operation, Ann Arbor, MI, USA), a selective, brainpermeable
+SIRT2 inhibitor (Taylor et al. 2011), was dissolved in
+water containing 25% Cremophor EL (Sigma Aldrich, St. Louis, MO,
+USA) and 10% dimethyl sulfoxide (Sigma Aldrich). This SIRT2
+solution and vehicle control were injected intraperitoneally twice
+daily. Thefirst injection was performed 30 min before TBI induction.
+Mice were killed for biological studies at 1 and 3 days after TBI,
+unless otherwise indicated. To determine the dose–response relationship
+, AK-7 wasfirst tested at 10 and 20 mg/kg in male C57Bl/6 mice.
+These doses were found to be beneficial in HT mice, with no obvious
+side effects (Chopra et al. 2012). Mice were coded and randomly
+divided intofive groups using a random number table: sham+vehicle
+(n = 3), sham+AK-7 20 mg/kg (n = 3); TBI+vehicle (n = 6);
+TBI+AK-7 10 mg/kg (n = 6); and TBI+AK-7 20 mg/kg (n = 6).
+The 20 mg/kg dose was used for subsequent neuropathological and
+biochemical studies because significant differences in brain edema
+volume were detected at that dose.
+Surgical procedures and CCI injury model
+All surgical procedures and experimental protocols were performed
+in accordance with protocols approved by the Institutional Animal
+Care and Use Committee of Shanghai Jiao Tong University School
+of Biomedical Engineering. Adult male C57Bl/6 mice (20–25 g;
+Shanghai SLAC Laboratory Animal Corporation, Shanghai, China)
+were anesthetized with ketamine (75 mg/kg) and xylazine (10 mg/
+kg). The mice were placed on a heated pad, and their core body
+temperature was maintained at 37°C. The head was mounted in a
+stereotaxic frame (Stoelting, Wood Dale, IL, USA), and the surgical
+site was cleaned with ethanol scrubs. A midline incision (10 mm
+long) was made over the skull, the skin and fascia were retracted,
+and a craniotomy was performed using a 4-mm trephine over the
+central aspect of the left parietal bone, 1 mm lateral to the sagittal
+suture. Care was taken to keep the dura intact. Mice were excluded
+from the study if dural integrity was breached. A contusion injury
+was created using a CCI device (PinPoint Precision Cortical
+Impactor PCI3000; Hatteras Instruments Inc., Cary, NC, USA)
+with a 3-mm diameter, rounded, steel impactor tip, oriented
+perpendicular to the cortical surface. An injury of moderate severity
+was induced using an impact velocity of 1.5 m/s, deformation depth
+of 1.5 mm, and dwell time of 85 ms. After injury, sterile cotton was
+used to control the bleeding of the injured cortical surface. The
+incision was closed with interrupted 6-0 silk sutures, and the animal
+was placed in a heated cage to maintain its body temperature until
+fully conscious, after which time it was returned to its home cage.
+Sham animals underwent exactly the same procedure as the injured
+mice, but the impact was not performed. TBI modeling and drug
+treatment were conducted by the same person in order to minimize
+the variance in operation.
+Measurement of brain edema and brain water content
+Magnetic resonance imaging (MRI) was performed using a mouse
+MRI scanner (Simenz Signa EXCITE 3.0 T, Buffalo Grove, IL, USA)
+24 h after CCI. The parameters were as follows: T2-weighted (T2W)
+MRI: repetition time = 3,670 ms; echo time (TE) = 97 ms; thickness = 0.8 mm; field of view = 709 70 mm; number of excitations = 1.5. Body temperature was maintained at 37.6  0.5°C using
+a heating fan. A proficient neuroradiologist (LL) who was blind to the
+study design evaluated all MRI images. The brain edema lesion,
+including the contusion area, was evaluated based on the T2WIs using
+NIH ImageJ software (Bethesda, MD, USA).
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 581--593
+582 F. Yuan et al.
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.1532331343)
+Water content in the brain was quantified using the wet–dry
+method. Briefly, water content was estimated from a 3-mm coronal
+tissue section of the ipsilateral cortex (or corresponding contralateral
+cortex), centered on the impact site. Tissue samples were immediately
+weighed to determine wet weight. Samples were subsequently
+dried in an oven at 100°C for 24 h to obtain dry weight. Tissue
+water content (%) was calculated as (wet weightdry weight) ⁄ wet
+weight9 100.
+Measurement of Evans blue extravasation
+Blood–brain barrier (BBB) permeability was investigated at 1 and
+3 days followingTBI by measuring extravasation of Evans blue (Sigma
+Aldrich, St Louis, MO, USA). The dye (2%; 4 mL/kg) was injected
+intravenously 2 h before the mice were killed. Then, the mice were
+perfused with phosphate-buffered saline through the left ventricle. After
+removal of intravascular-localized dye, the brain was divided into two
+hemispheres. Each sample was immediately weighed and homogenized
+in 1 mL 50% trichloroacetic acid solution. After centrifugation
+(12 000 g, 20 min), the supernatant was diluted 1 : 3 with ethanol,
+anditsabsorbancewasdeterminedat610 nmusingaspectrophotometer
+(BioTek,Winooski,VT,USA).Thequantityofdyewascalculatedusing
+a standard curve and expressed as micrograms per gram of brain tissue.
+Immunocytochemistry and image analysis
+Brain cryosections (20 lm in thickness) were fixed with absolute
+methanol in a 20°C freezer for approximately 10 min, blocked
+with 10% normal goat serum, and incubated with one or a mixture
+of two of the following primary antibodies: rat anti-CD11b, rat anti-
+CD31 (all at 1 : 100 dilution; BD Biosciences, San Jose, CA, USA),
+rabbit anti-occludin, rabbit anti-ZO-1 (all at 1 : 100 dilution; Life
+Technologies, CA, USA); goat anti-Iba-1 (1 : 100, Abcam,
+Cambridge, MA, USA), mouse anti-glial fibrillary acidic protein
+(GFAP), mouse anti-NeuN (all at 1 : 100; Millipore, Billerica, MA,
+USA), and rabbit anti-AQP4 (1 : 100; Santa Cruz Biotechnology,
+Santa Cruz, CA, USA). After washing in phosphate-buffered saline,
+sections were incubated with Alexa-488- or Alexa-594-conjugated
+secondary antibodies (1 : 250 dilution; Life Technologies). Nuclei
+were stained with 40,6-diamidino-2-phenylindole (1 : 5000 dilution;
+Beyotime Institute of Biotechnology, Nan Tong, China). Freefloating brain sections (30 lm) collected from both sham and TBI
+groups underwent heat-induced antigen retrieval were used for
+SIRT2 (rabbit ant-SIRTT2, 1 : 100; Abcam) immunostaining.
+Multiplex assessment of six cytokines and chemokines
+The levels of IL-1b, IL-6, TNF-a, macrophage inflammatory
+protein-2 (MIP-2), MCP-1, and IL-10 in serum were simultaneously
+analyzed using Luminex xMAP technology and kits obtained from
+Millipore (MCYTOMAG-70K-06; Millipore). All procedures were
+performed according to the manufacturer’s instructions. Median
+fluoresce intensity data obtained by the Luminex 200 instrument
+were analyzed using xPONENT software, using a weighted fiveparameter
+logistic method for calculating cytokine/chemokine
+concentrations in samples, by comparison with standard curves.
+Electrophoretic mobility shift assay (EMSA)
+Nuclear protein samples were obtained using the Nuclear Extract Kit
+(Beyotime Institute of Biotechnology, Nan Tong, China), according
+to the manufacturer’s instructions. DNA–protein interactions were
+measured using the LightShift Chemiluminescent EMSA Kit (Pierce
+Biotechnology, Rockford, IL, USA) as follows. Nuclear extracts
+(25 lg) were incubated with a biotin-labeled NF-jB probe (Grall
+et al. 2003) (50-tcgacatgtgggattttcccatgac-30) at 25 C for 20 min.
+Protein–DNA complexes were resolved on a 6% polyacrylamide
+gel, transferred to nylon membranes (Millipore), and cross-linked
+via exposure to 312 nm UV light. Membranes were subsequently
+incubated with streptavidin–horseradish peroxidase for 15 min.
+Biotin-labeled DNA signals were visualized using the enhanced
+chemiluminescence detection system.
+Statistical analysis
+All data are presented as mean  SE of the mean. Equality of
+variance was assessed by Levene’s test, and t-tests were used to
+compare mean; p values < 0.05 were considered to be statistically
+significant. GraphPad Prism 6 (GraphPad Software, San Diego, CA,
+USA) was used for graphic representation of data. The statistical
+package used for analyses was SPSS 20.0 for Windows (SPSS Inc.,
+Chicago, IL, USA).
+Results
+SIRT2 is up-regulated in the peri-contusional area after TBI
+To study the role of SIRT2 in the development of TBI, we
+first analyzed the expression of SIRT2 protein in mouse brain
+homogenates from the peri-contusional regions of the
+ipsilateral cortices. Its expression significantly increased
+after TBI, compared with sham-operated animals, at all time
+points. The increase started at 6 h after TBI, peaked at
+3 days, and lasted up to 7 days (Fig. 1b and c). The
+expression of the SIRT2 gene was assessed by PCR. The
+SIRT2 mRNA level in the TBI group was approximately 1.5-
+fold that of the sham control group, at 6 h post-injury.
+Evaluation of SIRT2 mRNA level over time revealed a peak
+at 24 h (Fig. 1d). To examine the cellular expression of
+SIRT2 in the damaged brain, we conducted GFAP/SIRT2,
+NeuN/SIRT2, and Iba-1/SIRT2 double immunolabeling, and
+as expected (Maxwell et al. 2011), we found that SIRT2 was
+located exclusively in the cytosol (Fig. 1e). Furthermore, we
+observed that SIRT2 was highly expressed in the neurons of
+both sham and TBI animals, while it was specifically
+expressed in the astrocytes of TBI animals (Fig. 1e). SIRT2
+was also found in primary microglia cells (Iba-1 positive,
+Fig. S1).
+SIRT2 inhibition promotes cerebral edema after TBI
+To investigate whether SIRT2 is involved in the development
+of cerebral edema, the SIRT2 selective inhibitor, AK-7, was
+administered prior to induction of a moderate TBI in mice.
+Brain edema was evaluated by T2-weighted MRI at 1 and
+3 days after brain injury. As shown in Fig. 2a, brain edema,
+centered on the percussion site was evident after TBI in the
+vehicle group. The high-intensity area was expanded to a
+very wide region emanating from the contusion site in mice
+pretreated with AK-7. Statistical analysis indicated that
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 581--593
+SIRT2 inhibition exacerbates neuroinflammation 583
+(PDF Extractor SDK TRIAL VERSION)
+Fig. 1 Changes in SIRT2 protein and
+mRNA expression after controlled cortical
+impact traumatic brain injury (TBI). (a-i)
+Shaded areas illustrate the pericontusional
+tissue region that was sampled
+for western blot and PCR analysis. (a-ii) A
+coronal brain slice showing an obvious
+traumatic hemorrhagic cerebral contusion
+in the injured cortex. (a-iii) The process of
+controlled cortical impact (CCI) in mice. (b, c
+and d) Time course of SIRT2 protein and
+mRNA expression in the peri-contusional
+tissue. SIRT2 expression was higher
+following TBI, compared with the sham
+group (n = 3 in each group, *p < 0.05,
+**p < 0.01). (e) Representative SIRT2/
+GFAP or SIRT2/NeuN immunofluorescence
+staining in brains from sham or TBI
+mice 3 days after TBI. Scale bar = 10 lm.
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 581--593
+584 F. Yuan et al.
+(8.0.0.2542,1054380911 PDF Extractor SDK TRIAL)
+20 mg/kg AK-7 pretreatment significantly increased the
+volume of the brain edema lesion, compared with the vehicle
+group (p < 0.01 at 1 day and p < 0.01 at 3 days, respectively
+) (Fig. 2b).
+Brain tissue samples from the same set of mice were
+weighed and dehydrated. As shown in Fig. 2d, the water
+content in the tissue increased in the ipsilateral cortex after
+TBI (80.8%), compared with the sham group (78.5%,
+p < 0.05 vs. TBI). Pretreatment with 10 mg/kg AK-7 did
+not significantly affect edema (81.4%), whereas 20 mg/kg
+AK-7 significantly increased edema (81.9%; p < 0.05 vs.
+TBI) at 24 h post-TBI. Brain water content was also
+statistically significant in the AK-7 group compared with
+the vehicle group at 3 days after TBI (82.7%; p < 0.05 vs.
+TBI). These results were consistent with the distribution and
+sizes of the edematous regions in the brain, as evaluated by
+T2-weighted MRI.
+Aquaporin 4 (AQP4) plays an important role in the
+formation of brain edema (Laird et al. 2010). To assess the
+biological effects of AK-7 on the formation of brain edema,
+mice treated with 20 mg/kg AK-7 were killed at 1 and
+3 days after TBI. Western blot analyses showed that the
+levels of AQP4 protein increased after TBI and were
+significantly higher in the AK-7-treated group than in the
+untreated group (p < 0.001 at 1 day and p < 0.05 at 3 days,
+respectively) (Fig. 2c, e and f). Taken together, these results
+indicate that AK-7-mediated SIRT2 inhibition increases
+cerebral edema following TBI, in part, by up-regulating
+AQP4 expression.
+Brain edema can result in neurological deficits (Donkin
+and Vink 2010). To determine the effects of SIRT2
+inhibition on behavioral changes following TBI, AK-7
+(20 mg/kg) was administered by intraperitoneal injection
+twice daily for up to 7 days. SIRT2 inhibition by AK-7
+resulted in a significant deterioration in behavioral competency
+on days 3 and 7 post-TBI, compared with the vehicletreated
+group, as evaluated by the Garcia score and the
+rotarod test (Fig. S2, p < 0.05).
+SIRT2 inhibition exacerbates BBB disruption
+Cerebral edema is often accompanied by disruption of the
+BBB. To evaluate BBB permeability after TBI, Evans blue
+(EB) extravasation was evaluated. AK-7 treatment remarkably
+increased EB leakage in the ipsilateral cortex (Fig. 3a),
+Fig. 2 SIRT2 inhibition by AK-7 promotes
+brain edema. (a) Five representative
+coronal T2-weighted images from each
+group at indicated time points are
+depicted. To measure edema volume, the
+lesion volume was expressed as a
+percentage of that of the contralateral
+hemisphere volume. (b) Edema volume
+was quantified and is represented as
+mean  SEM. (d) AK-7 treatment
+increased the water content in the brain in
+a dose-dependent manner 24 h after
+traumatic brain injury (TBI) (n = 3 in sham
+groups, n = 6 in TBI groups). (c)
+Representative AQP4 immunofluorescence
+staining in brains from sham or TBI mice
+1 day after TBI. (e) Western blot analyses
+showed that there was a significant increase
+in AQP4 protein expression in the pericontusional
+area at 1 and 3 days after TBI.
+(f) AK-7 treatment increased AQP4
+expression, compared with the vehicle
+treatment group (n = 4 in sham groups,
+n = 6 in TBI groups, *p < 0.05, **p < 0.01,
+***p < 0.001, scale bar = 100 lm).
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 581--593
+SIRT2 inhibition exacerbates neuroinflammation 585
+( 8.0.0.2542.328465512 PDF Extractor SDK EVALUATION)
+indicating that TBI-induced BBB disruption was aggravated
+by SIRT2 inhibition (Fig. 3b, p < 0.001). To evaluate the
+mechanism of BBB disruption after AK-7 treatment, we
+conducted ZO-1/CD31 and occludin/CD31 double-immunolabeling
+to observe tight junction distribution in situ 24 h
+after TBI. Confocal microscopy analysis showed that in
+sham mice, ZO-1 and occludin immunolabeling were located
+on the endothelial cell margin of cerebral microvessels in a
+continuous manner. This continuity was disrupted by TBI,
+and this effect was exacerbated by SIRT2 inhibition (Fig. 3c
+and d). To evaluate tight junction degradation, western blot
+analysis was performed; decreased expression of ZO-1 and
+occludin was observed in AK-7-treated mice at 1 and 3 days
+following TBI (Fig. 3e–h).
+SIRT2 inhibition increases TBI-induced MMP-9 activity
+Matrix metalloproteinases, such as MMP-9, play an important
+role in the degradation of the tight junction proteins of
+the BBB. We evaluated the activity of MMP-9 in the pericontusional
+cortex of the sham and TBI groups using
+zymography. Tissue homogenates from each experimental
+group were processed and analyzed. Zymography clearly
+indicated that the up-regulation of MMP-9 activity after TBI
+was significantly enhanced in response to AK-7 treatment but
+that AK-7 itself has no effect on MMP-9 activity (Fig. 4a and
+b). MMP-9 protein and mRNA levels were also significantly
+increased by AK-7 treatment in the ipsilateral cortices at 1
+and 3 days after TBI (Fig. 4c). These results suggest that
+SIRT2 inhibition by AK-7 exacerbates BBB disruption at
+Fig. 3 AK-7 treatment leads to increased
+ZO-1 and occludin degradation and
+elevated Evans blue extravasation. (a)
+Images show extravasation in sham,
+vehicle, and AK-7 treatment groups at 1 d
+post-traumatic brain injury (TBI). The blue
+area indicates the extravasation of the dye.
+(b) The bar graph shows a quantitative
+analysis of the dye in brain tissue at
+indicated time points after TBI (n = 4 in 
+sham groups, n = 6 in TBI groups). (c and
+d) Representative immunofluorescence
+staining of ZO-1 and occludin in sham
+groups and TBI groups at 1 d post-TBI.
+Scale bar = 10 lm. Immunoblot analysis of
+ZO-1(e) and occludin (f) expression at 1 and
+3 days post-TBI. Bar graphs show
+quantification of ZO-1 (g) and occludin
+(H) expression. SIRT2 inhibition using
+AK-7 significantly reduces TJ protein
+expression following TBI (n = 4 in sham
+groups, n = 6 in TBI groups; data are
+presented as mean  SEMs, *p < 0.05,
+**p < 0.01, ***p < 0.001).
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 581--593
+586 F. Yuan et al.
+(8.0.0.2542.628133941 PDF Extractor SDK TRIAL VERSIOn)
+least in part by a mechanism involving increased MMP-9
+expression and activation.
+SIRT2 inhibition increases TBI-induced microglial activation
+both in vivo and in vitro
+Next, we investigated whether AK-7 affected microglial
+activation in the TBI model. Activated microglia has
+enlarged cell body with several short, thickened processes.
+These morphological changes distinguish activated microglia
+from resting microglia (Town et al.2005). Wefirst evaluated
+microglia/macrophages activation using CD11b immunolabeling.
+In the sham groups, no obvious activation of
+microglia/macrophages was expected. In the vehicle group,
+extensive CD11b immunolabeling was observed in the
+peri-contusional regions of the ipsilateral hemisphere. Intraperitoneal
+administration of AK-7 increased TBI-induced activation
+of microglia/macrophages in the corresponding area (Fig. 5a).
+Statistical analysis of the CD11b signal in mouse brain sections
+indicated that AK-7 pretreatment significantly increased microglial
+activation following TBI (Fig. 5c).
+Previous studies have shown that CD11b and CD45
+double positive cells were recognized as macrophages and
+activated microglia (Perego et al. 2011). TBI-induced
+microglial activation was further quantified by flow cytometry
+analysis (Fig. 5b). Single-cell suspensions from the pericontusional
+regions of the ipsilateral hemisphere were stained
+for CD11b and CD45. As shown in Fig.5d, the number of
+activated microglia and macrophages was dramatically
+increased after injury as compared with sham groups, and
+AK-7 significantly increased the activated microglia and
+macrophages as compared with vehicle controls at indicated
+time points after TBI (p < 0.05 at 1 day and p < 0.01 at
+3 days, respectively).
+To determine whether the SIRT2 inhibitor AK-7 directly
+affects TBI-induced microglial activation, primary microglia
+cells were employed. Conditioned media collected from
+neuronal mix culture cells 24 h post stretch-induced injury
+was used to stimulate primary microglia for 6 h with or
+without 10 lM AK-7. mRNA levels of inflammatory
+cytokines in primary microglia were measured by qPCR.
+As anticipated, conditioned media caused an increase in
+mRNA levels of IL-1b, IL-6, and TNF-a, while treatment
+with SIRT2 inhibitor AK-7 increased these inflammatory
+cytokines’ expression by about 2- to 3-fold (Fig. 5g,
+p < 0.01). These results suggest that SIRT2 inhibition
+increases TBI-induced microglial activation both in vivo
+and in vitro.
+SIRT2 inhibition amplifies cytokine production following TBI
+in vivo
+Pro-inflammatory cytokines play pivotal roles in the pathogenesis
+of secondary injury post-TBI, and cytokine release is
+positively correlated with injury severity. We analyzed the
+mRNA levels of pro-inflammatory cytokines in the
+peri-contusional regions by qPCR. The levels of proinflammatory cytokines in the serum were also measured
+by enzyme-linked immunosorbent assay (ELISA). Compared
+with the vehicle group, the relative mRNA levels of IL-1b,
+IL-6, TNF-a, MIP-2, and MCP-1 were markedly increased in
+the AK-7-treated TBI group (Fig. 6a). Consistent with the
+Fig. 4 SIRT2 inhibition increases traumatic brain injury (TBI)-induced
+MMP-9 expression and activity. (a) The MMP-9 activity in the pericontusional
+cortices of mice from different experimental groups at 1
+and 3 days post-TBI was assayed by zymography. (b) Western blot
+analyses showed that there was a significant increase in MMP9 protein
+expression in the peri-contusional area at 1 and 3 days after TBI. (c)
+Bar graphs summarize the data, presented as mean  SEMs, from six
+groups (n = 3 in sham groups, n = 6 in TBI groups). (d) Bar graph
+shows the mRNA levels of MMP-9 in brain tissue 1 and 3 days post-
+TBI (n = 4 in sham groups, n = 6 in TBI plus vehicle group, n = 8in
+TBI plus AK-7 group; data are presented as mean  SEMs, *p < 0.05,
+**p < 0.01).
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 581--593
+SIRT2 inhibition exacerbates neuroinflammation 587
+(TRIAL VER. PDF Extractor SDK 8.0.0.2542.1698330298)
+(a)
+(b) (c)
+(e)
+(d)
+(g)
+(f)
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 581--593
+588 F. Yuan et al.
+(EVAL PDF Extractor SDK 8.0.0.2542-1930214581)
+qPCR results, significant increases in IL-1b, IL-6, TNF-a,
+MIP-2, and MCP-1 were observed in the serum of the AK-7-
+treated TBI group (Fig. 6b). We also assessed the levels of
+IL-10, an anti-inflammatory cytokine, and found no significant
+difference between the vehicle and the AK-7-treated
+TBI mice (Fig. S3). Notably, AK-7 administration did not
+affect cytokine production in the sham group. In summary,
+these findings demonstrate that SIRT2 inhibition upregulates
+pro-inflammatory cytokines, but not anti-inflammatory
+cytokines.
+SIRT2 inhibition enhances TBI-induced NF-jB activation
+NF-jB p65 is a SIRT2 substrate and is an important
+modulator of AQP4 (Rao et al. 2011), multiple proinflammatory
+cytokines, and MMP-9 (Rhee et al. 2007). Therefore,
+we investigated whether SIRT2 participates in the TBI
+process by regulating the NF-jB signaling pathway. To test
+this hypothesis, we analyzed the protein levels of acetylated
+and total p65 in the peri-contusional cerebral tissues from the
+sham and TBI groups. As shown in Fig. 7a, the acetylation
+level of p65 increased after TBI and further increased in the
+group that was administered an SIRT2 inhibitor. The level of
+total p65 protein was significantly up-regulated following
+TBI, and AK-7 treatment did not significantly increase this
+expression either in the sham or the TBI groups (Fig. 7a).
+Furthermore, TBI resulted in a strong increase in NF-jB
+DNA-binding activity that was markedly enhanced by SIRT2
+inhibition with AK-7 (Fig. 7b). The binding specificity was
+verified by incubating nuclear extracts from TBI groups with
+excess unlabeled specific competitor oligonucleotide probe.
+In addition, SIRT2 inhibition also affected TBI-induced
+NF-jB p65 translocation from the cytoplasm to the nucleus.
+As shown in Fig. 7c and d, significant levels of NF-jB p65
+protein localized to the nucleus following TBI, and AK-7
+increased this nuclear translocation. These data indicate that
+SIRT2 inhibition enhances TBI-induced NF-jB activation
+possibly by increasing the acetylation and nuclear translocation
+of p65.
+Fig. 5 Effect of AK-7 on the activation of microglia after traumatic
+brain injury (TBI) both in vivo and in vitro. (a) Immunofluorescence
+staining of CD11b in the peri-contusional regions of the ipsilateral
+cortices from different experimental groups at 3 days post-injury. (c)
+Quantification of CD11b immunointensity (n = 3 in sham groups,
+n = 6 in TBI groups). (b) Density plots of the gated region without
+fluorescent-conjugated antibodies or with isotype-matched control
+antibodies as control experiments and density plot of representative
+sham, vehicle, and AK-7 treated ipsilateral hemispheres 3 days post
+TBI. (d) AK-7 treatment increased frequencies of CD11b+CD45+-
+activated microglia/macrophages compared with the vehicle group
+(n = 3 in sham groups, n = 3 in TBI groups). (e) Experimental design
+in vitro. (f) Mixed neuronal culture. Neurons (green) were immunostained
+with anti-NeuN antibody (f-i); astrocytes (red) were immunostained
+with anti-GFAP antibody. Microglia (green) were
+immunostained with Iba-1 antibody (f-ii). Nuclei (blue) were labeled
+with 40,6-diamidino-2-phenylindole (DAPI). (g) After 6-h stimulation
+with conditioned media (CM), IL-1b, IL-6, and TNF-amRNA expression
+in primary microglia were evaluated by qPCR (n = 9). Data were
+collected from three independent experiments with standard errors of
+the mean (mean  SEMs), *p < 0.05, **p < 0.01, ***p < 0.01; scale
+bar = 100 lm).
+(a)
+(b)
+Fig. 6 AK-7 increases traumatic brain injury (TBI)-induced cytokine
+and chemokine production. (a) The bar graph shows the mRNA levels
+of IL-1b, IL-6, TNF-a, MIP-2, and MCP-1 in brain tissue 1 and 3 days
+after TBI (n = 4 in sham groups, n = 6 in TBI plus vehicle group, n = 8
+in TBI plus AK-7 group). (b) Protein levels of IL-1b, IL-6, TNF-a, MIP-2,
+and MCP-1 in serum samples were measured with ELISA (data are
+presented as mean  SEMs, n = 5 in sham groups, n = 8 in TBI plus
+vehicle group, n = 11 in TBI plus AK-7 group) (*p < 0.05, **p < 0.01,
+***p < 0.001).
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 581--593
+SIRT2 inhibition exacerbates neuroinflammation 589
+( 8.0.0.2542.82399363 PDF Extractor SDK EVAL VERSION)
+Discussion
+In recent years, SIRT2 inhibition has emerged as a strategy for
+the treatment of age-related disorders (de Oliveira et al.
+2012), including neurological diseases and cancer. With
+respect to the brain, several studies have demonstrated a
+neuroprotective effect of SIRT2 inhibition in PD (Outeiro
+et al. 2007; Chen et al. 2015b; Di Fruscia et al. 2015) and
+HD (Pallos et al. 2008; Taylor et al. 2011; Chopra et al.
+2012). In addition, SIRT2 inhibition-dependent protective
+effects have been described in bacterial infection (Eskandarian
+et al. 2013), lipopolysaccharide (LPS)-induced inflammation
+(Lee et al. 2014; Chen et al. 2015a), and H
+2
+O
+2
+-induced
+oxidative stress (Wang et al. 2007; Nie et al. 2014). In the
+present study, we conducted tests using a selective brainpermeable
+SIRT2 inhibitor, AK-7. To the best of our
+knowledge, our results demonstrate for the first time that
+SIRT2 inhibition exacerbates the severity of TBI, leading to
+more severe brain edema, neuroinflammation, further degradation
+of BBB integrity, and worsened neurological deficits.
+SIRT2 is abundant in the brain and is expressed in
+nearly all brain cells, although little is known about its
+role in this organ (Maxwell et al. 2011). We first analyzed
+the levels of SIRT2 expression in the mouse brain at
+different time points after TBI. Exposure to TBI increased
+SIRT2 expression in the peri-contusional regions of
+the ipsilateral cortices, suggesting that SIRT2 may play
+an important role in the TBI process. To evaluate this
+further, we made use of a pharmacological inhibitor of
+SIRT2; there are no selective SIRT2 activators currently
+available. SIRT2 inhibition by AK-7 promoted cerebral
+edema after TBI in a dose-dependent manner, as evaluated
+by T2-weighted MRI and the wet–dry method for
+water content. These results strongly support an important
+role for SIRT2 in the TBI process. Brain edema has a
+crucial impact on morbidity and mortality following TBI
+because it increases intracranial pressure, impairs cerebral
+perfusion pressure, and contributes toward delayed and
+progressive brain injuries. The reduction of brain edema
+is an effective treatment strategy for patients with TBI.
+Further studies should be conducted to determine whether
+SIRT2 activators could be used as a novel therapeutic
+approach for protection against TBI-induced brain
+edema.
+Fig. 7 AK-7 increases traumatic brain injury (TBI)-stimulated NF-jB
+activation 1 day after TBI. (a) Western blot analysis of endogenous
+acetylated NF-jB p65 (K310) and total NF-jB p65 following TBI. (b)
+Nuclei were extracted for NF-jB electrophoretic mobility shift assay.
+SIRT2 inhibition with AK-7 enhanced TBI-induced NF-jB p65 DNA-
+binding activity. (c and d) Nuclear and cytosolic proteins were
+separated and analyzed using an antibody against NF-jB p65.
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 581--593
+590 F. Yuan et al.
+(DEMO PDF Extractor SDK 8.0.0.2542-733439683)
+A growing body of evidence suggests that cerebral
+inflammation plays a pivotal role in the TBI process. The
+inflammatory cytokines and chemokines released at the
+injury site spread to peri-lesional brain areas. Microglial
+activation, a key process in the propagation of inflammation
+to neighboring tissue, may lead to impaired neuronal survival
+in the peri-lesional regions as a result of the generation of
+cytokines and reactive oxygen species. Therefore, it is of
+great therapeutic significance to identify new strategies with
+which to modulate the function and survival of microglia
+following TBI. In a previous in vitro study, we demonstrated
+that SIRT2 inhibition could impair microglial survival partly
+by activating the poly ADP-ribose polymerase (PARP)-
+mediated cell death pathway (Li et al. 2013). It is imperative
+to determine whether the impairment of microglial survival
+induced by SIRT2 inhibition has beneficial or deleterious
+effects in vivo. Our data from the present study show that
+AK-7 treatment results in enhanced microglial activation
+after TBI, indicating that SIRT2 inhibition might aggravate
+the inflammatory response during acute TBI.
+Evidence concerning a role for SIRT2 in the pathogenesis
+of inflammation is somewhat inconsistent. A study of
+collagen-induced arthritis suggested that SIRT2 reduces the
+levels of pro-inflammatory cytokines and ameliorates the
+severity of arthritis (Lin et al. 2013). Another study, using
+SIRT2 knock-out mice, revealed an increase in microglial
+activation and pro-inflammatory cytokines upon intracortical
+injection of LPS (Pais et al. 2013). SIRT2 deletion
+also promotes inflammatory responses in a dextran sulfate
+sodium (DSS)-induced model of colitis (Lo Sasso et al.
+2014). When recombined SIRT2 protein is transduced into
+murine macrophages, it inhibits LPS-induced expression of
+cytokines as well as activation of NF-jB and MAPKs (Kim
+et al. 2013), further demonstrating a role for SIRT2 activation
+in the suppression of the inflammatory response.
+However, other contradictory results imply that SIRT2 might
+play a detrimental role under inflammatory conditions. In one
+study, SIRT2 inhibition by genetic and pharmacological
+means reduced LPS-stimulated release of inflammatory
+mediators and reactive oxygen species by macrophages via
+a mechanism involving degradation of IjBa and nuclear
+translocation of p65 (Lee et al. 2014; Chen et al. 2015a).
+These inconsistencies highlight the complex nature of
+SIRT2-mediated effects. Because neuroinflammation plays
+critical pathological roles in TBI, it is of both theoretical and
+therapeutic significance to explore the role of SIRT2 in the
+inflammatory response following TBI; however, no reports to
+date have addressed this issue.
+We have demonstrated that SIRT2 inhibition increases
+the concentration of IL-1b, IL-6, TNF-a, MIP-2, and MCP-
+1, but not IL-10, at the local (cerebral tissue) and systemic
+(serum) levels, and that SIRT2 inhibition increases TBI-
+induced inflammatory cytokines expression in primary
+microglia. These findings, in combination with previous
+data, are strongly suggestive of an anti-inflammatory
+function of SIRT2. Notably, inflammatory factors, including
+LPS, collagen and TNF-a, reduce the levels of SIRT2
+(Lin et al. 2013; Pais et al. 2013; Lo Sasso et al. 2014),
+possibly accounting for the decrease in SIRT2 antiinflammatory functions. In our system, the SIRT2 protein
+level was up-regulated as early as 6 h post-TBI. This may
+suggest that SIRT2 is up-regulated to exert anti-inflammatory
+effects and improve outcomes after TBI. However, the
+mechanism responsible for SIRT2 up-regulation remains
+unknown. ERK1/2 was recently shown to increase SIRT2
+protein levels, stability and activity in vitro (Choi et al.
+2013). Our current research, consistent with previous
+studies, reveals that ERK1/2 is up-regulated following
+TBI (data not show). It is rational to think that TBI-induced
+SIRT2 up-regulation may be partially mediated by phosphorylation
+of ERK. Further studies should be performed
+to explore the underlying mechanisms by which SIRT2 is
+regulated at the transcriptional and post-translational levels
+following TBI.
+Aside from enhancing the neuroinflammatory response,
+SIRT2 inhibition also increases BBB permeability. In this
+study, we demonstrated that AK-7 treatment results in a
+significant increase in EB leakage and an exacerbation of
+tight junction protein degradation, leading to worsened
+outcomes in TBI mice. In this model, these effects are
+partially mediated by an increase in MMP-9 expression and
+activation. TBI is often accompanied by BBB disruption and
+plasma components, such as macrophages, cross the compromised
+BBB, aggravating inflammation, and increasing the
+production of neurotoxins that can ultimately result in neuron
+death. The breakdown of BBB integrity is a complex process
+that is partially caused by the activation of MMPs, which is
+an integral part of the neuroinflammatory response. MMPs,
+which are significantly up-regulated after TBI, are considered
+to be responsible for the degradation of TJ proteins,
+including ZO-1 and occludin. Numerous prior studies have
+indicated that activated microglia and astrocytes can release
+MMPs after TBI. Hence, TBI-induced BBB disruption
+facilitates the infiltration of macrophages from the blood,
+which aggravates the inflammatory response and further
+reduces BBB integrity. As a result, the core contusion area
+spreads toward the peripheral area, triggering secondary
+brain insults that could otherwise be preventable. Intriguingly
+, our results clearly indicate that SIRT2 inhibition
+exacerbates these pathological processes, possibly by
+increasing the activation of microglia and macrophages.
+NF-jB plays a pivotal role in the regulation of gene
+expression programs related to inflammation and brain
+edema by inducing the expression of pro-inflammatory
+cytokines and AQPs (Laird et al. 2010). SIRT2 is reported
+to interact with p65, an NF-jB family member, in the
+cytoplasm, and to deacetylate it at Lys310in vitroandin vivo
+(Rothgiesser et al. 2010). After TNFa stimulation, p65 is
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 581--593
+SIRT2 inhibition exacerbates neuroinflammation 591
+(8.0.0.2542.194796038 PDF Extractor SDK TRIAL VERSIOn)
+hyperacetylated in SIRT2-deficient cells, which results in
+increased expression of a subset of p65 target genes
+(Rothgiesser et al. 2010). We observed a similarly remarkable
+post-TBI increase in acetylated p65 protein expression
+and nuclear NF-jB translocation in response to SIRT2
+inhibition by AK-7. This is in agreement with recent reports
+that have indicated that SIRT2 targets Lys310 of p65 to
+influence pro-inflammatory gene transcription in microglia
+(Linet al.2013; Paiset al.2013). Phosphorylation of p65 on
+serine 536, another parameter associated with NF-jB
+activation, can increase acetylation on lysine 310 (Chen
+et al. 2005); however, we did not observe that its phosphorylation
+is affected by SIRT2 inhibition after TBI (Fig. S5).
+Together, these data indicate that post-translational deacetylation
+of p65 by SIRT2 might be one of the mechanisms that
+contribute toward its anti-inflammatory properties.
+A neuroprotective effect of SIRT2 inhibition was recently
+confirmed in models of PD but not in amyotrophic lateral
+sclerosis and ischemic stroke (Chen et al. 2015b). This
+highlights the specificity of protective effects of AK-7 in PD.
+Although neurodegenerative diseases and TBI share many
+pathological features, we show here that SIRT2 is an
+inhibitor of the neuroinflammatory response to TBI and that
+SIRT2 inhibition aggravates TBI severity. Our findings
+imply that any treatment that could affect the activity of
+SIRT2 should be regarded with caution. Further studies are
+required to develop SIRT2 activators and to validate their
+protective effects in TBI.
+Acknowledgments and conflict of interest
+disclosure
+This research was supported by funds from National Nature and
+Science Foundation of China (81271383,81471245) and the
+Shanghai Science and Technique Committee (13411951400). Lei-
+Lei Chen is gratefully acknowledged for her assistance with theflow
+cytometry analyses. The authors declare that they have no conflicts
+of interest.
+All experiments were conducted in compliance with the ARRIVE
+guidelines.
+Supporting information
+Additional supporting information may be found in the online
+version of this article at the publisher's web-site:
+Figure S1. (a) The SIRT2 inhibitor AK-7 did not affect SIRT2
+expression in either the sham or the TBI group. (b) Quantification of
+SIRT2 immunointensity. (c) SIRT2 and Iba-1 double-immunofluorescence
+staining in primary microglia.
+Figure S2. AK-7 treatment exacerbated the deterioration of
+neurological functions after TBI.
+Figure S3. AK-7 treatment did not increase TBI-induced IL-10
+production.
+Figure S4. Recombinant mouse MMP9 (rMMP-9) was used as a
+standard.
+Figure S5. NF-jB p65 subunit phosphorylation was not affected
+by SIRT2 inhibition in either the sham or the TBI group.
+References
+Bobrowska A., Donmez G., Weiss A., Guarente L. and Bates G. (2012)
+SIRT2 ablation has no effect on tubulin acetylation in brain,
+cholesterol biosynthesis or the progression of Huntington’s disease
+phenotypes in vivo. PLoS ONE 7, e34805.
+Chen L. F., Williams S. A., Mu Y., Nakano H., Duerr J. M., Buckbinder
+L. and Greene W. C. (2005) NF-kappaB RelA phosphorylation
+regulates RelA acetylation. Mol. Cell. Biol. 25, 7966–7975.
+Chen H., Wu D., Ding X. and Ying W. (2015a) SIRT2 is required for
+lipopolysaccharide-induced activation of BV2 microglia.
+NeuroReport 26,88 –93.
+Chen X., Wales P., Quinti L. et al. (2015b) The sirtuin-2 inhibitor AK7
+is neuroprotective in models of Parkinson’s disease but not
+amyotrophic lateral sclerosis and cerebral ischemia. PLoS ONE 10,
+e0116919.
+Choi Y. H., Kim H., Lee S. H., Jin Y. H. and Lee K. Y. (2013) ERK1/2
+regulates SIRT2 deacetylase activity. Biochem. Biophys. Res.
+Commun. 437, 245–249.
+Chopra V., Quinti L., Kim J.et al.(2012) The sirtuin 2 inhibitor AK-7 is
+neuroprotective in Huntington’s disease mouse models. Cell Rep.
+2, 1492–1497.
+Di Fruscia P., Zacharioudakis E., Liu C. et al. (2015) The discovery of a
+highly selective 5,6,7,8-tetrahydrobenzo[4,5]thieno[2,3-d]
+pyrimidin-4(3H)-one SIRT2 inhibitor that is neuroprotective in
+an in vitro Parkinson’s disease model. ChemMedChem 10,69 –82.
+Donkin J. J. and Vink R. (2010) Mechanisms of cerebral edema in
+traumatic brain injury: therapeutic developments. Curr. Opin.
+Neurol. 23, 293–299.
+Donmez G., Arun A., Chung C. Y., McLean P. J., Lindquist S. and
+Guarente L. (2012) SIRT1 protects against alpha-synuclein
+aggregation by activating molecular chaperones. J. Neurosci. 32,
+124–132.
+Eskandarian H. A., Impens F., Nahori M. A., Soubigou G., Coppee J. Y.,
+Cossart P. and Hamon M. A. (2013) A role for SIRT2-dependent
+histone H3K18 deacetylation in bacterial infection. Science 341,
+1238858.
+Grall F., Gu X., Tan L. et al. (2003) Responses to the proinflammatory
+cytokines interleukin-1 and tumor necrosis factor alpha in cells
+derived from rheumatoid synovium and other joint tissues involve
+nuclear factor kappaB-mediated induction of the Ets transcription
+factor ESE-1. Arthritis Rheum. 48, 1249–1260.
+Hoffmann G., Breitenbucher F., Schuler M. and Ehrenhofer-Murray A.
+E. (2014) A novel sirtuin 2 (SIRT2) inhibitor with p53-dependent
+pro-apoptotic activity in non-small cell lung cancer. J. Biol. Chem.
+289, 5208–5216.
+Houtkooper R. H., Pirinen E. and Auwerx J. (2012) Sirtuins as regulators
+of metabolism and healthspan. Nat. Rev. Mol. Cell Biol. 13, 225–
+238.
+Kim D., Nguyen M. D., Dobbin M. M. et al. (2007) SIRT1 deacetylase
+protects against neurodegeneration in models for Alzheimer’s
+disease and amyotrophic lateral sclerosis.EMBO J. 26, 3169–3179.
+Kim M. J., Kim D. W., Park J. H. et al. (2013) PEP-1-SIRT2 inhibits
+inflammatory response and oxidative stress-induced cell death via
+expression of antioxidant enzymes in murine macrophages. Free
+Radic. Biol. Med. 63, 432–445.
+Laird M. D., Sukumari-Ramesh S., Swift A. E., Meiler S. E., Vender J.
+R. and Dhandapani K. M. (2010) Curcumin attenuates cerebral
+edema following traumatic brain injury in mice: a possible role for
+aquaporin-4? J. Neurochem. 113, 637–648.
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 581--593
+592 F. Yuan et al.
+(TRIAL VER. PDF Extractor SDK 8.0.0.2542.1264992395)
+Lee A. S., Jung Y. J., Kim D., Nguyen-Thanh T., Kang K. P., Lee S.,
+Park S. K. and Kim W. (2014) SIRT2 ameliorates
+lipopolysaccharide-induced inflammation in macrophages.
+Biochem. Biophys. Res. Commun. 450, 1363–1369.
+Li Y., Nie H., Wu D., Zhang J., Wei X. and Ying W. (2013) Poly(ADP-
+ribose) polymerase mediates both cell death and ATP decreases in
+SIRT2 inhibitor AGK2-treated microglial BV2 cells. Neurosci.
+Lett. 544,36 –40.
+Lin J., Sun B., Jiang C., Hong H. and Zheng Y. (2013) Sirt2 suppresses
+inflammatory responses in collagen-induced arthritis. Biochem.
+Biophys. Res. Commun. 441, 897–903.
+Lo Sasso G., Menzies K. J., Mottis A., Piersigilli A., Perino A.,
+Yamamoto H., Schoonjans K. and Auwerx J. (2014) SIRT2
+deficiency modulates macrophage polarization and susceptibility to
+experimental colitis. PLoS ONE 9, e103573.
+Loane D. J., Pocivavsek A., Moussa C. E., Thompson R., Matsuoka Y.,
+Faden A. I., Rebeck G. W. and Burns M. P. (2009) Amyloid
+precursor protein secretases as therapeutic targets for traumatic
+brain injury. Nat. Med. 15, 377–379.
+Luthi-Carter R., Taylor D. M., Pallos J. et al. (2010) SIRT2 inhibition
+achieves neuroprotection by decreasing sterol biosynthesis. Proc.
+Natl Acad. Sci. USA 107, 7927–7932.
+Mannix R. C. and Whalen M. J. (2012) Traumatic brain injury,
+microglia, and Beta amyloid. Int. J. Alzheimers Dis. 2012, 608732.
+Masel B. E. and DeWitt D. S. (2010) Traumatic brain injury: a disease
+process, not an event. J. Neurotrauma 27, 1529–1540.
+Maxwell M. M., Tomkinson E. M., Nobles J., Wizeman J. W., Amore A.
+M., Quinti L., Chopra V., Hersch S. M. and Kazantsev A. G.
+(2011) The Sirtuin 2 microtubule deacetylase is an abundant
+neuronal protein that accumulates in the aging CNS. Hum. Mol.
+Genet. 20, 3986–3996.
+Nie H., Hong Y., Lu X., Zhang J., Chen H., Li Y., Ma Y. and Ying W.
+(2014) SIRT2 mediates oxidative stress-induced apoptosis of
+differentiated PC12 cells. NeuroReport, 25, 838–842.
+de Oliveira R. M., Sarkander J., Kazantsev A. G. and Outeiro T. F.
+(2012) SIRT2 as a therapeutic target for age-related disorders.
+Front. Pharmacol. 3, 82.
+Outeiro T. F., Kontopoulos E., Altmann S. M. et al. (2007) Sirtuin 2
+inhibitors rescue alpha-synuclein-mediated toxicity in models of
+Parkinson’s disease. Science 317, 516–519.
+Pais T. F., Szego E. M., Marques O., Miller-Fleming L., Antas P.,
+Guerreiro P., de Oliveira R. M., Kasapoglu B. and Outeiro T. F.
+(2013) The NAD-dependent deacetylase sirtuin 2 is a suppressor of
+microglial activation and brain inflammation. EMBO J. 32, 2603–
+2616.
+Pallos J., Bodai L., Lukacsovich T., Purcell J. M., Steffan J. S.,
+Thompson L. M. and Marsh J. L. (2008) Inhibition of specific
+HDACs and sirtuins suppresses pathogenesis in a Drosophila
+model of Huntington’s disease. Hum. Mol. Genet. 17, 3767–
+3775.
+Perego C., Fumagalli S. and De Simoni M. G. (2011) Temporal pattern
+of expression and colocalization of microglia/macrophage
+phenotype markers following brain ischemic injury in mice.
+J. Neuroinflammation 8, 174.
+Qiu X., Brown K. V., Moran Y. and Chen D. (2010) Sirtuin regulation in
+calorie restriction. Biochim. Biophys. Acta 1804, 1576–1583.
+Rao K. V., Reddy P. V., Curtis K. M. and Norenberg M. D. (2011)
+Aquaporin-4 expression in cultured astrocytes after fluid
+percussion injury. J. Neurotrauma 28, 371–381.
+Rhee J. W., Lee K. W., Kim D., Lee Y., Jeon O. H., Kwon H. J. and Kim
+D. S. (2007) NF-kappaB-dependent regulation of matrix
+metalloproteinase-9 gene expression by lipopolysaccharide in a
+macrophage cell line RAW 264.7. J. Biochem. Mol. Biol. 40,88 –
+94.
+Rothgiesser K. M., Erener S., Waibel S., Luscher B. and Hottiger M.
+O. (2010) SIRT2 regulates NF-kappaB dependent gene
+expression through deacetylation of p65 Lys310. J. Cell Sci.
+123, 4251–4258.
+Taylor D. M., Balabadra U., Xiang Z. et al. (2011) A brain-permeable
+small molecule reduces neuronal cholesterol by inhibiting activity
+of sirtuin 2 deacetylase. ACS Chem. Biol. 6, 540–546.
+Town T., Nikolic V. and Tan J. (2005) The microglial “activation”
+continuum: from innate to adaptive responses. J. Neuroinflammation 2, 24.
+Wang F., Nguyen M., Qin F. X. and Tong Q. (2007) SIRT2 deacetylates
+FOXO3a in response to oxidative stress and caloric restriction.
+Aging Cell 6, 505–514.
+Wang Y. P., Zhou L. S., Zhao Y. Z. et al. (2014) Regulation of
+G6PD acetylation by SIRT2 and KAT9 modulates NADPH
+homeostasis and cell survival during oxidative stress. EMBO J.
+33, 1304–1320.
+Zhao Y., Luo P., Guo Q. et al. (2012) Interactions between SIRT1 and
+MAPK/ERK regulate neuronal apoptosis induced by traumatic
+brain injury in vitro and in vivo. Exp. Neurol. 237, 489–498.
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 581--593
+SIRT2 inhibition exacerbates neuroinflammation 593
+(PDF Extractor SDK TRIAL VERSION)
+

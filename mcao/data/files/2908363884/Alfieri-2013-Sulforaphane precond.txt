@@ -1,0 +1,1115 @@
+Free Radical Biology and Medicine 65 (2013) 1012–1022
+
+Contents lists available at ScienceDirect
+
+Free Radical Biology and Medicine
+journal homepage: www.elsevier.com/locate/freeradbiomed
+
+Original Contribution
+
+Sulforaphane preconditioning of the Nrf2/HO-1 defense pathway
+protects the cerebral vasculature against blood–brain barrier
+disruption and neurological deﬁcits in stroke
+Alessio Alﬁeri a, Salil Srivastava a, Richard C.M. Siow a, Diana Cash b, Michel Modo c,
+Michael R. Duchen d, Paul A. Fraser a, Steven C.R. Williams b, Giovanni E. Mann a,n
+a
+
+Cardiovascular Division, British Heart Foundation Centre of Research Excellence, School of Medicine, King's College London, London SE1 9NH, UK
+Centre for Neuroimaging Sciences, Institute of Psychiatry, King's College London, London SE5 8AF, UK
+Centre for the Cellular Basis of Behaviour, Institute of Psychiatry, King's College London, London SE5 9NU, UK
+d
+Department of Cell and Developmental Biology, University College London, London WC1E 6BT, UK
+b
+c
+
+art ic l e i nf o
+
+a b s t r a c t
+
+Article history:
+Received 26 June 2013
+Received in revised form
+23 August 2013
+Accepted 29 August 2013
+Available online 7 September 2013
+
+Disruption of the blood–brain barrier (BBB) and cerebral edema are the major pathogenic mechanisms
+leading to neurological dysfunction and death after ischemic stroke. The brain protects itself against
+infarction via activation of endogenous antioxidant defense mechanisms, and we here report the ﬁrst
+evidence that sulforaphane-mediated preactivation of nuclear factor erythroid 2-related factor 2 (Nrf2) and
+its downstream target heme oxygenase-1 (HO-1) in the cerebral vasculature protects the brain against
+stroke. To induce ischemic stroke, Sprague-Dawley rats were subjected to 70 min middle cerebral artery
+occlusion (MCAo) followed by 4, 24, or 72 h reperfusion. Nrf2 and HO-1 protein expression was
+upregulated in cerebral microvessels of peri-infarct regions after 4–72 h, with HO-1 preferentially
+associated with perivascular astrocytes rather than the cerebrovascular endothelium. In naïve rats,
+treatment with sulforaphane increased Nrf2 expression in cerebral microvessels after 24 h. Upregulation
+of Nrf2 by sulforaphane treatment prior to transient MCAo (1 h) was associated with increased HO-1
+expression in perivascular astrocytes in peri-infarct regions and cerebral endothelium in the infarct core.
+BBB disruption, lesion progression, as analyzed by MRI, and neurological deﬁcits were reduced by
+sulforaphane pretreatment. As sulforaphane pretreatment led to a moderate increase in peroxynitrite
+generation, we suggest that hormetic preconditioning underlies sulforaphane-mediated protection against
+stroke. In conclusion, we propose that pharmacological or dietary interventions aimed to precondition the
+brain via activation of the Nrf2 defense pathway in the cerebral microvasculature provide a novel
+therapeutic approach for preventing BBB breakdown and neurological dysfunction in stroke.
+Crown Copyright & 2013 Published by Elsevier Inc. All rights reserved.
+
+Keywords:
+Stroke
+Nrf2
+Heme oxygenase
+Gliovascular complex
+Blood–brain barrier
+Sulforaphane
+Preconditioning
+
+Introduction
+Stroke is one of the most common causes of adult disability and
+death, with about 80% of all incidents triggered by ischemic events [1].
+After focal ischemia, progressive cell death occurs in the brain during
+the ﬁrst few hours with gradual recruitment of surrounding
+
+Abbreviations: ARE, antioxidant response element; BBB, blood–brain barrier; DAB,
+3,3′-diaminobenzidine; DAPI, 4,6-diamidino-2-phenylindole; GFAP, glial ﬁbrillary
+acidic protein; HO, heme oxygenase; Iba1, ionized calcium binding adaptor
+molecule 1; Keap1, Kelch-like ECH associated protein 1; MCAo, middle cerebral
+artery occlusion; Nrf2, nuclear factor erythroid 2-related factor 2; Prx1, peroxiredoxin 1; RECA-1, rat endothelial cell antigen-1; ROS, reactive oxygen species; RNS,
+reactive nitrogen species
+n
+Correspondence to: Cardiovascular Division, BHF Centre of Research Excellence,
+School of Medicine, King's College London, Franklin-Wilkins Building, Room 3.01,
+150 Stamford Street, London SE1 9NH, UK. Fax: þ44 (0)20 7848 4500.
+E-mail address: giovanni.mann@kcl.ac.uk (G.E. Mann).
+
+peri-infarct regions [2]. The central core of stroke-affected areas is
+subjected to a marked reduction in oxygen levels and blood ﬂow as
+well as rapid necrosis, whereas peripheral areas exhibiting modest or
+moderate oxygen and perfusion deﬁcits are potentially salvageable.
+These areas, at risk of infarction but not yet irreversibly damaged, form
+the ischemic penumbra and are the current focus of recanalization and
+neuroprotective therapies in stroke [3].
+Microvascular endothelial cells constitute the blood–brain barrier
+(BBB) and surrounding astrocytic end-feet regulate barrier permeability, transport, and metabolic functions [4]. The structural and
+functional relationship between endothelial cells and astrocytes in
+the brain has been deﬁned as the gliovascular complex [5], and
+reactive oxygen and nitrogen species function as triggers of BBB
+breakdown and cerebral edema, the major pathogenic mechanism
+leading to death after stroke [6,7].
+Heme oxygenases (HO) provide important endogenous defenses
+against oxidative injury in the brain during ischemia and inﬂammation
+
+0891-5849/$ - see front matter Crown Copyright & 2013 Published by Elsevier Inc. All rights reserved.
+http://dx.doi.org/10.1016/j.freeradbiomed.2013.08.190
+
+A. Alﬁeri et al. / Free Radical Biology and Medicine 65 (2013) 1012–1022
+
+[8,9]. Delivery of the HO-1 gene via adenoviral transfection or
+dexamethasone-loaded peptide vesicles [10,11] protects the brain
+against ischemic injury. Moreover, upregulation of HO-1 in the brain
+following ischemic preconditioning only protects against ischemic
+injury in wild-type but not HO-1–/– mice [12] while treatment with
+the HO-1 inhibitor ZnPP attenuates protection against ischemic brain
+injury [13]. Constitutive HO-2 and inducible HO-1 are rate-limiting
+enzymes in the oxidative degradation of pro-oxidant heme to the
+vasodilator carbon monoxide (CO), free iron, biliverdin, and the chainbreaking antioxidant bilirubin [8,14,15]. Intracellular generation of CO
+and/or bilirubin via heme oxygenases protects peripheral tissues and
+the brain against oxidative stress [16,17]. Notably, low doses of CO
+protect against focal transient cerebral ischemia [18] and pretreatment
+of rats with CORM-3, a water-soluble CO-releasing molecule, reduces
+brain injury following hemorrhagic stroke [19].
+A number of different cellular stressors induce HO-1 expression
+via redox-sensitive transcription factors, including nuclear factor
+erythroid 2-related factor 2 (Nrf2) [20,21]. Nrf2 is a member of the
+cap ‘n' collar family and is normally targeted for proteasomal
+degradation via its cytosolic binding protein Kelch-like ECH
+associated protein 1 (Keap1) [22–24]. Under conditions of oxidative, nitrosative or electrophilic stress Nrf2 accumulates in the
+nucleus and together with small Maf proteins binds to antioxidant
+response element (ARE) regions in the promoter of antioxidant
+proteins such as HO-1 and Nrf2 itself [25,26].
+HO-1 expression is induced in the brain of rats following hypoxia
+and ischemia–reperfusion injury [27,28], yet little is known about
+expression of Nrf2 and heme oxygenases in the gliovascular complex
+of cerebral microvessels following stroke. Although there are limited
+reports of HO-1 detection in blood vessels of the infarct region after
+global cerebral ischemia in rats [29] and constitutive HO-2 expression in vessels of naïve brain [27], to our knowledge there are no
+reported studies of the temporal or spatial distribution of Nrf2, HO-1,
+and HO-2 between endothelial cells and perivascular astrocytes in
+stroke.
+In the present study, we used an experimental model of ischemic
+stroke to monitor the time course of Nrf2 and HO-1 induction in core
+and peri-infarct regions of stroke-affected and contralateral hemispheres of the rat brain after ischemia–reperfusion injury. HO-1 and
+Nrf2 expression in the gliovascular complex of cerebral microvessels
+was correlated with levels of nitrosative stress, BBB disruption, lesion
+progression (MRI), and functional behavioral outcomes. Pretreatment
+with sulforaphane, a dietary isothiocyanate and well-characterized
+inducer of Nrf2 and HO-1 expression [30], upregulated antioxidant
+defenses in the brain and signiﬁcantly attenuated functional and
+behavioral deﬁcits after stroke.
+
+1013
+
+reperfusion. For MRI studies, rats were pretreated with (viii)
+sulforaphane (5 mg/kg ip) or (ix) vehicle (1 ml/kg ip, 1% corn oil
+in saline) 1 h before MCAo with lesion volumes measured at 24
+and 72 h reperfusion.
+Middle cerebral artery occlusion (MCAo)
+Cerebral ischemia was induced by transient intraluminal occlusion of the right middle cerebral artery (MCA) [31]. Rats were
+anesthetized with isoﬂuorane (4% for induction, 2% for maintenance, mixture of 30% O2 and 70% nitrous oxide) throughout the
+procedure. A permanent ligature was placed on the ipsilateral
+common carotid to stop the ﬂow of blood into the internal carotid
+artery. A silicone-coated ﬁlament (tip diameter 0.4 mm; Doccol)
+was advanced 18–20 mm from the cervical carotid bifurcation
+until reaching resistance from the ostium of the MCA in the circle
+of Willis. The ﬁlament was then left in place for 70 min and, at the
+end of the occlusion period, animals were checked for ﬂexion of
+the contralateral forelimb, when lifted by their tail (Bederson's
+test), and spontaneous asymmetric turning behavior when placed
+on the ﬂoor, as signs of achieved MCAo [32]. All the animals
+subjected to MCAo and included in our study were positive at this
+test. Furthermore, we applied standard criteria of inclusion/exclusion of rats in this study [33]: (i) animals with no apparent lesion
+observed on the MRI scan at 24 h following MCAo were excluded
+from the study; (ii) animals that presented a subarachnoid
+hemorrhage as detected by MRI at 24 h were also excluded from
+the study. As MRI analysis was performed by another operator
+than the one performing MCAo surgery and the pharmacological
+interventions, exclusion criteria were applied in blind to treatment
+allocation.
+To allow reperfusion, rats were reanesthetized, the intraluminal
+ﬁlament removed, and the wound was closed with non-absorbable
+sutures. Sham-control animals underwent the same surgical procedure with temporary insertion of the thread but without occluding
+the MCA.
+Behavioral assessment
+A global neurological scale [31] was used to assess a variety of
+neurological functions, including spontaneous motility, righting
+reﬂex, horizontal bar test, grasping reﬂex, tilted cage top, placing
+reaction, and visual placing. An overall deﬁcit score was calculated
+from these readouts, with each deﬁcit scoring 1 and successful
+completion of the task scored zero.
+Magnetic resonance imaging
+
+Material and methods
+All general consumables were purchased from Sigma, unless
+otherwise stated.
+Animals and experimental groups
+Male Sprague-Dawley rats (250–330 g; Harlan) were used in
+this study. All procedures were performed in accordance with the
+UK Animal (Scientiﬁc Procedures) Act 1986 and rigorous ethical
+review process both by the UK Home Ofﬁce and by King's College
+London (Project Licence No. PPL70/6579).
+Rats (n ¼46) were divided into the following experimental
+groups: (i) naïve, (ii) sham-operated, or animals subjected to
+70 min middle cerebral artery occlusion (MCAo) followed by (iii)
+4 h, (iv) 24 h, or (v) 72 h reperfusion, (vi) sulforaphane administration (5 mg/kg ip, dissolved in 1% corn oil in saline) to naïve
+animals or (vii) 1 h before subsequent MCAo (70 min) and 24 h
+
+1
+
+H magnetic resonance imaging (MRI) was performed using a
+7 T scanner (Agilent) in living rats under isoﬂurane anesthesia
+(2.5% in mixture of 10% O2, 90% air). MR images were acquired in
+8 min and 40 s using a T2-weighted fast spin echo sequence
+(TR ¼4 s; effective TE ¼ 60 ms; averages¼ 4; number of slices ¼24;
+slice thickness¼1 mm; in plane resolution ¼0.25  0.25 mm) [34].
+Lesion volumes were measured using a semiautomated segmentation method, contouring the hyperintense areas in the ipsilateral
+(stroke affected) hemisphere after 24 and 72 h reperfusion following MCAo using Jim software (Xinapse Systems).
+Immunoﬂuorescence staining
+At the end of behavioral testing, rats received an overdose of
+pentobarbitone (120 mg/kg ip) and were perfused transcardially with
+cold 0.9% saline followed by 4% paraformaldehyde (PFA) in 0.1 M
+phosphate buffered saline (PBS). Fixed brains were left overnight in
+PFA and then transferred to 30% sucrose. Coronal serial sections
+
+1014
+
+A. Alﬁeri et al. / Free Radical Biology and Medicine 65 (2013) 1012–1022
+
+(50 mm) were obtained using a cryostat (Leica) and placed on
+microscope slides (VWR). Fluorescence staining was performed after
+3 h blocking in 10% normal goat or normal donkey serum and cell
+membrane permeabilization with Triton-X (0.3%), followed by overnight incubation with primary antibodies at 4 1C. Sections were
+incubated for 1 h at room temperature with ﬂuorescently tagged
+secondary antibodies, goat anti-rabbit or donkey anti-rabbit Alexa 488
+(1:1000; Invitrogen), goat anti-mouse or donkey anti-mouse Alexa
+555 (1:1000; Invitrogen), or donkey anti-goat Cy5 (1:1000; Abcam).
+Negative controls omitted the primary antibody (see Supplemental
+Fig. 5A). Slides were then mounted with glass coverslips using
+Vectashield (Vector) medium containing 4,6-diamidino-2-phenylindole (DAPI) for nuclear identiﬁcation.
+Confocal ﬂuorescence microscopy
+Confocal images were acquired using a Zeiss LSM 700 confocal
+laser scanning microscope. Alexa 488 was excited at 488 nm and
+emission collected at 505–550 nm, Alexa 555 excited at 555 nm
+and emission collected at 4560, and Cy5 excited at 633 nm and
+emission collected at 4650 nm. Colocalization analysis of HO-1 or
+HO-2 with brain cell markers was assessed by calculating the
+Pearson's correlation coefﬁcient within a region of interest chosen
+to encompass cerebral microvessels and using Zeiss LSM software [35].
+Representative ﬂuorescence intensity proﬁles were obtained across
+selected microvessels.
+Analysis of HO-1 or HO-2 expression and cellular localization
+Immunoﬂuorescence detection of HO-1 or HO-2 was performed
+using rabbit anti-HO-1 (1:100; Abcam) or rabbit anti-HO-2 (1:100;
+Stressgen) antibodies. Sections were colabeled for HO-1 or HO-2 and
+the following brain cell markers: (i) rat endothelial cell antigen-1
+(RECA-1; 1:100; Abcam) for endothelial cells, (ii) glial ﬁbrillary acidic
+protein (GFAP; 1:100; Abcam) for astrocytes, and (iii) Iba1 (1:100;
+Abcam) for microglia. HO-1 and HO-2 ﬂuorescence images were
+captured using an Olympus UCMAD3 camera on an Olympus BX51
+microscope and converted to 16-bit gray level images for off-line
+quantitative analysis as previously described [36]. At least three
+regions of interest (ROI) were averaged per measurement per section.
+
+microscope (Nikon) and quantiﬁed with Image Hopper software
+(Samsara Research).
+We have previously measured initial rates of DAB-H2O2 polymer development to quantify total cellular Nrf2 levels and nuclear
+to cytoplasmic ratios in rat brain sections subjected to MCAo
+(70 min) and reperfusion injury for 4, 24, and 72 h [37]. Nuclear to
+cytoplasmic Nrf2 ratios were quantiﬁed using the DAPI image of
+nuclei and applying a binary mask to segment the Nrf2 image to
+obtain nuclear Nrf2 content. By applying a binary mask of a 4 μm
+wide ring around each nucleus (e.g., cytoplasm), total cellular Nrf2
+content was determined from the weighted mean content of each
+nucleus–cytoplasm pair and expressed as optical density increase
+rate per 1000 s [37]. Similarly, images of immunoﬂuoresence for
+RECA-1 and GFAP were used as masks to determine Nrf2 content
+in cerebral microvessels, speciﬁcally in the endothelium and
+surrounding astrocytic processes.
+3-Nitrotyrosine immunoreactivity
+Immunoﬂuorescence detection of 3-nitrotyrosine (3-NT; 1:100;
+Abcam) was used to measure reactive oxygen species-mediated
+nitration as a marker of peroxynitrite generation [38] and images
+were converted to 16-bit gray level images for off-line analysis, as
+previously described [36].
+Analysis of brain injury and BBB disruption
+Immunoﬂuorescence detection of glial ﬁbrillary acidic protein, as
+a marker of brain injury [39], was performed using a polyclonal
+rabbit anti-GFAP antibody (1:500; Dako). Positive staining for GFAP
+was used to differentiate between peri-infarct and infarct core in the
+ipsilateral stroke-affected hemisphere following transient MCAo, as
+GFAP overexpression is lost in astrocytes within the infarcted areas.
+Immunoﬂuorescence detection of tissue IgG was performed using
+a red-orange ﬂuorescent cross-absorbed goat anti-rat Alexa 568 antibody (1:500; Invitrogen). Brain tissue areas positive for IgG were used
+to determine the area affected by BBB breakdown [40], and data
+expressed as percentage of the ipsilateral hemisphere. Furthermore,
+ﬂuorescence images were converted to 8-bit gray level images for
+quantitative measurement of leakage into the tissue.
+
+Analysis of peroxiredoxin 1 expression in naive and sulforaphane
+treated animals
+
+Statistical analysis
+
+Immunoﬂuorescence detection of peroxidredoxin 1 (Prx1) was
+performed using rabbit anti-Prx1 (1:100, Abcam) and secondary antirabbit Alexaﬂuor 488 (1:500, Invitrogen) antibodies. Data for Prx1
+expression in naive rats treated with vehicle (1% corn oil in saline) or
+sulforaphane (5mg/kg ip) are summarized in Supplementary Fig. 5.
+
+Data were analyzed using Graphpad Prism version 5.0. Data
+from behavioral assessments are expressed as medians and were
+analyzed using the Mann-Whitney test or Kruskal-Wallis test
+followed by Dunn's test for multiple comparisons. All other data
+are expressed as mean 7 SEM and analyzed by Student's t test or
+one-way ANOVA followed by Newman-Keuls test for multiple
+comparisons. A value of P o0.05 was considered signiﬁcant.
+
+Quantitative immunohistochemical analysis of Nrf2 expression
+in cerebral microvessels
+
+Results
+Analysis of Nrf2 immunostaining associated with cerebral microvessels in ex vivo brain sections from naïve animals and rats subjected
+to MCAo and reperfusion was conducted using our novel immunohistochemical technique [37], providing enhanced sensitivity compared to immunoﬂuorescence. Following blocking of endogenous
+peroxidase activity and biotin, coronal sections (10 mm) were immunostained for Nrf2 using a polyclonal rabbit anti-Nrf2 primary antibody (16 h at 4 1C, 1:100; Abcam) and anti-rabbit biotinylated
+secondary antibody, followed by incubation for 30 min with avidinbiotinylated horseradish peroxidase (HRP) complex (Vectastain ABC
+kit; Vector) and application of a mixture of 3,3′-diaminobenzidine
+(DAB; Vector) and hydrogen peroxide (0.3%). The initial rate of DABH2O2 polymer development over 20 min was captured on a Diaphot
+
+Temporal and spatial induction of HO-1 after cerebral ischemia–
+reperfusion
+Ischemia–reperfusion induced substantial brain injury (Supplementary Fig. 1) and increased HO-1 protein expression in the
+ipsilateral stroke-affected hemisphere (Fig. 1), whereas HO-1 immunoreactivity was low in the contralateral unaffected hemisphere, in
+sham and naïve brains (data not shown). A zone of HO-1 induction
+surrounding the infarct core was observed after 24 h reperfusion, as
+highlighted by GFAP costaining, while after 72 h HO-1 was detected
+in both peri-infarct and infarct core regions (Fig. 1A). Limited HO-1
+induction was observed in the stroke hemisphere after 4 h reperfusion
+
+A. Alﬁeri et al. / Free Radical Biology and Medicine 65 (2013) 1012–1022
+
+1015
+
+I+R
+24h
+
+HO-1
+
+GFAP
+
+HO-1+GFAP
+
+HO-1
+
+GFAP
+
+HO-1+GFAP
+
+I+R
+72h
+
+HO-1 immunoreactivity
+(fluorescence intensity)
+
+1500
+
+1000
+
+Contralateral
+Infarct core
+Peri-infarct
+
+500
+
+0
+I+R 4h
+
+I+R 24h
+
+I+R 72h
+
+Fig. 1. HO-1 induction in the peri-infarct region and infarct core after transient MCAo. (A) Representative confocal images of induction of HO-1 expression in the peri-infarct
+region after transient MCAo and 24 h reperfusion. After 72 h reperfusion, HO-1 was induced in both the peri-infarct region and the infarct core (HO-1, green; GFAP, purple).
+Arrows indicate areas of HO-1 induction; scale bars are 200 mm for top panel, 50 mm for bottom panel. (B) Temporal and spatial quantiﬁcation of HO-1 expression after
+4–72 h reperfusion. HO-1 immunoreactivity is increased in peri-infarct regions compared to the infarct core and contralateral hemisphere. I þ R denotes ischemia and
+reperfusion. Data denote mean 7 SEM of measurements in 5 brains per experimental group, *Po 0.05 and **Po 0.01 vs contralateral hemisphere, #P o0.05 and ##P o0.01 vs
+infarct core.
+
+(data not shown). Analysis of immunoﬂuorescence intensity (Fig. 1B)
+conﬁrmed a signiﬁcant upregulation of HO-1 in peri-infarct regions at
+4, 24, and 72 h after MCAo, noting that HO-1 immunostaining was
+signiﬁcantly lower in the infarct core compared to the peri-infarct
+region. As the pattern of HO-1 staining suggested a different cellular
+distribution between peri-infarct and core regions, we further examined cellular localization of HO-1 using speciﬁc brain cell markers.
+In the brain parenchyma, costaining of GFAP and Iba1
+(Supplementary Fig. 2) showed that astrocytes in the peri-infarct
+region expressed HO-1 after 4–72 h reperfusion, whereas after 72 h
+reperfusion HO-1 was expressed predominantly in microglia within
+the infarct core. Immunoreactivity for HO-2 was diffuse throughout
+the brain, and no signiﬁcant differences in HO-2 expression were
+detected between stroke-affected and unaffected regions after
+24–72 h reperfusion (Supplementary Figs. 3A and B). Nevertheless,
+HO-2 preferentially colocalized with perivascular astrocytes in the
+stroke-affected hemisphere (Supplementary Figs. 3C and D).
+Upregulation of HO-1 expression in cerebral microvessels of periinfarct regions after stroke
+Cerebral microvessels (o10 mm diameter) showed a strong immunoreactivity for HO-1 in the peri-infarct region following stroke
+
+(Fig. 2A). To examine the relative distribution of HO-1 in the
+gliovascular complex, brain sections were costained with the cellspeciﬁc markers RECA-1 (endothelium) and GFAP (astrocytes).
+By proﬁling immunoﬂuorescence intensities across cerebral microvessels, we found that peaks for HO-1 and GFAP intensities overlapped, with reduced overlap between HO-1 and RECA-1 (Fig. 2B). HO1 colocalization was signiﬁcantly higher with astrocytic processes
+compared to endothelial cells after 4 and 24 h reperfusion (Fig. 2C).
+After 72 h, HO-1 association with astrocytic processes remained
+elevated, albeit HO-1 levels declined in both cell types, potentially
+reﬂecting increased HO-1 expression in cells rolling and adhering to
+the vessel wall from the bloodstream (Supplementary Fig. 4).
+
+Nrf2 expression is increased in cerebral microvessels of peri-infarct
+regions after stroke
+Total Nrf2 levels in the gliovascular complex were elevated
+signiﬁcantly after 4–24 h reperfusion, with Nrf2 expression declining after 72 h (Fig. 3A). Notably, increased Nrf2 levels were detected
+in both perivascular astrocytes and the endothelium after 4 and 24 h
+reperfusion, while after 72 h reperfusion Nrf2 expression remained
+elevated only in perivascular astrocytic processes (Fig. 3B).
+
+A. Alﬁeri et al. / Free Radical Biology and Medicine 65 (2013) 1012–1022
+
+HO-1
+
+RECA-1
+
+GFAP
+
+HO-1+GFAP
+
+2500
+2000
+
+HO-1+RECA-1
+
+RECA-1
+
+HO-1
+RECA-1
+GFAP
+
+1.0
+
+HO-1 correlation
+coefficient (AU)
+
+Fluorescence intensity (AU)
+
+1016
+
+1500
+1000
+500
+
+GFAP
+
+0.8
+0.6
+0.4
+0.2
+0.0
+
+0
+5
+
+10
+
+15
+
+I+R 4h
+
+I+R 24h
+
+I+R 72h
+
+Distance ( m)
+Fig. 2. Analysis of HO-1 induction in the gliovascular complex of peri-infarct cerebral microvessels after transient MCAo. (A) Representative confocal images of cerebral
+microvessel in the peri-infarct region colabeled for HO-1 (green), endothelial cell marker RECA-1 (red, upper panel), or astrocytic marker GFAP (red, lower panel). Arrows
+indicate association of HO-1 and respective cellular marker; scale bar¼ 10 mm. Merged images include DAPI as nuclear marker. (B) Representative ﬂuorescence intensity
+proﬁle across the cerebral microvessel (as indicated by dotted white line in A) for HO-1 (green line), RECA-1 (red line), and GFAP (blue line) shows overlap between the HO-1
+and the astrocytic marker. (C) Correlation coefﬁcients show signiﬁcantly higher colocalization between HO-1 and GFAP compared with RECA-1 at 4 and 24 h reperfusion
+after MCAo. Data denote mean 7SEM of measurements in 3 brains per experimental group, nPo 0.05, nnPo 0.01 vs RECA-1.
+
+Temporal and spatial generation of peroxynitrite after cerebral
+ischemia–reperfusion
+Following ischemia–reperfusion, increased production of reactive oxygen and nitrogen species leads to peroxynitrite formation
+in cerebral microvessels [41], and we thus measured nitrotyrosine as a
+marker of peroxynitrite generation and redox signaling in the cerebral
+vasculature. We observed a signiﬁcant increase in 3-NT immunoreactivity in stroke-affected areas, with negligible staining detected in the
+contralateral hemisphere, naïve and sham-control brains (Fig. 3C).
+After 4 h reperfusion, levels of 3-NT in the infarct core were not
+different from contralateral areas but signiﬁcantly lower than in periinfarct regions. 3-NT levels in both peri-infarct and core regions were
+signiﬁcantly elevated after 24 and 72 h reperfusion.
+Sulforaphane increases Nrf2, HO-1, and 3-NT expression in naïve
+brains in vivo
+As sulforaphane is a potent activator of Nrf2 [30], we treated
+naïve animals with sulforaphane intraperitoneally and measured
+Nrf2 and HO-1 expression. Sulforaphane led to a signiﬁcant increase
+in total Nrf2 and HO-1 expression in the gliovascular complex of
+cerebral microvessels after 24 h (Figs. 4A and B). As sulforaphane is
+
+known to upregulate several other Nrf2-linked antioxidant genes
+[30,42,43], we further examined Prx1 and NAD(P)H quinone oxidoreductase (NQO1, data not shown) protein expression in ex vivo
+brain sections from naïve and sulforaphane-treated animals. As
+shown in Supplementary Fig. 5, Prx1 expression was low in naïve
+brains and signiﬁcantly increased in the brain parenchyma, including regions surrounding cerebral microvessels, 24 h after sulforaphane administration. NQO1 expression was also elevated, albeit
+not signiﬁcantly, 24 h after sulforaphane treatment (data not
+shown).
+In a previous study, sulforaphane was shown to rapidly cross
+the BBB in naïve mice, leading to an increase in Nrf2 expression
+in the striatum and cortex 1–4 h after intraperitoneal injection
+[43]. As several phytonutrients can activate the Nrf2 defense
+pathway via the generation of low levels of reactive oxygen or
+nitrogen species [44,45], we also measured levels of nitrotyrosine (3-NT). We found that 3-NT levels were signiﬁcantly
+increased by sulforaphane (Fig. 4C), suggesting that a moderate
+production of free radicals may underlie Nrf2 activation by this
+phytonutrient. Thus, sulforaphane-mediated free radical generation and its ability to react with cysteine residues of Keap1
+(including C151) [46] would lead to activation of the Nrf2
+defense pathway.
+
+A. Alﬁeri et al. / Free Radical Biology and Medicine 65 (2013) 1012–1022
+
+Contralateral
+I+R 4h
+I+R 24h
+I+R 72h
+
+1.0
+
+0.5
+
+1.5
+Nrf2 expression
+(mean / s x 103)
+
+Nrf2 expression
+(mean / s x 103)
+
+1.5
+
+1017
+
+RECA-1
+GFAP
+
+1.0
+
+0.5
+
+0.0
+
+0.0
+
+I+R 4h
+
+Nitrotyrosine immunoreactivity
+(fluorescence intensity)
+
+Total
+
+2500
+
++R 24h
+
++R 72h
+
+Contralateral
+Infarct core
+Peri-infarct
+
+2000
+1500
+1000
+500
+0
+
+Sham
+
+I+R 24h
+
+I+R 4h
+
+I+R 72h
+
+1.0
+
+0.5
+
+0.0
+
+Naive
+SFN
+
+500
+400
+300
+200
+100
+0
+
+Naive
+SFN
+
+Nitrotyrosine immunoreactivity
+(fluorescence intensity)
+
+Nrf2 expression
+(mean / sx 103)
+
+1.5
+
+HO-1 immunoreactivity
+(fluorescence intensity)
+
+Fig. 3. Expression of Nrf2 and nitrotyrosine levels in peri-infarct regions after MCAo. (A) Total Nrf2 content was signiﬁcantly increased in the peri-infarct region after 4 and
+24 h reperfusion. (B) Analysis of Nrf2 expression in the gliovascular complex demonstrates high levels in perivascular astrocytes and endothelium after 4–24 h, with an
+enhanced association of Nrf2 with GFAP-positive astrocytic structures compared with RECA-1 positive endothelial cells after 72 h reperfusion. Data denote mean 7SEM of
+measurements in 3–5 brains per experimental group, nPo 0.05 vs contralateral hemisphere, ♯Po 0.05 vs RECA-1. (C) Nitrotyrosine (3-NT) immunoﬂuorescence increases
+signiﬁcantly in stroke-affected brain regions following MCAo and 4, 24, and 72 h reperfusion. Data denote mean 7 SEM of measurements in 3–5 brains per experimental
+group, nPo 0.05 and nnPo 0.01 vs contralateral hemisphere; #Po 0.05 vs infarct core.
+
+500
+400
+
+Naive
+SFN
+
+300
+200
+100
+0
+
+Fig. 4. Sulforaphane increases expression of Nrf2, HO-1, and peroxynitrite in naïve brains. Sulforaphane (SFN; 5 mg/kg ip) increases basal levels of Nrf2, HO-1, and
+nitrotyrosine (3-NT) in naïve brains 24 h later. Data denote mean 7 SEM of measurements in 3–5 brains per experimental group, nPo 0.05, nnP o 0.01 vs naïve.
+
+Sulforaphane pretreatment potentiates stroke-induced antioxidant
+defenses in peri-infarct regions
+
+Sulforaphane pretreatment potentiates cerebrovascular expression
+of HO-1 in stroke
+
+We hypothesized that sulforaphane pretreatment may protect against stroke-induced damage via an increase in Nrf2mediated antioxidant defenses in areas of the brain at risk for
+cell death but potentially salvageable. When we measured HO-1
+induction in peri-infarct regions after MCAo, the total periinfarct area stained for HO-1 was low after 4 h reperfusion,
+increased after 24 h, and then declined after 72 h reperfusion
+(Fig. 5B), reﬂecting the time course of lesion progression after
+stroke. Sulforaphane administration 1 h prior to MACo signiﬁcantly increased the area of HO-1 immunoreactivity in the periinfarct region after stroke (Figs. 5A and B). Moreover, pretreatment of rats with sulforaphane led to a modest but signiﬁcant
+increase in 3-NT immunoreactivity in the peri-infarct region
+following MCAo and 24 h reperfusion (Fig. 5C).
+
+Besides peri-infarct regions, sulforaphane induced HO-1 speciﬁcally in cerebral microvessels of the infarct core (Fig. 6A). Proﬁling of
+immunoﬂuorescence intensities across these microvessels established that peaks of HO-1 and RECA-1 intensity overlapped, with
+limited overlap noted for HO-1 and GFAP (Fig. 6B). HO-1 colocalization was signiﬁcantly higher with RECA-1-positive endothelial cells
+compared with astrocytic processes in the infarct core, while in the
+peri-infarct region HO-1 remained predominantly associated with
+astrocytes (Fig. 6C). Immunohistochemical analyses revealed that
+Nrf2 was preferentially associated with astrocytic processes rather
+than the endothelium in peri-infarct regions (Fig. 6D). However, in
+the infarct core Nrf2 content was still enhanced in perivascular
+astrocytes, although levels were signiﬁcantly lower compared with
+those in the peri-infarct region.
+
+1018
+
+A. Alﬁeri et al. / Free Radical Biology and Medicine 65 (2013) 1012–1022
+
+Fig. 5. Sulforaphane pretreatment enhances the area of HO-1 immunoreactivity and peroxynitrite generation in peri-infarct regions after MCAo and 24 h reperfusion.
+(A) Representative confocal images and (B) quantiﬁcation of HO-1 immunoﬂuorescence show an increased area of peri-infarct immunoreactivity after 24 h reperfusion which
+is further increased by sulforaphane pretreatment. Data denote mean 7 SEM of measurements in 5 brains per experimental group, nPo 0.05 vs I þR 4 h reperfusion and
+#
+P o0.05 vs I þR 24 h reperfusion. Scale bar ¼500 mm. (C) Sulforaphane pretreatment increases 3-NT levels in the peri-infarct region following stroke. Data denote
+mean 7SEM of measurements in 5 brains per experimental group, nPo 0.05, nnPo 0.01 vs contralateral hemisphere; #Po 0.05 vs I þR 24 h in peri-infarct region.
+
+Blood–brain barrier disruption after stroke is attenuated
+by sulforaphane pretreatment
+Consistent with enhanced antioxidant defenses in cerebral
+microvessels, sulforaphane administration ameliorated BBB disruption. Macromolecular leak increased dramatically over 4–72 h
+reperfusion, affecting about 70% of the stroke-affected hemisphere
+after 24–72 h (Figs. 7A and B). As hypothesized, sulforaphane
+signiﬁcantly reduced both the area and the amount of IgG leakage
+after 24 h reperfusion (Figs. 7A and B).
+Sulforaphane pretreatment reduces lesion progression and
+neurological dysfunction
+In animals pretreated with sulforaphane, MRI scanning
+revealed that progression of lesion volumes (mm3) between 24
+and 72 h reperfusion was signiﬁcantly reduced (33712 mm3)
+compared with vehicle-treated (687 25 mm3) animals (Fig. 8A).
+Neurological dysfunction after MCAo was characterized by
+impaired motility, grasping reﬂex, and placing reaction. Negligible
+deﬁcits were observed after 4 h reperfusion, whereas reperfusion for
+24 and 72 h induced marked neurological deﬁcits (Fig. 8B). Notably,
+neurological deﬁcits were signiﬁcantly attenuated in animals pretreated with sulforaphane before MCAo and 24 h reperfusion (Fig. 8B).
+
+Discussion
+In this study, we report the ﬁrst temporal and spatial distribution
+of Nrf2 and HO-1 in the gliovascular complex of cerebral microvessels following ischemic stroke, and demonstrate that preactivation of the Nrf2 pathway in perivascular astrocytes and brain
+endothelium before stroke with sulforaphane signiﬁcantly ameliorates BBB disruption, lesion progression, and neurological
+
+dysfunction. We further established that induction of Nrf2 and
+HO-1 in the brain is associated with moderate peroxynitrite generation, suggesting that “preconditioning” by sulforaphane via free
+peroxynitrite production (Fig. 4C) and its reactions with Keap1
+cysteine residues [46] may underlie sulforaphane-mediated protection in stroke.
+HO-1 induction has been reported previously in the rat brain
+following transient focal ischemia [27,47]; however, the time
+course and gliovascular distribution of this cytoprotective enzyme,
+known to generate chain breaking lipid antioxidant bilirubin from
+biliverdin, has not been investigated. In our study, HO-1 was
+induced markedly in the periphery after 4 and 24 h, delimiting
+the peri-infarct region, while after 72 h induction of HO-1 was
+detected in both infarct core and peri-infarct regions. In the brain
+parenchyma, HO-1 immunoreactivity was predominantly associated with astrocytes in the peri-infarct region but with microglia
+in the infarct core. Due to the close proximity of perivascular
+astrocytic processes and cerebrovascular endothelium constituting
+the BBB, we employed confocal immunoﬂuorescence microscopy
+to identify cell types in the gliovascular unit expressing HO-1, and
+here report the ﬁrst evidence that HO-1 induction in stroke is
+predominantly associated with perivascular astrocytes rather than
+the endothelium. Notably, previous studies of naïve rat brain [48]
+or spinal cord [49] did not discriminate HO-1 levels in astrocytic
+processes and endothelial cells, and thus our ﬁndings clarify the
+distribution of HO-1 in cerebral microvessels following focal
+ischemia–reperfusion. Importantly, we did not detect any change
+in the levels of constitutive HO-2 following transient MCAo,
+conﬁrming that the two HO isoforms may not be modulated by
+the same stressors [50]. Although previous studies investigated
+the functional role of HO-2 in cerebral microvessels in vivo and
+in vitro [50,51], the speciﬁc cell type expressing HO-2 was not
+examined. We found that expression in cerebral microvessels was
+associated primarily with astrocytic processes, conﬁrming that
+
+A. Alﬁeri et al. / Free Radical Biology and Medicine 65 (2013) 1012–1022
+
+1019
+
+Fig. 6. Sulforaphane pretreatment increases HO-1 expression in the endothelium of cerebral microvessels in the infarct core after MCAo and reperfusion. (A) Representative
+confocal images of cerebral microvessel colabeled with HO-1 (green) and RECA-1 (red) in upper and middle panels (scale bar ¼ 100 mm) or with GFAP (red) in lower panels
+(scale bar mm). Arrows indicate colocalization of HO-1 and cellular marker. Merged images include DAPI as nuclear marker. (B) Representative ﬂuorescence intensity proﬁle
+across cerebral microvessel of the infarct core (denoted by dotted white line in panel A) for HO-1 (green line), RECA-1 (red line), and GFAP (blue line) shows overlap between
+the HO-1 and the endothelial marker RECA-1. (C) Correlation coefﬁcients demonstrate higher colocalization between HO-1 and GFAP compared to RECA-1 in the peri-infarct
+region but notably higher colocalization between HO-1 and RECA-1 in the infarct core. (D) Nrf2 expression is increased in astrocytic processes compared to the endothelium
+in peri-infarct and core regions, with a signiﬁcant decline in astrocytic processes in the core. Data denote mean 7SEM of measurements in 3–5 brains per experimental
+group, nPo 0.05 and nnP o 0.01 vs RECA-1, #Po 0.05 vs peri-infarct GFAP.
+
+Fig. 7. Sulforaphane protects against blood–brain barrier disruption in stroke. (A,B) Area and amount of IgG macromolecular leakage after MCAo and 4–72 h reperfusion.
+Sulforaphane (SFN) pretreatment reduces both the area and the amount of IgG leakage. nnPo 0.01 and nnnP o0.001 vs I þR 4 h; #Po 0.05 vs I þ R 24 h; nPo 0.05 vs Sham;
+†
+P o0.05 vs I þR 24 h (n¼ 4–5).
+
+perivascular astrocytes exhibit strong antioxidant defenses [52]
+and may play a primary role in protecting the gliovascular unit
+against oxidative stress in stroke.
+Activation of Nrf2 in astrocytes in response to a variety of
+insults, e.g., oxidative stress and ischemia, affords neuroprotection through induction of ARE-related genes [53]; hence,
+we hypothesized that cerebrovascular expression of HO-1 in
+stroke is related to Nrf2 activation. We demonstrate that Nrf2
+
+is upregulated in microvessels of the peri-infarct region as
+early as 4 h after MCAo, with expression detected in both
+astrocytic processes and the endothelium, suggesting that
+activation of Nrf2 and induction of HO-1 are part of the same
+endogenous mechanism protecting the brain against stroke.
+Although protein expression of Nrf2 and HO-1 in rat brain
+homogenates and sections has been reported to be increased
+3–24 h after ischemia [28,54], to our knowledge our study is
+
+1020
+
+A. Alﬁeri et al. / Free Radical Biology and Medicine 65 (2013) 1012–1022
+
+Fig. 8. Sulforaphane pretreatment reduces lesion progression and ameliorates
+neurological deﬁcits after stroke. (A) Temporal evolution of lesion topology from
+MRI scanning after 24 and 72 h reperfusion in sulforaphane (SFN)-treated and
+vehicle (VEH)-treated rats (representative images, frontal to caudal coronal
+sections) shows reduced lesion progression following SFN pretreatment.
+(B) Neurological dysfunction increases after 24 and 72 h reperfusion following
+MCAo and is reduced by SFN pretreatment. nPo 0.05 vs Sham; †P o 0.05 vs I þR
+24 h reperfusion in untreated animals (n¼ 4–8).
+
+the ﬁrst to quantify temporal and spatial activation of Nrf2 in
+cerebral microvessels.
+In view of the importance of the Nrf2 defense pathway in
+neuroprotection [55–57], we examined the possibility of preventing
+stroke-induced damage with sulforaphane, a well-characterized
+activator of the Nrf2 pathway in different tissues including the brain
+[30,58]. Sulforaphane increases HO-1 mRNA and protein levels in
+neurons and astrocytes after 24 h [59] and after 18–24 h in isolated
+brain microvessels of uninjured rats [60]; however, these studies did
+not examine sulforaphane-induced HO-1 and Nrf2 expression in
+cerebral microvessels following brain injury.
+We report signiﬁcant increases in Nrf2, HO-1, and Prx1 (see
+Supplementary Fig. 5) immunoreactivity in naïve rats 24 h after
+sulforaphane administration. Although perivascular astrocytes accounted predominantly for HO-1 expression in the gliovascular complex
+within the peri-infarct region, HO-1 expression was detected in the
+endothelium of microvessels within the infarct core of the stroke
+hemisphere after sulforaphane pretreatment. Nrf2 expression was
+elevated in perivascular astrocytes compared with the endothelium
+in both regions, and levels in astrocytes were lower in the peri-infarct
+region compared with the infarct core, possibly reﬂecting dysfunction
+of astrocytes following ischemia. As a result of cell injury, astrocytes
+within the lesion area lose GFAP immunoreactivity, whereas GFAP
+expression is maintained and upregulated in surviving astrocytes [61].
+Furthermore, astrocytes are the ﬁrst cell type to swell within 5 min
+following an ischemic event [62] and undergo necrosis after 24 h,
+while endothelial cells start swelling after 2 h and undergo necrosis
+
+after 12 h [63]. Therefore, we propose that functionally active, GFAPexpressing astrocytes upregulate HO-1 levels in the peri-infarct region
+after stroke, a process enhanced by sulforaphane, while endothelial
+cells in the infarct core express HO-1 defenses in the absence of
+normal astrocytic function. Consistent with our ﬁnding that the
+cerebral microvasculature exhibits enhanced HO-1 induction after
+sulforaphane administration, BBB disruption, lesion progression, and
+neurological dysfunction after stroke were ameliorated, highlighting
+the importance of Nrf2-mediated antioxidant defenses in protection of
+the BBB.
+We suggest that sulforaphane, in addition to its reported
+interactions with Keap1 cysteine residues [46], may also upregulate
+antioxidant defenses by preconditioning the brain via low hormetic
+levels of oxidative or nitrosative stress, a mechanism shared by
+several dietary phytonutrients [45]. Notably, preconditioning of
+endogenous antioxidant defenses involving HO-1 and heat shock
+proteins have been implicated in the beneﬁcial effects of dietary
+phytochemicals against neurodegeneration [64,65]. As several studies implicate peroxynitrite in neurovascular preconditioning following cerebral ischemia [38], we examined levels of nitrotyrosine
+(3-NT) as a marker of protein nitration. Although disruption of the
+Nrf2-Keap1 complex via electrophilic interactions with sulfhydryl
+residues of Keap1 is the mechanism most commonly invoked to
+explain sulforaphane-induced activation of Nrf2, other mechanisms
+have also been suggested, including generation of reactive oxygen
+species and protein phosphorylation [52]. Notably, sulforaphane
+generates reactive oxygen species intracellularly [66], which in turn
+may activate Nrf2. We found that sulforaphane induced a modest
+increase in 3-NT levels in naïve brains and in peri-infarct regions
+following transient MCAo. Thus, our ﬁndings support the hypothesis of an hormetic property of sulforaphane, wherby a moderate
+rise in oxidative stress may induce brain tolerance against oxidative
+damage in stroke via Nrf2 activation.
+Previous studies have established that sulforaphane treatment
+protects astrocytes [67], mouse embryonic ﬁbroblasts [68], and retinal
+pigment epithelial cells, keratinocytes, and leukemia cells [69] against
+oxidative and/or electrophilic stress via Nrf2-mediated antioxidant gene expression. Thus, as envisaged by Higgins et al. [68], low,
+physiologically relevant concentrations of sulforaphane lead to preconditioning by which a therapeutic drug protects against subsequent
+oxidative stress. Notably, repeated, transient stimulation of astrocytes
+with sulforaphane results in a prolonged upregulation of endogenous
+antioxidant enzymes and protection against oxidative stress [67].
+Furthermore, treatment of rats with sulforaphane increases Nrf2mediated antioxidant defenses in liver [70] and brain [71] mitochondria, increasing their resistance to peroxide-induced opening of the
+permeability transition pore (PTP) 40 h after sulforaphane adminstration in vivo. Thus, preconditioning of the brain with sulforaphane could
+contribute to protection of mitochondria associated with the neurovascular unit in stroke.
+
+Conclusions
+Due to the pivotal role played by oxidative stress in the early
+phases following cerebral ischemia, antioxidants have been widely
+regarded as protective agents against stroke [72]. Nevertheless,
+experimental and clinical studies have provided conﬂicting results
+on the efﬁcacy of antioxidants, e.g., vitamins and ROS scavengers, to
+prevent stroke incidence or mortality [73]. Importantly, exogenous
+antioxidants and ROS scavengers may inhibit physiological redox
+signaling pathways and the activation of endogenous antioxidant
+responses [74]. We found that the Nrf2/HO-1 defense pathway is
+activated during the early time course following ischemic stroke in a
+reperfusion-dependent and cell-speciﬁc manner, and that preactivation of this pathway with sulforaphane is associated with moderate
+
+A. Alﬁeri et al. / Free Radical Biology and Medicine 65 (2013) 1012–1022
+
+peroxynitrite generation, protecting against stroke-induced BBB
+disruption and neurological deﬁcits. Protection of brain against
+ischemic stroke by sulforphane pretreatment is consistent with
+recent evidence that dietary phytonutrients can attenuate or reverse
+inﬂammatory responses associated with brain injury [64].
+We propose that pharmacological or dietary interventions with the
+isothiocyanate sulforaphane may enhance redox-sensitive defenses
+in the brain and thereby limit lesion volumes and neurological
+deﬁcits after stroke. In conclusion, our study provides evidence for
+the therapeutic potential of targeting the Nrf2/HO-1 pathway in the
+cerebral microvessels with sulforaphane to prevent BBB disruption
+and brain injury after ischemic stroke.
+
+Acknowledgments
+This work was supported by the Henry Smith Charity, UK
+(RG20092511), and British Heart Foundation (FS/09/056). We also
+thank the British Heart Foundation for funding the purchase of the
+7 T MRI scanner used in this study.
+
+Appendix A.
+
+Supplementary Information
+
+Supplementary data associated with this article can be found in
+the online version at http://dx.doi.org/10.1016/j.freeradbiomed.
+2013.08.190.
+
+References
+[1] Donnan, G. A.; Fisher, M.; Macleod, M.; Davis, S. M. Stroke. Lancet 371:1612–1623;
+2008.
+[2] Lo, E. H. A new penumbra: transitioning from injury into repair after stroke.
+Nat. Med 14:497–500; 2008.
+[3] Castellanos, M.; Sobrino, T.; Castillo, J. Evolving paradigms for neuroprotection: molecular identiﬁcation of ischemic penumbra. Cerebrovasc. Dis. 21
+(Suppl 2):71–79; 2006.
+[4] Abbott, N. J.; Ronnback, L.; Hansson, E. Astrocyte-endothelial interactions at
+the blood–brain barrier. Nat. Rev. Neurosci. 7:41–53; 2006.
+[5] Wolburg, H.; Noell, S.; Mack, A.; Wolburg-Buchholz, K.; Fallier-Becker, P. Brain
+endothelial cells and the glio-vascular complex. Cell Tissue Res. 335:75–96;
+2009.
+[6] Chan, P. H. Reactive oxygen radicals in signaling and damage in the ischemic
+brain. J. Cereb. Blood Flow Metab 21:2–14; 2001.
+[7] Heo, J. H.; Han, S. W.; Lee, S. K. Free radicals as triggers of brain edema
+formation after stroke. Free Radic. Biol. Med. 39:51–70; 2005.
+[8] Kim, Y. M.; Pae, H. O.; Park, J. E.; Lee, Y. C.; Woo, J. M.; Kim, N. H.; Choi, Y. K.;
+Lee, B. S.; Kim, S. R.; Chung, H. T. Heme oxygenase in the regulation of vascular
+biology: from molecular mechanisms to therapeutic opportunities. Antioxid.
+Redox Signal. 14:137–167; 2011.
+[9] Innamorato, N. G.; Rojo, A. I.; Garcia-Yague, A. J.; Yamamoto, M.; de Ceballos,
+M. L.; Cuadrado, A. The transcription factor Nrf2 is a therapeutic target against
+brain inﬂammation. J. Immunol. 181:680–689; 2008.
+[10] Hyun, H.; Lee, J.; do, Hwang; Kim, W.; Hyun, S.; Choi, D. K.; Lee, J. S.; Lee, J. K.
+M. Combinational therapy of ischemic brain stroke by delivery of heme
+oxygenase-1 gene and dexamethasone. Biomaterials 32:306–315; 2011.
+[11] Lee, J.; Hyun, H.; Kim, J.; Ryu, J. H.; Kim, H. A.; Park, J. H.; Lee, M.
+Dexamethasone-loaded peptide micelles for delivery of the heme
+oxygenase-1 gene to ischemic brain. J. Controlled Release 158:131–138; 2012.
+[12] Zeynalov, E.; Shah, Z. A.; Li, R. C.; Dore, S. Heme oxygenase 1 is associated with
+ischemic preconditioning-induced protection against brain ischemia. Neurobiol. Dis 35:264–269; 2009.
+[13] Le, L. L.; Li, X. Y.; Meng, D.; Liang, Q. J.; Wang, X. H.; Li, N.; Quan, J.; Xiang, M.;
+Jiang, M.; Sun, J.; Chen, S. F. Heme Oxygenase-1 mediated memorial and
+revivable protective effect of ischemic preconditioning on brain injury. CNS
+Neurosci. Ther.; 2013.
+[14] Sedlak, T. W.; Saleh, M.; Higginson, D. S.; Paul, B. D.; Juluri, K. R.; Snyder, S. H.
+Bilirubin and glutathione have complementary antioxidant and cytoprotective
+roles. Proc. Natl. Acad. Sci. USA 106:5171–5176; 2009.
+[15] Siow, R. C.; Sato, H.; Mann, G. E. Heme oxygenase-carbon monoxide signalling
+pathway in atherosclerosis: anti-atherogenic actions of bilirubin and carbon
+monoxide? Cardiovasc. Res. 41:385–394; 1999.
+[16] Clark, J. E.; Foresti, R.; Sarathchandra, P.; Kaur, H.; Green, C. J.; Motterlini, R.
+Heme oxygenase-1-derived bilirubin ameliorates postischemic myocardial
+dysfunction. Am. J. Physiol. Heart Circ. Physiol 278:H643–H651; 2000.
+
+1021
+
+[17] Wang, B.; Cao, W.; Biswal, S.; Dore, S. Carbon monoxide-activated Nrf2
+pathway leads to protection against permanent focal cerebral ischemia. Stroke
+42:2605–2610; 2011.
+[18] Zeynalov, E.; Dore, S. Low doses of carbon monoxide protect against experimental focal brain ischemia. Neurotox. Res. 15:133–137; 2009.
+[19] Yabluchanskiy, A.; Sawle, P.; Homer-Vanniasinkam, S.; Green, C. J.; Foresti, R.;
+Motterlini, R. CORM-3, a carbon monoxide-releasing molecule, alters the
+inﬂammatory response and reduces brain damage in a rat model of hemorrhagic stroke. Crit. Care Med. 40:544–552; 2012.
+[20] Ishii, T.; Itoh, K.; Ruiz, E.; Leake, D. S.; Unoki, H.; Yamamoto, M.; Mann, G. E.
+Role of Nrf2 in the regulation of CD36 and stress protein expression in murine
+macrophages: activation by oxidatively modiﬁed LDL and 4-hydroxynonenal.
+Circ. Res. 94:609–616; 2004.
+[21] Wakabayashi, N.; Slocum, S. L.; Skoko, J. J.; Shin, S.; Kensler, T. W. When NRF2
+talks, who's listening? Antioxid. Redox Signal. 13:1649–1663; 2010.
+[22] Itoh, K.; Wakabayashi, N.; Katoh, Y.; Ishii, T.; Igarashi, K.; Engel, J. D.;
+Yamamoto, M. Keap1 represses nuclear activation of antioxidant responsive
+elements by Nrf2 through binding to the amino-terminal Neh2 domain. Genes
+Dev. 13:76–86; 1999.
+[23] McMahon, M.; Thomas, N.; Itoh, K.; Yamamoto, M.; Hayes, J. D. Redoxregulated turnover of Nrf2 is determined by at least two separate protein
+domains, the redox-sensitive Neh2 degron and the redox-insensitive Neh6
+degron. J. Biol. Chem 279:31556–31567; 2004.
+[24] Pickering, A. M.; Linder, R. A.; Zhang, H.; Forman, H. J.; Davies, K. J. Nrf2dependent induction of proteasome and Pa28alphabeta regulator are required
+for adaptation to oxidative stress. J. Biol. Chem. 287:10021–10031; 2012.
+[25] Kobayashi, M.; Yamamoto, M. Molecular mechanisms activating the
+Nrf2-Keap1 pathway of antioxidant gene regulation. Antioxid. Redox Signal
+7:385–394; 2005.
+[26] Kang, K. W.; Lee, S. J.; Kim, S. G. Molecular mechanism of nrf2 activation by
+oxidative stress. Antioxid. Redox Signal. 7:1664–1673; 2005.
+[27] Sutherland, B. A.; Papadakis, M.; Chen, R. L.; Buchan, A. M. Cerebral blood ﬂow
+alteration in neuroprotection following cerebral ischaemia. J. Physiol.
+589:4105–4114; 2011.
+[28] Yang, C.; Zhang, X.; Fan, H.; Liu, Y. Curcumin upregulates transcription factor
+Nrf2, HO-1 expression and protects rat brains against focal ischemia. Brain Res.
+1282:133–141; 2009.
+[29] Geddes, J. W.; Pettigrew, L. C.; Holtz, M. L.; Craddock, S. D.; Maines, M. D.
+Permanent focal and transient global cerebral ischemia increase glial and
+neuronal expression of heme oxygenase-1, but not heme oxygenase-2, protein
+in rat brain. Neurosci. Lett. 210:205–208; 1996.
+[30] Dinkova-Kostova, A. T.; Kostov, R. V. Glucosinolates and isothiocyanates in
+health and disease. Trends Mol. Med. 18:337–347; 2012.
+[31] Modo, M.; Stroemer, R. P.; Tang, E.; Veizovic, T.; Sowniski, P.; Hodges,
+H. Neurological sequelae and long-term behavioural assessment of rats with
+transient middle cerebral artery occlusion. J. Neurosci. Methods 104:99–109;
+2000.
+[32] Bederson, J. B.; Pitts, L. H.; Tsuji, M.; Nishimura, M. C.; Davis, R. L.; Bartkowski,
+H. Rat middle cerebral artery occlusion: evaluation of the model and
+development of a neurologic examination. Stroke 17:472–476; 1986.
+[33] Ashioti, M.; Beech, J. S.; Lowe, A. S.; Bernanos, M.; McCreary, A.; Modo, M. M.;
+Williams, S. C. Neither in vivo MRI nor behavioural assessment indicate
+therapeutic efﬁcacy for a novel 5HT(1A) agonist in rat models of ischaemic
+stroke. BMC Neurosci. 10:82; 2009.
+[34] Modo, M.; Mellodew, K.; Cash, D.; Fraser, S. E.; Meade, T. J.; Price, J.; Williams,
+S. C. Mapping transplanted stem cell migration after a stroke: a serial, in vivo
+magnetic resonance imaging study. Neuroimage 21:311–317; 2004.
+[35] Milton, R. H.; Abeti, R.; Averaimo, S.; DeBiasi, S.; Vitellaro, L.; Jiang, L.; Curmi,
+P. M.; Breit, S. N.; Duchen, M. R.; Mazzanti, M. CLIC1 function is required for
+beta-amyloid-induced generation of reactive oxygen species by microglia.
+J. Neurosci. 28:11488–11499; 2008.
+[36] Gavet, O.; Pines, J. Progressive activation of CyclinB1-Cdk1 coordinates entry
+to mitosis. Dev. Cell 18:533–543; 2010.
+[37] Srivastava, S.; Alﬁeri, A.; Siow, R. C.; Mann, G. E.; Fraser, P. A. Temporal and
+spatial distribution of Nrf2 in rat brain following stroke: quantiﬁcation of
+nuclear to cytoplasmic Nrf2 content using a novel immunohistochemical
+technique. J. Physiol. 591:3525–3538; 2013.
+[38] Kunz, A.; Park, L.; Abe, T.; Gallo, E. F.; Anrather, J.; Zhou, P.; Iadecola, C.
+Neurovascular protection by ischemic tolerance: role of nitric oxide and
+reactive oxygen species. J. Neurosci. 27:7083–7093; 2007.
+[39] Pekny, M.; Nilsson, M. Astrocyte activation and reactive gliosis. Glia 50:427–434;
+2005.
+[40] Park, S.; Yamaguchi, M.; Zhou, C.; Calvert, J. W.; Tang, J.; Zhang, J. H.
+Neurovascular protection reduces early brain injury after subarachnoid
+hemorrhage. Stroke 35:2412–2417; 2004.
+[41] Gursoy-Ozdemir, Y.; Can, A.; Dalkara, T. Reperfusion-induced oxidative/nitrative injury to neurovascular unit after focal cerebral ischemia. Stroke
+35:1449–1453; 2004.
+[42] Juge, N.; Mithen, R. F.; Traka, M. Molecular basis for chemoprevention by
+sulforaphane: a comprehensive review. Cell Mol. Life Sci. 64:1105–1127; 2007.
+[43] Jazwa, A.; Rojo, A. I.; Innamorato, N. G.; Hesse, M.; Fernandez-Ruiz, J.;
+Cuadrado, A. Pharmacological targeting of the transcription factor Nrf2 at
+the basal ganglia provides disease modifying therapy for experimental
+parkinsonism. Antioxid. Redox Signal. 14:2347–2360; 2011.
+
+1022
+
+A. Alﬁeri et al. / Free Radical Biology and Medicine 65 (2013) 1012–1022
+
+[44] Mann, G. E.; Rowlands, D. J.; Li, F. Y.; de, W.P.; Siow, R.C.Activation of
+endothelial nitric oxide synthase by dietary isoﬂavones: Role of NO in Nrf2mediated antioxidant gene expression. Cardiovasc. Res.; 2007.
+[45] Siow, R. C.; Mann, G. E. Dietary isoﬂavones and vascular protection: activation
+of cellular antioxidant defenses by SERMs or hormesis? Mol. Aspects Med
+31:468–477; 2010.
+[46] Hu, C.; Eggler, A. L.; Mesecar, A. D.; van Breemen, R. B. Modiﬁcation of keap1
+cysteine residues by sulforaphane. Chem. Res. Toxicol. 24:515–521; 2011.
+[47] Nimura, T.; Weinstein, P. R.; Massa, S. M.; Panter, S.; Sharp, F. R. Heme
+oxygenase-1 (HO-1) protein induction in rat brain following focal ischemia.
+Brain Res. Mol. Brain Res. 37:201–208; 1996.
+[48] Ruetzler, C. A.; Furuya, K.; Takeda, H.; Hallenbeck, J. M. Brain vessels normally
+undergo cyclic activation and inactivation: evidence from tumor necrosis
+factor-alpha, heme oxygenase-1, and manganese superoxide dismutase
+immunostaining of vessels and perivascular brain cells. J. Cereb. Blood Flow
+Metab 21:244–252; 2001.
+[49] Lin, Y.; Vreman, H. J.; Wong, R. J.; Tjoa, T.; Yamauchi, T.; Noble-Haeusslein, L. J.
+Heme oxygenase-1 stabilizes the blood–spinal cord barrier and limits oxidative stress and white matter damage in the acutely injured murine spinal cord.
+J. Cereb. Blood Flow Metab 27:1010–1021; 2007.
+[50] Parfenova, H.; Lefﬂer, C. W. Cerebroprotective functions of HO-2. Curr. Pharm.
+Des 14:443–453; 2008.
+[51] Morikawa, T.; Kajimura, M.; Nakamura, T.; Hishiki, T.; Nakanishi, T.; Yukutake,
+Y.; Nagahata, Y.; Ishikawa, M.; Hattori, K.; Takenouchi, T.; Takahashi, T.; Ishii, I.;
+Matsubara, K.; Kabe, Y.; Uchiyama, S.; Nagata, E.; Gadalla, M. M.; Snyder, S. H.;
+Suematsu, M. Hypoxic regulation of the cerebral microcirculation is mediated
+by a carbon monoxide-sensitive hydrogen sulﬁde pathway. Proc. Natl. Acad.
+Sci. USA 109:1293–1298; 2012.
+[52] Alﬁeri, A.; Srivastava, S.; Siow, R. C.; Modo, M.; Fraser, P. A.; Mann, G. E.
+Targeting the Nrf2-Keap1 antioxidant defence pathway for neurovascular
+protection in stroke. J. Physiol. 589:4125–4136; 2011.
+[53] Vargas, M. R.; Johnson, J. A. The Nrf2-ARE cytoprotective pathway in astrocytes. Expert Rev. Mol. Med. 11:e17; 2009.
+[54] Tanaka, N.; Ikeda, Y.; Ohta, Y.; Deguchi, K.; Tian, F.; Shang, J.; Matsuura, T.; Abe,
+K. Expression of Keap1-Nrf2 system and antioxidative proteins in mouse brain
+after transient middle cerebral artery occlusion. Brain Res. 1370:246–253;
+2011.
+[55] Linker, R. A.; Lee, D. H.; Ryan, S.; van Dam, A. M.; Conrad, R.; Bista, P.; Zeng, W.;
+Hronowsky, X.; Buko, A.; Chollate, S.; Ellrichmann, G.; Bruck, W.; Dawson, K.;
+Goelz, S.; Wiese, S.; Scannevin, R. H.; Lukashev, M.; Gold, R. Fumaric acid
+esters exert neuroprotective effects in neuroinﬂammation via activation of the
+Nrf2 antioxidant pathway. Brain 134:678–692; 2011.
+[56] Calkins, M. J.; Johnson, D. A.; Townsend, J. A.; Vargas, M. R.; Dowell, J. A.;
+Williamson, T. P.; Kraft, A. D.; Lee, J. M.; Li, J.; Johnson, J. A. The Nrf2/ARE
+pathway as a potential therapeutic target in neurodegenerative disease.
+Antioxid. Redox Signal. 11:497–508; 2009.
+[57] Shah, Z. A.; Li, R. C.; Thimmulappa, R. K.; Kensler, T. W.; Yamamoto, M.; Biswal,
+S.; Dore, S. Role of reactive oxygen species in modulation of Nrf2 following
+ischemic reperfusion injury. Neuroscience 147:53–59; 2007.
+[58] Clarke, J. D.; Hsu, A.; Williams, D. E.; Dashwood, R. H.; Stevens, J. F.; Yamamoto,
+M.; Ho, E. Metabolism and tissue distribution of sulforaphane in Nrf2 knockout and wild-type mice. Pharm. Res. 28:3171–3179; 2011.
+
+[59] Zhao, J.; Kobori, N.; Aronowski, J.; Dash, P. K. Sulforaphane reduces infarct
+volume following focal cerebral ischemia in rodents. Neurosci. Lett. 393:108–112; 2006.
+[60] Zhao, J.; Moore, A. N.; Redell, J. B.; Dash, P. K. Enhancing expression of Nrf2driven genes protects the blood brain barrier after brain injury. J. Neurosci.
+27:10240–10248; 2007.
+[61] Willis, C. L.; Nolan, C. C.; Reith, S. N.; Lister, T.; Prior, M. J.; Guerin, C. J.;
+Mavroudis, G.; Ray, D. E. Focal astrocyte loss is followed by microvascular
+damage, with subsequent repair of the blood–brain barrier in the apparent
+absence of direct astrocytic contact. Glia 45:325–337; 2004.
+[62] Dodson, R. F.; Chu, L. W.; Welch, K. M.; Achar, V. S. Acute tissue response to
+cerebral ischemia in the gerbil. An ultrastructural study. J. Neurol. Sci.
+33:161–170; 1977.
+[63] Garcia, J. H.; Liu, K. F.; Yoshida, Y.; Chen, S.; Lian, J. Brain microvessels: factors
+altering their patency after the occlusion of a middle cerebral artery (Wistar
+rat). Am. J. Pathol. 145:728–740; 1994.
+[64] Calabrese, V.; Cornelius, C.; Cuzzocrea, S.; Iavicoli, I.; Rizzarelli, E.; Calabrese,
+E. J.; Hormesis cellular stress response and vitagenes as critical determinants
+in aging and longevity. Mol. Aspects Med. 32:279–304; 2011.
+[65] Calabrese, V.; Cornelius, C.; Dinkova-Kostova, A. T.; Iavicoli, I.; Di Paola, R.;
+Koverech, A.; Cuzzocrea, S.; Rizzarelli, E.; Calabrese, E. J. Cellular stress
+responses, hormetic phytochemicals and vitagenes in aging and longevity.
+Biochim. Biophys. Acta 1822:753–783; 2012.
+[66] Kim, H.; Kim, E. H.; Eom, Y. W.; Kim, W. H.; Kwon, T. K.; Lee, S. J.; Choi, K. S.
+Sulforaphane sensitizes tumor necrosis factor-related apoptosis-inducing
+ligand (TRAIL)-resistant hepatoma cells to TRAIL-induced apoptosis through
+reactive oxygen species-mediated up-regulation of DR5. Cancer Res. 66:1740–1750; 2006.
+[67] Bergstrom, P.; Andersson, H. C.; Gao, Y.; Karlsson, J. O.; Nodin, C.; Anderson, M.
+F.; Nilsson, M.; Hammarsten, O. Repeated transient sulforaphane stimulation
+in astrocytes leads to prolonged Nrf2-mediated gene expression and protection from superoxide-induced damage. Neuropharmacology 60:343–353; 2011.
+[68] Higgins, L. G.; Kelleher, M. O.; Eggleston, I. M.; Itoh, K.; Yamamoto, M.; Hayes,
+J. D. Transcription factor Nrf2 mediates an adaptive response to sulforaphane
+that protects ﬁbroblasts in vitro against the cytotoxic effects of electrophiles,
+peroxides and redox-cycling agents. Toxicol. Appl. Pharmacol. 237:267–280;
+2009.
+[69] Gao, X.; Dinkova-Kostova, A. T.; Talalay, P. Powerful and prolonged protection
+of human retinal pigment epithelial cells, keratinocytes, and mouse leukemia
+cells against oxidative damage: the indirect antioxidant effects of sulforaphane. Proc. Natl. Acad. Sci. USA 98:15221–15226; 2001.
+[70] Greco, T.; Shafer, J.; Fiskum, G. Sulforaphane inhibits mitochondrial permeability transition and oxidative stress. Free Radic Biol. Med. 51:2164–2171;
+2011.
+[71] Greco, T.; Fiskum, G. Brain mitochondria from rats treated with sulforaphane
+are resistant to redox-regulated permeability transition. J. Bioenerg. Biomembr
+42:491–497; 2010.
+[72] Cherubini, A.; Ruggiero, C.; Morand, C.; Lattanzio, F.; Dell'aquila, G.; Zuliani, G.;
+Di Iorio, A.; Andres-Lacueva, C. Dietary antioxidants as potential pharmacological agents for ischemic stroke. Curr. Med. Chem. 15:1236–1248; 2008.
+[73] Sanchez-Moreno, C.; Jimenez-Escrig, A.; Martin, A. Stroke: roles of B vitamins,
+homocysteine and antioxidants. Nutr. Res. Rev. 22:49–67; 2009.
+[74] Halliwell, B. Free radicals and antioxidants: updating a personal view. Nutr.
+Rev. 70:257–265; 2012.
+
+

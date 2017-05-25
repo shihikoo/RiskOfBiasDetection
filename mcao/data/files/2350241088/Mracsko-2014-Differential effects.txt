@@ -1,0 +1,1486 @@
+Brain, Behavior, and Immunity 41 (2014) 200–209
+
+Contents lists available at ScienceDirect
+
+Brain, Behavior, and Immunity
+journal homepage: www.elsevier.com/locate/ybrbi
+
+Differential effects of sympathetic nervous system and
+hypothalamic–pituitary–adrenal axis on systemic immune
+cells after severe experimental stroke
+Eva Mracsko a, Arthur Liesz a,b,c, Simone Karcher a, Markus Zorn d, Ferenc Bari e, Roland Veltkamp a,f,⇑
+a
+
+Department of Neurology, University Heidelberg, Im Neuenheimer Feld 400, 69120 Heidelberg, Germany
+Institute for Stroke and Dementia Research, University Hospital Munich, Max-Lebsche-Platz 30, 81377 Munich, Germany
+Munich Cluster for Systems Neurology (SyNergy), Munich, Germany
+d
+Department of Internal Medicine and Laboratory Medicine, University Heidelberg, Im Neuenheimer Feld 400, 69120 Heidelberg, Germany
+e
+Department of Medical Physics and Informatics, University of Szeged, Szeged, Hungary
+f
+Division of Brain Sciences, Imperial College, London, UK
+b
+c
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 10 February 2014
+Received in revised form 6 May 2014
+Accepted 22 May 2014
+Available online 2 June 2014
+Keywords:
+Stroke-induced immunosuppression
+Glucocorticoids
+Catecholamines
+Lymphocytes
+
+a b s t r a c t
+Infectious complications are the leading cause of death in the post-acute phase of stroke. Post-stroke
+immunodeﬁciency is believed to result from neurohormonal dysregulation of the sympathetic nervous
+system (SNS) and hypothalamic–pituitary–adrenal (HPA) axis. However, the differential effects of these
+neuroendocrine systems on the peripheral immune cells are only partially understood. Here, we
+determined the impact of the hormones of the SNS and HPA on distinct immune cell populations and
+characterized their interactions after stroke.
+At various time points after cortical or extensive hemispheric cerebral ischemia, plasma cortisone,
+corticosterone, metanephrine and adrenocorticotropic hormone (ACTH) levels were measured in mice.
+Leukocyte subpopulations were ﬂow cytometrically analyzed in spleen and blood. To investigate their
+differential sensitivity to stress hormones, splenocytes were incubated in vitro with prednisolone, epinephrine and their respective receptor blockers. Glucocorticoid receptor (GCR) and beta2-adrenergic
+receptor (b2-AR) on leukocyte subpopulations were quantiﬁed by ﬂow cytometry. In vivo effects of
+GCR and selective b2-AR blockade, respectively, were deﬁned on serum hormone concentrations,
+lymphopenia and interferon-c production after severe ischemia.
+We found elevated cortisone, corticosterone and metanephrine levels and associated lymphocytopenia
+only after extensive brain infarction. Prednisolone resulted in a 5 times higher cell death rate of splenocytes than epinephrine in vitro. Prednisolone and epinephrine-induced leukocyte cell death was prevented by GCR and b2-AR blockade, respectively. In vivo, only GCR blockade prevented post ischemic
+lymphopenia whereas b2-AR preserved interferon-c secretion by lymphocytes. GCR blockade increased
+metanephrine levels in vivo and prednisolone, in turn, decreased b2-AR expression on lymphocytes.
+In conclusion, mediators of the SNS and the HPA axis differentially affect the systemic immune system
+after stroke. Moreover, our ﬁndings suggest a negative-feedback of corticosteroids on the sympathetic
+axis which may control the post-stroke stress-reaction. This complex interplay between the HPA and
+the SNS after stroke has to be considered when targeting the neurohormonal systems in the post acute
+phase of severe stroke.
+Ó 2014 Elsevier Inc. All rights reserved.
+
+1. Introduction
+The immune system is intricately involved in damage and
+repair after acute brain injuries including stroke (Iadecola and
+⇑ Corresponding author at: Department of Neurology, University Heidelberg, Im
+Neuenheimer Feld 400, 69120 Heidelberg, Germany. Tel.: +49 6221 568211; fax:
++49 6221 565654.
+E-mail address: Roland.Veltkamp@med.uni-heidelberg.de (R. Veltkamp).
+http://dx.doi.org/10.1016/j.bbi.2014.05.015
+0889-1591/Ó 2014 Elsevier Inc. All rights reserved.
+
+Anrather, 2011; Macrez et al., 2011). At the same time, the injured
+brain affects immune cell function resulting in suppression of the
+systemic immune system (Meisel et al., 2005; Woiciechowsky
+et al., 1999b). Immunodepression predisposes patients to pneumonia and other infections which contribute substantially to post
+stroke mortality and morbidity (Chamorro et al., 2007a; Meisel
+and Meisel, 2011). The immune alterations in stroke patients
+include decreased numbers of peripheral lymphocytes, impaired
+
+E. Mracsko et al. / Brain, Behavior, and Immunity 41 (2014) 200–209
+
+activation, mitogen-induced proliferation and cytokine production
+of T cells and natural killer (NK) cells which correlate with stroke
+severity (Czlonkowska et al., 1979; Hug et al., 2009; Klehmet
+et al., 2009) and with the incidence of stroke-associated infections
+(Chamorro et al., 2007b; Klehmet et al., 2009). A Th1/Th2 shift of
+CD4+ T lymphocytes results in reduced interferon-c (IFN-c) and
+increased interleukin-4 (IL-4) cytokine production in both human
+(Chamorro et al., 2007b; Klehmet et al., 2009) and experimental
+stroke (Prass et al., 2003). Besides impaired lymphocyte functions,
+altered monocyte function leads to decreased tumor necrosis
+factor-a (TNF-a) and elevated IL-10 cytokine production in stroke
+patients. Increased peripheral monocyte counts and elevated IL-10
+and IL-6 levels have been identiﬁed as predictors of post-stroke
+infections (Chamorro et al., 2007a, 2006; Klehmet et al., 2009).
+The signaling mechanisms underlying the crosstalk between
+the brain and immune system are under intense investigation. Current concepts attribute a major role to the dysregulation of the
+hypothalamic–pituitary–adrenal (HPA) axis and of the sympathetic
+nervous system (SNS) and their humoral mediators, glucocorticoids and catecholamines, respectively (Iadecola and Anrather,
+2011; Meisel et al., 2005). Increased plasma and urine cortisol
+and catecholamine levels have been associated with a high mortality rate and poor functional outcome in stroke patients (Feibel
+et al., 1977; Olsson, 1990) although a recent study could not
+conﬁrm such a correlation (Liesz et al., 2013).
+In a landmark experimental study, Prass and co-workers found
+that activation of the SNS is mainly responsible for spontaneous
+bacterial infections after experimental stroke (Prass et al., 2003).
+Pharmacological blockade of beta-receptors prevented the
+impaired ex vivo production of IFN-c by T cells and resulted in a
+lower bacterial burden in lungs of ischemic mice (Prass et al.,
+2003). In another study, noradrenergic sympathetic innervation
+of hepatic invariant natural killer T cells mediated immunosuppression after stroke (Wong et al., 2011). Although glucocorticoids
+are potent modulators of immune cells under physiological and
+other pathological conditions, their role in post-stroke immunodepression appeared to be less prominent (Prass et al., 2003). However, the differential effects of both systems on distinct immune
+cell populations and a potential interplay of the HPA axis and the
+SNS have not been studied in the setting of stroke.
+The purpose of the present study was to characterize the impact
+of catecholamines and glucocorticoids on different subsets of
+leukocytes, and to describe the interactions between mediators
+of the HPA axis and the SNS after experimental murine stroke.
+2. Materials and methods
+The study was conducted in accordance with national guidelines for the use of experimental animals. All experimental procedures were approved by the governmental committees (animal
+care committee, Regierungspraesidium Karlsruhe, Referat 35, Germany). Age-matched, 8–10 weeks old male mice (C57BL/6J, Charles
+River Laboratories) were used for the experiments. All mice were
+kept on a standard 12 h light/dark cycle and had free access to food
+and water.
+2.1. In vivo stress hormone blockage
+One group of mice was intraperitoneally injected with 4 mg/kg
+of the b2-adrenergic receptor (b2-AR) blocker ICI 118551 (Sigma)
+dissolved in saline right before as well as 4, 8 and 12 h after middle
+cerebral artery occlusion (MCAO). In more prolonged (3 d) experiments, mice were treated every 12 h thereafter. Control animals
+received an equivalent volume of saline. Other groups of mice were
+intraperitoneally injected with 30 mg/kg of the glucocorticoid
+receptor (GCR) blocker RU486 (Sigma). Due to its hydrophobic
+
+201
+
+properties, RU486 was dissolved in ethanol/soybean oil solution
+(1:10) at 6 mg/ml and administered 12 h and again 2 h before
+MCAO. Control animals received an equivalent volume of ethanol/soybean oil (1:10). Accounting for its longer half-life
+(Lahteenmaki et al., 1987), RU486 or its solvent were additionally
+injected 48 h after MCAO for prolonged (3 d) experiments.
+2.2. Ischemia models
+Moderate-sized cortical infarcts were induced by transtemporal
+coagulation of the middle cerebral artery (MCA) distal to the lenticulostriate arteries as a modiﬁcation of the previously described
+‘Tamura model’ (Tamura et al., 1981). Mice were anesthetized with
+1.5–2% halothane in N2O:O2 (2:1). After a 1 cm long skin incision
+between the left eye and ear, the temporal muscle was removed
+and a burr hole was drilled through the temporal skull. The dura
+mater was removed and the MCA was permanently occluded using
+a bipolar electrocoagulation forceps (ERBOTOM, Erbe, Germany). In
+sham-operated mice, the MCA was exposed but not occluded. Total
+anesthesia time was approximately 15 min in both MCAO and
+sham procedures.
+For the induction of extensive hemispheric MCAO, mice were
+anesthetized with 1.5–2% halothane in N2O:O2 (2:1). To measure
+relative cerebral blood ﬂow (rCBF) changes, a laser Doppler probe
+(P403, Perimed, Sweden) was placed 3 mm lateral and 1 mm posterior to the bregma, and relative perfusion units were obtained
+(Periﬂux 4001, Perimed, Sweden). Baseline rCBF was deﬁned as
+100%. A ventral cervical incision was made to expose the left common carotid artery, which was gently separated from its sheaths
+and vagal nerves, and an incision was made on it between 2 ligations, into which a silicon-covered 8–0 nylon monoﬁlament (Doccol Corporation) was inserted and advanced through the internal
+carotid artery to occlude the MCA. Successful occlusion was
+deﬁned as a decrease of perfusion to <20% of baseline ﬂow measured by laser Doppler. The ﬁlament was ﬁxed in this position by
+ligation, the neck closed, the Doppler probe removed and the
+mouse replaced into its cage. Sixty min after ﬁlament insertion,
+the mouse was reanesthetized and the ﬁlament was removed.
+Sham operation was performed identically except that the sham
+group only underwent brief introduction of the ﬁlament into the
+external carotid artery. A feedback controlled heating pad was
+used to maintain body temperature (37 °C) during surgery. Following the closure of the skin, mice were placed under an infrared
+heating lamp between the operations and until recovery from
+anesthesia. The total anesthesia time was approximately 20 min
+in ﬁlament-induced MCAO and sham procedures.
+2.3. Assessment of infarct volume
+We determined the infarct volume on cresyl violet stained cryosections. In brief, mice were deeply anesthetized with an i.p. injection of Ketamin/Xylazin (100 mg/kg and 10 mg/kg, respectively)
+and transcardially perfused with cold saline. Brains were removed,
+immediately frozen and 20 lm thick coronal cryosections were cut
+every 400 lm and stained with cresyl violet. We scanned the
+stained sections at 600 dpi, and measured the infarct areas using
+a public domain image analysis program (ImageJ). The total infarct
+volume was obtained by integrating measured infarct areas and
+distance between sections. Correction for brain edema was applied
+by subtraction of the ipsilateral minus contralateral hemisphere
+volume from the directly measured infarct volume.
+2.4. Stress hormone level assessments
+Blood samples were collected from naive mice and 2 h, 24 h, or
+3 days after MCAO and sham operation from the periorbital venous
+
+202
+
+E. Mracsko et al. / Brain, Behavior, and Immunity 41 (2014) 200–209
+
+sinus in anesthesia followed by transcardial perfusion and collection of spleens and brains. For plasma preparation, blood was collected in EDTA (Ethylenediaminetetraacetate) tubes, centrifuged
+for 10 min at 1500g at 4 °C. Plasma was rapidly processed for the
+analysis of metanephrine and adrenocorticotropic hormone
+(ACTH) levels. For serum preparation, blood was collected in test
+tubes, allowed to clot for 30 min in room temperature followed
+by centrifugation for 10 min at 1500g at 4 °C. Serum was collected
+and immediately processed for the measurement of cortisone or
+stored at 20 °C for the measurement of corticosterone using ELISA
+(Abcam). Metanephrine, cortisone and ACTH concentrations were
+analyzed in the Core Laboratory Facilities of the University Hospital
+Heidelberg. Metanephrines were analyzed with ELISA (Fast Track,
+Beckman Coulter). The analysis of ACTH and cortisone was done
+with a chemoluminescent immunoassay (CLIA) on a CENTAUR XP
+(Siemens healthcare diagnostics).
+2.5. In vitro incubation with stress hormones
+Spleens were collected from naive mice after transcardial perfusion and processed to single cell suspensions. Cells were cultured
+in 96-well plates (300,000 cells/well) and incubated with 1, 10 or
+100 nM epinephrine (Sigma Aldrich) or 1, 10 or 100 nM prednisolone (Sigma Aldrich) and their respective receptor blockers for 1, 2,
+4, 6, or 18 h at 37 °C. The nonselective a-AR blocker phentolamine
+(Sigma Aldrich), the nonselective b-AR blocker propranolol (Sigma
+Aldrich), the selective b1-AR blocker atenolol (Sigma Aldrich) and
+the selective b2-AR blocker ICI 118551 (Sigma Aldrich) were used
+to investigate the role of the different catecholamine receptors on
+leukocytes. The effect of prednisolone was blocked by the GCR
+blocker RU486 (Sigma Aldrich). All receptor blockers were used
+in 100 nM concentration for in vitro experiments. At least 3 individual experiments were performed for all in vitro experiments
+and samples analyzed in duplicates.
+2.6. Ex vivo IFN-c production
+Spleens were collected from saline, b2-AR blocker, soybean oil
+or GCR blocker treated mice 3 d following MCAO. Spleens were
+processed to single cell suspension and after ﬁcoll density gradient
+centrifugation 300,000 mononuclear cells were cultured in 96-well
+plates (RPMI-1640, +10% FCS, +2 mM Glutamine, +25 mM HEPES,
++1% Penicillin/Streptomycin, +50 lM Mercaptoethanol). We processed each sample in duplicate. Cells were primed for 36 h with
+plate-bound anti-mouse CD3e (Clone145-2C11, BD Biosciences)
+to stimulate IFN-c production of T lymphocytes. Cells were then
+restimulated with 500 ng Ionomycin (Sigma–Aldrich), 5 ng/ml
+PMA (Sigma–Aldrich), and protein transport inhibitor (BD Golgi
+Plug, BD Biosciences) for 5 h, followed by intracellular staining
+for IFN-c (Clone XMG1.2) following the manufacturers’ protocols
+(BD, eBioscience) and subsequent ﬂow cytometric analysis (BD
+FACS Calibur).
+2.7. Flow cytometry
+We collected spleens after transcardial perfusion with saline in
+anesthetized mice. After homogenization and hypotonic lysis of
+red blood cells, the single cell suspension was used for ﬂow cytometric analysis of leukocyte populations and stress hormone
+receptors. Leukocyte subpopulations were identiﬁed by cell surface
+staining for anti-mouse CD3, CD4, CD8, NK1.1, B220, Ly-6G, CD11b
+following the manufacturer’s protocols (eBioscience). After the cell
+surface staining, an indirect staining protocol was used for the
+detection of GCR and b2-AR in different leukocyte subsets. Brieﬂy,
+cells were ﬁxed, and then washed in permeabilization buffer
+followed by Fc-block according to the manufacturer’s protocols
+
+(eBioscience). The cells were incubated with rabbit anti-GCR, rabbit anti-b2-AR or normal rabbit IgG antibody (Santa Cruz) for
+30 min at 4 °C. After washing, cells were incubated with phycoerythrin (PE) conjugated goat anti-rabbit antibody (Santa Cruz). In
+the course of in vitro incubation with stress hormones, dead cells
+were detected using propidium iodide (BD Pharmingen) staining.
+Flow cytometry was performed on a Beckton Dickinson FACS
+Calibur and LSR II and analyzed by CellQuest Pro and FACS Diva
+software, respectively. We used quantitative calibration with the
+BD QuantiBRITE PE Beads (BD Bioscience) for ﬂow cytometric
+quantiﬁcation of receptor number per cell and QuantiQuest software to standardize the quantiﬁcation in terms of antibodies
+bound per cell following the manufacturer’s protocol.
+2.8. Statistical analysis
+All values are expressed as mean ± SD. Student’s t-test was used
+for comparison between 2 groups. For multiple comparisons, oneway ANOVA with post hoc Dunnett’s test was used where all
+groups were compared to one control group. One-way ANOVA
+was followed by post hoc Tukey’s test for comparing all pairs of
+columns. Hormone levels, body weights and spleen weights shown
+in Figs. 2 and 3 were tested at each time point using two-way
+ANOVA for the model (distal vs. proximal MCAO) and surgery
+(sham vs. MCAO). The results of in vivo receptor blockage
+experiments were analyzed by two-way ANOVA for surgery
+(fSHAM vs. fMCAO) and treatment (saline vs. b2-AR-blocker vs.
+oil vs. GCR-blocker). In every case, two-way ANOVA was followed
+by post hoc Tukey’s test. The normal distribution of these datasets
+was validated by Kolmogorov–Smirnov using GraphPad Prism 5
+software. The accepted signiﬁcance level was p < 0.05.
+3. Results
+3.1. Extensive brain ischemia affects neuroendocrine and immune
+homeostasis
+We induced moderate-sized cortical infarcts by the coagulation
+of the distal MCA (cMCAO) and extensive hemispheric infarcts by
+transient (60 min) proximal MCA ﬁlament occlusion (fMCAO;
+Fig. 1a). Distal MCAO resulted in an infarct volume of 12.8 ±
+2.5 mm3, while mice with proximal MCAO had 52.4 ± 5.3 mm3
+extensive hemispheric infarcts 1 d following surgery (Fig. 1b).
+While mice generally recovered well from moderate-sized infarcts,
+only one third of animals with extensive stroke survived up to 7 d
+after surgery (Fig. 1c).
+We investigated the blood levels of stress hormones in mice
+with moderate-sized and extensive hemispheric infarcts, respectively. Plasma metanephrine and serum cortisone concentrations
+increased only after extensive ischemia (at d1 for both metanephrine and cortisone fMCAO vs. fSHAM: p < 0.001; Fig. 2a, b). Plasma
+levels of both stress hormones were substantially increased
+already at 2 h after ischemia-onset and remained elevated during
+the 3 d observation period. We further analyzed corticosterone
+concentration 1 d after stroke and detected a similar increase of
+hormone levels as seen in cortisone (Fig. 2c). Interestingly, plasma
+ACTH concentration was increased only 2 h after MCAO, returned
+to baseline at 1 d, and was decreased in mice with extensive ischemia 3 d following MCAO (fMCAO vs. fSHAM: p = 0.036; fMCAO vs.
+cMCAO: p < 0.001; Fig. 2d), suggesting that prolonged cortisone
+upregulation does not depend on continued ACTH stimulation.
+Body weight, spleen weight and splenocyte number were
+decreased after extensive hemispheric but not after moderatesized cortical infarction (Fig. 3a, b, Suppl. Fig 1). The cell-loss
+affected predominantly the lymphocyte subpopulations. One day
+
+203
+
+E. Mracsko et al. / Brain, Behavior, and Immunity 41 (2014) 200–209
+
+a
+
+Dist. to
+bregma
+
+b
+cMCAO
+
+cMCAO
+
+fMCAO
+
+fMCAO
+
+*
+
+anterior (mm)
+
+1.4
+
+0.6
+
+Infarct size (mm3)
+
+80
+
+2.2
+
+*
+
+60
+40
+20
+0
+
+24h
+0.2
+
+3d
+
+c
+
+1.0
+
+1.8
+
+2.6
+
+Survival (%)
+
+posterior (mm)
+
+100
+
+50
+
+0
+0
+
+2
+
+4
+
+6
+
+Days after fMCAO
+Fig. 1. Experimental models of moderate-sized cortical and extensive hemispheric infarction. (a) Representative cresyl violet-stained coronal serial sections of cortical
+infarcts 1 d after induction by transtemporal coagulation of the left middle cerebral artery (cMCAO) and extensive infarcts induced by transient 60 min proximal ﬁlament
+occlusion (fMCAO). (b) Infarct volume of cMCAO and fMCAO mice 1 d and 3 d following surgery. Whiskers show 5–95th percentiles. ⁄p < 0.001 (Student’s t-test, n = 12 per
+group). (c) Kaplan Meier curve for mice separately operated by the fMCAO model up to 7 d after surgery (n = 18).
+
+after extensive stroke, T cells were reduced to 30.1 ± 6.5%, B cells to
+31.9 ± 5.9%, and NK cells to 47.5 ± 11.2% of cell numbers counted in
+sham animals (p < 0.001 for all lymphocyte populations). In contrast, granulocyte and monocyte counts were increased 2 h after
+stroke to 211.0 ± 62.5% and 146.1 ± 38.9% of sham cell counts,
+respectively (p < 0.001 and p = 0.017, respectively), were on the
+level of sham operated controls at 24 h and were subsequently
+reduced 3 d after stroke (Fig 3c).
+
+The susceptibility of different leukocyte populations to
+epinephrine-induced cell death did not differ between the lymphocyte, granulocyte and monocyte subpopulations. In contrast, prednisolone had a signiﬁcantly stronger effect on lymphocytes than on
+granulocytes and monocytes (over all p < 0.0001; Fig. 4c).
+
+3.2. Lymphocytes are more susceptible to prednisolone-induced cell
+death than innate immune cells
+
+We investigated expression of b2-AR and GCR in naive leukocytes in order to determine whether the different susceptibility
+of leukocyte subpopulations to stress hormone-induced cell death
+depends on a differential expression of hormone receptors
+(Fig. 4d). All leukocyte subpopulations expressed both b2-ARs
+and GCRs. The number of b2-AR on naive leukocytes did not differ
+between the subpopulations (over all p = 0.098; Fig. 4e) which is
+consistent with the similar effect of epinephrine on cell death
+detected in leukocyte subpopulations. In contrast, lymphocytes
+expressed signiﬁcantly more GCRs than granulocytes and monocytes (over all p < 0.0001) consistent with their higher susceptibility to prednisolone-induced cell death (Fig. 4e). These results
+indicate that the extent of glucocorticoid-induced cell death of
+lymphocytes might depend on their differential expression of
+GCR explaining the selective lymphocyte-loss after extensive brain
+lesions.
+
+To investigate whether catecholamines and glucocorticoids
+affect leukocyte subpopulations differently, splenocyte cultures
+from naive mice were incubated with 100 nM epinephrine or 10
+nM prednisolone in vitro for 18 h. Concentrations of hormones
+and the incubation time were chosen according to pilot experiments (Suppl. Fig 2a). Epinephrine resulted in a 33.2% increase in
+the proportion of propidium iodide positive (PI+) dead cells
+compared to untreated controls (37.0 ± 2.7% vs. 27.8 ± 4.4%;
+p = 0.004), while prednisolone increased the proportion of PI + cells
+by 117.4% compared to control (77.8 ± 7.7% vs. 36.1 ± 6.0%;
+p < 0.001; Fig. 4a, b). To dissect which sympathetic receptors were
+responsible for this effect of epinephrine, we used different
+catecholamine receptor-blockers. The effect of epinephrine was
+blocked only by the non-selective b-blocker propranolol and by
+the selective b2-blocker ICI 118551. In contrast, the a-blocker
+phentolamine and b1-blocker atenolol did not inﬂuence the
+proportion of PI+ cells demonstrating the role of b2-AR in catecholamine-induced leukocyte death (Fig. 4b).
+The glucocorticoid receptor blocker RU486 prevented prednisolone-induced cell death (Fig. 4b) in a dose-dependent manner
+(Suppl. Fig. 2b).
+
+3.3. Susceptibility of immune cells to stress hormones correlates with
+their hormone receptor expression
+
+3.4. GCR-blockade prevents lymphopenia while b2-AR-blockade
+prevents T cell dysfunction
+We investigated the in vivo effects of pharmacological blockade
+of stress hormone receptors on spleen weight and splenocyte number 1 d after extensive infarction. The GCR-blocker RU486 normalized spleen weight (GCR-bl vs. oil: p = 0.022; GCR-bl vs. b2-AR-bl:
+
+204
+
+E. Mracsko et al. / Brain, Behavior, and Immunity 41 (2014) 200–209
+
+naive
+
+cSHAM
+
+a
+
+cMCAO
+
+fSHAM
+
+b
+
+Metanephrine
+
+1500
+
+Cortisone
+40
+
+†
+
+*#
+
+1000
+
+†
+†
+
+*#
+
+†
+
+*
+
+500
+
+Serum cc. (pg / ml)
+
+Plasma cc. (pg / ml)
+
+fMCAO
+
+†
+
+†
+
+*#
+
+*#
+
+30
+
+†
+
+*#
+
+20
+10
+0
+
+0
+
+c
+Serum cc. (ng / ml)
+
+4
+
+24h
+
+3d
+
+3
+
+naive
+
+fMCAO
+
+1
+0
+
+3d
+
+ACTH
+
+1500
+
+cMCAO
+
+2
+
+24h
+
+d
+
+Corticosterone
+†
+#
+
+2h
+
+Plasma cc. (pg / ml)
+
+2h
+
+†
+
+†
+
+1000
+
+†
+500
+
+†
+
+*#
+
+0
+
+24h
+
+2h
+
+24h
+
+3d
+
+Fig. 2. Stress hormone levels increase only after extensive ischemia. (a) Levels of metanephrine, (b) cortisone, (c) corticosterone and (d) ACTH were determined 2 h, 1 d and
+3 d following surgery in coagulation MCAO (cMCAO) with respective sham (cSHAM) and ﬁlament MCAO (fMCAO) with respective sham (fSHAM) operated animals. Naive
+mice were used as controls. Data are expressed as mean ± SD. In Panel a, b and d, two-way ANOVA for model (coagulation vs. ﬁlament) and for surgery (naive vs. SHAM vs.
+MCAO) was performed followed by post hoc Tukey’s test for group comparison at each time point after surgery.  p < 0.05 vs. naive, ⁄p < 0.05 vs. fSHAM, #p < 0.05 vs. cMCAO
+(n = 6 values per group each pooled from 2 mice). In panel c, one-way ANOVA was used followed by post hoc Tukey’s test.  p < 0.05 vs. naive, #p < 0.05 vs. cMCAO (n = 5
+animals per group).
+
+p = 0.005; Fig. 5a) and splenic lymphocyte counts (Fig. 5b). In
+blood, RU486 had a profound effect only on T cell counts (GCR-bl
+vs. oil and GCR-bl vs. b2-AR-bl: p < 0.001, while NK cells and B cells
+were not affected by this treatment (Fig. 5c). In contrast, the b2blocker ICI 118551 had no effect on spleen weight and lymphocyte
+numbers in the spleen or blood. To rule out effects of receptor
+blockage that might be unrelated to ischemia, we performed ICI
+118551 and RU486 treatment also in sham animals. We did not
+detect differences between untreated, b2-adrenergic receptor and
+glucocorticoid receptor blocker-treated animals regarding spleen
+weight or the ratios as well as absolute numbers of lymphocyte
+subsets in blood or spleen (Supplementary Fig. 3).
+To investigate the effect of stress hormones and hormone receptor-blockers on T cell function, we analyzed ex vivo IFN-c secretion
+of isolated splenocytes. Corresponding to previous reports characterizing the delayed kinetics of impaired IFN-c production in the
+peripheral immune system (Haeusler et al., 2008; Offner et al.,
+2006), we isolated splenocytes 3 d after severe ischemia (fMCAO)
+from b2-blocker ICI 118551 or GCR-blocker RU486 treated mice
+and stimulated them in vitro for the analysis of IFN-c secretion
+(Fig. 5d). In accordance with a previous report (Prass et al.,
+2003), IFN-c production by lymphocytes which had been isolated
+from saline treated extensive stroke mice was decreased compared
+to sham operated controls. Interestingly, treatment with the b2AR-blocker completely restored IFN-c-secreting capacities of splenic lymphocytes while the GCR-blocker had no effect (over all
+p = 0.0095; Fig. 5e).
+
+Our results suggest that GCR stimulation induces lymphocytopenia, while catecholamines seem to be responsible for the
+impaired lymphocytic IFN-c secretion after extensive stroke.
+
+3.5. Glucocorticoids decrease the plasma concentration of
+metanephrine and down-regulate b2-ARs on lymphocytes
+To investigate interactions between the sympathetic and HPA
+systems following extensive stroke, we determined metanephrine,
+cortisone and corticosterone serum levels of b2-AR-blocker and
+GCR-blocker-treated mice 24 h after fMCAO (Fig. 6a). Pretreatment with the b2-AR-blocker ICI 118551 did not inﬂuence
+metanephrine, cortisone and corticosterone levels. In contrast,
+treatment with the GCR-blocker RU 486 increased cortisone and
+corticosterone serum concentrations as well as metanephrine
+plasma concentrations (GCR-bl vs. sal and GCR-bl. vs. b2-AR-bl:
+p < 0.001).
+Moreover, we investigated the in vitro effect of epinephrine and
+prednisolone on the b2-AR and GCR expression of different leukocyte subsets in splenocyte culture (Fig. 6b). Epinephrine did not
+affect hormone receptor expression, while prednisolone decreased
+the number of its own receptors (epinephrine vs. prednisolone
+p = 0.012) and the numbers of b2-Ars (epinephrine vs. prednisolone p = 0.0007) on lymphocytes.
+Taken together, these results indicate that glucocorticoids
+attenuate the sympathetic stress response by decreasing the
+
+205
+
+E. Mracsko et al. / Brain, Behavior, and Immunity 41 (2014) 200–209
+
+cSHAM
+
+fSHAM
+
+cMCAO
+
+fMCAO
+
+b
+
+10
+
+cSHAM
+
+fSHAM
+
+cMCAO
+
+fMCAO
+
+120
+
+*#
+
+0
+
+*#
+
+-10
+
+*#
+
+-20
+-30
+
+Spleen weight (mg)
+
+Body weight change (%)
+
+a
+
+100
+
+*
+
+80
+
+*#
+
+60
+40
+20
+
+-40
+
+2h
+
+24d
+
+c
+
+3d
+
+Cells / spleen (% of fSHAM)
+
+2h
+
+2h
+
+24h
+
+24d
+
+3d
+
+3d
+
+300
+
+*
+*
+
+200
+
+100
+
+**
+0
+
+CD3
+
+**
+B220
+
+*
+
+*
+
+NK1.1
+
+*
+Ly-6G
+
+*
+CD11b
+
+Fig. 3. Extensive ischemia decreases splenic weight and cellularity. (a) Body weight and (b) spleen weight 2 h, 1 d and 3 d following surgery. Data are expressed as mean ± SD.
+Two-way ANOVA for model (coagulation vs. ﬁlament) and for surgery (SHAM vs. MCAO) was performed followed by post hoc Tukey’s test for group comparison at each time
+point after surgery. ⁄p < 0.05 vs. respective SHAM, #p < 0.05 vs. cMCAO (n = 10 animals per group). (c) Cell counts of T cells (CD3+), B cells (B220+), NK cells (CD3 /NK1.1+),
+granulocytes (Ly-6G+) and monocytes (Ly-6G /CD11b+) were analyzed by ﬂow cytometry in spleens of fMCAO-operated animals. FACS data are expressed as % of fSHAM
+control values. One-way ANOVA with post hoc Dunnett’s test was used to compare relative cell numbers of fMCAO animals to fSHAM control value. ⁄p < 0.05 vs. fSHAM
+(n = 10 animals per group).
+
+plasma concentration of catecholamines and by downregulating
+the expression of b2-AR on lymphocytes.
+4. Discussion
+The major new ﬁndings of the present study are that (1) serum
+levels of key stress hormones are only increased after experimental
+extensive hemispheric infarction but not moderate-sized cortical
+infarcts. (2) Post stroke lymphocytopenia is associated with
+increased glucocorticoid levels and can be abrogated by GCRinhibitors. (3) Increased catecholamine levels induce altered
+lymphocyte IFN-c secretion via the b2-AR. (4) Glucocorticoids
+downregulate catecholamine levels and b2-AR expression on
+lymphocytes.
+Acute ischemic stroke in patients results in increased activity of
+the HPA axis, increased cortisol production and elevated circulating cortisol levels (Fassbender et al., 1994; Olsson et al., 1992).
+Clinical stroke is also followed by elevated catecholamine plasma
+levels (Sander et al., 2001). In our present work, only extensive
+infarction increased levels of metanephrine, cortisone and corticosterone whereas moderate-sized cortical infarcts had no effect.
+This ﬁnding is consistent with our previous observations in stroke
+patients (Liesz et al., 2013). Metanephrine and normetanephrine
+are the main products of catecholamine metabolism mediated by
+catechol-O-methyl-transferase (Eisenhofer et al., 1995). As sympathetic nerves do not contain this enzyme, and 91% of plasma metanephrine is produced under stress conditions in the adrenal
+medullary gland (Eisenhofer et al., 1998), our results reﬂect catecholaminergic activity of the adrenomedulla. Cortisone is a biolog-
+
+ically inactive glucocorticoid whose plasma concentration is in
+dynamic equilibrium with its active form (Ichikawa et al., 1977).
+Accordingly, by measuring the concentration of the active glucocorticoid corticosterone we detected hormone level changes similar to cortisone. Increased glucocorticoid levels were associated
+with elevated ACTH levels only in the hyperacute phase after
+stroke in the present study. In patients with acute stroke, increased
+(Olsson et al., 1992) or abnormally low (Schwarz et al., 2003) secretion of ACTH has been reported. Others found an initial increase of
+ACTH levels followed by a suppression in stroke patients
+(Fassbender et al., 1994; Liesz et al., 2013) which is in accordance
+with our present data. This suggests that delayed glucocorticoid
+production occurs independent of stimulation by ACTH. Supposedly, IL-6, IL-1b and other cytokines may directly augment adrenal
+function after cerebral ischemia and increase glucocorticoid secretion (Johansson et al., 1997; Woiciechowsky et al., 1999a).
+In parallel with the induction of stress hormones, only extensive infarcts resulted in reduced spleen weight and decreased splenic cellularity. Among the different subsets of leukocytes, we found
+a relative increase of the proportion of granulocytes and monocytes during the ﬁrst 3 days after MCAO. This conﬁrms our previous results (Liesz et al., 2009) and is consistent with ﬁndings of
+reduced splenic cellularity and an attenuated response of splenic
+and circulating T lymphocytes to mitogens (Offner et al., 2006).
+Moreover, infarct volume is the main factor associated with lymphopenia and increased monocyte number in stroke patients
+(Chamorro et al., 2007a; Hug et al., 2009).
+Our in vitro results show that leukocytes are much more sensitive to undergo necrosis after exposure to prednisolone compared
+
+206
+
+E. Mracsko et al. / Brain, Behavior, and Immunity 41 (2014) 200–209
+
+a
+
+Epi
+
+Pred
+
+SSC
+
+Cont
+
+PI
+
+c
+
+300
+
+200
+
+*
+
+100
+
+50
+
+*
+
+* *
+
+40
+
+PI+ cells (% of control)
+
+80
+
+*
+
+30
+
+60
+
+20
+
+40
+
+10
+
+20
+0
+
+0
+
+C Epi α
+
+β
+
+β1 β2
+
+150
+200
+100
+100
+50
+
+Ly
+
+Gr
+
+Mon
+
+Ly
+
+Gr Mon
+
+e
+
+β2-AR/cell
+
+β2-AR
+
+d
+
+0
+
+0
+
+C Pred RU
+
+8000
+
+8000
+
+6000
+
+6000
+
+GCR/cell
+
+PI+ cells (% of all cells)
+
+b
+
+4000
+
+GCR
+
+2000
+
+4000
+
+2000
+
+0
+
+0
+
+Ly
+CD4
+
+*
+
+Gr
+
+Mon
+
+Ly
+
+Gr
+
+Mon
+
+Ly-6G
+
+Fig. 4. Stress hormone receptors correspond to the susceptibility to apoptosis induced by epinephrine and prednisolone in vitro. (a) Representative FACS plots of control
+(Cont), epinephrine (Epi) or prednisolone (Pred)-incubated and propidium jodide (PI) stained splenocytes. SSC = side scatter channel. (b) Ratio of PI+ cells 18 h after
+incubation with 100 nM epinephrine or 100 nM prednisolone and their receptor blockers (100 nM): a-blocker (a), non-selective b-blocker (b), selective b1-blocker (b1),
+selective b2-blocker (b2) and glucocorticoid receptor blocker RU486 (RU). Data are expressed as mean ± SD. One-way ANOVA followed by post hoc Dunnett’s test was used to
+compare all groups to untreated control. ⁄p < 0.05 vs. untreated control (n = 4 experiments per group performing duplicates in each experiments). (c) Ratio of
+PI + lymphocytes (Ly), granulocytes (Gr) and monocytes (Mon) normalized on control (untreated) values after incubation with epinephrine (left panel) or prednisolone (right
+panel). Data are expressed as mean ± SD and analyzed by one-way ANOVA followed by post hoc Tukey’s test comparing all pairs of columns. ⁄p < 0.05 (n = 4 experiments per
+group performing duplicates in each experiments). (d) Representative FACS plots of b2-adrenergic receptor (b2-AR) and glucocorticoid receptor (GCR) expression by CD4+ T
+lymphocytes (on the left) and Ly-6G positive granulocytes (on the right). (e) Numbers of b2-AR and GCR on different leukocyte subsets. Data are expressed as mean ± SD and
+analyzed by one-way ANOVA followed by post hoc Tukey’s test comparing all pairs of columns. ⁄p < 0.05. (n = 6 animals per group).
+
+to epinephrine. Glucocorticoids are potent inducers of lymphocyte
+apoptosis (Tuckermann et al., 2005) and this effect is mediated via
+the GCR (Pratt et al., 1996). Accordingly, in the present study the
+cell death rate was signiﬁcantly higher among lymphocytes than
+granulocytes or monocytes, GCR-blockade prevented prednisolone-induced cell death, and the susceptibility of leukocyte
+populations to prednisolone-induced apoptosis correlated with
+their GCR expression. Catecholamines may also affect intestinal
+lymphocyte number and apoptosis (Marra et al., 2005). Moreover,
+the non-selective b-blocker propranolol prevented apoptosis of
+splenocytes after murine stroke (Prass et al., 2003). All immune
+cells express adrenoceptors (Kohm and Sanders, 2001) with a predominance of b1-AR and b2-AR (Fuchs et al., 1988; Molinoff and
+Aarons, 1983; Radojcic et al., 1991). The b2-AR binding was found
+
+to have a stimulatory effect on Th1 cytokine production (RamerQuinn et al., 1997) and a key role in antigen cross-presentation
+by dendritic cells (Herve et al., 2013). However, the role of b2-AR
+in catecholamine-induced leukocyte cell death after stroke had
+not been investigated yet. Our in vitro data indicate that the
+b2-AR mediates the moderate catecholaminergic effects on leukocyte apoptosis. We did not ﬁnd a difference in the susceptibility
+towards epinephrine among the different leukocyte subsets, which
+correspond with the similar expression of b2-AR in these cell
+populations.
+In accordance with the in vitro data, only GCR-blockade prevented the reduction of splenic lymphocytes and normalized T cell
+counts in blood after extensive ischemia. For the investigation of T
+cell function, their key effector cytokine IFN-c (Schoenborn and
+
+207
+
+E. Mracsko et al. / Brain, Behavior, and Immunity 41 (2014) 200–209
+
+a
+
+b
+
+Sham
+MCAO + saline
+MCAO + β2-AR-bl.
+MCAO + oil
+MCAO + GCR-bl.
+
+Cells / spleen (% of SHAM)
+
+Spleen weight (mg)
+
+*#
+80
+
+†
+
+MCAO + oil
+
+MCAO + β2-AR-bl.
+
+MCAO + GCR-bl.
+
+250
+
+100
+
+†
+
+MCAO + saline
+
+†
+
+200
+
+150
+
+*#
+
+*#
+
+100
+
+†
+
+50
+
+††
+
+†
+
+††
+
+†
+
+†
+
+*
+
+60
+
+0
+
+T cells
+
+B cells
+
+NK cells
+
+Gran
+
+Mon
+
+40
+
+c
+T cells
+
+*#
+
+2000
+
+B cells
+
+†
+
+Sh
+
+†
+
+Sal β2
+
+†
+
+oil RU
+
+NK cells
+300
+
+2000
+
+1000
+
+0
+
+3000
+
+†
+
+†
+
+200
+
+†
+
+0
+
+†
+
+†
+
+†
+†
+
+1000
+
+100
+
+Sh
+
+MCAO
+
+Sal β2
+
+oil RU
+
+0
+
+Sh
+
+Sal β2
+
+MCAO
+
+d
+
+oil RU
+
+MCAO
+
+e
+
+Sham
+
+Sal
+
+IFN-γ+ cells (% of SHAM)
+
+Cells / µl blood
+
+3000
+
+150
+
+100
+
+50
+
+CD4
+
+0
+β2
+
+RU
+
+*
+
+*
+
+Sal
+
+β2
+
+oil
+
+RU
+
+MCAO
+IFN-γ
+
+Fig. 5. Differential effects of glucocorticoid receptor and b2-blocker blockade on lymphocyte number and interferon-c production. (a) Spleen weight 24 h following fMCAO in
+sham-operated and saline, b2-blocker (b2-AR-bl.), soybean oil or GCR blocker (GCR-bl.) treated fMCAO mice (n = 10 animals per group). (b) Cell numbers of different
+leukocyte subsets (T cells (CD3+), B cells (B220+), NK cells (CD3 /NK1.1+), granulocytes (Ly-6G+) and monocytes (Ly-6G /CD11b+) were analyzed by ﬂow cytometry (FACS)
+in spleen 24 h after fMCAO. FACS data are normalized on SHAM control values (n = 10 animals per group). (c) Cell numbers of T cells (on the left), B cells (in the middle) and
+NK cells (on the right) in the blood 24 h after fMCAO (n = 6 animals per group). In panel a–c, data are expressed as mean ± SD and analyzed by two-way ANOVA for surgery
+(SHAM vs. MCAO) and treatment (saline vs. b2-AR-bl vs. oil. Vs GCR-bl) followed by post hoc Tukey’s test for group comparison.  p < 0.05 vs. sham-operated control, ⁄p < 0.05
+vs. oil-treated MCAO, #p < 0.05 vs. b2-blocker treated MCAO. (d) Representative FACS contour plots of interferon-c (IFN-c) production of CD4+ T lymphocytes isolated from
+the spleens of sham-operated, saline, b2-AR-bl., oil or GCR-bl.-treated MCAO mice. (e) Ratio of IFN-c+ cells to Th cell population in the spleen isolated from sham-operated,
+saline, b2-AR-bl., oil or GCR bl.-treated MCAO mice. Data are normalized on SHAM control values and analyzed by one-way ANOVA followed by post hoc Tukey’s test for group
+comparison. ⁄p < 0.05 (n = 6 animals per group).
+
+Wilson, 2007) was examined. IFN-c was previously reported as an
+important cytokine against post-stroke bacterial infections (Prass
+et al., 2003) and it is also perceived as a main cytokine in secondary
+neuroinﬂammation after stroke (Iadecola and Anrather, 2011). In
+
+contrast to T cell counts in spleen and blood, only b2-AR-blockade
+prevented the attenuation of lymphocytic IFN-c production. Our
+ﬁndings concerning a b-AR-induced lymphocyte dysfunction corresponds to previous experimental studies (Prass et al., 2006,
+
+E. Mracsko et al. / Brain, Behavior, and Immunity 41 (2014) 200–209
+
+a
+
+Metanephrine
+
+Cortisone
+
+5000
+
+*#
+
+3000
+2000
+
+†
+
+1000
+0
+
+*#
+
+60
+
+Serum cc. ( pg / ml)
+
+Plasma cc. ( pg / ml)
+
+†
+4000
+
+Corticosterone
+†
+
+40
+
+†
+
+20
+
+†
+#
+
+8
+6
+
+†
+
+4
+
+†
+
+2
+0
+
+0
+
+Sh Sal β2 oil RU
+
+Sh Sal β2 oil RU
+
+10
+
+Serum cc. ( ng / ml)
+
+208
+
+Sh Sal
+
+MCAO
+
+MCAO
+
+β2 RU
+
+MCAO
+
+b
+150
+
+Prednisolone
+GCR / cell (% of control)
+
+β2-AR / cell (% of control)
+
+Epinephrine
+
+*
+
+100
+50
+0
+
+150
+
+*
+
+100
+50
+0
+
+Ly
+
+Gr
+
+Mon
+
+Ly
+
+Gr
+
+Mon
+
+Fig. 6. Glucocorticoid receptor (GCR)-blocker RU486 increases metanephrine plasma level 1 day after ischemia. (a) Cortisone and metanephrine levels of sham-operated,
+saline, b2-blocker (b2-AR-bl.), soybean oil or GCR blocker (GCR-bl.) treated fMCAO mice 1 day following surgery. Data are expressed as mean ± SD and analyzed by two-way
+ANOVA for surgery (SHAM vs. MCAO) and treatment (saline vs. b2-AR-bl vs. oil. Vs GCR-bl) followed by post hoc Tukey’s test for group comparison.  p < 0.05 vs. SHAM,
+⁄
+p < 0.05 vs. oil-treated MCAO, #p < 0.05 vs. b2-blocker treated MCAO (n = 6 values per group each pooled from 2 mice). (b) Expression of b2-adrenergic receptors (b2-AR) and
+GCRs in lymphocytes (Ly), granulocytes (Gr) and monocytes (Mon) after 18 h incubation with epinephrine or prednisolone. Data are normalized on untreated control,
+expressed as mean ± SD and analyzed by Student’s t-test for each leukocyte subset. ⁄p < 0.05 (n = 6 animals (spleens) per group).
+
+2003). The present study, however, demonstrates for the ﬁrst time
+selective b2-AR-dependent pathway for lymphocyte function in
+respect to IFN-c-secretion which is independent of glucocorticoid-induced lymphocyte necrosis. We did not investigate the
+mainly monocyte-derived cytokines TNF-a and IL-10. However,
+higher monocyte counts and increased IL-10 levels are predictors
+of post-stroke infections (Chamorro et al., 2006). Additionally,
+IL-10 inhibits IFN-c production by Th1 cells and suppresses T lymphocyte proliferation (Friedman et al., 1997) and therefore
+deserves further attention in post-stroke immunosuppression.
+The permissive effects of glucocorticoids on the effects of catecholamines in the heart have long been known (Seleznev Iu and
+Martynov, 1982). Glucocorticoids regulate b-AR density of heart
+muscle (Dangel et al., 1996) and pulmonary smooth muscle (Mak
+et al., 1995). However, potential interactions between the glucocorticoid and the catecholaminergic system had not been investigated so far after stroke and in terms of peripheral immune cells.
+In the present study, prednisolone decreased the expression of
+b2-ARs on lymphocytes in vitro which may render these cells less
+susceptible to catecholaminergic stimulation. Moreover, the higher
+catecholamine blood levels caused by the pharmacological
+blockade of GCR suggest a negative feedback mechanism of
+corticosteroids on the sympathetic axis. Similar observations were
+reported from surgical stress experiments where adrenalectomized animals had markedly elevated norepinephrine and dopamine responses to cholecystectomy which was decreased by
+cortisol administration (Udelsman et al., 1987). This interaction
+may have an important role in controlling the post-stroke stressreaction.
+
+Although glucocorticoids were mainly responsible for lymphocytopenia in the present study, the majority of previous studies
+attribute a more important role to the sympathetic system for
+the development of infectious complications. One study found that
+the incidence of pneumonia is lower in stroke patients taking betablockers on admission (Dziedzic et al., 2007). The present and a
+previous experimental study (Prass et al., 2003) suggest that the
+preservation of IFN-c production is a potential effector mechanism
+of beta-blockers responsible for less susceptibility to post-stroke
+infections. As a larger infarct size is correlated with a stronger
+endocrine response, in more extensive immunosuppression
+(Chamorro et al., 2007a; Haeusler et al., 2008; Hug et al., 2009;
+Liesz et al., 2009, 2013; Minnerup et al., 2010) and in a higher incidence of infections (Chamorro et al., 2007a; Haeusler et al., 2008;
+Heuschmann et al., 2004), patients with extensive infarcts should
+be regarded as the primary target of therapeutic interventions aiming to alleviate post-stroke immunosuppression and to prevent
+infectious complications.
+The major limitation of the present study is the use of pharmacological blockade of the SNS and HPA axis in vivo. Although we
+performed extensive in vitro experiments, effects of these agents
+beyond their impact on immune cells in in vivo experiments cannot
+be ruled out.
+In conclusion, mediators of the SNS and the HPA axis have differential and interactive effects on the systemic immune system
+after stroke. A better understanding of the complex interplay
+between both systems and potentially other signaling pathways
+is necessary to design interventions targeting the important consequences of post stroke immune dysregulation.
+
+E. Mracsko et al. / Brain, Behavior, and Immunity 41 (2014) 200–209
+
+Acknowledgments
+This study was supported by grants from the Deutsche Forschungsgemeinschaft (DFG; VE196/3-1) and the Else-Kröner Fresenius Foundation (2012/A118).
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.bbi.2014.05.015.
+References
+Chamorro, A., Amaro, S., Vargas, M., Obach, V., Cervera, A., Torres, F., Planas, A.M.,
+2006. Interleukin 10, monocytes and increased risk of early infection in
+ischaemic stroke. J. Neurol. Neurosurg. Psychiatry 77, 1279–1281.
+Chamorro, A., Amaro, S., Vargas, M., Obach, V., Cervera, A., Gomez-Choco, M., Torres,
+F., Planas, A.M., 2007. Catecholamines, infection, and death in acute ischemic
+stroke. J. Neurol. Sci. 252, 29–35.
+Chamorro, A., Urra, X., Planas, A.M., 2007. Infection after acute ischemic stroke: a
+manifestation of brain-induced immunodepression. Stroke 38, 1097–1103.
+Czlonkowska, A., Cyrta, B., Korlak, J., 1979. Immunological observations on patients
+with acute cerebral vascular disease. J. Neurol. Sci. 43, 455–464.
+Dangel, V., Giray, J., Ratge, D., Wisser, H., 1996. Regulation of beta-adrenoceptor
+density and mRNA levels in the rat heart cell-line H9c2. Biochem. J. 317 (Pt 3),
+925–931.
+Dziedzic, T., Slowik, A., Pera, J., Szczudlik, A., 2007. Beta-blockers reduce the risk of
+early death in ischemic stroke. J. Neurol. Sci. 252, 53–56.
+Eisenhofer, G., Rundquist, B., Aneman, A., Friberg, P., Dakak, N., Kopin, I.J., Jacobs,
+M.C., Lenders, J.W., 1995. Regional release and removal of catecholamines and
+extraneuronal metabolism to metanephrines. J. Clin. Endocrinol. Metab. 80,
+3009–3017.
+Eisenhofer, G., Keiser, H., Friberg, P., Mezey, E., Huynh, T.T., Hiremagalur, B.,
+Ellingson, T., Duddempudi, S., Eijsbouts, A., Lenders, J.W., 1998. Plasma
+metanephrines are markers of pheochromocytoma produced by catechol-Omethyltransferase within tumors. J. Clin. Endocrinol. Metab. 83, 2175–2185.
+Fassbender, K., Schmidt, R., Mossner, R., Daffertshofer, M., Hennerici, M., 1994.
+Pattern of activation of the hypothalamic-pituitary-adrenal axis in acute stroke.
+Relation to acute confusional state, extent of brain damage, and clinical
+outcome. Stroke 25, 1105–1108.
+Feibel, J.H., Hardy, P.M., Campbell, R.G., Goldstein, M.N., Joynt, R.J., 1977. Prognostic
+value of the stress response following stroke. JAMA 238, 1374–1376.
+Friedman, G., Jankowski, S., Marchant, A., Goldman, M., Kahn, R.J., Vincent, J.L., 1997.
+Blood interleukin 10 levels parallel the severity of septic shock. J. Crit. Care 12,
+183–187.
+Fuchs, B.A., Albright, J.W., Albright, J.F., 1988. Beta-adrenergic receptors on murine
+lymphocytes: density varies with cell maturity and lymphocyte subtype and is
+decreased after antigen administration. Cell. Immunol. 114, 231–245.
+Haeusler, K.G., Schmidt, W.U., Fohring, F., Meisel, C., Helms, T., Jungehulsing, G.J.,
+Nolte, C.H., Schmolke, K., Wegner, B., Meisel, A., Dirnagl, U., Villringer, A., Volk,
+H.D., 2008. Cellular immunodepression preceding infectious complications after
+acute ischemic stroke in humans. Cerebrovasc. Dis. 25, 50–58.
+Herve, J., Dubreil, L., Tardif, V., Terme, M., Pogu, S., Anegon, I., Rozec, B., Gauthier, C.,
+Bach, J.M., Blancou, P., 2013. Beta2-Adrenoreceptor agonist inhibits antigen
+cross-presentation by dendritic cells. J. Immunol. 190, 3163–3171.
+Heuschmann, P.U., Kolominsky-Rabas, P.L., Misselwitz, B., Hermanek, P., Leffmann,
+C., Janzen, R.W., Rother, J., Buecker-Nott, H.J., Berger, K., 2004. Predictors of inhospital mortality and attributable risks of death after ischemic stroke: the
+German Stroke Registers Study Group. Arch. Intern. Med. 164, 1761–1768.
+Hug, A., Dalpke, A., Wieczorek, N., Giese, T., Lorenz, A., Auffarth, G., Liesz, A.,
+Veltkamp, R., 2009. Infarct volume is a major determiner of post-stroke immune
+cell function and susceptibility to infection. Stroke 40, 3226–3232.
+Iadecola, C., Anrather, J., 2011. The immunology of stroke: from mechanisms to
+translation. Nat. Med. 17, 796–808.
+Ichikawa, Y., Yoshida, K., Kawagoe, M., Saito, E., Abe, Y., Arikawa, K., Homma, M.,
+1977. Altered equilibrium between cortisol and cortisone in plasma in thyroid
+dysfunction and inﬂammatory diseases. Metabolism 26, 989–997.
+Johansson, A., Olsson, T., Carlberg, B., Karlsson, K., Fagerlund, M., 1997.
+Hypercortisolism after stroke – partly cytokine-mediated? J. Neurol. Sci. 147,
+43–47.
+Klehmet, J., Harms, H., Richter, M., Prass, K., Volk, H.D., Dirnagl, U., Meisel, A., Meisel,
+C., 2009. Stroke-induced immunodepression and post-stroke infections: lessons
+from the preventive antibacterial therapy in stroke trial. Neuroscience 158,
+1184–1193.
+Kohm, A.P., Sanders, V.M., 2001. Norepinephrine and beta 2-adrenergic receptor
+stimulation regulate CD4+ T and B lymphocyte function in vitro and in vivo.
+Pharmacol. Rev. 53, 487–525.
+Lahteenmaki, P., Heikinheimo, O., Croxatto, H., Spitz, I., Shoupe, D., Birgerson, L.,
+Luukkainen, T., 1987. Pharmacokinetics and metabolism of RU 486. J. Steroid
+Biochem. 27, 859–863.
+
+209
+
+Liesz, A., Hagmann, S., Zschoche, C., Adamek, J., Zhou, W., Sun, L., Hug, A., Zorn, M.,
+Dalpke, A., Nawroth, P., Veltkamp, R., 2009. The spectrum of systemic immune
+alterations after murine focal ischemia: immunodepression versus
+immunomodulation. Stroke 40, 2849–2858.
+Liesz, A., Ruger, H., Purrucker, J., Zorn, M., Dalpke, A., Mohlenbruch, M., Englert, S.,
+Nawroth, P.P., Veltkamp, R., 2013. Stress mediators and immune dysfunction in
+patients with acute cerebrovascular diseases. PLoS ONE 8, e74839.
+Macrez, R., Ali, C., Toutirais, O., Le Mauff, B., Defer, G., Dirnagl, U., Vivien, D., 2011.
+Stroke and the immune system: from pathophysiology to new therapeutic
+strategies. Lancet Neurol. 10, 471–480.
+Mak, J.C., Nishikawa, M., Shirasaki, H., Miyayasu, K., Barnes, P.J., 1995. Protective
+effects of a glucocorticoid on downregulation of pulmonary beta 2-adrenergic
+receptors in vivo. J. Clin. Invest. 96, 99–106.
+Marra, S., Burnett, M., Hoffman-Goetz, L., 2005. Intravenous catecholamine
+administration affects mouse intestinal lymphocyte number and apoptosis. J.
+Neuroimmunol. 158, 76–85.
+Meisel, C., Meisel, A., 2011. Suppressing immunosuppression after stroke. N. Engl. J.
+Med. 365, 2134–2136.
+Meisel, C., Schwab, J.M., Prass, K., Meisel, A., Dirnagl, U., 2005. Central nervous
+system injury-induced immune deﬁciency syndrome. Nat. Rev. Neurosci. 6,
+775–786.
+Minnerup, J., Wersching, H., Brokinkel, B., Dziewas, R., Heuschmann, P.U., Nabavi,
+D.G., Ringelstein, E.B., Schabitz, W.R., Ritter, M.A., 2010. The impact of lesion
+location and lesion size on poststroke infection frequency. J. Neurol. Neurosurg.
+Psychiatry 81, 198–202.
+Molinoff, P.B., Aarons, R.D., 1983. Effects of drugs on beta-adrenergic receptors on
+human lymphocytes. J. Cardiovasc. Pharmacol. 5 (Suppl 1), S63–S67.
+Offner, H., Subramanian, S., Parker, S.M., Wang, C., Afentoulis, M.E., Lewis, A.,
+Vandenbark, A.A., Hurn, P.D., 2006. Splenic atrophy in experimental stroke is
+accompanied by increased regulatory T cells and circulating macrophages. J.
+Immunol. 176, 6523–6531.
+Olsson, T., 1990. Urinary free cortisol excretion shortly after ischaemic stroke. J.
+Intern. Med. 228, 177–181.
+Olsson, T., Marklund, N., Gustafson, Y., Nasman, B., 1992. Abnormalities at different
+levels of the hypothalamic-pituitary-adrenocortical axis early after stroke.
+Stroke 23, 1573–1576.
+Prass, K., Meisel, C., Hoﬂich, C., Braun, J., Halle, E., Wolf, T., Ruscher, K., Victorov, I.V.,
+Priller, J., Dirnagl, U., Volk, H.D., Meisel, A., 2003. Stroke-induced
+immunodeﬁciency promotes spontaneous bacterial infections and is mediated
+by sympathetic activation reversal by poststroke T helper cell type 1-like
+immunostimulation. J. Exp. Med. 198, 725–736.
+Prass, K., Braun, J.S., Dirnagl, U., Meisel, C., Meisel, A., 2006. Stroke propagates
+bacterial aspiration to pneumonia in a model of cerebral ischemia. Stroke 37,
+2607–2612.
+Pratt, W.B., Gehring, U., Toft, D.O., 1996. Molecular chaperoning of steroid hormone
+receptors. EXS 77, 79–95.
+Radojcic, T., Baird, S., Darko, D., Smith, D., Bulloch, K., 1991. Changes in betaadrenergic receptor distribution on immunocytes during differentiation: an
+analysis of T cells and macrophages. J. Neurosci. Res. 30, 328–335.
+Ramer-Quinn, D.S., Baker, R.A., Sanders, V.M., 1997. Activated T helper 1 and T
+helper 2 cells differentially express the beta-2-adrenergic receptor: a
+mechanism for selective modulation of T helper 1 cell cytokine production. J.
+Immunol. 159, 4857–4867.
+Sander, D., Winbeck, K., Klingelhofer, J., Etgen, T., Conrad, B., 2001. Prognostic
+relevance of pathological sympathetic activation after acute thromboembolic
+stroke. Neurology 57, 833–838.
+Schoenborn, J.R., Wilson, C.B., 2007. Regulation of interferon-gamma during innate
+and adaptive immune responses. Adv. Immunol. 96, 41–101.
+Schwarz, S., Schwab, S., Klinga, K., Maser-Gluth, C., Bettendorf, M., 2003.
+Neuroendocrine changes in patients with acute space occupying ischaemic
+stroke. J. Neurol. Neurosurg. Psychiatry 74, 725–727.
+Seleznev Iu, M., Martynov, A.V., 1982. Permissive effect of glucocorticoids in
+catecholamine action in the heart: possible mechanism. J. Mol. Cell. Cardiol. 14
+(Suppl. 3), 49–58.
+Tamura, A., Graham, D.I., McCulloch, J., Teasdale, G.M., 1981. Focal cerebral
+ischaemia in the rat: 1. Description of technique and early neuropathological
+consequences following middle cerebral artery occlusion. J. Cereb. Blood Flow
+Metab. 1, 53–60.
+Tuckermann, J.P., Kleiman, A., McPherson, K.G., Reichardt, H.M., 2005. Molecular
+mechanisms of glucocorticoids in the control of inﬂammation and lymphocyte
+apoptosis. Crit. Rev. Clin. Lab. Sci. 42, 71–104.
+Udelsman, R., Goldstein, D.S., Loriaux, D.L., Chrousos, G.P., 1987. Catecholamineglucocorticoid interactions during surgical stress. J. Surg. Res. 43, 539–545.
+Woiciechowsky, C., Schoning, B., Daberkow, N., Asche, K., Stoltenburg, G., Lanksch,
+W.R., Volk, H.D., 1999a. Brain-IL-1beta induces local inﬂammation but systemic
+anti-inﬂammatory response through stimulation of both hypothalamicpituitary-adrenal axis and sympathetic nervous system. Brain Res. 816, 563–571.
+Woiciechowsky, C., Schoning, B., Lanksch, W.R., Volk, H.D., Docke, W.D., 1999b.
+Mechanisms of brain-mediated systemic anti-inﬂammatory syndrome causing
+immunodepression. J. Mol. Med. (Berl) 77, 769–780.
+Wong, C.H., Jenne, C.N., Lee, W.Y., Leger, C., Kubes, P., 2011. Functional innervation
+of hepatic iNKT cells is immunosuppressive following stroke. Science 334, 101–
+105.
+
+

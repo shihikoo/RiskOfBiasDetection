@@ -1,0 +1,839 @@
+Brain, Behavior, and Immunity 40 (2014) 131–142
+
+Contents lists available at ScienceDirect
+
+Brain, Behavior, and Immunity
+journal homepage: www.elsevier.com/locate/ybrbi
+
+Improvement of functional recovery by chronic metformin
+treatment is associated with enhanced alternative activation
+of microglia/macrophages and increased angiogenesis and neurogenesis
+following experimental stroke
+Qin Jin a,1, Jian Cheng b,c,1, Yang Liu a, Jian Wu a, Xiaoyu Wang a, Shanwen Wei b, Xiaomei Zhou b,
+Zhenghong Qin a, Jia Jia a,⇑, Xuechu Zhen a,⇑
+a
+
+Jiangsu Key Laboratory of Translational Research and Therapy for Neuro-Psycho-Diseases and College of Pharmaceutical Sciences, Soochow University, Suzhou, Jiangsu 215021, China
+Institute of Neuroscience, Soochow University, Suzhou, China
+c
+The Second Afﬁliated Hospital of Soochow University, Soochow University, Suzhou, China
+b
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 13 August 2013
+Received in revised form 5 March 2014
+Accepted 6 March 2014
+Available online 12 March 2014
+Keywords:
+Microglia/macrophages
+Polarization
+Metformin
+Functional recovery
+Stroke
+
+a b s t r a c t
+Acute AMPK activation exacerbates ischemic brain damage experimentally. Paradoxically, the clinical use
+of an AMPK activator metformin reduces the incidence of stroke. We investigated whether post-stroke
+chronic metformin treatment promotes functional recovery and tissue repair via an M2-polarization
+mechanism following experimental stroke. Mice were randomly divided to receive metformin or vehicle
+daily beginning at 24 h after middle cerebral artery occlusion (MCAO). Neurological deﬁcits were
+monitored for 30 days following MCAO. To characterize the polarization of the microglia and inﬁltrating
+macrophages, the expression of the M1 and M2 signature genes was analyzed with qPCR, ELISA and
+immunohistochemistry. Post-MCAO angiogenesis and neurogenesis were examined immunohistochemically. An in vitro angiogenesis model was employed to examine whether metformin promoted angiogenesis in a M2 polarization-dependent manner. Post-stroke chronic metformin treatment had no impact on
+acute infarction but enhanced cerebral AMPK activation, promoted functional recovery and skewed the
+microglia/macrophages toward an M2 phenotype following MCAO. Metformin also signiﬁcantly
+increased angiogenesis and neurogenesis in the ischemic brain. Consistently, metformin-induced M2
+polarization of BV2 microglial cells depended on AMPK activation in vitro. Furthermore, treatment of
+brain endothelial cells with conditioned media collected from metformin-polarized BV2 cells promoted
+angiogenesis in vitro. In conclusion, post-stroke chronic metformin treatment improved functional
+recovery following MCAO via AMPK-dependent M2 polarization. Modulation of microglia/macrophage
+polarization represents a novel therapeutic strategy for stroke.
+Ó 2014 Elsevier Inc. All rights reserved.
+
+1. Introduction
+Metformin is a drug that is widely used for the treatment of
+type 2 diabetes and is well-recognized as an activator of adenosine
+50 -monophosphate-activated protein kinase (AMPK) (Zhou et al.,
+2001). AMPK serves as a sensor of energy balance and is activated
+in response to low energy supply (Hardie, 2011a,b). AMPK
+expression is abundant in the brain, and cerebral AMPK is rapidly
+⇑ Corresponding authors. Tel.: +86 512 65881160; fax: +86 512 65880369 (J. Jia).
+Tel./fax: +86 512 65880369 (X. Zhen).
+E-mail addresses: jialijia8@sina.com (J. Jia), zhenxuechu@suda.edu.cn (X. Zhen).
+1
+Authors contributed equally to this work.
+http://dx.doi.org/10.1016/j.bbi.2014.03.003
+0889-1591/Ó 2014 Elsevier Inc. All rights reserved.
+
+activated in response to cerebral ischemia (McCullough et al.,
+2005). Both pharmacological inhibitors and genetic deletion of
+AMPK have been shown to confer acute neuroprotection following
+experimental stroke (McCullough et al., 2005; Li et al., 2007; Li and
+McCullough, 2010). These ﬁndings seem to indicate that AMPK
+activation has a deleterious role in stroke pathogenesis. However,
+epidemiological studies have shown that chronic metformin
+treatment for diabetes is associated with reductions in stroke risk
+and severity and that these effects are independent of the drug’s
+glucose-lowering effects (Selvin and Hirsch, 2008; Anon., 1998).
+Additionally, the effects of metformin following experimental
+stroke remain controversial. It has been reported that acute
+administration of metformin prior to ischemia exacerbates acute
+
+132
+
+Q. Jin et al. / Brain, Behavior, and Immunity 40 (2014) 131–142
+
+infarct damage, whereas post-ischemic chronic metformin administration reduces brain atrophy after experimental stroke (Li et al.,
+2010). However, the underlying mechanisms of these effects are
+largely unknown.
+Currently, the effects of AMPK activation on stroke outcomes
+are almost exclusively attributed to a neuronal mechanism (Li
+and McCullough, 2010; Manwani and McCullough, 2013). It has
+been suggested that AMPK activation leads to progressive acidosis
+following cerebral ischemia and thus ampliﬁes ischemic neuronal
+death (Li and McCullough, 2010; Li et al., 2010; Manwani and
+McCullough, 2013). However, it is well accepted that stroke
+outcomes, particularly long-term functional recovery, are not
+solely determined by acute neuronal loss (Saver, 2010a,b). Thus,
+whether other mechanisms account for the beneﬁcial effects of
+chronic metformin treatment of stroke outcomes remains to be
+investigated.
+In addition to serving as a sensor of energy balance, AMPK is a
+regulator of the functional phenotypes of microglia/macrophages
+(Sag et al., 2008; Lu et al., 2010). In response to microenvironment
+signals, microglia/macrophages are highly plastic and assume different functional phenotypes that critically inﬂuence the damage
+and tissue repair that occurs following injury (O’Neill and Hardie,
+2013; Mantovani et al., 2013; David and Kroner, 2011). For example, the brain-resident microglia and peripheral macrophages that
+inﬁltrate the ischemic brain following cerebral ischemia transiently assume M2 phenotype and subsequently assume long-term
+M1 phenotype (Hu et al., 2012). M1 polarized microglia exacerbate
+neuronal death, while M2 polarized microglia protect neurons
+against in vitro ischemia (Hu et al., 2012). Moreover, the available
+evidence suggests that M1 macrophages/microglia are deleterious
+to tissue recovery following injury, while mounting evidence suggests that M2 macrophages/microglia enhance post-injury tissue
+repair (Mantovani et al., 2013; Kigerl et al., 2009). Although metformin is well recognized as an AMPK-activator that promotes
+the M2 polarization of macrophages (Kato et al., 2010; Nath
+et al., 2009; Tsoyi et al., 2011), whether metformin beneﬁcially
+affects long-term stroke outcomes via an M2 polarization mechanism remains unclear.
+
+2. Methods
+2.1. Experimental stroke
+All animal experiments and surgical procedures were approved
+by the Animal Care and Use Committee of Soochow University.
+Male CD-1 mice weighing 25–30 g were purchased from SLAC Laboratory Animals (Shanghai, China). The mice were housed under in
+a controlled-temperature environment under a 12-h light/dark cycle and allowed free access to food and water. Cerebral ischemia
+was induced by reversible middle cerebral artery occlusion
+(MCAO) via an intraluminal suture technique as described in previous publications (Mao et al., 2013; Zhu et al., 2010). Brieﬂy, the
+mice were anesthetized with isoﬂurane, and their body temperatures were maintained at 37.0 ± 0.5 °C with warming pads. A laser
+Doppler probe was afﬁxed to the skull to monitor cortical perfusion
+to verify the occlusion and reperfusion. A skin incision was made to
+expose right common carotid and external and internal carotid
+arteries. A silicon-coated nylon monoﬁlament with a heat-blunted
+tip (diameter 0.22 ± 0.02 mm) was inserted into the right internal
+carotid artery via the external carotid artery until the tip of the ﬁlament reached the origin of the middle cerebral artery as indicated
+by an abrupt drop in cortical perfusion as measured by laser Doppler ﬂowmetry (<30% of the baseline). After securing the ﬁlament,
+the surgical site was closed, and the mice were returned to a clean
+cage. Sixty minutes after occlusion, the ﬁlament was withdrawn to
+
+allow for reperfusion. Sham-operated mice received identical surgeries with the exception that the ﬁlament was not inserted.
+2.2. Animal groups
+Twenty-four hours after MCAO, mice were randomly divided
+into two groups that received either intraperitoneal (IP) injections
+of metformin (50 mg/kg/day) or injections of equal volumes of saline (NS) until sacriﬁce. The mice were sacriﬁced at 3, 7, 14 and
+30 days after MCAO for the in vivo experiments as speciﬁcally indicated. To investigate the effects of metformin on neurogenesis
+in vivo, another cohort of mice received metformin (50 mg/kg/day)
+or saline daily starting 24 h after MCAO and were further treated
+with 5-bromo-20 -deoxyuridine-50 -monophosphate (BrdU) to label
+dividing cells. BrdU (50 mg/kg) was injected intraperitoneally
+twice daily for 7 days beginning at 24 h after MCAO. The BrdUinjected mice were sacriﬁced 14 days after MCAO, and their
+brains were collected to assess neurogenesis. The mortality rates
+of metformin- and saline-treated mice over the 30-day and
+14-day schedules are shown in Supplemental Fig. 1.
+2.3. Behavioral testing
+Modiﬁed neurological severity scores (mNSSs) were assessed to
+evaluate neurological deﬁcits over the 30 days after MCAO as described in our previous publication (Mao et al., 2013). Brieﬂy,
+mNSSs were graded on a scale of 0–18, and the scores were
+awarded when mice were unable to perform the tests or lacked
+the tested reﬂexes as described in detail in Supplemental Table 1.
+The higher the scores, the more severe the injury was.
+The Corner test was used to assess MCAO-induced sensorimotor
+abnormalities as described previously (Zhang et al., 2002). Brieﬂy, a
+corner was made with an angle of 30° using two cardboard pieces
+each with dimensions of 30  20  1 cm3. The mice were forced to
+enter the corner. When the mice entered deep into the corner, both
+sides of the vibrissae were stimulated. This caused the mice to rear
+and turn back to the open end. Non-ischemic mice turned either
+left or right, but the MCAO mice preferentially turned toward the
+non-impaired (right) side. The numbers of left and right over ten
+trials were recorded.
+The rotarod test was used to examine balance and coordination
+deﬁcits in the MCAO mice as previously described (Lee et al., 2004).
+The mice were placed onto the rungs of the accelerating rotarod.
+The speed was increased slowly from 5 to 40 rpm. The time that
+mice remained on the rotarod was measured. A trial ended when
+the animal fell or jumped off the rod. The animals were trained
+for 3 days prior to MCAO to obtain stable baselines. The animals
+were allowed to recover in their home cages for at least 15 min before a new trial was started. The mean duration (in seconds) over
+three individual trials was recorded.
+2.4. Histological assessment of brain damage following MCAO
+We evaluated acute infarct volumes 4 days after MCAO using
+triphenyl-2,3,4-tetrazolium-chloride (TTC) histology. The mice
+were treated with metformin or saline daily beginning 24 h after
+MCAO. The brains were collected 4 days after MCAO and cut into
+four 2-mm-thick slices. The slices were incubated in saline containing 1% TTC (Sigma, St. Louis, MO) at 37 °C for 5 min for each
+side. Next, the slices were ﬁxed in PB buffer containing 10% formaldehyde for 24 h. The slices were photographed, and infarct sizes
+were analyzed across all slices using digital image analysis software (SigmaScan Pro, Jandel, San Rafael, CA).
+To assess the histological damage 30 days after MCAO, we
+examined the degree of cortical cavitation. The mice were treated
+with metformin or saline daily beginning 24 h after MCAO. Thirty
+
+Q. Jin et al. / Brain, Behavior, and Immunity 40 (2014) 131–142
+
+days after MCAO, the brains were collected to assess of the degree
+of cortical cavitation using ‘cortical width index’ as described previously (Taguchi et al., 2004; Zhao et al., 2006). Brieﬂy, whole-brain
+images were captured. The distance from the edge of cortical cavitation to the midline on the ischemic hemisphere and the distance
+from the lateral edge to the midline on the contralateral side were
+measured. All measurements were performed at the midpoint of
+the forebrain. The cortical width index was calculated by dividing
+the edge-to-midline distance on the ischemic side by that on the
+contralateral side.
+2.5. Real-time PCR
+Real-time PCR was performed to examine the mRNA expression
+of the M1 and M2 signature genes in the ischemic brain. Because
+the ipsilateral striatum is the region in which repair is thought to
+occur following MCAO, we harvested tissue from the ipsilateral
+and contralateral striatum at 3, 7, 14 and 30 days after MCAO as
+we have previously reported (Mao et al., 2013). Tissue samples
+were snap-frozen with liquid nitrogen and stored at 80 °C until
+use. Total RNA was isolated from the tissue samples using Trizol
+reagent (Takara, Shiga, Japan) following the manufacturer’s
+instructions. First strand cDNAs were reverse transcribed from
+1 lg total RNA with a High Capacity cDNA Archive Kit (Applied Biosystems, Foster City, CA). qPCR reactions were performed in triplicate on an ABI Prism 7500 sequence detection system using 50 ng
+cDNA. The parameters for qPCR were as follows: incubation at
+50 °C for 2 min, denaturing at 95 °C for 10 min, followed by 40 cycles of 95 °C for 15 s, and 60 °C for 1 min. The sequences of the PCR
+primers for each gene were as follows: CD32 (forward primer:
+50 -AATCCTGCCGTTCCTACTGATC-30 ; reverse primer: 50 -GTGTCACCGT
+GTCTTCCTTGAG-30 ); IL-1b (forward primer: 50 -CAGGCTCCGAGATG
+AACAAC-30 ; reverse primer: 50 -GGTGGAGAGCTTTCAGCTCATA-30 );
+CD206 (forward primer: 50 -TCTTTGCCTTTCCCAGTCTCC-30 ; reverse
+primer: 50 -TGACACCCAGCGGAATTTC-30 ); and arginase 1 (forward
+primer: 50 -GAACACGGCAGTGGCTTTAAC-30 ; reverse primer: 50 -TG
+CTTAGCTCTGTCTGCTTTGC-30 ). We also assayed the 18S RNA from
+each sample using 5 ng of total cDNA. The ﬁnal results were
+normalized to 18S RNA and are expressed as the ratios of the target
+genes to 18S.
+2.6. Immunohistochemistry
+At 3 and 14 days after MCAO, the mice were deeply anesthetized and transcardially perfused with saline, followed by ﬁxation
+with buffered paraformaldehyde (4%). The brains were collected,
+post-ﬁxed in 4% paraformaldehyde and further treated with 30%
+sucrose solution overnight. The brain blocks that surrounded the
+ischemic lesion (+1.18 to 0.10 mm from bregma) were cut into
+15-lm-thick coronal sections with a cryostat for single or double
+immunoﬂuorescent staining. The sections were blocked with PBS
+containing 3% BSA, 10% goat serum and 0.3% Triton-X100. Next,
+the sections were incubated overnight at 4 °C with the following
+primary antibodies: rat-anti-CD16/32 (BD Biosciences Pharmingen,
+CA, USA), goat-anti-CD206 (R&D Systems, MN, USA), rat-anti-CD31
+(BD Biosciences Pharmingen, CA, USA), rabbit-anti-P-AMPK (Santa
+Cruz, CA, USA), and goat anti-Iba1 (Abcam, Cambridge, UK). The
+expressions of CD16/32, CD206, P-AMPK and Iba1 were ﬁnally detected with secondary antibodies conjugated to Alexa Fluor (Invitrogen, Carlsbad, CA, USA). For CD31 immunostaining, after probing
+with the primary antibodies, the sections were incubated with a
+biotin-labeled secondary donkey-anti-rat IgG antibody followed
+by incubation with Cy2-conjugated streptavidin (Jackson Immunoresearch Laboratories Inc., West Grove, PA, USA). To assess microvessel density, we also used lectin to stain the vascular structures
+as previously described (Jiang et al., 2011). Brieﬂy, the sections
+
+133
+
+were directly incubated with ﬂuorescein-conjugated lectin (1:
+200; Sigma, St Louis, MO, USA) overnight and then washed.
+Quantiﬁcation of the immunostaining was performed as described in detail in our previous publication with slight modiﬁcations (Mao et al., 2013). Brieﬂy, 15-lm coronal sections were cut
+from the brain blocks that were centered on the ischemic lesion
+(+1.18 to 0.10 mm from bregma). Every 10th section was collected for quantiﬁcation, which resulted in a total of 6 sections.
+Each section contained four pre-assigned ﬁelds in the striatal
+penumbra that were adjacent to the ischemic core. The images
+were digitized (Olympus IX51, Japan) using a CCD-color video system interfaced with the imaging analysis system (Image-Pro plus
+6.0, Media Cybernetics, USA). The data are expressed as the
+number of positive cells per unit area of analyzed tissue; i.e.,
+cells/0.16 mm2.
+2.7. Measurement of IL-10 and IL-4 with Enzyme-Linked
+Immunosorbent Assay (ELISA)
+To measure IL-4 and IL-10 in the ischemic brains, tissue samples
+were collected from the ipsilateral and contralateral striatum and
+the striatum of the sham-operated mice. Each tissue sample was
+homogenized in 1 mL of RIPA buffer supplemented with a protease
+inhibitor mixture (Roche, Mannheim, Germany). The homogenates
+were centrifuged at 12,000 rpm for 20 min at 4 °C, and the supernatants were collected. The protein concentrations of the supernatants were measured using a commercial BCA protein assay kit
+(Tiangen, Beijing, China). IL-4 and IL-10 were measured with commercial ELISA kits (Boster Biosciences Co., Wuhan, China) according to the manufacturer’s instructions. Analyses were performed
+using a Microplate Reader (Inﬁnite M200 PRO, Tecan, Switzerland).
+2.8. Assessment of neurogenesis following MCAO
+Neurogenesis was assessed by counting the newborn neurons
+14 days after MCAO. To label the newborn neurons, metformin or
+saline-treated mice received intraperitoneal injections of the thymidine analog BrdU (50 mg/kg) twice daily for 7 days beginning
+24 h after MCAO. Fourteen days after MCAO, the mice were deeply
+anesthetized and transcardially perfused ﬁrst with saline then with
+by 4% paraformaldehyde. The brains were cut into 20-lm coronal
+sections. For immunohistochemical assessment of the cells that
+were double-labeled for BrdU and doublecortin (DCX, a speciﬁc
+marker of newborn neurons), the sections were incubated with
+1 N HCl for 30 min at 45 °C as an antigen retrieval step. Next, the
+sections were sequentially blocked and probed with primary antibodies against BrdU (1:50; Abcam, Cambridge, UK) and DCX
+(1:300; Santa Cruz, CA, USA) followed by incubation with the corresponding secondary antibodies using the protocols described
+above. For quantiﬁcation, the newborn neurons in the subventricular zones (SVZs) of six brain slices per animal were evaluated in a
+blinded fashion (SVZ: +1.18 to 0.10 mm from bregma; the ﬁrst
+slice was randomly selected). The cryostat sections were imaged
+with a confocal microscope (Nikon TE2000, Tokyo, Japan). The cells
+that were positive for BrdU+ and DCX+ (i.e., newborn neuroblasts)
+were counted in the dorsolateral subventricular zone and the
+lateral ventricle wall. The results are expressed as the number
+of BrdU+ DCX+ cells per unit area of analyzed tissue; i.e., cells/
+0.16 mm2.
+2.9. Western blot
+Western blot was performed to examine effects of metformin
+on AMPK activation in the ischemic brains and in the LPS-stimulated BV2 microglial cells. Brain tissue samples were harvested
+from the ipsilateral and contralateral striatum at 3 and 14 days
+
+134
+
+Q. Jin et al. / Brain, Behavior, and Immunity 40 (2014) 131–142
+
+after MCAO as previously described (Mao et al., 2013). The tissue
+samples were snap-frozen with liquid nitrogen and stored at
+80 °C until use. Each tissue sample was homogenized in 1 ml of
+RIPA buffer supplemented with a protease inhibitor mixture
+(Roche, Mannheim, Germany) and a phosphatase inhibitor mixture
+(Roche, Mannheim, Germany). The homogenates obtained from the
+tissues were centrifuged at 12,000 rpm for 20 min at 4 °C, and the
+supernatants were collected. The protein concentrations were
+measured with a BCA protein assay kit (Tiangen, Beijing, China).
+The protein samples (30 lg) were electrophoresed on 10% SDS gels
+after denaturation and then transferred onto 0.45-lm nitrocellulose membranes. The membranes were blocked in 5% nonfat milk
+in TBS and then probed with primary antibodies against AMPK
+(1:1000) and phosphorylated AMPK (p-AMPK, 1:1000), which were
+purchased from Cell Signaling (Beverly, MA, USA). After overnight
+incubation at 4 °C, the membranes were washed three times with
+PBS and probed with the following appropriate secondary antibodies for 1 h at room temperature: anti-rabbit IgG HRP-linked antibody (1:2000), or anti-mouse IgG HRP-linked antibody (1:2000).
+The protein bands were visualized with a Kodak imaging system
+using a SuperSignal West Pico chemiluminescence kit (Pierce,
+Rockford, IL, USA). b-actin was used as a loading control. The optical densities of the protein bands were semi-quantiﬁed with Image
+J software, and the ﬁnal results are expressed as the ratios of the
+phosphorylated proteins to the total proteins.
+2.10. BV2 cell culture and characterization of microglial polarization
+in vitro
+Murine microglial BV2 cells were used to characterize the
+in vitro effects of metformin on microglial AMPK activation and
+polarization. Additionally, we collected conditioned media from
+the BV-2 cells and used a medium transfer approach to investigate
+whether metformin promoted angiogenesis in a M2 polarizationdependent manner in vitro. The BV2 cells were cultured in DMEM
+containing 10% fetal bovine serum at 37 °C in an atmosphere containing air supplemented with 5% CO2. Conﬂuent cells were trypsinized and passaged twice a week. The effects of metformin on
+AMPK activation in the BV2 cells were analyzed using western blot.
+In brief, the BV2 cells were seeded onto 6-well plates overnight and
+then treated with LPS (100 ng/ml) plus metformin (1 mM) or saline. At 0.5, 1, 2, 4, or 8 h after treatment, the BV2 cells were homogenized with RIPA buffer supplemented with a protease inhibitor
+mixture and a phosphatase inhibitor mixture. Western blot was
+then performed as described earlier.
+The polarization of the BV2 cells was characterized by assessing
+the production of the M1 mediator nitric oxide (NO) and the M2
+mediator IL-10. Microglial production of the M1 mediator NO, as
+indicated by the accumulation of nitrite released into the culture
+media, was measured 24 h after treatment with LPS (100 ng/mL,
+Sigma, St Louis, MO, USA) in the presence or absence of metformin
+(1 mM). The culture supernatants were collected for nitrite measurement as previously described (Hu et al., 2007). Brieﬂy,
+100 lL Griess reagent was mixed with 50 lL cell culture medium
+in 96-well plates. Absorbance was measured at 520 nm with a
+microplate reader (Inﬁnite M200 PRO, Tecan, Switzerland). Nitrite
+concentrations were calculated from a standard curve.
+To measure the IL-10 production of the BV2 cells, the culture
+media were collected from the BV2 cells that were treated with
+LPS (100 ng/ml) plus metformin (1 mM) or saline in the presence
+or absence of the AMPK inhibitor compound C (5 lM) at 24 h after
+LPS treatment. The same ELISA kit described above was used to
+measure the IL-10 concentrations in the culture media. Because
+LPS induced the proliferation of the BV2 cells, and this proliferation
+was inhibited by metformin, we used 3-(4, 5-Dimethylthiazol2-yl)-2, 5-diphenyltetrazolium bromide (MTT) assay to assess the
+
+relative densities of the viable cells from each group. The ﬁnal
+IL-10 concentrations in the culture media were normalized to the
+densities of the viable cells as assessed with MTT.
+2.11. In vitro angiogenesis
+Microglial conditioned medium (DM) was collected from BV2
+cells that were treated with LPS plus metformin or saline 24 h after
+treatment. The media were also collected from the BV2 cells that
+were not treated as control media. The pro-angiogenic effects of
+the DMs were assayed as previously described (Zhang et al.,
+2006). Brieﬂy, the brain microvascular endothelial bEend3 cells
+(26,000 cells/well) were suspended in the above-mentioned DMs
+and plated into 96-well plates that were pre-coated with Matrigel
+(BD Biosciences Pharmingen, CA, USA). After 24 h of incubation, the
+total numbers of the pro-angiogenic tube structures were quantiﬁed. The ﬁnal results are presented as the total number of proangiogenic structures/well.
+2.12. Statistical analysis
+The data are presented as the means ± the standard deviation
+(SDs) with the exception of the neurological scores and the corner
+test data, which are expressed as the medians ± the ranges.
+Statistical analyses were conducted using SPSS16.0. Comparisons
+between two groups were performed using Student’s t-tests.
+Statistical comparisons between multiple groups were performed
+using one-way ANOVAs with Tukey’s post hoc tests. The neurological scores and the corner test data were analyzed with
+Mann–Whitney rank sum tests. The other behavioral data and
+blood glucose levels were analyzed with repeated-measures
+ANOVA. P < 0.05 was considered statistically signiﬁcant.
+3. Results
+3.1. Post-stroke chronic metformin treatment improved functional
+recovery following MCAO
+Although acute metformin administration prior to stroke increases acute infarct damage (Li et al., 2010), the effects of poststroke chronic metformin treatment on the long-term functional
+outcomes following stroke have not been investigated. To minimize the deleterious effects of metformin on acute infarct damage
+and to mimic the clinically relevant therapeutic windows, we
+administered metformin daily beginning 24 h after MCAO. We
+found that delayed metformin treatment did not reduce acute
+infarction 4 days after MCAO compared to saline treatment
+(Fig. 1A). However, we observed that the cavitation of the infarcted
+cortex was signiﬁcantly reduced in the metformin-treated mice
+compared to the saline-treated mice 30 days after MCAO (Fig. 1B,
+p < 0.05). We also monitored blood glucose levels over the 14 days
+following MCAO. No signiﬁcant differences in blood glucose levels
+between the metformin- and saline-treated mice were detected
+(Supplemental Fig. 2).
+Next, we investigated whether metformin promoted functional
+recovery following stroke. mNSSs were assessed, and the corner
+and rota-rod tests were performed to monitor the neurological deficits of the MCAO mice over a period of 30 days following MCAO.
+The mNSS results revealed that the neurological deﬁcits of the
+metformin- and saline-groups were equivalent at the initiation of
+metformin treatment 24 h after MCAO (Fig. 1C). At 13, 27 and
+29 days after MCAO, the metformin-treated mice displayed significantly lower mNSSs than did the saline-treated MCAO mice. The
+corner test was performed to monitor post-MCAO sensorimotor
+and postural asymmetries. Prior to MCAO, the mice performed
+
+Q. Jin et al. / Brain, Behavior, and Immunity 40 (2014) 131–142
+
+135
+
+Fig. 1. Post-stroke chronic treatment of metformin improved functional recovery from MCAO in mice. (A) Metformin did not reduce acute infarction at 4 days after MCAO.
+Infarct volumes were assessed with TTC histology in normal saline (NS)-treated mice and metformin-treated mice (n = 7 for each group). CTX, cortex; CP, striatum; HEMI,
+hemisphere; CORRCET, hemisphere infarction corrected for edema. (B) Metformin decreased cortical cavitation at 30 days after MCAO (n = 8 for NS group; n = 9 for metformin
+group). (C) Modiﬁed neurological severity scores (mNSS) were signiﬁcantly lower in metformin-treated vs. saline-treated mice at 13, 27 and 29 days following MCAO (n = 12
+per group). (D) Metformin improved sensorimotor asymmetric abnormalities of MCAO mice in the corner test from 13 days after MCAO (n = 12 per group). (E) From 14 days
+after MCAO, the time that metformin-treated mice remained on the rotarod was signiﬁcantly longer than the time that saline-treated mice did on the rotarod (n = 12 per
+group). ⁄p < 0.05 compared to the saline (NS)-treated group.
+
+approximately the same number of turns to either side. After
+MCAO, the saline-treated mice exhibited a signiﬁcant increase in
+the number of right turns during the experimental periods that
+were conducted over the 30 days that followed MCAO. Compared
+to saline, metformin signiﬁcantly improved the behavioral asymmetries of the MCAO mice in the corner test beginning 13 days
+after MCAO (Fig. 1D). The metformin-treated mice also performed
+better than the vehicle-treated mice in the rotarod test beginning
+14 days after MCAO (Fig. 1E). Collectively, the behavioral data suggested that post-stroke chronic treatment with metformin signiﬁcantly promoted functional recovery.
+3.2. Metformin treatment promoted the polarization of the microglia/
+macrophages toward the M2 phenotype in the ischemic brain
+The M1 or M2 polarizations of microglia/macrophages are commonly characterized by the expression of the signature genes that
+are associated with the M1 or M2 phenotype. It has been reported
+that MCAO signiﬁcantly increases the expression of M1 signature
+genes in the ischemic brain beginning 3 days after MCAO and that
+this increase lasts over 14 days after MCAO (Hu et al., 2012). Consistently, using the real-time PCR approach, we found that the
+expression of the mRNAs of the M1 signature genes CD32 and
+IL-1b was signiﬁcantly elevated in the ischemic striatum of the
+
+saline-treated mice at 3, 7, 14 and 30 days after MCAO (Fig. 2A
+and B). As shown in Fig. 2, compared to saline treatment, chronic
+metformin treatment signiﬁcantly reduced the MCAO-induced
+expression of CD32 and IL-1b mRNA over the 30 days following
+MCAO (with the exception of IL-1b 30 days after MCAO). The M1
+marker CD32 has been shown to be dominantly expressed by
+microglia/macrophages in the ischemic brain following MCAO
+(Hu et al., 2012). Using double immunoﬂuorescent staining, we
+conﬁrmed these published results; regardless of the treatment,
+the expression of CD16/32 was predominantly co-localized with the
+microglial marker Iba1, and very few non-Iba1+ cells that expressed
+CD16/32 were present in the ischemic striatum (Fig. 2F). Using
+immunohistochemistry, we further showed that the ischemiainduced increase in CD16/32 protein expression was signiﬁcantly
+attenuated by metformin treatment (Fig. 2D and E).
+We further assessed the effects of metformin on the expression
+of M2 signature genes. In the ischemic striatum of the saline (NS)treated mice, the mRNAs of the M2 genes CD206 and arginase 1
+were most robustly but transiently inducted 3 days after MCAO
+relative to the mRNA levels of these two genes at 7, 14 and 30 days
+after MCAO (Fig. 3A and B, p < 0.05). These results suggest an early
+and transient induction of the M2 phenotype in the ischemic brain,
+which is consistent with a previous publication (Hu et al., 2012). In
+the metformin-treated mice, we also observed robust and transient
+
+136
+
+Q. Jin et al. / Brain, Behavior, and Immunity 40 (2014) 131–142
+
+Fig. 2. Post-stroke chronic metformin treatment suppressed the expression of M1 signature genes in the ischemic striatum. (A) Compared to saline (NS), metformin (Met)
+suppressed ischemia-induced CD32 mRNA expression in the ipsilateral striatum at 3, 7, 14, 30 days after MCAO (n = 4). (B) MCAO-induced mRNA expression of IL-1b in the
+ipsilateral striatum was inhibited by metformin (Met) at 3, 7, 14 days after MCAO (n = 4 for 3, 7, 14 days; and n = 3 for 30 days). (C) Four regions in the striatal penumbra for
+immunostaining analysis of CD16/32 expression. (D) Representative images of immunohistochemical analysis of CD16/32. (E) Quantitative data showed that metformin
+suppressed the protein expression of the M1 marker CD16/32 at 3 and 14 days after MCAO (n = 5). (F) Co-localization of CD16/32 with the microglia/macrophage marker Iba1
+in the ischemic brain at 3 days after MCAO. Ipsil: ipsilateral striatum; Contra: contralateral striatum. ⁄⁄p < 0.01 and ⁄p < 0.05 compared to the saline (NS)-treated group.
+
+Q. Jin et al. / Brain, Behavior, and Immunity 40 (2014) 131–142
+
+137
+
+Fig. 3. Metformin increased the expression of M2 signature genes in the ischemic striatum. (A) Metformin-treated mice displayed higher mRNA expression of CD206 in
+ipsilateral striatum at 3, 7, 14, 30 days after MCAO than did saline (NS)-treated mice (n = 4). (B) mRNA expression of arginase 1 in the ischemic striatum was elevated in the
+metformin-treated vs. NS-treated mice at 3, 7, 14, 30 days after MCAO (n = 4). (C) Immunohistochemical images of analysis and quantitative data of CD206 expression in the
+striatal penumbra at 3 and 14 days after MCAO (n = 5). (D) ELISA results revealed that metformin enhanced production of IL-4 at 14 days (n = 6) and IL-10 at 3 (n = 5) and
+14 days (n = 3) after MCAO in the ischemic striatum. Ipsil: ipsilateral striatum; Contra: contralateral striatum. ⁄⁄p < 0.01 and ⁄p < 0.05 compared to the saline (NS)-treated
+group.
+
+increases in arginase 1 and CD 206 mRNAs at 3 days compared to 7,
+14 and 30 days following MCAO (p < 0.05). Remarkably, the expressions of CD206 and arginase 1 were persistently elevated in the
+metformin-treated mice compared to the saline-treated mice over
+the 30 days following MCAO.
+Because the M2 marker CD206 has been shown to be predominantly expressed by microglia/macrophages in the ischemic
+brains following cerebral ischemia (Hu et al., 2012), we further performed immunohistochemistry and conﬁrmed that metformin enhanced the expression of CD206 protein in the ischemic brain
+compared to saline at both 3 and 14 days after MCAO (Fig. 3C).
+IL-4 and IL-10 are additional M2 markers that are considered to
+be important mediators of the M2 polarization of microglia/
+
+macrophages. Similar to results obtained for CD206 and arginase
+1, chronic metformin treatment signiﬁcantly increased the production of IL-4 14 days after MCAO and increased IL-10 production at 3
+and 14 days after MCAO in the ischemic brains (Fig. 3D). Collectively, these results suggest that post-stroke chronic metformin
+treatment promoted and sustained the M2 polarization of the
+microglia/macrophages of the ischemic brains.
+3.3. Metformin increased microglial AMPK activation following MCAO
+Because AMPK activation has been suggested to be an
+important signaling pathway in the promotion of microglia/macrophage polarization toward the M2 phenotype (Sag et al., 2008), we
+
+138
+
+Q. Jin et al. / Brain, Behavior, and Immunity 40 (2014) 131–142
+
+examined whether metformin activated microglial AMPK in the
+ischemic brain. Western blot results revealed that cerebral AMPK
+activation was signiﬁcantly elevated by metformin following
+MCAO as evidenced by the enhanced levels of phosphorylated
+(Thr-172) AMPKa in the metformin-treated brains compared to
+the saline-treated brains at 3 and 14 days following MCAO
+(Fig. 4A and B). Immunoﬂuorescent double staining further conﬁrmed that the co-localization of phosphorylated AMPK (p-AMPK)
+with the speciﬁc marker (Iba1) of microglia/macrophages was increased in the ischemic striatum of the metformin-treated mice
+compared to those of the saline-treated mice 4 days after MCAO
+(Fig. 4C). Additionally, we found that a large proportion of the
+CD206+ cells also co-localized with p-AMPK in the ischemic striatum
+of the metformin-treated mice (Supplemental Fig. 3). Collectively, the
+results suggest that chronic metformin treatment increased AMPK
+activation in microglia/macrophages in the ischemic brains.
+
+3.4. Post-stroke chronic metformin treatment enhanced angiogenesis
+and neurogenesis in the ischemic brain
+Because M2-polarized microglia/macrophages promote tissue
+repair following injury, we investigated whether metformin treatment enhanced post-MCAO angiogenesis. Vessel densities were assessed indirectly by quantifying the numbers of cells expressing
+the endothelial marker CD31 in the ischemic striatum. A signiﬁcant
+
+increase in CD31+ cells was detected in the metformin-treated
+mice compared to the vehicle-treated mice 14 days after MCAO
+(Fig. 5A). We also used lectin to stain the vascular structures. Consistent with the CD31 immunostaining results, there was also a signiﬁcant increase in lectin-stained vascular structures in the
+metformin-treated mice compared to the saline-treated mice
+(Fig. 5B). Taken together, these results suggest that metformin enhanced vascular density during the recovery phase following
+stroke.
+We further assessed post-ischemic neurogenesis within the
+subventricular zone (SVZ) and the lateral ventricular wall. Compared to the saline-treated mice, the metformin-treated mice displayed signiﬁcantly greater numbers of BrdU-positive cells that
+co-expressed the immature neuronal marker DCX in the ischemic
+SVZ and the lateral ventricle wall 14 days after MCAO (Fig. 6),
+which suggests that post-stroke chronic metformin treatment enhanced neurogenesis following MCAO.
+
+3.5. Metformin promoted angiogenesis in vitro in an M2 polarizationdependent manner
+Finally, we used an in vitro approach to test the hypothesis that
+metformin promotes angiogenesis in an M2 polarization-dependent manner. Metformin dose-dependently suppressed the
+LPS-stimulated production of the pro-inﬂammatory mediator NO
+
+Fig. 4. Metformin enhanced AMPK activation in the ischemic striatum following MCAO. Western blot was performed using brain tissue extracted from the boundary zones of
+the striatum at 3 and 14 days after MCAO or from sham-operated mice. b-actin was used as a loading control. (A) Representative images of western blot analysis. (B)
+Quantitative data showed that the ratios of phosphorylated/total AMPK in the ischemic striatum were signiﬁcantly higher in metformin-treated mice (Met) than in vehicle
+saline (NS)-treated mice at 3 and 14 days after MCAO (n = 4). (C) Immunohistochemical images and quantitative data of co-localization of p-AMPK and the microglia/
+macrophage marker Iba1 in the ischemic striatum at 4 days after MCAO, assessed with. Ipsil: ipsilateral sides, Contra: contralateral sides. ⁄⁄p < 0.01 and ⁄p < 0.05 compared to
+the saline (NS)-treated group.
+
+Q. Jin et al. / Brain, Behavior, and Immunity 40 (2014) 131–142
+
+139
+
+Fig. 5. Metformin enhanced angiogenesis in the ischemic brain following MCAO. (A) Representative images of immunostaining of CD31 as a vascular density marker.
+Quantitative analysis showed that post-ischemic agiogenesis, as indicated by CD31 immunostaining, was signiﬁcantly increased within the ischemic boundary zones of the
+striatum (n = 7). (B) Representative images of lectin-stained vascular structures. Quantitative analysis showed that post-ischemic agiogenesis, as indicated by lectin staining,
+was signiﬁcantly increased within the ischemic boundary zones of the striatum (n = 3).
+
+from the BV2 microglial cells (Fig. 7A). The LPS-induced inhibition
+of AMPK activation (i.e., phosphorylation) is a major mechanism
+underlying the LPS-induced M1 polarization of macrophages (Sag
+et al., 2008). As expected, we found that LPS decreased AMPK phosphorylation (activation) in the BV2 microglial cells. Metformin at
+1 mM abolished the LPS-induced reduction in AMPK activation
+and signiﬁcantly enhanced the production of the M2 mediator IL10 in the LPS-treated BV2 cells. The enhancement of the production
+of IL-10 by metformin was markedly attenuated by the speciﬁc
+AMPK inhibitor compound C (Fig. 7C). Taken together, these results
+suggest that metformin acted through AMPK activation to promote
+microglial M2 polarization. Furthermore, the in vitro angiogenesis
+assay revealed that the conditioned media collected from BV2 cells
+that were co-treated with metformin and LPS promoted the formation of pro-angiogenic structures in the bEend 3 cells. In contrast,
+the conditioned media collected from the BV2 cells that were treated with LPS or metformin alone and the control media collected
+from the non-treated BV2 cells did not promote tube formation
+in the bEnd3 cells in vitro; the direct addition of metformin to
+the control media also failed to promote tube formation (Fig. 7D
+and E). These results suggest that metformin promoted angiogenesis through the microglia in an M2 polarization-dependent
+manner.
+
+4. Discussion
+The present study demonstrated that post-stroke chronic treatment with metformin, a well-known AMPK activator and a widely
+used anti-diabetic drug, promoted functional recovery following
+experimental stroke. We further provided evidence suggesting that
+metformin-enhanced M2 polarization of microglia/macrophages
+and tissue repair may contribute to the beneﬁcial effects of metformin therapy on stroke outcomes. Our data also indicate that, rather
+than globally suppressing the activation of microglia/macrophages,
+the modulation of the polarization of the microglia/macrophages
+may be an attractive novel strategy for stroke treatment.
+Metformin is widely used for the treatment of type 2 diabetes.
+Clinically, chronic treatment with metformin for diabetes is
+associated with a reduced risk of stroke and reduced stroke
+severity, and these effects are independent of the glucose-lowering
+effect of metformin (Selvin and Hirsch, 2008; Anon., 1998). However,
+
+the available studies of experimental stroke indicate that metformin
+treatment is either deleterious or beneﬁcial seemingly dependent on
+when metformin treatment is initiated and the duration of metformin administration (Li et al., 2010; Manwani and McCullough,
+2013). Obviously, there is a lack of support from experimental studies
+for these clinical observations.
+To mimic the delayed treatment timeframe that is clinically relevant to stroke therapies, we administered metformin daily beginning 24 h after MCAO. Using this paradigm of delayed
+administration, we found that metformin had no impact on infarct
+volumes during the acute phase but signiﬁcantly improved the
+functional outcomes during the recovery phase following MCAO.
+The improved behavioral outcomes of the metformin-treated mice
+during the recovery phase were associated with improved histological outcomes 30 days after MCAO as evidenced by reduced cavitation of the infarcted cortices. Enhanced tissue repair, including
+angiogenesis, has been shown to be responsible for reduced cortical cavitation during the recovery phase following stroke (Zhao
+et al., 2006). Indeed, we also observed that metformin enhanced
+angiogenesis and neurogenesis during the recovery phase following MCAO. Taken together, our results indicate that the beneﬁcial
+effects of metformin on long-term stroke outcomes can be attributed, at least in part, to enhanced tissue repair.
+AMPK is expressed in several types of brain cells, including neurons, astrocytes and microglia (Manwani and McCullough, 2013).
+Speciﬁcally, AMPK activation has been shown to be a key molecular switch that promotes the alternative activation (M2) of microglia/macrophages (Sag et al., 2008; O’Neill and Hardie, 2013).
+Accumulating evidence suggests that M2-polarized microglia/macrophages resolve the over-activation of inﬂammation and promote
+tissue repair following peripheral or CNS injuries (Mantovani et al.,
+2013; Kigerl et al., 2009). However, whether metformin exerts beneﬁcial effects on stroke outcomes through an M2 polarizationdependent mechanism has not been investigated. We investigated
+whether post-stroke chronic metformin treatment promoted the
+M2 polarization of microglia/macrophages in the ischemic brain.
+We assessed the cerebral polarization of the microglia/macrophages by analyzing the expression of signature genes associated
+with M1 or M2 polarization in the ischemic brain as previously reported (Hu et al., 2012; Kigerl et al., 2009). In agreement with a recent report (Hu et al., 2012), we observed a transient increase in
+M2 gene expression and a persistent increase in M1 signature gene
+
+140
+
+Q. Jin et al. / Brain, Behavior, and Immunity 40 (2014) 131–142
+
+Fig. 6. Metformin enhanced neurogenesis in the ischemic brain following MCAO. (A) Representative images of immunostaining of the newborn neurons (BrdU and DCX
+double positive cells) in the dosallateral subventricular zone (SVZ) and lateral ventricular wall. (B) Quantitative data of post-ischemic neurogensis, as indicated by the number
+of BrdU and DCX double positive cells in the dosallateral SVZ and lateral ventricular wall (n = 5).
+
+expression in the ischemic brain. Consistent with our hypothesis,
+post-stroke metformin treatment resulted in long-term elevation
+of M2 and suppression of M1 signature gene expression. Our data
+clearly indicated that post-stroke chronic metformin treatment
+promoted the M2 polarization of microglia/macrophages in the
+ischemic brain. Furthermore, metformin-enhanced M2 polarization of microglia/macrophages was associated with the activation
+of AMPK in the ischemic brain. Notably, pre-stroke chronic metformin treatment has been reported to decrease AMPK activation (Li
+et al., 2010). The mechanisms underlying the differential effects
+of metformin on AMPK activation remain to be investigated.
+M2 polarized microglia/macrophages not only reduce the acute
+neuronal death induced by ischemic insults (Hu et al., 2012) but
+also promote neural repair (Kigerl et al., 2009). We found that metformin improved long-term functional recovery in post-stroke
+mice. Moreover, post-stroke metformin treatment remarkably increased angiogenesis and neurogenesis in the ischemic brain. Thus,
+it is likely that metformin improved long-term stroke outcomes via
+a microglia/macrophage polarization mechanism. To further
+establish a causal link between the metformin-enhanced M2
+
+polarization of microglia and tissue repair, we used an in vitro
+angiogenesis model to investigate whether metformin promoted
+angiogenesis in an M2-dependent manner because it is difﬁcult
+to perform such studies in vivo. The transfer of conditioned media
+from the metformin-polarized microglia to the brain endothelial
+cells resulted in a remarkable promotion of angiogenesis, while directly treating endothelial cells with metformin did not induce
+angiogenesis. These data suggest that polarizing the microglia/
+macrophages to the M2 phenotype was critical to metformin’s effects of promoting angiogenesis, which, in turn, contributed to the
+functional recovery conferred by metformin.
+Mounting evidence suggests a dual role of microglia/macrophages in post-ischemic injury and recovery that is related to the
+functional phenotypes of the microglia/macrophages (LalancetteHebert et al., 2007; Faustino et al., 2011; Ekdahl et al., 2003). Broad
+inhibition of microglia/macrophages might block the protective
+and recovery-promoting functions of M2-polarized microglia/macrophages in the brain. Our study provides the ﬁrst piece of evidence that the modulation of microglia/macrophage polarization,
+as opposed to the broad suppression of microglia/macrophages,
+
+Q. Jin et al. / Brain, Behavior, and Immunity 40 (2014) 131–142
+
+141
+
+Fig. 7. Metformin promoted angiogenesis in a M2 polarization-dependent manner in vitro. (A) Metformin dose-dependently suppressed production of the pro-inﬂammatory
+mediator NO from LPS-stimulated BV2, with robust effects observed starting from 1 mM (n = 3). (B) Western blot analysis showed that metformin at 1 mM abolished LPSinduced reduction in AMPK activation (phosphorylation) in BV2 microglial cells. (C) Metformin at 1 mM increased production of IL-10 from LPS-stimulated BV2, and the effect
+was attenuated by the AMPK inhibitor compound C (5 lM, n = 3). (D) Representative images of tube formation of bEend3 cells treated with conditioned media collected from
+BV2 cells. Conditioned media from BV2 cells treated with 1 mM metformin plus 100 ng/ml LPS (Met + LPS) promoted formation of pro-angiogenic structures in bEend 3 cells.
+Con: control media collected from BV2 cells without treatment; LPS: conditioned media collected from BV2 cells treated with LPS alone; Met: conditioned media collected
+from BV2 cells treated with Metformin alone; Control media + Met: control media with direct addition of metformin. (E) Quantitative data of pro-angiogenic tube structures
+from bEnd3 treated with different conditioned media (n = 3).
+
+may represent a novel strategy for stroke therapy. Because such an
+M2–M1 shift has also been reported for other CNS disease
+models, such as spinal cord injury (Kigerl et al., 2009), we speculate
+that the modulation of microglia/macrophage polarization by
+metformin may be of therapeutic signiﬁcance following various
+CNS injuries.
+In this study, the mortality rate of the saline-treated mice was
+after the 30 days following MCAO was 48%, which is comparable
+to the published results (Prass et al., 2003). Metformin increased
+survival rates at 14 and 30 days following MCAO, but this tread
+was not statistically signiﬁcant (Supplemental Fig. 1). Furthermore
+and consistent with the published results, most of the mice,
+regardless of treatment, died between 3 and 7 days after MCAO.
+Notably, the major cause of mouse death following MCAO during
+this period was bacterial infection of the lungs and not brain
+damage (Prass et al., 2003). Moreover, we showed that metformin
+treatment had no effect on acute infarction 4 days after
+MCAO. Based on these ﬁndings, we believe that survival bias did
+not compromise our conclusion that metformin beneﬁcially
+effected long-term stroke outcomes by promoting post-stroke
+tissue repair.
+This study has a major limitation. To prove the concept that M2polarized microglia promoted angiogenesis in vitro, we used the
+BV2 microglial cell line. Additionally, LPS rather than oxygen-glucose deprivation (OGD) was used to induce M1 polarization of
+the microglia because the stimulation of BV2 cells with LPS is a
+well-deﬁned M1 polarization model for microglial cells (Zhang
+et al., 2013). Although we recognize that it would have been better
+to perform this proof-of-concept study using OGD-treated primary
+microglia, OGD has not been clearly acknowledged as a stimulus
+that induces the M1 polarization of microglia, although
+in vivo ischemic insults have been shown to induce transient M2
+
+polarization followed by long-term M1 polarization of microglia/
+macrophages in the ischemic brain (Hu et al., 2012). Thus, further
+work is needed to characterize the effects of OGD on the polarization of primary microglia, these experiments should be repeated
+using OGD-treated primary microglia.
+In conclusion, we demonstrated that post-ischemic chronic
+metformin treatment enhanced the post-ischemic M2 polarization
+of microglia/macrophages in the ischemic brain and improved
+long-term functional recovery following MCAO. Our results suggest that pushing the functional phenotypes of microglia/macrophages to skew toward M2 polarization via post-stroke AMPK
+activation is a novel therapeutic strategy for stroke.
+
+Disclosures
+None.
+
+Source of funding
+The project is supported by the grants from National
+Science Foundation of China (81100918, 81130023, 81171246,
+30930035), National Basic Research Plan (2009CB522000,
+2011CB504403), the Priority Academic Program Development of
+Jiangsu Higher Education Institutions of China (PAPD) and funding
+from BM2013003.
+
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.bbi.2014.03.003.
+
+142
+
+Q. Jin et al. / Brain, Behavior, and Immunity 40 (2014) 131–142
+
+References
+Zhou, G., Myers, R., Li, Y., Chen, Y., Shen, X., Fenyk-Melody, J., Wu, M., Ventre, J.,
+Doebber, T., Fujii, N., et al., 2001. Role of AMP-activated protein kinase in
+mechanism of metformin action. J. Clin. Invest. 108 (8), 1167–1174.
+Hardie, D.G., 2011a. Energy sensing by the AMP-activated protein kinase and its
+effects on muscle metabolism. Proc. Nutr. Soc. 70 (1), 92–99.
+Hardie, D.G., 2011b. AMP-activated protein kinase: an energy sensor that regulates
+all aspects of cell function. Genes Dev. 25 (18), 1895–1908.
+McCullough, L.D., Zeng, Z., Li, H., Landree, L.E., McFadden, J., Ronnett, G.V., 2005.
+Pharmacological inhibition of AMP-activated protein kinase provides
+neuroprotection in stroke. J. Biol. Chem. 280 (21), 20493–20502.
+Li, J., Zeng, Z., Viollet, B., Ronnett, G.V., McCullough, L.D., 2007. Neuroprotective
+effects of adenosine monophosphate-activated protein kinase inhibition and
+gene deletion in stroke. Stroke 38 (11), 2992–2999.
+Li, J., McCullough, L.D., 2010. Effects of AMP-activated protein kinase in cerebral
+ischemia. J. Cereb. Blood Flow Metab. 30 (3), 480–492.
+Selvin, E., Hirsch, A.T., 2008. Contemporary risk factor control and walking
+dysfunction in individuals with peripheral arterial disease: NHANES 1999–
+2004. Atherosclerosis 201 (2), 425–433.
+Anon., 1998. Effect of intensive blood-glucose control with metformin on
+complications in overweight patients with type 2 diabetes (UKPDS 34). UK
+Prospective Diabetes Study (UKPDS) Group. Lancet 352 (9131), 854–865.
+Li, J., Benashski, S.E., Venna, V.R., McCullough, L.D., 2010. Effects of metformin in
+experimental stroke. Stroke 41 (11), 2645–2652.
+Manwani, B., McCullough, L.D., 2013. Function of the master energy regulator
+adenosine monophosphate-activated protein kinase in stroke. J. Neurosci. Res.
+91 (8), 1018–1029.
+Saver, J.L., 2010a. Targeting the brain: neuroprotection and neurorestoration in
+ischemic stroke. Pharmacotherapy 30 (7 Pt. 2), 62S–69S.
+Saver, J.L., 2010b. Target brain: neuroprotection and neurorestoration in ischemic
+stroke. Rev. Neurol. Dis. 7 (Suppl. 1), S14–S21.
+Sag, D., Carling, D., Stout, R.D., Suttles, J., 2008. Adenosine 50 -monophosphateactivated protein kinase promotes macrophage polarization to an antiinﬂammatory functional phenotype. J. Immunol. 181 (12), 8633–8641.
+Lu, D.Y., Tang, C.H., Chen, Y.H., Wei, I.H., 2010. Berberine suppresses
+neuroinﬂammatory responses through AMP-activated protein kinase
+activation in BV-2 microglia. J. Cell. Biochem. 110 (3), 697–705.
+O’Neill, L.A., Hardie, D.G., 2013. Metabolism of inﬂammation limited by AMPK and
+pseudo-starvation. Nature 493 (7432), 346–355.
+Mantovani, A., Biswas, S.K., Galdiero, M.R., Sica, A., Locati, M., 2013. Macrophage
+plasticity and polarization in tissue repair and remodelling. J. Pathol. 229 (2),
+176–185.
+David, S., Kroner, A., 2011. Repertoire of microglial and macrophage responses after
+spinal cord injury. Nat. Rev. Neurosci. 12 (7), 388–399.
+Hu, X., Li, P., Guo, Y., Wang, H., Leak, R.K., Chen, S., Gao, Y., Chen, J., 2012. Microglia/
+macrophage polarization dynamics reveal novel mechanism of injury expansion
+after focal cerebral ischemia. Stroke 43 (11), 3063–3070.
+Kigerl, K.A., Gensel, J.C., Ankeny, D.P., Alexander, J.K., Donnelly, D.J., Popovich, P.G.,
+2009. Identiﬁcation of two distinct macrophage subsets with divergent effects
+causing either neurotoxicity or regeneration in the injured mouse spinal cord. J.
+Neurosci. 29 (43), 13435–13444.
+Kato, Y., Koide, N., Komatsu, T., Tumurkhuu, G., Dagvadorj, J., Kato, K., Yokochi, T.,
+2010. Metformin attenuates production of nitric oxide in response to
+lipopolysaccharide by inhibiting MyD88-independent pathway. Horm. Metab.
+Res. 42 (9), 632–636.
+
+Nath, N., Khan, M., Paintlia, M.K., Singh, I., Hoda, M.N., Giri, S., 2009. Metformin
+attenuated the autoimmune disease of the central nervous system in animal
+models of multiple sclerosis. J. Immunol. 182 (12), 8005–8014.
+Tsoyi, K., Jang, H.J., Nizamutdinova, I.T., Kim, Y.M., Lee, Y.S., Kim, H.J., Seo, H.G., Lee,
+J.H., Chang, K.C., 2011. Metformin inhibits HMGB1 release in LPS-treated RAW
+264.7 cells and increases survival rate of endotoxaemic mice. Br. J. Pharmacol.
+162 (7), 1498–1508.
+Mao, L., Jia, J., Zhou, X., Xiao, Y., Wang, Y., Mao, X., Zhen, X., Guan, Y., Alkayed, N.J.,
+Cheng, J., 2013. Delayed administration of a PTEN inhibitor BPV improves
+functional recovery after experimental stroke. Neuroscience 231, 272–281.
+Zhu, W., Wang, L., Zhang, L., Palmateer, J.M., Libal, N.L., Hurn, P.D., Herson, P.S.,
+Murphy, S.J., 2010. Isoﬂurane preconditioning neuroprotection in experimental
+focal stroke is androgen-dependent in male mice. Neuroscience 169 (2), 758–
+769.
+Zhang, L., Schallert, T., Zhang, Z.G., Jiang, Q., Arniego, P., Li, Q., Lu, M., Chopp, M.,
+2002. A test for detecting long-term sensorimotor dysfunction in the mouse
+after focal cerebral ischemia. J. Neurosci. Methods 117 (2), 207–214.
+Lee, J.K., Kim, J.E., Sivula, M., Strittmatter, S.M., 2004. Nogo receptor antagonism
+promotes stroke recovery by enhancing axonal plasticity. J. Neurosci. 24 (27),
+6209–6217.
+Taguchi, A., Soma, T., Tanaka, H., Kanda, T., Nishimura, H., Yoshikawa, H.,
+Tsukamoto, Y., Iso, H., Fujimori, Y., Stem, D.M., Naritomi, H., Matsuyama, T.,
+2004. Administration of CD34+ cells after stroke enhances neurogenesis via
+angiogenesis in a mouse model. J. Clin. Invest. 114 (3), 330–338.
+Zhao, B.Q., Wang, S., Kim, H.Y., Storrie, H., Rosen, B.R., Mooney, D.J., Wang, X., Lo,
+E.H., 2006. Role of matrix metalloproteinases in delayed cortical responses after
+stroke. Nat. Med. 12 (4), 441–445.
+Jiang, L., Shen, F., Degos, V., Schonemann, M., Pleasure, S.J., Mellon, S.H., Young, W.L.,
+Su, H., 2011. Oligogenesis and oligodendrocyte progenitor maturation vary in
+different brain regions and partially correlate with local angiogenesis after
+ischemic stroke. Transl. Stroke Res. 2 (3), 366–375.
+Hu, L.F., Wong, P.T., Moore, P.K., Bian, J.S., 2007. Hydrogen sulﬁde attenuates
+lipopolysaccharide-induced inﬂammation by inhibition of p38 mitogenactivated protein kinase in microglia. J. Neurochem. 100 (4), 1121–1128.
+Zhang, G., Fahmy, R.G., DiGirolamo, N., Khachigian, L.M., 2006. JUN siRNA regulates
+matrix metalloproteinase-2 expression, microvascular endothelial growth and
+retinal neovascularisation. J. Cell Sci. 119 (Pt. 15), 3219–3226.
+Lalancette-Hebert, M., Gowing, G., Simard, A., Weng, Y.C., Kriz, J., 2007. Selective
+ablation of proliferating microglial cells exacerbates ischemic injury in the
+brain. J. Neurosci. 27 (10), 2596–2605.
+Faustino, J.V., Wang, X., Johnson, C.E., Klibanov, A., Derugin, N., Wendland, M.F.,
+Vexler, Z.S., 2011. Microglial cells contribute to endogenous brain defenses after
+acute neonatal focal stroke. J. Neurosci. 31 (36), 12992–13001.
+Ekdahl, C.T., Claasen, J.H., Bonde, S., Kokaia, Z., Lindvall, O., 2003. Inﬂammation is
+detrimental for neurogenesis in adult brain. Proc. Natl. Acad. Sci. U.S.A. 100 (23),
+13632–13637.
+Prass, K., Meisel, C., Höﬂich, C., Braun, J., Halle, E., Wolf, T., Ruscher, K., Victorov, I.V.,
+Priller, J., Dirnagl, U., Volk, H.D., Meisel, A., 2003. Stroke-induced
+immunodeﬁciency promotes spontaneous bacterial infections and is mediated
+by sympathetic activation reversal by poststroke T helper cell type 1-like
+immunostimulation. J. Exp. Med. 198 (5), 725–736.
+Zhang, H., Li, Y., Yu, J., Guo, M., Meng, J., Liu, C., Xie, Y., Feng, L., Xiao, B., Ma, C., 2013.
+Rho kinase inhibitor fasudil regulates microglia polarization and function.
+Neuroimmunomodulation 20 (6), 313–322.
+
+

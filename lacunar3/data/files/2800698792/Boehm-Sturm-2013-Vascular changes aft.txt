@@ -1,0 +1,1021 @@
+﻿Vascular changes after stroke in the rat: a
+longitudinal study using optimized magnetic
+resonance imaging
+Philipp Boehm-Sturma†, Tracy D. Farra†, Joanna Adamczaka, Jan F. Jikelia,b,
+Luam Menglera, Dirk Wiedermanna, Therése Kallura, Valerij Kiselevc and
+Mathias Hoehna*
+During stroke, the reduction of blood flow leads to undersupply of oxygen and nutrients and, finally, to cell death,
+but also to upregulation of pro-angiogenic molecules and vascular remodeling. However, the temporal profile of
+vascular changes after stroke is still poorly understood. Here, we optimized steady-state contrast-enhanced
+magnetic resonance imaging (SSCE MRI) and followed the dynamic changes in vascular architecture for up to 4
+weeks after transient middle cerebral artery occlusion (MCAO) in rats. Using MRI diffusion measurements and the
+changes of transversal relaxation rates ΔR
+2
+and ΔR
+2
+after injection of a superparamagnetic contrast agent, SSCE
+MRI provided several hemodynamic parameters: relative cerebral blood volume (rCBV), rCBV in small vessels,
+microvascular density, and relative vessel size. Six rats underwent SSCE MRI before MCAO and at 7, 14, 21 and 28
+days after surgery. 5-Bromo-20deoxyuridine (BrdU) was injected between days 2 and 7 to label proliferating cells
+during this time. SSCE MRI depicted a decrease in microvessel density and an increase in vessel size in the ischemic
+striatum after stroke. A persistently decreased MRI vessel density was confirmed with histology at 28 days. BrdU +
+endothelial cells were found in regions close to the infarct indicating endothelial cell proliferation during the
+first week after MCAO; however, late-stage angiogenesis, as would be reflected by increased vessel density, was
+not detected. The optimized SSCE MRI protocol was used to follow spatio-temporal changes of important vessel
+characteristics, which may contribute to a better understanding of the role of angiogenesis at different stages after
+stroke. Copyright © 2013 John Wiley & Sons, Ltd.
+Supporting information may be found in the online version of this paper
+Keywords: steady-state contrast-enhanced MRI; vessel density imaging; vessel size imaging; middle cerebral artery
+occlusion; angiogenesis
+1. INTRODUCTION
+Stroke is characterized by a disturbance in blood supply to the
+brain. Reduction of blood flow results in widespread cell death,
+but also activation of several molecules and signaling pathways
+that are thought to promote angiogenesis, reviewed in (1–3).
+Proliferating endothelial cells were first observed more than a
+decade ago in human post mortem ischemic tissue (4), and
+vascular casting in rodent models of middle cerebral artery
+occlusion (MCAO) illustrated the formation of vascular buds,
+some of which appeared to anastomose with surrounding
+vessels (5). However, it is not clear whether or not these new
+vessels are functional, or whether they have the capacity to play
+a role in stroke outcome.
+Magnetic resonance imaging (MRI) has long been used to
+observe alterations in cerebral blood supply following stroke.
+While resolution is currently lacking to detect formation of new
+microvessels directly, under the assumption that these vessels
+are functional, MRI can, however, depict cerebral blood volume
+(CBV) changes, which in turn can be used to noninvasively
+estimate microvessel density and size, as reviewed in Neeman
+et al. (6) and Seevinck et al. (7). Here, the term microvessel
+usually refers to capillaries (5–10 mm diameter) in contrast to
+large arteries and veins (~100 mm diameter). Although the
+vascular tree may more accurately be described by self-similar
+structures of a wide range of diameters, such simple categorization
+into small and large vessels is under defined conditions
+justified in the context of MRI signal from vasculature (8).
+Steady-state contrast-enhanced magnetic resonance imaging
+(SSCE MRI) provides measures of blood volume, vessel size, and
+vessel density by measuring relaxivity changes (ΔR
+2
+and ΔR
+2
+)in
+* Correspondence to: Mathias Hoehn, In-Vivo-NMR Laboratory, Max Planck Institute
+for Neurological Research, Cologne, Germany. Email: mathias@nf.mpg.de
+† The first two authors contributed equally.
+a P. Boehm-Sturm, T. D. Farr, J. Adamczak, J. F. Jikeli, L. Mengler, D. Wiedermann,
+T. Kallur, M. Hoehn
+In-Vivo-NMR Laboratory, Max Planck Institute for Neurological Research,
+Cologne, Germany
+b J. F. Jikeli
+Molecular Sensory Systems Laboratory, Center for Advanced European Studies
+and Research, Bonn, Germany
+c V. Kiselev
+Medical Physics, Department of Diagnostic Radiology, University Hospital
+Freiburg, Freiburg, Germany
+Full Paper
+Received: 24 August 2012, Revised: 30 November 2012, Accepted: 15 January 2013, Published online in Wiley Online Library
+(wileyonlinelibrary.com) DOI: 10.1002/cmmi.1534
+Contrast Media Mol. Imaging 2013, 8 383–392 Copyright © 2013 John Wiley & Sons, Ltd.
+383
+(WITH PDF Extractor SDK TRIAL VERSION)
+tissue following injection of an intravascular superparamagnetic
+contrast agent (9–12).
+Initial studies applying SSCE MRI in embolic stroke showed
+that the microvascular density in the lesion core and adjacent
+tissue decreased (13). However, another study reported an
+increase in relative cerebral blood volume (rCBV) and density of
+microvessels in cortical regions starting 14 days after permanent
+distal MCAO, interpreted as late-stage angiogenesis by those
+authors (14). Moreover, increased rCBV and vessel size were
+found in the ischemic territory of rats after MCAO and were interpreted
+as vasodilation in response to the stroke (15). Further
+work is required to better understand the optimal acquisition
+and analysis strategies for SSCE MRI in order to obtain deeper
+insight into biological processes. In the present study, we
+carefully refined the technique of SSCE MRI and applied it to
+the monitoring of vascular changes for up to 4 weeks after
+transient MCAO in the rat. The results were complemented with
+an assessment of endothelial cell proliferation during the first
+week after MCAO by histological means. Our ultimate aim was
+to elucidate the extent of angiogenesis after cerebral ischemia,
+which theoretically should be reflected by increased MRI-derived
+vessel density.
+2. MATERIALS AND METHODS
+2.1. Animals and experimental design
+All animal experiments were conducted according to the guidelines
+laid out in the German Animal Welfare Act and approved by
+the authorities (Landesamt für Natur, Umwelt und Verbraucherschutz
+Nordrhein-Westfalen) under permission number
+9.93.2.10.31.07.048 (dated 22 May 2007). Adult male Wistar rats
+(body weight 300–350 g, Harlan–Winkelmann GmbH, Borchen,
+Germany) were housed in cages under a 12 h light/12 h dark
+cycle with access to food and waterad libitum. During all surgical
+and scanning procedures animals were anesthetized and maintained
+with isoflurane in a 70:30 nitrous oxide–oxygen mixture,
+and core body temperature was maintained at 36.7  1.0 C
+using in-house automated feedback systems and heat blankets
+(medres GmbH, Cologne, Germany). Animals were scanned with
+MRI 4–7 days before and on days 7, 14, 21 and 28 after MCAO,
+and were sacrificed for histology after the last experimental
+session. Additionally, rats received 5-bromo-20deoxyuridine (BrdU,
+50 mg kg1 twice daily i.p., Sigma-Aldrich, Hamburg, Germany)
+between days 2 and 7 after MCAO to label proliferating cells.
+2.2. Stroke induction
+Stroke was induced by occlusion of the middle cerebral artery via
+intraluminalfilament technique (16) with the following modifications.
+Rats were anesthetized and an incision was made in the
+right temporal muscle halfway between the eye and ear. The
+animals were subsequently placed in a supine position and a
+calibrated 1 mm diameter Laser probe was placed against the
+right skull to monitor cerebral blood flow changes in the sensorimotor
+cortex followingfilament placement with a laser doppler
+perfusion monitor (Perimed, Järfälla, Sweden). A midline incision
+was made in the neck, and the mandibular glands, pretrachial
+strap, and sternomastoid muscles were retracted. The carotid
+artery and external carotid artery were exposed and ligated
+with surgical sutures and a microclip was placed on the internal
+carotid artery. A small incision was made in the carotid artery
+below the external carotid artery and internal carotid artery
+bifurcation and a silicone coated monofilament (410 mm diameter
+, Doccol Corporation, Redlands, CA, USA) was inserted and
+advanced up the internal carotid artery until resistance was felt
+and a decrease in cerebral blood flow noted (approximately 17
+mm). After 60 min the filament was withdrawn, the suture on
+the external carotid artery removed, muscles and glands guided
+back into place, wounds sutured and treated with local anesthetic.
+Animals received 2.5 ml of physiological saline s.c. daily
+and were provided with moistened food until weight stabilized.
+Exclusion criteria stipulated any animals with subarachnoid
+hemorrhage, incomplete MCAO (no observable T
+2
+changes
+during MRI 1 week after MCAO) were removed from the study.
+Six rats entered the study, four of which had a lesion restricted
+to the striatum, depicted as hyperintensities on T
+2
+maps; two
+animals exhibited cortical and striatal damage. One animal did
+not perform the SSCE MRI measurement 2 weeks post MCAO.
+2.3. SSCE MRI
+2.3.1. Theory
+In order to analytically describe the changes in MRI signal owing
+to i.v. injection of a paramagnetic substance, the vessel network
+is modeled as a set of infinitely long, randomly distributed cylinders
+(17,18). Proton spins are assumed to be restricted to one of
+two compartments: either within vessels (intravascular) or within
+the tissue surrounding the vessels (extravascular). Further
+assumptions include a small blood volume fraction x
+0
+<<1
+and a diffusion length much smaller than the size of a strongly
+dephased area around the vessel, that is, dor2/D>>1 (8). D
+represents the water diffusivity in the extravascular compartment
+, r is the vessel radius, and do is the characteristic shift in
+Larmor frequency of a magnetized cylinder in an external
+magnetic field.
+Under these assumptions, the change in MRI signal from
+before (S
+pre
+) to after (S
+post
+) the contrast agent injection can
+simply be described by shifts of the relaxation rates measured in
+aspinecho(SE)(R
+2
+!R
+2
++ΔR
+2
+) and gradient echo (GE) experiment
+(R
+2
+! R
+2
+þΔR
+2
+)(cgsunits)(11):
+ΔR2 ¼
+1
+TE
+ln
+Spre;SE
+Spost;SE
+  
+ 0:694do2=3D1=3x0r2=3 (1)
+ΔR
+2
+¼
+1
+TE
+ln
+Spre;GE
+Spost;GE
+  
+
+2
+3
+x
+0
+do (2)
+Here, TE is the echo time.
+In order to assess the important tissue parameters T
+2
+and ΔR
+2
+simultaneously, we decided to use a multi spin echo pulse
+sequence (MSME). This results in an effective reduction of the
+diffusion effectD!D/n2 depending on the number of refocusing
+pulses n (19,20).ΔR
+2
+is then determined with the MRI signalS
+MSME
+of the nth echo of the MSME via the modified relationship:
+ΔR2 ¼ nb
+1
+TE n ð Þ 
+ln
+Spre;MSME n ð Þ 
+Spost;MSME n ð Þ 
+  
+;b ¼
+2
+3
+(3)
+Neglecting the reduced diffusion effect leads to a high underestimation
+ofΔR
+2
+values. We found a lower exponent b= 0.49 in
+the experiment (Supporting Information, Fig. S1), which was
+used for all further analysis. The deviation from the theory will
+be subject to further studies.
+P. BOEHM-STURM ET AL.
+wileyonlinelibrary.com/journal/cmmi Copyright © 2013 John Wiley & Sons, Ltd. Contrast Media Mol. Imaging 2013, 8 383–392
+384
+(8.0.0.2542.1132178454 PDF Extractor SDK TRIAL VERSIOn)
+Equations (1) and (2) show that ΔR
+2
+is a measure of rCBV
+in small vessels whereas ΔR
+2
+reflects the rCBV in all vessels.
+However, both still depend on the concentration C of the
+contrast agent in blood, which usually needs to be assessed
+invasively or with dynamic contrast-enhanced measurements
+(11). Therefore, Jensen and Chandra introduced the so-called Q
+-factor, which is largely independent of C and is a measure of
+microvessel density (10).
+Q ¼
+ΔR2
+ΔR
+2
+ð Þ 2=3
+(4)
+Q relates to the number of vessels that punctuate a crosssection
+of tissue per unit area. Microvessel density N is counted
+in units of [N]=1 mm2 and can be calculated when the presence
+of large macrovessels can be neglected and taking into
+account the water diffusivity in tissue (12):
+N ¼ 0:218 Q3=D
+  
+; D ½ ¼ mm2s1; Q ½ ¼ s1=3 (5)
+Furthermore it can be shown that the mean vessel size holds
+true (11):
+r ¼ 0:425
+1
+gΔwB0
+  
+1=2
+ D ð Þ 1=2
+ΔR
+2
+ΔR2
+  
+3=2
+(6)
+Owing to the lack of in vivo measurements of the contrast
+agent concentration and thus lack of Δw values, we neglected
+the first term in eqn (6) and used a relative vessel size R (in arbitrary
+units) throughout the article, which is defined as:
+R ¼
+D
+Dlit
+  
+1=2
+ΔR
+2
+ΔR2
+  3
+2: =
+(7)
+Here, we accounted for local changes in diffusivity in the pathologic
+brain by multiplication with the square root of the quotient
+of measured diffusivityD and a known value for the healthy
+brain D
+lit
+= 6.64	104 mm2 s1 (21).
+2.3.2. MRI acquisition
+MRI was carried out on a 4.7 T animal scanner (Biospec47/30,
+Bruker BioSpin, Ettlingen, Germany) equipped with actively
+shielded gradient coils (BGA 12, 220 mT m1, 120 ms rise time,
+Bruker BioSpin). We used a custom-built surface radiofrequency
+coil 30 mm in diameter for reception and a Helmholtz coil for
+homogeneous transmission (medres GmbH, Cologne, Germany).
+Animals were fixed with tooth bar and ear bars in a custommade
+animal holder (medres). Respiration rate was monitored
+with a pressure-sensitive pad under the thorax using DASYlab
+(Measurement Computing, Norton, USA) software.
+The imaging protocol consisted of apparent diffusion coefficient
+(ADC) measurement [spin echo MRI, field of view = (2.56 cm)2,
+eight contiguous 1 mm thick slices, matrix = 128	64, echo time/
+repetition time (TE/TR) = 40.66 ms/4 s, one diffusion direction
+medial-lateral in the animal coordinate system, b
+eff
+= 0.26, 600.26,
+and 1500.26 s mm2, Time of acquisition (TA) = 12:48 min], an
+MSME (TE/TR= 13.55 ms/4 s, 10 echoes, TA= 8:32 min) and a
+multigradient echo pulse sequence (MGE, TE/TR= 5 ms/2 s, eight
+equidistant echoes,flip angle= 60,TA= 8:32 min). The geometries
+of the MSME and MGE were matched to the ADC measurement to
+allow voxel-wise calculation of vessel density, except that four
+additional slices were acquired in order to cover the whole
+forebrain in the T
+2
+and T
+2
+images.
+After initial measurements, superparamagnetic iron oxide
+particles (Endorem, Guerbet, Sulzbach, Germany, 11.2 mg
+Fe ml1) were injected in the tail vein at a dose of 30 mg
+Fe kg1 without moving the animal. We allowed the contrast
+agent to distribute homogeneously over the blood pool for 3
+min, and then identical post-contrast MSME and MGE images
+were acquired.
+2.4. MRI data processing
+The MRI data were processed with Interactive Data Language
+(IDL, ITT visual information solutions, Boulder, CO, USA) and
+FMRIB Software Library (FSL, http://www.fmrib.ox.ac.uk/fsl).
+ForT
+2
+maps, the MRI signalS(TE) in MSME scans wasfitted on a
+voxel-wise basis with a monoexponential decay S(TE)=Aexp
+(TE/T
+2
+)+B with equilibrium signal A, relaxation time T
+2
+, and
+an offset B to reduce bias introduced by the use of magnitude
+images (22). Accordingly, ADC maps were generated by fitting
+the MRI signal with S(b)=Aexp(bADC)+B. Maps were coregistered
+to a template rat brain (an average of 34 high-resolution
+T
+2
+-weighted images from 28 rats, scaled to match the resolution of
+our scans) with FSL’s linear registration tool.
+For vessel size and density maps, theA
+0
+images (b=0.26smm2)
+of the ADC scan and the first echo images of the pre- and
+post-contrast MSME and MGE scans were segmented with
+FSL’s brain extraction tool. The segmented images were coregistered
+to the template brain with an affine transformation
+(12 degrees of freedom) with FSL. The determined transformation
+matrices were applied to the other ADC images, and the
+later echoes of the MSME and MGE datasets. Finally, the coregistered
+images were used for voxel-wise calculation of ΔR
+2
+,
+ΔR
+2
+, Q, N and R according to equations (2)–(5) and (7), respectively. ΔR
+2
+and ΔR
+2
+were calculated from the second echo of
+the MSME and MGE images, respectively, in order to minimize
+error propagation in the data analysis scheme (Supporting
+Information, Fig. S2). Voxels with a signal to noise ratio<5 in 
+either the A
+0
+image of ADC measurements or in the first echo
+of the MSME or MGE were excluded from the analysis. Voxels
+with negative ΔR
+2
+or ΔR
+2
+values, or those with ΔR2 >ΔR
+2
+were
+also excluded.
+Volume-of-interest (VOI) analysis was carried out with the
+freeware program ImageJ (http://rsbweb.nih.gov/ ij/). First, for
+anatomically selected VOIs, the intact and ischemic striatum
+was manually delineated in the coronal slices corresponding to
+0.3 and 1.3 mm from bregma. Second, lesion-based VOIs
+were manually drawn in the same two slices for each animal
+on T
+2
+maps acquired 1 week post MCAO. The lesion-based VOIs
+encompassed voxels with increased T
+2
+values (T
+2
+> mean + 2
+standard deviations of contralateral striatum). Third, a VOI of
+the peri-infarct zone was drawn by extension of the lesion VOI
+by 0.4 mm in-plane (neglecting ventricles and areas outside
+the brain) and by subsequent subtraction of the lesion VOI.
+Mirroring of the lesion and peri-infarct VOIs at the midline with
+a custom ImageJ macro yielded the contralateral VOIs. Mean
+ΔR
+2
+, ΔR
+2,
+Q, N and R values were recorded and presented as a
+ratio of the ischemic to intact side.
+The incidence maps were generated by normalization (voxelwise
+division) of the post-MCAO parameter maps to the time point
+MRI OF VASCULAR CHANGES AFTER STROKE
+Contrast Media Mol. Imaging 2013, 8 383–392 Copyright © 2013 John Wiley & Sons, Ltd. wileyonlinelibrary.com/journal/cmmi
+385
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.1244575129)
+before surgery. An incidence in a voxel at a certain time point was
+counted when that voxel showed a significant increase/decrease,
+that is, with a normalized parameter of interest larger/smaller
+than the mean2 standard deviations when compared with
+the contralateral striatum. For each SSCE MRI parameter increase/
+decrease, incidences of all animals were added voxel-wise.
+The resulting incidence map for the group of animals was
+smoothed (Gauss filtered, sigma= 0.2 mm) and overlaid on the
+template brain.
+2.5. Immunohistochemistry
+After the last MRI session, animals were deeply anesthetized and
+perfused transcardially with cooled saline followed by cooled 4%
+paraformaldehyde. Brains were post-fixed overnight and cryoprotected
+in 30% sucrose solution prior to coronal sectioning
+at 40 mm on a freezing microtome (Leica Microsystems, Wetzlar,
+Germany). Sections were kept at 20 C in cryo-protective
+solution. For double-label immunofluorescence with BrdU, freefloating sections were denatured in 1 mol l1 HCl for 10 min at
+65 C, followed by 20 min incubation at room temperature and
+pre-incubation in appropriate blocking solution: 5% normal sera
+and 0.25% Triton X-100 in potassium phosphate-buffered saline
+for 60 min at room temperature. Incubation with primary
+antisera was carried out overnight at +4 C and the following
+primary antibodies were used: rat anti-BrdU (1:100, Abcam,
+Cambridge, MA, USA), and mouse anti-Rat Endothelial Cell
+Antigen (RECA; 1:400, AdB Serotec, Oxford, UK). Primary antibodies
+were detected using either standard diaminobenzidine
+(DAB) immunohistochemistry or appropriate fluorescent Cy3
+(Jackson ImmunoResearch, West Grove, PA, USA) or biotinconjugated
+(Vector Laboratories, Burlingame, CA, USA) secondary
+antibodies (1:200), the latter of which was detected with
+Alexa 488-conjugated streptavidin (1:200, Invitrogen, Carlsbad,
+CA, USA). Sections were mounted on poly L-lysine coated slides
+(Thermo Fisher Scientific, Waltham, MA, USA) and coverslipped
+with glycerol-based mounting medium.
+Microscopic images were acquired and double-immunoreactivity
+verified with a confocal laser scanning microscope (Leica
+TCS SP5 X, Leica Microsystems). Microvessel density was semiquantified across the entire intact and ischemic striatum from
+RECA DAB stained sections located approximately0.3 mm from
+bregma (corresponding to the anterior commissure) (23) using
+the Stereo Investigator system (MicroBrightField Europe, E.K.,
+Magdeburg, Germany) with a counting frame of 40 mm2 at 20	
+magnification. Microvessel size was estimated by measuring
+the diameter at the thickest point of a counted vessel every
+100 frames.
+2.6. Statistical analysis
+Data are expressed as group meansstandard deviation of the
+means. Statistical analysis was performed using SPSS version 17
+software and a p-value<0.05 was used as the significance level.
+VOI values in the striatum/lesion/peri-infarct zone were compared
+using one way repeated measures analysis of variance
+with time as the within-subject factor followed by post-hoc
+pairwise comparisons with the least significant difference test.
+For comparison of histology and MRI, microvessel densities in
+the intact and ischemic striatum were analyzed using paired
+Student’s t-tests.
+3. RESULTS
+3.1. Impact of noise and echo times on SSCE MRI results
+To determine the impact of noise on the most noise-sensitive
+parameter N, we performed simulation experiments in which
+white noise was added to artificial MRI datasets. In parallel we
+analyzed histograms in experimental MRI datasets from animals
+before MCAO. Our simulations also determined that suboptimal
+echo times result in non-Gaussian, widespread distribution of
+the resulting N values (Supporting Information, Fig. S2). From
+this, we anticipated that, in order to detect physiologically
+relevant changes in N (as a marker of microvessel density), the
+relative change must be in the order of magnitude of 20%.
+3.2. Impact of tissue water diffusivity on interpretation of
+SSCE MRI results
+In the chronic phase after MCAO, necrosis, phagocytosis and
+associated cystic formation in tissue are visualized by a steep
+increase in ADC values. In all animals with this cyst formation
+(n= 3) regions of elevated ΔR
+2
+were observed within or close
+to the lesion core (Fig. 1a). According to the theory, increases
+in ΔR
+2
+indicate an increase of rCBV in small vessels, but as is
+demonstrated by eqn (1), diffusivity also plays a role. Comparison
+of vessel density maps calculated under inclusion of a
+constant diffusion value from the literature (21) (Fig. 1b) with
+those vessel density maps for which the local diffusivity was
+taken into account on an experimentally recorded, voxel-wise
+basis (Fig. 1c, d), revealed that the dominant effect leading to the
+increased ΔR
+2
+was highly elevated water diffusivity in necrotic
+tissue. Vessel staining on histological sections confirmed that
+tissue in these regions was not intact at 4 weeks after MCAO
+and that the density of small vessels in adjacent regions was
+not higher compared with healthy tissue (Fig. 1e, f).
+3.3. Vascular changes after stroke
+3.3.1. MRI Incidence maps
+Incidence maps revealed that decreases in ΔR
+2
+and Q and an
+increase in R were most frequent (Fig. 2, bottom three rows).
+All six animals were used for map calculations but the highest
+number of incidences found in all pixels for any of the SSCE
+MRI parameters was three, indicating a regionally and temporally
+variable pattern of vascular changes across the different animals.
+Other incidence maps did not show a specific trend.
+3.3.2. MRI VOI analysis
+Parameter maps from all animals are presented for all time
+points in Fig. 3. In all maps except T
+2
+and ADC we observed
+global image intensity fluctuations between animals and time
+points within the whole brain that followed no defined pattern
+and probably reflected differences in contrast agent concentration
+within the blood, which was not measured in this study.
+To account for this, quantitative analysis was carried out in the
+striatum (Fig. 4a), within the lesion (Fig. 4b) and within the
+peri-infarct areas (Fig. 4c), and values expressed as a percentage
+ratio of the ipsilateral (lesioned) to the contralateral (intact)
+hemisphere. Only a negligible number of voxels (<0.5 %) were
+excluded from the analysis owing to the imposed thresholds
+on signal to noise, ΔR
+2
+and ΔR
+2
+.
+P. BOEHM-STURM ET AL.
+wileyonlinelibrary.com/journal/cmmi Copyright © 2013 John Wiley & Sons, Ltd. Contrast Media Mol. Imaging 2013, 8 383–392
+386
+(8.0.0.2542.937815767 PDF Extractor SDK TRIAL VERSIOn)
+As expected, prior to MCAO the calculated MRI parameters
+were comparable between the ipsilateral and contralateral side:
+rCBV in small vessels ΔR
+2
+(striatum, 101.81.3%; lesion,
+101.62.0%; peri-infarct, 98.52.6%), rCBV ΔR
+2
+(striatum,
+100.54.5%; lesion, 103.98.2%; peri-infarct, 98.14.3%), microvascular
+density index Q (striatum, 101.33.3%; lesion,
+99.14.1%; peri-infarct, 99.72.8%), vessel density N (striatum,
+103.89.0%; lesion, 98.317.3%; peri-infarct, 97.36.3%), and
+relative vessel sizeR(striatum, 97.16.2%; lesion, 102.311.4%;
+peri-infarct, 99.09.3%) (Fig. 4). After stroke, the overall rCBV
+ΔR
+2
+remained relatively constant over the course of the experiments.
+There was a significant effect of time in rCBV in small
+vessels ΔR
+2
+[striatum, F(4,16) 3.890, p= 0.022; lesion, F(4,16)
+6.082, p= 0.004; peri-infarct, F(4,16) 5.040, p= 0.008]. The
+percentage ratio ofΔR
+2
+decreased around 1 week after stroke with
+a trend towards subsequent increase by week 2, which was confirmed by post-hoc pairwise comparisons of values within the
+lesion before and 1 week post stroke (p=0.05;Fig.4b).
+Significant effects of time were also observed for the microvascular
+density indexQ [striatum, F(4,16) 3.342, p=0.036; lesion,
+F(4,16) 6.861, p=0.002; peri-infarct, F(4,16) 3.339, p=0.036],
+microvessel density N [striatum, F(4,16) 3.586, p=0.029; lesion,
+F(4,16) 6.311, p=0.003; peri-infarct, not significant], and relative
+vessel size R [striatum, F(4,16) 3.259, p=0.039; lesion, F(4,16)
+4.727, p=0.01; peri-infarct, not significant]. In line with the
+decrease in rCBV in small vessels, Q and N ratios both decreased
+around 1 week after stroke, although post-hoc tests failed to
+reach significance. The decreases in N and Q at week 1 were
+accompanied by a dramatic increase in relative vessel size R. This
+persisted throughout the course of the experiments, although
+less pronounced for later times.
+3.4. Immunohistochemistry
+RECA staining clearly detected blood vessels in the brain sections
+4 weeks after surgery. Photomicrographs from two representative
+animals indicate fewer visible vessels in the ischemic
+striatum (Fig. 5a and b). Histological microvessel density in the ischemic
+striatum was significantly lower than that of the intact
+striatum (58589 vs 82758 vessels mm2) [ t(5) = 4.679,
+p= 0.005). This corresponded roughly to a ~29% decrease
+(Fig. 5c, right), which is within the detectability limits determined
+from our simulations. A similar, significant decrease of ~27%
+[t(5) = 2.705, p= 0.043) was observed in MRI-derived vessel
+density N from the VOI analysis at 4 weeks after MCAO, that is,
+(20981) mm2 ipsilateral and (28975) mm2 contralateral
+(Fig. 5c, left). The mean vessel diameter, and thus size, measured
+from brain sections in small vessels (<40 mm) were not significantly
+different between the ischemic (7.41.0 mm) and the
+intact striatum (7.01.0 mm; Fig. 5d, right). However, there was
+a ~50% increase in R in the ischemic striatum determined from
+the MRI VOI analysis, although this failed to reach significance
+[t(5) =2.037, p= 0.097; Fig. 5d, left].
+We systematically examined sections double-stained for BrdU
+and RECA. No double-labeled cells were observed in the hemisphere
+contralateral to the infarct, and green autofluorescence
+within the ischemic core did not permit analysis there. However,
+in peri-infarct regions we found occasional individual endothelial
+cells that also appeared to be BrdU + (Fig. 6). Overall, very few
+proliferating endothelial cells were detected.
+4. DISCUSSION
+The present study demonstrates that the temporal profile of
+vascular changes after stroke can be assessed noninvasively with
+SSCE MRI. However, our data indicate that it is crucial to optimize
+MRI acquisition in order to maximize sensitivity of the method.
+For the first time, we show that when cystic transformation
+occurs, inclusion of diffusion measurements on a voxel-wise
+basis is essential to prevent overestimation of SSCE MRI-derived
+Figure 1. Impact of tissue diffusivity on MRI-derived blood volume and
+vessel density. All animals with cyst formation exhibited regions with
+highly elevated ΔR
+2
+close to or within the lesion core, which is usually
+interpreted as high rCBV in small vessels. Such an area is indicated by
+the box on the ΔR
+2
+map from a representative animal 4 weeks after
+MCAO (a). Assuming a constant diffusivity value for each voxel that is
+comparable to healthy tissue leads to high MRI-derived vessel densities
+(box in b). However, ADC values in this region were also elevated, which
+indicates necrosis and liquefaction of tissue (box in c). When we took
+local tissue diffusivity into account on a voxel-wise basis, the ‘hot spots’
+in the MRI-derived vessel densities disappeared (box in d). Histology in
+the same region confirmed tissue necrosis (e) and a decrease in microvessel
+density (e, arrows) compared with the same region on the contralateral
+side (f). Thus, the high ΔR
+2
+was a result of high tissue diffusivity
+and not an indicator of increased rCBV in small vessels.
+MRI OF VASCULAR CHANGES AFTER STROKE
+Contrast Media Mol. Imaging 2013, 8 383–392 Copyright © 2013 John Wiley & Sons, Ltd. wileyonlinelibrary.com/journal/cmmi
+387
+(WITH PDF Extractor SDK TRIAL VERSION)
+Figure 3. Temporal profile of MRI-derived parameters. T
+2
+, ADC,ΔR
+2
+,ΔR
+2
+, Q, N and R maps before and weekly after MCAO of an animal with a lesion
+restricted to the striatum (animal 1) and an animal with both, cortical and striatal damage (animal 2). Most relevant maps (T
+2
+, N and R) are shown for all
+other animals. ΔR
+2
+, Q and N decreased in the ischemic regions in all animals whereas there was an observable increase in relative vessel size R. The
+changes were most pronounced 1 week after surgery (arrows) but persisted also at the later time points. Animal 6 did not perform the SSCE MRI
+measurement at 2 weeks post stroke.
+Figure 2. Incidence maps for the MRI-derived parameters. Maps indicating, for each voxel, the number of animals that exhibited a decrease inΔR
+2
+or
+Q, or an increase in R during the 4 weeks after MCAO. For each time point the two coronal slices shown are those that are most affected by the infarct:
+1.3 (left) and0.3 mm from bregma (right). A small trend towards the decrease ofΔR
+2
+and Q can be observed in the ischemic hemisphere, as well as
+an increase inR(bottom row) mostly in areas of the striatum. The striatum was therefore used for further quantitative volume-of-interest analysis. Other
+incidence maps did not show a specific trend. Although six animals entered the calculations, the maximum number of incidences found in any of the
+parameters was three, that is, within any region, a significant, simultaneous vascular change occurred only in a subgroup of animals.
+P. BOEHM-STURM ET AL.
+wileyonlinelibrary.com/journal/cmmi Copyright © 2013 John Wiley & Sons, Ltd. Contrast Media Mol. Imaging 2013, 8 383–392
+388
+( 8.0.0.2542.579352943 PDF Extractor SDK EVALUATION)
+vessel densities. Our major finding was that there was a significant
+decrease in rCBV in small vessels, leading to a decrease in
+vessel density, which was accompanied by an increase in vessel
+size 1 week after MCAO in the ischemic striatum that persisted
+for several weeks. Microvessel density determination from histological
+brain sections confirmed that decreased vessel density
+was still present at 4 weeks after the initial insult. If large-scale
+angiogenesis occurred in response to stroke, this should have
+been reflected by an increase in vessel density. This was not
+the case, although the presence of sparse numbers of BrdU+/
+RECA + cells in the ischemic striatum indicated that some endothelial
+cell proliferation occurred during the first week after
+MCAO. Absence of double-labeled cells on the contralateral
+hemisphere indicated that the proliferation was induced by the
+stroke and not by natural turnover of endothelial cells.
+4.1. SSCE MRI methodological considerations
+When this method wasfirst employed in a rodent model of stroke
+to measure changes in the vascular network (rCBV in small vessels,
+overall rCBV, vessel density and size)ΔR
+2
+was assessed with a turbo
+spin echo pulse sequence using multiple refocusing pulses to
+speed up the acquisition (14). Subsequent studies employed multi
+spin echo sequences in order to obtain measures of T
+2
+and ΔR
+2
+simultaneously and further included ADC measurements (13,24).
+This strategy is useful as both T
+2
+and ADC provide important
+Figure 4. Quantification of MRI-derived parameters. Volume-of-interest analysis in the striatum (a), in the lesion (b), and peri-infarct zone (c) revealed a
+decrease inΔR
+2
+, Q and N and an increase in R in the ischemic striatum that was most pronounced 1 week after MCAO. These parameters normalized at
+the later time points (weeks 2–4). Values are expressed as a ratio of the ipsilateral to the contralateral side (group meansstandard deviation). The
+volumes of interest are indicated on coronal slices corresponding to 1.3 and 0.3 mm from bregma on a T
+2
+-weighted template image (a) and a
+T
+2
+-map (b, c) of animal 2. The two slices are illustrated in gray on a schematic sagittal view of the rat brain.
+MRI OF VASCULAR CHANGES AFTER STROKE
+Contrast Media Mol. Imaging 2013, 8 383–392 Copyright © 2013 John Wiley & Sons, Ltd. wileyonlinelibrary.com/journal/cmmi
+389
+(TRIAL VER. PDF Extractor SDK 8.0.0.2542.1649549300)
+information about the state of the ischemic tissue. However,
+neither of these studies performed any modification to the theory
+in order to account for the well-known reduction of the diffusion
+effect on MR transverse relaxation (19,20,25). Using the theory
+modification, however, leads to higherΔR
+2
+, Q and N values. In line
+with this, we found higher values of these parameters compared
+with the reports in which a theory correction was not applied.
+Furthermore, we also identified a major pitfall in the interpretation
+of SSCE MRI parameters when the tissue exhibits cystic transformation.
+In such cases, ΔR
+2
+is no longer a good measure of rCBV in
+small vessels, and neither isQbecause of elevated tissue diffusivity.
+Our data indicate that it is essential to include local ADC values in
+the calculations, otherwiseΔR
+2
+‘hot spots’ may be misinterpreted
+as angiogenic activity.
+Despite these improvements in MRI acquisition, our results
+show that SSCE MRI is prone to noise, especially for the vessel
+density estimate N. Even after optimization of acquisition parameters
+, the relative error in N values is on the order of ~20%.
+Although this is in accordance with the previous reports (13), it
+represents an inherent limitation of the technique. Further
+limitations come from the fact that the ischemic rodent brain
+probably violates some of the previously described assumptions
+that are made when applying the theory. For example, the
+mathematical model underlying SSCE MRI only holds for impermeable
+vessel walls, low blood volume fractions, and vasculature for
+which the microvessels can be modeled as rigid long cylinders
+(26). Therefore, the use of blood as an intravascular tracer through
+the blood oxygen level-dependent contrast seems to be an
+appealing alternative, e.g. to overcome problems of contrast agent
+leakage and heterogenous water diffusivity in peri-infarct area.
+Indeed, quantitative blood oxygen level-dependent approaches
+have been developed in order to map important parameters of
+oxygenation in vivo (27,28). Furthermore, the use of fast MR imaging
+during the first bolus (dynamic susceptibility MRI) or arterial
+spin labeling techniques could help to correlate SSCE MRI with
+perfusion and thus functionality of blood vessels.
+4.2. Vascular changes after stroke
+Using SSCE MRI we observed a decrease in microvessel density
+in the ischemic striatum at 1 week after stroke, a situation not
+surprising as this tissue has experienced widespread cell death
+by this time. Similarfindings were reported as early as 1 day after
+ischemia in an embolic (13) and distal occlusion model (14). This
+decrease in microvessel density persisted for up to 2 weeks in
+the former study, which is also consistent with our results.
+Figure 5. Comparison of MRI and histology. Tissue sections stained for vessels (RECA) of an animal with a small striatal lesion (a) and of a rat with a
+larger infarct (b). Semi-quantification on histological sections revealed a significant ipsilateral decrease in microvessel density (c, right) that corresponded
+well with the MRI results at 4 weeks after MCAO (c, left). Histological vessel diameter (of vessels<40mm) showed only a small, nonsignificant
+increase in the ipsilateral striatum (d, right), whereas a highly elevated relative vessel size was found in the MRI analysis (d, left), although this failed to
+reach significance. For better visualization, MRI and histology data are scaled differently. Values are expressed as group meansstandard deviation.
+P. BOEHM-STURM ET AL.
+wileyonlinelibrary.com/journal/cmmi Copyright © 2013 John Wiley & Sons, Ltd. Contrast Media Mol. Imaging 2013, 8 383–392
+390
+(8.0.0.2542,572262010 PDF Extractor SDK TRIAL)
+Despite the notion that the decrease in microvessel density
+observed in the ischemic region after stroke is persistent, the
+SSCE MRI study that employed the distal occlusion model noted
+a significant increase in microvessel density in the outer cortex of
+the ischemic region beginning after about 2 weeks that was
+attributed to angiogenesis (14). One potential reason for this
+discrepancy could be the choice of stroke model. However, our
+findings suggest that this effect could be artifactual in nature as
+we were able to observe a similar phenomenon in animals with
+cystic transformation when we employed, rather than the correct
+and necessary voxel-wise diffusion measurement, only a constant
+diffusion value to determine N maps. Indeed and in line with this,
+the authors of that study mentioned that this area of increased
+microvessel density was prone to cystic transformation.
+In parallel to the decrease in microvessel density, we observed
+an increase in vessel size with SSCE MRI most pronounced at 7 days
+post stroke that was probably due to vasodilation of arterioles in an
+effort to maintain autoregulation. This phenomenon probably
+occurs earlier, and, indeed, Lin et al. (14) reported this observation
+within thefirst week of stroke (1–3 days), which was confirmed by
+an increase in the number of vessels with a diameter greater than
+30 mm in tissue sections from the same time period. While that
+study reported a subsequent decline in vessel size, other groups
+suggested that this effect remains between days 7 and 21 (15)
+and even up to 6 weeks in the recovery region (24). In the present
+study, we only measured animals up to 28 days, and while R was
+still elevated at this time, this elevation was not as pronounced
+as during the first week. In accordance with these findings, we
+were also unable to observe an increase in the mean vessel
+diameter in the ipsilateral when compared with the contralateral
+striatum at 4 weeks post stroke. While it is possible that this could
+be an artifact of our sampling strategy, microvessel is a gross term
+that includes capillaries, venules and arterioles, which means that
+the size of vessels varies considerably even in the intact brain
+(29). Nevertheless, the mean vessel size estimated subcortically at
+6 h post symptom onset was recently shown to be a good predictor
+of final infarct size at 6 days in a small cohort of patients that
+underwent a modified dynamic contrast-enhanced protocol similar
+to SSCE MRI (30). A follow-up study extended the same protocol
+to a larger patient cohort that presented a significant perfusiondiffusion
+mismatch around 24 h post symptom onset (31). Vessel
+size was found to be a poor predictor of infarct growth at 6 days,
+but microvessel density proved to be useful at discriminating
+infarcted from oligemic or healthy tissue. These studies highlight
+the utility of this technique to provide valuable information in
+the post-ischemic period.
+4.3. Angiogenesis after stroke
+Angiogenesis after ischemia is generally characterized at a cellular
+level by gene transcription leading to expression of proangiogenic
+molecules andfinally to endothelial cell proliferation.
+We observed some endothelial cell proliferation during the first
+post-operative week, which is already well described (5), and
+another study observed increases in various pro-angiogenic
+compounds such as growth factors and endothelial nitric oxide
+synthase (14). While stabilization of vessel walls and formation
+of new networks have been reported (5), it is unclear if these
+processes can lead to truly functional new vasculature (7). Perfusion
+measurements could help to elucidate if proliferating,
+BrdU + endothelium belongs to functional vasculature. Unfortunately
+, as SSCE MRI is based on CBV measurements using an
+intravascular contrast agent, it is only capable of detecting
+perfused vessels. The evidence from the preclinical SSCE-MRI
+studies in stroke models consistently indicates that there is an
+overall decrease in microvessel density rather than a large-scale
+increase. The small number of animals in the present study
+renders general conclusions difficult. However, taken together,
+this implies that angiogenesis is not occurring at an advanced
+level and that new, functional vessel formation is limited. The
+histological evidence also supports this as measurements of
+microvessel density in tissue sections decrease corresponding
+to the same pattern in the MR images. From a translational point
+of view this may be discouraging. However, chronic hypoxia
+generally leads to angiogenesis and this has been shown for
+human stroke (4). Therefore, discrepancies owing to choice of
+species and model (transient ischemia in a specific rat strain
+versus human stroke) should further be addressed.
+5. CONCLUSION
+In conclusion, SSCE MRI is a useful technique to noninvasively
+estimate changes in the microvasculature after stroke. Our results
+indicate that optimization of the MR acquisition parameters is
+essential in order to allow robust conclusions. The focus of our
+study in experimental stroke has been to probe for evidence
+of angiogenesis in the chronic stages. Immunohistochemistry
+revealed endothelial cell proliferation only in peri-infarct regions,
+which is a sign for early angiogenesis, but newly formed endothelial
+cells failed to translate into higher vessel densities and functional
+vasculature.
+Figure 6. Confocal microscopy images of tissue sections stained for
+RECA (red) and BrdU (green) 4 weeks after MCAO. BrdU was administered
+between days 2–7 after MCAO. Overview (a) and higher magnification
+images (b, corresponds to the white box in a) revealed some red/green
+overlap and a confocal microscopy image (c, corresponds to the white
+box in b) confirmed this. Strong green ipsilateral staining in the lesion
+core (a) is due to ischemia-induced autofluorescence.
+MRI OF VASCULAR CHANGES AFTER STROKE
+Contrast Media Mol. Imaging 2013, 8 383–392 Copyright © 2013 John Wiley & Sons, Ltd. wileyonlinelibrary.com/journal/cmmi
+391
+(PDF Extractor SDK TRIAL VERSION)
+6. SUPPORTING INFORMATION
+Supporting information can be found in the online version of
+this article.
+Acknowledgments
+The authors thank Drs Philippe Robert and Claire Corot (Guerbet)
+for the generous supply of Endorem and Matthias Weigel from
+the Medical Physics group of the University Hospital of Freiburg
+for stimulating discussions. Melanie Nelles is acknowledged for
+technical support with histology, Ingo Przesdzing from the
+Department of Experimental Neurology at the Charité in Berlin
+with tissue section analysis, and Michael Diedenhofen for
+technical assistance with the data analysis. Financial support was
+provided from the EU-FP7 program (HEALTH-F5-2008-201842;
+ENCITE) and the EU-FP6 program (LSHB-CT-2006-037526;
+StemStroke). Funds from the German Federal Ministry of Education
+and Research (BMBF-0314104) and an Alexander von Humboldt
+fellowship for T.D.F. are gratefully acknowledged. The funders
+had no role in study design, data collection, analysis, the decision
+to publish or preparation of the manuscript.
+REFERENCES
+1. Beck H, Plate KH. Angiogenesis after cerebral ischemia. Acta
+Neuropathol 2009;117(5):481–496.
+2. Hayashi T, Deguchi K, Nagotani S, Zhang H, Sehara Y, Tsuchiya A, Abe
+K. Cerebral ischemia and angiogenesis. Curr Neurovasc Res 2006;3
+(2):119–129.
+3. Slevin M, Kumar P, Gaffney J, Kumar S, Krupinski J. Can angiogenesis
+be exploited to improve stroke outcome? Mechanisms and therapeutic
+potential. Clin Sci 2006;111(3):171–183.
+4. Krupinski J, Kaluza J, Kumar P, Kumar S, Wang JM. Role of angiogenesis
+in patients with cerebral ischemic stroke. Stroke 1994;25
+(9):1794–1798.
+5. Krupinski J, Stroemer P, Slevin M, Marti E, Kumar P, Rubio F. Threedimensional
+structure and survival of newly formed blood vessels
+after focal cerebral. Neuroreport 2003;14(8):1171–1176.
+6. Neeman M, Gilad AA, Dafni H, Cohen B. Molecular imaging of angiogenesis.
+J Magn Reson Imag 2007;25(1):1–12.
+7. Seevinck P, Deddens L, Dijkhuizen R. Magnetic resonance imaging of
+brain angiogenesis after stroke. Angiogenesis 2010;13(2):101–111.
+8. Kiselev VG. On the theoretical basis of perfusion measurements by
+dynamic susceptibility contrast MRI. Magn Reson Med 2001;46
+(6):1113–1122.
+9. Dennie J, Mandeville JB, Boxerman JL, Packard SD, Rosen BR, Weisskoff
+RM. NMR imaging of changes in vascular morphology due to tumor
+angiogenesis. Magn Reson Med 1998;40(6):793–799.
+10. Jensen JH, Chandra R. MR imaging of microvasculature. Magn Reson
+Med 2000;44(2):224–230.
+11. Tropres I, Grimault S, Vaeth A, Grillon E, Julien C, Payen JF, Lamalle
+L, Decorps M. Vessel size imaging. Magn Reson Med 2001;45(3):397–408.
+12. Wu EX, Tang HY, Jensen JH. High-resolution MR imaging of mouse
+brain microvasculature using the relaxation rate shift index Q. NMR
+Biomed 2004;17(7):507–512.
+13. Bosomtwi A, Jiang Q, Ding GL, Zhang L, Zhang ZG, Lu M, Ewing JR,
+Chopp M. Quantitative evaluation of microvascular density after
+stroke in rats using MRI. J Cerebral Blood Flow Metab 2008;28
+(12):1978–1987.
+14. Lin CY, Chang C, Cheung WM, Lin MH, Chen JJ, Hsu CY, Chen JH, Lin
+TN. Dynamic changes in vascular permeability, cerebral blood
+volume, vascular density, and size after transient focal cerebral ischemia
+in rats: evaluation with contrast-enhanced magnetic resonance
+imaging. J Cerebral Blood Flow Metab 2008;28(8):1491–1501.
+15. Moisan A, Pannetier N, Grillon E, Richard M-J, Fraipont F, Rémy C,
+Barbier EL, Detante O. Intracerebral injection of human mesenchymal
+stem cells impacts cerebral microvasculature after experimental
+stroke: MRI study. NMR Biomed 2012;25(12):1340–1348.
+16. Longa E, Weinstein P, Carlson S, Cummins R. Reversible middle cerebral
+artery occlusion without craniectomy in rats. Stroke 1989;20
+(1):84–91.
+17. Kiselev VG, Posse S. Analytical model of susceptibility-induced MR
+signal dephasing: Effect of diffusion in a microvascular network.
+Magn Reson Med 1999;41(3):499–509.
+18. Yablonskiy DA, Haacke EM. Theory of NMR Signal behavior in
+magnetically inhomogeneous tissues – the static dephasing regime.
+Magn Reson Med 1994;32(6):749–763.
+19. Carr HY, Purcell EM. Effects of diffusion on free precession in nuclear
+magnetic resonance experiments. Phys Rev 1954;94(3):630–638.
+20. Kiselev VG. Spin echo amplitude in biological tissue with implications
+for vessel size imaging. Joint Annual Meeting ISMRM-ESMRMB,
+Stockholm 2010;01-07052010(1):1792 (Proc.).
+21. Hoehn-Berlage M, Eis M, Schmitz B. Regional and directional anisotropy
+of apparent diffusion coefficient in rat brain. NMR Biomed
+1999;12(1):45–50.
+22. Koay CG, Basser PJ. Analytically exact correction scheme for signal
+extraction from noisy magnitude MR signals. J Magn Reson
+2006;179(2):317–322.
+23. Paxinos G, Watson C. The Rat Brain in Stereotaxic Coordinates.
+Academic Press: San Diego, CA, 1998.
+24. Bosomtwi A, Chopp M, Zhang L, Zhang ZG, Lu M, Jiang Q. Mean
+microvessel segment length and radius after embolic stroke:
+comparison of magnetic resonance imaging (MRI) and laser scanning
+confocal microscopy (LSCM). Brain Res 2011;1381(0):217–227.
+25. Ullrich RT, Jikeli JF, Diedenhofen M, Böhm-Sturm P, Unruh M, Vollmar
+S, Hoehn M. In-vivo visualization of tumor microvessel density and
+response to anti-angiogenic treatment by high resolution MRI in
+mice. PLoS ONE 2011;6(5):e19592.
+26. Neeman M, Dafni H. Structural, functional, and molecular MR imaging
+of the microvasculature. Annu Rev Biomed Eng 2003;5:29–56.
+27. Grüne M, van Dorsten FA, Schwindt W, Oláh L, Hoehn M. Quantitative
+T*(2) and T’(2) maps during reversible focal cerebral ischemia
+in rats: separation of blood oxygenation from nonsusceptibilitybased
+contributions. Magn Reson Med 1999;42(6):1027–1032.
+28. He X, Yablonskiy DA. Quantitative BOLD: mapping of human cerebral
+deoxygenated blood volume and oxygen extraction fraction: default
+state. Magn Reson Med 2007;57(1):115–126.
+29. Turner R. How much cortex can a vein drain? Downstream dilution of
+activation-related cerebral blood oxygenation changes. NeuroImage
+2002;16(4):1062–1067.
+30. Xu C, Schmidt WUH, Villringer K, Brunecker P, Kiselev V, Gall P,
+Fiebach JB. Vessel size imaging reveals pathological changes of
+microvessel density and size in acute ischemia. J Cerebral Blood Flow
+Metab 2011;31(8):1687–1695.
+31. Xu C, Schmidt WUH, Galinovic I, Villringer K, Hotter B, Ostwaldt AC,
+Denisova N, Kellner E, Kiselev V, Fiebach JB. The potential of microvessel
+density in prediction of infarct growth: a two-month experimental
+study in vessel size imaging. Cerebrovasc Dis 2012;33
+(4):303–309.
+P. BOEHM-STURM ET AL.
+wileyonlinelibrary.com/journal/cmmi Copyright © 2013 John Wiley & Sons, Ltd. Contrast Media Mol. Imaging 2013, 8 383–392
+392
+( 8.0.0.2542.26527432 PDF Extractor SDK EVALUATION)
+

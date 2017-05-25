@@ -1,0 +1,650 @@
+Rapid communication
+Received: 6 April 2014,
+
+Revised: 5 July 2014,
+
+Accepted: 13 July 2014,
+
+Published online in Wiley Online Library: 10 September 2014
+
+(wileyonlinelibrary.com) DOI: 10.1002/nbm.3188
+
+Validation of fast diffusion kurtosis MRI for
+imaging acute ischemia in a rodent model of
+stroke
+Phillip Zhe Suna, Yu Wanga,b, Emiri Mandevillec, Suk-Tak Chana,
+Eng H. Loc and Xunming Jib*
+Diffusion-weighted imaging (DWI) captures ischemic tissue that is likely to infarct, and has become one of the most
+widely used acute stroke imaging techniques. Diffusion kurtosis imaging (DKI) has lately been postulated as a
+complementary MRI method to stratify the heterogeneously damaged DWI lesion. However, the conventional DKI
+acquisition time is relatively long, limiting its use in the acute stroke setting. Recently, a fast kurtosis mapping method
+has been demonstrated in ﬁxed brains and control subjects. The fast DKI approach provides mean diffusion and kurtosis
+measurements under substantially reduced scan time, making it amenable to acute stroke imaging. Because it is not
+practical to obtain and compare different means of DKI to test whether the fast DKI method can reliably detect diffusion
+and kurtosis lesions in acute stroke patients, our study investigated its diagnostic value using an animal model of acute
+stroke, a critical step before fast DKI acquisition can be routinely applied in the acute stroke setting. We found signiﬁcant correlation, per voxel, between the diffusion and kurtosis coefﬁcients measured using the fast and conventional
+DKI protocols. In acute stroke rats, the two DKI methods yielded diffusion and kurtosis lesions that were in good
+agreement. Importantly, substantial kurtosis–diffusion lesion mismatch was observed using the conventional
+(26 ± 13%, P < 0.01) and fast DKI methods (23 ± 8%, P < 0.01). In addition, regression analysis showed that the
+kurtosis–diffusion lesion mismatches obtained using conventional and fast DKI methods were substantially
+correlated (R2 = 0.57, P = 0.02). Our results conﬁrmed that the recently proposed fast DKI method is capable of capturing
+heterogeneous diffusion and kurtosis lesions in acute ischemic stroke, and thus is suitable for translational applications
+in the acute stroke clinical setting. Copyright © 2014 John Wiley & Sons, Ltd.
+Keywords: acute stroke; diffusion-weighted imaging (DWI); diffusion kurtosis imaging (DKI); mean diffusion (MD); mean
+kurtosis (MK)
+
+INTRODUCTION
+
+NMR Biomed. 2014; 27: 1413–1418
+
+*
+
+Correspondence to: X. Ji, Cerebrovascular Diseases Research Institute,
+Xuanwu Hospital of Capital Medical University, Beijing, China.
+E-mail: jixm@ccmu.edu.cn
+
+a P. Z. Sun, Y. Wang, S.-T. Chan
+Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital and Harvard Medical School, Charlestown, MA, USA
+b Y. Wang, X. Ji
+Cerebrovascular Diseases Research Institute, Xuanwu Hospital of Capital Medical University, Beijing, China
+c E. Mandeville, E. H. Lo
+Neuroprotection Research Laboratory, Department of Radiology and Neurology, Massachusetts General Hospital, Harvard Medical School, Charlestown,
+MA, USA
+Abbreviations used: DWI, diffusion-weighted imaging; MK, mean kurtosis;
+MD, mean diffusion; DKI, diffusion kurtosis imaging; MCAO, middle cerebral
+artery occlusion.
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+1413
+
+Diffusion-weighted imaging (DWI), which captures acute ischemic
+tissue that is likely to infarct, has become one of the most widely
+used techniques for acute stroke imaging (1–6). Studies have shown
+that early DWI deﬁcit can be partially salvaged with prompt treatment, consistent with the ﬁndings that metabolic disruption within
+the DWI lesion is heterogeneous (6–11). However, the graded
+ischemic tissue injury could not be reliably segmented using the percentage reduction of mean diffusivity. There is no well-established
+imaging method that provides adequate spatiotemporal resolution
+for the stratiﬁcation of heterogeneous DWI lesions (12,13). A complementary MRI technique is therefore needed to reﬁne the widely
+used stroke DWI technique. To this end, diffusion kurtosis, an index
+that measures non-Gaussian diffusion of water molecules, has been
+investigated for stroke imaging (14–19). A recent study shows that
+DWI lesions with no change in mean kurtosis (MK) are likely to
+respond favorably to early reperfusion, while lesions with abnormalities in both mean diffusion (MD) and kurtosis show poor recovery,
+suggesting that diffusion kurtosis imaging (DKI) is capable of
+stratifying the heterogeneously injured DWI lesion (20).
+As diffusion in cerebral tissue is anisotropic, the standard DKI
+protocol requires collecting DWI images with multiple b-values
+along varied diffusion directions, resulting in relatively long
+acquisition times of 6 min or more (15). The scan time has to
+
+be substantially shortened before DKI can be used routinely in
+the acute stroke setting. Hansen et al. recently proposed a fast
+DKI acquisition and processing approach, and demonstrated its
+ability to map both mean diffusivity (MD′) and apparent mean
+kurtosis (MK′) in ﬁxed brains and control subjects (21). Because
+it is not practical to obtain and compare different means of DKI
+
+P. Z. SUN ET AL.
+in acute stroke patients, our study tested whether the fast DKI
+approach can characterize heterogeneous ischemic lesions in
+an animal model of acute stroke prior to clinical translation. We
+showed that MD′ and MK′ maps obtained using the fast DKI
+protocol strongly correlated with MD and MK obtained using
+conventional approaches, and that the severity and size of
+diffusion and kurtosis ischemic lesions were in good agreement.
+Thus, our results demonstrate that the newly proposed fast
+DKI method is suitable for imaging ischemic stroke in 2 min,
+particularly in the acute stroke setting.
+
+of directions (22–24). To conﬁrm this, we also obtained DKI using
+b-values of 0, 1000 and 2500 s/mm2 along 15 diffusion directions
+in four normal rats (scan time =5 min 10 s) for comparison.
+Data analysis
+Images were analyzed in MATLAB (MathWorks, Natick, MA). For
+the fast DKI acquisition scheme, we calculated MD′ using the
+approach described by Jensen et al. (25). Brieﬂy, we have
+MDx;y;z ¼
+
+METHODS
+
+12Þ
+13Þ
+ðb1 þ b3 ÞDðx;y;z
+ ðb1 þ b2 ÞDðx;y;z
+
+[1]
+b3  b2
+X
+X
+ 
+lnSðbi Þ=Sð0Þ
+lnS bj =Sð0Þ
+¼
+, b1 = 0, b2 = 1000,
+bj bi
+
+Animals
+
+where Dx;y;z
+
+Animal experiments were approved by the institutional animal
+care and use (IACUC, MGH). Adult male Wistar rats (Charles River
+Laboratory, Wilmington, MA) were anesthetized with 1.5–2.0%
+
+z
+, equivalent to
+and b3 = 2500 s/mm2. We have MD’ ¼ x 3 y
+the traditional mean diffusivity. MK′ was obtained using the
+method described by Hansen et al. (21)
+
+MK′ ¼
+
+6
+15
+
+3
+X
+i¼1
+
+ln
+
+
+
+
+
+
+!
+3
+3
+X
+X
+S b3 ; n^ ðiÞ
+S b3 ; n^ ðiþÞ
+S b3 ; n^ ðiÞ
+ln
+ln
+þ2
+þ2
+þ 6· b3 ·MD′
+Sð0Þ
+Sð0Þ
+Sð0Þ
+i¼1
+i¼1
+b23 MD’2
+
+isoﬂuraned air during the experiment. The heart rate and oxygen
+content of the blood (SpO2) were monitored (Nonin Pulse
+Oximeter 8600, Plymouth, MN), and body temperature was maintained by a circulating warm water jacket positioned around the
+torso. Ten normal rats and ten stroke rats were imaged, following
+a standard intraluminal middle cerebral artery occlusion (MCAO)
+procedure. One stroke rat was excluded from analysis due to failed
+MCAO preparation with little ischemic lesion.
+MRI
+
+1414
+
+MRI scans were performed on a 4.7 T small-bore scanner (Bruker
+BioSpec, Billerica, MA). Multislice MRI (ﬁve slices, slice
+thickness/gap = 1.8/0.2 mm, ﬁeld of view = 20 × 20 mm2, acquisition matrix = 48 × 48) was acquired with single-shot echo-planar
+imaging. For the fast DKI protocol, we used three b-values: 0,
+1000, and 2500 s/mm2. One image was obtained for b = 0 and
+three images were obtained for b = 1000 s/mm2 with the diffusion gradient applied along the directions (1, 0, 0), (0, 1, 0) and
+(0, 0, 1). In addition, nine images were obtained for b = 2500 s/
+mm2 with the diffusion gradient applied along n^ ðiÞ , n^ ðiþÞ and
+n^ ðiÞ , which were deﬁned as n^ ð1Þ ¼ ð1; 0; 0ÞT , n^ ð1þÞ ¼ ð0; 1; 1ÞT
+and n^ ð1Þ ¼ ð0; 1; 1ÞT , and similarly for i =2 and 3 (gradient
+pulse duration/diffusion time (δ/Δ) = 6/20 ms, TR/TE = 2500/
+40.5 ms, number of signal average (NSA) = 4, scan time = 2 min
+10 s). Note that the superscript i in n^ ðiÞ labels the position of
+the “1” while in n^ ðiþÞ and n^ ðiÞ it labels the position of the “0” (21).
+As we were interested in the MK instead of the full tensor, we
+extended a conventional diffusion tensor imaging protocol for
+deriving kurtosis (20,22,23). Speciﬁcally, we used six b-values –
+0, 500, 1000, 1500, 2000, and 2500 s/mm2 – in six diffusion
+gradient directions (scan time =5 min 10 s). In this study, a
+conventional MK was estimated by averaging the kurtosis from
+six independent directions, which has been shown in brain to
+agree fairly well with estimates obtained using higher numbers
+
+wileyonlinelibrary.com/journal/nbm
+
+MD þMD þMD
+
+[2]
+
+Note that for the fast DKI approach MK′ was directly calculated
+(Equation [2]). For processing conventional DKI data, apparent
+diffusion (Dapp) and kurtosis coefﬁcients (Kapp) along each direction were calculated by least-squares ﬁtting DWI signals to
+1 2 2
+SðbÞ ¼ Sð0ÞebDapp þ6b Dapp K app , where S(b) is the DWI signal at a
+particular b-value and S(0) is the signal without diffusion
+weighting (22). The mean diffusion coefﬁcient and the kurtosis
+coefﬁcient were calculated as the average of Dapp and Kapp,
+respectively. For DKI data obtained with 15 diffusion directions,
+we used Diffusional Kurtosis Estimator (DKE; http://
+academicdepartments.musc.edu/cbi/dki/dke). To differentiate
+MD and MK results obtained from these two approaches, we
+used MDmu and MKmu to denote measurements from six bvalues along six directions, and MDtf and MKtf to denote
+measurements from three b-values along 15 directions.
+
+RESULTS
+Figure 1 shows diffusion and kurtosis maps from the central slice
+(positioned 2 mm posterior to the bregma) of a representative
+normal Wistar rat, obtained using the approach of six b-values
+along six diffusion directions (Fig. 1(a), (b)), three b-values along
+15 directions (Fig. 1(c), (d)), and the fast acquisition approach
+(Fig. 1(e), (f)). Notably, the corpus callosum (CC) and striatum
+displayed hyperintensity in the MK maps due to their
+complex/restricted microscopic structure (26). There was signiﬁcant correlation, per voxel, of the diffusion and kurtosis coefﬁcients measured using six b-values along six directions (MDmu
+and MKmu) and three b-values along 15 directions (MDtf and
+MKtf, squares). Speciﬁcally, we have MDtf = 0.87 MDmu + 0.08
+(R2 = 0.96, P < 0.01, Fig. 1(g)) and MKtf = 0.86 MKmu + 0.03
+(R2 = 0.73, P < 0.01, Fig. 1(h)), summarized in Table 1. Analysis of
+four normal animals with two conventional DKI methods showed
+that R2 was 0.96 ± 0.01 for MDtf versus MDmu, and 0.67 ± 0.09 for
+MKtf versus MKmu, respectively, substantially correlated with
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+NMR Biomed. 2014; 27: 1413–1418
+
+FAST KURTOSIS IMAGING OF ACUTE ISCHEMIC STROKE
+kurtosis map signal-to-noise ratio in the central slice of normal
+rats to be 6.0 ± 0.4 versus 6.5 ± 0.7 for the conventional and fast
+DKI approaches, respectively, with their relative difference within
+10%. These ﬁndings suggest that both diffusion and kurtosis
+maps can be obtained using the fast DKI acquisition method,
+in reasonable agreement with the standard approach.
+Because the DKI method of multiple b-values along six diffusion directions provides similar DKI measurements to that of
+three b-values along 15 directions and has been demonstrated
+capable of capturing diffusion/kurtosis mismatch, we chose it to
+test the fast DKI method during acute stroke (20). Figure 2
+compares diffusion and kurtosis maps from the central slice of a
+representative acute stroke rat obtained using the standard DKI
+protocol (Fig. 2(a), (b)) and the fast acquisition approach (Fig. 2
+(c), (d)). The right ipsilateral striatum shows substantial diffusion
+decrease and kurtosis increase due to ischemic injury. Similar to
+normal rats, there was signiﬁcant correlation, per voxel, between
+diffusion and kurtosis values measured using the standard (MDmu
+and MKmu) and fast DKI protocols (MD′ and MK′). We found that
+MD′ = 0.90 MDmu + 0.07 (R2 = 0.82, P < 0.01) and MK′ = 0.88
+MKmu + 0.05 (R2 = 0.80, P < 0.01). The identity lines were included
+in both ﬁgures (dash–dotted lines). An analysis of all stroke animals (n = 9) showed that R2 was 0.80 ± 0.09 and 0.75 ± 0.06 for
+MD′ versus MDmu and MK′ versus MKmu, respectively, signiﬁcantly
+different from zero (P < 0.01, one sample t-test).
+Figure 3 shows multi-slice diffusion and kurtosis maps from a
+representative acute stroke rat. Diffusion and kurtosis lesions in
+the ipsilateral ischemic brain were determined if their values
+were two standard deviations beyond their means. Diffusion
+and kurtosis images and outlined lesions are shown for the conventional method (Fig. 3(a), (b)) and fast DKI approach (Fig. 3(c),
+(d)), demonstrating that the threshold-based tissue segmentation algorithm can provide reasonable delineation of heterogeneous ischemic tissue.
+We compared diffusion and kurtosis lesion size determined
+using the fast DKI method and the conventional DKI protocol
+(Fig. 4). Diffusion and kurtosis lesion volumes were 130 ± 85 mm3
+and 91 ± 55 mm3 respectively from the conventional method,
+while they were 140 ± 102 mm3 and 106 ± 76 mm3 from the fast
+DKI method. Regression analysis shows MD′ lesion = 1.18 MDmu
+lesion  13.74 mm3 (R2 = 0.98, P < 0.01, Pearson correlation), and
+MK′ lesion = 1.38 MKmu lesion  19.32 mm3 (R2 = 0.98, P < 0.01,
+Pearson correlation). A paired t-test showed no signiﬁcant difference in diffusion lesion size (P > 0.19) and kurtosis lesion size
+(P > 0.08). Importantly, there was no signiﬁcant difference in
+kurtosis–diffusion lesion mismatch obtained from these two
+methods (26 ± 13% versus 23 ± 8%, P > 0.08). In addition,
+regression analysis showed signiﬁcant correlation in their
+kurtosis–diffusion lesion mismatches (R2 = 0.57, P < 0.02). Consequently, our data conﬁrmed that the fast DKI protocol provided
+good measurement of diffusion and kurtosis during acute stroke,
+in good agreement with the conventional DKI protocol.
+
+Figure 1. Comparison of diffusion kurtosis maps obtained using different DKI protocols from a normal Wistar rat: MDmu map (a) and MKmu
+map (b) from the approach of multiple b-values along the
+undersampled diffusion direction; MDtf map (c) and MKtf map (d) from
+the approach of three b-values along 15 diffusion directions. (e) MD′
+map from the fast DKI method. (f) MK′ map from the fast DKI method.
+(g) Voxel-wise correlation between mean diffusivity, MDmu, and MDtf
+(gray squares and dashed line) and between MDmu and MD′ (black circles and dashed line). The identity line is shown as a black dash–dotted
+line. (h) Voxel-wise correlation test between MKmu and MKtf (gray
+squares and dashed line) and between MKmu and MK′ (black circles
+and dashed line).
+
+each other (P < 0.01, one sample t-test). In addition, there was
+signiﬁcant correlation, per voxel, of the diffusion and kurtosis coefﬁcients measured using six b-values along six directions (MDmu
+and MKmu) and fast DKI protocols (MD′ and MK′, circles). Using
+linear regression analysis (dashed lines), we found that MD
+′ = 0.71 MDmu + 0.23 (R2 = 0.79, P < 0.01, Fig. 1(g)) and MK′ = 0.74
+MKmu + 0.15 (R2 = 0.67, P < 0.01, Fig. 1(h)). Analysis of all normal
+animals (n = 10) showed that R2 was 0.76 ± 0.07 for MD′ versus
+MDmu and 0.55 ± 0.09 for MK′ versus MKmu, both signiﬁcantly different from 0 (P < 0.01, one sample t-test). The identity lines
+were plotted as dash–dotted lines. In addition, we found the
+
+Table 1. Summary of linear regression between diffusion and kurtosis measured using the approach of 3 b-values along 15 directions (MDtf and MKtf), fast DKI approach (MD′ and MK′) and six b-values along six diffusion directions (MDmu and MKmu)
+
+NMR Biomed. 2014; 27: 1413–1418
+
+Kurtosis
+
+MDtf = 0.87 MDmu + 0.08 (R = 0.96, P < 0.01)
+
+MKtf = 0.86 MKmu + 0.03 (R2 = 0.73, P < 0.01)
+
+MD′ = 0.71 MDmu + 0.23 (R2 = 0.79, P < 0.01)
+
+MK′ = 0.74 MKmu + 0.15 (R2 = 0.67, P < 0.01)
+
+2
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+wileyonlinelibrary.com/journal/nbm
+
+1415
+
+DKI (3 b-values, 15 directions)
+(MDtf and MKtf)
+Fast DKI (MD′ and MK′)
+
+Diffusion (μm2/ms)
+
+P. Z. SUN ET AL.
+
+Figure 4. Comparison of lesion size from mean diffusivity and MK images determined from the approach of multiple b-values along
+undersampled diffusion directions and the fast DKI approach. (a) MDmu
+versus MD′ lesion size, with the linear regression shown as a dotted line,
+and the identity line shown as a black dash–dotted line. (b) MKmu versus
+MK′ lesion size, with the linear regression shown as a dotted line, and the
+identity line shown as a black dash–dotted line.
+
+Figure 2. Comparison of MD and MK maps in an animal model of acute
+ischemic stroke. (a) MDmu map. (b) MKmu map. (c) MD′ map. (d) MK′ map.
+(e) Voxel-wise correlation between MDmu and MD′ (circles and dashed
+line); the identity line is shown as a black dash–dotted line. (f) Voxel-wise
+correlation between MKmu and MK′ (circles and dashed line); the identity
+line is shown as a black dash–dotted line.
+
+Figure 5. Comparison of diffusion values (a) and kurtosis values (b) in contralateral normal area, ipsilateral ischemic diffusion and kurtosis lesions.
+Signiﬁcant MD′ decrease was found in MD′ and MK′ lesions from the
+contralateral normal area, without signiﬁcant change between MD′ and
+MK′ lesions. In comparison, there is signiﬁcant MK′ increase from the normal
+areas, with signiﬁcant MK′ difference between MD′ and MK′ lesions.
+
+Figure 3. MDmu (a) and MKmu (b) images obtained from a conventional
+DKI method from a representative acute stroke rat. MD′ (c) and MK′ (d)
+images obtained from the fast DKI method. Lesions were outlined using
+a threshold-based tissue segmentation algorithm.
+
+1416
+
+We further compared MD′ and MK′ values in contralateral
+normal region, diffusion and kurtosis lesions (Fig. 5). One-way
+analysis of variance with Bonferroni correction was performed
+to compare diffusion and kurtosis values in contralateral normal
+area, ipsilateral ischemic diffusion and kurtosis lesions. The
+contralateral normal MD′ and MK′ were determined to be
+0.87 ± 0.02 μm2/ms and 0.64 ± 0.03, respectively. For MD′ lesions,
+we found MD′ and MK′ to be 0.67 ± 0.07 μm2/ms and 0.89 ± 0.05,
+respectively, signiﬁcantly different from those of the contralateral
+
+wileyonlinelibrary.com/journal/nbm
+
+normal region (P < 0.01). For MK′ lesions, we found MD′ and MK′ to
+be 0.69 ± 0.07 μm2/ms and 0.97 ± 0.08, respectively, signiﬁcantly
+different from those of the contralateral normal region (P < 0.01).
+Notably, MD′ was not statistically different between MD′ and MK′
+lesions, while their MK′ was signiﬁcantly different (P = 0.02), consistent with the notion that the severity of mean diffusivity decrease
+could not reliably stratify the heterogeneous DWI lesion (12).
+
+DISCUSSION
+It has been shown that DKI is able to stratify heterogeneously injured DWI lesions, thus enabling improved deﬁnition of ischemic
+penumbra (20). However, the relatively long acquisition time of
+the technique limits its use in the acute stroke setting (15,19).
+Hansen et al. demonstrated that fast DKI approach strongly
+correlates with an approach of multiple b-values along fully
+sampled diffusion directions in normal subjects. Speciﬁcally,
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+NMR Biomed. 2014; 27: 1413–1418
+
+FAST KURTOSIS IMAGING OF ACUTE ISCHEMIC STROKE
+
+NMR Biomed. 2014; 27: 1413–1418
+
+intraluminal MCAO induces severe hypoperfusion and
+aggravates ischemic injury, which could shorten the therapeutic
+window. The biological signiﬁcance of heterogeneous kurtosis–
+diffusion mismatch should be elucidated using thromboembolic
+animal stroke models, which mimic human ischemic stroke
+better than intraluminal stroke models. In addition, it is necessary
+to develop more advanced tissue classiﬁcation algorithms –
+beyond the threshold-based analysis – to quickly and accurately
+segment ischemic tissue in guiding stroke treatment (34–36).
+
+CONCLUSION
+Our study evaluated a fast DKI acquisition method for acute stroke
+imaging and showed that the size and severity of diffusion and
+kurtosis lesions obtained using the fast method substantially correlated with those obtained using a conventional DKI protocol.
+Therefore, the fast stroke DKI approach holds great promise for investigation of the evolution and therapeutic relevance of diffusion
+and kurtosis lesions, and ultimately for facilitating translational
+kurtosis imaging in the acute stroke setting.
+
+Acknowledgements
+This study was supported in part by grants from NIH/NIBIB
+1K01EB009771, NIH/NINDS 1R21NS085574 and NBRPC 2011CB70780420.
+
+REFERENCES
+1. Moseley M, Kucharczyk J, Mintorovitch J, Cohen Y, Kurhanewicz J,
+Derugin N, Asgari H, Norman D. Diffusion-weighted MR imaging of
+acute stroke: correlation with T2-weighted and magnetic
+susceptibility-enhanced MR imaging in cats. Am. J. Neuroradiol.
+1990; 11(3): 423–429.
+2. Chien D, Kwong KK, Gress DR, Buonanno FS, Buxton RB, Rosen BR.
+MR diffusion imaging of cerebral infarction in humans. Am. J.
+Neuroradiol. 1992; 13(4): 1097–1102; discussion 1103–1095.
+3. Warach S, Chien D, Li W, Ronthal M, Edelman R. Fast magnetic
+resonance diffusion-weighted imaging of acute human stroke.
+Neurology 1992; 42(9): 1717–1723.
+4. Neumann-Haefelin T, Wittsack HJ, Wenserski F, Siebler M, Seitz RJ,
+Modder U, Freund HJ. Diffusion- and perfusion-weighted MRI. The
+DWI/PWI mismatch region in acute stroke. Stroke 1999; 30(8):
+1591–1597.
+5. Parsons MW, Barber PA, Chalk J, Darby DG, Rose S, Desmond PM,
+Gerraty RP, Tress BM, Wright PM, Donnan GA, Davis SM. Diffusionand perfusion-weighted MRI response to thrombolysis in stroke.
+Ann. Neurol. 2002; 51(1): 28–37.
+6. Kidwell CS, Alger JR, Saver JL. Beyond mismatch: evolving paradigms
+in imaging the ischemic penumbra with multimodal magnetic
+resonance imaging. Stroke 2003; 34(11): 2729–2735.
+7. Nicoli F, Lefur Y, Denis B, Ranjeva JP, Confort-Gouny S, Cozzone PJ.
+Metabolic counterpart of decreased apparent diffusion coefﬁcient
+during hyperacute ischemic stroke: a brain proton magnetic
+resonance spectroscopic imaging study. Stroke 2003; 34(7): e82–87.
+8. Sun PZ, Wang EF, Cheung JS. Imaging acute ischemic tissue acidosis
+with pH-sensitive endogenous amide proton transfer (APT) MRI –
+correction of tissue relaxation and concomitant RF irradiation effects
+toward mapping quantitative cerebral tissue pH. Neuroimage 2012;
+60(1): 1–6.
+9. Sun PZ, Cheung JS, Wang EF, Lo EH. Association between
+pH-weighted endogenous amide proton chemical exchange saturation transfer MRI and tissue lactic acidosis during acute ischemic
+stroke. J. Cereb. Blood Flow Metab. 2011; 31(8): 1743–1750.
+10. Guadagno JV, Warburton EA, Jones PS, Day DJ, Aigbirhio FI, Fryer TD,
+Harding S, Price CJ, Green HA, Barret O, Gillard JH, Baron JC. How
+affected is oxygen metabolism in DWI lesions?: A combined acute
+stroke PET–MR study. Neurology 2006; 67(5):824–829.
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+wileyonlinelibrary.com/journal/nbm
+
+1417
+
+the fast DKI protocol used in our study took about 2 min,
+substantially shorter than the conventional DKI protocols of
+5 min. Before we can apply it to study patients in the acute stroke
+setting, it is necessary to compare it with conventional DKI
+methods and validate that diffusion and kurtosis lesions can be
+reliably measured at reduced scan time. It is important to note that
+MD and MD′ correspond to the same physical quantities, albeit
+estimated in different ways. In contrast, MK and MK′ are physically
+distinct, but are nonetheless highly correlated. Speciﬁcally, MK
+presents the directional average of the kurtosis and MK′ represents
+the average of the kurtosis tensor (21). Indeed, we showed that
+mean diffusion and kurtosis coefﬁcients obtained using the fast
+DKI scheme substantially correlated with those from conventional
+DKI protocols (Figs. 1 and 2). In addition, the fast DKI method was
+in excellent agreement with the standard methods in deﬁning
+mean diffusion and kurtosis lesions (Fig. 4). More importantly, the
+kurtosis–diffusion lesion mismatch during acute ischemic stroke
+can be captured using the fast DKI method (21).
+As the MK measurement was the major focus in our study
+instead of the full kurtosis tensor, we chose the approach of
+multiple b-values along six undersampled diffusion directions
+in order to reduce its scan time for acute stroke imaging. We
+derived kurtosis using goodness of ﬁt, a model that has also
+been used by Lätt et al. and Jensen et al. (22,23,25). The small
+number of diffusion directions used for conventional DKI is a
+limitation of the study. In particular, the MK measurements
+determined from six directions are probably more variable and
+less accurate than would be the case for a 30 direction protocol
+(21). Recently, Fukunaga et al. demonstrated similar MK
+measurements using 6 and 15 directions (24). Our results also
+conﬁrmed signiﬁcant correlation between measurements
+obtained with six b-values along six directions, three b-values
+along 15 directions and the fast DKI method proposed by
+Hansen et al. (21). Both diffusion and kurtosis determined from
+the fast method were slightly underestimated with respect to
+the approach of multiple b-values. The reasons for this could
+be complex because in vivo diffusion measurements depend
+on a number of parameters, including the diffusion direction,
+number and range of b-values as well as diffusion time. In addition, the fast approach solves for the diffusion and kurtosis by
+assuming negligible high order diffusion (e.g. O(b3)) and Rician
+noise terms, while such terms could be treated as the residual
+ﬁtting error in the multiple-b DKI approach. Importantly, the
+correlation between these two protocols was highly signiﬁcant.
+It is worth noting that the fast DKI approach only provides
+measurements of mean diffusion and kurtosis, which may hinder
+the adoption of the fast DKI protocol in the situation where a
+complete set of diffusion tensor metrics beyond mean diffusion
+and kurtosis are required (19,26–33). Because studies have
+demonstrated that diffusion anisotropic matrixes such as FA do
+not consistently show changes in the ﬁrst six hours of ischemic
+stroke, the fast DKI approach, despite the loss of its ability to
+resolve diffusion and kurtosis tensors, should be acceptable for
+the acute stroke imaging application, where imaging time has
+to be minimized (34,35).
+The establishment of the fast DKI protocol should enable
+future studies to investigate early ischemic tissue injury in the
+acute stroke setting and to verify whether kurtosis MRI augments
+standard stroke MRI, and ultimately provides guidance for more
+effective stroke treatment. Our study used an intraluminal stroke
+model, which provides relatively reproducible ischemic insult, to
+validate the fast DKI MRI method in acute stroke. However, the
+
+P. Z. SUN ET AL.
+11. Sun PZ, Zhou J, Sun W, Huang J, van Zijl PC. Detection of the ischemic penumbra using pH-weighted MRI. J. Cereb. Blood Flow Metab.
+2007; 27(6): 1129–1136.
+12. Fiehler J, Foth M, Kucinski T, Knab R, von Bezold M, Weiller C, Zeumer
+H, Rother J. Severe ADC decreases do not predict irreversible tissue
+damage in humans. Stroke 2002; 33(1):79–86.
+13. Ringer TM, Neumann-Haefelin T, Sobel RA, Moseley ME, Yenari MA.
+Reversal of early diffusion-weighted magnetic resonance imaging
+abnormalities does not necessarily reﬂect tissue salvage in experimental cerebral ischemia. Stroke 2001; 32(10): 2362–2369.
+14. Cheung MM, Hui ES, Chan KC, Helpern JA, Qi L, Wu EX. Does diffusion
+kurtosis imaging lead to better neural tissue characterization? A
+rodent brain maturation study. Neuroimage 2009; 45(2): 386–392.
+15. Jensen JH, Falangola MF, Hu C, Tabesh A, Rapalino O, Lo C, Helpern JA.
+Preliminary observations of increased diffusional kurtosis in human brain
+following recent cerebral infarction. NMR Biomed. 2011; 24(5): 452–457.
+16. Grinberg F, Ciobanu L, Farrher E, Shah NJ. Diffusion kurtosis imaging and
+log-normal distribution function imaging enhance the visualisation of
+lesions in animal stroke models. NMR Biomed. 2012; 25(11): 1295–1304.
+17. Hui ES, Du F, Huang S, Shen Q, Duong TQ. Spatiotemporal dynamics
+of diffusional kurtosis, mean diffusivity and perfusion changes in
+experimental stroke. Brain Res. 2012; 1451(0): 100–109.
+18. Song Y, Cho H, Hopper T, Pomerantz A, Sun PZ. Magnetic resonance in
+porous media: recent progress. J. Chem. Phys. 2008; 7(128): 052212.
+19. Hui ES, Fieremans E, Jensen JH, Tabesh A, Feng W, Bonilha L,
+Spampinato MV, Adams R, Helpern JA. Stroke assessment with diffusional kurtosis imaging. Stroke 2012; 43(11): 2968–2973.
+20. Cheung JS, Wang E, Lo EH, Sun PZ. Stratiﬁcation of heterogeneous
+diffusion MRI ischemic lesion with kurtosis imaging – evaluation of
+mean diffusion and kurtosis MRI mismatch in an animal model of
+transient focal ischemia. Stroke 2012; 43(8): 2252–2254.
+21. Hansen B, Lund TE, Sangill R, Jespersen SN. Experimentally and
+computationally fast method for estimation of a mean kurtosis.
+Magn. Reson. Med. 2013; 69(6): 1754–1760.
+22. Jensen JH, Helpern JA, Ramani A, Lu H, Kaczynski K. Diffusional
+kurtosis imaging: the quantiﬁcation of non-gaussian water diffusion
+by means of magnetic resonance imaging. Magn. Reson. Med. 2005;
+53(6): 1432–1440.
+23. Lätt J, Nilsson M, Wirestam R, Johansson E, Larsson E-M, Stahlberg F,
+Brockstedt S. In vivo visualization of displacement-distributionderived parameters in q-space imaging. Magn. Reson. Imaging
+2008; 26(1): 77–87.
+24. Fukunaga I, Hori M, Masutani Y, Hamasaki N, Sato S, Suzuki Y, Kumagai
+F, Kosuge M, Hoshito H, Kamagata K, Shimoji K, Nakanishi A, Aoki S,
+
+25.
+26.
+27.
+28.
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+34.
+35.
+
+36.
+
+Senoo A. Effects of diffusional kurtosis imaging parameters on diffusion quantiﬁcation. Radiol. Phys. Technol. 2013; 6(2): 343–348.
+Jensen JH, Helpern JA. MRI quantiﬁcation of non-Gaussian water
+diffusion by kurtosis analysis. NMR Biomed. 2010; 23(7): 698–710.
+Hui ES, Cheung MM, Qi L, Wu EX. Towards better MR characterization
+of neural tissues using directional diffusion kurtosis analysis.
+Neuroimage 2008; 42(1): 122–134.
+Raab P, Hattingen E, Franz K, Zanella FE, Lanfermann H. Cerebral
+gliomas: diffusional kurtosis imaging analysis of microstructural
+differences. Radiology 2010; 254(3): 876–881.
+Wang JJ, Lin WY, Lu CS, Weng YH, Ng SH, Wang CH, Liu HL, Hsieh RH,
+Wan YL, Wai YY. Parkinson disease: diagnostic utility of diffusion
+kurtosis imaging. Radiology 2011; 261(1): 210–217.
+Grossman EJ, Ge Y, Jensen JH, Babb JS, Miles L, Reaume J, Silver JM,
+Grossman RI, Inglese M. Thalamus and cognitive impairment in mild
+traumatic brain injury: a diffusional kurtosis imaging study.
+J. Neurotrauma 2011; 29(13): 2318–2327.
+Grinberg F, Farrher E, Kaffanke J, Oros-Peusquens A-M, Shah NJ. NonGaussian diffusion in human brain tissue at high b-factors as
+examined by a combined diffusion kurtosis and biexponential
+diffusion tensor analysis. Neuroimage 2011; 57(3): 1087–1102.
+Van Cauter S, Veraart J, Sijbers J, Peeters RR, Himmelreich U, De
+Keyzer F, Van Gool SW, Van Calenbergh F, De Vleeschouwer S, Van
+Hecke W, Sunaert S. Gliomas: diffusion kurtosis MR imaging in
+grading. Radiology 2012; 263(2): 492–501.
+Rosenkrantz AB, Sigmund EE, Winnick A, Niver BE, Spieler B, Morgan
+GR, Hajdu CH. Assessment of hepatocellular carcinoma using
+apparent diffusion coefﬁcient and diffusion kurtosis indices: preliminary experience in fresh liver explants. Magn. Reson. Imaging 2012;
+30(10): 1534–1540.
+Fieremans E, Jensen JH, Helpern JA. White matter characterization
+with diffusional kurtosis imaging. Neuroimage 2011; 58(1): 177–188.
+Shen Q, Ren H, Fisher M, Duong TQ. Statistical prediction of tissue
+fate in acute ischemic brain injury. J. Cereb. Blood Flow Metab.
+2005; 25(10): 1336–1345.
+Wu O, Sumii T, Asahi M, Sasamata M, Ostergaard L, Rosen BR, Lo EH,
+Dijkhuizen RM. Infarct prediction and treatment assessment with
+MRI-based algorithms in experimental stroke models. J. Cereb. Blood
+Flow Metab. 2007; 27(1): 196–204.
+Jacobs MA, Knight RA, Soltanian-Zadeh H, Zheng ZG, Goussev AV,
+Peck DJ, Windham JP, Chopp M. Unsupervised segmentation of
+multiparameter MRI in experimental cerebral ischemia with comparison to T2, diffusion, and ADC MRI parameters and histopathological
+validation. J. Magn. Reson. Imaging 2000; 11(4): 425–437.
+
+1418
+wileyonlinelibrary.com/journal/nbm
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+NMR Biomed. 2014; 27: 1413–1418
+
+

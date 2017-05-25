@@ -1,0 +1,984 @@
+Metab Brain Dis (2015) 30:911–924
+DOI 10.1007/s11011-014-9639-8
+
+RESEARCH ARTICLE
+
+Regulatory CD8+CD122+ T-cells predominate in CNS
+after treatment of experimental stroke in male mice
+with IL-10-secreting B-cells
+Sheetal Bodhankar & Yingxin Chen & Andrew Lapato &
+Arthur A. Vandenbark & Stephanie J. Murphy &
+Julie A. Saugstad & Halina Offner
+Received: 24 November 2014 / Accepted: 2 December 2014 / Published online: 25 December 2014
+# Springer Science+Business Media New York 2014
+
+Abstract Clinical stroke induces inflammatory processes
+leading to cerebral and splenic injury and profound
+peripheral immunosuppression. IL-10 expression is elevated during major CNS diseases and limits inflammation in the brain. Recent evidence demonstrated that
+transfer of IL-10+ B-cells reduced infarct volume in
+male C57BL/6J (wild-type, WT) recipient mice when
+given 24 h prior to or 4 h after middle cerebral artery
+occlusion (MCAO). The purpose of this study was to
+determine if passively transferred IL-10+ B-cells can
+exert therapeutic and immunoregulatory effects when
+injected 24 h after MCAO induction in B-cellsufficient male WT mice. The results demonstrated that
+IL-10+ B-cell treated mice had significantly reduced
+infarct volumes in the ipsilateral cortex and hemisphere
+and improved neurological deficits vs. Vehicle-treated
+
+control mice after 60 min occlusion and 96 h of reperfusion. The MCAO-protected B-cell recipient mice had
+less splenic atrophy and reduced numbers of activated,
+inflammatory T-cells, decreased infiltration of T-cells
+and a less inflammatory milieu in the ischemic hemispheres compared with Vehicle-treated control mice.
+These immunoregulatory changes occurred in concert
+with the predominant appearance of IL-10-secreting
+CD8+CD122+ Treg cells in both the spleen and the
+MCAO-affected brain hemisphere. This study for the
+first time demonstrates a major neuroprotective role for
+IL-10+ B-cells in treating MCAO in male WT mice at a
+time point well beyond the ~4 h tPA treatment window,
+leading to the generation of a dominant IL10+CD8+CD122+ Treg population associated with spleen
+preservation and reduced CNS inflammation.
+
+Sheetal Bodhankar and Yingxin Chen contributed equally to this work
+
+Keywords MCAO . IL-10-secreting B-cells .
+IL-10+CD8+CD122+ regulatory T-cells . Inflammatory cells
+
+S. Bodhankar : A. Lapato : A. A. Vandenbark : H. Offner
+Neuroimmunology Research, VA Medical Center,
+Portland, OR, USA
+S. Bodhankar : A. Lapato : A. A. Vandenbark : H. Offner
+Department of Neurology, Oregon Health & Science University,
+Portland, OR, USA
+A. A. Vandenbark
+Department of Molecular Microbiology & Immunology,
+Oregon Health & Science University, Portland, OR, USA
+Y. Chen : S. J. Murphy : J. A. Saugstad : H. Offner
+Department of Anesthesiology & Perioperative Medicine,
+Oregon Health & Science University, Portland, OR, USA
+A. A. Vandenbark : H. Offner (*)
+Neuroimmunology Research, R&D-31,
+Portland Veterans Affairs Medical Center, 3710 SW US Veterans
+Hospital Rd, Portland, OR 97239, USA
+e-mail: offnerva@ohsu.edu
+
+Abbreviations
+CNS
+Central nervous system
+MCAO Middle cerebral artery occlusion
+WT
+wild-type Green Fluorescent Protein (GFP)
+TNF-α
+Tumor necrosis factor α
+INF-γ
+Interferon γ
+CD
+Cluster of Differentiation
+MHC II Major Histocompatibility Complex II
+RPMI
+Roswell Park Memorial Institute
+IL
+Interleukin
+PBS
+Phosphate-buffered saline
+DNase I Deoxyribonuclease I
+FACS
+Fluorescence Activated Cell Sorter
+PI
+propidium iodide.
+
+912
+
+Introduction
+Stroke still remains the fourth leading cause of death and one
+of the major causes of disability in the United States (Minino
+et al. 2011). Although treatment with recombinant tPA is the
+only approved therapy for acute stroke, less than 5 % of the
+stroke patients benefit from this intervention (Fang et al. 2010)
+due to a very limited therapeutic window and a probable risk
+of hemorrhagic transformation. It is therefore paramount to
+understand the endogenous mechanisms that are activated in
+response to acute stroke, so that novel therapies that take
+advantage of this understanding can be developed for the
+treatment of this devastating condition. Inflammation plays a
+critical role in the pathogenesis of ischemic stroke and other
+forms of ischemic brain injuries. Key features of this
+neuroinflammatory reaction are the invasion of peripheral
+immune cells across the damaged blood–brain barrier, the
+activation of resident innate immune cells (microglia) and
+the production of inflammatory humoral mediators such as
+cytokines and chemokines (Iadecola and Anrather 2011).
+Various immunotherapeutic strategies have been tested for
+dampening the secondary inflammatory reaction after brain
+injury in order to improve stroke outcome. Besides blocking
+the cellular immune infiltration to the ischemic, damaged
+brain (Becker et al. 2001; Liesz et al. 2011; Zhou et al.
+2013), exploiting endogenous regulatory and immunosuppressive pathways has been intensively investigated (Iadecola
+and Anrather 2011; Li et al. 2013; Liesz et al. 2013). However,
+attempts to translate these approaches into clinical practice
+will benefit from a better understanding of the complexities of
+molecular mechanisms responsible for these immune
+responses.
+Interleukin (IL)-10 is one of the key anti-inflammatory
+cytokines produced by the various regulatory immune subpopulations, including B- and T-cells and monocytes/microglia. The neuroprotective properties of IL-10 administration in
+experimental stroke models have already been demonstrated
+(Spera et al. 1998; Strle et al. 2001). However, little is known
+about the cellular source and kinetics of IL-10 production after
+induction of ischemic stroke. Recent experimental data demonstrate the complexities of modulating the immune response
+after stroke and suggest that immune cells can have both
+beneficial and detrimental effects. Given that the experimental
+model influences the time course and number of infiltrating
+immune cells as well as the degree of microglial activation
+(Zhou et al. 2013), it becomes paramount to know the timing
+and duration of interventions aimed at modulating inflammation. Hence, one of the rapidly evolving areas of stroke research involves defining the molecular and cellular bases for
+the augmented tissue injury and inflammation associated with
+transient cerebral ischemia.
+Our laboratory has been actively investigating these postischemic inflammatory mechanisms and the interaction of
+
+Metab Brain Dis (2015) 30:911–924
+
+activated immune cells with ischemic brain tissue. Notably,
+we have demonstrated that B-cells are critical for governing
+infarct size and that MCAO-induced changes can be
+prevented in B-cell-deficient (μMT−/−) mice after transfer of
+highly purified IL-10+ B-cells, but not IL-10-deficient B-cells.
+These studies clearly implicated IL-10-secreting B-cells as a
+major regulatory cell type in ischemic stroke (Offner and Hurn
+2012; Ren et al. 2011). The critical role played by IL-10+ Bcells was confirmed with the demonstration that B-celldeficient mice replenished with IL-10-rich B-cells 24 h prior
+to MCAO had a significant decrease in infarct volumes
+(Bodhankar et al. 2013; Chen et al. 2012). The transferred
+IL-10+ B-cells also mitigated pro-inflammatory responses
+both in the brain and the periphery. Moreover, our most recent
+study demonstrated the immunoregulatory role of IL-10enriched B-cells in reducing the infarct size in B-cell-sufficient
+mice. IL-10-rich B-cells were efficient in limiting infarct
+volumes when given prophylactically (24 h before) or therapeutically (4 h after) MCAO-induction (Bodhankar et al.
+2014). The primary purpose of the present study was to
+determine whether IL-10-rich B-cells can still elicit immunoregulation upon treating B-cell-sufficient mice at a more amenable, therapeutically relevant time-point as late as 24 h after
+the induction of MCAO. Our results very clearly demonstrate
+that treatment with IL-10+ B-cells significantly reduces infarct
+volume and partially reverses splenic atrophy when administered 24 h after the onset of stroke. The protection provided
+could be attributed largely to the dominant changes in the
+CD8+CD122+ regulatory T (Treg) populations in male WT
+mice treated with IL-10+ B-cells compared to Vehicle, leading
+to a decreased pro-inflammatory milieu both in the periphery
+and the MCAO-affected hemisphere of the brain. Our studies
+are the first to demonstrate a major immunoregulatory role for
+IL-10+ B-cells in rendering protection in male WT mice as late
+as 24 h post-stroke and in generating another highly potent
+regulatory subset (CD8+CD122+ Treg cells), which in turn
+appears to play a dominant role in attenuating proinflammatory reactions generated upon reperfusion-based cerebral injury.
+
+Materials and methods
+Animals
+Male C57BL/6J (wild-type, WT) mice 8 to 12 weeks of age
+(Jackson Laboratory, Sacramento, CA, USA) and weighing
+20 to 25 g were used as recipients for adoptive transfers and
+induction of transient focal cerebral ischemia. All WT mice
+were housed at the Oregon Health and Science University.
+Male IL10-GFP reporter mice (on a C57BL/6J background)
+were used at 8 to 10 weeks of age as donors for adoptive
+transfers. These mice were bred and housed in the Animal
+
+Metab Brain Dis (2015) 30:911–924
+
+913
+
+Resource Facility at the Portland Veterans Affairs Medical
+Center in accordance with institutional guidelines. The IL10GFP reporter mice have a floxed neomycin-IRES eGFP cassette (Madan et al. 2009) inserted between the endogenous
+stop site and the poly (A) site of the Il10 gene to help track IL10 producing cells in vivo. The mice, designated as Vert-X,
+are homozygous, develop normally and are viable and fertile
+without any obvious phenotype. All experimental protocols
+were approved by Oregon Health and Science University and
+Portland Veteran Affairs Medical Center Animal Care and Use
+Committees.
+
+occlusion was initiated, the incision was closed with 6–0
+surgical sutures (ETHICON, Inc., Somerville, NJ, USA).
+Each mouse was then awakened during occlusion and placed
+in a separate cage with a warm water pad and heating lamp. At
+the end of the 1 h ischemic period, mice were briefly reanesthetized with isoflurane, the LDF probe was repositioned
+over the same site on the skull, the occluding filament was
+withdrawn for reperfusion and the incision was closed with 6–
+0 surgical sutures (ETHICON, Inc., Somerville, NJ, USA).
+Each mouse was then awakened and recovered in a separate
+cage with a warm water pad.
+
+Cell sorting and adoptive transfer of B-cells
+
+Neurological deficit scores
+
+Male IL-10-GFP reporter mice served as donors of B-cells.
+Splenic CD19+ B-cells were purified using paramagnetic
+bead-conjugated antibodies (Abs) from the CD19 cell isolation kit and subsequently separated by AutoMACS (Miltenyi
+Biotec, Auburn, CA). The negative fraction of the cells thus
+separated were CD19+ B-cells with a purity of≥92 %. CD19+
+B-cells were suspended in RPMI 1640 medium with 2 % Fetal
+Bovine Serum (FBS) and cultured in the presence of 1 μg/mL
+lipopolysaccharide (LPS, E. coli strain K12). After 48 h of
+culture, B-cells were harvested from culture plates, washed
+free of LPS and viable cells were counted using a hemocytometer with the trypan blue exclusion method. Five million
+purified IL-10-GFP+ B-cells from the donor mice were
+suspended in 100 μL RPMI 1640 medium and were transferred intravenously (i.v.) via tail vein injection into recipient
+WT mice (experimental group) 24 h after MCAO while the
+Vehicle control group received 100 μL RPMI 1640 medium.
+
+Neurological deficit scores were determined at 1, 24, 48, 72,
+and 96 h of reperfusion to confirm ischemia and the presence
+of ischemic injury using a 0 to 4 point scale as follows: 0, no
+neurological dysfunction; 1, failure to extend left forelimb
+fully when lifted by tail; 2, circling to the contralateral side;
+3, falling to the left; and 4, no spontaneous movement or in a
+comatose state (Chen et al. 2012). Any animal without a
+deficit at 1 h of reperfusion was excluded from the study.
+
+Middle cerebral artery occlusion (MCAO) model
+Transient focal cerebral ischemia was induced in male WT
+mice for 1 h by reversible right MCAO under isoflurane
+anesthesia followed by 96 h of reperfusion as previously
+described (Bodhankar et al. 2014). The individual performing
+all MCAO surgeries was blinded to treatment group. Head and
+body temperature were controlled at 36.5±1.0 °C during
+surgery, MCAO and early reperfusion with warm water pads
+and a heating lamp. Occlusion and reperfusion were verified
+in each mouse by laser Doppler flowmetry (LDF) (Model
+DRT4, Moor Instruments, Inc., Wilmington, DE, USA). Occlusion was achieved by introducing a 6–0 nylon monofilament (ETHICON, Inc., Somerville, NJ, USA) with a siliconecoated (Xantopren comfort light, Heraeus, Germany) tip
+through an external carotid artery stump distal to the internal
+carotid artery to the origin of the middle cerebral artery.
+Adequacy of MCAO was confirmed by monitoring cortical
+blood flow at the onset of the occlusion with an LDF probe
+affixed to the skull. Animals were excluded if intra-ischemic
+LDF was greater than 25 % pre-ischemic baseline. After
+
+Infarct volume analysis
+Individual performing infarct volume analysis was blinded to
+treatment group. Mice were euthanized and brains collected at
+96 h of reperfusion for 2,3,5-triphenyltetrazolium chloride
+histology and then digital image analysis of infarct volume
+as previously described (Chen et al. 2012). Images were
+analyzed using Sigma Scan Pro 5.0 Software (Systat, Inc.,
+Point Richmond, CA). To control for edema, regional infarct
+volume (cortex, striatum, and hemisphere) was determined by
+subtraction of the ipsilateral non-infarcted regional volume
+from the contralateral regional volume. This value was then
+divided by the contralateral regional volume and multiplied by
+100 to yield regional infarct volume as a percent of the
+contralateral region.
+Isolation of leukocytes from spleen and brain
+Spleens from individual control and B-cell recipient WT mice
+were removed and a single-cell suspension was prepared by
+passing the tissue through a 100 μm nylon mesh (BD Falcon,
+Bedford, MA). The cells were washed using RPMI 1640. Red
+cells were lysed using ×x red cell lysis buffer (eBioscience,
+Inc., San Diego, CA) and incubated for 3 min. Cells were then
+washed twice with RPMI 1640, counted and resuspended in
+stimulation medium (RPMI containing 10 % FBS, 1 % sodium pyruvate, 1 % L-glutamine and 0.4 % βMercaptoethanol). The brain was divided into the ischemic
+(right) and nonischemic (left) hemispheres, dissociated mechanically through a 100 μm nylon mesh screen, resuspended
+
+914
+
+in 80 % Percoll (GE Healthcare, Pittsburgh, PA) overlaid with
+40 % Percoll and subjected to density gradient centrifugation
+for 30 min at 1600 rpm, according to a method described
+previously (Campanella et al. 2002). Inflammatory cells were
+removed from the interphase for further analysis. Cells were
+then washed twice with RPMI 1640, counted and resuspended
+in stimulation medium. Cells from individual brain hemispheres were evaluated by flow cytometry.
+Analysis of cell populations by fluorescence-activated cell
+sorting (FACS)
+All antibodies were purchased from BD Biosciences (San
+Jose, CA) or eBioscience, Inc. (San Diego, CA) as published
+(Offner et al. 2006b, c). Four-color (FITC, PE, APC and PI/
+PerCP/PECy7) fluorescence flow cytometry analyses were
+performed to determine the phenotypes of splenocytes and
+brain leukocytes as previously published (Offner et al. 2006a).
+Single-cell suspensions were washed with staining medium
+(PBS containing 0.1 % NaN3 and 0.5 % bovine serum albumin, Sigma, Illinois) and incubated with combinations of the
+following monoclonal antibodies: CD4 (GK1.5, BD
+Pharmingen), CD8a (53–6.7, BD Pharmingen), CD11b (M1/
+70, eBioscience), CD45 (Ly-5, BD Pharmingen), CD19 (1D3,
+BD Pharmingen), CD1d (1B1, BD Pharmingen), CD122
+(TM-β1 BD Pharmingen), MHCII (2G9, BD Pharmingen),
+CD69 (H1.2 F3, BD Pharmingen) for 10 min at 4 °C. One mL
+of staining buffer was added to wash the cells. Propidium
+iodide (PI) was added to identify dead cells whenever only 3
+channels on the FACSCalibur were used for detection of
+fluorescent antibody staining. The FoxP3 staining kit was
+used according to the manufacturer’s protocol (eBioscience)
+as previously described (Zhang et al. 2010). FACS data acquisition was performed on FACSCalibur flow cytometer (BD
+Biosciences, San Jose, CA) and data were analyzed using FCS
+express software (De Novo Software, Los Angeles, CA).
+
+Metab Brain Dis (2015) 30:911–924
+
+(all reagents from Sigma-Aldrich) for 4 h. Fc receptors were
+blocked with anti-FcR mAb (2.3G2; BD PharMingen) before
+cell-surface staining and fixed and permeabilized with the
+Fixation/Permeabilization buffer (eBioscience) according to
+the manufacturer’s instructions. Permeabilized cells were
+washed with 1× Permeabilization Buffer (eBioscience) and
+were stained with tumor necrosis factor-α (MP6-XT22, BD
+Pharmingen), IL-17A (TC11-18H10, BD Pharmingen),
+Interferon-γ (XMG1.2, eBioscience) and/or APC-conjugated
+anti-IL-10 mAb (JES5-16E3, eBioscience). Isotype matched
+mAb served as negative controls to demonstrate specificity
+and to establish background TNF-α, IL-17, IFN-γ and IL-10staining levels.
+RNA isolation and reverse transcription-polymerase chain
+reaction
+Total RNA was isolated from brains of control and IL-10+ Bcell recipient WT mice using the RNeasy mini kit protocol
+(Qiagen, Valencia, CA, USA) and converted into cDNA using
+oligo-dT, random hexamers and Superscript RT II (Invitrogen,
+Grand Island, NY, USA). Quantitative real time PCR was
+performed using TaqMan Gene Expression Array FAST
+plates for mouse immune response on a StepOnePlus Real
+Time PCR System. cDNA from mice from each group (control vs. treated) was pooled for the gene array analysis.
+GAPDH housekeeping gene was used as an endogenous
+control. Fold change in the expression of genes was calculated
+using the formula 2-ΔΔCt. Reverse transcription-PCR was
+performed using TaqMan PCR master mix and pre-designed
+Taqman primers for IL-4, IL-10, CXCL10 (IP-10), CXCR3,
+ICAM-1, IL-33 and MMP-9 primers (Applied Biosystems,
+Foster City, CA, USA). mRNA was quantified in reactions
+conducted on the ABI Prism 7000 Sequence Detection System (Applied Biosystems) and data represented as relative
+units compared with the GAPDH reference gene.
+
+Intracellular staining
+Statistical analysis
+Intracellular staining was visualized using a published immunofluorescence protocol (Subramanian et al. 2011). Briefly,
+2× 106 cells/mL were resuspended in complete medium
+(RPMI 1640 containing 10 % fetal calf serum, 1 mM/L
+pyruvate, 200 μg/mL penicillin, 200 U/mL streptomycin,
+4 mM/L L-glutamine, and 5 × 10−5 mol/L 2-βmercaptoethanol) with PMA (50 ng/mL), ionomycin
+(500 ng/mL), and Brefeldin A (10 μg/mL; Sigma-Aldrich)
+for 4 h. For intracellular IL-10 detection, a modification was
+followed for the immunofluorescence staining protocol
+(Yanaba et al. 2008). Briefly, isolated leukocytes or purified
+cells were resuspended (2×106 cells/mL) in complete medium
+and cultured with LPS (10 μg/mL) in addition to PMA (50 ng/
+mL), ionomycin (500 ng/mL), and Brefeldin A (10 μg/mL)
+
+Infarct volume data are presented as mean±SEM. Differences
+in regional infarct volumes were determined with Student’s ttest. Functional outcomes for neurological deficit scores were
+analyzed by Mann Whitney Rank Sum test. Statistical significance was p<0.05. Statistical analyses were performed using
+GraphPad Prism version 6.00 (GraphPad Software, La Jolla,
+CA). Statistical significance for the differences between percentages of cellular subtypes by FACS analysis for
+splenocytes was analyzed with Student’s t-test. Statistical
+significance for data obtained by FACS analysis for brain
+leukocytes was analyzed by one-way analysis of variance
+(ANOVA) followed by a post hoc Tukey’s test. The criterion
+for statistical significance was p≤0.05. All values are reported
+
+Metab Brain Dis (2015) 30:911–924
+
+as mean±SEM. Significant differences are denoted as *p≤
+0.05; **p≤0.01; ***p≤0.001.
+
+915
+
+MCAO (Table 1), although no significant differences
+were observed at earlier time points (Table 1).
+Mortality and exclusions
+
+Results
+Adoptive transfer of IL-10+ B-cells, 24 h after MCAO,
+reduces infarct volume in male WT mice
+As shown in Fig. 1a, WT mice that received IL-10+ B-cells
+(n=11) 24 h after MCAO exhibited significantly reduced
+cortical (p=0.025) and total hemisphere (p=0.043) infarct
+volumes after 1 h MCAO followed by 96 h of reperfusion
+compared to no-cell transferred Vehicle (RPMI) controls (n=
+11). No differences were seen in striatal (p=0.753) infarct
+volumes between mice that received IL-10+ B-cells (n=11)
+24 h after MCAO compared to Vehicle (RPMI)-treated controls (n=11). Representative cerebral sections from WT mice
+treated with RPMI or IL-10+ B-cells are shown in Fig. 1b.
+
+Overall mortality from MCAO for infarct volume and immunology studies was 12 mice out of a total of 71 mice, with
+mortality ranging from 4 to 8 mice within the experimental
+groups. Overall number of mice excluded due to intraischemic LDF greater than 25 % pre-ischemic baseline was
+1 mouse out of a total of 71 mice, with exclusions ranging
+from 0 to 1 mouse within the experimental groups.
+Treatment with IL-10+ B-cells, 24 h after the induction
+of MCAO, ameliorates splenic atrophy
+
+Median neurological deficit scores evaluated for mice in both
+the infarct and immunology treatment groups 96 h after
+MCAO showed a significant improvement (p=0.0235) in
+mice receiving adoptively transferred IL-10 + B-cells
+(n=30) vs. Vehicle controls (n=28) treated 24 h after
+
+Our lab has repeatedly established the phenomenon of strokeinduced splenic atrophy (Offner et al. 2006a), a process that
+could be partially prevented by transfer of IL-10+ B-cells 24 h
+before MCAO (Bodhankar et al. 2013, 2014). The question
+was whether splenic atrophy could also be impacted by treatment of mice with IL-10+ B-cells given 24 h after MCAO. As
+expected and previously demonstrated (Bodhankar et al.
+2013; Offner et al. 2006b), MCAO resulted in large reductions
+in spleen cell numbers in Vehicle-treated mice. The spleen
+counts in mice receiving Vehicle averaged ~20 million cells
+after 1 h of MCAO and 96 h of reperfusion (Fig. 2a), a ~70 %
+reduction compared to spleens from naïve mice. In contrast,
+viable spleen cell counts in the recipients of IL-10+ B-cells
+
+Fig. 1 Adoptive transfer of IL10+ B-cells, 24 h after MCAO, reduces
+infarct volume in male WT mice. a Intravenous transfer of 5 million
+IL10+ B-cells given 24 h after surgery to induce middle cerebral artery
+occlusion (MCAO) reduced infarct volume in C57BL/6 J (wild-type,
+WT) mice 96 h following 1 h of MCAO compared to intravenous transfer
+
+of RPMI Vehicle (no cells). *p<0.05. b Representative 2,3,5 triphenyltetrazolium chloride stained cerebral sections 96 h following 1 h of
+MCAO. Localization of the ischemic lesion differed between WT mice
+receiving intravenous IL10+ B-cells (right column) vs. RPMI Vehicle (no
+cells) (left column) 24 h after MCAO. *p<0.05
+
+Adoptive transfer of IL-10+ B-cells, 24 h after MCAO,
+improves neurological deficit scores 96 h after MCAO
+
+916
+
+Metab Brain Dis (2015) 30:911–924
+
+Table 1 Neurological deficit score distribution and median scores at various reperfusion time points following 1 h of middle cerebral artery occlusion
+(MCAO) in male C57BL/6J (wild-type, WT) treated intravenously with RPMI (Vehicle) or 5 million IL10+ B-cells 24 h after MCAO
+
+# p<0.01 compared to WT+RPMI
+
+Fig. 2 Treatment with IL-10+ Bcells, 24 h after the induction of
+MCAO, ameliorates splenic
+atrophy 96 h after MCAO,
+mononuclear cells were isolated
+from spleens of RPMI or IL-10GFP+ B-cell recipient WT mice
+and analyzed for: a. Total cell
+count via hemocytometer. Values
+represent mean numbers (±SEM)
+of indicated cell subsets from 28
+to 30 mice in each group, from at
+least 8 separate experiments; b.
+Comparison of CD11c+ dendritic
+cells, CD11b+ monocytes, CD19+
+B-cells, CD4+ and CD8+ T-cell
+subpopulations. Values represent
+mean numbers (±SEM) of indicated cell subsets, gated on live
+leukocytes (by PI exclusion),
+from 8 to 12 mice of each group,
+from at least 3 separate experiments. Statistical analysis was
+performed with Student’s t-test to
+compare between RPMI and IL10-GFP+ B-cell recipient mice.
+Significant differences between
+sample means are indicated (*p≤
+0.05)
+
+Metab Brain Dis (2015) 30:911–924
+
+were significantly higher (~30–40 million cells/mouse, p=
+0.049) 96 h following MCAO (Fig. 2a).
+Given the partial restoration of splenic cell numbers in the
+IL-10+ B-cell-treated group, we further evaluated the frequencies of specific surviving splenic cell types. As shown in
+Fig. 2a, none of the spleen cell subpopulations (percentages
+or absolute cell numbers) were significantly different between
+the B-cell vs. Vehicle treated MCAO mice, although CD4+ Tcells, CD11b+ monocytes and CD11c+ dendritic cells trended
+higher, CD19+ B-cells did not change and CD8+ T-cells
+trended lower. Since the transferred IL-10-GFP+ B-cells comprised only ~1–2 % of the total splenocytes from WT recipient
+mice (data not shown), it was evident that the increase in
+spleen cell numbers was not contributed by the transferred
+Fig. 3 Transfer of IL-10-GFP+
+B-cells to WT mice, 24 h postMCAO, leads to reduced cerebral
+inflammatory cell infiltration 96 h
+after MCAO. Mononuclear cells
+were isolated from brains of
+RPMI and IL-10-GFP+ B-cell recipient WT mice and were analyzed for: a Total cell count via
+hemocytometer. Values represent
+mean numbers (±SEM) of indicated cell subsets from 14 to 15
+mice per group, from at least 5
+separate experiments; and b Percent frequencies of
+CD11b+CD45high activated microglia (MG)/monocytes,
+CD11b+CD45lo resting MG,
+CD4+ T-cells, CD8+ T-cells and
+CD19+ B-cells obtained from the
+non-ischemic (left) and ischemic
+(right) hemispheres of WT recipient mice by Flow cytometry.
+Values represent mean numbers
+(±SEM) of indicated cell subsets
+from 6 mice from WT mice
+transferred with medium or IL10-GFP+ B-cells after 24 h of
+MCAO, from at least 3 separate
+experiments. Statistical analysis
+was performed with ANOVA
+followed by Tukey’s multiple
+comparison post-hoc test. Significant differences between sample
+means are indicated (*p≤0.05 and
+**p≤0.01) as compared to the ischemic right hemisphere of
+medium-treated WT recipient
+mice
+
+917
+
+cells, but rather due to the influence of the transferred cells on
+recipient splenocyte distribution. Moreover, recipients of IL10+ B-cells had more viable splenocytes 96 h after reperfusion
+compared to Vehicle control mice (~70 % vs. 45 % propidium
+iodide (PI)− cells, data not shown). Thus, splenic atrophy was
+partially prevented upon transfer of IL-10+ B-cells 24 h after
+MCAO induction.
+Transfer of IL-10-GFP+ B-cells to WT mice, 24 h
+post-MCAO, leads to reduced cerebral inflammatory cell
+infiltration but increased resting microglial (MG) cells
+Our earlier studies demonstrated that with a reduction in the
+infarct volumes there is also a reduction in infiltrating
+
+918
+
+Metab Brain Dis (2015) 30:911–924
+
+Fig. 4 Treatment with IL-10+ B-cells, 24 h post-MCAO, leads to a
+significant increase in the CD8+ T regulatory cell population and its
+anti-inflammatory status in the spleens of recipient mice Splenocytes
+were isolated from RPMI or IL-10-GFP+ B-cell recipient WT mice 96 h
+after MCAO and assessed for: a. Frequency of CD8+CD122+ T-cells.
+Data are representative of 5 independent experiments (mean±SEM); b.
+analyzed for IL-10-production by GFP− cells using IL-10 APC mAb for
+detection by Flow cytometry and for the expression of IL-10 (GFP−) on
+
+gated CD8+CD122+ T-cells; Data are representative of 5 independent
+experiments with spleens processed from 9 to 10 individual mice (mean±
+SEM); and c expression of IFN-γ and IL-21 production by the gated
+splenic CD8+ T cells. Data are representative of 2 independent experiments with spleens processed from 5 to 6 individual mice (mean±SEM).
+Significant differences between the groups were determined using Student’s t-test and are indicated (*p≤0.05 and **p≤0.01)
+
+inflammatory cells into the ischemic brain hemispheres of the
+B cell-sufficient mice (Bodhankar et al. 2013, 2014). To
+determine whether the delayed transfer of IL-10-GFP+ Bcells to WT mice similarly reduces cellular infiltration into
+brain after MCAO, we enumerated the total number of live
+leukocytes obtained from the left (contralateral, MCAO-
+
+unaffected) and right (ipsilateral; MCAO-affected) hemispheres. The Vehicle-treated MCAO mice demonstrated a
+massive infiltration of leukocytes in the ischemic hemisphere
+after 96 h of reperfusion, but this cellular infiltration was
+significantly reduced (p=0.042) in the MCAO-affected hemispheres of the IL-10-GFP + B-cell-recipient WT mice
+
+Fig. 5 Treatment with IL-10+ B-cells, 24 h post-MCAO, leads to a
+significant increase in the CD8+ T regulatory cell population and its
+anti-inflammatory status in the ischemic hemisphere of the brain of
+recipient mice Brain leukocytes from ischemic hemispheres of RPMI
+and IL-10-GFP+ B-cell transferred WT recipient mice were harvested
+96 h after MCAO and assessed for: a. Frequency of CD8+CD122+ Tcells. Data are representative of 5 independent experiments (mean±
+
+SEM); and b. analyzed for IL-10-production on GFP− cells using IL-10
+APC mAb for detection by Flow cytometry and for the expression of IL10 (GFP−) on gated CD8+CD122+ T-cells; Data are representative of 5
+independent experiments with spleens processed from 9 to 10 individual
+mice (mean±SEM). Significant differences between the groups were
+determined using Student’s t-test and are indicated (*p≤0.05 and **p≤
+0.01)
+
+Metab Brain Dis (2015) 30:911–924
+
+(Fig. 3a). Further flow cytometric evaluation of the leukocyte
+composition in the brains of the IL-10-GFP+ B-cell-treated vs.
+Vehicle-treated mice after 96 h of reperfusion revealed reduced frequencies of activated CD11b + CD45high MG/
+macrophages (p=0.047) and infiltrating CD19+ B-cells (p=
+0.003) and an increased frequency of resting MG cells (p=
+0.020) in the ipsilateral hemispheres of the MCAO-induced
+B-cell-transferred group (Fig. 3b).
+Treatment with IL-10+ B-cells, 24 h post-MCAO, results in a
+significant increase in CD8+ T regulatory cells and reduced
+inflammation in both the spleen and the ischemic brain
+hemisphere of recipient mice after 96 h reperfusion
+Our previous studies demonstrated that prophylactic treatment
+with IL-10+ B-cells given 24 h prior to MCAO induced
+immunoregulation in the periphery but not locally in the
+affected brain hemisphere, potentially mediated in part by a
+recently identified CD8+ regulatory T-cell sub-population
+called CD8+CD122+ Tregs (Bodhankar et al. 2013, 2014).
+We thus addressed whether therapeutic treatment of MCAO
+mice with IL-10+ B-cells 24 h post MCAO could also induce
+CD8+CD122+ Tregs. As shown in Figs. 4 and 5, treatment
+with IL-10+ B-cells resulted in a significant increase in the
+frequency of CD8+CD122+ Tregs in both the spleen (Fig. 4a,
+p=0.002) and the ipsilateral brain hemisphere (Fig. 5a, p=
+0.039) after 96 h reperfusion. Moreover, there were significant
+increases in the spleen and the ischemic brain hemisphere in
+percentages of total recipient GFP − IL-10 + leukocytes
+(Fig. 4b, p=0.025 in spleen; and Fig. 5b, p=0.049 in brain)
+and IL-10+CD8+CD122+ Tregs (Fig. 4b, p=0.007 in spleen;
+and Fig. 5b, p=0.005 in brain). It is noteworthy that the IL10+CD8+CD122+ Tregs comprised ~10 % of CD8+ cells in
+the spleen and >40 % of CD8+ cells in the ischemic brain
+hemisphere after 96 h reperfusion in IL-10+ B-cell treated
+mice with MCAO. Moreover, in spleen, the increase in IL10+CD8+CD122+ Tregs appeared to have anti-inflammatory
+activity, potentially accounting for a significant reduction in
+percentages of IFN-γ+ and IL-21+ CD8+ T-cells (Fig. 4c, p=
+0.037).
+Comparatively, other regulatory cell types were less apparent in MCAO mice treated therapeutically vs. prophylactically
+with IL-10+ B-cells. We previously demonstrated significant
+increases in the frequencies of Foxp3+CD4+ Tregs as well as
+CD1dhiCD19+ Bregs in IL-10+ B-cell recipient vs. control
+mice when the IL-10+ Bregs were transferred 24 h before
+the induction of MCAO. As shown in Fig. 6a, the frequencies
+of CD4+Foxp3+ Tregs were significantly higher in the spleens
+of IL-10+ B cell-recipient mice, but there was no difference in
+the frequency of CD1dhiCD19+ Bregs. Having previously
+demonstrated that B-cells are the major producers of IL-10
+post-MCAO (Ren et al. 2011), we here similarly evaluated IL10 production by splenic Breg cells. As shown in Fig. 6b, the
+
+919
+
+total recipient GFP− IL-10+ percentage expressed by recipient
+Breg (CD1dhiCD19+) cells in spleens was not significantly
+different (p=0.106) in the B-cell-recipient vs. control mice
+with MCAO. However, unlike the IL-10+CD8+CD122+
+Tregs, there was no significant increase in the CD4+Foxp3+
+Tregs or IL-10+CD1dhiCD19+ Bregs in the ischemic hemisphere of the brain of MCAO mice after 96 h reperfusion
+(Fig. 6c, d). Notably, a low percentage of transferred GFP+IL10+CD19+ B-cells was also found in both the spleen (~1 %)
+and ischemic brain hemisphere (~3 %) of the recipient mice
+(Fig. 6b, d), indicating their persistence in the periphery and
+infiltration into the brain after MCAO.
+IL-10+GFP+ B-cells, transferred 24 h after MCAO, inhibit
+the activation and suppress the pro-inflammatory states
+of T-cells and monocytes in the periphery
+To further evaluate the possible regulatory effects of the
+dominant CD8+CD122+ suppressor Tregs generated after the
+transfer of IL-10+ B-cells, 24 h post-MCAO, we evaluated
+changes in expression of activation markers and cytokines by
+splenic monocytes and T–cells that might be influencing the
+splenic milieu by Flow Cytometry. CD11b+ splenic monocytes from IL-10+ B-cell treated mice had significantly lower
+expression of MHCII (p=0.003), TNF-α (p=0.026) and IL1β (p=0.0002) and similarly, splenic T-cells had lower expression of CD69 (p=0.049 for CD4+ and p=0.046 for CD8+
+T-cells) and IL-21 (p=0.01 for CD4+ T-cells) (Fig. 7a, b)
+compared to splenocytes from Vehicle-treated mice.
+Transfer of IL-10+ B-cells, 24 h after MCAO induction,
+reduces the overall pro-inflammatory milieu in the ischemic
+brain hemisphere
+In order to assess the treatment effect of IL-10+ B-cells on the
+expression of immune-related genes in the ischemic hemisphere of the brain, a 96-gene real time PCR assay was
+performed. mRNA was isolated from the MCAO-affected
+brains of three Vehicle-treated and four IL-10+ B-cell-treated
+mice. Equivalent amounts of cDNA were pooled and the
+expression levels of various immune-related genes in the Bcell-treated samples were analyzed relative to the Vehicletreated (control) samples. The immune array data indicate
+>2-fold upregulation of the CD8, IL4 and IL10 genes as well
+as several genes in the cell death (Agtr2, a blood flow regulator) and signal transduction pathways (Stat1 and transcription
+factors Tbx21, Nfatc3 and Nfatc4) in the MCAO-affected
+brain hemispheres of B-cell treated vs. Vehicle-treated mice
+(Fig. 8a). Two notable downregulated genes were Icam1, an
+adhesion molecule, and a chemokine receptor, Cxcr3. Expression of five of these genes were validated using RT-PCR on
+individual samples, and as demonstrated in Fig. 8b, the expression trends confirmed the changes observed in the gene
+
+920
+
+array. Moreover, the expression level for IL33, which can
+induce IL-10-producing B-cells that counteract mucosal inflammatory responses in the gut (Sattler et al. 2014), was
+shown to be significantly increased (p=0.0012), whereas the
+expression level of MMP9, known to be closely implicated in
+cerebral ischemia (Clark et al. 1997; Rosenberg et al. 1996),
+was significantly decreased (p=0.048) (Fig. 8c) in the CNS of
+B-cell treated vs. Vehicle-treated MCAO mice. Finally, CD3+
+T-cells but not CD11b+ monocytes from in the ipsilateral brain
+hemispheres of the B-cell transferred group demonstrated a
+significantly reduced capacity to produce TNF-α after 96 h of
+reperfusion (p=0.008; data not shown).
+
+Discussion
+The results presented above demonstrate for the first time a
+major neuroprotective role for IL-10-producing B-cells in
+
+Fig. 6 Treatment with IL-10+ B-cells, 24 h post-MCAO, leads to a
+significant increase of the FoxP3+CD4+ T-cells in spleen but not the
+ischemic brain hemisphere, with no changes in recipient Breg cells in
+spleen or brain. Splenocytes and brain leukocytes from RPMI and IL-10GFP+ B-cell transferred WT recipient mice were harvested 96 h after
+MCAO and assessed for: a. expression of FoxP3+CD4+ T-cells and
+CD1dhighCD19+ regulatory B-cells in the spleens. Data are representative
+of 2 independent experiments with spleens processed from 6 to 7 individual mice (mean±SEM); b. analyzed for IL-10-production on GFP−
+cells using IL-10 APC mAb for detection and/or detecting the
+
+Metab Brain Dis (2015) 30:911–924
+
+treating MCAO in WT male mice 24 h after occlusion, a time
+point well beyond the ~4 h tPA treatment window. This
+therapeutic approach resulted in the generation of a dominant
+IL-10+CD8+CD122+ Treg population associated with reduced
+CNS inflammation.
+IL-10, an anti-inflammatory cytokine, is produced mainly
+by Th2-lymphocytes, Treg and Breg cell subsets and also by
+other cells such as monocytes, macrophages and microglial
+cells. It can inhibit IL-1 and TNF-α and decrease both cytokine receptor expression and receptor-induced activation. IL10 is increased in brain tissue after stroke (Pelidou et al. 1999;
+Strle et al. 2001) and acts locally to limit stroke pathogenesis.
+Pre-clinical data indicated that IL-10 deficient mice have a
+larger lesion size after MCAO (Grilli et al. 2000), and systemic administration (Spera et al. 1998) and gene transfer of IL-10
+(Ooboshi et al. 2005) in animal models could decrease brain
+injury after stroke (Kim et al. 1996). Clinical data showed that
+low IL-10 levels predict an increased risk of stroke (van Exel
+et al. 2002). Taken together, IL-10 delivered in a biologically
+
+GFP+CD19+ cells (i.e. IL-10-GFP+ transferred B-cells) by Flow cytometry; c. expression of FoxP3+CD4+ T-cells and CD1dhighCD19+ regulatory B-cells in the ischemic hemispheres of the brains. Data are representative of 2 independent experiments with spleens processed from 6 to 7
+individual mice (mean±SEM); and d. analyzed for IL-10-production on
+GFP− cells using IL-10 APC mAb for detection and/or detecting the
+GFP+CD19+ cells (i.e. IL-10-GFP+ transferred B-cells) by Flow cytometry. Significant differences between the groups were determined using
+Student’s t-test. (*p≤0.05 and **p≤0.01)
+
+Metab Brain Dis (2015) 30:911–924
+
+921
+
+Fig. 7 IL-10+GFP+ B-cells, transferred 24 h after MCAO, inhibit the
+activation and suppress the pro-inflammatory states of T-cells and monocytes in the periphery. Splenocytes were isolated from RPMI or IL-10GFP+ B-cell recipient WT mice, 96 h after MCAO and assessed for: a.
+expression of MHC class II on gated CD11b+ monocytes and expression
+of activation marker, CD69, on gated CD4+ and CD8+ T-cells; and b
+CD11b+ monocytes were analyzed for TNF-α+ and IL-1β production and
+
+CD4+ T-cells were analyzed for IFN-γ+, IL-17+ and IL-21+ production by
+Flow cytometry. Values represent mean percentages (±SEM) of indicated
+cell subsets from 5–6 mice of each group, from at least 2 separate
+experiments. Statistical analysis was performed with Student’s t-test to
+compare between RPMI and IL-10-GFP+ B-cell recipient vs. Vehicle
+control MCAO mice. Significant differences between sample means are
+indicated (*p≤0.05 and **p≤0.01)
+
+compatible manner by regulatory B- and T-cells could be a
+highly effective therapy for the treatment of ischemic stroke
+(Jin et al. 2013).
+Transfer of IL-10+ B-cells 24 h after MCAO-induction led
+to a significant reduction in infarct volumes. Protection from
+MCAO-induced damage was observed mainly in the cortex
+and ischemic hemisphere but not in the striatum, perhaps
+reflecting the difficulty of IL-10-secreting B-cells to reverse
+early MCAO-induced damage in moderately vascularized
+brain regions. Also, from the neurological deficit scores, it
+was apparent that the protection rendered to the MCAO mice
+that received IL-10+ B-cells only became significant at the
+96 h time-point. This delay in the treatment effect suggests
+that the nature of the immune changes generated in the recipient mice may involve adaptive as well as innate responses.
+To further discern the regulatory role of IL-10+ B-cells on
+the developing infarct, we focused on the fate of the transferred IL-10-secreting B-cells and their impact on peripheral
+responses and the infiltrating leukocytes and resident cells
+within the ischemic hemisphere. Due to their derivation from
+
+GFP+ donor mice, it was possible to distinguish the GFP+ IL10-secreting donor B-cells from GFP− recipient pathogenic
+and regulatory cells in mixed populations by FACS after 96 h
+reperfusion in MCAO mice. Indeed, the donor GFP+ B-cell
+population (5 million were injected 24 h after MCAO) constituted only about 0.6 % of the splenocyte population and
+about 0.3 % of the cells in the ischemic brain hemisphere of
+MCAO mice. The result of this delayed transfer had an
+enormous impact on the outcome of the MCAO insult, however, reducing stroke lesion size by >20 %, ameliorating
+survival of splenocytes from 20 to >30 million cells (>50 %
+improvement) and inhibiting infiltration of B-cells and activated macrophages and enhancing numbers of resident MG
+cells in the ispilateral brain hemisphere (Fig. 3).
+The relatively small numbers of surviving GFP+ IL-10secreting donor B-cells suggested that other recruited regulatory cell types might be selectively induced after treatment
+with the donor B-cells, including CD4 +Foxp3+ Tregs,
+CD8+CD122+ Tregs and CD19+CD1dhi Bregs observed in
+previous studies (Bodhankar et al. 2013, 2014; Offner et al.
+
+922
+
+Fig. 8 Transfer of IL-10-GFP+ B-cells, 24 h after MCAO-induction,
+reduces the overall pro-inflammatory milieu in the ischemic brain hemisphere 96 h after MCAO. Brains were collected from RPMI and IL-10GFP+ B-cell recipient WT mice, and mRNA prepared from ipsilateral
+(right) hemispheric brain tissue for RT-PCR analysis. a. Gene expression
+profile of ischemic brain tissue from IL-10-GFP+ B-cell vs. Vehicletreated mice was carried out. Relative expression of mRNA of inflammatory genes was analyzed by real-time PCR from pooled ischemic brain
+samples from IL-10-GFP+ B-cell recipient (n=4) vs. Vehicle-treated (n=
+3) mice. Values <1, 1, >1 represent down-regulated, unchanged or up-
+
+Metab Brain Dis (2015) 30:911–924
+
+regulated genes, respectively. ND, not detected. b. Relative expression
+(R.E.) of mRNA levels is presented for inflammatory cytokines and
+chemokines/receptors as a validation of the gene array data. c. Relative
+expression of IL-33 and MMP-9 levels was additionally evaluated.
+Values represent mean numbers (±SEM) of indicated cell subsets from
+3 to 4 mice of each group, from at least 2 separate experiments. Significant differences between the right ischemic hemispheres of IL-10-GFP+
+B-cell-treated vs. Vehicle-treated groups were determined using Student’s
+t-test. (*p≤0.05 and **p≤0.01)
+
+Metab Brain Dis (2015) 30:911–924
+
+2006b). Of these three regulatory cell types, the best candidate
+was the IL-10+CD8+CD122+ subpopulation. These cells were
+significantly increased in B-cell vs. Vehicle treated MCAO
+mice in the spleen and the ischemic brain hemisphere (Figs. 4
+and 5), constituting ~1.5 % of both total splenocytes and
+ipsilateral brain cells. In contrast, CD4+Foxp3+ Treg-cells
+were significantly increased in the spleen but not the brain
+of B-cell treated vs. Vehicle-treated MCAO mice and
+CD19+CD1dhi Breg-cells although present, were not different
+in B-cell treated vs. Vehicle-treated MCAO mice.
+By calculating the percentages of total recovered cells for
+each regulatory subset, it is possible to compare the actual
+numbers of each subtype present in spleen and ipsilateral brain
+hemisphere from MCAO mice. Thus, in spleen there were
+~165,000 donor IL-10-secreting B-cells, ~360,000
+CD8+CD122+ Tregs, ~330,000 CD19+CD1dhi Bregs and 1.9
+million CD4+Foxp3+ Tregs. In ipsilateral brain tissue there
+were ~1,500 donor IL-10-secreting B-cells, ~5,600
+CD8+CD122+ Tregs, ~3,500 CD19+CD1dhi Bregs and ~400
+CD4+Foxp3+ Tregs. From this information, it is clear that
+although all the different regulatory subsets were present and
+could contribute to immunoregulation in spleen and brain of
+MCAO mice, the CD4+Foxp3+ Tregs were predominant in
+spleen, whereas the CD8+CD122+ Tregs were predominant in
+ischemic brain. Unlike the appearance of CD8+CD122+ Treg
+cells in spleen but not CNS after prophylactic treatment with
+IL-10+ B-cells 24 h prior to MCAO (Bodhankar et al. 2013,
+2014), the appearance of the CD8+CD122+ Treg cells in the
+ischemic brain hemisphere in mice treated 24 h after MCAO
+indicated an important new activity of the transferred IL-10+
+B-cells; that is, their ability to induce migration of the
+CD8+CD122+ Treg cells from the periphery into the CNS
+where local immunoregulation could take place.
+CD8+CD122+ T-cells are naturally occurring regulatory Tcells that secrete copious levels of IL-10 that has been shown
+to be the key effector molecule for transducing regulatory
+activity (Endharti et al. 2005; Rifa’i et al. 2004). The in vivo
+relevance of CD8+CD122+ regulatory T-cells has been proven
+by experiments involving cell transfer into lymphocytedeficient mice (Endharti et al. 2011; Lee et al. 2008;
+Mangalam et al. 2012). CD8+CD122+ regulatory T-cells are
+known to recognize activated T-cells through direct cell-tocell contact involving conventional class I MHC molecules
+(Okuno et al. 2013) and to inhibit the target T-cells without
+additional antigen-presenting cells (Suzuki et al. 2008). Consistent with this description, our studies demonstrated reduced
+expression of the CD69 activation molecule on both CD4+
+and CD8+ splenic T-cells as well as significantly inhibited
+levels of IL-21 by CD4+ T-cells and IFN-γ and IL-21 by
+CD8+ T-cells from spleen (Figs. 4 and 7). Such inhibition of
+IL-21 could indeed be beneficial to stroke outcome as indicated in a recent report showing that T-cell production of this
+cytokine can induce brain injury after MCAO (Clarkson et al.
+
+923
+
+2014). Additional regulatory effects observed included reduced expression of MHCII, TNF-α and IL-1β by splenic
+CD11b+ monocytes and enhanced expression of IL-4, IL-10
+and IL-33, but reduced expression of ICAM-1, CXCL10,
+CXCR3 and MMP-9 in the ischemic brain hemisphere
+(Figs. 7-9).
+Taken together, our present study demonstrates that transfer
+of IL-10+ B-cells, 24 h after MCAO, markedly reduced infarct
+volume in recipient mice. The MCAO-protected B-cell recipient mice had reduced numbers of activated, inflammatory Tcells, decreased infiltration of T-cells, increased regulatory
+subpopulations, predominantly the CD8+CD122+ Treg subset, and a less inflammatory milieu in the ischemic hemispheres as compared to the control mice. Our studies for the
+first time demonstrate a major immunoregulatory role for IL10+ B-cells in treating MCAO in WT mice even at a time point
+well beyond the tPA treatment window, leading to the generation of a dominant CD8+CD122+ Treg population in the
+ischemic brain hemisphere, thus implicating their potential
+role in post-stroke immunoprotection. The effective treatment
+of MCAO recipient mice with IL-10+ B-cells that fostered not
+only a favorable stroke outcome but also decreased associated
+degenerative factors known to worsen stroke adds promise to
+this treatment for the future.
+Acknowledgments The authors wish to thank Gail Kent for the submission of the manuscript. This work was supported by NIH/NINDS
+1RO1 NS075887. This material is based upon work supported in part by
+the Department of Veterans Affairs, Veterans Health Administration,
+Office of Research and Development, Biomedical Laboratory Research
+and Development. The contents do not represent the views of the Department of Veterans Affairs or the United States Government.
+Competing interests
+interests
+
+The authors declare no competing financial
+
+Authors’ contribution SB designed and performed the immunology
+experiments, carried out statistical analyses, prepared graphics and wrote
+the manuscript; YC performed the MCAO procedures, carried out statistical analyses, prepared the graphics and wrote the methods and results for
+infarct volume data; AL assisted in tissue preparations and acquisition of
+immunological data; AAV critiqued and edited the manuscript; SJM and
+JAS directed study design and data analysis of the MCAO experiments
+and edited the manuscript; HO directed the overall study, supervised the
+immunological studies and data analysis and edited the manuscript. All
+authors read and approved the final version of the manuscript.
+
+References
+Becker K, Kindrick D, Relton J, Harlan J, Winn R (2001) Antibody to the
+alpha4 integrin decreases infarct size in transient focal cerebral
+ischemia in rats. Stroke 32:206–11
+Bodhankar S, Chen Y, Vandenbark AA, Murphy SJ, Offner H (2013) IL10-producing B-cells limit CNS inflammation and infarct volume in
+experimental stroke. Metab Brain Dis 28:375–86
+Bodhankar S, Chen Y, Vandenbark AA, Murphy SJ, Offner H (2014)
+Treatment of experimental stroke with IL-10-producing B-cells
+
+924
+reduces infarct size and peripheral and CNS inflammation in wildtype B-cell-sufficient mice. Metab Brain Dis 29:59–73
+Campanella M, Sciorati C, Tarozzo G, Beltramo M (2002) Flow cytometric analysis of inflammatory cells in ischemic rat brain. Stroke
+33:586–92
+Chen Y, Bodhankar S, Murphy SJ, Vandenbark AA, Alkayed NJ, Offner
+H (2012) Intrastriatal B-cell administration limits infarct size after
+stroke in B-cell deficient mice. Metab Brain Dis 27:487–93
+Clark AW, Krekoski CA, Bou SS, Chapman KR, Edwards DR (1997)
+Increased gelatinase A (MMP-2) and gelatinase B (MMP-9) activities in human brain after focal ischemia. Neurosci Lett 238:53–6
+Clarkson BD, Ling C, Shi Y, Harris MG, Rayasam A et al (2014) T cellderived interleukin (IL)-21 promotes brain injury following stroke in
+mice. J Exp Med 211:595–604
+Endharti AT, Rifa IM, Shi Z, Fukuoka Y, Nakahara Y et al (2005) Cutting
+edge: CD8+CD122+ regulatory T cells produce IL-10 to suppress
+IFN-gamma production and proliferation of CD8+ T cells. J
+Immunol 175:7093–7
+Endharti AT, Okuno Y, Shi Z, Misawa N, Toyokuni S et al (2011) CD8+
+CD122+ regulatory T cells (Tregs) and CD4+ Tregs cooperatively
+prevent and cure CD4+ cell-induced colitis. J Immunol 186:41–52
+Fang MC, Cutler DM, Rosen AB (2010) Trends in thrombolytic use for
+ischemic stroke in the United States. J Hosp Med 5:406–9
+Grilli M, Barbieri I, Basudev H, Brusa R, Casati C et al (2000)
+Interleukin-10 modulates neuronal threshold of vulnerability to
+ischaemic damage. Eur J Neurosci 12:2265–72
+Iadecola C, Anrather J (2011) The immunology of stroke: from mechanisms to translation. Nat Med 17:796–808
+Jin R, Liu L, Zhang S, Nanda A, Li G (2013) Role of inflammation and its
+mediators in acute ischemic stroke. J Cardiovasc Transl Res 6:834–
+51
+Kim JS, Yoon SS, Kim YH, Ryu JS (1996) Serial measurement of
+interleukin-6, transforming growth factor-beta, and S-100 protein
+in patients with acute stroke. Stroke 27:1553–7
+Lee YH, Ishida Y, Rifa’i M, Shi Z, Isobe K, Suzuki H (2008) Essential
+role of CD8+CD122+ regulatory T cells in the recovery from
+experimental autoimmune encephalomyelitis. J Immunol 180:825–
+32
+Li P, Gan Y, Sun BL, Zhang F, Lu B et al (2013) Adoptive regulatory Tcell therapy protects against cerebral ischemia. Ann Neurol 74:458–
+71
+Liesz A, Zhou W, Mracsko E, Karcher S, Bauer H et al (2011) Inhibition
+of lymphocyte trafficking shields the brain against deleterious neuroinflammation after stroke. Brain 134:704–20
+Liesz A, Zhou W, Na SY, Hammerling GJ, Garbi N et al (2013) Boosting
+regulatory T cells limits neuroinflammation in permanent cortical
+stroke. J Neurosci 33:17350–62
+Madan R, Demircik F, Surianarayanan S, Allen JL, Divanovic S et al
+(2009) Nonredundant roles for B cell-derived IL-10 in immune
+counter-regulation. J Immunol 183:2312–20
+Mangalam AK, Luckey D, Giri S, Smart M, Pease LR et al (2012) Two
+discreet subsets of CD8 T cells modulate PLP (91–110) induced
+experimental autoimmune encephalomyelitis in HLA-DR3 transgenic mice. J Autoimmun 38:344–53
+Minino AM, Murphy SL, Xu J, Kochanek KD (2011) Deaths: final data
+for 2008. Natl Vital Stat Rep 59:1–126
+
+Metab Brain Dis (2015) 30:911–924
+Offner H, Hurn PD (2012) A novel hypothesis: regulatory B lymphocytes
+shape outcome from experimental stroke. Transl Stroke Res 3:324–30
+Offner H, Subramanian S, Parker SM, Afentoulis ME, Vandenbark AA,
+Hurn PD (2006a) Experimental stroke induces massive, rapid activation of the peripheral immune system. J Cereb Blood Flow Metab
+26:654–65
+Offner H, Subramanian S, Parker SM, Wang C, Afentoulis ME et al
+(2006b) Splenic atrophy in experimental stroke is accompanied by
+increased regulatory T cells and circulating macrophages. J
+Immunol 176:6523–31
+Okuno Y, Murakoshi A, Negita M, Akane K, Kojima S, Suzuki H (2013)
+CD8+ CD122+ regulatory T cells contain clonally expanded cells
+with identical CDR3 sequences of the T-cell receptor beta-chain.
+Immunology 139:309–17
+Ooboshi H, Ibayashi S, Shichita T, Kumai Y, Takada J et al (2005)
+Postischemic gene transfer of interleukin-10 protects against both
+focal and global brain ischemia. Circulation 111:913–9
+Pelidou SH, Kostulas N, Matusevicius D, Kivisakk P, Kostulas V, Link H
+(1999) High levels of IL-10 secreting cells are present in blood in
+cerebrovascular diseases. Eur J Neurol 6:437–42
+Ren X, Akiyoshi K, Dziennis S, Vandenbark AA, Herson PS et al (2011)
+Regulatory B cells limit CNS inflammation and neurologic deficits
+in murine experimental stroke. J Neurosci 31:8556–63
+Rifa’i M, Kawamoto Y, Nakashima I, Suzuki H (2004) Essential roles of
+CD8+CD122+ regulatory T cells in the maintenance of T cell
+homeostasis. J Exp Med 200:1123–34
+Rosenberg GA, Navratil M, Barone F, Feuerstein G (1996) Proteolytic
+cascade enzymes increase in focal cerebral ischemia in rat. J Cereb
+Blood Flow Metab 16:360–6
+Sattler S, Ling GS, Xu D, Hussaarts L, Romaine A et al (2014) IL-10producing regulatory B cells induced by IL-33 (Breg (IL-33)) effectively attenuate mucosal inflammatory responses in the gut. J
+Autoimmun 50:107–22
+Spera PA, Ellison JA, Feuerstein GZ, Barone FC (1998) IL-10 reduces rat
+brain injury following focal stroke. Neurosci Lett 251:189–92
+Strle K, Zhou JH, Shen WH, Broussard SR, Johnson RW et al (2001)
+Interleukin-10 in the brain. Crit Rev Immunol 21:427–49
+Subramanian S, Yates M, Vandenbark AA, Offner H (2011) Oestrogenmediated protection of experimental autoimmune encephalomyelitis
+in the absence of Foxp3+ regulatory T cells implicates compensatory
+pathways including regulatory B cells. Immunology 132:340–7
+Suzuki H, Shi Z, Okuno Y, Isobe K (2008) Are CD8+CD122+ cells
+regulatory T cells or memory T cells? Hum Immunol 69:751–4
+Van Exel E, Gussekloo J, de Craen AJ, Bootsma-van der Wiel A, Frolich
+M, Westendorp RG (2002) Inflammation and stroke: the Leiden 85plus study. Stroke 33:1135–8
+Yanaba K, Bouaziz JD, Haas KM, Poe JC, Fujimoto M, Tedder TF (2008) A
+regulatory B cell subset with a unique CD1dhiCD5+ phenotype controls T cell-dependent inflammatory responses. Immunity 28:639–50
+Zhang B, Subramanian S, Dziennis S, Jia J, Uchida M et al (2010)
+Estradiol and G1 reduce infarct size and improve immunosuppression after experimental stroke. J Immunol 184:4087–94
+Zhou W, Liesz A, Bauer H, Sommer C, Lahrmann B et al (2013)
+Postischemic brain infiltration of leukocyte subpopulations differs
+among murine permanent and transient focal cerebral ischemia
+models. Brain Pathol 23:34–44
+
+

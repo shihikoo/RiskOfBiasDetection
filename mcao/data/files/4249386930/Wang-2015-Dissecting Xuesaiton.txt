@@ -1,0 +1,930 @@
+Molecular
+BioSystems
+View Article Online
+
+Published on 25 August 2015. Downloaded by University of Edinburgh on 04/10/2016 21:50:01.
+
+PAPER
+
+Cite this: Mol. BioSyst., 2015,
+11, 3033
+
+View Journal | View Issue
+
+Dissecting Xuesaitong’s mechanisms on
+preventing stroke based on the microarray and
+connectivity map†
+Linli Wang,a Yunru Yu,a Jihong Yang,a Xiaoping Zhao*b and Zheng Li*c
+Elucidating action mechanisms of Chinese medicines has remained a challenging task due to the chemical
+and biological complexity that needs to be resolved. In this study we applied a gene expression data and
+connectivity map (CMAP) based approach to study action mechanisms of a Chinese medicine Xuesaitong
+injection (XST) on preventing cerebral ischemia–reperfusion injury. XST is a standardized patent Chinese
+medicine of Panax notoginseng roots and it has long been used for the effective prevention and treatment of stroke in China. However, more research is needed to understand the mechanisms underlying
+its effects against ischemic stroke. We first evaluated the effect of XST against ischemic stroke in an
+ischemia–reperfusion rat animal model and dissected its mechanisms based on gene expression data of
+injured brain. The results showed that treatment with XST significantly attenuated infarct area and histo-
+
+Received 5th June 2015,
+Accepted 17th August 2015
+
+logical damage. Based upon pathway analysis and the CMAP query of microarray data, anti-inflammatory
+
+DOI: 10.1039/c5mb00379b
+
+which were further validated in vitro and with pharmacological assays of serum. We demonstrated
+the feasibility of applying the combination of the microarray with the CMAP in identifying mechanisms
+
+www.rsc.org/molecularbiosystems
+
+of Chinese medicine.
+
+response and anti-platelet coagulation were found as the major mechanisms of XST against stroke,
+
+Introduction
+Chinese medicine has been developed through thousands of
+years of empirical applications in China. It has made remarkable contributions to promoting the health and longevity of
+human welfare.1,2 The clinical eﬃcacy of Chinese medicine
+under various pathological conditions has been widely recognized and reported. However, the mechanisms of many Chinese
+medicines remain elusive, despite enormous research eﬀorts
+carried out in recent decades.3 One of the major reasons is
+that Chinese medicine is a multiple component system and it
+treats diseases with multiple targets, multiple pathways and
+multiple actions.4 The vast chemical and biological complexity
+of the action mechanisms needs to be revealed with systematic
+approaches.
+Panax notoginseng (Burk.) FH Chen is one of the most widely
+used herbal medicines for cardio-cerebral vascular diseases in
+a
+
+Pharmaceutical Informatics Institute, College of Pharmaceutical Sciences,
+Zhejiang University, Hangzhou 310058, China
+b
+College of Preclinical Medicine, Zhejiang Chinese Medical University,
+Hangzhou 310053, China. E-mail: zhaoxiaoping@zjtcm.net; Tel: +86-571-86633138
+c
+State Key Laboratory of Modern Chinese Medicine, Tianjin University of Traditional
+Chinese Medicine, Tianjin 300193, China. E-mail: lizheng1@gmail.com;
+Tel: +86-571-88208427
+† Electronic supplementary information (ESI) available. See DOI: 10.1039/c5mb00379b
+
+This journal is © The Royal Society of Chemistry 2015
+
+China.5–8 Xuesaitong injection (XST) is a prescription drug
+made of Panax notoginseng and Panax notoginseng saponins
+(PNSs) are its main active components.9 Ginsenosides Rg1,
+Rb1, Re and Rd and notoginsenoside R1 were found to account
+for B85% of the total compositions in XST in our previous
+study.10 The major components are well quantified, controlled
+and subjected to standardization.10 The effective clinical treatment of acute ischemia stroke by XST has been reported,11,12
+although some reports may be limited by small sample
+sizes.5,13 Potential mechanisms include attenuating the apoptosis, modulating inflammatory response of microglia,14–16 but
+a systematic study on the mechanisms of XST is still missing.
+The development of a transcriptional omics approach
+provides an opportunity to simultaneously analyze a large
+number of genes associated with disease and complex therapeutic eﬀects of medicines, e.g. Chinese medicine.4,17,18 The
+analysis of genes modulated by Chinese medicine may provide
+insights into their molecular mechanisms. The connectivity map
+(CMAP), a similarity-based method, is one of the most eﬀective
+tools for the mode-of-action study. The CMAP is a systematic
+approach developed for the discovery of functional connections
+among diseases, genes and drugs through the genome-wide
+transcriptional expression data and the transitory feature of
+common gene-expression changes.19 The CMAP contains more
+than 7000 expression profiles representing 1309 compounds.
+
+Mol. BioSyst., 2015, 11, 3033--3039 | 3033
+
+View Article Online
+
+Published on 25 August 2015. Downloaded by University of Edinburgh on 04/10/2016 21:50:01.
+
+Paper
+
+Drugs aﬀecting common gene expressions can be identified
+through CMAP analysis, which provides a useful tool for
+discovering the mode of action of drugs, such as Chinese
+medicine.20–23 For example, Wen et al.22 applied the combined
+microarray and CMAP approach in identifying molecular
+mechanisms of Si-Wu-Tang.
+To evaluate the eﬀect and mechanisms of XST on preventing
+stroke, a rat animal model was produced with a middle cerebral
+artery occlusion (MCAO) procedure and treated with XST for
+seven days. In this study, XST’s eﬀects on infarction area and
+histological damage in MCAO rats were studied firstly. Then,
+the gene expression profile in injured brains was also measured. A combined approach of the pathway and CMAP analysis
+was further used to identify molecular mechanisms of XST. As a
+result, anti-inflammation and anti-platelet coagulation were
+identified as the major mechanisms of XST against ischemic
+stroke. We demonstrated an approach in identifying molecular
+mechanisms of Chinese medicine by combining microarray
+data and the CMAP approach.
+
+Materials and methods
+Animals
+Adult male Sprague-Dawley rats were purchased from WeitongLihua Experimental Animal Co. Ltd (Beijing, China). All animal
+procedures were approved by the Institutional Animal Care and
+Use Committee (IACUC, China) and the experimental animal
+protocols were approved by the Institutional Animal Ethical
+Committee of Tianjin Centre for Drug Safety Assessment (Tianjin,
+China).
+Drugs and reagents
+XST lyophilized powder for injection, one of the major types of
+XST Injection used in clinical practices, was manufactured by
+Heilongjiang Zhenbaodao pharmaceutical Co. Ltd (Heilongjiang,
+China). It was dissolved in saline before experiment. 2,3,5Triphenyltetrazolium chloride (TTC) was purchased from Beijing
+Solarbio Science & Technology Co., Ltd. Rat thromboxane B2
+(TXB2), 6-keto PGF1a enzyme linked immunosorbent assay
+(ELISA) Kits were from Bio-Swamp.
+Experimental protocol
+Rats were subjected to MCAO and reperfusion.24,25 Briefly,
+animals were anesthetized with isoflurane, neck vessels were
+exposed and branches of the right external carotid artery were
+isolated. The right middle cerebral artery was occluded with a
+0.25 mm nylon monofilament by inserting it through right
+external carotid artery to produce the cerebral focal ischemia.
+Two hours after occlusion, the inserted filament was slowly
+withdrawn to allow reperfusion. The incision on the neck was
+closed. Fifteen Sham-operated rats underwent the same surgical procedures but without the insertion of the nylon filament
+into the inner carotid. Successful MCAO rats were randomly
+divided into four groups (with fifteen rats in each group). Three
+doses of XST were given to rats: 20 mg kg1, 40 mg kg1 and
+
+3034 | Mol. BioSyst., 2015, 11, 3033--3039
+
+Molecular BioSystems
+
+80 mg kg1 for low (XSTL), medium (XSTM), and high (XSTH)
+concentrations, respectively. Sham and Model groups received
+an equivalent vehicle. All the treatments were given once daily
+with intravenous injection consecutively for seven days.
+Infarct area measurement and brain histology
+At the end of the experiment, rats were anesthetized with chloral
+hydrate (360 mg kg1), arterial blood samples were collected at
+aorta abdominalis. Rat brains were quickly removed. Ten rat
+brains in each group were frozen at 20 1C and sectioned into
+2 mm-thick coronal slices. Slices were incubated for 10 min at
+37 1C in 2% TTC solution in phosphate buﬀered saline (PBS,
+pH 7.4). And in each sample, the infarction area ratio was
+calculated by dividing the total infarction area by the total
+slice area.
+The infarcted hemispheres of remaining five rat brains in
+each group were divided into two parts: one for the histological
+test, and one for the microarray experiment. The hemispheres
+for the histological test were fixed in 10% formaldehyde
+solution, and embedded in paraﬃn. The paraﬃn sections
+(5 mm) were stained with hematoxylin and eosin (HE) and
+analyzed by light microscopy.
+Microarray experiment and data analysis
+We profiled the gene expression in the infarcted hemispheres
+of Sham, Model and XSTH groups (n = 5) using the Aﬀymetrix
+Rat 230 2.0 Array. The detailed procedure of the microarray
+experiment was the same as described previously.4 The dataset
+as CEL files was deposited to GEO and the access number is
+GSE61616. Global scaling normalization of the expression data
+was performed with Median Scaling Normalization in ArrayTrack 3.5.026 using a target median value of 1000. Genes
+associated with stroke were obtained from databases including
+SIDD, DISEASES, DisGeNet, MALACARDS, DGA with keywords
+‘Brain infarction’, ‘Ischemic stroke’, ‘Stroke’, ‘Stroke, Ischemic’,
+‘Brain Ischemia’, or ‘‘Cerebrovascular Accident’’. The fold
+change (FC) of stroke related genes between Model and Sham
+(as FC1) was calculated, as well as between Model and XSTH
+(as FC2). The Reverse Rate (RR) was also calculated as previously
+reported4 and genes with RR 4 0 mean they were positively
+regulated by XST. Genes with FC1 4 1.5, FC2 4 1.2 and RR 4 0
+were defined as diﬀerentially expressed genes by XST. The list of
+diﬀerentially expressed genes was imported to the Kyoto Encyclopedia of Genes and Genomes (KEGG) database through ArrayTrack 3.5.0 for functional enrichment analysis.
+To better understand the mechanisms of XST, the similarities of the gene expression profile between XST and chemical
+drugs were measured through the CMAP (http://www.broadin
+stitute.org/cMAP/) reference database (Build 02). The diﬀerentially expressed genes were divided into two parts, one for upregulation and the other for down-regulation by XST. In order
+to query the CMAP, the genes were converted to probe sets in
+the chip type Aﬀymetrix GeneChip Human Genome HT U133A
+Array. Then they were used as queries to search the CMAP. The
+similarity between XST and a CMAP instance is measured by an
+enrichment score, ranging from 1 to 1 and a permutation
+
+This journal is © The Royal Society of Chemistry 2015
+
+View Article Online
+
+Molecular BioSystems
+
+Paper
+
+p-value. Chemicals with p-values o 0.05 and a positive enrichment score were defined as significantly related.
+
+Published on 25 August 2015. Downloaded by University of Edinburgh on 04/10/2016 21:50:01.
+
+Real-time reverse-transcription polymerase chain reaction
+The transcripts for six representative diﬀerent genes were quantified by real-time reverse-transcription polymerase chain reaction (RT-PCR). Total RNA was obtained from the microarray
+experiment. Template RNA was reverse transcribed to cDNA
+using the QuantiTect Reverse Transcription Kit (Qiagen) according to the manufacturer’s instructions. The relative expressions
+of mRNAs were detected using the QuantiFast SYBR Green PCR
+Kit (Qiagen). In order to normalize variations in mRNA extraction
+and cDNA synthesis, the expression of beta-actin (Actb) was
+measured simultaneously. All primer sets were purchased from
+Takara (Dalian, China) and Beijing Genomics Institute (BGI,
+Shenzhen, China). Triplicate aliquot reactions were carried out
+for each sample at 95 1C for 5 minutes followed by 40 cycles of
+denaturation at 95 1C for 10 seconds and combined annealing/
+extension at 60 1C for 30 seconds. Data were quantified using the
+2-delta CT method.27,28 Primers used for real-time PCR were
+shown in Table 1.
+Measurement of platelet aggregation and TXB2 and 6-keto
+PGF1a
+Arterial blood samples were collected and anti-coagulated with
+3.2% of sodium citrate (ratio 9 : 1). Platelet-rich plasma (PRP),
+obtained by centrifuging whole blood for 10 minutes at
+800 rpm, was stimulated with ADP of final concentration about
+4 mmol L1. Platelet aggregation was monitored by light transmission in a Chrono-log 540 aggregometer (Chrono-log Corp.,
+Haverton, PA, USA) with continuous stirring at 37 1C. The
+100% line was set using platelet-poor plasma (PPP) and the
+0 baseline established with PRP (adjusted from 3.5  108 platelets
+per ml up to 4  108 platelets per ml). PPP was prepared by
+centrifuging whole blood for 10 minutes at 3000 rpm. TXB2 and
+6-keto PGF1a levels were measured according to manufacturer’s
+instructions.
+
+25, 50, 100 and 200 mg ml1) or indomethacin (Indo, 25 mM) for
+another 6 h, followed by treatment with LPS (50 ng ml1) for an
+additional 24 h. Indo was a positive control. The amount of NO
+production in the medium was detected with the Griess reaction
+(Beyotime Institute of Biotechnology, China). The absorbance of
+the mixture at 550 nm was determined using a microplate reader,
+and nitrite concentration was determined using a dilution of
+sodium nitrite as a standard.
+Statistical analysis
+All values are given as mean  standard deviation. Statistical
+analysis was performed using SPSS software. One-way analysis of
+variance (ANOVA) was used to compare group variables, comparisons of parameters between two groups were performed with the
+least significant diﬀerences (LSD) or the Games-Howell test.29,30
+Diﬀerences were considered significant if the p-value was less
+than 0.05.
+
+Results
+XST reduced infarct size in brains
+No infarct area was observed in the Sham group. In contrast,
+noticeable infarct areas were observed in the Model group as
+evidenced by a large TTC-negatively-stained area in cortex and
+striatum. As compared to the Model group, intravenous administration of XST protected rat brains against MCAO injury to a significant degree (as shown in Fig. 1). XST at 40, and 80 mg kg1
+significantly reduced the infarct size by 25.2% ( p o 0.05) and
+26.9% ( p o 0.05) in comparison to the Model group.
+
+In vitro validation of the anti-inflammation action of XST
+RAW264.7 cells were obtained from the Cell Bank of Type Culture
+Collection of the Chinese Academy of Sciences (Shanghai, China)
+and cultured at 37 1C in 5% CO2 in DMEM containing 10% heatinactivated FBS. The RAW264.7 cells were plated at a density of
+3  104 per well in a 96-well plate. Twenty-four hours later, cells
+were pre-treated with indicated concentrations of XST (2.5, 5, 10,
+
+Table 1
+
+Fig. 1 The eﬀect of XST on infarct size in rat brains. The infarction area
+ratio was calculated by dividing the total infarction area by the total slice
+area. Values are means  SD (n = 10 for each). *p o 0.05 vs. Model group.
+
+Primer sequences used for the RT-PCR experiments
+
+Gene
+
+Forward primer (5 0 - 3 0 )
+
+Reverse primer (5 0 - 3 0 )
+
+Actb
+Fabp4
+Plau
+Ltc4s
+Igf1
+Hmox1
+Spp1
+
+ACATCCGTAAAGACCTCTATGCCAACA
+TGGAAACTCGTCTCCAGTGAGAA
+TTCTCACGAACAGTGCAAGCAG
+CTCTGGGTCGCCGGCATCTT
+GCACTCTGCTTGCTCACCTTTA
+AGGTGCACATCCGTGCAGAG
+GCCATGAGGACAAGCTAGTCC
+
+GTGCTAGGAGCCAGGGCAGTAATCT
+CTGACCGGATGACGACCAAG
+CGGCCATCGATGTTACAGATAAG
+CTGCTGATTCGGAGGGCCTT
+TCCGAATGCTGGAGCCATA
+CTTCCAGGGCCGTATAGATATGGTA
+AGGAACTGTGGTTTTGCCT
+
+This journal is © The Royal Society of Chemistry 2015
+
+Mol. BioSyst., 2015, 11, 3033--3039 | 3035
+
+View Article Online
+
+Published on 25 August 2015. Downloaded by University of Edinburgh on 04/10/2016 21:50:01.
+
+Paper
+
+Molecular BioSystems
+
+Fig. 2 The eﬀect of XST on brain histology. Histology (H.E., haematoxylin and eosin) of the rat brains from the Sham group (A), the Model group (B), the
+XSTL group (C), the XSTM group (D), and the XSTH group (E). Abundant eosinophilic cytoplasm, karyopyknosis, swelling and damage of neurons,
+cavitation of cytoplasm were ameliorated by XST treatment.
+
+Eﬀect of XST on cortex histology in MCAO rats
+Fig. 2 showed the results of histological examination of the
+cortex of right brain in diﬀerent groups. Compared with the
+Sham group, distinct alterations occurred in MCAO rats,
+including abundant eosinophilic cytoplasm, karyopyknosis,
+swelling and damage of neurons, cavitation of cytoplasm. All
+of these alterations were ameliorated by treatment with XST,
+especially in the XSTH group.
+Microarray data analysis
+1205 stroke related genes were obtained from five databases.
+However, only 212 genes were identified as XST significantly
+regulated genes against stroke in our setting. Detailed gene lists
+were provided in Table S1 (ESI†).
+To gain deeper biological insights, the genes were further
+categorized into functional pathways in the KEGG database.
+There were 24 KEGG pathways significantly enriched with
+fisher p values less than 0.05. The top 15 significantly impacted
+KEGG pathways were listed in Table 2. Among them, cytokine–
+cytokine receptor interaction has the largest number of enrichment genes and minimal Fisher p values. Cytokine–cytokine
+
+Table 2
+
+Top pathways of XST against stroke
+
+Map title
+
+Fisher p value n of genes
+
+Complement and coagulation cascades
+Toll-like receptor signaling pathway
+Leukocyte transendothelial migration
+Intestinal immune network for IgA
+production
+Focal adhesion
+Cytokine–cytokine receptor interaction
+ECM–receptor interaction
+p53 signaling pathway
+MAPK signaling pathway
+Renin–angiotensin system
+Pathways in cancer
+Asthma
+Amyotrophic lateral sclerosis (ALS)
+Hypertrophic cardiomyopathy (HCM)
+Arachidonic acid metabolism
+
+1.5
+3.1
+1.1
+1.9
+
+
+
+
+
+
+106
+104
+103
+103
+
+11
+10
+10
+6
+
+6.8
+0.0
+6.5
+9.6
+4.8
+5.9
+2.6
+7.6
+2.6
+1.7
+1.3
+
+
+
+
+
+
+
+
+
+
+
+
+
+103
+100
+105
+103
+103
+105
+103
+103
+103
+103
+104
+
+12
+28
+10
+6
+15
+5
+18
+4
+6
+8
+8
+
+3036 | Mol. BioSyst., 2015, 11, 3033--3039
+
+receptor interaction, focal adhesion and ECM–receptor interaction were correlated with adhesion. Four pathways: complement and coagulation cascades, Toll-like receptor signaling
+pathway, leukocyte transendothelial migration, and intestinal
+immune network for IgA production were classified into
+immune system/cellular processes, which were involved in
+immune responses, inflammatory response and coagulation.
+Arachidonic acid metabolism is closely related to the production of inflammatory factors and blood coagulation factors. The
+MAPK signaling pathway and the p53 signaling pathway have
+important functions, proliferation and apoptosis. In summary,
+inflammatory immune response, coagulation and apoptosis
+were the major mechanisms of XST against stroke based on
+pathway analysis.
+Mapping gene expression profiles to CMAP
+The significantly regulated genes by XST were converted to
+67 up-regulated and 300 down-regulated probe sets, and they
+
+Table 3
+
+Top chemicals correlated with XST treatment in the CMAP
+
+CMAP name
+
+Mean n Enrichment p
+
+Percent
+Specificity non-null
+
+Verteporfin
+Pronetalol
+Pivampicillin
+Sulfaphenazole
+Aminophylline
+Ouabain
+Caﬀeic acid
+Nifuroxazide
+Difenidol
+6-Bromoindirubin-3 0 oxime
+Nalbuphine
+Glafenine
+Piperlongumine
+Parthenolide
+Sulfathiazole
+Famotidine
+Epiandrosterone
+Papaverine
+
+0.866
+0.447
+0.249
+0.299
+0.437
+0.296
+0.371
+0.484
+0.456
+0.381
+
+3
+4
+4
+4
+4
+4
+3
+4
+3
+7
+
+0.997
+0.884
+0.865
+0.854
+0.802
+0.767
+0.825
+0.714
+0.792
+0.540
+
+0
+0
+0
+0.001
+0.003
+0.006
+0.011
+0.013
+0.018
+0.018
+
+0
+0
+0
+0
+0.008
+0.096
+0.000
+0.070
+0.038
+0.082
+
+100
+75
+50
+50
+75
+50
+66
+75
+66
+57
+
+0.338
+0.317
+0.311
+0.454
+0.315
+0.227
+0.275
+0.168
+
+5
+4
+2
+4
+5
+5
+4
+4
+
+0.634
+0.672
+0.886
+0.666
+0.603
+0.600
+0.636
+0.631
+
+0.019
+0.026
+0.027
+0.028
+0.030
+0.031
+0.043
+0.046
+
+0.008
+0.057
+0.143
+0.287
+0.024
+0.008
+0.084
+0.039
+
+60
+50
+50
+75
+60
+60
+50
+50
+
+This journal is © The Royal Society of Chemistry 2015
+
+View Article Online
+
+Molecular BioSystems
+
+Paper
+
+Table 4 The FCs of representative genes as determined by microarray
+and RT-PCR
+
+FC1_microarray FC2_microarray FC1_RT-PCR FC2_RT-PCR
+
+Published on 25 August 2015. Downloaded by University of Edinburgh on 04/10/2016 21:50:01.
+
+Fabp4 156.82
+Plau
+33.90
+Hmox1 10.50
+Ltc4s
+5.11
+Igf1
+22.74
+Spp1
+526.66
+
+2.59
+2.26
+1.91
+1.64
+1.81
+1.66
+
+261.57
+41.47
+8.04
+2.63
+12.68
+231.31
+
+1.76
+1.25
+1.33
+1.41
+1.24
+1.81
+
+were used as the query to the CMAP. Eighteen drugs with
+p-values o 0.05 and a positive enrichment score were found by
+the CMAP (Table 3). Among them, non-steroidal anti-inflammatory
+drug glafenine and parthenolide31 are anti-inflammatory
+agents. Piperlongumine has an anti-plate aggregation eﬀect.32
+Pivampicillin, sulfaphenazole, sulfathiazole, nifuroxazide, parthenolide33 and caﬀeic acid34 were all antibacterials. Papaverine and
+difenidol could dilate blood vessel. b-Blocker pronetalol and
+cardiac glycoside ouabain are involved in the regulation of heart
+muscle function.
+Real-time RT-PCR validation of selected genes
+To validate the findings from the microarray data set, the
+expression levels of six representative genes were confirmed
+with RT-PCR. We found that Fabp4, Plau, Ltc4s, Igf1, Spp1, and
+Hmox1 were highly up-regulated by MCAO, and suppressed by
+
+XST treatment, which showed similar patterns with microarray
+data. The FCs in the microarray and RT-PCR were listed in
+Table 4.
+XST decreased platelet aggregation and ameliorated the
+changes in TXB2 and 6-keto PGF1a
+XST significantly decreased platelet aggregation in a dosedependent manner as compared with the Model group (Fig. 3).
+XST at 20, 40, and 80 mg kg1 reduced the maximum platelet
+aggregation rate by 10.2%, 18.2% and 22.8%. After MCAO, the
+serum level of TXB2 increased significantly as compared with
+sham-operated rats ( p o 0.05) and 6-keto PGF1a decreased. XST
+(20, 40, and 80 mg kg1) ameliorated these changes in a dosedependent manner (Fig. 4).
+In vitro validation of the anti-inflammation action of XST
+To evaluate the inhibitory eﬀect of XST on LPS-mediated production of inflammatory cytokines, the amount of NO production
+was determined by the amount of nitrite, a stable metabolite of
+NO. As shown in Fig. 5, RAW264.7 macrophages produced 0.35 
+0.11 mM nitrite in the resting state. After LPS stimulation for 24 h,
+NO production increased to 6.98  0.50 mM. XST inhibited the
+nitrite production in a dose-dependent manner. 200 mg ml1
+of XST could suppress the NO production stimulated by LPS
+completely. XST can inhibit NO production significantly at
+50 mg ml1.
+
+Discussion
+
+Fig. 3 The eﬀect of XST on the maximum platelet aggregation rate. The
+maximum platelet aggregation rates of rats in diﬀerent groups were measured.
+Values are means  SD (n = 15 for each). *p o 0.05 vs. Model group.
+
+Stroke is the second leading cause of death in China and
+worldwide with high morbidity, disability and death rates.35,36
+Ischemic stroke accounted for almost eighty five percent of all
+strokes.37 The tissue plasminogen activator is the only
+approved therapy for ischemic stroke treatment.38,39 But less
+than 10% of patients received this therapy because of its narrow
+therapeutic time window and the risk of intracranial hemorrhagic transformation.40–43 Therefore, discovering safe and
+effective drugs and a treatment approach for stroke to restore
+neural function and reduce disabilities with a wide therapeutic
+window is an important but daunting task.44 Chinese medicine
+would be an important resource for stroke treatment and new
+drug development. Among them, an attractive one is Panax
+notoginseng (Burk.) FH Chen.9,45 Its product XST has been
+
+Fig. 4 The eﬀect of XST on TXB2 and 6-keto PGF1a in sera (n = 15). TXB2 and 6-keto PGF1a levels in sera in diﬀerent groups were measured. Presented
+are the changes of TXB2 (A), 6-keto PGF1a (B). Values are means  SD. #p o 0.05 and ##p o 0.01 vs. Sham group; *p o 0.05 and ***p o 0.001 vs. Model
+group.
+
+This journal is © The Royal Society of Chemistry 2015
+
+Mol. BioSyst., 2015, 11, 3033--3039 | 3037
+
+View Article Online
+
+Paper
+
+Molecular BioSystems
+
+Published on 25 August 2015. Downloaded by University of Edinburgh on 04/10/2016 21:50:01.
+
+stroke by combining the use of the disease-specific microarray
+with CMAP analysis. First, we demonstrated that XST was able
+to attenuate ischemia–reperfusion induced brain injury. After
+an integrated analysis of the microarray data and the CMAP
+query, inhibition of inflammatory response and coagulation
+were identified as the major mechanisms involved in the
+protective effects of XST.
+
+Conflict of Interest
+The authors claim no conflict of interests.
+
+Acknowledgements
+Fig. 5 The eﬀect of XST on NO production in RAW264.7 macrophages.
+Cells were treated simultaneously with 50 ng ml1 LPS and 2.5–200 mg ml1
+of XST. Supernatants were collected after 24 h and assayed for NO. Values
+are means  SD. ##p o 0.01 vs. Control; *p o 0.05 and **p o 0.01 vs. LPSstimulated cells.
+
+extensively used for the treatment and prevention of stroke
+in China.
+Panax notoginseng belongs to ‘‘HuoXueHuaYu’’ medicines in
+traditional Chinese medicine, which means ‘‘blood-activating
+and stasis-dissolving’’. In this study, coagulation related pathways and anti-plate aggregation drugs were significantly
+enriched by a high dose of XST through pathway enrichment
+and CMAP analysis. Moreover, the inhibition of the anti-plate
+aggregation eﬀect was also validated in the serum test. Thrombosis is the most common trigger and a subsequent injury
+factor and it plays a key role in the occurrence of ischemic
+stroke. Therefore anti-plate aggregation is one of the important
+mechanisms for XST in stroke treatment, ginsenoside Rg1
+could be one of the eﬀective ingredients.46,47
+Inflammation is an essential process in ischemic stroke pathology. Activated macrophages induce severe inflammation which
+causes cerebral swelling.48 In this study, inflammation and adhesion is another important mechanism of XST against stroke. The
+class of inflammation-related pathways was the largest in all pathways enriched by significant genes. Two anti-inflammatory drugs
+were significantly identified in CMAP analysis. We further validated
+the anti-inflammatory action in vitro, as XST inhibited the inflammatory factor in RAW 264.7 cells in a dose-dependent manner, and
+a high dose of XST could prevent NO production completely. The
+results confirmed the anti-inflammatory eﬀect of XST. Several
+reports49–51 revealed that ginsenoside Rd might be involved in
+the anti-inflammatory effect in neuroprotection after focal cerebral
+ischemia, and it would be one of the effective ingredients.
+Interestingly, CMAP analysis also identified several antiinfection drugs being similar to XST, which needs further studies
+to validate the anti-infection eﬀect of XST and its contribution to
+stroke treatment. A meta-analysis in 2013 demonstrated that 30%
+of acute stroke patients have complicated infection.52 Antiinfection is a very important aspect in stroke treatment.
+In conclusion, the present study demonstrated an eﬀective
+approach in identifying molecular mechanisms of XST against
+
+3038 | Mol. BioSyst., 2015, 11, 3033--3039
+
+This work was financially supported by the National Natural
+Science Foundation of China (No. 81273991). The rat experiment
+was carried out in Tianjin Institute of Pharmaceutical Research
+by Prof. Zhuanyou Zhao’s lab. And the microarray test was
+performed in Shanghai Biotechnology Corporation.
+
+References
+1 Y. Tu, Nat. Med., 2011, 17, 1217–1220.
+2 F. Cheung, Nature, 2011, 480, S82–S83.
+3 X. Wang, A. Zhang and H. Sun, OMICS: J. Integr. Biol., 2012,
+16, 414–421.
+4 L. Wang, Z. Li, X. Zhao, W. Liu, Y. Liu, J. Yang, X. Li, X. Fan
+and Y. Cheng, J. Evidence-Based Complementary Altern. Med.,
+2013, 2013, 652373.
+5 X. Chen, M. Zhou, Q. Li, J. Yang, Y. Zhang, D. Zhang,
+S. Kong, D. Zhou and L. He, Stroke, 2009, 40, e394–e395.
+6 T. Ng, J. Pharm. Pharmacol., 2006, 58, 1007–1019.
+7 Q. Shang, H. Xu, Z. Liu, K. Chen and J. Liu, J. Evidence-Based
+Complementary Altern. Med., 2013, 2013, 940125.
+8 X. Yang, X. Xiong, H. Wang and J. Wang, J. Evidence-Based
+Complementary Altern. Med., 2014, 2014, 204840.
+9 X. Chen, M. Zhou, Q. Li, J. Yang, Y. Zhang, D. Zhang,
+S. Kong, D. Zhou and L. He, Cochrane Database Syst. Rev.,
+2008, 4, CD006305.
+10 L. Wang, Z. Li, Q. Shao, X. Li, N. Ai, X. Zhao and X. Fan, Mol.
+BioSyst., 2014, 10, 1905–1911.
+11 L. He, X. Chen, M. Zhou, D. Zhang, J. Yang, M. Yang and
+D. Zhou, Phytomedicine, 2011, 18, 437–442.
+12 Z. Shang-qian, S. Li-jing, Y. Yu-zhen, S. Yan-qin and Z. Yinyuan, Chin. J. Integr. Med., 2005, 11, 128–131.
+13 X. M. Zhang, J. R. Wu and B. Zhang, BMC Complementary
+Altern. Med., 2015, 15, 36, DOI: 10.1186/s12906-015-0560-4.
+14 H. Li, C.-Q. Deng, B.-Y. Chen, S.-P. Zhang, Y. Liang and
+X.-G. Luo, J. Ethnopharmacol., 2009, 121, 412–418.
+15 L. Liu, L. Zhu, Y. Zou, W. Liu, X. Zhang, X. Wei, B. Hu and
+J. Chen, Biol. Pharm. Bull., 2014, 37, 560–568.
+16 H. Y. Son, H. S. Han, H. W. Jung and Y.-K. Park,
+J. Pharmacol. Sci., 2009, 109, 368–379.
+17 Z. Fang, B. Lu, M. Liu, M. Zhang, Z. Yi, C. Wen and T. Shi,
+PLoS One, 2013, 8, e72334.
+
+This journal is © The Royal Society of Chemistry 2015
+
+View Article Online
+
+Published on 25 August 2015. Downloaded by University of Edinburgh on 04/10/2016 21:50:01.
+
+Molecular BioSystems
+
+18 A. Buriani, M. L. Garcia-Bermejo, E. Bosisio, Q. Xu, H. Li,
+X. Dong, M. S. Simmonds, M. Carrara, N. Tejedor and
+J. Lucio-Cazana, J. Ethnopharmacol., 2012, 140, 535–544.
+19 J. Lamb, E. D. Crawford, D. Peck, J. W. Modell, I. C. Blat,
+M. J. Wrobel, J. Lerner, J. P. Brunet, A. Subramanian, K. N. Ross,
+M. Reich, H. Hieronymus, G. Wei, S. A. Armstrong,
+S. J. Haggarty, P. A. Clemons, R. Wei, S. A. Carr, E. S. Lander
+and T. R. Golub, Science, 2006, 313, 1929–1935.
+20 G. Wei, D. Twomey, J. Lamb, K. Schlis, J. Agarwal,
+R. W. Stam, J. T. Opferman, S. E. Sallan, M. L. den Boer
+and R. Pieters, Cancer Cell, 2006, 10, 331–342.
+21 H. Hieronymus, J. Lamb, K. N. Ross, X. P. Peng, C. Clement,
+A. Rodina, M. Nieto, J. Du, K. Stegmaier and S. M. Raj,
+Cancer Cell, 2006, 10, 321–330.
+22 Z. Wen, Z. Wang, S. Wang, R. Ravula, L. Yang, J. Xu,
+C. Wang, Z. Zuo, M. S. Chow, L. Shi and Y. Huang,
+PLoS One, 2011, 6, e18278.
+23 A. C. Ravindranath, N. Perualila-Tan, A. Kasim, G. Drakakis,
+S. Liggi, S. C. Brewerton, D. Mason, M. J. Bodkin, D. A. Evans,
+A. Bhagwat, W. Talloen, H. W. Gohlmann, Z. Shkedy,
+A. Bender and Q. Consortium, Mol. BioSyst., 2015, 11, 86–96.
+24 P. Wang, T. Y. Xu, Y. F. Guan, W. W. Tian, B. Viollet,
+Y. C. Rui, Q. W. Zhai, D. F. Su and C. Y. Miao, Ann. Neurol.,
+2011, 69, 360–374.
+25 J. Li, R.-G. Wu, F.-Y. Meng, Z. Wang, C.-M. Wang, Y.-Y. Wang
+and Z.-J. Zhang, PLoS One, 2012, 7, e45811.
+26 W. Tong, X. Cao, S. Harris, H. Sun, H. Fang, J. Fuscoe,
+A. Harris, H. Hong, Q. Xie and R. Perkins, Environ. Health
+Perspect., 2003, 111, 1819.
+27 D.-H. Yang, K. K. McKee, Z.-L. Chen, G. Mernaugh,
+S. Strickland, R. Zent and P. D. Yurchenco, Development,
+2011, 138, 4535–4544.
+28 S. Nagel, G. Hadley, K. Pfleger, C. Grond-Ginsbach,
+A. M. Buchan, S. Wagner and M. Papadakis, J. Neurochem.,
+2012, 123, 98–107.
+29 T. Ma, H. Liu, W. Chen, X. Xia, X. Bai, L. Liang, Y. Zhang and
+T. Liang, Am. J. Transplant., 2012, 12, 620–629.
+30 Z. Djuric, M. Kashif, T. Fleming, S. Muhammad, D. Piel,
+R. von Bauer, F. Bea, S. Herzig, M. Zeier, M. Pizzi,
+B. Isermann, M. Hecker, M. Schwaninger, A. Bierhaus and
+P. P. Nawroth, Mol. Med., 2012, 18, 1375–1386.
+31 S. Li, X. Gao, X. Wu, Z. Wu, L. Cheng, L. Zhu, D. Shen and
+X. Tong, Acta Biochim. Biophys. Sin., 2015, 47, 368–375.
+32 M. Iwashita, N. Oka, S. Ohkubo, M. Saito and N. Nakahata,
+Eur. J. Pharmacol., 2007, 570, 38–42.
+33 T. Onozato, C. V. Nakamura, D. A. Cortez, B. P. Dias Filho
+and T. Ueda-Nakamura, Phytother. Res., 2009, 23, 791–796.
+
+This journal is © The Royal Society of Chemistry 2015
+
+Paper
+
+34 S. Perumal, R. Mahmud and S. Ramanathan, Nat. Prod. Res.,
+2015, 1–4, DOI: 10.1080/14786419.2014.999242.
+35 V. L. Feigin, M. H. Forouzanfar, R. Krishnamurthi, G. A.
+Mensah, M. Connor, D. A. Bennett, A. E. Moran, R. L. Sacco,
+L. Anderson and T. Truelsen, Lancet, 2014, 383, 245–254.
+36 Q. Wang, C. Gao, H. Wang, L. Lang, T. Yue and H. Lin, PLoS
+One, 2013, 8, e80381.
+37 J. R. Kizer and R. B. Devereux, N. Engl. J. Med., 2005, 353,
+2361–2372.
+38 J. R. Marler, T. Brott, J. Broderick, R. Kothari, M. Odonoghue,
+W. Barsan, T. Tomsick, J. Spilker, R. Miller and L. Sauerbeck,
+N. Engl. J. Med., 1995, 333, 1581–1587.
+39 J. L. Saver, G. C. Fonarow, E. E. Smith, M. J. Reeves, M. V. GrauSepulveda, W. Pan, D. M. Olson, A. F. Hernandez, E. D.
+Peterson and L. H. Schwamm, JAMA, 2013, 309, 2480–2488.
+40 D. Kleindorfer, C. J. Lindsell, L. Brass, W. Koroshetz and
+J. P. Broderick, Stroke, 2008, 39, 924–928.
+41 M. Reeves, S. Arora, J. Broderick, M. Frankel, J. Heinrich,
+S. Hickenbottom, H. Karp, K. LaBresh, A. Malarcher and
+G. Mensah, Stroke, 2005, 36, 1232–1240.
+42 A. K. Boehme, N. Kapoor, K. C. Albright, M. J. Lyerly, P. V.
+Rawal, R. B. Shahripour, M. Alvi, J. T. Houston, A. Sisson,
+T. M. Beasley, A. W. Alexandrov, A. V. Alexandrov and
+D. W. Miller, Stroke, 2013, 44, 2321–2323.
+43 M. J. Lyerly, K. C. Albright, A. K. Boehme, R. Bavarsad
+Shahripour, J. T. Houston, P. V. Rawal, N. Kapoor, M. Alvi,
+A. Sisson and A. W. Alexandrov, J. Stroke Cerebrovasc. Dis.,
+2014, 23, 855–860.
+44 A. Shehadah, J. Chen, B. Kramer, A. Zacharek, Y. Cui,
+C. Roberts, M. Lu and M. Chopp, PLoS One, 2013, 8, e54083.
+45 B. Wu, M. Liu, H. Liu, W. Li, S. Tan, S. Zhang and Y. Fang,
+Stroke, 2007, 38, 1973–1979.
+46 Q. Zhou, L. Jiang, C. Xu, D. Luo, C. Zeng, P. Liu, M. Yue,
+Y. Liu, X. Hu and H. Hu, Thromb. Res., 2014, 133, 57–65.
+47 H. L. Xu, Y. Ji and M. R. Rao, Chin. J. Pharmacol. Toxicol.,
+1998, 12, 40–42.
+48 T. Shichita, M. Ito and A. Yoshimura, Front. Cell. Neurosci.,
+2014, 8, 319.
+49 R. Ye, Q. Yang, X. Kong, J. Han, X. Zhang, Y. Zhang, P. Li,
+J. Liu, M. Shi, L. Xiong and G. Zhao, Neurochem. Int., 2011,
+58, 391–398.
+50 R. Ye, X. Kong, Q. Yang, Y. Zhang, J. Han and G. Zhao,
+Neuropharmacology, 2011, 61, 815–824.
+51 G. Hu, Z. Wu, F. Yang, H. Zhao, X. Liu, Y. Deng, M. Shi and
+G. Zhao, Neurological Sciences, 2013, 34, 2101–2106.
+52 W. F. Westendorp, P. J. Nederkoorn, J. D. Vermeij,
+M. G. Dijkgraaf and D. van de Beek, BMC Neurol., 2011, 11, 110.
+
+Mol. BioSyst., 2015, 11, 3033--3039 | 3039
+
+

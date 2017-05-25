@@ -1,0 +1,879 @@
+﻿[Link]
+http://crossmark.crossref.org/dialog/?doi=10.1371/journal.pone.0129735&domain=pdf
+[Link]
+https://creativecommons.org/publicdomain/zero/1.0/
+RESEARCH ARTICLE
+Targeted Lipid Profiling Discovers Plasma
+Biomarkers of Acute Brain Injury
+Sunil A. Sheth1*, Anthony T. Iavarone2, David S. Liebeskind1, Seok Joon Won3, Raymond
+A. Swanson3
+1 Comprehensive Stroke Center and Department of Neurology, University of California Los Angeles, Los
+Angeles, California, United States of America,2 QB3/Chemistry Mass Spectrometry Facility, University of
+California, Berkeley, California, United States of America,3 Neurology and Rehabilitation Service, San
+Francisco Veterans Affairs Medical Center and Department of Neurology, University of California San
+Francisco, San Francisco, California, United States of America
+* ssheth@post.harvard.edu
+Abstract
+Prior efforts to identify a blood biomarker of brain injury have relied almost exclusively on
+proteins; however their low levels at early time points and poor correlation with injury severity
+have been limiting. Lipids, on the other hand, are the most abundant molecules in the
+brain and readily cross the blood-brain barrier. We previously showed that certain sphingolipid
+(SL) species are highly specific to the brain. Here we examined the feasibility of using
+SLs as biomarkers for acute brain injury. A rat model of traumatic brain injury (TBI) and a
+mouse model of stroke were used to identify candidate SL species though our mass-spectrometry
+based lipid profiling approach. Plasma samples collected after TBI in the rat
+showed large increases in many circulating SLs following injury, and larger lesions produced
+proportionately larger increases. Plasma samples collected 24 hours after stroke in
+mice similarly revealed a large increase in many SLs. We constructed an SL score (sum of
+the two SL species showing the largest relative increases in the mouse stroke model) and
+then evaluated the diagnostic value of this score on a small sample of patients (n = 14) who
+presented with acute stroke symptoms. Patients with true stroke had significantly higher SL
+scores than patients found to have non-stroke causes of their symptoms. The SL score correlated
+with the volume of ischemic brain tissue. These results demonstrate the feasibility of
+using lipid biomarkers to diagnose brain injury. Future studies will be needed to further characterize
+the diagnostic utility of this approach and to transition to an assay method applicable
+to clinical settings.
+Introduction
+The detection of tissue-specific molecules plays a vital role in the diagnosis, management, and
+treatment of acute organ injury; however, such a marker of brain injury remains elusive. Imaging
+studies are frequently inconclusive in neurodegenerative conditions such as Alzheimer’s
+and Parkinson’s disease, and often cannot discriminate between pre-existing lesions and acute
+PLOS ONE | DOI:10.1371/journal.pone.0129735 June 15, 2015 1/15
+OPEN ACCESS
+Citation:Sheth SA, Iavarone AT, Liebeskind DS,
+Won SJ, Swanson RA (2015) Targeted Lipid Profiling
+Discovers Plasma Biomarkers of Acute Brain Injury.
+PLoS ONE 10(6): e0129735. doi:10.1371/journal.
+pone.0129735
+Academic Editor: Cesar V Borlongan, University of
+South Florida, UNITED STATES
+Received:November 21, 2014
+Accepted:May 12, 2015
+Published: June 15, 2015
+Copyright: This is an open access article, free of all
+copyright, and may be freely reproduced, distributed,
+transmitted, modified, built upon, or otherwise used
+by anyone for any lawful purpose. The work is made
+available under the Creative Commons CC0public
+domain dedication.
+Data Availability Statement: Data are available from
+the UCLA and San Francisco VA Institutional Data
+Access / Ethics Committee for researchers who meet
+the criteria for access to confidential data. Ethical
+restrictions are in place for data requests regarding
+the human patients involved in the study, to protect
+patient privacy. As such, requests for these data can
+be sent to the corresponding author who will
+coordinate with the local review boards.
+Funding:This study was supported by the NIH
+(NS041421), Department of Defense (RAS, grant
+W81XWH-13-2-0091) and the Department of
+Veterans Affairs. The funders had no role in study
+( 8.0.0.2542.1883286995 PDF Extractor SDK EVAL VERSION)
+or ongoing processes. In emergency care settings where conditions such as acute ischemic
+stroke (AIS) and traumatic brain injury (TBI) are suspected, advanced imaging studies provide
+additional detail but can slow management decisions and are sometimes unavailable.
+In response to these clinical needs, several brain-specific proteins have been examined as
+candidate plasma biomarkers of brain injury. To date, none have proven sufficiently sensitive
+or specific for routine clinical use[1–3]. For AIS, the ideal biomarker for this disorder would be
+readily detectible within 3–4.5 hours of symptom onset, the window for intravenous thrombolysis
+[4,5]. As a result, the clinical utility of the most commonly assayed protein markers, including
+S100b and neuron specific enolase (NSE), has been limited as neither rise in the plasma
+before 10–18 hours, nor do they correlate with infarct volume prior to 24 hours after injury
+[6,7]. Copeptin, a more recently evaluated molecule, has been shown to confer additional prognostic
+value when measured at the time of presentation, but is highly non-specific for the brain
+and may serve as a more general marker of physiologic stress[8,9]. Others are not detectable in
+the plasma earlier than 24 hours after the injury, exhibit small absolute increases, correlate
+poorly with injury severity, or are elevated in plasma by conditions other than brain injury
+[1,6,7,10–12].
+To overcome these limitations, we evaluated the most abundant molecules in the brain, lipids.
+Lipids cross the blood-brain barrier more readily than proteins, and alterations in their
+brain levels develop early after injury[13]. In recent years, the detection and quantification of
+lipids has improved tremendously through techniques such as soft-ionization mass spectrometry
+[14]. These newer approaches focus on specific lipid subsets and thereby permit a previously
+unprecedented depth of analysis[15].
+We targeted our lipid profiling to sphingolipids (SL), as this class of lipids is far more abundant
+in brain than in plasma. SLs account for about 22% of the dry weight of human adult
+white matter, but only 5% of plasma dry weight[16,17]. SLs can be further subdivided into a
+number of subclasses, which include ceramides (Cer), ceramide phosphates, glucosylceramides,
+sphingoid bases, and sphingomyelins (SM). Lipids in this manuscript were named by the
+sphingolipid subclass abbreviation (i.e. SM, Cer, etc.) followed by the number of carbons in the
+fatty acyl chains and then number of double-bonds, separated by a colon, consistent with prior
+studies[18,19]. For example “SM 37:1”refers to a sphingomyelin molecule with 37 carbons in
+the fatty acyl chains and 1 double bond.
+By performing lipid profiling on 18 different mouse tissues we recently demonstrated that
+certain SL species are highly enriched in brain and have relatively low abundance in all other
+tissues[19]. Specifically, there is a 20–90 fold higher concentration of the sphingomyelin species
+SM 36:1 and 36:2 in the brain than in plasma. In this study we sought to determine whether
+these favorable biochemical features of SLs would allow for their early detection in circulating
+plasma after cerebral injury, in a manner that corresponds with the degree of injury. We evaluated
+changes in plasma SL concentrations in rodent models of AIS and TBI, and validated the
+feasibility of this approach in a small cohort of human patients presenting with AIS.
+Materials and Methods
+Ethics Statement
+The animal studies were approved by the San Francisco Veterans Affairs Medical Center animal
+studies committee and performed in accordance with the National Institutes of Health Guide
+for the Care and Use of Laboratory Animals. IACUC approval was obtained prior to the initiation
+of the animal studies. In addition, ARRIVE guidelines have been followed for the animal
+work described in the manuscript[20]. Research involving human subjects was approved by the
+Institutional Review Board of the University of California, Los Angeles (IRB # 12–001740) and
+Lipid Biomarkers of Acute Brain Injury
+PLOS ONE | DOI:10.1371/journal.pone.0129735 June 15, 2015 2/15
+design, data collection and analysis, decision to
+publish, or preparation of the manuscript.
+Competing Interests: The authors have declared
+that no competing interests exist.
+(DEMO PDF Extractor SDK 8.0.0.2542-147868452)
+was conducted in compliance with the Health Information Portability and Accountability Act.
+A board-certified Neurologist interviewed all patients to determine the capacity of each individual
+participant to provide informed consent. If in the opinion of the physician the patient suffered
+from a compromised ability to provide consent, a surrogate consent procedure was
+instituted whereby the next of kin or legally authorized representative was given the opportunity
+to consent on the patient’s behalf. Formal written consent was obtained for all participants prior
+to the collection of blood samples.
+Study Design
+This discovery-phase study was prospectively designed with a three-step approach of assay development
+, target identification and validation, with the purpose of investigating the utility of
+sphingolipid molecules as markers of acute brain injury. The first phase, assay development, established
+the ability of the lipid extraction and detection techniques to clearly differentiate
+sphingolipid content in brain tissue versus plasma. Two rodent species (rat and mouse) were
+used to ensure robustness of the assay. The second phase, SL target identification, analyzed
+sphingolipid content of plasma samples from mice after AIS and rats after TBI. Two types of
+injury models in two different species were used to ensure the robustness of the findings and
+improve generalizability. The third, validation phase evaluated the most promising SL species
+identified in mouse AIS in a small cohort of human AIS patients, using non-stroke patients
+presenting with similar stroke mimic symptoms as the control group.
+Brain Tissue Collection for SL analyses
+Rats and mice were anesthetized with 2% isoflurane in 70% N
+2
+O/30% O
+2
+using a facemask and
+perfused with chilled phosphate buffered saline to remove circulating blood. Brains were removed
+and kept at 4°C. A 100 mg wet-weight sample was taken from forebrain (the area injured
+in the AIS and TBI studies) and homogenized using a glass dounce 1 mL tissue grinder in
+phosphate buffered saline at 4°C. The homogenate was aliquoted, snap frozen on dry ice, and
+stored at -80°C until ready for extraction.
+Transient focal cerebral ischemia
+Adult mice were fasted overnight with free access to water prior to surgery. Mice were then
+anesthetized with 2% isoflurane in 70% N
+2
+O/30% O
+2
+using a facemask. Rectal temperature was
+maintained at 37 ± 0.5°C by using a homeothermic blanket throughout the surgical procedure.
+Regional cerebral blood flow was measured in all stroke animals using laser Doppler flowmetry
+(Moor Instruments, Wilmington, DE). Focal cerebral ischemia was induced by introducing a
+silicone rubber-coated nylon 6–0 monofilament (Doccol Corporation, Albuquerque, NM) into
+the right middle cerebral artery (MCA) for 45 minutes as described previously[21,22]. The
+right common carotid artery was exposed through a midline incision, separated from the vagus
+nerve and ligated. The external carotid artery was ligated. A filament was inserted through the
+external carotid artery stump and advanced along the internal carotid artery until the tip occluded
+the proximal stem of middle cerebral artery (MCA). Blood flow was restored by removal
+of the filament after 45 minutes. The wound was sutured, and the animal was moved to recovery
+chamber.
+Blood was collected from the mice by terminal cardiac puncture into a heparinized syringe.
+At indicated time points, mice were anesthetized with 2% isoflurane in 70% N
+2
+O/30% O
+2
+using
+a facemask. Rectal temperature was maintained at 37 ± 0.5°C by using a homeothermic blanket.
+Blood samples were kept on ice at 4°C and then centrifuged at 13,000 xgfor five minutes
+at 4°C before being aliquoted into freezer vials, snap frozen on dry ice, and stored at -80°C
+Lipid Biomarkers of Acute Brain Injury
+PLOS ONE | DOI:10.1371/journal.pone.0129735 June 15, 2015 3/15
+(BY PDF Extractor SDK TRIAL VERSION)
+until lipid extraction. At least 3 mice were used per time point. Control animals did not undergo
+sham surgery but did undergo the blood collection process.
+Infarct volume was determined by staining with 2,3,5-triphenyltetrazolium chloride (TTC).
+At the time of euthanasia, mice were perfused with chilled phosphate buffered saline, brains
+were removed, and 2 mm coronal slices were prepared spanning the entire rostral-cuadal extent
+of the lesioned areas. The slices were incubated in 2% TTC in normal saline at 37°C for 15
+minutes and then imaged. Infarct volume was calculated using the indirect method as previously
+described[23].
+Traumatic Brain Injury
+A controlled cortical impact device (Hatteras Instruments, Cary, NC) was used to produce a
+unilateral TBI with varying injury volumes. Rats were fasted the night prior to surgery with
+free access to water, and anesthetized with intraperitoneal injections of ketamine (80 mg/kg)
+plus xylazine (8 mg/kg). Rectal temperature was maintained at 37 ± 0.5°C with a homeothermic
+blanket throughout the surgical procedure. The rats were placed in a stereotaxic frame
+with heads positioned to target the impact 3.0 mm left of the bregma. A midline scalp incision
+was made and a circular craniotomy was made while maintaining integrity of the dura. A
+controlled cortical impact device (Hatteras Instruments, Cary, NC) was used to produce a unilateral
+TBI with varying injury volumes[24]. For milder TBI, a 2.5 mm diameter impactor was
+used and programmed to 1.5 m/s velocity, 2.5 mm penetration depth, and 120 ms dwell time.
+For more severe TBI, a 5.0 mm impactor was used and the penetration depth was increased to
+5 mm. The skin overlaying the site of injury was then closed and the animals were placed in a
+warmed recovery chamber until awake and ambulatory.
+Prior to TBI a 26-gauge heparinized polyvinyl catheter (1 cm length) was introduced into
+femoral artery for blood sampling, and the skin sutured closed to completely internalize the
+catheter. At designated time points, rats were anesthetized with 2% isoflurane in 70% N
+2
+O/
+30% O
+2
+. The catheter was exposed, and blood was collected and handled as described for the
+samples collected from mice. The animals were then placed in a warmed recovery chamber. At
+least 3 rats were used per time point and per controlled cortical impact condition (severe and
+mild). Control animals did not undergo sham surgery but did undergo femoral artery catheter
+placement for blood collection. TBI lesion volume was determined by NeuN staining for viable
+neurons[24]. Rats were euthanized 1 or 7 days after TBI and perfused with 0.9% NaCl followed
+by 4% formaldehyde. Brains were removed and immersed in 4% formaldehyde for 24 hours
+followed by cryopotection in 20% sucrose. Coronal brain sections (thickness of 40μm) were
+washed with 0.1 M phosphate buffer (PB) and incubated with blocking buffer (0.3% Triton
+X-100, 2% goat serum, and 0.1% bovine serum albumin in 0.1 M PB) at room temperature for
+30 min. The sections were incubated with anti-NeuN (Millipore Co., Billerica, MA; 1:1000)
+overnight at 4°C. After washing, the sections were incubated with goat biotinylated goat antimouse
+IgG antibody (Amersham) at a dilution of 1:200 for two hours at room temperature. Serial
+coronal sections (480μm) were photographed and the area devoid of NeuN staining on
+each section was calculated using Image J (National Institutes of Health, Bethesda, MD).
+Acute Stroke Patient Evaluation
+All participants were patients presenting to the Ronald Reagan UCLA Emergency Department
+with symptoms concerning for acute stroke. Patients were included in this study if they had
+onset of stroke symptoms within 8 hours of presentation (or within 2 hours of presentation if
+symptoms were present upon awakening from sleep); were greater than 18 years of age; and
+were able to offer informed consent or had a suitable surrogate individual who could consent
+Lipid Biomarkers of Acute Brain Injury
+PLOS ONE | DOI:10.1371/journal.pone.0129735 June 15, 2015 4/15
+(TRIAL VER. PDF Extractor SDK 8.0.0.2542.798908772)
+on their behalf. Enrollment was terminated once 14 patients were enrolled, based on sample
+size calculations (see below). The final clinical diagnosis was based on the results of a detailed
+evaluation of each patient by the Neurovascular Neurology service.
+Blood samples were collected by peripheral vein venipuncture into heparin-containing
+tubes. Samples were kept on ice and then centrifuged immediately at 13,000xg for five minutes
+at 4°C. The plasma was collected and aliquoted into freezer vials for storage at -80°C. Lipid extraction
+and detection were performed in an identical manner to the animal studies.
+Infarct size was determined by magnetic resonance imaging (MRI) performed at the time of
+patient presentation. Infarcted tissue was identified by a standard diffusion-weighted imaging
+protocol and quantified with a computer-assisted volumetric analysis program (Olea Medical,
+La Ciotat, France)[25]. In 2 stroke patients (out of 9), MRI imaging could not be obtained due
+to contraindication for MRI (implantable pacemaker) and as such these patients excluded
+from the imaging evaluation portion of this study.
+Sample Size Considerations
+The plasma concentration of the SLs at the 24-hour time point in the mouse stroke model
+varied with a coefficient of variation of approximately 30% (seeResultssection). Assuming a
+3-fold difference in SL levels between the stroke and stroke mimic patients, we calculated a
+greater than 80% power to detect this difference at an overall significance level of 5% (after
+Bonferroni correction for 30 different sphingolipid species) using 8 subjects in the stroke group
+and 5 subjects in the stroke mimic group.
+Sphingolipid Score
+A sphingolipid score for human stroke evaluation was calculated by adding the median normalized
+(sphingolipid concentration divided by the median of the sphingolipid concentration
+of the stroke mimic patients) values of the two species with the greatest fold change in the
+mouse stroke model (SM 36:0 and Cer 42:1).
+Sphingolipid Extraction
+All reagents were HPLC-grade unless otherwise noted, and all sample containers and pipette
+tips were glass or Teflon based. The method for the SL extraction is modified from a previously
+described method[17,26,27].
+Twenty microliters of plasma (or 100μL of diluted brain extract) were placed in 13 × 100 mm
+screw-capped borosilicate glass test tubes with Teflon caps (Fisher Scientific Catalog Number
+14-933A, New Jersey, USA). 0.5 mL of methanol followed by 0.25 mL of chloroform (Fisher
+Scientific, New Jersey, USA) and 10μL of internal standards (Sph/Cer Mixture I, Catolog
+Number LM-6002, Avanti Polar Lipids, Alabaster, AL) were added. Samples were then sonicated
+in a bath-type sonicator until they appeared evenly dispersed and then incubated 2 hours at
+48°C in a heating block. Tubes were then cooled to room temperature and 75μL of 1M KOH
+was added. This mixture was sonicated briefly and then incubated for 30 minutes at 37°C. Samples
+were then cooled to room temperature and neutralized by addition of 16μL of glacial acetic
+acid (Fisher Scientific, New Jersey, USA). pH was checked with test strips to verify near
+return to neutral pH 7.0. 1 mL of chloroform and 2 mL of water were added to each tubes. The
+solution was mixed gently and centrifuged at 300 xgfor 5 minutes to separate the phases.
+A Pasteur pipette was rinsed with chloroform and then used to remove the lower layer into
+another glass test tube, and the solvent was removed using a SpeedVac-type concentrator. The
+lipid residue was then redissolved in 75μL methanol. The upper phase was re-extracted by
+adding 1 mL chloroform, mixing gently, and centrifuging as above. The lower layer was again
+Lipid Biomarkers of Acute Brain Injury
+PLOS ONE | DOI:10.1371/journal.pone.0129735 June 15, 2015 5/15
+(8.0.0.2542.2056376883 PDF Extractor SDK TRIAL VERSIOn)
+transferred to another glass test tube using a Pasteur pipette that had been rinsed with chloroform
+, and the solvent was removed using a SpeedVac-type concentrator. The lipid residue was
+redissolved in 75μL methanol. These two extracts were then pooled for a total of 150μL, vortexed
+, and then centrifuged at 13,000xgto clarify. The supernatant was then transferred to an
+autosampler vial (Catalog number 225180, Wheaton, New Jersey, USA). Vials were stored at
+-80°C until ready for LC-MS analysis.
+Protein content in mouse and rat brain and plasma was quantified using the Pierce BCA
+Protein Assay Kit (Thermo Scientific, Waltham, MA) according to the manufacturer’s directions.
+Lipid measurements in brain and plasma were normalized to protein content before
+comparison.
+Total sphingomyelin measurements
+Total sphingomyelin content in plasma was measured using a biochemical assay (Sphingomyelin
+Colorimetric Assay Kit, Cayman Chemical, Ann Arbor, MI) per the manufacturer’s directions
+and normalized to plasma protein content.
+High performance liquid chromatography-mass spectrometry
+Methanol (Optima grade, Fisher Scientific, New Jersey, USA), formic acid (99+%, Thermo Scientific
+Pierce, Waltham, MA), ammonium formate (99%, Alfa Aesar, Ward Hill, MA) and
+water purified to a resistivity of 18.2 MOcm (at 25°C) using a Milli-Q Gradient ultrapure
+water purification system (Millipore, Billerica, MA), were used to prepare mobile phase solvents
+for liquid chromatography-mass spectrometry.
+Lipid extracts were analyzed using an Agilent 1200 liquid chromatograph (Agilent, Santa
+Clara, CA) that was connected in-line with an LTQ Orbitrap XL mass spectrometer equipped
+with an electrospray ionization source (ESI; Thermo Fisher Scientific, Waltham, MA). The LC
+was equipped with a C
+4
+analytical column (Viva C4, 150 mm length × 1.0 mm inner diameter,
+5μm particles, 300 Å pores, Restek, Bellefonte, PA) and a 100μL sample loop. Solvent A was
+99.8% water/0.2% formic acid and solvent B was 99.8% methanol/0.2% formic acid (v/v). Solvents
+A and B both contained 5 mM ammonium formate. Lipid extract samples in autosampler
+vials sealed with septa caps were loaded into the autosampler compartment prior to analysis.
+The sample injection volume was 100μL. The elution program consisted of isocratic flow at
+30% B for 3 min, a linear gradient to 50% B over 0.5 min, a linear gradient to 100% B over
+11.5 min, isocratic flow at 100% B for 5 min, a linear gradient to 30% B over 0.5 min, and isocratic
+flow at 30% B for 19.5 min, at a flow rate of 150μL/min. The column and sample compartments
+were maintained at 40°C and 4°C, respectively. The injection needle was rinsed with
+a 1:1 methanol:water (v/v) solution after each injection to avoid cross-contamination between
+samples.
+The column exit was connected to the ESI probe of the mass spectrometer using PEEK tubing
+(0.005”inner diameter × 1/16”outer diameter, Agilent, Santa Clara, CA). Mass spectra
+were acquired in the positive ion mode over the rangem/z= 270 to 1150 using the Orbitrap
+mass analyzer, in profile format, with a mass resolution setting of 100,000 (atm/z= 400, measured
+at full width at half-maximum peak height). In the data-dependent mode, the five most
+intense ions exceeding an intensity threshold of 30,000 counts were selected from each fullscan
+mass spectrum for tandem mass spectrometry (MS/MS) analysis using collision-induced
+dissociation (CID) or pulsed-Q dissociation (PQD). MS/MS spectra were acquired in the positive
+ion mode using the linear ion trap, in centroid format, with the following parameters: isolation
+width 3m/zunits, normalized collision energy 30%, activation time 30 ms, activation
+Q 0.25 for CID, activation Q 0.50 for PQD, and default charge state 1+. A parent mass list was
+Lipid Biomarkers of Acute Brain Injury
+PLOS ONE | DOI:10.1371/journal.pone.0129735 June 15, 2015 6/15
+(TRIAL VER. PDF Extractor SDK 8.0.0.2542.679421164)
+used to preferentially select ions of interest for MS/MS analysis. To avoid the occurrence of
+redundant MS/MS measurements, real-time dynamic exclusion was enabled to preclude
+re-selection of previously analyzed precursor ions, using the following parameters: repeat
+count 2, repeat duration 30 s, exclusion list size 500, exclusion duration 60 s, and exclusion
+width 0.1m/zunit. Data were processed and analyzed using Xcalibur software (version 2.0.7
+SP1, Thermo Scientific, Waltham, MA), mMass software (version 5.4.1), and LIPID MAPS
+Online Tools[28,29]. Sphingolipid identification was made by exact mass measurements coupled
+with MS/MS measurements, and searched against the LIPID MAPS Online Database.
+This database contains annotated entries for all known lipids as well as their modified products
+(i.e. oxidation, glycosylation, etc.). Sphingolipid species used in this analysis were confined to
+those present and characterized within this database.
+Statistical Methods
+All statistical analyses were performed using commercially available software (Prism 5.0a,
+GraphPad Software, La Jolla, CA). p<0.05 was considered statistically significant. Data in Figs
+1–3are displayed in volcano plot format, which graphs statistical significance of the data (in
+the form of p-value) against the fold change or fold difference. Species in the top right corner
+of the plot therefore are the most significant as well as with the largest fold difference. Continuous
+data were represented as mean ± SEM if the D’Agostino & Pearson omnibus normality test
+was passed. Otherwise, they were presented as median [IQR].
+Results
+Our targeted lipid profiling approach (Fig 1A) provided a broad linear range for all SL subclasses
+, and the median coefficient of variation (CV) for technical replicates of identical plasma
+samples was 7% [IQR 5–12]. Using this technique, we identified many SLs that are highly
+abundant in the brain compared to plasma. Of the 45 SLs identified in mice and 56 SLs identified
+in rats (Fig 1B and 1C), nearly all were present at much higher concentration in the brain,
+many with a greater than 1000-fold difference. In addition, there were a number of species
+found in the brain (8 in the mouse and 13 in the rat) that were undetectable in the plasma. The
+majority of SL species detected were sphingomyelins (SM) although members of all SL subclasses
+were seen. Sphingoid bases, ceramide phosphates, and glucosyl ceramides were not as
+readily detected.
+We then sought to determine changes in circulating plasma SL levels after ischemic stroke
+in the mouse. Plasma collected 24 hours after the injury revealed a dramatic increase in SL levels
+in the stroke compared to sham animals, with the majority of the top performing species
+being SM and Cer, with increases of up to 60 fold (Fig 2A). The top species were Cer 42:1 (1.8
+vs. 0.1 pmol/μL, stroke vs. sham, p<0.05) and SM 36:0 (0.3 vs. 0.005 pmol/μL, stroke vs. sham,
+p<0.05). The rise in SL levels occurred between 6 and 24 hours after the injury, and this time
+course was highly consistent across the top ten lipids (Fig 2B and 2CandS1 Fig). Before this
+time point, SL levels in stroke animal plasma were comparable to those of the sham and control
+animals. The median CV for biological replicates in the 24 hour sham and stroke groups were
+29% [IQR 15–51] and 31% [IQR 22–40] respectively. The changes in plasma SM after stroke
+were confirmed by measuring total SM levels (Fig 2D) using an independent biochemical
+assay.
+Next, we determined the changes in plasma SL levels in a second brain injury model, TBI, in
+rats. We found a similar robust increase in circulating SL following injury (Fig 3A), with SMs
+being the most prominent species. The SMs with the largest magnitude increase were SM 37:1
+and SM 38:3. The rise induced by TBI was smaller than in the murine stroke model, possibly
+Lipid Biomarkers of Acute Brain Injury
+PLOS ONE | DOI:10.1371/journal.pone.0129735 June 15, 2015 7/15
+(BY PDF Extractor SDK TRIAL VERSION)
+reflecting the two-fold smaller volume of injury in the TBI compared to stroke, but the elevations
+were detectable earlier after TBI (Fig 3B and 3C). The time course of the rise and subsequent
+fall in plasma levels was similar for the top ten species with the greatest fold change (S2
+Fig). The median CV for biological replicates in the 48-hour sham and TBI groups were 15%
+[IQR 8–21] and 23% [16–30] respectively. The increase in circulating SL levels in the early time
+points in all three groups (sham, control and TBI) may have resulted in part from the surgical
+placement of the intra-arterial catheter used for serial blood collection, but the animals that received
+CCI continued to have elevations in SL levels in excess of the sham and control animals.
+Further, by varying the degree of CCI injury, we found that the increase in SM concentration
+was directly proportional to the lesion volume (r2= 0.8, p<0.05) (Fig 3D). For each individual
+SL species, the relative fold change after TBI compared to sham surgery correlated directly with
+the fold change for that species seen in the stroke model, as shown inS3 Fig.
+We then sought to validate this technique in a patient population presenting with symptoms
+concerning for acute stroke. We enrolled patients (n = 14) who presented emergently to the
+hospital and collected plasma samples within 30 minutes of arrival. Of these patients, 9/14
+(64%) were ultimately diagnosed with stroke, and 5/14 (36%) were diagnosed as having a
+Fig 1. Targeted sphingolipid profiling in mouse and rat brain and plasma. (a)Schematic of the workflow for the isolation of rodent brain and plasma, lipid
+extraction, and HPLC MS/MS.(b)Volcano plot of the negative log
+10
+of the p-value (Student’s t-test, two-tailed) versus the log
+10
+of the normalized (to protein
+content) fold difference in concentration in brain over plasma for the 45 sphingolipids identified in mouse brain and plasma. Species within the box (8 total)
+were found in the brain but not identified in the plasma.n= 3 per sample.(c)Volcano plot of the negative log
+10
+of the p-value (Student’s t-test, two-tailed)
+versus the log
+10
+of the normalized fold difference in concentration in brain over plasma for the 56 sphingolipids identified in rat brain and plasma. Species
+within the box (13 total) were found in the brain but not identified in the plasma.n= 3 per sample.
+doi:10.1371/journal.pone.0129735.g001
+Lipid Biomarkers of Acute Brain Injury
+PLOS ONE | DOI:10.1371/journal.pone.0129735 June 15, 2015 8/15
+(EVAL PDF Extractor SDK 8.0.0.2542-1091486268)
+stroke mimic. Clinical features of these patients are provided inS1 Table. Of the 9 patients diagnosed
+with stroke, 4/9 (44%) of patients underwent blood sampling in under 3 hours from
+when symptoms were first observed. Stroke mimic patients were ultimately diagnosed with seizure
+, complicated migraine, Bell’s palsy or factitious disorder. Consistent with prior studies,
+the stroke mimic patients tended to be younger and more often female [30].
+Building from the SL targets identified in the mouse stroke studies, we constructed an SL
+Score consisting of the normalized sum of the plasma concentration of the two species with the
+greatest fold change from this model (namely, SM 36:0 and Cer 42:1). By including one SM
+and one Cer, we reduced intra-subclass variability, while maintaining a statistically simple
+model with a numerical value that could still be understood intuitively. As shown inFig 4A, patients
+ultimately diagnosed with stroke were found to have on average over two-fold higher SL
+scores than the stroke-mimic patients. The subset of stroke patients who presented and had
+blood drawn within three hours of when their symptoms were first observed also had greater
+Fig 2. Sphingolipid profiling in middle cerebral artery occlusion in mice. (a)Volcano plot of the negative log
+10
+of the p-value (Student’s t-test, two-tailed)
+versus the log
+10
+of the normalized fold change in plasma concentration of stroke over sham animals at the 24 hour time point. Selected top performing
+sphingolipids are indicated by labels.n= 3 per sample.(bandc)Time course of the two sphingolipids with the greatest fold change. Red line indicates stroke
+animal, black line indicates sham animal, and grey line indicates control animal without any surgical procedure but with identical blood collectionprocess.
+Data are shown as mean±SEM.*indicates p<0.05, Student’s t-test, two-tailed.n= 3 per sample.(d)Total sphingomyelin concentration in plasma as
+measured by biochemical assay.*indicates p<0.05, one-way ANOVA with Dunnett’s multiple comparisons test.
+doi:10.1371/journal.pone.0129735.g002
+Lipid Biomarkers of Acute Brain Injury
+PLOS ONE | DOI:10.1371/journal.pone.0129735 June 15, 2015 9/15
+( 8.0.0.2542.1391154697 PDF Extractor SDK EVAL VERSION)
+SL scores than those diagnosed as stroke-mimic. The SL score also correlated with the volume
+of ischemic brain tissue (MRI diffusion-weighted imaging volume) in the stroke patients (Fig
+4B). We then calculated receiver-operator curve (ROC) and area under the curve (AUC) statistics
+for the ability of the SL score to differentiate stroke from stroke mimic. This curve can be
+found onS4 Fig. The AUC was found to be 0.87.
+Discussion
+By focusing on a class of lipids abundant in the brain, we have identified a subset of SLs which,
+in animal models, rise in the plasma after traumatic brain injury and stroke and correlate with
+the severity of injury. The two SLs with the most marked elevations were incorporated into an
+“SL score”. In a small cohort of patients presenting with symptoms of AIS, we showed that the
+SL species identified in the animal model rise at early time points and correlate with degree of
+Fig 3. Sphingolipid profiling in controlled cortical impact in rats. (a)Volcano plot of the negative log
+10
+of the p-value (Student’s t-test, two-tailed) versus
+the log
+10
+of the normalized fold change in plasma concentration of TBI over sham animals at the 48 hour time point. Selected top performing sphingolipids are
+indicated by labels.n= 4 per sample.(bandc)Time course of the two sphingolipids with the greatest fold change. Red line indicates TBI animal, black line
+indicates sham animal, and grey line indicates control animal without any surgical procedure but with identical blood collection process. Data are shown as
+mean±SEM.*indicates p<0.05,***indicates p<0.001, Student’s t-test.n= 4 per sample.(d)Scatter plot demonstrating the relationship between the
+plasma concentration of the sphingolipid with the greatest fold change (SM 37:1) at 48 hours versus the volume of injured brain. Linear correlation shown in
+red (p<0.001, Pearson’s correlation coefficient).
+doi:10.1371/journal.pone.0129735.g003
+Lipid Biomarkers of Acute Brain Injury
+PLOS ONE | DOI:10.1371/journal.pone.0129735 June 15, 2015 10 / 15
+(EVAL PDF Extractor SDK 8.0.0.2542-852511052)
+injury. The SL score was increased by over two fold in plasma collected from stroke patients at
+time points of 3 hours or less from when symptoms were first noticed.
+From our ROC curve for the SL score, we found an AUC of 0.87 to differentiate stroke versus
+stroke mimic on blood samples taken at the time of patient arrival to the hospital. Though
+our sample size is limited, this value is elevated when compared against protein biomarkers of
+stroke. An algorithm that combined the value of four protein markers (matrix metalloproteinase
+9, D-dimer, S100b, and B-type natriuretic peptide) was found to have an AUC of 0.69 for
+differentiating stroke from mimic[30]. For differentiating patients with traumatic brain injury
+against those without traumatic brain injury using blood collected within 3 hours of hospital
+arrival, the AUC for S-100b was found to be 0.66, and for NSE, 0.67[31]. GFAP was shown to
+Fig 4. Sphingolipid profiling in patients presenting with acute neurological deficits concerning for
+stroke. (a)SL Score from plasma at the time of hospital arrival for patients ultimately diagnosed as stroke
+and those diagnosed as having a stroke mimic. Three groups were included in the comparison: all patients
+presenting with stroke, all patients presenting with stroke mimics, and the subset of stroke patients from
+whom blood draw was within 3 hours of when the symptoms were first observed. Data are shown as
+mean±SEM.*indicates p<0.05, Student’s t-test, two-tailed.(b)Scatter plot demonstrating the relationship
+of the SL score with final infarct volume as determined by MRI diffusion weighted imaging. Linear correlation
+shown in red (p<0.05, Pearson’s correlation coefficient).
+doi:10.1371/journal.pone.0129735.g004
+Lipid Biomarkers of Acute Brain Injury
+PLOS ONE | DOI:10.1371/journal.pone.0129735 June 15, 2015 11 / 15
+( 8.0.0.2542.1084395335 PDF Extractor SDK EVALUATION)
+have an AUC of 0.79 to detect whether patients with TBI would have computerized tomography
+(CT) scan findings[32].
+One explanation for SL presence in the blood at time points earlier than protein markers
+may be the increased blood-brain barrier permeability of small lipid-soluble molecules. Whereas
+larger, hydrophilic protein markers stay sequestered in cerebral tissue until the blood-brain
+barrier breaks down over several hours following the injury, lipids can escape earlier[33]. In addition
+, SLs within the brain are found at high concentrations in cell membranes and the myelin
+sheets of white matter oligodendroglia. Because of this localization, coupled with the rapid
+changes in oligodendrocyte membranes after injury[34], plasma SL levels may rise before cell
+death has occurs. Such a mechanism may also explain why SL levels rise earlier in human
+stroke than the mouse model, as human brains contain far more white matter per volume of
+brain[35]. As such, rodent injury models may greatly underestimate the sensitivity of this SL-
+based assay. Indeed, SM content is significantly higher in the human brain than rodent brain–
+approximately 15% of the lipid content of human brain and only 5.7% of the rat[36,37].
+The SL targets that we identified in our pre-clinical rodent models consisted primarily of
+SM and Cer species. Both these classes of lipids are concentrated in cerebral white matter and
+in greater abundance in the brain compared to plasma[16,17]. Per unit dry weight, ceramides
+are in approximately 5-fold greater concentration in white matter compared to plasma. Specifically
+, we also found that the two species with the greatest fold change in the mouse stroke
+model that then constituted the SL score (SM 36:0 and Cer 42:1) were in very high abundance
+in the brain compared to plasma (56 and 788 fold increase in mouse brain compared to
+plasma).
+A consideration in the development of lipid-based biomarkers of injury is plasma half-life.
+The major source of ceramide production is from sphingomyelinase-driven breakdown of
+sphingomyelin. Thus, it is conceivable that SM and Cer biomarkers of brain injury will demonstrate
+different plasma concentration time courses after brain injury. Moreover, a significant
+proportion of plasma SLs may be contained within circulating microvesicles such as exosomes.
+Exosomes have been shown to pass through the blood-brain-barrier and their structure may
+allow for longer half-life in plasma[38].
+In this study we performed targeted lipid profiling and did not attempt to identify all possible
+brain or plasma lipids, though such efforts have been performed previously using multiple
+extraction and detection techniques[17]. Further studies will be needed to quantify the effect
+on plasma SL level of additional variables such as time after injury, region of brain involved, patient
+age, and others, with the goal of establishing a threshold level at which the presence or absence
+of acute cerebral injury can be confidently determined. Our finding that stroke mimic
+patients tend to be younger and female is consistent with prior studies, and the potential impact
+of these variables on our results will need to be studied in additional detail in a larger cohort
+[30]. Further, although in our prior work we demonstrated high specificity for
+sphingolipid species to brain tissue compared with other organs in the mouse, this specificity
+may not be the case in humans[19]. Alternate lipid sources, including bone marrow, adipose
+tissue, skin, and other sources could limit the ultimate specificity of this approach in detecting
+brain injury in settings where polytrauma is a consideration. Correlating the markers with clinically
+based outcome measures and neurological function scales will also be important. Finally,
+transitioning from a mass spectrometry based approach, which is not readily available in clinical
+settings, to a biochemical and ideally bedside means of identifying key SLs would aid in advancing
+the assay.
+These results demonstrate the feasibility of lipid profiling in identifying circulating markers
+of acute brain injury. While we focus on the acute brain injury syndromes of AIS and TBI in
+this work, SLs may also provide biomarker identification for ongoing brain injury in
+Lipid Biomarkers of Acute Brain Injury
+PLOS ONE | DOI:10.1371/journal.pone.0129735 June 15, 2015 12 / 15
+(8.0.0.2542,1196792010 PDF Extractor SDK TRIAL)
+[Link]
+http://www.plosone.org/article/fetchSingleRepresentation.action?uri=info:doi/10.1371/journal.pone.0129735.s001
+[Link]
+http://www.plosone.org/article/fetchSingleRepresentation.action?uri=info:doi/10.1371/journal.pone.0129735.s002
+[Link]
+http://www.plosone.org/article/fetchSingleRepresentation.action?uri=info:doi/10.1371/journal.pone.0129735.s003
+[Link]
+http://www.plosone.org/article/fetchSingleRepresentation.action?uri=info:doi/10.1371/journal.pone.0129735.s004
+[Link]
+http://www.plosone.org/article/fetchSingleRepresentation.action?uri=info:doi/10.1371/journal.pone.0129735.s005
+[Link]
+http://dx.doi.org/10.1007/s00701-009-0463-6
+neurodegenerative diseases such as Alzheimer’s disease, as well as multiple sclerosis and other
+chronic neurological disorders. These findings and approach represent a novel direction towards
+a clinically important need.
+Supporting Information
+S1 Fig. Plasma levels over time of the next top 8 sphingolipids with the greatest fold
+changes following middle cerebral artery occlusion in mouse. (a-i)Time courses for plasma
+concentration of the remaining top 2–10 sphingolipids in the mouse stroke model. A consistent
+pattern of minimal signal up to six hours followed by appearance in the plasma between 6 and
+24 hours is seen across all 8 species. Red line indicates stroke animal, black line indicates sham
+animal, and grey line indicates control animal without any surgical procedure but with identical
+blood collection process.  indicates p<0.05, indicates p<0.01, indicates p<0.001,
+Student’s two-tailed t-test.
+(TIFF)
+S2 Fig. Plasma levels over time of next top 8 sphingolipids with the greatest fold changes
+following controlled cortical impact in rat. (a-i)Time courses for plasma concentration of
+the remaining top 2–10 sphingolipids in the rat TBI model. A consistent pattern of low level
+but significant appearance in the plasma at 4 hours followed by rising levels peaking at 48
+hours and a return to control levels at one week is seen in all 8 species. Red line indicates stroke
+animal, black line indicates sham animal, and grey line indicates control animal without any
+surgical procedure but with identical blood collection process.  indicates p<0.05, indicates
+p<0.01, indicates p<0.001, Student’s two-tailed t-test.
+(TIFF)
+S3 Fig. Correlation of sphingolipid species in TBI and AIS models.Scatter plot demonstrating
+the relationship between the fold changes in plasma concentration of sphingolipid species
+after TBI in rat over sham versus stroke in mouse over sham. Linear correlation indicated by
+the red line (p<0.001, Pearson’s correlation coefficient). Dashed black line indicates 95%
+confidence intervals.
+(TIFF)
+S4 Fig. Receiver-operator curve for the SL score to differentiate stroke from stroke mimic.
+Curve calculated from SL values from blood samples taken at the time of patient arrival to the
+ED. Area under the curve (AUC) value was calculated to be 0.87.
+(TIFF)
+S1 Table. Patient Characteristics.
+(DOCX)
+Author Contributions
+Conceived and designed the experiments: SAS RAS. Performed the experiments: SAS SJW
+ATI. Analyzed the data: SAS SJW ATI. Contributed reagents/materials/analysis tools: SAS ATI
+SJW DSL RAS. Wrote the paper: SAS RAS.
+References
+1. Kövesdi E, Lückl J, Bukovics P, Farkas O, Pál J, Czeiter E, et al. (2010) Update on protein biomarkers
+in traumatic brain injury with emphasis on clinical use in adults and pediatrics. Acta Neurochir (Wien)
+152: 1–17. doi:10.1007/s00701-009-0463-6
+Lipid Biomarkers of Acute Brain Injury
+PLOS ONE | DOI:10.1371/journal.pone.0129735 June 15, 2015 13 / 15
+(BY PDF Extractor SDK TRIAL VERSION)
+[Link]
+http://dx.doi.org/10.1161/STROKEAHA.108.528752
+[Link]
+http://dx.doi.org/10.1161/STROKEAHA.108.528752
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/19286602
+[Link]
+http://dx.doi.org/10.1016/j.nurt.2009.10.019
+[Link]
+http://dx.doi.org/10.1016/j.nurt.2009.10.019
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/20129502
+[Link]
+http://dx.doi.org/10.1161/CIRCULATIONAHA.107.181486
+[Link]
+http://dx.doi.org/10.1161/CIRCULATIONAHA.107.181486
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/17515473
+[Link]
+http://dx.doi.org/10.1161/STROKEAHA.109.192535
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/19478221
+[Link]
+http://dx.doi.org/10.1016/S0022-510X(96)05351-8
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/9125396
+[Link]
+http://dx.doi.org/10.1159/000332810
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/22133844
+[Link]
+http://dx.doi.org/10.1002/ana.21783
+[Link]
+http://dx.doi.org/10.1002/ana.21783
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/20035506
+[Link]
+http://dx.doi.org/10.1186/1741-7015-10-7
+[Link]
+http://dx.doi.org/10.1186/1741-7015-10-7
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/22264220
+[Link]
+http://dx.doi.org/10.1159/000199468
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/19202335
+[Link]
+http://dx.doi.org/10.1111/j.1468-1331.2006.01435.x
+[Link]
+http://dx.doi.org/10.1111/j.1468-1331.2006.01435.x
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/16987165
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/17901539
+[Link]
+http://dx.doi.org/10.1208/aapsj080236
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/16796382
+[Link]
+http://dx.doi.org/10.1073/pnas.0906891106
+[Link]
+http://dx.doi.org/10.1073/pnas.0906891106
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/19995978
+[Link]
+http://dx.doi.org/10.1194/jlr.M009449
+[Link]
+http://dx.doi.org/10.1194/jlr.M009449
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/20671299
+[Link]
+http://dx.doi.org/10.1038/nm.3466
+[Link]
+http://dx.doi.org/10.1038/nm.3466
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/24608097
+[Link]
+http://dx.doi.org/10.1152/ajpendo.00371.2013
+[Link]
+http://dx.doi.org/10.1111/j.1476-5381.2010.00873.x
+[Link]
+http://dx.doi.org/10.1111/j.1476-5381.2010.00873.x
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/20649560
+2. Whiteley W, Chong WL, Sengupta A, Sandercock P (2009) Blood markers for the prognosis of ischemic
+stroke: a systematic review. Stroke; a journal of cerebral circulation 40: e380–e389. doi:10.1161/
+STROKEAHA.108.528752PMID:19286602
+3. Dash PK, Zhao J, Hergenroeder G, Moore AN (2010) Biomarkers for the Diagnosis, Prognosis, and
+Evaluation of Treatment Efficacy for Traumatic Brain Injury. Neurotherapeutics 7: 100–114. doi:10.
+1016/j.nurt.2009.10.019PMID:20129502
+4. Adams HP, del Zoppo G, Alberts MJ, Bhatt DL, Brass L, Furlan A, et al. (2007) Guidelines for the early
+management of adults with ischemic stroke: a guideline from the American Heart Association/American
+Stroke Association Stroke Council, Clinical Cardiology Council, Cardiovascular Radiology and Intervention
+Council, and the Atherosclerotic Peripheral Vascular Disease and Quality of Care Outcomes in
+Research Interdisciplinary Working Groups: The American Academy of Neurology affirms the value of
+this guideline as an educational tool for neurologists. Circulation 115: e478–e534. doi:10.1161/
+CIRCULATIONAHA.107.181486PMID:17515473
+5. Del Zoppo GJ, Saver JL, Jauch EC, Adams HP, American Heart Association Stroke Council (2009) Expansion
+of the time window for treatment of acute ischemic stroke with intravenous tissue plasminogen
+activator: a science advisory from the American Heart Association/American Stroke Association.
+Stroke; a journal of cerebral circulation 40: 2945–2948. doi:10.1161/STROKEAHA.109.192535PMID:
+19478221
+6. Fassbender K, Schmidt R, Schreiner A, Fatar M, Mühlhauser F, Daffertshofer M, et al. (1997) Leakage
+of brain-originated proteins in peripheral blood: temporal profile and diagnostic value in early ischemic
+stroke. J Neurol Sci 148: 101–105. doi:10.1016/S0022-510X(96)05351-8PMID:9125396
+7. Ahmad O, Wardlaw J, Whiteley WN (2012) Correlation of Levels of Neuronal and Glial Markers with Radiological
+Measures of Infarct Volume in Ischaemic Stroke: A Systematic Review. Cerebrovasc Dis 33:
+47–54. doi:10.1159/000332810PMID:22133844
+8. Katan M, Fluri F, Morgenthaler NG, Schuetz P, Zweifel C, Bingisser R, et al. (2009) Copeptin: A novel,
+independent prognostic marker in patients with ischemic stroke. Ann Neurol 66: 799–808. doi:10.
+1002/ana.21783PMID:20035506
+9. Nickel CH, Bingisser R, Morgenthaler NG (2012) The role of copeptin as a diagnostic and prognostic
+biomarker for risk stratification in the emergency department. BMC Med 10: 7. doi:10.1186/1741-
+7015-10-7PMID:22264220
+10. Anand N, Stead LG (2005) Cerebrovascular Diseases 2005, Vol. 20, No. 4—Neuron-Specific Enolase
+as a Marker for Acute Ischemic Stroke: A Systematic Review—FullText—Karger Publishers. Cerebrovasc
+Dis.
+11. Dassan P, Keir G, Brown MM (2009) Criteria for a Clinically Informative Serum Biomarker in Acute
+Ischaemic Stroke: A Review of S100B. Cerebrovasc Dis 27: 295–302. doi:10.1159/000199468PMID:
+19202335
+12. Wunderlich MT, Wallesch CW, Goertler M (2006) Release of glial fibrillary acidic protein is related to the
+neurovascular status in acute ischemic stroke. Eur J Neurol 13: 1118–1123. doi:10.1111/j.1468-1331.
+2006.01435.xPMID:16987165
+13. Hamilton JA, Hillard CJ, Spector AA, Watkins PA (2007) Brain uptake and utilization of fatty acids, lipids
+and lipoproteins: application to neurological disorders. J Mol Neurosci 33: 2–11. PMID:17901539
+14. Adibhatla RM, Hatcher JF, Dempsey RJ (2006) Lipids and lipidomics in brain injury and diseases.
+AAPS J 8: E314–E321. doi:10.1208/aapsj080236PMID:16796382
+15. Kihara Y, Matsushita T, Kita Y, Uematsu S, Akira S, Kira JI, et al. (2009) Targeted lipidomics reveals
+mPGES-1-PGE2 as a therapeutic target for multiple sclerosis. PNAS 106: 21807–21812. doi:10.1073/
+pnas.0906891106PMID:19995978
+16. O'Brien JS, Sampson EL (1965) Lipid composition of the normal human brain: gray matter, white matter
+, and myelin. J Lipid Res.
+17. Quehenberger O, Armando AM, Brown AH, Milne SB, Myers DS, Merrill AH, et al. (2010) Lipidomics reveals
+a remarkable diversity of lipids in human plasma. J Lipid Res 51: 3299–3305. doi:10.1194/jlr.
+M009449PMID:20671299
+18. Mapstone M, Cheema AK, Fiandaca MS, Zhong X, Mhyre TR, MacArthur LH, et al. (2014) Plasma
+phospholipids identify antecedent memory impairment in older adults. Nat Med 20: 415–418. doi:10.
+1038/nm.3466PMID:24608097
+19. Jain M, Ngoy S, Sheth SA, Swanson RA, Rhee EP, Liao R, et al. (2014) A systematic survey of lipids
+across mouse tissues. American Journal of Physiology—Endocrinology and Metabolism 306: E854–
+E868. doi:10.1152/ajpendo.00371.2013
+20. McGrath JC, Drummond GB, McLachlan EM, Kilkenny C, Wainwright CL (2010) Guidelines for reporting
+experiments involving animals: the ARRIVE guidelines. Br J Pharmacol 160: 1573–1576. doi:10.
+1111/j.1476-5381.2010.00873.xPMID:20649560
+Lipid Biomarkers of Acute Brain Injury
+PLOS ONE | DOI:10.1371/journal.pone.0129735 June 15, 2015 14 / 15
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.1182610144)
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/2643202
+[Link]
+http://dx.doi.org/10.1002/ana.22538
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/22002675
+[Link]
+http://dx.doi.org/10.1038/jcbfm.1990.47
+[Link]
+http://dx.doi.org/10.1038/jcbfm.1990.47
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/1689322
+[Link]
+http://dx.doi.org/10.1186/1742-2094-9-31
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/22335939
+[Link]
+http://dx.doi.org/10.1007/s00234-013-1310-2
+[Link]
+http://dx.doi.org/10.1007/s00234-013-1310-2
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/24337610
+[Link]
+http://dx.doi.org/10.1194/jlr.R800073-JLR200
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/19029065
+[Link]
+http://dx.doi.org/10.1194/jlr.D800051-JLR200
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/19036716
+[Link]
+http://dx.doi.org/10.1371/journal.pone.0044913
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/23028676
+[Link]
+http://dx.doi.org/10.1194/jlr.E400004-JLR200
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/15722563
+[Link]
+http://dx.doi.org/10.1161/STROKEAHA.108.516377
+[Link]
+http://dx.doi.org/10.1161/STROKEAHA.108.516377
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/18948614
+[Link]
+http://dx.doi.org/10.1097/TA.0b013e3181bbd485
+[Link]
+http://dx.doi.org/10.1016/j.annemergmed.2011.08.021
+[Link]
+http://dx.doi.org/10.1016/j.annemergmed.2011.08.021
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/22071014
+[Link]
+http://dx.doi.org/10.1038/jcbfm.2013.169
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/24084699
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/8784142
+[Link]
+http://dx.doi.org/10.1073/pnas.090504197
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/10792049
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/3916238
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/14324330
+[Link]
+http://dx.doi.org/10.1038/nbt.1830
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/21478846
+21. Longa EZ, Weinstein PR, Carlson S, Cummins R (1989) Reversible middle cerebral artery occlusion
+without craniectomy in rats. Stroke; a journal of cerebral circulation 20: 84–91. PMID:2643202
+22. Won SJ, Tang XN, Suh SW, Yenari MA, Swanson RA (2011) Hyperglycemia promotes tissue plasminogen
+activator-induced hemorrhage by Increasing superoxide production. Ann Neurol 70: 583–590.
+doi:10.1002/ana.22538PMID:22002675
+23. Swanson RA, Morton MT, Tsao-Wu G, Savalos RA, Davidson C, Sharp FR (1990) A Semiautomated
+Method for Measuring BrainInfarct Volume. J Cereb Blood Flow Metab 10: 290–293. doi:10.1038/
+jcbfm.1990.47PMID:1689322
+24. d'Avila JC, Lam TI, Bingham D, Shi J, Won SJ, Kauppinen TM, et al. (2012) Microglial activation induced
+by brain trauma is suppressed by post-injury treatment with a PARP inhibitor. J Neuroinflammation
+9: 31. doi:10.1186/1742-2094-9-31PMID:22335939
+25. Nicoli F, Scalzo F, Saver JL, Pautot F, Mitulescu A, Chaibi Y, et al. (2014) The combination of baseline
+magnetic resonance perfusion-weighted imaging-derived tissue volume with severely prolonged arterial-tissue
+delay and diffusion-weighted imaging lesion volume is predictive of MCA-M1 recanalization in
+patients treated with endovascular thrombectomy. Neuroradiology 56: 117–127. doi:10.1007/s00234-
+013-1310-2PMID:24337610
+26. Merrill AH, Stokes TH, Momin A, Park H, Portz BJ, Kelly S, et al. (2008) Sphingolipidomics: a valuable
+tool for understanding the roles of sphingolipids in biology and disease. J Lipid Res 50: S97–S102. doi:
+10.1194/jlr.R800073-JLR200PMID:19029065
+27. Shaner RL, Allegood JC, Park H, Wang E, Kelly S, Haynes CA, et al. (2009) Quantitative analysis of
+sphingolipids for lipidomics using triple quadrupole and quadrupole linear ion trap mass spectrometers.
+J Lipid Res 50: 1692–1707. doi:10.1194/jlr.D800051-JLR200PMID:19036716
+28. Niedermeyer THJ, Strohalm M (2012) mMass as a software tool for the annotation of cyclic peptide tandem
+mass spectra. PLoS ONE 7: e44913. doi:10.1371/journal.pone.0044913PMID:23028676
+29. Fahy E, Subramaniam S, Brown HA, Glass CK, Merrill AH, Murphy RC, et al. (2005) A comprehensive
+classification system for lipids. J Lipid Res 46: 839–861. doi:10.1194/jlr.E400004-JLR200PMID:
+15722563
+30. Laskowitz DT, Kasner SE, Saver J, Remmel KS, Jauch EC, BRAIN Study Group (2009) Clinical usefulness
+of a biomarker-based diagnostic test for acute stroke: the Biomarker Rapid Assessment in Ischemic
+Injury (BRAIN) study. Stroke; a journal of cerebral circulation 40: 77–85. doi:10.1161/
+STROKEAHA.108.516377PMID:18948614
+31. Honda M, Tsuruta R, Kaneko T, Kasaoka S, Yagi T, Todani M, et al. (2010) Serum Glial Fibrillary Acidic
+Protein Is a Highly Specific Biomarker for Traumatic Brain Injury in Humans Compared With S-100B
+and Neuron-Specific Enolase. The Journal of Trauma: Injury, Infection, and Critical Care 69: 104–109.
+doi:10.1097/TA.0b013e3181bbd485
+32. Papa L, Lewis LM, Falk JL, Zhang Z, Silvestri S, Giordano P, et al. (2012) Elevated levels of serum glial
+fibrillary acidic protein breakdown products in mild and moderate traumatic brain injury are associated
+with intracranial lesions and neurosurgical intervention. Ann Emerg Med 59: 471–483. doi:10.1016/j.
+annemergmed.2011.08.021PMID:22071014
+33. Kuntz M, Mysiorek C, Pétrault O, Pétrault M, Uzbekov R, Bordet R, et al. (2014) Stroke-induced brain
+parenchymal injury drives blood-brain barrier early leakage kinetics: a combined in vivo/in vitro study. J
+Cereb Blood Flow Metab 34: 95–107. doi:10.1038/jcbfm.2013.169PMID:24084699
+34. Pantoni L, Garcia JH, Gutierrez JA (1996) Cerebral white matter is highly vulnerable to ischemia.
+Stroke; a journal of cerebral circulation 27: 1641–6–discussion1647. PMID:8784142
+35. Zhang K, Sejnowski TJ (2000) A universal scaling law between gray matter and white matter of cerebral
+cortex. Proc Natl Acad Sci USA 97: 5621–5626. doi:10.1073/pnas.090504197PMID:10792049
+36. Sastry PS (1985) Lipids of nervous tissue: composition and metabolism. Prog Lipid Res 24: 69–176.
+PMID:3916238
+37. Rouser G, Galli C, Kritchevsky G (1965) Lipid class composition of normal human brain and variations
+in metachromatic leucodystrophy, Tay-Sachs, Niemann-Pick, chronic Gaucher’s and Alzheimer’s diseases.
+Journal of the American Oil Chemists Society 42: 404–410. PMID:14324330
+38. van den Boorn JG, Schlee M, Coch C, Hartmann G (2011) SiRNA delivery with exosome nanoparticles.
+Nat Biotechnol 29: 325–326. doi:10.1038/nbt.1830PMID:21478846
+Lipid Biomarkers of Acute Brain Injury
+PLOS ONE | DOI:10.1371/journal.pone.0129735 June 15, 2015 15 / 15
+(BY PDF Extractor SDK TRIAL VERSION)
+

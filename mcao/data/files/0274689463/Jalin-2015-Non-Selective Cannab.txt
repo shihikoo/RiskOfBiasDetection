@@ -1,0 +1,612 @@
+RESEARCH ARTICLE
+
+Non-Selective Cannabinoid Receptor
+Antagonists, Hinokiresinols Reduce
+Infiltration of Microglia/Macrophages into
+Ischemic Brain Lesions in Rat via Modulating
+2-Arachidonolyglycerol-Induced Migration
+and Mitochondrial Activity
+Angela M. A. Anthony Jalin1, Maheswari Rajasekaran2, Paul L. Prather2, Jin Sun Kwon3,
+Veeraswamy Gajulapati3, Yongseok Choi3, Chunsook Kim4, Kisoo Pahk1, Chung Ju1*,
+Won-Ki Kim1*
+
+OPEN ACCESS
+Citation: Anthony Jalin AMA, Rajasekaran M,
+Prather PL, Kwon JS, Gajulapati V, Choi Y, et al.
+(2015) Non-Selective Cannabinoid Receptor
+Antagonists, Hinokiresinols Reduce Infiltration of
+Microglia/Macrophages into Ischemic Brain Lesions
+in Rat via Modulating 2-Arachidonolyglycerol-Induced
+Migration and Mitochondrial Activity. PLoS ONE 10
+(10): e0141600. doi:10.1371/journal.pone.0141600
+Editor: Muzamil Ahmad, Indian Institute of Integrative
+Medicine, INDIA
+Received: May 18, 2015
+Accepted: October 9, 2015
+Published: October 30, 2015
+Copyright: © 2015 Anthony Jalin et al. This is an
+open access article distributed under the terms of the
+Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any
+medium, provided the original author and source are
+credited.
+Data Availability Statement: All relevant data are
+within the paper.
+Funding: This study was supported by grants from
+Basic Science Research Program (#NRF2015R1A2A2A01004202 to W-KK) and Basic
+Science Research Program (#NRF2014R1A1A1037088 to CJ) through the National
+Research Foundation of Korea (NRF) funded by the
+Ministry of Science, ICT & Future Planning, Korea.
+The funders had no role in study design, data
+
+1 Department of Neuroscience, College of Medicine, Korea University, Seoul, Republic of Korea,
+2 Department of Pharmacology and Toxicology, University of Arkansas for Medical Sciences, Little Rock,
+AR, United States of America, 3 Department of Biotechnology, School of Life Sciences and Biotechnology,
+Korea University, Seoul, Republic of Korea, 4 Department of Nursing, Kyungdong University, Wonju,
+Kangwon-do, Republic of Korea
+* wonki@korea.ac.kr (W-KK); cj2013@korea.ac.kr (CJ)
+
+Abstract
+Growing evidence suggests that therapeutic strategies to modulate the post-ischemic
+inflammatory responses are promising approaches to improve stroke outcome. Although
+the endocannabinoid system has been emerged as an endogenous therapeutic target to
+regulate inflammation after stroke insult, the downstream mechanisms and their potentials
+for therapeutic intervention remain controversial. Here we identified trans- and cis-hinokiresinols as novel non-selective antagonists for two G-protein-coupled cannabinoid receptors,
+cannabinoid receptor type 1 and type 2. The Electric Cell-substrate Impedance Sensing
+and Boyden chamber migration assays using primary microglial cultures revealed that both
+hinokiresinols significantly inhibited an endocannabinoid, 2-arachidonoylglycerol-induced
+migration. Hinokiresinols modulated 2-arachidonoylglycerol-induced mitochondrial bioenergetics in microglia as evidenced by inhibition of ATP turnover and reduction in respiratory
+capacity, thereby resulting in impaired migration activity. In rats subjected to transient middle cerebral artery occlusion (1.5-h) followed by 24-h reperfusion, post-ischemic treatment
+with hinokiresinols (2 and 7-h after the onset of ischemia, 10 mg/kg) significantly reduced
+cerebral infarct and infiltration of ED1-positive microglial/macrophage cells into cerebral
+ischemic lesions in vivo. Co-administration of exogenous 2-AG (1 mg/kg, i.v., single dose at
+2 h after starting MCAO) abolished the protective effect of trans-hinokiresionol. These
+results suggest that hinokiresinols may serve as stroke treatment by targeting the endocannabinoid system. Alteration of mitochondrial bioenergetics and consequent inhibition of
+
+PLOS ONE | DOI:10.1371/journal.pone.0141600 October 30, 2015
+
+1 / 13
+
+Anti-Stroke Effect of Hinokiresinols via Immunomodulation
+
+collection and analysis, decision to publish, or
+preparation of the manuscript.
+
+inflammatory cells migration may be a novel mechanism underlying anti-ischemic effects
+conferred by cannabinoid receptor antagonists.
+
+Competing Interests: The authors have declared
+that no competing interests exist.
+Abbreviations: 2-AG, 2-arachidonoylglycerol; CB1R,
+cannabinoid receptor type 1; CB2R, cannabinoid
+receptor type 2; ECAR, extracellular acidification rate;
+ECIS, Electric Cell-substrate Impedance Sensing;
+FCCP, carbonyl cyanide p-[trifluoromethoxy]-phenylhydrazone; MCAO, middle cerebral artery occlusion;
+OCR, Oxygen consumption rate; TTC, 2,3,5triphenyltetrazoliumchloride.
+
+Introduction
+Emerging evidence supports a key role of the endocannabinoid system in ischemic stroke, especially in modulation of post-ischemic inflammation [1–3]. The endocannabinoid system comprises cannabinoid receptors, their endogenous ligands [e.g., endocannabinoids such as
+anandamide and 2-arachidonoylglycerol (2-AG)], specific transporters, as well as their metabolizing enzymes. The cannabinoid receptors incorporate G protein-coupled type 1 cannabinoid
+receptors (CB1Rs), type 2 receptors (CB2Rs), as well as non-CB1/CB2Rs. The functional roles
+of cannabinoid receptors are often poorly estimated, mainly due to unsegregated expressions
+of CB1Rs, CB2Rs and some non-canonical cannabinoid receptors in various cell types, as well
+as improper dose and/or insufficient selectivity of ligands. Nonetheless, recent studies suggest a
+neuroprotective role of the cannabinoid signaling system in cerebral ischemia [1–3]. For example, during ischemic injury endocannabinoids accumulate, cannabinoid receptors are up-regulated, and treatment with cannabinoid receptor modulators protects neurons against ischemic
+damage [1–3]. Interestingly, the endocannabinoid system has been reported to exert modulatory actions on resident microglial cells and infiltrated inflammatory cells in the brain [4–7].
+However, the underlying mechanism remains largely unknown.
+Naturally occurring phenylpropanoids, cis- and trans-hinokiresinols, are major components
+in the essential oil extracted from various Liliaceae plants and have been reported to exhibit
+anti-oxidant, anti-inflammatory, anti-apoptotic and estrogen-like activities [8–11]. These
+pharmacological properties would be beneficial in treating cerebral ischemia. Indeed, we
+recently demonstrated that post-ischemic treatment of hinokiresinols significantly attenuated
+infarct volumes and neurological impairments in a rat model of transient cerebral ischemia
+[12]. Interestingly, hinokiresinols share structural characteristics with some phytocannabinoids
+such as trans-caryophyllene, falcarinol, rutamarin [13] and naturally prenylated resveratrol
+analogs, trans-arachidin-1 and -3 [14] identified beyond the cannabis plants. Based on the
+structural similarity of hinokiresinols with these plant-originated CB1R/CB2R regulators and
+their anti-inflammatory effects, we here investigated whether hinokiresinols selectively bind to
+cannabinoid receptors and act as selective agonists/antagonists. Using a rat model with transient middle cerebral artery occlusion (tMCAO), we further investigated whether hinokiresinols can afford neuroprotection by modulating microglia/macrophages accumulation in
+ischemic lesions.
+
+Materials and Methods
+Antibodies and reagents
+Mouse anti-ED1 antibody was purchased from Serotec (Oxford, UK) and alexa 555-conjugated
+goat anti-mouse antibody from Molecular Probes (Eugene, OR). 2-AG was purchased from
+Cayman Chemical (Ann Arbor, MI). Oligomycin, carbonyl cyanide p-[trifluoromethoxy]-phenyl-hydrazone (FCCP), and rotenone, Hoechst 33258, and all other drugs were obtained from
+Sigma–Aldrich (St. Louis, MO). Stereo-specific syntheses of trans- and cis-hinokiresinols were
+performed as previously described with minor modifications [15]. The purity (98%) and absolute configuration were resolved using HPLC.
+
+PLOS ONE | DOI:10.1371/journal.pone.0141600 October 30, 2015
+
+2 / 13
+
+Anti-Stroke Effect of Hinokiresinols via Immunomodulation
+
+Animals
+Male Sprague-Dawley (SD) rats weighing between 260 and 300 g were purchased from Charles
+River Laboratories (Seoul, Korea) and maintained on a 12-h light/dark cycle with ad libitum
+access to food and water. Rats were acclimated to their environment for a minimum of 2 days
+prior to use. All experimental procedures involving animals were performed in accordance
+with the NIH Guide for the Care and Use of Laboratory Animals and were approved by Korea
+University Institutional Animal Care & Use Committee (KUIACUC-20121226-1, KUIACUC20131218-4&6, KUIACUC-20130104-2). All efforts were made to minimize animal suffering,
+reduce the number of animals used, and utilize alternatives to in vivo techniques, if available.
+
+Competition Receptor Binding assay
+Increasing concentrations of hinokiresinols were incubated with 0.2 nM of the non-selective
+CB1/CB2 agonist [3H]-CP-55,940 in a final volume of 1 mL of binding buffer (50 mM Tris,
+0.05% bovine serum albumin, 5 mM of MgCl2, pH 7.4) as described previously [16]. Each binding assay contained 100 or 25 μg of membrane protein fractions prepared from mouse brain or
+CHO-human CB2R (hCB2R) cells, respectively. Non-specific binding was defined as binding
+observed in the presence of 10 μM of the non-selective CB1/CB2 ligand WIN-55,212–2. Reactions were carried out for 90 min at room temperature and terminated by rapid vacuum filtration through Whatman GF/B glass fiber filters followed by three washes with ice-cold binding
+buffer. Analysis of the binding data was performed using the non-linear regression (Curve Fit)
+function of GraphPad Prism1 v4.0β to determine the IC50 value of the drug that displaced
+50% of [3H]CP-55,940. A measure of affinity (Ki) was derived from the IC50 values utilizing the
+Cheng-Prushoff equation [16]. As a positive control, competition binding was also conducted
+with a selective CB2 agonist AM-1241. As expected, AM-1241 produced full displacement of
+3
+H-CP-55,940 from both receptors and exhibited more than 30-fold greater selectivity for
+hCB2R (Ki value of 6.6 nM) in relative to mCB1R (Ki value of 203 nM).
+
+Receptor Activity assay
+For assessment of agonistic/antagonistic effects of hinokiresinols, serum response element
+(SRE)-luciferase reporter gene assay and forskolin-induced cAMP accumulation assays were
+performed using U2 OS cells stably expressing either CB1R or CB2R as previously described
+with some modifications [17].
+
+Cell migration assay
+Pure microglial cells were prepared from primary mixed glial cell culture. Cerebral cortices
+from 1–2 days-old neonatal Sprague-Dawley rats were triturated to single cells. They were then
+plated into poly-D-lysine (1 μg/ml; Sigma-Aldrich, St. Louis, MO) coated 75 cm2 T-flask and
+maintained in MEM containing 10% fetal bovine serum. Seven or eight days after plating,
+microglia were detached from the flasks by mild shaking (37°C, 1 h at 200 rpm) and re-suspended in a desired cell density [18].
+An automated Electric Cell-Substrate Impedance Sensing (ECIS)/taxis assay was performed
+as previously described with minor modification [19]. An ECIS/taxis array, which is composed of
+8 chambers with lithographed paired surface electrodes within each chamber (8W Chemotaxis;
+Applied BioPhysics, Troy, NY), was pre-treated with a 10 mM cysteine solution for 15 min at
+room temperature. The autoclaved agarose solution (Seakem GTG; Cambrex, Rockland, ME)
+was mixed with pre-warmed (45–50°C) MEM to produce a 0.5% final concentration and loaded
+into the array chamber. After the agarose had solidified, wells for chemoattractant and cells were
+
+PLOS ONE | DOI:10.1371/journal.pone.0141600 October 30, 2015
+
+3 / 13
+
+Anti-Stroke Effect of Hinokiresinols via Immunomodulation
+
+cut in the agarose layer using a pair of 14-gauge cannulas (about 1.8 mm O.D.), spaced 1 mm on
+either side of the target electrode. The agarose in the chamber arrays was then saturated with
+serum-free media for at least 5 minutes. Cells were added to the cell well (2.25×106 cell/ml, 7 μl)
+and acclimated in a humidified CO2 incubator. After one hour, a chemoattractant 2-AG (100
+nM) was loaded, connected to the ECIS instrument (ECIS Z; Applied BioPhysics, Troy, NY) and
+the resistance to 1 volt AC at 4000 Hz was measured at 60 second intervals.
+For quantitative analysis, a chemoattractant 2-AG (100 nM) was placed at the lower well of
+a chemotaxis chamber (Neuroprobe, Cabin John, MD) and microglia (4×105 cells/ml in
+serum-free MEM) in the upper well were allowed to migrate to the lower well for 2 h, through
+membrane pore (8 μm pore). Non-migrated cells in the upper well were removed and migrated
+cells on the lower side filter were nuclei-stained with Harris hematoxylin and then counted
+using an inverted microscopy system (Leica DMIL and DFC420C camera, Leica, Nussloch,
+Germany).
+
+Oxygen consumption rate (OCR) assay
+Live mitochondrial respiration was analyzed using the XF24 Extracellular Flux Analyzer (SeahorseBioscience, MA) as previously described [20]. In this assay, OCR, the rate of oxygen consumed by the cells, is an indicator for mitochondrial respiration, whereas the extracellular
+acidification rate (ECAR) reflects oxygen-independent glycolysis in the cells. OCR was assessed
+after sequential addition of drugs, oligomycin (an ATP synthase inhibitor), FCCP (protonophore), and rotenone (complex I inhibitor to completely block proton pumping via the electron transfer chain) to living microglia according to the manufacturer’s protocol and
+normalized to the baseline. Bioenergetic parameters were calculated as: 1) ATP turnover is the
+difference between the starting basal OCR and oligomycin-repressed OCR, and 2) Maximal
+respiration capacity is the difference in OCR between FCCP and rotenone exposure.
+
+Focal transient cerebral ischemia model
+Rats were initially anesthetized with 3% isoflurane in a 70% N2O and 30% O2 (v/v) mixture via
+facemask and maintained with 2% isoflurane. Focal cerebral ischemia was achieved by rightsided endovascular middle cerebral artery occlusion (MCAO) as previously described [12].
+Briefly, monofilament nylon suture (Ethicon) was inserted into the lumen of right external
+carotid artery stump and gently advanced 17.5 mm into the internal carotid artery to occlude
+the ostium of the MCAO. After 90 min of ischemia, the suture was released and the animal was
+allowed to recover. Trans- or cis-hinokiresinol (10 mg/kg) was dissolved in 5% DMSO/10%
+cremophor/sterile saline solution freshly before injection, and was administered intraperitoneally twice, as a post-ischemic treatment (at 2 h and 7 h after starting MCAO) in the presence or
+absence of 2-AG (1 mg/kg, i.v.; once at 2 h after the onset of MCAO). Larger exposure with
+2-AG alone may have a neuroprotective effects [21, 22]. Thus, the dose and administration
+route of 2-AG was carefully chosen based on our preliminary studies to antagonize the effect of
+hinokiresinols on ischemic injury without its own in vivo efficacy. For the measurement of
+infarct volumes, the brain slices were stained with 2% 2,3,5-triphenyltetrazoliumchloride
+(TTC) at 37°C for 30 min to visualize the ischemic infarct. Infarct volumes were compensated
+for brain edema as we previously described [12]. All in vivo experiments and the subsequent
+data analysis were performed in a double-blinded and randomized manner.
+
+Immunocytochemistry
+Cells were fixed in 4% paraformaldehyde and blocked with TBS supplemented with 5% normal
+goat serum for 1 h at room temperature. Cells were then stained with mouse anti-ED-1 (1:200)
+
+PLOS ONE | DOI:10.1371/journal.pone.0141600 October 30, 2015
+
+4 / 13
+
+Anti-Stroke Effect of Hinokiresinols via Immunomodulation
+
+at 4°C overnight. After washing, cells were incubated with secondary antibody (2 μg/ml) for an
+additional 1 h at room temperature and counterstained with Hoechst 33258 for 20 min. Fluorescence was quantified using a fluorescence microscope (DM IL HC Fluo, Leica) equipped
+with a digital camera.
+
+Statistical analysis
+Data were expressed as mean ± standard error of the mean (SEM) and analyzed for statistical
+significance by an analysis of variance (ANOVA) followed by the post-hoc Bonferroni test for
+multiple comparisons or by using non-parametric Kruskal-Wallis test followed by MannWhitney U test depending on the Levene test results (SPSS; release20.0.0.1, IBM Corp.). A P
+value <0.05 after Bonferroni correction was considered significant. The sample size was determined using a power calculations using G power software (ver.3.1.7, Franz Faul, Universitat
+Kiel, Germany) assuming a 2-sided α-level of 0.05, 80% power, and t-test or one-way ANOVA
+with the mean and variance predicted from our previous studies [12, 23].
+
+Results
+Hinokiresinols act as CB1/CB2 receptor antagonists/inverse agonists
+Trans- and cis -hinokiresinols specifically but non-selectively bind to both CB1Rs and CB2Rs
+with low molecular affinities and acted as weak receptor antagonists (Fig 1A and 1B). Thus,
+both trans- and cis-hinokiresinols bind to human CB2R (hCB2R) stably expressed in CHO
+cells with an apparent affinity (Ki) of 9.5 and 12.2 μM, respectively (Fig 1A). With similar affinities, trans- and cis-hinokiresinols also bind to murine CB1R (mCB1R) receptors with Ki values
+of 12.8 and 18.8 μM, respectively (Fig 1A). Interestingly, both hinokiresinols determined a
+complete displacement of 3H-CP-55,940 from both mCB1R and hCB2R (Fig 1A and 1B. Subsequent studies were conducted to determine the intrinsic activities of both hinokiresinols for
+each cannabinoid receptor subtypes. CB1R reporter gene assay and forskolin-stimulated cAMP
+accumulation assay in CHO-hCB2R cells demonstrated that administration with each hinokiresinol results in antagonism for CB1R and CB2R with IC50 values in micromolar ranges (Fig
+1B). Pharmacokinetic data showed that low micromolar levels in blood could be achieved by
+10 mg/kg injection in rats (data not shown).
+
+Hinokiresinols reduce microglial migration induced by 2-AG via
+modulating mitochondrial bioenergetics
+An endocannabinoid, 2-AG is an agonist without any marked CB1R/CB2R selectivity [2] and
+was shown to trigger microglial cell migration [7]. The Electric Cell-substrate Impedance Sensing (ECIS) and Boyden chamber migration assays revealed that both hinokiresinols inhibited
+2-AG (100 nM)-induced microglial migration (Fig 2; 79.1% and 63.2% inhibition for transand cis-hinokiresinols, respectively; IC50 for trans-hinokiresinol = 0.502 μM).
+Microglial motility was closely associated with the overall number, distribution, and bioenergetics status of mitochondria [24]. To assess the effects of hinokiresinols on 2-AG-induced
+mitochondrial bioenergetic functions, we determined real-time oxygen consumption rates
+(OCR, an indicator of oxidative phosphorylation) in the presence of oligomycin (an inhibitor
+of ATP synthase) to measure full ATP turnover, and then FCCP (an uncoupler of electron
+transport and oxidative phosphorylation) to measure the maximal respiratory capacity. We
+found that both hinokiresinols modulate 2-AG-induced mitochondrial respiratory bioenergetics (Fig 3), by reducing ATP turnover (80.0% and 68.7% inhibition for trans- and cis-hinokiresinols, respectively) and by exhausting respiratory capacity (89.5% and 75.2% inhibition for
+
+PLOS ONE | DOI:10.1371/journal.pone.0141600 October 30, 2015
+
+5 / 13
+
+Anti-Stroke Effect of Hinokiresinols via Immunomodulation
+
+Fig 1. Selective binding of trans- and cis-hinokiresinols on CB1R and CB2Rs. (A) Competitive binding experiments against [3H]CP55,940 (3H-CP) were
+performed using either membrane fractions from mouse brain (mCB1R) or CHO cells stably expressing human CB2R (hCB2R) in the presence of trans- or
+cis-hinokiresinols (trans- or cis-HR). Data are presented as mean ± SEM. N = 6. (B) Calculated EC50 and IC50 values of antagonistic and agonistic activities
+from CB1R reporter gene assay and forskolin-stimulated cAMP accumulation assay in CHO-hCB2R cells. Hu-210 was used as a positive control for
+agonistic activity.
+doi:10.1371/journal.pone.0141600.g001
+
+trans- and cis -hinokiresinols, respectively). Hinokiresinols alone did not significantly change
+the ATP turnover and respiratory capacity (data not shown). Neither of hinokiresinols significantly changed the ECAR, an indicator of glycolysis, regardless of the presence of 2-AG (Fig 3).
+
+Hinokiresinols reduce infiltration of ED1-positive microglial/macrophage
+cells to ischemic lesions
+Previously, we found that hinokiresinols attenuated infarct size and edema in rats subjected to
+1.5-h of MCAO, followed by 24-h of reperfusion [12]. In the present study, post-ischemic treatment with trans- and cis-hinokiresinols significantly reduced cerebral infarct volume, as
+assessed by TTC staining (Fig 4A; vehicle, 24.37 ± 0.91%; trans-hinokiresinol, 13.65 ± 1.55%;
+cis-hinokiresinol, 12.93 ± 1.73%). The treatment further reduced infiltration of ED1-positive
+microglial/macrophage cells into ischemic lesions (Fig 4A; 46.8% and 43.9% inhibition for
+
+PLOS ONE | DOI:10.1371/journal.pone.0141600 October 30, 2015
+
+6 / 13
+
+Anti-Stroke Effect of Hinokiresinols via Immunomodulation
+
+Fig 2. Hinokiresinols reduces 2-AG-induced microglial migration. (A) Schematic configuration of ECIS/taxis electrode design to measure an increase of
+resistance proportional to cell migration (left) and representative trace of ECIS change in the presence of hinokiresinols (right). The chemotactic response of
+pure primary microglia (1 X 104 cells/well) was assessed using the linear target electrode, placed between cell and chemoattractant wells. (B) Principles of
+Boyden chemotaxis chamber (left). Microglial migration toward 2-AG-containing lower wells of the Boyden chamber in the absence or presence of
+hinokiresinols [10 μM each (middle) or indicated concentration of trans-hinokiresinols (right)] was quantified, and the results are expressed as fold change in
+numbers of migrated cells (left) or an inhibition percentage compared to basal migration and maximum migration by 2-AG (right), respectively. Values are
+mean ± SEM of 4–8 independent quantification of migration. * P < 0.05: vs. indicated group.
+doi:10.1371/journal.pone.0141600.g002
+
+trans- and cis-hinokiresinols, respectively). Co-administration with 2-AG significantly abolished inhibitory effects of trans-hinokiresinol on microglial/macrophageal migration (Fig 4B;
+
+PLOS ONE | DOI:10.1371/journal.pone.0141600 October 30, 2015
+
+7 / 13
+
+Anti-Stroke Effect of Hinokiresinols via Immunomodulation
+
+Fig 3. Hinokiresinols modulates 2-AG-induced mitochondrial bioenergetics in microglia. Pure microglia (5 X 105 cells/ml, 150 μl/well) were treated
+with vehicle or hinokiresinols (HRs; line a), oligomycin (line b), FCCP (line c), and rotenone (line d) at indicated times and the rate of oxygen consumption
+(OCR, left) and extracellular acidification (ECAR, right) were recorded. (A) Real-time mitochondrial respiration was measured in microglia using the Seahorse
+analyzer. (B, C) ATP turnover and respiration capacity were calculated based on OCR (A, left panel) and expressed as % of control. The data were
+normalized in vehicle controls and expressed as mean ± SEM (N = 4–8). *P <0.05: vs. indicated group.
+doi:10.1371/journal.pone.0141600.g003
+
+ED-1-positive cell counts for vehicle-treated group, 102.17 ± 9.90%; trans-hinokiresinol only,
+48.25 ± 9.32%; both 2-AG and trans-hinokiresinol, 90.35 ± 21.34%; 2-AG only,
+121.36 ± 19.15%). Co-administration of 2-AG also reduced the protective effect of trans-hinokiresinol (Fig 4B), as shown in changes in infarct volume (lower right panel; vehicle-treated
+group, 240.29 ± 12.53 mm3; trans-hinokiresinol only, 138.96 ± 19.25 mm3; both 2-AG and
+trans-hinokiresinol, 252.71 ±23.39 mm3; 2-AG only, 204.95 ± 18.86 mm3) and edema volume
+
+PLOS ONE | DOI:10.1371/journal.pone.0141600 October 30, 2015
+
+8 / 13
+
+Anti-Stroke Effect of Hinokiresinols via Immunomodulation
+
+Fig 4. Post-treatment of hinokiresinols significantly reduced ED-1-postive microglia/macrophages in ischemic lesions. Rats were subject to MCAO
+for 90 min and then reperfused. After 24 h, coronal brain sections were stained with triphenyltetrazolium chloride (TTC) for brain infarct, anti-ED-1 antibody to
+detect macrophages/monocytes/activated microglia (red), or Hoechst for nuclei staining (blue). Data are presented as mean ± SEM. Scale bar = 50 μm.
+*
+P < 0.05: vs. indicated group. (A) Trans- or cis-hinokiresinol (10 mg/kg, i.p.) was administrated at 2 h and 7 h after the onset of MCAO. Representative
+images (left panel) and quantification of cell counts of ED-1-positive cells (right panel) are provided. N = 3–5. (B) Co-administration of 2-AG abolished the
+
+PLOS ONE | DOI:10.1371/journal.pone.0141600 October 30, 2015
+
+9 / 13
+
+Anti-Stroke Effect of Hinokiresinols via Immunomodulation
+
+protective effect of trans-hinokiresionol. Trans- hinokiresinol was administrated in the presence or absence of 10 mg/kg 2-AG (once at 2 h after starting
+MCAO, i.v.). Representative images (left panel) and quantification (right) of either cell counts of ED-1-positive cells (upper) or infarct volume (lower) are
+provided. N = 4–7.
+doi:10.1371/journal.pone.0141600.g004
+
+(data not shown; vehicle, 12.74 ± 1.22%; trans-hinokiresinol only, 4.83 ± 1.44%; both 2-AG
+and trans-hinokiresinol, 10.76 ± 2.33%; 2-AG only, 7.18 ± 1.26%). 2-AG itself did not show significant neuroprotective effect on infarct and edema volume in MCAO rats at the dosing regimen chosen in the current study (1 mg/kg, i.v. once at 2 h after starting; Fig 4B). Sham
+operation or treatment with hinokiresinol in the absence of transient ischemia did not induce
+any microglial/macrophage infiltration (data not shown).
+
+Discussion
+Inflammatory responses constitute key events in the pathophysiology of cerebral ischemic
+stroke, including increased release of cytotoxic cytokines, activation of residual astrocytes and
+microglia, and adhesion and infiltration of peripheral inflammatory cells due to BBB damage.
+Previously, we and other researchers demonstrated that inhibition of infiltration of peripheral
+inflammatory cells into ischemic lesions reduced ischemic brain damage in animal models of
+ischemic stroke [6, 18, 25].
+The endocannabinoid system is considered as a major modulator of not only neuronal survival, but also neuro-inflammation. Much evidence obtained from various in vivo and in vitro
+studies suggests a neuroprotective role of the cannabinoid receptors in ischemic brain [1]. At
+this regard, the endocannabinoid system draws much attention as highly promising therapeutic compounds for the treatment of cerebral ischemic injury than ever. For example, an endocannabinoid 2-AG is generated by neurons, astrocytes, and microglial cells, and dramatically
+increased in pathological stimuli such as neuroinflammation in ischemic stroke [26]. Although
+it is previously believed that peripheral immune cells predominantly express CB2Rs, recent
+data also support the increased expression and functional role of peripheral CB1Rs in ischemic
+stroke [27]. In activated microglia/macrophages, both CB1R and CB2R are expressed but at
+different subcellular locations [7]. Dynamic changes in the subcellular location of cannabinoid
+receptors might be associated with functional changes. For example, CB2Rs are accumulated at
+the leading edges of activated microglial cells upon migration stimuli [7]. However, the downstream mechanisms of CBRs in the microglial/macrophage motility never been thoroughly
+elucidated.
+The present study supports a crucial role of mitochondrial bioenergetics in endocannabinoid-induced microglial migration. We found for the first time that trans- and cis-hinokiresinols specifically bind to cannabinoid receptors and act as antagonists for both CB1R and CB2R
+(Fig 1). Consequently, both hinokiresinols suppress the 2-AG-induced migration of microglial
+cells. Mitochondrial respiration is required for migration of immunocytes, and mitochondria
+redistribute towards the uropod of polarized migrating immune cells by a process involving
+shape rearrangements (e.g., fission, fusion) [24]. Our data show that hinokiresinols inhibit
+2-AG-induced mitochondrial ATP turnover and exhaust respiratory capacity in microglia (Fig
+3). Therefore, hinokiresinols may inhibit 2-AG-induced microglial migration via suppression
+of mitochondrial bioenergetics. In addition, both hinokiresinol isomers inhibit the in vivo
+recruitment of ED-1 positive microglia/macrophages to ischemic lesions in MCAO rats (Fig
+4A). The inhibition of microglial/macrophageal migration and associated ischemic brain injury
+are significantly abolished by exogenous 2-AG (Fig 4B). Our data supports the notion that the
+endocannabinoid system plays a key role in ischemic stroke and that the inhibition of endocannabinoid signaling in the peripheral inflammatory cells might provide neuroprotection in
+
+PLOS ONE | DOI:10.1371/journal.pone.0141600 October 30, 2015
+
+10 / 13
+
+Anti-Stroke Effect of Hinokiresinols via Immunomodulation
+
+ischemic stroke. Non-selective CBR antagonists, hinokiresinols modulate mitochondrial bioenergetics and migration ability of microglia, resulting in significant inhibition of inflammatory
+cells infiltration into ischemic lesions, and thus leading to neuroprotection. Although the
+downstream signaling of hinokiresinols remains to be addressed with detailed studies, our
+studies suggested that hinokiresinols are a promising candidate for stroke treatment without
+producing psychoactive side effects associated with CB1R activation.
+It has been shown that endo-/phyto-cannabinoids affects the mitochondrial activity in
+brain, white adipose tissue, muscle, and liver [28, 29]. However, whether and how the endocannabinoid system affect microglial/macrophageal mitochondria are poorly understood. Mitochondrial effects of endocannabinoids have been interpreted either as CB1R or non-receptormediated alteration of mitochondrial membranes. The highly lipophilic nature of endocannabinoids also allows them to directly access mitochondria. A recent report showed that CB1Rs
+are present in mitochondrial membranes in neurons, where their activation results in decreased
+cAMP concentration and complex I activity [30]. Although our data suggest the effects of
+2-AG on mitochondrial bioenergetics in microglia/macrophage, especially in migration activity, studies that address the detailed molecular basis of this response and the engagement of
+cannabinoid receptors in this context remain to be performed.
+In summary, our data showed that trans- and cis-hinokiresinols provide neuroprotective
+effects during cerebral ischemic insult. Hinokiresinols significantly inhibit the infiltration of
+peripheral microglia/macrophages into cerebral ischemic lesion, potentially via modulating
+their mitochondrial bioenergetics and migratory activities. The present study adds support to a
+key role of the endocannabinoid system in the post-ischemic inflammation, and provides new
+insights for the development of drugs to limit infiltration of inflammatory cells into ischemic
+lesions after stroke.
+
+Supporting Information
+S1 ARRIVE Checklist.
+(PDF)
+
+Author Contributions
+Conceived and designed the experiments: CJ W-KK. Performed the experiments: AMAAJ MR
+KP CJ. Analyzed the data: AMAAJ MR PLP CJ W-KK. Contributed reagents/materials/analysis
+tools: JSK VG YC CK. Wrote the paper: PLP CJ W-KK.
+
+References
+1.
+
+Capettini LS, Savergnini SQ, da Silva RF, Stergiopulos N, Santos RA, Mach F, et al. Update on the role
+of cannabinoid receptors after ischemic stroke. Mediators of inflammation. 2012; 2012:824093. Epub
+2012/05/12. doi: 10.1155/2012/824093 PMID: 22577257; PubMed Central PMCID:
+PMCPMC3337695.
+
+2.
+
+Pacher P, Hasko G. Endocannabinoids and cannabinoid receptors in ischaemia-reperfusion injury and
+preconditioning. Br J Pharmacol. 2008; 153(2):252–62. Epub 2007/11/21. doi: 10.1038/sj.bjp.0707582
+PMID: 18026124; PubMed Central PMCID: PMCPMC2219536.
+
+3.
+
+Hillard CJ. Role of cannabinoids and endocannabinoids in cerebral ischemia. Curr Pharm Des. 2008;
+14(23):2347–61. Epub 2008/09/11. PMID: 18781985; PubMed Central PMCID: PMC2581413.
+
+4.
+
+Chiurchiu V, Battistini L, Maccarrone M. Endocannabinoid signaling in innate and adaptive immunity.
+Immunology. 2015. Epub 2015/01/15. doi: 10.1111/imm.12441 PMID: 25585882; PubMed Central
+PMCID: PMCPmc4557672.
+
+5.
+
+Chiurchiu V, Leuti A, Maccarrone M. Cannabinoid Signaling and Neuroinflammatory Diseases: A Melting pot for the Regulation of Brain Immune Responses. Journal of neuroimmune pharmacology: the
+
+PLOS ONE | DOI:10.1371/journal.pone.0141600 October 30, 2015
+
+11 / 13
+
+Anti-Stroke Effect of Hinokiresinols via Immunomodulation
+
+official journal of the Society on NeuroImmune Pharmacology. 2015; 10(2):268–80. Epub 2015/01/21.
+doi: 10.1007/s11481-015-9584-2 PMID: 25601726.
+6.
+
+Murikinati S, Juttler E, Keinert T, Ridder DA, Muhammad S, Waibler Z, et al. Activation of cannabinoid 2
+receptors protects against cerebral ischemia by inhibiting neutrophil recruitment. Faseb J. 2010; 24
+(3):788–98. Epub 2009/11/04. doi: 10.1096/fj.09-141275 PMID: 19884325.
+
+7.
+
+Walter L, Franklin A, Witting A, Wade C, Xie Y, Kunos G, et al. Nonpsychotropic cannabinoid receptors
+regulate microglial cell migration. The Journal of neuroscience: the official journal of the Society for
+Neuroscience. 2003; 23(4):1398–405. PMID: 12598628.
+
+8.
+
+Liang HW, Qiu SF, Shen J, Sun LN, Wang JY, Bruce IC, et al. Genistein attenuates oxidative stress
+and neuronal damage following transient global cerebral ischemia in rat hippocampus. Neurosci Lett.
+2008; 438(1):116–20. Epub 2008/05/10. doi: 10.1016/j.neulet.2008.04.058 PMID: 18467029.
+
+9.
+
+Ma Y, Sullivan JC, Schreihofer DA. Dietary genistein and equol (4', 7 isoflavandiol) reduce oxidative
+stress and protect rats against focal cerebral ischemia. Am J Physiol Regul Integr Comp Physiol. 2010;
+299(3):R871–7. Epub 2010/07/16. doi: 10.1152/ajpregu.00031.2010 PMID: 20631292.
+
+10.
+
+Zhang Y, Milatovic D, Aschner M, Feustel PJ, Kimelberg HK. Neuroprotection by tamoxifen in focal
+cerebral ischemia is not mediated by an agonist action at estrogen receptors but is associated with antioxidant activity. Exp Neurol. 2007; 204(2):819–27. Epub 2007/02/27. doi: 10.1016/j.expneurol.2007.
+01.015 PMID: 17321521; PubMed Central PMCID: PMC1913768.
+
+11.
+
+Alonso de Lecinana M, Egido JA. Estrogens as neuroprotectants against ischemic stroke. Cerebrovasc
+Dis. 2006; 21 Suppl 2:48–53. Epub 2006/05/03. doi: 10.1159/000091703 PMID: 16651814.
+
+12.
+
+Ju C, Hwang S, Cho GS, Kondaji G, Song S, Prather PL, et al. Differential anti-ischemic efficacy and
+therapeutic time window of trans- and cis-hinokiresinols: stereo-specific antioxidant and anti-inflammatory activities. Neuropharmacology. 2013; 67:465–75. Epub 2013/01/05. doi: 10.1016/j.neuropharm.
+2012.12.006 PMID: 23287539.
+
+13.
+
+Gertsch J, Pertwee RG, Di Marzo V. Phytocannabinoids beyond the Cannabis plant—do they exist? Br
+J Pharmacol. 2010; 160(3):523–9. doi: 10.1111/j.1476-5381.2010.00745.x PMID: 20590562; PubMed
+Central PMCID: PMC2931553.
+
+14.
+
+Brents LK, Medina-Bolivar F, Seely KA, Nair V, Bratton SM, Nopo-Olazabal L, et al. Natural prenylated
+resveratrol analogs arachidin-1 and -3 demonstrate improved glucuronidation profiles and have affinity
+for cannabinoid receptors. Xenobiotica; the fate of foreign compounds in biological systems. 2012; 42
+(2):139–56. Epub 2011/10/06. doi: 10.3109/00498254.2011.609570 PMID: 21970716; PubMed Central PMCID: PMCPmc3608422.
+
+15.
+
+Lassen PR, Skytte DM, Hemmingsen L, Nielsen SF, Freedman TB, Nafie LA, et al. Structure and absolute configuration of nyasol and hinokiresinol via synthesis and vibrational circular dichroism spectroscopy. Journal of natural products. 2005; 68(11):1603–9. Epub 2005/11/29. doi: 10.1021/np0502995
+PMID: 16309307.
+
+16.
+
+Shoemaker JL, Joseph BK, Ruckle MB, Mayeux PR, Prather PL. The endocannabinoid noladin ether
+acts as a full agonist at human CB2 cannabinoid receptors. J Pharmacol Exp Ther. 2005; 314(2):868–
+75. doi: 10.1124/jpet.105.085282 PMID: 15901805.
+
+17.
+
+Calandra B, Portier M, Kernéis A, Delpech M, Carillon C, Le Fur G, et al. Dual intracellular signaling
+pathways mediated by the human cannabinoid CB1 receptor. European journal of pharmacology.
+1999; 374(3):445–55. http://dx.doi.org/10.1016/S0014-2999(99)00349-0. PMID: 10422789
+
+18.
+
+Choi IY, Lee JC, Ju C, Hwang S, Cho GS, Lee HW, et al. A3 adenosine receptor agonist reduces brain
+ischemic injury and inhibits inflammatory cell migration in rats. Am J Pathol. 2011; 179(4):2042–52.
+Epub 2011/08/23. doi: 10.1016/j.ajpath.2011.07.006 PMID: 21854743; PubMed Central PMCID:
+PMC3181366.
+
+19.
+
+Hadjout N, Yin X, Knecht DA, Lynes MA. Automated real-time measurements of leukocyte chemotaxis.
+Journal of immunological methods. 2007; 320(1–2):70–80. doi: 10.1016/j.jim.2006.12.005 PMID:
+17275834; PubMed Central PMCID: PMC1934897.
+
+20.
+
+Zhang J, Nuebel E, Wisidagama DRR, Setoguchi K, Hong JS, Van Horn CM, et al. Measuring energy
+metabolism in cultured cells, including human pluripotent stem cells and differentiated cells. Nat Protocols. 2012; 7(6):1068–85. http://www.nature.com/nprot/journal/v7/n6/abs/nprot.2012.048.
+html#supplementary-information. doi: 10.1038/nprot.2012.048 PMID: 22576106
+
+21.
+
+Panikashvili D, Simeonidou C, Ben-Shabat S, Hanus L, Breuer A, Mechoulam R, et al. An endogenous
+cannabinoid (2-AG) is neuroprotective after brain injury. Nature. 2001; 413(6855):527–31. Epub 2001/
+10/05. doi: 10.1038/35097089 PMID: 11586361.
+
+22.
+
+Mounsey RB, Mustafa S, Robinson L, Ross RA, Riedel G, Pertwee RG, et al. Increasing levels of the
+endocannabinoid 2-AG is neuroprotective in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine mouse
+model of Parkinson's disease. Experimental Neurology. 2015; 273:36–44. http://dx.doi.org/10.1016/j.
+expneurol.2015.07.024. doi: 10.1016/j.expneurol.2015.07.024 PMID: 26244281
+
+PLOS ONE | DOI:10.1371/journal.pone.0141600 October 30, 2015
+
+12 / 13
+
+Anti-Stroke Effect of Hinokiresinols via Immunomodulation
+
+23.
+
+Choi IY, Ju C, Anthony Jalin AM, Lee da I, Prather PL, Kim WK. Activation of cannabinoid CB2 receptor-mediated AMPK/CREB pathway reduces cerebral ischemic injury. Am J Pathol. 2013; 182(3):928–
+39. Epub 2013/02/19. doi: 10.1016/j.ajpath.2012.11.024 PMID: 23414569.
+
+24.
+
+Campello S, Lacalle RA, Bettella M, Manes S, Scorrano L, Viola A. Orchestration of lymphocyte chemotaxis by mitochondrial dynamics. The Journal of experimental medicine. 2006; 203(13):2879–86. Epub
+2006/12/06. doi: 10.1084/jem.20061877 PMID: 17145957; PubMed Central PMCID:
+PMCPMC2118173.
+
+25.
+
+Zhang M, Martin BR, Adler MW, Razdan RK, Jallo JI, Tuma RF. Cannabinoid CB(2) receptor activation
+decreases cerebral infarction in a mouse focal ischemia/reperfusion model. Journal of cerebral blood
+flow and metabolism: official journal of the International Society of Cerebral Blood Flow and Metabolism. 2007; 27(7):1387–96. Epub 2007/01/25. 9600447 [pii] doi: 10.1038/sj.jcbfm.9600447 PMID:
+17245417; PubMed Central PMCID: PMC2637559.
+
+26.
+
+Stella N. Endocannabinoid signaling in microglial cells. Neuropharmacology. 2009; 56 Suppl 1:244–53.
+doi: 10.1016/j.neuropharm.2008.07.037 PMID: 18722389; PubMed Central PMCID: PMC2654419.
+
+27.
+
+Schmidt W, Schafer F, Striggow V, Frohlich K, Striggow F. Cannabinoid receptor subtypes 1 and 2
+mediate long-lasting neuroprotection and improve motor behavior deficits after transient focal cerebral
+ischemia. Neuroscience. 2012; 227:313–26. Epub 2012/10/17. doi: 10.1016/j.neuroscience.2012.09.
+080 PMID: 23069763.
+
+28.
+
+Tedesco L, Valerio A, Dossena M, Cardile A, Ragni M, Pagano C, et al. Cannabinoid receptor stimulation impairs mitochondrial biogenesis in mouse white adipose tissue, muscle, and liver: the role of
+eNOS, p38 MAPK, and AMPK pathways. Diabetes. 2010; 59(11):2826–36. Epub 2010/08/27. doi: 10.
+2337/db09-1881 PMID: 20739683; PubMed Central PMCID: PMCPmc2963541.
+
+29.
+
+Fisar Z, Singh N, Hroudova J. Cannabinoid-induced changes in respiration of brain mitochondria. Toxicology letters. 2014; 231(1):62–71. Epub 2014/09/10. doi: 10.1016/j.toxlet.2014.09.002 PMID:
+25195527.
+
+30.
+
+Benard G, Massa F, Puente N, Lourenco J, Bellocchio L, Soria-Gomez E, et al. Mitochondrial CB(1)
+receptors regulate neuronal energy metabolism. Nature neuroscience. 2012; 15(4):558–64. Epub
+2012/03/06. doi: 10.1038/nn.3053 PMID: 22388959.
+
+PLOS ONE | DOI:10.1371/journal.pone.0141600 October 30, 2015
+
+13 / 13
+
+

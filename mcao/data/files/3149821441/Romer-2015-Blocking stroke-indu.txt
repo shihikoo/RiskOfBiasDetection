@@ -1,0 +1,1624 @@
+The Journal of Neuroscience, May 20, 2015 • 35(20):7777–7794 • 7777
+
+Neurobiology of Disease
+
+Blocking Stroke-Induced Immunodeficiency Increases CNS
+Antigen-Specific Autoreactivity But Does Not Worsen
+Functional Outcome after Experimental Stroke
+Christine Römer,1,2 Odilo Engel,1,2 Katarzyna Winek,1,2 Sonja Hochmeister,7 Tian Zhang,1,2 Georg Royl,3,8
+Juliane Klehmet,3,5 Ulrich Dirnagl,1,2,3,5,6 Christian Meisel,4 and Andreas Meisel1,2,3,5
+1Center for Stroke Research, 2Department for Experimental Neurology, 3Department of Neurology, 4Institute of Medical Immunology, and 5NeuroCure
+Clinical Research Center, Charité Universitätsmedizin Berlin, 10098 Berlin, Germany, 6German Center for Neurodegenerative Diseases, 10117 Berlin,
+Germany, 7Department of Neurology, Medical University of Graz, 8010 Graz, Austria, and 8Department of Neurology, University of Lübeck, 23538 Lübeck,
+Germany
+
+Stroke-induced immunodepression (SIDS) is an essential cause of poststroke infections. Pharmacological inhibition of SIDS appears
+promising in preventing life-threatening infections in stroke patients. However, SIDS might represent an adaptive mechanism preventing autoreactive immune responses after stroke. To address this, we used myelin oligodendrocyte glycoprotein (MOG) T-cell receptor
+transgenic (2D2) mice where ⬎80% of peripheral CD4 ⫹ T cells express a functional receptor for MOG. We investigated in a murine model
+of middle cerebral artery occlusion the effect of blocking SIDS by inhibiting body’s main stress axes, the sympathetic nervous system
+(SNS) with propranolol and the hypothalamic-pituitary-adrenal axis (HPA) with mifepristone. Blockade of both stress axes robustly
+reduced infarct volumes, decreased infection rate, and increased long-term survival of 2D2 and C57BL/6J wild-type mice. Despite these
+protective effects, blockade of SIDS increased CNS antigen-specific Type1 T helper cell (Th1) responses in the brains of 2D2 mice 14 d after
+middle cerebral artery occlusion. One month after experimental stroke, 2D2 mice developed signs of polyradiculitis, which were diminished by SIDS blockade. Adoptive transfer of CD4 ⫹ T cells, isolated from 2D2 mice, into lymphocyte-deficient Rag-1KO mice did not
+reveal differences between SIDS blockade and vehicle treatment in functional long-term outcome after stroke. In conclusion, inhibiting
+SIDS by pharmacological blockade of body’s stress axes increases autoreactive CNS antigen-specific T-cell responses in the brain but does
+not worsen functional long-term outcome after experimental stroke, even in a mouse model where CNS antigen-specific autoreactive
+T-cell responses are boosted.
+Key words: CNS autoreactivity; immunosuppression; mifepristone; murine stroke; propranolol; stroke-induced immunodeficiency syndrome
+
+Introduction
+Despite stroke being one of the major and increasing burdens to
+global health (Global Burden of Disease Study, 2012), therapeutic
+interventions in cerebral ischemia continue to be a challenge.
+Today, thrombolysis with tissue plasminogen activator is the only
+approved causal treatment but due to a narrow time window of
+3 h (4.5 h in European countries), can only be applied in 1%–
+8.5% of patients (Millan and Davalos, 2006). In the acute course
+Received March 13, 2015; accepted April 3, 2015.
+Author contributions: C.R., O.E., K.W., S.H., J.K., U.D., C.M., and A.M. designed research; C.R., O.E., K.W., S.H., and
+T.Z. performed research; G.R. and J.K. contributed unpublished reagents/analytic tools; C.R., K.W., T.Z., G.R., and
+A.M. analyzed data; C.R. and A.M. wrote the paper.
+C.R. received NeuroCure Cluster of Excellence scholarship. The work was supported by the German Research
+Foundation (Exc 257; SFB TR43), the Federal Ministry of Education and Research (01 EO 08 01), and the European
+Community‘s Seventh Framework Programme (FP7/2007–2013; Grant Agreement 201024). We thank Dr. Rudolf
+Volkmer for providing MOG peptide; and Yvonne Amoneit, Sabine Kolodziej, and Marco Foddis for expert technical
+assistance.
+The authors declare no competing financial interests.
+Correspondence should be addressed to Dr. Andreas Meisel, Department for Experimental Neurology (CC15),
+Charité Universitätsmedizin Berlin, Charitéplatz 1, 10117 Berlin, Germany. E-mail: andreas.meisel@charite.de.
+DOI:10.1523/JNEUROSCI.1532-14.2015
+Copyright © 2015 the authors 0270-6474/15/357777-18$15.00/0
+
+of the disease, stroke patients often develop complications (Kumar et al., 2010), such as pneumonia (Emsley and Hopkins,
+2008), increasing morbidity and mortality (Katzan et al., 2003;
+Finlayson et al., 2011; Koennecke et al., 2011; Westendorp et al.,
+2011; Rocco et al., 2013). Susceptibility to infection after stroke is
+facilitated by systemic immunodepression, described as strokeinduced immunodeficiency syndrome (SIDS) (Prass et al., 2003;
+Meisel et al., 2005; Chamorro et al., 2012). This crosstalk between the
+CNS and immune system is mediated by sympathetic nervous system (SNS), hypothalamic-pituitary-adrenal axis (HPA), and vagus
+nerve (Tracey, 2002; Meisel et al., 2005; Chamorro et al., 2007).
+Recently, immunomodulatory therapies targeting SIDS have
+been identified to prevent harmful poststroke infections (Meisel
+and Meisel, 2008). However, immunodepression after acute CNS
+injury may represent an adaptive response limiting tissue damage
+and preventing detrimental immune responses against CNS antigens (Meisel and Meisel, 2011). Thus, stimulating immune system after stroke might boost inflammation in the ischemic brain,
+worsening functional outcome.
+CNS trauma has been associated with increased autoreactivity
+for ⬎80 years (Rivers et al., 1933). Disruption of the blood– brain
+
+7778 • J. Neurosci., May 20, 2015 • 35(20):7777–7794
+
+barrier and damage to brain parenchyma during stroke deliberates myelin and exposes brain antigens to peripheral immune
+cells (Wang et al., 1992; Kuchroo et al., 2002). The autonomic
+nervous system mitigates inflammation by reducing proinflammatory cytokine (IL-12, TNF-␣, IFN-␥) production, dampening
+innate and adaptive immune responses and immune memory
+(Livnat et al., 1985; Whalen and Bankhurst, 1990; Tuosto et al.,
+1994; Sanders et al., 1997; Woiciechowsky et al., 1999; Vega et al.,
+2003; Meisel et al., 2005). In particular, SNS and HPA regulate
+adaptive immunity and might therefore mitigate detrimental autoimmune responses mediated by Th1 and Th17 cells (Ando et
+al., 1989; Cua et al., 2003; Langrish et al., 2005).
+Only a few pioneering experimental studies have addressed
+autoreactive immune responses and long-term consequences after stroke (Gee et al., 2008; Gee et al., 2009). One of the likely
+targets for CNS antigen-specific autoreactivity is myelin oligodendrocyte glycoprotein (MOG) in the outer layer of myelin
+(Brunner et al., 1989) capable of inducing pathogenic B- and
+T-cell responses with demyelination (Genain et al., 1996).
+Here, we hypothesized that blocking SIDS enhances CNS
+antigen-specific autoreactivity and worsens functional outcome
+in a murine model of middle cerebral artery occlusion
+(MCAo). We used 2D2 mice in which the majority of peripheral CD4 ⫹ T cells express functional receptor for MOG (Bettelli et al., 2003) and prevented SIDS by blocking SNS and
+HPA mediated SIDS simultaneously with ␤-blocker propranolol and anti-glucocorticoid mifepristone (modified from
+Prass et al., 2003).
+
+Materials and Methods
+Animals and housing. Female C57BL/6J (Charles River Laboratories;
+RRID:IMSR_JAX:000664), 2D2 T-cell receptor (TCR) transgenic mice
+(strain name: C57BL/6-Tg(Tcra2D2,Tcrb2D2)1Kuch/J; stock number
+006912; The Jackson Laboratory; RRID:IMSR_JAX:006912), and
+gender-mixed Rag-1KO mice (strain name: B6.129S7-Rag1tm1Mom/J;
+stock number 002216; The Jackson Laboratory; RRID:IMSR_JAX:
+002096) were used in the study. Mice were 9 –16 weeks old when entering
+the study. Animal division into groups was randomized, and experiments were performed in a blinded manner. Mice were housed in Charité
+animal facility with a 12 h light/dark cycle (lights on from 7:00 until
+19:00). Cages were lined with chip bedding, enriched with a mouse tunnel and igloo (Plexx BV). Mice had ad libitum access to food (standard
+chow) and water (where study design indicates, water was replaced with
+an antibiotic solution). All animal experiments were conducted in accordance with the European Community Council Directives 86/609/EEC
+and German national laws and approved by local authority (Landesamt
+für Gesundheit und Soziales, Berlin, Germany).
+Drug administration. Preventive antibiotic (enrofloxacin; Baytril
+2.5%) was administered to minimize interdependencies between infection and outcome parameters (Engel and Meisel, 2010; Hetze et al.,
+2013). Enrofloxacin was diluted in drinking water (0.35 mg/ml) and
+provided 24 h before MCAo surgery until 7 d after MCAo. Mice received
+additional 10 mg/kg of enrofloxacin intraperitoneally once a day for the
+first 3 d after MCAo. SNS and HPA (SNS/HPA) were blocked with propranolol and mifepristone, respectively (both from Sigma-Aldrich).
+Original injection scheme, drug preparation, and dosage for single treatments (Prass et al., 2003) were optimized for the current experiment.
+Mifepristone was dissolved in 100% ethanol (Rotipuran, Carl Roth) at 30
+mg/ml on a heated water bath and diluted in sesame oil (Fluca Analytical,
+Sigma-Aldrich) until final concentration of 3 mg/ml. Mifepristone was
+injected intraperitoneally (20 mg/kg) 24 and 5 h before MCAo as well as
+at reperfusion (60 min after MCAo). Propranolol was dissolved in 0.9%
+NaCl (Fresenius Kabi Deutschland) at 3 mg/ml and administered intraperitoneally (30 mg/kg) at MCAo, 4 and 8 h after MCAo (see Fig. 1A).
+The vehicle group received diluents without active substance according
+to the same injection scheme.
+
+Römer et al. • SIDS Block Increases CNS-Specific Autoreactivity
+
+Animal model of stroke. MCAo was performed according to the standard operating procedures of the laboratory (Dirnagl, 2012). In brief,
+anesthesia was induced with 2.5% isoflurane (Forene, Abbott) in 1/2
+mixture of O2/N2O and maintained at 1.0%–1.5% isoflurane. Siliconrubber-coated monofilament with a diameter of 0.19 ⫾ 0.01 mm (Doccol) was introduced into the common carotid artery, advanced along the
+internal carotid artery to the origin of the MCA, and left there for 60 min
+until reperfusion. Body temperature was maintained with a heating pad.
+A drop of 2% lidocaine gel was applied to the wound for pain relief.
+Success of MCAo was verified applying the modified Bederson score
+(Bederson et al., 1986). After surgery, animals were allowed to recover in
+a heated cage before returning to home cages. Soft pellet food was provided postoperatively for 3 d.
+Cerebral blood flow (CBF) and diffusion-weighted imaging (DWI) measurement with MRI. As soon as the filament entered the origin of MCA,
+the head of the mouse was fixed using a stereotactic frame in magnet
+bore. Anesthesia was maintained at 0.8%–1.0% isoflurane in 1/2 mixture
+of O2/N2O. Body temperature was maintained at physiological range
+with a heated water jacket. During scan time, rectal temperature, electrocardiogram, and respiration rate were monitored with Small Animal
+Monitoring and Gating System (model 1025; SA Instruments; RRID:
+SciRes_000157). 1H (300 MHz) mouse head surface radiofrequency coil
+was used as a receiver and a 72 mm linear volume resonator for transmission. Flow-sensitive alternating inversion recovery (FAIR)-MRI and
+DWI were performed on a 7T Bruker PharmaScan 70/16 magnet using
+Bruker Paravision 4.0 software (both from Bruker, software RRID:SciRes_000158) as described in detail elsewhere (Leithner et al., 2008).
+Briefly, pilot images were collected using a Fast Low Angle Shot sequence
+(TE 5 ms, TR 307.7 ms, FOV 25 mm, a total of 27 slices with a thickness
+of 600 ␮m in three views, 128 ⫻ 128 in plane resolution) to select an area
+between the olfactory bulb and the cerebellum. FAIR-MRI images were
+collected with a spin echo planar imaging (TE 42.55 ms, TR 9122.7 ms,
+FOV 20 mm, imaging slice thickness 2 mm, 64 ⫻ 64 in plane resolution,
+inversion slab thickness 6 mm, inversion recovery time 15.55 ms, increment of inversion recovery time 800 ms). Together, three slices 2 mm
+apart were selected; and for each slice, two series of 11 images (alternating
+slice selective inversion and slice nonselective inversion) were collected
+and hemispherical CBF calculated (Leithner et al., 2010). FAIR-MRI was
+followed by DWI using spin echo-echo planar imaging sequence (TE
+40.93 ms, TR 3000 ms, FOV 20 mm, imaging slice thickness and interslice
+distance 1 mm, 128 ⫻ 128 in plane resolution, total of 10 slices and 6
+averages). FAIR-MRI and DWI were repeated 3 h after MCAo.
+Hemispheric CBF was calculated from FAIR-MRI data as described
+previously (Leithner et al., 2008; Royl et al., 2009) using custom script
+routines based on MATLAB (The MathWorks; RRID:nlx_153890).
+From DWI imaging, the apparent diffusion coefficient (ADC) maps were
+calculated. Lesions visible in the ADC images were delineated with ImageJ (National Institutes of Health; RRID:nif-0000-30467) and lesion
+volumes calculated by multiplying with voxel size.
+T2-weighted imaging for infarct volume determination. For quantification of ischemic lesion, animals were subjected to MRI 24 h, 48 h, or 7 d
+after the MCAo surgery. Anesthesia was applied and physiological characteristics monitored as described above. T2-weighted images were acquired with a 7T Bruker PharmaScan 70/16 magnet, 20 mm quadratum
+volume resonator radiofrequency coil, and Bruker Paravision 4.0 software (Bruker) using Rapid Acquisition with Relaxation Enhancement
+(RARE) sequence (TE 36 ms, TR 4200 ms, FOV 28 mm, 20 slices with a
+thickness of 500 ␮m and interslice distance 500 ␮m, 256 ⫻ 256 in plane
+resolution). Axial slices covered the distance between the olfactory bulb
+and the cerebellum. Acquired images were analyzed semiautomatically
+with Mayo Clinic Analyze software version 5.0 (Biomedical Imaging Resource, Analyze Direct, Analyze Software System; RRID:nif-000000263). The difference between hemispheric volumes (excluding the
+lesion) was divided with the volume of ipsilateral hemisphere and converted into percentage to obtain edema-corrected infarct volumes.
+Bronchoalveolar lavage (BAL) and microbiology. Three days after
+MCAo, mice were anesthetized with an intraperitoneal injection of
+midazolam (5.0 mg/kg; Roche Pharma AG) and medetomidin (0.5 mg/
+kg; Orion Pharma) and intubated with a 22 G venous catheter (BD Bio-
+
+Römer et al. • SIDS Block Increases CNS-Specific Autoreactivity
+
+J. Neurosci., May 20, 2015 • 35(20):7777–7794 • 7779
+
+fraction of spinal motoneurons backfire to periphery (Fisher, 2007). Here, the mean latencies to F-wave and F-wave chronodispersion
+(difference between the shortest and longest
+F-wave latency within one animal) (Fisher,
+2007) were measured before and 14 d after
+MCAo. Anesthesia was induced with 2.5% and
+maintained at 1.0%–1.5% isoflurane in 1/2
+mixture of O2/N2O. Body temperature was
+controlled with a heating pad. Two pairs of
+needle electrodes were used: (1) reference and
+stimulation; and (2) reference and recording.
+Electrical stimulus was applied at the sciatic
+notch, and corresponding reference electrode
+was inserted subcutaneously into peritoneal
+cavity. Acquisition and nerve stimulation
+parameters were controlled with Medtronic
+KeyPoint Portable software version 5.11
+Figure 1. Study outline. Stroke-induced immunodeficiency was blocked by inhibition of SNS and HPA using ␤-blocker pro- (Medtronic; RRID:SciRes_000159). Single
+pranolol and glucocorticoid receptor antagonist mifepristone. A, Scheme illustrating time points of substance administration stimulation lasted 0.2 s at 1.2 mA. Recording
+relative to MCAo surgery. The paradigm was applied in all experiments. B, C, Paradigm for adaptive cell transfer study. B, Female electrode was inserted into the muscle inner2D2 donor mice received propranolol and mifepristone according to A and underwent MRI for infarct volume measurement. On day vated by sciatic nerve and corresponding refer7, mice were sacrificed. Spleen and lymph nodes (cervical, mesenteric, inguinal, and lumbar) were used for separation of un- ence into a lower extremity. Surface electrode
+touched CD4 ⫹ T cells through MACS. C, Two million of these cells were transferred intravenously to gender-mixed Rag-1KO was used and moistened with 0.9% NaCl to
+recipients 6 h after MCAo. Rag-1KO mice were examined for functional outcome and neurological deficits using CatWalk gait increase the signal-to-noise ratio.
+analysis on days 10 and 30, modified EAE score day 7–30, and EMG on day 14 after MCAo. On day 30, animals were euthanized, and
+Tissue harvesting. Mice were anesthetized
+their brains and vertebrae containing nerve roots were analyzed for immune cell infiltration and axonal damage. 2D2 donor and with ketamine (150 mg/kg; Deltaselect) and
+Rag-1KO recipient mice received preventively enrofloxacin from 1 d before until 7 d after MCAo. CW, CatWalk gait analysis.
+xylazine (15 mg/kg; Bayer Vital). Spleen and
+lymph nodes (cervical, mesenteric, inguinal,
+and lumbar) were removed, and animals were
+sciences PharMingen) under direct illumination with fiber optic
+transcardially perfused with 20 ml of ice-cold 0.9% NaCl per mouse at 80
+(MacDonald et al., 2009). BAL was collected by flushing with 300 ␮l of
+cm water height.
+0.9% NaCl. After the procedure, anesthesia was antagonized with a subIn experiments designed for immunological analysis (endpoint on day
+cutaneous injection of flumazenil (0.5 mg/kg; Inresa Arzneimittel) and
+7 or 14 after MCAo), brains were collected into complete RPMI 1640
+atipamezolhydrochloride (2.5 mg/kg; Orion Pharma). BAL fluid was semedium (Biochrom AG), supplemented with 10% FCS (FCS Gold; PAA
+rially diluted, plated on Lysogeny broth medium agar plates, and incuLaboratories), 50 U/ml penicillin, 50 ␮g/ml streptomycin (Biochrom
+bated at 37°C, 5% CO2. Bacterial colonies were counted 24 h later and
+AG), and 2 mM L-alanyl-L-glutamine (Biochrom AG), and processed
+colony-forming units (CFUs) calculated. Criteria for infection were met
+immediately.
+when log10 of CFU/ml exceeded 5.
+In experiments where the primary outcome was assessment of neuroDaily health score. Animal well-being was assessed daily in a detailed
+logical outcome (endpoint on day 30), perfusion with 0.9% NaCl was
+fashion throughout the experiment (for scoring criteria, see Hetze et al.,
+followed by perfusion with 20 ml ice-cold 4% PFA (Sigma-Aldrich) in 0.1
+2013). Scores for each parameter (e.g., grooming, eye and nasal disM Sörensen buffer, pH 7.4. Brains and vertebral columns were collected
+charge, breathing, activity) ranged from 0 to 2, where 0 indicates
+into 4% PFA for 24 h after fixation. Thereafter the brains were incubated
+normal appearance and 2 major deficits. The maximum score possible
+for 5 d in 30% sucrose (D(⫹)-sucrose; Carl Roth) solution in PBS (PAA
+was thus 16.
+Laboratories) for cryoprotection and snap frozen using 2-methylbutan
+Modified experimental autoimmune encephalomyelitis (EAE) score. We
+(Carl Roth). Vertebral columns were placed into 0.1 M PBS until decalobserved mice showing gait alterations reminiscent of EAE. Therefore,
+cification. Bone structures were decalcified with a 24 h incubation in
+mice were evaluated for the appearance and severity of these symptoms
+Osteosoft (Merck KGaA), and tissue was stored in 0.1 M PBS until
+daily starting 7 d after MCAo until the end of the study on day 30 using
+paraffin-embedding using routine protocol. Paraffin-embedded tissue
+modified EAE score (modified from Adelmann et al., 1995): 0, no disease;
+blocks were cut on a microtome (thickness 2–3 ␮m), and slices were
+0.5, partial tail paralysis; 1.0, complete tail paralysis; 1.5, limb weakness
+collected for immunohistochemistry.
+without tail paralysis; 2.0, limb weakness with tail paralysis; 2.5, partial
+Cell isolation from brain, spleen, and lymph nodes. Before enzymelimb and tail paralysis; 3.0, complete limb paralysis; 3.5, paraplegia; 4.0,
+linked immunospot (Elispot) assay, the cerebellum was removed and
+quadriplegia. The gait behavior of mice was first observed on a smooth
+brain tissue forced through a 70 ␮m pore size cell strainer (BD Falcon)
+surface. Mice were then transferred onto metal grid to follow foot faults.
+into complete RPMI 1640 medium. Mononuclear cells (MNCs) were
+Tail tone was assessed by holding the mouse by the scruff of the neck to
+isolated from the interface of 35% and 70% Easycoll gradient (Biochrom
+examine a reflex of spontaneous tail raise.
+AG). MNCs were stained with Trypan Blue dye (Biochrom AG) and
+CatWalk gait analysis. Gait impairments after stroke were assessed
+quantified under light microscope.
+using CatWalk (Noldus Information Technology) automated computerSpleens and lymph nodes (cervical, mesenteric, inguinal, and lumbar)
+assisted method as described in detail previously (Hetze et al., 2012).
+were forced through a 100 ␮m pore size cell strainer (BD Falcon) and
+Before the acquisition of baseline values, mice were trained on the Catwashed with complete RPMI 1640 medium (or magnetic-activated cell
+Walk system in three sessions (three runs each) on 3 consecutive days.
+sorting [MACS] buffer containing 2% FCS in sterile PBS for MACS
+Duration of compliant runs was 0.5–5.0 s, speed variation ⬍60%. Run
+assay). Before the MACS assay, erythrocytes in spleen were lysed with 30 s
+interruptions were not accepted. Poststroke acquisitions were performed
+incubation with distilled water. Splenocytes and lymphocytes were
+10 and 30 d after MCAo. Stroke-sensitive individual paw and gait paramforced through a 40 ␮m cell strainer (BD Falcon) and washed with
+eters were selected based on a previously published model (Hetze et al.,
+complete RPMI 1640 medium (or MACS buffer). Splenocytes were
+2012). Swing speed was normalized to overcome bias from individual
+quantified using automated CasyTon cell counter and analyzer system
+run speed.
+(Casy-Technology Innovatis AG, SciRes_000160) and lymphocytes on
+Electrophysiology. Electrical stimulation of the distal nerve triggers a
+motor response and a second voltage change, termed the F-wave, as a
+the Trypan blue method.
+
+7780 • J. Neurosci., May 20, 2015 • 35(20):7777–7794
+
+Römer et al. • SIDS Block Increases CNS-Specific Autoreactivity
+
+Figure 2. Infarct volumes were reduced after blocking SNS and HPA axis using propranolol and mifepristone. Ischemic lesions were smaller after SNS/HPA block in female 2D2 mice 24 h (vehicle,
+N ⫽ 56; SNS/HPA block, N ⫽ 52), 48 h (vehicle, N ⫽ 19; SNS/HPA block, N ⫽ 19), and 7 d (vehicle, N ⫽ 8; SNS/HPA block, N ⫽ 13) after MCAo (A). Infarct volumes were ⬃3 times reduced at each
+time point (Student’s t test; at 24 h, t(106) ⫽ 6.3, p ⬍ 0.0005; at 48 h, t(36) ⫽ 4.5, p ⬍ 0.0005; at 7 d, t(19) ⫽ 4.7, p ⬍ 0.0005). Same effect was observed in C57BL/6J mice at 24 h (vehicle, N ⫽ 25;
+SNS/HPA block, N ⫽ 28), 48 h (vehicle, N ⫽ 4; SNS/HPA block, N ⫽ 6), and 7 d (vehicle, N ⫽ 4; SNS/HPA block, N ⫽ 7) after MCAo (Mann–Whitney U test; at 24 h, U ⫽ 49.0, p ⬍ 0.0005; at 48 h,
+U ⫽ 0.0, p ⫽ 0.010; at 7 d, U ⫽ 3.5, p ⫽ 0.021; B). Infarct volumes of vehicle-treated C57BL/6J mice differed between 24 h and 7 d after MCAo (Mann–Whitney U test; U ⫽ 10.0, p ⫽ 0.020) and
+of propranolol- and mifepristone-treated mice between 24 and 48 h after MCAo (Mann–Whitney U test; U ⫽ 18.5, p ⫽ 0.001; B). T2-weighted images of ischemic lesions 24 h after MCAo in
+vehicle-treated (C) and SNS/HPA block (D) group of mice. Lesions in vehicle-treated mice involved cortex, striatum, and hippocampus (C), whereas those after SNS/HPA blockade comprised of
+multiple smaller ischemic foci rarely involving cortex (D). Follow-up among surviving C57BL/6J (E, G) and 2D2 mice (F, H ) 24 h and 7 d after MCAo after vehicle treatment (E) and SNS/HPA block
+treatment (G) compared with 2D2 mice (F, vehicle treatment; H, SNS/HPA block treatment). Infarct volume reduction within the vehicle and SNS/HPA block groups of C57BL/6J and 2D2 mice
+between 24 h and 7 d after MCAo was similar. *p ⬍ 0.05. **p ⬍ 0.01. ***p ⬍ 0.001.
+MACS assay, FACS, and cell transfer. Lymph nodes (cervical, mesenteric, inguinal, and lumbar) and spleens were collected from naive female
+2D2 mice and from treated female 2D2 mice 7 d after the MCAo for an
+adaptive transfer experiment (see Fig. 1 B, C). Cells were harvested as
+described above and pooled per group (naive, vehicle, SNS/HPA block).
+Untouched CD4 ⫹ T cell sort was performed using CD4 ⫹ T cell isolation
+kit for mice (Miltenyi Biotec) and LS columns (Miltenyi Biotec) according to the manufacturer’s instructions. CD4 ⫹ T cell purity was verified
+with FACS using APC-conjugated anti-CD4 monoclonal antibody
+(RM4 –5; BD Biosciences, catalog #553051 RRID:AB_398528). Samples
+were measured on FACSCalibur flow cytometer (BD Biosciences
+PharMingen; RRID:SciRes_000153) and analyzed with FlowJo software
+version 7.6.5. (Tree Star; RRID:nif-0000-30575). Sorted CD4 ⫹ T cells
+were characterized immunologically using FACS. Cells were resuspended in FACS buffer (2% FCS and 15.4 mM sodium azide in PBS) and
+centrifuged at 252 ⫻ g at 4°C for 6 min. Unspecific binding was blocked
+by incubation with anti-CD16/32 antibody (2.4G2; BD Biosciences, catalog #553141; RRID:AB_394656) at 4°C for 15 min. Cellular surfaces
+were stained with following anti-mouse antibodies: APC-conjugated
+CD3 (145-2C11; eBioscience, catalog #17-0031-82; RRID:AB_469315),
+Alexa-700-conjugated CD4 (RM4 –5; eBioscience, catalog #56-0042-82;
+RRID:AB_494000), APC-Cy7-conjugated CD44 (IM7; BD Biosciences,
+catalog #560568; RRID:AB_1727481), biotin-conjugated TCR V␣3.2
+(RR3–16; BD Biosciences, catalog #553218; RRID:AB_394714), PE-Cy7conjugated CD25 (PC61.5; eBioscience, catalog #25-0251-82; RRID:
+AB_469608), Pacific blue-conjugated CD62L (MEL-14; BioLegend,
+catalog #104424; RRID:AB_493380), PE-conjugated CD127 (SB/199; BD
+Biosciences, catalog #552543; RRID:AB_394417), and FITC-conjugated
+
+KLRG1 (2F1; eBioscience, catalog #11-5893-82; RRID:AB_1311265).
+Samples were incubated with antibody mixtures light-protected on ice
+for 30 min. Cell surfaces were stained in a second step for the detection of
+V␣3.2 TCR receptor with biotin-binding PerCP-conjugated streptavidin
+(BD Biosciences PharMingen, catalog #554064; RRID:AB_2336918).
+Samples were measured on an LSR II flow cytometer (BD Biosciences
+PharMingen; RRID:SciRes_000152) using FACSDiva software version
+6.1.3 (BD Biosciences PharMingen, BD FACSDiva Software; RRID:SciRes_000115). Data were analyzed with FlowJo software version 7.6.5.
+The following cell populations were distinguished: V␣3.2 ⫹ MOG-TCR
+transgenic CD4 ⫹ T cells (V␣3.2 ⫹ CD4 ⫹ CD3 ⫹), effector memory
+(MOG-specific) T cells [CD62L ⫺ CD44 ⫹ from (V␣3.2 ⫹) CD4 ⫹ CD3 ⫹
+cell population], central memory (MOG-specific) T cells [CD62L ⫹
+CD44 ⫹ from (V␣3.2 ⫹) CD4 ⫹ CD3 ⫹ cell population], and regulatory
+(MOG-specific) T cells [CD25 ⫹ CD127 ⫺ from (V␣3.2 ⫹) CD4 ⫹ CD3 ⫹
+cell population].
+Two million untouched CD4 ⫹ T cells were injected intravenously to
+corresponding gender-mixed Rag-1KO recipients 6 h after MCAo.
+Elispot assay. Elispot assay was performed from brain MNCs and
+splenocytes of 2D2 mice harvested 14 d after MCAo. Brain MNC Elispot
+was performed from mice where only the SNS-mediated SIDS was
+blocked and the SNS- and HPA-mediated SIDSs were both simultaneously blocked. For this, Elispot plates (96-well plates with hydrophobic
+PVDF membrane, 0.45 ␮m pore size; EMD Millipore) were coated overnight with 5 ␮g/ml of the following: (1) IFN-␥ (for Th1 cells; eBioscience,
+catalog #14-7313-85; RRID:AB_468472); (2) IL-4 (for Th2 cells; BD Biosciences, catalog #551878; RRID:AB_2336921); or (3) IL-17 (for Th17
+cells; eBioscience, catalog #16-7175-85; RRID:AB_763573) specific cap-
+
+Römer et al. • SIDS Block Increases CNS-Specific Autoreactivity
+
+J. Neurosci., May 20, 2015 • 35(20):7777–7794 • 7781
+
+in 50 ␮l complete HL-1 medium. In spleen
+Elispot, 3.75 ⫻ 10 5 (IFN-␥) or 1 ⫻ 10 6 (IL-4
+and IL-17) splenocytes were added in 100 ␮l
+complete HL-1 medium per well. Cells were
+incubated at 37°C, 5% CO2 for 24 h (IFN-␥
+plates) or 48 h (IL-4 and IL-17 plates). Plates
+were washed with PBS and subsequently with
+PBS supplied with 0.05% Tween 20 (SigmaAldrich) before incubation with a biotinylated
+secondary antibody [IFN-␥ (eBioscience, catalog #13-7311-81; RRID:AB_466936); IL-4 (BD
+Biosciences, catalog #551878; RRID:AB_
+2336921); or IL-17 (eBioscience, catalog #137177-85; RRID:AB_763571] in a solution of
+0.05% Tween 20 and 1.5 mM BSA in PBS at 4°C
+overnight. Plates were washed with 0.05%
+Tween 20 in PBS. Secondary antibody binding
+was visualized with streptavidin-HRP (BD Biosciences PharMingen) and 50 mM 3-amino-9ethylcarbazole (Sigma-Aldrich) in 30 mM
+acetic acid glacial (Merck KGaA), 117 mM sodium acetate (Sigma-Aldrich), and 5 ␮M H2O2
+(Merck KGaA). Formed spots were analyzed
+semiautomatically using ImmunoSpot software
+version 4.013 (Cellular Technology; RRID:
+SciRes_000119).
+Multiplex immunoassay and ELISA for quantifying cytokine production from brain and
+spleen. Fourteen days after MCAo, braininfiltrating cells and splenocytes were isolated
+and stimulated as for Elispot assay. Cell culture
+supernatants were collected and stored at
+⫺20°C until measurement. From each sample,
+25 ␮l supernatant was used for multiplex assay
+to quantify T cell-specific cytokine (IL-2, IL-4,
+IL-10, IL-17, and IFN-␥) production. Mouse
+multiplex kit (Millipore) and Human/Mouse
+TGF-␤1 ELISA Ready-SET-Go kit (Affymetrix) were used according to the manufacturer’s recommendations. Plates were read at
+450 nm by a Luminex Instrument (Bio-Plex
+200 System and Bio-Plex Manager Software
+version 6.1; Dartmouth DartLab; RRID:
+SciEx_11307). For quantification of TGF-␤1
+Figure 3. CBF, measured by FAIR-MRI, does not differ between vehicle and SNS/HPA block group at filament insertion and 3 h
+production, samples were acidified with 1 M
+after MCAo. A, ADC map lesion sizes were similar in vehicle and SNS/HPA block group immediately after MCAo (vehicle, N ⫽ 8;
+HCl to activate latent TGF-␤1 to immunoreacSNS/HPA block, N ⫽ 7) and 3 h after MCAo (vehicle, N ⫽ 8; SNS/HPA block, N ⫽ 7). In the vehicle group of mice, lesions on ADC
+tive form and then neutralized with 1 M
+maps decreased within 3 h after MCAo (Wilcoxon test; Z ⫽ ⫺2.3, p ⫽ 0.008). B, Hemispheric CBF differed in both groups at each
+NaOH. Each sample was measured once.
+time point (Wilcoxon test; immediately after MCAo: vehicle, Z ⫽ ⫺2.4, p ⫽ 0.016, SNS/HPA block, Z ⫽ ⫺2.5, p ⫽ 0.008; 3 h after
+Histological analysis of nerve root damage and
+MCAo: vehicle, Z ⫽ ⫺2.2, p ⫽ 0.031, SNS/HPA block, Z ⫽ ⫺2.5, p ⫽ 0.008) but not between the groups of interest [vehicle, 0 h,
+inflammation. Paraffin sections (2–3 ␮m thick)
+N ⫽ 7; 3 h, N ⫽ 6; SNS/HPA block, 0 h, N ⫽ 8; 3 h, N ⫽ 8). C, FAIR-MRI (top row; for CBF evaluation) and ADC images (bottom row)
+containing vertebral columns and nerve roots
+from coronal sections (at 2 mm interval) from the same mouse with an index bar. *p ⬍ 0.05. **p ⬍ 0.01.
+were routinely stained with hematoxylin and
+eosin for assessing inflammation and Luxol fast
+blue for assessing demyelination. Adjacent seture antibody in sterile PBS. Plates were washed with sterile PBS and
+rial
+sections
+were
+used
+for
+immunohistochemistry. Antigen retrieval was
+blocked with 1% BSA fraction V (Sigma-Aldrich) in PBS for 2 h at room
+done by cooking the slides in citrate (pH 6.0) or EDTA buffer (pH 8.5; for
+temperature. Wells were filled with 100 ␮l of the following: (1) complete
+V␣3.2 TCR staining) for 1 h (both from Sigma-Aldrich). After cooling
+HL-1 medium (Lonza) supplemented with 2 mM L-alanyl-L-glutamine,
+down and washing in PBS, slides were incubated overnight with primary
+50 U/ml penicillin, and 50 ␮g/ml streptomycin, with 2 ␮g/ml CD-3
+antibodies raised against Mac3 (M3/84; host species rat; dilution 1/100;
+(145-2C11; eBioscience, catalog #16-0031-86; RRID:AB_468849) and
+BD Biosciences, catalog #553322; RRID:AB_394780) for macrophages
+0.2 ␮g/ml CD-28 (37.51; eBioscience, catalog #14-0281-85; RRID:
+and CD3 (SP7; host species rabbit; dilution 1/500; Lab Vision, catalog
+AB_467191); duplicates per sample (positive control); (2) complete
+#RM-9107-S1; RRID:AB_149924) for T cells. Axonal injury was visualHL-1 medium with 0.2 ␮g/ml CD-28 and 40 ␮g/ml myelin oligodenized with ␤-amyloid precursor protein staining (␤-APP; host species
+drocyte glycoprotein peptide (pMOG35–55, amino acid sequence:
+mouse; dilution 1/500; Millipore, catalog #MAB5228; RRID:AB_95173).
+MEVGWYRSPFSRVVHLYRNGK; a gift from Dr. Rudolf Volkmer;
+Immunoreactivity to V␣3.2 TCR was detected with biotin-conjugated
+Charité Universitätsmedizin Berlin, Berlin, Germany); triplicates per
+V␣3.2 TCR antibody (RR3–16; host species rat; dilution 1/100; BD Biosample (MOG35–55-peptide stimulation); and (3) complete HL-1 mesciences, catalog #553218; RRID:AB_394714). All antibodies were didium with 0.2 ␮g/ml CD-28; triplicates per sample (negative control). In
+luted in 10% FCS in PBS. Immunopositive structures were detected with
+brain Elispot, brain MNCs were added at 1.75 ⫻ 10 5 in 50 ␮l complete
+HL-1 medium per well together with 1 ⫻ 10 6 naive C57BL/6J splenocytes
+biotin-avidin technique using 3,3⬘-diaminobenzidine-tetrahydrochloride
+
+7782 • J. Neurosci., May 20, 2015 • 35(20):7777–7794
+
+Römer et al. • SIDS Block Increases CNS-Specific Autoreactivity
+
+(Sigma) as chromogen. Control sections were
+stained in the absence of primary antibody.
+The cumulative area of spinal nerve cross
+sections (mm 2) within the decalcified vertebral
+columns and immunostained structures
+(Mac3 ⫹, CD3 ⫹, APP ⫹, and V␣3.2 ⫹) were
+quantified under light microscope using an optical grid. All available nerve root cross sections
+were examined. Data are presented as numbers
+of immunopositive structures per mm 2 nerve
+root.
+Histological analysis of inflammation and infiltration of CD4⫹ T cells into the brain. Snapfrozen brains were cut into 30-␮m-thick
+sections on a sliding microtome. After washing
+with Tris-buffered saline (TBS), free-floating
+sections were incubated with 10% normal goat
+serum (NGS, BIOZOL Diagnostica Vertrieb)
+and 0.3% Triton X (LABORAT) in TBS for 1 h
+at room temperature to block unspecific
+binding. Primary and secondary antibodies
+were diluted in 1% NGS and 0.3% Triton X
+in TBS. Sections were incubated with rat
+anti-CD4 primary antibody (clone RM4 –5,
+BD Biosciences, catalog #550280; RRID:
+AB_393575) for CD4 ⫹ T cells and rabbit
+anti-Iba-1 primary antibody (Wako Chemicals, catalog #019-19741; RRID:AB_839504)
+for microglia and macrophages at 4°C overnight.
+After thorough washing, sections were incubated
+at room temperature with AlexaFluor-488conjugated goat anti-rat (Invitrogen, catalog
+#A11006 RRID:AB_10561520) and AlexaFluor568-conjugated goat anti-rabbit (Invitrogen, catalog #A11011 RRID:AB_10584650) secondary
+antibodies (both from Invitrogen) for 2 h. Nuclei
+were counterstained with DAPI (Invitrogen).
+Sections were mounted with anti-fading mounting medium DABCO (Sigma-Aldrich) on gelatinized glass slides. Microphotographs were taken
+with a confocal microscope (Leica TCS SPE;
+Figure 4. 2D2 mice from stress axes blockade group show better long-term (30 d) survival and body temperature maintenance
+RRID:SciRes_000154).
+Quantification of CD4 ⫹ T cells, activated after experimental stroke. A, Propranolol and mifepristone treatment improved survival until 30 d after MCAo compared with
+2
+microglia, and macrophages was performed vehicle treatment (A; vehicle, N ⫽ 64; SNS/HPA block, N ⫽ 61; ␹ ⫽ 5.5, df ⫽ 1, p ⫽ 0.020). B, General health score was not
+using a stereology workstation consisting of a significantly improved after SNS/HPA block (vehicle, N ⫽ 42; SNS/HPA block, N ⫽ 45). C, Rectal temperature curves differed
+fluorescence microscope (Leica DMRE Fluo- between the groups with better maintenance of physiological temperatures in stress axis blockade group on days 3, 7–9, and 12
+rescence Microscope; RRID:SciRes_000155) after MCAo (Student’s t test, day 3: vehicle: N ⫽ 48; SNS/HPA block: N ⫽ 50; t(96) ⫽ ⫺2.5, p ⫽ 0.015; day 7: vehicle: N ⫽ 29;
+and Stereo Investigator software (MBF Biosci- SNS/HPA block: N ⫽ 42; t(47) ⫽ ⫺2.0, p ⫽ 0.048; day 8: vehicle: N ⫽ 27; SNS/HPA block: N ⫽ 40; t(32) ⫽ ⫺2.2, p ⫽ 0.038; day
+ence; RRID:SciRes_000114). Hemispheres 9: vehicle: N ⫽ 26; SNS/HPA block: N ⫽ 41; t(65) ⫽ ⫺2.1, p ⫽ 0.040; day 12: vehicle: N ⫽ 24; SNS/HPA block: N ⫽ 40; t(62) ⫽
+were outlined, and Meander scan was selected ⫺2.5, p ⫽ 0.014). D, Body weight loss was overall similar in both groups (vehicle: N ⫽ 52; SNS/HPA block: N ⫽ 52; day 2:
+to count all positively stained cells within the Student’s t test, t(102) ⫽ ⫺2.6, p ⫽ 0.011). B, Data are median ⫾ range. C, D, Data are mean ⫾ SD. *p ⬍ 0.05.
+ipsilateral hemisphere. Activated microglia/
+macrophages were distinguished from resident
+sented as median ⫾ range. Survival data are plotted on Kaplan–Meier
+resting microglia based on morphology and localization. Cell densities
+curve.
+were calculated per mm 2 ipsilateral hemisphere.
+Results
+Statistical analysis. Data were analyzed with SPSS Statistics 21.0 software for Windows (IBM Somers; SPSS; RRID:rid_000042). Normality of
+Blockade of SNS and HPA reduced infarct volumes
+data distribution was assessed with Kolmogorov–Smirnov test. p values
+To investigate the effect of SIDS on CNS antigen-specific autorefor parametric data were calculated with two-tailed Student’s t test or
+activity, we used 2D2 transgenic mice. These mice are sensitive
+one-way ANOVA for multiple comparisons with Bonferroni correction
+for investigating CNS antigen-specific immune responses bewhere indicated. Nonparametric data were analyzed with Kruskal–Wallis
+cause the majority of their CD4 ⫹ T cells carry a functional recep(with pairwise Dunn’s method were applicable) and Mann–Whitney U
+tor for MOG (Bettelli et al., 2003). SNS and the HPA axes both
+test. Dependent samples with nonparametric distribution were analyzed
+affect
+strongly cellular immunity and function mainly in an
+using Wilcoxon signed rank test. Only exact two-tailed p values were
+additive manner (Elenkov et al., 2000; Tischner and Reichardt,
+accepted for nonparametric tests. ␹ 2 test was applied to evaluate survival
+2007). Therefore, to prevent SIDS efficiently, we blocked the
+differences between groups. p value ⬍0.05 was considered significant.
+SNS and HPA axis simultaneously using ␤-receptor blocker
+Correlation analysis was performed using Spearman’s ␳ correlation copropranolol and glucocorticoid receptor antagonist mifeprisefficient for nonparametric data and Pearson correlation coefficient for
+parametric data. Data are mean ⫾ SD. Health and EAE score are pretone (Fig. 1A).
+
+Römer et al. • SIDS Block Increases CNS-Specific Autoreactivity
+
+J. Neurosci., May 20, 2015 • 35(20):7777–7794 • 7783
+
+Figure 5. Number of brain MNCs and their CNS antigen-specific autoreactive phenotype 14 d after MCAo. A, Number of MNCs infiltrating ipsilateral and contralateral hemisphere of the brain in
+vehicle and SNS/HPA blockade group (three individual experiments; vehicle, N ⫽ 15; SNS/HPA block, N ⫽ 20). B–D, Elispot experiments. B, Higher number of total brain MNCs responded to
+pMOG35–55 stimulation with IFN-␥ production (Th1 cells) per equal number of brain MNCs in SNS/HPA block group compared with the vehicle group. C, A similar effect was observed in ipsilateral
+hemisphere MNCs when only the SNS axis of SIDS was blocked with propranolol (two experiments; vehicle group, N ⫽ 5– 8; SNS block, N ⫽ 6 or 7). D, Number of splenocytes reacting to pMOG35–55
+stimulation with IFN-␥, IL-4, or IL-17 secretion did not differ between the groups. E, F, ELISA experiments. TGF-␤1, IL-10, IL-4, IL-17, and IFN-␥ secretion (pg/ml) by pMOG35–55-stimulated brain
+MNCs, ipsilateral hemisphere (E) and by pMOG35–55-stimulated splenocytes (F ).
+
+Dual blockade of stress axes with propranolol and mifepristone resulted in significantly smaller infarct volumes compared
+with vehicle treatment (Fig. 2A). Approximately three times
+smaller infarct volumes were sustained for at least 1 week after
+stroke onset (measurements were performed at 24 h, 48 h, and 7 d
+after MCAo). Combined treatment effect of propranolol and
+mifepristone is therefore sustained and not explained by mere
+delayed infarct volume maturation.
+To exclude mouse strain-specific effects, we next investigated
+the effect of stress axes blockade on infarct volume in wild-type
+C57BL/6J mice. In accordance with the data from 2D2 mice,
+SNS/HPA blockade resulted in a robust reduction of infarct volumes (Fig. 2B).
+Ischemic lesions in vehicle-treated mice affected striatum,
+hippocampus, and cortex. Lesions in mice with SNS/HPA blockade involved the cortex only rarely. Another difference between
+the groups was the uniformly large ischemic lesion in the vehicle
+group compared with the combination of small focal lesions in
+mice with SNS/HPA blockade (Fig. 2C,D).
+The dynamic changes in ischemic lesion were investigated in
+surviving wild-type C57BL/6J (Fig. 2 E, G) and 2D2 (Fig. 2 F, H )
+mice 24 h and 7 d after MCAo. In surviving animals, the ischemic
+lesions tended to be smaller in C57BL/6J mice compared with
+
+2D2 mice from both vehicle and SNS/HPA block groups (Fig.
+2E–H ). However, average reduction in ischemic lesion size
+within 7 d after MCAo was similar between C57BL/6J (⫺4.8 ⫾
+6.3%) and 2D2 (⫺4.1 ⫾ 7.0%) mice from vehicle as well as from
+SNS/HPA block group (C57BL/6J, ⫺3.1 ⫾ 1.4%; 2D2, ⫺3.6 ⫾
+3.4%).
+Reduction of infarct volume by SIDS blockade was not due to
+altered CBF
+The most straightforward cause for reduced infarct size is increased CBF because it relates inversely with lesion size after cerebral ischemia (Dalkara et al., 1994). To investigate whether the
+observed infarct volume reduction was due to altered CBF by
+SNS/HPA blockade, we performed FAIR-MRI combined with
+DWI in 2D2 and C57BL/6J mice immediately after filament insertion to the MCA and again 3 h after MCAo surgery (Fig. 3).
+DWI lesions did not differ significantly between the groups (Fig.
+3A). During cerebral ischemia sustained by MCAo, a large lesion
+on ADC map was observed ipsilaterally that shrank 2 h after
+reperfusion. The size of this lesion did not differ between
+treatment groups (Fig. 3A). Hemispheric CBF was greatly reduced ipsilateral to MCAo in all groups but was not affected by
+stress blockade either 0 h or 3 h after stroke onset (Fig. 3 B, C).
+
+7784 • J. Neurosci., May 20, 2015 • 35(20):7777–7794
+
+Römer et al. • SIDS Block Increases CNS-Specific Autoreactivity
+
+N ⫽ 14) were examined by BAL for bacterial burden in lung 3 d
+after MCAo. The overall infection rate following preventive enrofloxacin treatment was low in both groups. However, mice with
+SNS/HPA blockade with pulmonary infections (CFU/ml BAL
+fluid ⬎ LOG(10) 5) recovered or survived longer than those from
+the vehicle group (vehicle, N ⫽ 4; SNS/HPA block, N ⫽ 5; ␹ 2 ⫽
+7.6, df ⫽ 1, p ⫽ 0.006; data not shown).
+
+Figure 6. EAE-like symptoms were not affected by SNS/HPA block, compared with vehicle
+treatment. Modified EAE score in vehicle-treated and SNS/HPA blocked 2D2 mice 7–30 d after
+experimental stroke. 2D2 mice developed EAE-like symptoms in median on day 9 (vehicle
+group, N ⫽ 21) and day 14 (SNS/HPA block group, N ⫽ 31). Data are expressed as median ⫾
+range. *p ⬍ 0.05.
+
+Differences between the CBF and its dynamics within the 3 h
+after MCAo were similar in both groups ipsilaterally and
+contralaterally.
+Blocking stress axes improved long-term survival and
+temperature maintenance of mice
+In addition to decreasing infarct volume, propranolol and mifepristone treatment improved survival of 2D2 mice until the end
+of the observation period 30 d after MCAo (Fig. 4A). Compared
+with only 52% of mice surviving in the vehicle group, the longterm survival of mice with SNS/HPA blockade was 73%.
+Although mice from the SNS/HPA block group did not differ
+statistically from vehicle-treated mice in terms of general health
+score (Fig. 4B) and had only minor differences in body weight
+(Fig. 4D), they were better at maintenance of body temperature
+(Fig. 4C).
+In a post hoc analysis of vehicle-treated 2D2 mice, we compared smaller (⬍20%; N ⫽ 14) with larger edema-corrected infarct volumes (⬎20%; N ⫽ 39). Survival of mice with smaller
+lesions over the 30 d-follow-up after stroke was better (86%)
+compared with mice with larger lesions (43%; ␹ 2 ⫽ 5.1, df ⫽ 1,
+p ⫽ 0.024). Health status measured by general health score was
+better in mice with smaller infarct volumes from day 2 through
+day 5 after experimental stroke (Student’s t test; on day 2, t(35) ⫽
+3.6, p ⫽ 0.010; on day 3, t(36) ⫽ 3.2, p ⫽ 0.030; on day 4, t(32) ⫽
+3.7, p ⫽ 0.001; on day 5, t(28) ⫽ 2.3, p ⫽ 0.032), accompanied by
+better maintenance of body temperature on day 2 to day 4 as well
+as on day 11 after stroke (Student’s t test; on day 2, t(47) ⫽ ⫺4.8,
+p ⬍ 0.0005; on day 3, t(46) ⫽ ⫺2.7, p ⫽ 0.009; t(39) ⫽ ⫺2.3, p ⫽
+0.025; t(22) ⫽ ⫺2.6, p ⫽ 0.018). Body weight loss between the
+groups did not differ significantly (data not shown).
+Blocking stress axes promoted recovery from infections
+Many hypothermic mice in the vehicle group died 4 d after
+MCAo (Fig. 4A), reminiscent of severe poststroke infections,
+such as bacterial pneumonia (Prass et al., 2003; Meisel et al.,
+2004). To verify this, 2D2 mice (vehicle, N ⫽ 11, SNS/HPA block,
+
+Blocking SIDS increased the CNS antigen-specific T-cell
+response in ischemic brain 14 d after MCAo
+Infiltration of CD4 ⫹ T cells into ischemic brain peaks 14 d after
+MCAo (Stubbe et al., 2013). Hence, we chose this time point to
+follow immune cell infiltration and CNS antigen-specific T-cell
+responses to investigate whether inhibition of SIDS by SNS/HPA
+blockade affects CNS-directed autoreactivity in ischemic brain.
+The average number of ipsilateral and contralateral hemisphereinfiltrating MNCs 14 d after MCAo was similar in the vehicle and
+SNS/HPA blockade group of 2D2 mice (Fig. 5A).
+To investigate the CNS antigen-specific autoreactivity of
+brain-infiltrating MNCs, we performed an Elispot assay to quantify the frequency of pMOG35–55-specific T cells and investigate
+their cytokine profile. SNS/HPA blockade increased the frequency of MNCs responding to pMOG35–55 with IFN-␥ secretion
+from 598 per 3.25 ⫻ 10 5 total brain MNCs in vehicle-treated
+mice to 1122 per 3.25 ⫻ 10 5 of total brain MNCs (Fig. 5B).
+Despite similar numbers of MNCs infiltrating ischemic brain after MCAo, a higher number of total brain MNCs responded to
+pMOG35–55 stimulation with IFN-␥ production in SNS/HPA
+blockade compared with the vehicle group of 2D2 mice (Fig. 5).
+These findings support our hypothesis that inhibiting SIDS by
+SNS/HPA blockade increases CNS antigen-specific Th1 cell response of brain-infiltrating MNCs. When blocking only the SNS
+but not the HPA axis, the difference in the frequency of MOGspecific autoreactive Th1 cells among ipsilateral hemisphereinfiltrating MNCs became smaller between the SNS block (360
+per 1.75 ⫻ 10 5 ipsilateral hemisphere brain MNCs) and the vehicle group (220 per 1.75 ⫻ 10 5 ipsilateral hemisphere brain
+MNCs) (Fig. 5C), suggesting an additive function of the SNS and
+the HPA axis in preventing the autoreactive T-cell responses after
+acute brain injury. We measured multiple cytokines (IL-4, IL-10,
+IL-17, IFN-␥, TGF-␤1) from ex vivo MOG stimulated braininfiltrating cells by multiplex immunoassay and ELISA. Corroborating our data from Elispot analysis, we observed an
+upregulation of IFN-␥ production in the SNS/HPA blocked
+group compared with the vehicle group. In addition to autoreactive Th1 responses, we analyzed the production of multiple cytokines, including regulatory cytokines, TGF-␤1, and IL-10, upon
+MOG stimulation in brain MNCs of 2D2 mice 14 d after MCAo
+using ELISA. Whereas IL-10 production was reduced in SNS/
+HPA blockade compared with vehicle groups of mice, TGF-␤1
+levels upon MOG stimulation were increased in the SNS/HPA
+block group of mice (Fig. 5E).
+Next, we questioned whether increase in autoreactive T-cell
+responses after SIDS blockade in stroke animals was confined to
+the CNS. For this, we harvested splenocytes 14 d after MCAo and
+quantified the number of IFN-␥ (Th1 cell signature cytokine),
+IL-4 (Th2 cell signature cytokine), and IL-17 (Th17 cell signature
+cytokine) secreting cells after pMOG35–55 stimulation by Elispot
+assay and regulatory-type cytokine production by ELISA. Blocking SIDS with propranolol and mifepristone did not change the
+numbers of Th1, Th2, or Th17 effector cytokine-producing cells
+or the amount of TGF-␤1 and IL-10 secretion by pMOG35–55stimulated splenocytes significantly (Fig. 5 D, F ). Ratios between
+
+Römer et al. • SIDS Block Increases CNS-Specific Autoreactivity
+
+J. Neurosci., May 20, 2015 • 35(20):7777–7794 • 7785
+
+Table 1. Dynamic changes in gait parameters measured 10 and 30 d after MCAo in 2D2 mice belonging to vehicle (day 10, N ⴝ 21; day 30, N ⴝ 14) and SNS/HPA block group
+(day 10, N ⴝ 29; day 30, N ⴝ 19) and their comparison with baseline values (N ⴝ 108) before MCAoa
+Vehicle (mean ⫾ SD)
+2D2 mice: parameter
+Spatial characteristics
+Maximal contact area (mm 2)
+
+Definition
+
+Paw
+
+Baseline
+
+Day 10
+
+Day 30
+
+Day 10
+
+Day 30
+
+Area of a paw print at
+maximal walking
+surface contact
+
+RF
+RH
+LF
+LH
+
+26.25 ⫾ 13.82
+19.82 ⫾ 14.68
+26.89 ⫾ 14.05
+19.73 ⫾ 14.06
+
+16.70 ⫾ 7.306 (**p ⫽ 0.003)
+12.92 ⫾ 6.435
+19.00 ⫾ 5.348 (*p ⫽ 0.026)
+14.51 ⫾ 5.684
+
+15.53 ⫾ 6.801 (**p ⫽ 0.005)
+13.99 ⫾ 8.764
+18.77 ⫾ 5.564
+17.42 ⫾ 9.744
+
+16.42 ⫾ 5.730 (***p ⬍ 0.0005)
+11.79 ⫾ 5.158 (*p ⫽ 0.012)
+18.79 ⫾ 6.448 (**p ⫽ 0.006)
+15.51 ⫾ 8.000
+
+18.00 ⫾ 6.306 (*p ⫽ 0.025)
+15.51 ⫾ 6.447 (#p ⫽ 0.042)
+21.59 ⫾ 6.505
+22.00 ⫾ 10.09 (#p ⫽ 0.024)
+
+2.120 ⫾ 0.562 2.798 ⫾ 0.664 (***p ⬍ 0.0005) 2.666 ⫾ 0.539 (*p ⫽ 0.040)
+
+2.559 ⫾ 0.683 (*p ⫽ 0.031)
+
+2.759 ⫾ 0.564 (**p ⫽ 0.002)
+
+RF
+RH
+LF
+LH
+Duration of a paw contact RF
+with walking surface RH
+LF
+LH
+
+1167 ⫾ 235.4
+983.8 ⫾ 242.4
+1168 ⫾ 233.6
+992.3 ⫾ 235.8
+0.137 ⫾ 0.033
+0.115 ⫾ 0.033
+0.140 ⫾ 0.031
+0.114 ⫾ 0.032
+
+998.9 ⫾ 212.5
+820.2 ⫾ 185.0 (*p ⫽ 0.050)
+1073 ⫾ 177.2
+912.7 ⫾ 230.9
+0.161 ⫾ 0.048
+0.132 ⫾ 0.039
+0.166 ⫾ 0.039
+0.146 ⫾ 0.041 (*p ⫽ 0.036)
+
+939.4 ⫾ 186.9 (*p ⫽ 0.013)
+804.3 ⫾ 197.9
+1001 ⫾ 238.0
+906.5 ⫾ 272.1
+0.164 ⫾ 0.054
+0.138 ⫾ 0.046
+0.170 ⫾ 0.044
+0.154 ⫾ 0.052
+
+973.0 ⫾ 258.5 (**p ⫽ 0.005)
+791.7 ⫾ 194.1 (**p ⫽ 0.003)
+1008 ⫾ 228.4 (*p ⫽ 0.032)
+881.8 ⫾ 255.9
+0.156 ⫾ 0.049
+0.131 ⫾ 0.041
+0.162 ⫾ 0.043
+0.140 ⫾ 0.047 (*p ⫽ 0.018)
+
+931.1 ⫾ 179.5 (**p ⫽ 0.002)
+778.2 ⫾ 223.7 (**p ⫽ 0.007)
+967.4 ⫾ 216.3 (*p ⫽ 0.013)
+882.0 ⫾ 234.7
+0.172 ⫾ 0.039 (*p ⫽ 0.037)
+0.142 ⫾ 0.041
+0.176 ⫾ 0.041 (**p ⫽ 0.008)
+0.163 ⫾ 0.041 (***p ⬍ 0.0005)
+
+Regularity of gait
+Distance between paws
+
+92.01 ⫾ 7.358
+7.928 ⫾ 5.334
+14.26 ⫾ 9.701
+9.567 ⫾ 3.970
+11.38 ⫾ 5.321
+
+87.91 ⫾ 18.94
+10.06 ⫾ 5.463
+20.16 ⫾ 12.49
+8.856 ⫾ 3.953
+9.589 ⫾ 4.481
+
+93.13 ⫾ 4.871
+14.19 ⫾ 8.221 (*p ⫽ 0.042)
+28.33 ⫾ 15.53 (*p ⫽ 0.014)
+8.716 ⫾ 5.010
+7.380 ⫾ 4.413
+
+88.34 ⫾ 14.22
+12.77 ⫾ 8.814 (*p ⫽ 0.045)
+26.26 ⫾ 17.40 (**p ⫽ 0.005)
+9.004 ⫾ 3.519
+10.42 ⫾ 4.587
+
+93.41 ⫾ 5.221
+13.26 ⫾ 7.772
+27.04 ⫾ 16.87 (*p ⫽ 0.012)
+9.221 ⫾ 3.555
+8.311 ⫾ 4.095
+
+63.88 ⫾ 9.181
+60.60 ⫾ 8.631
+64.25 ⫾ 8.651
+58.37 ⫾ 10.93
+6.663 ⫾ 7.276
+5.535 ⫾ 5.437
+42.65 ⫾ 8.210
+49.45 ⫾ 3.765
+50.66 ⫾ 5.702
+48.34 ⫾ 6.634
+
+50.63 ⫾ 17.19 (**p ⫽ 0.006)
+46.11 ⫾ 18.55 (**p ⫽ 0.008)
+48.94 ⫾ 16.65 (***p ⫽ 0.001)
+45.78 ⫾ 16.57 (**p ⫽ 0.010)
+9.099 ⫾ 7.519
+7.898 ⫾ 6.963
+44.10 ⫾ 10.07
+50.25 ⫾ 3.931
+49.11 ⫾ 11.09
+50.45 ⫾ 4.274
+
+48.94 ⫾ 15.76 (**p ⫽ 0.008)
+47.50 ⫾ 17.36
+50.13 ⫾ 16.35 (*p ⫽ 0.012)
+48.35 ⫾ 17.09
+1.815 ⫾ 9.420
+5.380 ⫾ 6.284
+44.96 ⫾ 7.445
+51.76 ⫾ 3.799
+49.40 ⫾ 6.656
+49.27 ⫾ 6.122
+
+50.19 ⫾ 17.06 (***p ⫽ 0.001)
+53.62 ⫾ 21.15
+51.13 ⫾ 16.95 (***p ⫽ 0.001)
+46.78 ⫾ 15.37 (**p ⫽ 0.008)
+6.526 ⫾ 6.815
+4.049 ⫾ 6.621
+42.69 ⫾ 8.282
+47.88 ⫾ 7.821
+49.90 ⫾ 8.948
+48.06 ⫾ 5.767
+
+47.82 ⫾ 14.02 (***p ⫽ 0.001)
+43.92 ⫾ 13.39 (**p ⫽ 0.002)
+47.22 ⫾ 13.09 (***p ⬍ 0.0005)
+45.48 ⫾ 12.75 (**p ⫽ 0.011)
+2.952 ⫾ 4.866
+7.249 ⫾ 7.746
+44.08 ⫾ 7.502
+50.94 ⫾ 4.265
+48.90 ⫾ 5.527
+49.21 ⫾ 6.429
+
+Kinetic characteristics
+Run duration (s)
+
+Time for passing the
+walkway
+Normalized swing speed (mm) Swing speed ⫻ run
+duration
+
+Stand (s)
+
+Comparative statistics
+Regularity index (%)
+Base of support (mm)
+Print positions (mm)
+
+Stride length (mm)
+
+Phase dispersions (%)
+
+SNS/HPA block (mean ⫾ SD)
+
+RF-LF
+RH-LH
+RF-RH
+LF-LH
+
+Distance of a hindpaw
+position to previous
+position of front paw
+Distance between succes- RF
+sive steps with one
+RH
+paw
+LF
+LH
+Contact of a target paw in RF-LH
+relation to step cycle LF-RH
+of the anchor paw
+LH-RH
+LF-RF
+RF-RH
+LF-LH
+
+a
+
+Gait alterations in 2D2 mice (vehicle and SNS/HPA block groups) 10 and 30 d after MCAo. RF, Right forepaw; RH, right hindpaw; LF, left forepaw; LH, left hindpaw.
+*p ⬍ 0.05; **p ⬍ 0.01; ***p ⬍ 0.001 (one-way ANOVA with Bonferroni correction). *Compared with baseline values. #Compared with day 10 SNS/HPA block.
+
+pMOG35–55-specific Th1 and Th2 (vehicle group, 1.97 ⫾ 0.77;
+SNS/HPA blockade group, 2.50 ⫾ 0.88) and Th17 and Th1 cells
+(vehicle group, 0.24 ⫾ 0.08; SNS/HPA blockade group, 0.28 ⫾
+0.19) were similar in both groups.
+The total number of splenocytes 14 d after MCAo did not
+differ significantly between vehicle (N ⫽ 6, 1.0 ⫻ 10 8 ⫾ 4.4 ⫻
+10 7) and the SNS/HPA block group (N ⫽ 9, 1.4 ⫻ 10 8 ⫾ 6.1 ⫻
+10 7). Compared with naive 2D2 splenocytes (N ⫽ 10, 5.5 ⫻ 10 8
+⫾ 4.3 ⫻ 10 8), this number was reduced in both groups (one-way
+ANOVA, F(2) ⫽ 7.0: naive vs vehicle: p ⫽ 0.014; naive vs SNS/
+HPA block: p ⫽ 0.013; data not shown).
+Blocking SIDS did not augment EAE-like symptoms and
+locomotor deficits
+We next investigated whether increased autoreactive immune
+responses in ischemic brain after blocking SIDS were associated
+with worse functional outcome. Mice recover from sensorimotor
+deficits typically within 1 week after MCAo. Whereas stroke affects immediately and predominantly the contralateral side and
+in particular the contralateral forepaw, we observed a progressive
+and ascending paralysis affecting the tail and limbs of both sides
+symmetrically beginning from 1 week after MCAo. This phenotype observed in 2D2 mice is reminiscent of EAE. Therefore, we
+applied the modified EAE score starting assessment from day 7
+after MCAo. Interestingly, EAE score of 2D2 mice 30 d after
+MCAo correlated positively with infarct volume 24 h after MCAo
+among vehicle-treated (N ⫽ 11, Spearman-Rho correlation coefficient 0.665, p ⫽ 0.026) but not mifepristone/propranolol-
+
+treated mice (N ⫽ 18, Spearman ␳ correlation coefficient ⫽
+0.089, p ⫽ 0.726). These findings suggest that EAE-like phenotype depends on ischemic lesion size and SIDS. Following experimental stroke, the majority of 2D2 mice from vehicle (87%) and
+SNS/HPA block groups (91%) developed EAE-like symptoms
+within the 30 d observation period. Median disease onset in mice
+after SNS/HPA blockade on day 14 was compared with day 9 in
+the vehicle group (Fig. 6). Additionally to applying modified EAE
+score, gait parameters were assessed using the semiautomated
+CatWalk gait analysis system.
+Previously, we have identified sensitive gait parameters typically affected by stroke in male C57BL/6J mice (Hetze et al.,
+2012). Here, stroke mice from vehicle and SNS/HPA block
+groups displayed typical alterations in spatial and kinetic characteristics of gait without significant differences between the groups
+(Table 1).
+Together, SIDS blockade boosted CNS antigen-specific immune response in the brain but, compared with vehicle treatment, did not worsen functional long-term outcome measured
+by modified EAE score or gait analysis.
+Blocking SIDS reduced immune cell infiltration into spinal
+nerve roots
+In the long-term course and beyond the initial hemiparesis after
+experimental stroke, 2D2 mice suffered from paralysis affecting
+hindpaws and tail. Hence, we hypothesized myelitis caused by
+CNS antigen-specific immune cell infiltration into the spinal
+cord. To investigate this phenomenon, we performed immuno-
+
+7786 • J. Neurosci., May 20, 2015 • 35(20):7777–7794
+
+Römer et al. • SIDS Block Increases CNS-Specific Autoreactivity
+
+Figure 7. Representative immunohistochemistry demonstrating infiltration of Mac3 ⫹ macrophages and CD3 ⫹ T cells, APP ⫹ inflamed axons, and V␣3.2 ⫹ 2D2 TCR-expressing T cells in the
+spinal nerve roots of 2D2 mice. Mac3 (A), CD3 (D), APP (G), and V␣3.2 (J ) staining of the spinal cord in conjunction with nerve roots at sacral level where most of the cauda equina locates. Areas
+outlined in A, D, G, and J are zoomed in B, E, H, and K and C, F, I, and L, respectively. C, F, I, L, Arrows indicate immunostained cells (Mac3, CD3, V␣3.2) and axons (APP). There is increased cellular
+infiltration in single nerve roots, whereas many remain infiltrate-free. Scale bars: A, D, G, J, 200 ␮m; B, E, H, K, 100 ␮m; C, F, I, L, 20 ␮m.
+
+histochemical analysis of the vertebral columns containing nerve
+roots removed from 2D2 mice 30 d after MCAo. Tissue was stained
+for macrophages (Mac3 ⫹), T cells (CD3 ⫹), inflammatory axons
+(APP ⫹), and MOG-specific T cells (V␣3.2 ⫹). No immune cells
+were found in the spinal cord. Surprisingly, immune cells had infiltrated into the spinal nerve roots (Fig. 7). CD3 ⫹ T cells were typically
+found in close vicinity of Mac3 ⫹ macrophages.
+Average density (cells/mm 2) of Mac3 ⫹ and CD3 ⫹ cells was
+significantly higher in the nerve roots of vehicle-treated mice
+
+(Fig. 8A). The average infiltration of MOG-specific T cells into
+the spinal nerve roots did not differ significantly between the groups
+(Fig. 8B), suggesting a considerable recruitment of nontransgenic T
+cells into the lesions of vehicle-treated mice. APP ⫹-inflamed axons
+appeared at similar density in vehicle and SNS/HPA blockade
+groups. Spinal nerve roots revealed immunohistochemical signs of
+polyradiculitis at 14 d after MCAo also in wild-type C57BL/6J
+mice, however, without significant differences between the vehicle and SNS/HPA block groups (Fig. 8C). Infarct size 24 h after
+
+Römer et al. • SIDS Block Increases CNS-Specific Autoreactivity
+
+J. Neurosci., May 20, 2015 • 35(20):7777–7794 • 7787
+
+block groups does not necessarily exclude
+that blockade of SIDS influences long-term
+outcome of stroke detrimentally. In an attempt to prove whether autoreactive immune response has detrimental effects on
+long-term outcome after stroke, we needed
+to exclude the bias introduced by the protective effect of stress blockade with propranolol and mifepristone on infarct volume.
+To address this issue, we performed an
+adoptive transfer experiment using 2D2
+mice as donors and Rag-1KO mice lacking
+functional B and T cells as recipients. Influences of spontaneous poststroke infections on outcome were minimized with
+preventive antibiotic use. Two million
+CD4 ⫹ T cells were harvested from the
+spleens and lymph nodes of 2D2 donor
+Figure 8. Blocking SIDS in 2D2, but not in C57BL/6J, mice diminished infiltration of Mac3 ⫹ and CD3 ⫹ cells into the spinal nerve mice from the vehicle or SNS/HPA block
+⫹
+⫹
+⫹
+2
+⫹
+roots. A, Numbers of Mac3 , CD3 , and APP structures per mm nerve root. Densities of Mac3 (Mann–Whitney U test; U ⫽ groups 7 d after MCAo and transferred
+51.0, p ⫽ 0.031) and CD3 ⫹ cells (Mann–Whitney U test; U ⫽ 27.0, p ⫽ 0.001) were reduced in the nerve roots of mice from the
+intravenously to Rag-1KO recipients 6 h
+SNS/HPA block group (N ⫽ 18) compared with the vehicle-treated mice (N ⫽ 11) 30 d after experimental stroke. B, The number
+a control,
+⫹
+of V␣3.2 cells in the nerve roots of 2D2 mice at the same time point did not differ significantly between the groups. C, In C57BL/6J after MCAo (Fig. 1 B, C). For ⫹
+mice 14 d after MCAo, the numbers of Mac3 ⫹, CD3 ⫹, and APP ⫹ structures per mm 2 spinal nerve root did not differ between the Rag-1KO mice received CD4 T cells
+from naive 2D2 mice that were not
+groups. *p ⬍ 0.05. ***p ⬍ 0.001.
+treated, except from antibiotics, and were
+also not subjected to MCAo. Based on doMCAo did not correlate with any immunohistochemical marker
+nors, Rag-1KO mice were divided into three groups, transferred
+of polyradiculitis, either in 2D2 or in wild-type C57BL/6J mice
+with splenocytes and lymphocytes from the naive, vehicle, or
+(data not shown).
+SNS/HPA block group of 2D2 mice.
+To characterize the cellular composition of lymphocytes for
+SIDS blockade abolished elongation of sciatic nerve F-wave
+adoptive transfer experiments we analyzed MACS-sorted CD4 ⫹
+latencies after experimental stroke in 2D2 mice
+T cells isolated from lymph nodes (cervical, mesenteric, inguinal,
+The phenotype of paralysis accompanied by infiltration of imlumbar) and splenocytes from donor 2D2 naive (N ⫽ 3), vehiclemune cells into the spinal nerve roots was rather flaccid than
+treated (N ⫽ 6), and mifepristone/propranolol-treated mice
+spastic and thus resembled the clinical characteristics of polyra(N ⫽ 5) 7 d after MCAo using FACS. The number of MOG-TCRdiculitis. We aimed at characterizing this condition further and
+specific CD4 ⫹ T cells was similar in all three groups. The vehiclemeasured sciatic nerve conduction velocities to indirectly
+treated group had less MOG-specific effector memory (CD44 ⫹
+evaluate damage to myelin sheath around peripheral nerves
+CD62L ⫺) and central memory T cells (CD44 ⫹ CD62L ⫹) comand neuromuscular function. We measured F-wave latencies
+pared with naive 2D2 mice. Vehicle and SNS/HPA block groups
+and chronodispersion in 2D2 mice upon sciatic nerve stimulation
+of mice had similar numbers of MOG-specific effector and cen14 d after MCAo (Fig. 9 A, C). Latencies to F-wave were longer in
+tral memory T cells. The total numbers of effector memory T cells
+vehicle-treated mice compared with baseline and SNS/HPA
+were lower in the vehicle group compared with the SNS/HPA
+block group values (Fig. 9B). F-wave latencies of animals with
+block group of mice. The percentage of regulatory T cells among
+SNS/HPA blockade remained at baseline, suggesting that SIDS
+(MOG-specific) CD4 ⫹ T cells was not different between the three
+blockade impeded elongated F-wave latencies after experimental
+groups (Fig. 10).
+stroke in 2D2 mice. Chronodispersion of F-waves did not differ
+Rag-1KO mice from all three treatment groups developed
+significantly between treatment groups and was in the range of
+equally large infarcts measured 24 h after MCAo (Fig. 11A).
+the baseline values (Fig. 9D).
+Therefore, a neuroprotective effect of blocking stress axes with
+Findings from electrophysiology and immunohistochempropranolol and mifepristone was apparently not conveyed by
+istry suggest, that following experimental stroke, 2D2 mice
+adoptively transferred 2D2 CD4 ⫹ T cells. Time course of body
+developed a disease phenotype reminiscent of polyradiculitis.
+weightandrectaltemperaturewassimilarinallgroupsofRag-1KOmice
+Blocking stress axes diminished inflammation of the spinal
+(Fig. 11B,C).
+nerve roots.
+EAE-like disease symptoms tended to be less severe in all three
+transfer groups of Rag-1KO mice compared with 2D2 mice (Figs.
+Adoptive transfer of 2D2 CD4 ⴙ T cells to Rag-1KO mice
+6, 12A) and were developed by 90% of the naive group, 89% of
+suggests that blockade of SIDS does not further aggravate
+the vehicle group, and 78% of the SNS/HPA block group of reEAE-like and polyradiculitis-like symptoms or performance
+constituted Rag-1KO mice. Thus, EAE-like symptoms in Ragon CatWalk gait analysis
+1KO mice from the SNS/HPA block group were not aggravated
+The experiments described above demonstrated that inhibiting
+by SIDS blockade in donor 2D2 mice. Consistent with less prostress axes to block SIDS reduces infarct volume and boosts CNS
+nounced neurological deficits in comparison with 2D2 mice, the
+antigen-specific autoreactive immune responses in the brain. Begait of Rag-1KO recipients after MCAo was not significantly alcause both effects are potentially opposing concerning functional
+tered, and mice from all three groups performed similarly on
+outcome, lack of differences between the vehicle and SNS/HPA
+CatWalk (data not shown).
+
+7788 • J. Neurosci., May 20, 2015 • 35(20):7777–7794
+
+Römer et al. • SIDS Block Increases CNS-Specific Autoreactivity
+
+These findings were corroborated by
+electrophysiology where sciatic nerve
+conduction velocities in recipient Rag1KO mice from all three groups did not
+differ. Fourteen days after MCAo, F-wave
+latencies as well as chronodispersion remained at baseline in naive, vehicle, and
+SNS/HPA block group (Fig. 12 B, C).
+In line with milder EAE-like disease in
+Rag-1KO mice, immunohistochemical
+analysis of spinal nerve roots revealed ⬃4
+times lower frequencies of CD3 ⫹ and
+Mac3 ⫹ cells and APP ⫹ inflamed axons in
+Rag-1KO mice 30 d after MCAo compared with 2D2 mice (Figs. 8, 12D). The
+three groups of Rag-1KO mice did not differ regarding the densities of CD3 ⫹ cells,
+Mac3 ⫹ macrophages, and APP ⫹ axons in
+the spinal nerve roots.
+Thirty days after MCAo, the transferred CD4 ⫹ T cells were still present in
+the brains of Rag-1KO mice. They accumulated mainly in the peri-infarct area
+(Fig. 13 A, D,G,J ), whereas activated
+Iba-1 ⫹ microglia/macrophages infiltrated both into infarct and peri-infarct
+regions (Fig. 13 B, E, H, K ). The relative
+densities of CD4 ⫹ T cells and Iba-1 ⫹activated microglia/macrophages in the
+brains of Rag-1KO mice 30 d after MCAo
+did not differ between the three transfer
+groups (Fig. 13C). Upon migrating toward
+the ischemic core, ramified resting micro- Figure 9. Increased F-wave latencies upon sciatic nerve stimulation in 2D2 mice after experimental stroke were normalized by
+glia (Fig. 13F) had adopted amoeboid-like blocking SIDS. A, Baseline F-wave latency (amplitude in mV vs time in ms). B, 2D2 mice from the vehicle group (N ⫽ 24) had
+morphology with thickened processes. In elongated F-wave latencies 14 d after MCAo compared with baseline values (Student’s t test, t(149) ⫽ ⫺5.8, *p ⬍ 0.0005). In
+ischemic lesion, their somata appeared ir- contrast, F-wave latencies in the SNS/HPA block group (N ⫽ 37; Student’s t test, t(59) ⫽ 2.5, p ⫽ 0.016) remained at baseline (N ⫽
+regular or oval (Fig. 13I) and cells were ob- 127; baseline). Dark gray dotted line indicates median (50th percentile). Gray rectangle represents area between the 25th and 75th
+percentiles. Light gray rectangle represents range between minimum and maximum values. C, Delayed F-wave. D, F-wave chroserved extravagating through enlarged
+nodispersion remained at baseline in both groups of 2D2 mice.
+13L).
+blood vessels (Fig.
+Lymphocyte-deficient Rag-1KO mice
+increases delayed MOG-specific autoreactive CD4 ⫹ T-cell reundergoing MCAo develop EAE-like symptoms following transsponses in the brains of MOG TCR transgenic 2D2 mice but does
+fer of CD4 ⫹ T cells from naive, vehicle-treated, and SIDSnot worsen functional long-term outcome after experimental
+blocked 2D2 mice. Dual blocking of SNS and HPA mediated
+stroke.
+SIDS in donor mice does not further aggravate EAE-like sympAfter cerebral ischemia, the disruption of the blood– brain
+⫹
+toms, performance on CatWalk, or increase the number of CD4
+barrier
+allows leukocytes, including neutrophils, macrophages,
+⫹
+T cell or Iba-1 activated microglia/macrophages in ischemic
+and
+lymphocytes,
+to enter the damaged brain tissue and brain
+brains in recipient mice compared with vehicle treatment. Neuantigens to enter peripheral circulation. This process may expose
+rological and functional deficits, including EAE-like symptoms,
+brain epitopes, which are normally “invisible” to the immune
+gait deficits, and immune cell infiltration to spinal cord, were
+system and thus promote priming and activation of lymphocytes
+lower in Rag-1KO mice after adoptive transfer than in 2D2 mice.
+reactive to the CNS antigens after stroke (Becker et al., 2005).
+Patients with cerebral ischemia were shown to have elevated anDiscussion
+tibody titers as well as increased numbers of circulating T cells
+Stroke induces hyperactivation of stress pathways, including the
+specific for CNS antigens compared with age-matched healthy
+HPA and the SNS, leading to a rapid and long-lasting systemic
+controls, indicating that inflammatory processes in the damaged
+suppression of cell-mediated immune responses causing spontaCNS tissue may indeed induce self-directed immune responses
+neous systemic bacterial infections within the first days after
+(Bornstein et al., 2001; Dambinova et al., 2003). Depletion of
+stroke (for review, see Meisel et al., 2005; Chamorro et al., 2012;
+circulating T-cell populations, which is a key mechanism of SIDS
+Vogelgesang et al., 2014). The biological function of SIDS re(Prass et al., 2003), reduces ischemic brain damage in experimenmains elusive. According to our main hypothesis, SIDS presents
+tal models of stroke (Kleinschnitz et al., 2010). While increasing
+an adaptive response preventing autoreactive CNS antigenthe number of CNS antigen-specific Th1 cells in the brain, SNS/
+specific immune responses after cerebral ischemia (Meisel et al.,
+HPA blockade reduced levels of IL-10, which is mainly produced
+2005; Dirnagl et al., 2007). We demonstrate here that preventing
+by regulatory T cells. TGF-␤1, a further regulatory type cytokine,
+SIDS by inhibiting the body’s main stress axes SNS and HPA
+
+Römer et al. • SIDS Block Increases CNS-Specific Autoreactivity
+
+J. Neurosci., May 20, 2015 • 35(20):7777–7794 • 7789
+
+Figure 10. Immunological characterization of CD4 ⫹ T cells obtained from cervical, mesenteric, inguinal, and lumbar lymph nodes and spleens of donor 2D2 mice (naive, N ⫽ 3, or vehicletreated, N ⫽ 6; and mifepristone-/propranolol-treated mice, N ⫽ 5, 7 d after MCAo for intravenous transfer into Rag-1KO recipient mice. A, The number of MOG-specific CD4 ⫹ T cells was similar
+in all three groups of donor mice. B, Vehicle group of donor mice had less MOG-specific effector (Kruskal–Wallis with Mann–Whitney U test, U ⫽ 1.000, p ⫽ 0.048) and central memory T cells
+(Kruskal–Wallis with Mann–Whitney U test, U ⫽ 0.000, p ⫽ 0.024) compared with naive but not SNS/HPA block group of 2D2 donor mice. Cumulative number of effector memory T cells was lower
+in vehicle compared with SNS/HPA block group of mice (Kruskal–Wallis with Mann–Whitney U test, U ⫽ 3.000, p ⫽ 0.030). *p ⬍ 0.05. C, The percentage of regulatory T cells among (MOG-specific)
+CD4 ⫹ T cells was not affected by the group of donor 2D2 mice.
+
+recovery. In contrast, sensitization with
+myelin antigens worsens the outcome in
+experimental models of cerebral ischemia
+(Becker et al., 1997). The mechanisms that
+govern protective versus nonprotective
+autoreactive T-cell responses after CNS
+injury are not understood but may depend on antigen specificity and phenotype of effector T cells, autoregulatory
+mechanisms including activation of regulatory T cells, genetic background, and on
+other factors that determine the strength
+and timing of autoreactive T-cell activation (Becker et al., 1997; Moalem et al.,
+1999; Jones et al., 2002, 2005; Frenkel et
+al., 2003; Lewitus et al., 2006).
+Infections may stimulate antigenFigure 11. Infarct volumes, measured 24 h after MCAo (A), body temperature (B), and body weight (C) of Rag-1KO mice, which presenting cells leading to the activation
+were adoptively transferred 2 ⫻ 10 6 CD4 ⫹ T cells from naive (N ⫽ 10), vehicle-treated (N ⫽ 13), or SNS/HPA-blocked 2D2 donor of autoreactive T cells by otherwise innocmice (N ⫽ 13), did not differ significantly.
+uous antigens (Kissler et al., 2001; Hofstetter et al., 2003; Becker et al., 2011;
+Becker, 2012). In our experiments, we
+was increased in the SNS/HPA blockade compared with the veaimed to investigate direct effects of SIDS on CNS antigenhicle group. However, TGF-␤1 is not only produced by regulaspecific autoreactive immune responses. For the following reatory T cells but predominantly by activated microglia/
+sons, we treated all mice independently of group assignment with
+macrophages (Doyle et al., 2010). Thus, SIDS might prevent
+the fluoroquinolone antibiotic enrofloxacin in an infectionpotential harmful activation of T cells, including those reactive to
+preventive manner. Spontaneous poststroke pneumonia is
+CNS antigens, after brain injury.
+known to affect functional long-term outcome in experimental
+Others have demonstrated that T cells specific to myelin antistroke (Hetze et al., 2013). In addition, the risk of poststroke
+gens reduce secondary neurodegeneration and promote funcinfections increases with infarct size (Hug et al., 2009), and mice
+tional recovery after CNS injury (Moalem et al., 1999; Hauben et
+from the SNS/HPA blockade group had significantly smaller inal., 2000; Lewitus et al., 2006), indicating that autoimmune refarcts than mice from the vehicle group. Bacterial components,
+sponses may be protective under certain conditions. Interestsuch as lipopolysaccharide, might boost CNS antigen-specific auingly, induction of oral tolerance to myelin basic protein (Becker
+toreactive immune responses in experimental as well as human
+et al., 1997) or MOG (Frenkel et al., 2003) via nasal administration was found to reduce infarct size and improve functional
+stroke (Becker et al., 2005, 2011). Moreover, we have previously
+
+7790 • J. Neurosci., May 20, 2015 • 35(20):7777–7794
+
+Römer et al. • SIDS Block Increases CNS-Specific Autoreactivity
+
+demonstrated that blocking SNS not only
+blocks stroke-induced immunodepression but also prevents poststroke infections
+(Prass et al., 2003, 2006). Finally, we have
+identified spontaneous poststroke infections as a contributing factor for CNS
+antigen-specific autoreactive immune responses in the mouse MCAo model (Klehmet et al., unpublished). Thus, poststroke
+infection is an interfering factor for investigations on CNS antigen-specific
+autoreactive immune responses in stroke.
+Therefore, we performed all experiments
+under preventive antibiotic treatment
+with enrofloxacin. We cannot exclude direct immunomodulatory effects by enrofloxacin. However, these effects would
+rather underestimate the observed CNS
+antigen-specific autoreactive immune responses because fluoroquinolones might exert anti-inflammatory effects (Dalhoff and
+Shalit, 2003), and our results suggest that
+coping with infections is more efficient
+when SIDS is blocked.
+In line with previous studies on laboratory rodents (Vandeputte et al., 2010;
+Hetze et al., 2012; Li et al., 2013), mice
+displayed typical stroke-induced alterations in gait: asymmetry, increased stand
+duration and base of support, shorter
+stride lengths, reduced maximal contact
+area, and normalized swing speed. Additionally, with a median onset 9 –14 d after
+stroke, 2D2 mice developed an EAE-like
+phenotype. MOG-specific T cells, in particular CD4 ⫹ Th1 and Th17 cells, can mediate EAE (Linington et al., 1993; Genain
+et al., 1996; Stromnes et al., 2008; Bettini
+6
+⫹
+et al., 2009; Jäger et al., 2009). Neurologi- Figure 12. Following intravenous transfer of 2 ⫻ 10 CD4 T cells from naive (N ⫽ 10), vehicle-treated (N ⫽ 13), or
+cal deficits caused directly by stroke typi- SNS/HPA-blocked 2D2 donor mice (N ⫽ 13), Rag-1KO mice developed milder EAE-like disease symptoms (A; naive, N ⫽ 10;
+cally subside within the first week after vehicle, N ⫽ 9; SNS/HPA block, N ⫽ 9; data are median ⫾ range) compared with 2D2 mice. F-wave latencies (B; naive, N ⫽ 20;
+upon sciatic nerve stimulation (C) remained at baseline
+MCAo in mice. However, we observed vehicle, N ⫽ 16; SNS/HPA block, N ⫽ 14) and F-wave chronodispersion
+(N ⫽ 19). Immunological infiltrates, composed of Mac3 ⫹ and CD3 ⫹ cells, APP ⫹ inflamed axons in the spinal nerve roots (D;
+thereafter that 2D2 mice developed a dis- naive, N ⫽ 9; vehicle, N ⫽ 8; SNS/HPA block, N ⫽ 6) were ⬃4 times less frequent than in 2D2 mice.
+ease phenotype with symptoms reminiscent of EAE. Whereas stroke affects
+that SIDS prevents autoreactive immune responses, the
+predominantly the performance of forepaw contralaterally to the
+polyradiculitis-like phenotype was rather diminished by blocking
+ischemic lesion, EAE-like symptoms are characterized by proSIDS in 2D2 mice. These findings are difficult to interpret begressive and ascending weakness/paralysis of the tail and limbs.
+cause SNS/HPA blockade also reduced infarct size and might
+The EAE-like phenotype occurred within 1 and 3 weeks after
+reduce infection rate. However, our data suggest that neither
+MCAo. Whereas this phenotype has been consistently observed
+lesion size nor poststroke infection accounts for the protective
+in 2D2 mice, only a few wild-type mice develop mild EAE-like
+effect of SNS/HPA blockade against polyradiculitis. Moreover,
+symptoms (data not shown).
+adoptive transfer of 2D2 CD4 ⫹ T cells to Rag-1KO mice suggests
+The functional deficit in 2D2 mice manifesting clinically with
+that blockade of SIDS does not further deteriorate functional
+flaccid rather than spastic paralysis was reminiscent of polyradicoutcome after experimental stroke, including the polyradiculitisulitis, which was supported electrophysiologically with elongated
+like phenotype. This phenomenon needs to be addressed in furF-wave latencies, suggesting demyelination, and histologically
+ther studies.
+with infiltration of immune cells into the spinal nerve roots. This
+An unexpected finding of our study was the significantly infinding might be counterintuitive because most stroke patients
+farct
+volume reducing effect of SNS/HPA blockade, which might
+suffer from a functional deficit, which is well explained by the
+be responsible for the better survival and temperature maintecorresponding contralateral ischemic brain lesion. However, it
+nance. Both stress systems typically potentiate each other in their
+correlates with human studies demonstrating pathological ulnar
+effects (McEwen et al., 1987; Malbon and Hadcock, 1988; Mak et
+F-wave variables of severely affected unconscious stroke patients
+al., 1995). Because propranolol and mifepristone carry immuno(Chroni et al., 2006, 2007). In contrast to our primary hypothesis
+
+Römer et al. • SIDS Block Increases CNS-Specific Autoreactivity
+
+J. Neurosci., May 20, 2015 • 35(20):7777–7794 • 7791
+
+Figure 13. CD4 ⫹ T cells and Iba-1 ⫹ macrophages were found in Rag-1KO mice brains 30 d after MCAo and adoptive cell transfer from naive and treated 2D2 donors. The latter underwent MCAo.
+Images from CD4 (green) and Iba-1 (red) stained brain sections were taken from three regions indicated in A, B, with solid black line outlining ischemic core: Region 1, contralateral hemisphere;
+Region 2, nonischemic region adjacent to infarct in ipsilateral hemisphere; and Region 3, peri-infarct region in ipsilateral hemisphere. D–F, Thick arrow indicates the typical morphology of resting
+microglia with thin processes. G–I, Thick arrow indicates the morphology of activated microglia with an amoeboid-like shape, large cell body and thick processes. J–L, Immune cell infiltration was
+highest at and within ischemic core. C, Densities of CD4 ⫹ and Iba-1 ⫹ cells per mm 2 Rag-1 KO mouse brain ipsilateral hemisphere in SNS/HPA block (N ⫽ 4), naive (N ⫽ 8), and vehicle group (N ⫽
+8) 30 d after cell transfer and MCAo. VL, Vessel lumen. Scale bar, 20 ␮m.
+
+modulatory properties, the smaller infarct volumes might be due
+to effects on early infiltrating immune cells and brain resident
+cells. Furthermore, different subsets of lymphocytes can exert
+detrimental as well as protective functions in cerebral ischemia
+(Yilmaz et al., 2006; Hurn et al., 2007; Liesz et al., 2009, 2011;
+Shichita et al., 2009; Kleinschnitz et al., 2010, 2013). However,
+because stress blockade prevented the development of large infarcts very early after stroke onset, immune-mediated mechanisms as primary sources for this are unlikely. Mechanistically,
+we excluded delayed infarct maturation, which has been observed
+in experimental stroke when studying mechanisms of inflammation and apoptosis (Du et al., 1996; Becker et al., 1997; Frenkel et
+al., 2003). CBF has been shown to inversely correlate with infarct
+volume (Dalkara et al., 1994). Propranolol might affect CBF
+(Edvinsson et al., 1979; Ley et al., 2009). CBF, measured by
+FAIR-MRI, was not altered by SNS/HPA blockade. However, we
+cannot exclude that mild but prolonged CBF elevations, which
+are below the detection threshold of FAIR-MRI (Leithner et al.,
+2008), contribute to the neuroprotective mechanism of SNS/HPA
+blockade. Further possibilities might include induction of Heat
+shock protein 72 by ␤2-adrenoreceptor antagonist (Han et al., 2009)
+and antioxidant properties of mifepristone (Parthasarathy et al.,
+1994; Roberts et al., 1996; Behl et al., 1997; Antonawich et al., 1999;
+McCullers et al., 2002). Our data suggest that both mifepristone and
+propranolol are required to elicit neuroprotection in the SNS/HPA
+blockade group.
+
+A limitation of our study is that we have measured CNS
+antigen-specific autoreactivity only at one time point after experimental stroke. Although the Elispot is considered a very sensitive
+method, this assay requires a high number of brain-infiltrating T
+cells to reliably measure CNS antigen-specific T-cell responses.
+Therefore, we performed Elispot experiments only at that time
+point where the number of brain-infiltrating T cells was sufficiently high to receive robust data. In the MCAo model, T-cell
+infiltration into the brain parenchyma is highest at day 14 and day
+30 but relatively low at day 7 after stroke onset (Stubbe et al.,
+2013). Moreover, we considered this time window to be sufficient
+for MOG-specific CD4 ⫹ T cells to get primed (Janeway, 1989)
+and to differentiate into effector/memory T cells (Jäger et al.,
+2009). Another limitation of our study is that the main findings
+are based on investigations in 2D2 mice. Because the majority of
+their CD4 ⫹ T cells carry a functional receptor for MOG, finding
+on CNS antigen-specific autoreactivity is most likely an overestimation of the situation in wild-type mice. We observed, even in
+wild-type C57BL/6J mice, Th1 responses against MOG in brain
+infiltrating lymphocytes 14 d after MCAo. However, the frequencies were much lower compared with 2D2 mice and only observed in animals with accompanying poststroke infections
+(Klehmet et al., unpublished).
+The concept of SIDS has promoted the development of immunomodulatory treatment approaches for stroke (Shichita et
+al., 2009, 2012; Wong et al., 2011; Chamorro et al., 2012; Kamel
+
+7792 • J. Neurosci., May 20, 2015 • 35(20):7777–7794
+
+and Iadecola, 2012). Modulating SIDS, however, might be a
+double-edged-sword approach reducing the risk for infection at
+cost of boosting detrimental autoimmune response against CNS
+antigens and worsening functional long-term outcome (Meisel
+and Meisel, 2011). Here we provide evidence that reversing SIDS
+by blocking body’s stress axes increases autoreactive CNS
+antigen-specific immune responses in the brain but does not impair long-term functional outcome in our murine model of experimental stroke compared with vehicle treatment.
+
+References
+Adelmann M, Wood J, Benzel I, Fiori P, Lassmann H, Matthieu JM, Gardinier
+MV, Dornmair K, Linington C (1995) The N-terminal domain of the
+myelin oligodendrocyte glycoprotein (MOG) induces acute demyelinating experimental autoimmune encephalomyelitis in the Lewis rat. J Neuroimmunol 63:17–27. CrossRef Medline
+Ando DG, Clayton J, Kono D, Urban JL, Sercarz EE (1989) Encephalitogenic
+T-cells in the B10.Pl model of experimental allergic encephalomyelitis (EAE)
+are of the Th-1 lymphokine subtype. Cell Immunol 124:132–143. CrossRef
+Medline
+Antonawich FJ, Miller G, Rigsby DC, Davis JN (1999) Regulation of ischemic cell death by glucocorticoids and adrenocorticotropic hormone.
+Neuroscience 88:319 –325. CrossRef Medline
+Becker KJ (2012) Activation of immune responses to brain antigens after
+stroke. J Neurochem 123 [Suppl 2]:148 –155.
+Becker KJ, McCarron RM, Ruetzler C, Laban O, Sternberg E, Flanders KC,
+Hallenbeck JM (1997) Immunologic tolerance to myelin basic protein
+decreases stroke size after transient focal cerebral ischemia. Proc Natl
+Acad Sci U S A 94:10873–10878. CrossRef Medline
+Becker KJ, Kindrick DL, Lester MP, Shea C, Ye ZC (2005) Sensitization to
+brain antigens after stroke is augmented by lipopolysaccharide. J Cereb
+Blood Flow Metab 25:1634 –1644. CrossRef Medline
+Becker KJ, Kalil AJ, Tanzi P, Zierath DK, Savos AV, Gee JM, Hadwin J, Carter
+KT, Shibata D, Cain KC (2011) Autoimmune responses to the brain
+after stroke are associated with worse outcome. Stroke 42:2763–2769.
+CrossRef Medline
+Bederson JB, Pitts LH, Tsuji M, Nishimura MC, Davis RL, Bartkowski H
+(1986) Rat middle cerebral-artery occlusion: evaluation of the model and
+development of a neurologic examination. Stroke 17:472– 476. CrossRef
+Medline
+Behl C, Trapp T, Skutella T, Holsboer F (1997) Protection against oxidative
+stress-induced neuronal cell death: a novel role for RU486. Eur J Neurosci
+9:912–920. CrossRef Medline
+Bettelli E, Pagany M, Weiner HL, Linington C, Sobel RA, Kuchroo VK
+(2003) Myelin oligodendrocyte glycoprotein-specific T cell receptor
+transgenic mice develop spontaneous autoimmune optic neuritis. J Exp
+Med 197:1073–1081. CrossRef Medline
+Bettini M, Rosenthal K, Evavold BD (2009) Pathogenic MOG-reactive
+CD8 ⫹ T cells require MOG-reactive CD4 ⫹ T cells for sustained CNS
+inflammation during chronic EAE. J Neuroimmunol 213:60 – 68.
+CrossRef Medline
+Bornstein NM, Aronovich B, Korczyn AD, Shavit S, Michaelson DM, Chapman J (2001) Antibodies to brain antigens following stroke. Neurology
+56:529 –530. CrossRef Medline
+Brunner C, Lassmann H, Waehneldt TV, Matthieu JM, Linington C (1989) Differential ultrastructural-localization of myelin basic-protein, myelin oligodendroglial glycoprotein, and 2⬘,3⬘-cyclic nucleotide 3⬘-phosphodiesterase in the CNS of
+adult-rats. J Neurochem 52:296–304. CrossRef Medline
+Chamorro A, Urra X, Planas AM (2007) Infection after acute ischemic
+stroke: a manifestation of brain-induced immunodepression. Stroke 38:
+1097–1103. CrossRef Medline
+Chamorro Á, Meisel A, Planas AM, Urra X, van de Beek D, Veltkamp R
+(2012) The immunology of acute stroke. Nat Rev Neurol 8:401– 410.
+CrossRef Medline
+Chroni E, Katsoulas G, Argyriou AA, Sakellaropoulos GC, Polychronopoulos
+P, Nikiforidis G (2006) Level of consciousness as a conditioning factor
+of F wave generation in stroke patients. Clin Neurophysiol 117:315–319.
+CrossRef Medline
+Chroni E, Argyriou AA, Katsoulas G, Polychronopoulos P (2007) Ulnar F
+wave generation assessed within 3 days after the onset of stroke in patients
+
+Römer et al. • SIDS Block Increases CNS-Specific Autoreactivity
+with relatively preserved level of consciousness. Clin Neurol Neurosurg
+109:27–31. CrossRef Medline
+Cua DJ, Sherlock J, Chen Y, Murphy CA, Joyce B, Seymour B, Lucian L, To W,
+Kwan S, Churakova T, Zurawski S, Wiekowski M, Lira SA, Gorman D,
+Kastelein RA, Sedgwick JD (2003) Interleukin-23 rather than
+interleukin-12 is the critical cytokine for autoimmune inflammation of
+the brain. Nature 421:744 –748. CrossRef Medline
+Dalhoff A, Shalit I (2003) Immunomodulatory effects of quinolones. Lancet
+Infect Dis 3:359 –371. CrossRef Medline
+Dalkara T, Morikawa E, Panahian N, Moskowitz MA (1994) Blood flowdependent functional recovery in a rat model of focal cerebral ischemia.
+Am J Physiol 267:H678 –H683. Medline
+Dambinova SA, Khounteev GA, Izykenova GA, Zavolokov IG, Ilyukhina AY,
+Skoromets AA (2003) Blood test detecting autoantibodies to N-methylD-aspartate neuroreceptors for evaluation of patients with transient ischemic attack and stroke. Clin Chem 49:1752–1762. CrossRef Medline
+Dirnagl U, Members of the MCAO-SOP Group (2012) Standard operating
+procedures (SOP) in experimental stroke research: SOP for middle cerebral artery occlusion in the mouse. Nat Proc.
+Dirnagl U, Klehmet J, Braun JS, Harms H, Meisel C, Ziemssen T, Prass K,
+Meisel A (2007) Stroke-induced immunodepression: experimental evidence and clinical relevance. Stroke 38:770 –773. CrossRef Medline
+Doyle KP, Cekanaviciute E, Mamer LE, Buckwalter MS (2010) TGFbeta signaling in the brain increases with aging and signals to astrocytes and
+innate immune cells in the weeks after stroke. J Neuroinflammation 7:62.
+CrossRef Medline
+Du C, Hu R, Csernansky CA, Hsu CY, Choi DW (1996) Very delayed infarction after mild focal cerebral ischemia: a role for apoptosis? J Cereb Blood
+Flow Metab 16:195–201. CrossRef Medline
+Edvinsson L, Lacombe P, Owman C, Reynier-Rebuffel AM, Seylaz J (1979)
+Quantitative changes in regional cerebral blood-flow of rats induced by
+alpha-adrenergic and beta-adrenergic stimulants. Acta Physiol Scand 107:
+289 –296. CrossRef Medline
+Elenkov IJ, Wilder RL, Chrousos GP, Vizi ES (2000) The sympathetic nerve,
+an integrative interface between two supersystems: the brain and the immune system. Pharmacol Rev 52:595– 638. Medline
+Emsley HC, Hopkins SJ (2008) Acute ischaemic stroke and infection: recent
+and emerging concepts. Lancet Neurol 7:341–353. CrossRef Medline
+Engel O, Meisel A (2010) Models of infection before and after stroke: investigating new targets. Infect Disord Drug Targets 10:98 –104. CrossRef
+Medline
+Finlayson O, Kapral M, Hall R, Asllani E, Selchen D, Saposnik G (2011) Risk
+factors, inpatient care, and outcomes of pneumonia after ischemic stroke.
+Neurology 77:1338 –1345. CrossRef Medline
+Fisher MA (2007) F-waves-physiology and clinical uses. Sci World J 7:144 –
+160. CrossRef Medline
+Frenkel D, Huang Z, Maron R, Koldzic DN, Hancock WW, Moskowitz MA,
+Weiner HL (2003) Nasal vaccination with myelin oligodendrocyte glycoprotein reduces stroke size by inducing IL-10-producing CD4(⫹) T
+cells. J Immunol 171:6549 – 6555. CrossRef Medline
+Global Burden of Disease Study (2012) Global Burden of Disease Study
+2010. Lancet 380:2053–2260.
+Gee JM, Kalil A, Thullbery M, Becker KJ (2008) Induction of immunologic
+tolerance to myelin basic protein prevents central nervous system autoimmunity and improves outcome after stroke. Stroke 39:1575–1582.
+CrossRef Medline
+Gee JM, Zierath D, Hadwin J, Savos A, Kalil A, Thullbery M, Becker KJ
+(2009) Long term immunologic consequences of experimental stroke
+and mucosal tolerance. Exp Transl Stroke Med 1:3. CrossRef Medline
+Genain CP, Abel K, Belmar N, Villinger F, Rosenberg DP, Linington C, Raine
+CS, Hauser SL (1996) Late complications of immune deviation therapy
+in a nonhuman primate. Science 274:2054 –2057. CrossRef Medline
+Han RQ, Ouyang YB, Xu L, Agrawal R, Patterson AJ, Giffard RG (2009)
+Postischemic brain injury is attenuated in mice lacking the beta2adrenergic receptor. Anesth Analg 108:280 –287. CrossRef Medline
+Hauben E, Nevo U, Yoles E, Moalem G, Agranov E, Mor F, Akselrod S,
+Neeman M, Cohen IR, Schwartz M (2000) Autoimmune T cells as potential neuroprotective therapy for spinal cord injury. Lancet 355:286 –
+287. CrossRef Medline
+Hetze S, Römer C, Teufelhart C, Meisel A, Engel O (2012) Gait analysis as a
+method for assessing neurological outcome in a mouse model of stroke.
+J Neurosci Methods 206:7–14. CrossRef Medline
+
+Römer et al. • SIDS Block Increases CNS-Specific Autoreactivity
+Hetze S, Engel O, Römer C, Mueller S, Dirnagl U, Meisel C, Meisel A (2013)
+Superiority of preventive antibiotic treatment compared with standard
+treatment of poststroke pneumonia in experimental stroke: a bed to
+bench approach. J Cereb Blood Flow Metab 33:846 – 854. CrossRef
+Medline
+Hofstetter HH, Sewell DL, Liu F, Sandor M, Forsthuber T, Lehmann PV,
+Fabry Z (2003) Autoreactive T cells promote post-traumatic healing in
+the central nervous system. J Neuroimmunol 134:25–34. CrossRef
+Medline
+Hug A, Dalpke A, Wieczorek N, Giese T, Lorenz A, Auffarth G, Liesz A,
+Veltkamp R (2009) Infarct volume is a major determiner of post-stroke
+immune cell function and susceptibility to infection. Stroke 40:3226 –
+3232. CrossRef Medline
+Hurn PD, Subramanian S, Parker SM, Afentoulis ME, Kaler LJ, Vandenbark
+AA, Offner H (2007) T- and B-cell-deficient mice with experimental
+stroke have reduced lesion size and inflammation. J Cereb Blood Flow
+Metab 27:1798 –1805. CrossRef Medline
+Jäger A, Dardalhon V, Sobel RA, Bettelli E, Kuchroo VK (2009) Th1, Th17,
+and Th9 effector cells induce experimental autoimmune encephalomyelitis with different pathological phenotypes. J Immunol 183:7169 –7177.
+CrossRef Medline
+Janeway CA Jr (1989) The priming of helper T cells. Semin Immunol 1:13–20.
+Medline
+Jones TB, Basso DM, Sodhi A, Pan JZ, Hart RP, MacCallum RC, Lee S,
+Whitacre CC, Popovich PG (2002) Pathological CNS autoimmune disease triggered by traumatic spinal cord injury: implications for autoimmune vaccine therapy. J Neurosci 22:2690 –2700. Medline
+Jones TB, Hart RP, Popovich PG (2005) Molecular control of physiological
+and pathological T-cell recruitment after mouse spinal cord injury. J Neurosci 25:6576 – 6583. CrossRef Medline
+Kamel H, Iadecola C (2012) Brain-immune interactions and ischemic
+stroke: clinical implications. Arch Neurol 69:576 –581. CrossRef Medline
+Katzan IL, Cebul RD, Husak SH, Dawson NV, Baker DW (2003) The effect
+of pneumonia on mortality among patients hospitalized for acute stroke.
+Neurology 60:620 – 625. CrossRef Medline
+Kissler S, Anderton SM, Wraith DC (2001) Antigen-presenting cell activation: a link between infection and autoimmunity? J Autoimmun 16:303–
+308. CrossRef Medline
+Kleinschnitz C, Kraft P, Dreykluft A, Hagedorn I, Göbel K, Schuhmann MK,
+Langhauser F, Helluy X, Schwarz T, Bittner S, Mayer CT, Brede M, Varallyay C, Pham M, Bendszus M, Jakob P, Magnus T, Meuth SG, Iwakura Y,
+Zernecke A, et al. (2013) Regulatory T cells are strong promoters of
+acute ischemic stroke in mice by inducing dysfunction of the cerebral
+microvasculature. Blood 121:679 – 691. CrossRef Medline
+Kleinschnitz C, Schwab N, Kraft P, Hagedorn I, Dreykluft A, Schwarz T,
+Austinat M, Nieswandt B, Wiendl H, Stoll G (2010) Early detrimental
+T-cell effects in experimental cerebral ischemia are neither related to
+adaptive immunity nor thrombus formation. Blood 115:3835–3842.
+CrossRef Medline
+Koennecke HC, Belz W, Berfelde D, Endres M, Fitzek S, Hamilton F, Kreitsch
+P, Mackert BM, Nabavi DG, Nolte CH, Pöhls W, Schmehl I, Schmitz B,
+von Brevern M, Walter G, Heuschmann PU, Berlin Stroke Register I
+(2011) Factors influencing in-hospital mortality and morbidity in patients treated on a stroke unit. Neurology 77:965–972. CrossRef Medline
+Kuchroo VK, Anderson AC, Waldner H, Munder M, Bettelli E, Nicholson LB
+(2002) T-cell response in experimental autoimmune encephalomyelitis
+(EAE): role of self and cross-reactive antigens in shaping, tuning, and
+regulating the autopathogenic T cell repertoire. Annu Rev Immunol 20:
+101–123. CrossRef Medline
+Kumar S, Selim MH, Caplan LR (2010) Medical complications after stroke.
+Lancet Neurol 9:105–118. CrossRef Medline
+Langrish CL, Chen Y, Blumenschein WM, Mattson J, Basham B, Sedgwick JD,
+McClanahan T, Kastelein RA, Cua DJ (2005) IL-23 drives a pathogenic
+T cell population that induces autoimmune inflammation. J Exp Med
+201:233–240. CrossRef Medline
+Leithner C, Gertz K, Schröck H, Priller J, Prass K, Steinbrink J, Villringer A,
+Endres M, Lindauer U, Dirnagl U, Royl G (2008) A flow sensitive alternating inversion recovery (FAIR)-MRI protocol to measure hemispheric
+cerebral blood flow in a mouse stroke model. Exp Neurol 210:118 –127.
+CrossRef Medline
+Leithner C, Müller S, Füchtemeier M, Lindauer U, Dirnagl U, Royl G (2010)
+
+J. Neurosci., May 20, 2015 • 35(20):7777–7794 • 7793
+Determination of the brain-blood partition coefficient for water in mice
+using MRI. J Cereb Blood Flow Metab 30:1821–1824. CrossRef Medline
+Lewitus GM, Kipnis J, Avidan H, Ben-Nun A, Schwartz M (2006) Neuroprotection induced by mucosal tolerance is epitope-dependent: conflicting effects in different strains. J Neuroimmunol 175:31–38. CrossRef
+Medline
+Ley EJ, Scehnet J, Park R, Schroff S, Dagliyan G, Conti PS, Margulies DR,
+Salim A (2009) The in vivo effect of propranolol on cerebral perfusion
+and hypoxia after traumatic brain injury. J Trauma 66:154 –159; discussion 159 –161. CrossRef Medline
+Li S, Shi Z, Zhang H, Liu X, Chen S, Jin J, Wang Y, Jia W, Li H (2013)
+Assessing gait impairment after permanent middle cerebral artery occlusion in rats using an automated computer-aided control system. Behav
+Brain Res 250C:174 –191. CrossRef Medline
+Liesz A, Suri-Payer E, Veltkamp C, Doerr H, Sommer C, Rivest S, Giese T,
+Veltkamp R (2009) Regulatory T cells are key cerebroprotective immunomodulators in acute experimental stroke. Nat Med 15:192–199.
+CrossRef Medline
+Liesz A, Zhou W, Mracskó É, Karcher S, Bauer H, Schwarting S, Sun L, Bruder
+D, Stegemann S, Cerwenka A, Sommer C, Dalpke AH, Veltkamp R
+(2011) Inhibition of lymphocyte trafficking shields the brain against deleterious neuroinflammation after stroke. Brain 134:704 –720. CrossRef
+Medline
+Linington C, Berger T, Perry L, Weerth S, Hinze-Selch D, Zhang Y, Lu HC,
+Lassmann H, Wekerle H (1993) T cells specific for the myelin oligodendrocyte glycoprotein mediate an unusual autoimmune inflammatory response in the central nervous system. Eur J Immunol 23:1364 –1372.
+CrossRef Medline
+Livnat S, Felten SY, Carlson SL, Bellinger DL, Felten DL (1985) Involvement
+of peripheral and central catecholamine systems in neural-immune interactions. J Neuroimmunol 10:5–30. CrossRef Medline
+MacDonald KD, Chang HY, Mitzner W (2009) An improved simple
+method of mouse lung intubation. J Appl Physiol 106:984 –987. CrossRef
+Medline
+Mak JC, Nishikawa M, Shirasaki H, Miyayasu K, Barnes PJ (1995) Protective effects of a glucocorticoid on downregulation of pulmonary beta
+2-adrenergic receptors in vivo. J Clin Invest 96:99 –106. CrossRef Medline
+Malbon CC, Hadcock JR (1988) Evidence that glucocorticoid response elements in the 5⬘-noncoding region of the hamster beta 2-adrenergic receptor gene are obligate for glucocorticoid regulation of receptor mRNA
+levels. Biochem Biophys Res Commun 154:676 – 681. CrossRef Medline
+McCullers DL, Sullivan PG, Scheff SW, Herman JP (2002) Mifepristone
+protects CA1 hippocampal neurons following traumatic brain injury in
+rat. Neuroscience 109:219 –230. CrossRef Medline
+McEwen B, Brinton R, Harrelson A, Rostene W (1987) Modulatory interactions between steroid hormones, neurotransmitters and neuropeptides
+in hippocampus. Adv Biochem Psychopharmacol 43:87–102. Medline
+Meisel A, Meisel C (2008) Stroke-induced immunodepression: consequences, mechanisms and therapeutic implications. Future Neurol
+3:551–563. CrossRef
+Meisel C, Meisel A (2011) Suppressing immunosuppression after stroke.
+N Engl J Med 365:2134 –2136. CrossRef Medline
+Meisel C, Prass K, Braun J, Victorov I, Wolf T, Megow D, Halle E, Volk HD,
+Dirnagl U, Meisel A (2004) Preventive antibacterial treatment improves
+the general medical and neurological outcome in a mouse model of
+stroke. Stroke 35:2– 6. CrossRef Medline
+Meisel C, Schwab JM, Prass K, Meisel A, Dirnagl U (2005) Central nervous
+system injury-induced immune deficiency syndrome. Nat Rev Neurosci
+6:775–786. CrossRef Medline
+Millan M, Davalos A (2006) The need for new therapies for acute ischaemic
+stroke. Cerebrovasc Dis 22:3–9. CrossRef
+Moalem G, Leibowitz-Amit R, Yoles E, Mor F, Cohen IR, Schwartz M (1999)
+Autoimmune T cells protect neurons from secondary degeneration after
+central nervous system axotomy. Nat Med 5:49 –55. CrossRef Medline
+Parthasarathy S, Morales AJ, Murphy AA (1994) Antioxidant: a new role for
+RU-486 and related compounds. J Clin Invest 94:1990 –1995. CrossRef
+Medline
+Prass K, Meisel C, Höflich C, Braun J, Halle E, Wolf T, Ruscher K, Victorov
+IV, Priller J, Dirnagl U, Volk HD, Meisel A (2003) Stroke-induced immunodeficiency promotes spontaneous bacterial infections and is mediated by sympathetic activation reversal by poststroke T helper cell type
+1-like immunostimulation. J Exp Med 198:725–736. CrossRef Medline
+
+7794 • J. Neurosci., May 20, 2015 • 35(20):7777–7794
+Prass K, Braun JS, Dirnagl U, Meisel C, Meisel A (2006) Stroke propagates
+bacterial aspiration to pneumonia in a model of cerebral ischemia. Stroke
+37:2607–2612. CrossRef Medline
+Rivers TM, Sprunt DH, Berry GP (1933) Observations on attempts to produce acute disseminated encephalomyelitis in monkeys. J Exp Med 58:
+39 –53. CrossRef Medline
+Roberts CP, Murphy AA, Santanam N, Parthasarathy S (1996) The effect of
+RU 486 and related compounds on cultured macrophage differentiation
+and function. Am J Obstet Gynecol 175:248 –257; discussion 257–259.
+CrossRef Medline
+Rocco A, Fam G, Sykora M, Diedler J, Nagel S, Ringleb P (2013) Poststroke
+infections are an independent risk factor for poor functional outcome
+after three-months in thrombolysed stroke patients. Int J Stroke 8:639 –
+644. CrossRef Medline
+Royl G, Balkaya M, Lehmann S, Lehnardt S, Stohlmann K, Lindauer U, Endres M, Dirnagl U, Meisel A (2009) Effects of the PDE5-inhibitor vardenafil in a mouse stroke model. Brain Res 1265:148 –157. CrossRef
+Medline
+Sanders VM, Baker RA, Ramer-Quinn DS, Kasprowicz DJ, Fuchs BA, Street
+NE (1997) Differential expression of the beta2-adrenergic receptor by
+Th1 and Th2 clones: implications for cytokine production and B cell help.
+J Immunol 158:4200 – 4210. Medline
+Shichita T, Sugiyama Y, Ooboshi H, Sugimori H, Nakagawa R, Takada I,
+Iwaki T, Okada Y, Iida M, Cua DJ, Iwakura Y, Yoshimura A (2009)
+Pivotal role of cerebral interleukin-17-producing gamma␦T cells in the
+delayed phase of ischemic brain injury. Nat Med 15:946 –950. CrossRef
+Medline
+Shichita T, Ago T, Kamouchi M, Kitazono T, Yoshimura A, Ooboshi H
+(2012) Novel therapeutic strategies targeting innate immune responses
+and early inflammation after stroke. J Neurochem 123 [Suppl 2]:29 –38.
+Stromnes IM, Cerretti LM, Liggitt D, Harris RA, Goverman JM (2008) Differential regulation of central nervous system autoimmunity by T(H)1
+and T(H)17 cells. Nat Med 14:337–342. CrossRef Medline
+Stubbe T, Ebner F, Richter D, Engel O, Randolf Engel O, Klehmet J, Royl G,
+Meisel A, Nitsch R, Meisel C, Brandt C (2013) Regulatory T cells accumulate and proliferate in the ischemic hemisphere for up to 30 days after
+MCAO. J Cereb Blood Flow Metab 33:37– 47. CrossRef Medline
+
+Römer et al. • SIDS Block Increases CNS-Specific Autoreactivity
+Tischner D, Reichardt HM (2007) Glucocorticoids in the control of neuroinflammation. Mol Cell Endocrinol 275:62–70. CrossRef Medline
+Tracey KJ (2002) The inflammatory reflex. Nature 420:853– 859. CrossRef
+Medline
+Tuosto L, Cundari E, Gilardini Montani MS, Piccolella E (1994) Analysis of
+susceptibility of mature human T lymphocytes to dexamethasoneinduced apoptosis. Eur J Immunol 24:1061–1065. CrossRef Medline
+Vandeputte C, Taymans JM, Casteels C, Coun F, Ni Y, Van Laere K, Baekelandt V (2010) Automated quantitative gait analysis in animal models of
+movement disorders. BMC Neurosci 11:92. CrossRef Medline
+Vega JL, Ganea D, Jonakait GM (2003) Acute down-regulation of antibody
+production following spinal cord injury: role of systemic catecholamines.
+J Neuropathol Exp Neurol 62:848 – 854. Medline
+Vogelgesang A, Becker KJ, Dressel A (2014) Immunological consequences
+of ischemic stroke. Acta Neurol Scand 129:1–12. CrossRef Medline
+Wang FI, Hinton DR, Gilmore W, Trousdale MD, Fleming JO (1992) Sequential infection of glial cells by the murine hepatitis virus JHM strain
+(MHV-4) leads to a characteristic distribution of demyelination. Lab Invest 66:744 –754. Medline
+Westendorp WF, Nederkoorn PJ, Vermeij JD, Dijkgraaf MG, van de Beek D
+(2011) Post-stroke infection: a systematic review and meta-analysis.
+BMC Neurol 11:110. CrossRef Medline
+Whalen MM, Bankhurst AD (1990) Effects of beta-adrenergic receptor activation, cholera toxin and forskolin on human natural killer cell function. Biochem J 272:327–331. Medline
+Woiciechowsky C, Schoning B, Lanksch WR, Volk HD, Docke WD (1999)
+Mechanisms of brain-mediated systemic anti-inflammatory syndrome
+causing immunodepression. J Mol Med (Berl) 77:769 –780. CrossRef
+Medline
+Wong CH, Jenne CN, Lee WY, Léger C, Kubes P (2011) Functional innervation of hepatic iNKT cells is immunosuppressive following stroke. Science 334:101–105. CrossRef Medline
+Yilmaz G, Arumugam TV, Stokes KY, Granger DN (2006) Role of T lymphocytes and interferon-gamma in ischemic stroke. Circulation 113:
+2105–2112. CrossRef Medline
+
+

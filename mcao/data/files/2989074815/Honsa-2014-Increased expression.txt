@@ -1,0 +1,1383 @@
+RESEARCH ARTICLE
+
+Increased Expression of HyperpolarizationActivated Cyclic Nucleotide-Gated (HCN)
+Channels in Reactive Astrocytes Following
+Ischemia
+Pavel Honsa,1 Helena Pivonkova,1 Lenka Harantova,1 Olena Butenko,1 Jan Kriska,1
+David Dzamba,1 Vendula Rusnakova,2 Lukas Valihrach,2 Mikael Kubista,2
+and Miroslava Anderova1
+Astrocytes respond to ischemic brain injury by proliferation, the increased expression of intermediate filaments and hypertrophy, which results in glial scar formation. In addition, they alter the expression of ion channels, receptors and transporters
+that maintain ionic/neurotransmitter homeostasis. Here, we aimed to demonstrate the expression of Hcn1–4 genes encoding
+hyperpolarization-activated cyclic nucleotide-gated (HCN) channels in reactive astrocytes following focal cerebral ischemia
+(FCI) or global cerebral ischemia (GCI) and to characterize their functional properties. A permanent occlusion of the middle
+cerebral artery (MCAo) was employed to induce FCI in adult GFAP/EGFP mice, while GCI was induced by transient bilateral
+common carotid artery occlusion combined with hypoxia in adult rats. Using FACS, we isolated astrocytes from non-injured or
+ischemic brains and performed gene expression profiling using single-cell RT-qPCR. We showed that 2 weeks after ischemia
+reactive astrocytes express high levels of Hcn1–4 transcripts, while immunohistochemical analyses confirmed the presence of
+HCN1–3 channels in reactive astrocytes 5 weeks after ischemia. Electrophysiological recordings revealed that post-ischemic
+astrocytes are significantly depolarized, and compared with astrocytes from non-injured brains, they display large
+hyperpolarization-activated inward currents, the density of which increased 2–3-fold in response to ischemia. Their activation
+was facilitated by cAMP and their amplitudes were decreased by ZD7288 or low extracellular Na1 concentration, suggesting
+that they may belong to the family of HCN channels. Collectively, our results demonstrate that regardless of the type of
+ischemic injury, reactive astrocytes express HCN channels, which could therefore be an important therapeutic target in poststroke therapy.
+GLIA 2014;62:2004–2021
+
+Key words: astrocytes, focal and global cerebral ischemia, HCN channels, ZD7288, cortex, hippocampus
+
+Introduction
+
+F
+
+ollowing central nervous system (CNS) injury astrocytes
+undergo changes in their morphology as well as functional properties. Within several days, they transform into
+reactive astrocytes, which are characterized by hypertrophied
+morphology and the increased expression of glial fibrillary
+acidic protein (GFAP), vimentin and nestin; moreover, a subset of astrocytes starts to proliferate. The functions of reactive
+astrocytes are numerous and diverse. They modulate the
+
+inflammatory response, produce molecules of extracellular
+matrix (Ridet et al., 1997), reduce the impact of ionic imbalance and separate healthy tissue from the core of the injury,
+thus preventing the propagation of seizure activity from the
+injured to the healthy tissue (Faulkner, 2004; Sofroniew and
+Vinters, 2009). Some of these functions directly depend on
+the composition of the ion channels in the astrocytic cytoplasmic membrane, which substantially change in response to
+CNS injury. A large number of studies has described marked
+
+View this article online at wileyonlinelibrary.com. DOI: 10.1002/glia.22721
+Published online July 14, 2014 in Wiley Online Library (wileyonlinelibrary.com). Received Dec 16, 2013, Accepted for publication July 2, 2014.
+Address correspondence to Miroslava Anderova, Institute of Experimental Medicine ASCR, Videnska 1083, Prague 4, 14220 Czech Republic. E-mail:
+anderova@biomed.cas.cz
+From the 1Department of Cellular Neurophysiology, Institute of Experimental Medicine, Academy of Sciences of the Czech Republic, Prague 4, 14220, Czech
+Republic; 2Laboratory of Gene Expression, Institute of Biotechnology, Academy of Sciences of the Czech Republic, Prague 4, 14220, Czech Republic.
+
+C 2014 Wiley Periodicals, Inc.
+2004 V
+
+Honsa et al.: HCN Channels in Reactive Astrocytes
+
+changes in the expression of different K1 channels (Perillan
+et al., 2000; Kang et al., 2008; Lichter-Konecki et al., 2008)
+in response to CNS pathology, with respect to the type of
+CNS disorders, the proliferative activity of the astrocytes or
+even their distance from the site of injury (for review see,
+Chvatal et al., 2008). In addition, non-selective cationic channels, which are functionally coupled to sulfonylurea receptor
+type 1, were identified in reactive astrocytes (Chen and
+Simard, 2001; Chen et al., 2003). One of the potential candidates for nonspecific cationic influx into astrocytes is the family of hyperpolarization-activated cyclic nucleotide-gated
+(HCN) channels, which were considered to be expressed only
+in excitable cells; nevertheless, their transcripts have been
+recently identified also in primary astrocytic cultures (Li
+et al., 2011) and adult post-ischemic astrocytes (Rusnakova
+et al., 2013). This family of channels is coded by four genes,
+Hcn1–4, which were cloned a decade ago (Marx et al., 1999),
+and their protein products can form homotetramers as well as
+heterotetramers in the cell membrane. They are primarily permeable for Na1 and K1 in the ratio 1:4 (Biel et al., 2009;
+Wahl-Schott and Biel, 2008). Their expression and function
+has been described in neurons, where they are activated at
+hyperpolarized membrane potentials, and HCN2 and HCN4
+are modulated by the direct binding of cAMP as a response
+to hormones or neurotransmitters. In neurons, they stabilize
+the membrane potential and are involved in the process of
+dendritic integration, constraining long-term potentiation and
+playing an important role in synaptic transmission (Lewis and
+Chetkovich, 2011). One of the most important features of
+HCN channels is their contribution to membrane potential
+oscillations in neuronal or cardiac cells (Biel et al., 2009;
+Wahl-Schott and Biel, 2008).
+In this study we aimed to detect the expression of
+HCN channels in cortical or hippocampal astrocytes under
+physiological as well as ischemic conditions employing permanent focal cerebral ischemia in adult GFAP/EGFP mice or
+transient global cerebral ischemia in adult rats. We performed
+single-cell RT-qPCR, immunohistochemistry and the patch–
+clamp recordings to characterize the HCN channels in postischemic astrocytes in both types of ischemic injury on
+mRNA, protein and functional levels.
+
+Materials and Methods
+Induction of Focal Cerebral Ischemia (FCI) in Adult
+GFAP/EGFP Mice
+All procedures involving the use of laboratory animals were performed
+in accordance with the European Communities Council Directive 24
+November 1986 (86/609/EEC) and animal care guidelines approved
+by the Institute of Experimental Medicine, Academy of Sciences of
+the Czech Republic (Animal Care Committee on April 7, 2011;
+approval number 018/2011). All efforts were made to minimize both
+
+December 2014
+
+the suffering and the number of animals used. Experiments were performed on Wistar rats, GFAP/EGFP transgenic mice [line designation
+TgN(GFAP-EGFP)], in which the expression of enhanced green fluorescent protein (EGFP) is controlled by the human GFAP promoter
+(Nolte et al., 2001) and on Tg(Slc1a3-cre/ERT)1Nat/J/B6;129S6Gt(ROSA)26Sortm14(CAG-tdTomato)Hze/J (Slc1a3/Tomato) transgenic mice
+(Jackson Laboratory, Bar Harbor, Maine, USA).
+Prior to the induction of focal ischemia, 50-day-old mice were
+anaesthetized with 1.5% isoflurane (Abbot, Illinois, USA) and maintained in 1% isoflurane using a vaporizer (Tec-3, Cyprane, Keighley,
+UK). A skin incision between the orbit and the external auditory
+meatus was made, and a 1–2 mm hole was drilled through the frontal bone 1 mm rostral to the fusion of the zygoma and the squamosal bone and about 3.5 mm ventrally to the dorsal surface of the
+brain. The middle cerebral artery (MCA) was exposed after the dura
+was opened and removed. The MCA was occluded by short coagulation with bipolar tweezers (SMT, Czech Republic) at a proximal
+location, followed by transection of the vessel to ensure permanent
+occlusion. During the surgery, body temperature was maintained at
+37 6 1 C using a heating pad. Sham-operated animals (controls)
+were subjected to the same surgery procedure, without dura opening
+and vessel occlusion. The numbers of mice used in the experiments
+were 19 in the control group (RT-qPCR, immunohistochemistry,
+electrophysiology), four animals at 7 days (D7) after FCI (RTqPCR), five animals at 2 weeks (2W) after FCI (RT-qPCR, immunohistochemistry, electrophysiology) and 22 animals at 5 weeks
+(5W) after FCI (immunohistochemistry, electrophysiology). This
+MCA occlusion (MCAo) model yields small infarct lesions in the
+cortical region (Honsa et al., 2012, 2013).
+
+Induction of Global Cerebral Ischemia (GCI) in Adult
+Rats
+Wistar rats (males, 7-9-week-old, 220–260 g) were premedicated
+with atropin (100 lg/kg, s.c.; Biotika, Slovak Republic) and anesthetized with sodium pentobarbital (PTB; 65 mg/kg, i.p.). The rats
+were intubated using a cannula tube (Abbocath-T 16G, Abbott,
+Sligo, Ireland) and connected to a mechanical ventilator [33.3% O2
+and 66.6% N2; rate 60 cycles/minutes (min); animal ventilator CIV101, Columbus Instruments, Columbus, OH, USA] with an appropriate stroke volume to maintain normocapnia. Both common
+carotid arteries were exposed and occluded for 15 min using aneurism clips. During occlusion, rats were concurrently ventilated with
+6% O2 and 94% N2 (Linde Gas, Prague, Czech Republic) as
+described previously (Anderova et al., 2010; Pivonkova et al., 2010).
+The core temperature was maintained at 37 C with a heating pad
+throughout the procedure and recovery from anesthesia. After the
+operation, the rats were injected with 2 mL saline s.c. in the hip
+area to prevent dehydration. They were left to survive (reperfusion
+period) for 2 or 5W prior to sacrifice. The animals were housed
+individually and allowed food and water ad libitum. Controls
+received exactly the same surgical procedure without artery
+occlusion. The numbers of rats used in the experiments were 23 in
+the
+control
+group
+(RT-qPCR,
+immunohistochemistry,
+electrophysiology), 2 animals at 2W after GCI (RT-qPCR) and 17
+animals at 5W after GCI (RT-qPCR, immunohistochemistry,
+
+2005
+
+electrophysiology). GCI induced by bilateral common carotid artery
+occlusion and concurrent hypoxia triggered pyramidal cell damage
+and the formation of a glial scar in the CA1 region of the
+hippocampus.
+
+Preparation of a Single Cell Suspension from the
+Mouse Cortex or Rat Hippocampus
+A 50-day-old mice (control) or mice D7 or 2W after FCI were
+deeply anesthetized with PTB (100 mg/kg, i.p.), and perfused transcardially with cold (4–8 C) isolation buffer containing (in mM):
+NaCl 136.0, KCl 5.4, Hepes 10.0, glucose 5.5, osmolality 290 6 3
+mOsmol/kg. The forebrain was isolated by the removal of the olfactory lobes, the cerebellum, and the midbrain/hindbrain structures by
+dissection. To isolate the cerebral cortex, the brain (12 to 22 mm
+from bregma) was sliced into 600 mm coronal sections using a
+vibrating microtome HM650V (MICROM International GmbH,
+Germany), and the dorsal cerebral cortex was carefully dissected out
+from the ventral white matter tracks.
+Adult control rats or rats 2W after GCI were deeply anesthetized with PTB (100 mg/kg, i.p.), and perfused transcardially with
+cold (4–8 C) isolation buffer. To isolate the hippocampus, the brain
+(22 to 26 mm from bregma) was sliced into 600 mm coronal sections and the hippocampus was carefully dissected.
+The collected tissues were incubated with continuous shaking
+at 37 C for 60 min in 5 mL of papain solution (20 U/mL) and
+0.2 mL DNase (both from Worthington, NJ) prepared in isolation
+buffer. After papain treatment, the tissue was mechanically dissociated by gentle trituration using a 1 mL pipette. Dissociated cells
+were layered on the top of 5 mL of Ovomucoid inhibitor solution
+(Worthington) and harvested by centrifugation (140 3 g for 6 min).
+This method routinely yielded 2 3 106 cells per mouse or rat
+brain. Cell aggregates were removed by filtering with 30 mm cell
+strainers (Becton Dickinson, NJ), and the cells were kept on ice
+until sorting.
+
+Collection of Single Cells
+Single cells were sorted using flow cytometry (FACS; BD Influx, San
+Jose, CA). The flow cytometer was manually calibrated to deposit a
+single cell in the centre of each collection tube. Hoechst 33258 (Life
+Technologies, Carlsbad, CA) was added to the suspension of cells to
+check viability. Single cells were collected into 96-well plates (Life
+Technologies) containing 5 lL nuclease-free water with bovine serum
+albumin (1 mg/lL, Fermentas, Rockford, IL) and RNaseOut 20 U
+(Life Technologies). The plates were placed on a pre-cooled rack.
+The mouse cells were collected based on EGFP or Tomato fluorescence and viability. We tested the rate of contamination with nonfluorescent cells and determined that only 6.4% of the collected cells
+expressed microglial or neuronal markers.
+The rat cells were collected based on size and viability. Cells
+collected in 96-well plates were immediately placed at 280 C.
+
+Single-Cell Gene Expression Profiling of Mouse
+Astrocytes
+The steps of gene expression analysis of mouse astrocytes followed
+the protocol described in (Rusnakova et al., 2013). Briefly, RNA
+
+2006
+
+from single cells was transcribed into cDNA directly in the wells of
+96-well plates. Samples were divided into two aliquots. The first aliquots were used for pre-testing, where the expression of two astrocytic markers was determined (Slc1a3 and Glul). Only cells
+expressing at least one marker were selected for further analysis. To
+increase the sensitivity of RT-qPCR, the second aliquots of cDNA
+from preselected cells were first preamplified. Subsequently, such preprocessed samples were analyzed for the expression of 14 genes of
+interest (Table 1) using the BioMark qPCR platform (Fluidigm, San
+Francisco, CA). All qPCR reactions were run in technical duplicates.
+Data were analysed in GenEx software (MultiD, Sweden).
+
+Single-Cell Gene Expression Profiling of Rat
+Astrocytes
+cDNA synthesis was performed as described in Benesova et al.
+(2012). The total volume of cDNA was divided into two aliquots.
+The first aliquot was diluted fourfold and used in qPCR to determine Gfap expression. This expression served as a marker for the
+identification of astrocytes. The second aliquot of cDNA was used
+to determine Hcn1–4 expression in Gfap-positive cells. To increase
+the sensitivity of RT-qPCR, the cDNA was first preamplified using
+the protocol described in (Rusnakova et al., 2013). Instead of using
+primer mix for 48 genes, a mix containing primers for 9 genes
+(Table 2) was used. Preamplified cDNA was diluted fourfold and
+used in qPCR to determine Hcn1–4 expression. Primer design as
+well as qPCR were performed according to the protocol described in
+(Benesova et al., 2012). All qPCR reactions were run in technical
+duplicates. Data were pre-processed and analyzed in GenEx software
+(MultiD).
+
+Immunohistochemistry and Cell Identification
+For immunohistochemical analyses, animals were deeply anesthetized
+with PTB (100 mg/kg, i.p.) and perfused transcardially with 20 mL
+(mouse) or 100 mL (rat) of saline followed by 20 mL (mouse) or
+200 mL (rat) of cooled 4% paraformaldehyde (PFA) in 0.1 M phosphate buffer (PB). Brains were dissected out, post-fixed for 3 h (for
+anti-HCN4 antibody) or overnight (for anti-HCN1–3) with PFA
+and treated with a sucrose gradient (10–20–30%) for cryoprotection.
+Coronal 20 or 40 lm thick slices were prepared using a microtome
+(HM400, Thermo Scientific Microm, Germany) or a cryostat (Leica
+CM1850, Leica Microsystems, Wetzlar, Germany), respectively. To
+facilitate cell identification after the patch–clamp experiments, the
+recorded cells were dialyzed with the patch pipette solution containing Alexa Fluor 488 or 594 hydrazide. The slices were fixed postrecording with 4% PFA in 0.1 M PB for 1 h and then kept at 4 C
+in phosphate-buffered saline (PBS). For immunohistochemical staining, the slices were washed in PBS followed by blocking of the nonspecific binding sites with 5% Chemiblocker (Millipore, Billerica,
+MA) and 0.2% Triton in PBS. The blocking solution was also used
+as the diluent for the antisera. The slices were incubated with the
+primary antibodies at 4–8 C overnight, and the secondary antibodies
+were applied for 2 h. The following primary antibodies were used:
+rabbit anti-HCN1 (1:200; Abcam, Cambridge, UK), rabbit antiHCN2 (1:200; Alomone Labs, Jerusalem, Israel), rabbit anti-HCN3
+(1:200; Pierce, Rockford, IL, USA), rabbit anti-HCN4 (1:200,
+
+Volume 62, No. 12
+
+Honsa et al.: HCN Channels in Reactive Astrocytes
+
+TABLE 1: Sequences of the Primers used in Single-Cell qPCR (GFAP/EGFP Mice)
+
+Gene
+
+PubMed ID
+
+Forward primer
+
+Reverse primer
+
+Aif1
+
+NM_019467.2
+
+GATGAGGATCTGCCGTCCA
+
+CAAGTTTCTCCAGCATTCGC
+
+Aldhl1l
+
+NM_027406.1
+
+CTGGAAGATGGCAAGATGATG
+
+TTCTACCTCTGGGACATTGG
+
+Aqp4
+
+NM_009700.2
+
+CGGCATCCTCTACCTGGTCACA
+
+GCCAGCGGTGAGGTTTCCAT
+
+Cspg4
+
+NM_139001.2
+
+TGATGGAAGTGAGACACAGACAGA
+
+GGAAGGATGGTGATCGTGAAGG
+
+Slc1a3
+
+NM_148938.3
+
+ATCGTCCTGCCTCTCCTCTAC
+
+GTCCACACCATTGTTCTCTTCCA
+
+Gfap
+
+NM_001131020.1
+
+GAACAACCTGGCTGCGTATAG
+
+GCGATTCAACCTTTCTCTCCAA
+
+Gfapd
+
+NM_001131019.1
+
+ATGTGTCTCAGTTGTGAAGGTCTA
+
+TGGAAGGATGGTTGTGGATTCT
+
+Glul
+
+NM_008131.3
+
+CGCAAAGACCCCAACAAG
+
+ATTCCTGCTCCATTCCAAAC
+
+Hcn1
+
+NM_010408.3
+
+CTCAGTCTCTTGCGGTTATTACG
+
+TGGCGAGGTCATAGGTCAT
+
+Hcn2
+
+NM_008226.2
+
+ATCGCATAGGCAAGAAGAACTC
+
+CAATCTCCTGGATGATGGCATT
+
+Hcn3
+
+NM_008227.1
+
+GATGTTTGATGAAGAGAGCATCC
+
+CCCGGCAGGTGAAGTTAATA
+
+Hcn4
+
+NM_001081192.1
+
+GCATGATGCTTCTGCTGTGT
+
+GCTTCCCCCAGGAGTTATTC
+
+Itgam
+
+NM_008401.2
+
+CCTTCCATCCTTCAACACTCA
+
+TTAGACCTCACATACGACTCCT
+
+Nefl
+
+NM_010910.1
+
+AGGACGAGGTGTCGGAAAG
+
+TTCTCCAGTTTGTTGATTGTGTC
+
+Nes
+
+NM_016701.3
+
+AGCAACTGGCACACCTCAA
+
+GGTATTAGGCAAGGGGGAAG
+
+Pdgfra
+
+NM_001083316.1
+
+AAGAGACCCTCCTTCTACCAC
+
+TATCAGAGTCCACCCGCAT
+
+Rbfox3
+
+NM_001039167.1
+
+GGTGCTGAGATTTATGGAGGC
+
+ATGGTTCCGATGCTGTAGGT
+
+S100b
+
+NM_009115.3
+
+TCTAACTCAGGACCGAGAATCA
+
+GGAGCAAGGAAGATACAACTAACT
+
+Snap25
+
+NM_011428.3
+
+GCAATAATCAGGATGGAGTAGTGG
+
+TGGCGATTCTGGGTGTCAAT
+
+Vim
+
+NM_011701.4
+
+TGCCAACCTTTTCTTCCCTG
+
+TCTCTGGTCTCAACCGTCTT
+
+Alomone Labs), mouse anti-GFAP (1:800, Cy3-conjugate). The secondary antibodies were goat anti-rabbit IgG conjugated with Alexa
+Fluor 488 or 594 (Life Technologies). To visualize the cell nuclei,
+the slices were incubated with 300 nM 4,6-diamidino-2-phenylin-
+
+dole (DAPI) in PBS for 5 min at room temperature and mounted
+using Aqua Poly/Mount (Polysciences, Eppelheim, Germany). All
+chemicals were purchased from Sigma-Aldrich (St. Louis, MO),
+unless otherwise stated. A Zeiss 510DUO LSM confocal microscope
+
+TABLE 2: Sequences of Primers used in Single-Cell qPCR (Rats)
+
+Gene
+
+PubMed ID
+
+Forward primer
+
+Cspg4
+
+NM_031022.1
+
+CTCCTGTCCTCACTAACG
+
+TCCATAACCTCATAGAGATAGC
+
+Slc1a3
+
+NM_019225.1
+
+CCAGTCTTGTCACAGGAATG
+
+TGATGGTGGTAGTCATGTAATAGA
+
+Gfap
+
+NM_017009.2
+
+TGGTATCGGTCCAAGTTTGC
+
+TTGGCGGCGATAGTCATTAG
+
+Hcn1
+
+NM_053375.1
+
+GCACCGATACCAAGGCAAGA
+
+ATTGGGATCCGCGTTAGCAA
+
+Hcn2
+
+NM_053684.1
+
+CGAGGTGCTGGAGGAGTACC
+
+CTGCACCATCTCACGGTCATATTT
+
+Hcn3
+
+NM_053685.1
+
+AGTGCTTGAGGAGTTCCCGA
+
+CCAGACCCCGAATACCACGA
+
+Hcn4
+
+NM_021658.1
+
+CAGGGCTTTCGAGACGGTT
+
+AGCACAGTGGGCCATCTCA
+
+Pdgfra
+
+NM_012802.1
+
+GCTATTACAACCACACTCAGACA
+
+AATCGTCCTCTTCCACAATGA
+
+Trpv4
+
+NM_023970.1
+
+TTTGCTCTTATTTCTACTCCTCCC
+
+GCTGGCTTAGGTGACTCC
+
+December 2014
+
+Reverse primer
+
+2007
+
+equipped with Ar/HeNe lasers and 403 or 633 oil objectives was
+used for immunohistochemical analysis. Stacks of consecutive confocal images taken at intervals of 1 lm were acquired sequentially with
+the two lasers to avoid crosstalk between fluorescent labels. The
+background noise of each confocal image was reduced by averaging
+four image inputs. Colocalization images and maximum z projection
+images were made using Zeiss LSM Image Browser.
+
+Preparation of Acute Brain Slices
+The rats or mice were deeply anesthetized with PTB (100 mg/kg,
+i.p.) and perfused transcardially with cold (4 C) isolation solution
+containing (in mM): 110 NMDG-Cl, 3 KCl, 23 NaHCO3, 1.25
+Na2HPO4, 0.5 CaCl2, 7 MgCl2, 20 glucose, osmolality 290 mOsm/
+kg. The animals were decapitated, the brains were quickly dissected
+out and transversal 200 lm thick slices were cut using a vibrating
+microtome. The slices were incubated for 30 min at 34 C in the isolation solution and then transferred to aCSF containing (in mM):
+122 NaCl, 3 KCl, 28 NaHCO3, 1.25 Na2HPO4, 1.5 CaCl2, 1.3
+MgCl2, 10 glucose, osmolality 305 mOsm/kg, where they were
+kept at room temperature for the duration of the experiments. Solutions were equilibrated with 95% O2/5% CO2 to a final pH of 7.4.
+Osmolality was measured using a vapor pressure osmometer (Vapro
+5520, Wescor, Logan, UT).
+
+Patch–Clamp Recordings
+Acute brain slices were gently transferred to a recording chamber
+mounted on the stage of an upright microscope (Axioscop, Carl
+Zeiss, Oberkochen, Germany) equipped with a high-resolution digital camera (AxioCam HRc, Carl Zeiss) and electronic micromanipulators (Luigs & Neumann, Ratingen, Germany). The chamber was
+constantly perfused with oxygenated aCSF at a rate of 5 mL/min.
+All electrophysiological measurements were done at room temperature. Patch–clamp recordings were performed in the whole-cell configuration in the voltage–clamp mode using an EPC-9 patch–clamp
+amplifier in combination with TIDA software or an EPC-10 amplifier in combination with PATCHMASTER software (HEKA Elektronik, Lambrecht/Pfalz, Germany), as described previously
+(Pivonkova et al., 2010). Patch pipettes were pulled (P-97 Flaming/
+Brown Micropipette Puller, Sutter Instruments, Novato, CA) from
+borosilicate capillaries (Sutter Instruments) and filled with an intracellular solution containing (in mM): 130 KCl, 0.5 CaCl2, 2
+MgCl2, 5 EGTA, 10 HEPES, and Alexa Fluor 488 or 594 hydrazide
+(0.1 mM; Molecular Probes, Invitrogen, NY); the final pH was
+adjusted to 7.2 with KOH. The resistance of the pipettes was 7–10
+MX. The resting membrane potential was measured by switching
+the EPC amplifier to the current–clamp mode. The membrane
+resistance was calculated from the current elicited by a 10 mV test
+pulse depolarizing the cell membrane from the holding potential of
+270 to 260 mV for 50 ms, at the end of the pulse. Membrane
+capacitance (CM) was determined from the initial current transients
+elicited by a 10 mV test pulse depolarizing the cell membrane from
+270 to 260 mV, after compensating for the fast capacitive component by TIDA, or automatically from the LockIn protocol by
+PATCHMASTER. The cells were clamped near their resting membrane potential, and the basic current patterns were obtained by
+
+2008
+
+stepping the membrane potential to values ranging from 2160 to
+120 mV or 140 mV for 50 ms at 10 mV intervals. The
+hyperpolarization-induced inward current was evoked by hyperpolarizing the cell membrane from 260 to 2160 mV for 1 s at 10 mV
+intervals. The amplitude was determined at the end of the 2150
+mV pulse, after an offline passive subtraction of the time- and
+voltage-independent passive currents between 270 and 280 mV.
+The drugs were applied via bath perfusion or directly into the
+recording chamber. A cyclic nucleotide 8-bromoadenosine 30 ,50 -cyclic
+monophosphate (cAMP) was purchased from Sigma Aldrich,
+ZD7288 from Tocris Bioscience (Bristol, UK) or Sigma Aldrich.
+
+Statistics
+The results are expressed as the mean 6 SEM. Statistical analyses of
+the differences among groups were performed using one-way
+ANOVA for multiple comparisons with Tukey’s post hoc test and
+Student’s t test or pair test when appropriate. Values of P < 0.05
+were considered significant, P < 0.01 very significant and P < 0.001
+extremely significant.
+
+Results
+Reactive Astrocytes Express mRNA Coding HCN
+Channels
+The expression of transcripts for HCN channels is well documented in neurons throughout the entire mammalian brain
+(Noebels et al., 2012); however, based on in vitro studies, also
+glial cells, namely astrocytes, may express these channels (Li
+et al., 2011). To detect the expression of Hcn genes in astrocytes, we used the transgenic GFAP/EGFP mouse strain, in
+which only astrocytes and rarely polydendrocytes express
+EGFP. Adult sham-operated males of this mouse strain were
+used as controls and animals at two different time points after
+FCI as ischemic animals. We prepared single cell suspensions
+from the cerebral cortex (Fig. 1A), and using FACS, we collected only EGFP-positive (EGFP1) cells, which were analyzed for the expression of 12 genes using the BioMark qPCR
+platform. Cells expressing only markers of polydendrocytes
+(Cspg4, Pdgfra) were excluded, so we analyzed EGFP1 cells
+with astrocytic markers, such as Aqp4, Slc1a3, Gfap, Glul.
+The total numbers of collected and analyzed cells were 235
+EGFP1 cells from control brains (5 animals), 183 EGFP1
+cells from 7 days after FCI (4 animals) and 120 EGFP1 cells
+from 14 days after FCI (3 animals).
+In the adult mouse cerebral cortex approximately 5% of
+these cells contained detectable level of mRNA for Hcn1 and
+Hcn3, 12% expressed Hcn2 and in 17% of EGFP1 astrocytes, we detected mRNA for the Hcn4 channel (Fig. 1B);
+nevertheless, their relative expression levels were very low in
+astrocytes from control mice (Fig. 1C). To avoid the possibility that only a small fraction of all cortical astrocytes from
+the GFAP/EGFP mouse strain was purified by FACS in the
+control group, we used the Slc1a3/Tomato mouse strain, in
+Volume 62, No. 12
+
+Honsa et al.: HCN Channels in Reactive Astrocytes
+
+FIGURE 1: The expression of Hcn genes is strikingly increased in cortical astrocytes from GFAP/EGFP mice following focal cerebral
+ischemia - single cell RT-qPCR. A: Scheme depicting the brain regions (dashed lines), which were used for EGFP1 cells isolations. These
+brain slices were stained with tetrazolium chloride to visualize the ischemic regions. B: Percentage of EGFP1 cells in the post-ischemic
+mouse cortex (7 and 14 days after focal cerebral ischemia; D7, 2W) expressing Hcn1, 2, 3, and 4. C: The relative expression of Hcn1–4
+genes in EGFP1 cells in the control mouse cortex and in the post-ischemic cortex revealed the strong upregulation of Hcn1–4
+expression 2W after FCI. The number of analyzed cells was 235 EGFP1 cells from control brains (5 animals), 183 EGFP1 cells from 7
+days after FCI (4 animals) and 120 EGFP1 cells from 14 days after FCI (3 animals). The values are presented as mean 6 SEM. Statistical
+significance was calculated using one-way ANOVA. *P < 0.05, significant; **P < 0.01, very significant; ***P < 0.001, extremely significant.
+
+which almost 90% of Slc1a3 expressing astrocytes express
+Tomato red fluorescent protein. Slc1a3 is a gene coding excitatory amino acid transporter 1 (EAAT1), which is specifically
+expressed in astrocytes and thereby labels a different and even
+larger astrocytic population than that labeled in GFAP/EGFP
+mice. We isolated and analyzed 47 cells from control uninjured mouse brain of which 89.4% expressed the astrocytic
+markers Slc1a3 and Glul while only 10.6% expressed HCN
+channel mRNA. Therefore, using another transgenic mouse
+strain for the isolation of astrocytes proved that the low
+expression of HCN channels in the control mouse brain was
+not due to selecting a subpopulation of EGFP-positive cells
+from GFAP/EGFP mice.
+To determine whether the number of cells expressing
+Hcn genes is influenced by FCI, we isolated EGFP1 cells
+from the injured hemisphere 7 and 14 days after FCI. As
+shown in Fig. 1B, the number of EGFP1 astrocytes expressing Hcn1, 2 genes markedly increased following ischemia and
+reached approximately 30% of analyzed cells 2W after FCI
+(Fig. 1B). Moreover, we analyzed the relative expression levels
+of Hcn genes after ischemia and discovered a strong upregulation of Hcn1, 2, 3, and 4, especially 2W after FCI (Fig. 1C).
+We can conclude that while D7 after ischemia significantly
+more astrocytes started to express Hcn genes, 2W after ischemia reactive astrocytes significantly increased the relative
+expression of Hcn genes.
+Based on the above-described findings, a question arose
+whether the strong expression of Hcn genes is a general/common feature of reactive astrocytes following different types of
+ischemic injury. Therefore, another model of ischemia, a tranDecember 2014
+
+sient global cerebral ischemia, was induced in adult Wistar
+rats. Following GCI, astrocytes are activated, but in contrast
+to FCI, these reactive astrocytes do not rebuild their processes
+and they do not change their domains (Sofroniew and
+Vinters, 2009). In view of the fact that GCI has a low reproducibility and a very low survival rate in mice (Thal et al.,
+2010), we used rats for this part of the experiment. On the
+other hand, we lost the advantage of sorting astrocytes based
+on EGFP expression, since no transgenic rat strain with
+astrocyte-specific EGFP expression is available. We prepared
+single cell suspensions from the CA1 region–the most affected
+part of the hippocampus (Anderova et al., 2010; Butenko
+et al., 2012)—and collected all living cells into 96-well plates.
+Based on Gfap expression, we identified 17 astrocytes among
+the control cells, from which only 2 (12%) expressed Hcn
+genes, while 2W after GCI we were able to collect 24 cells
+with Gfap expression and 8 (33%) of them expressed Hcn
+transcripts.
+Based on these results we may conclude that cerebral
+ischemia is characterized by the enhanced expression of Hcn
+genes in reactive astrocytes; nevertheless, only the more severe
+type of ischemia, such as FCI has a profound effect on Hcn
+expression. Thus, the strong and frequent expression of these
+channels may reflect the severity of the ischemic injury.
+Immunohistochemical Identification of HCN
+Channels in the Mouse Cortex After FCI
+To confirm the expression of HCN channels in astrocytes in
+the control brains and those after ischemia, we performed
+immunohistochemical analyses of the cortex of non-injured
+2009
+
+mice and those 2W and 5W after ischemia. Although we
+could identify astrocytes in the cortex of GFAP/EGFP mice
+based on EGFP expression, we stained the sections with an
+antibody against GFAP to distinguish weakly EGFP1 polydendrocytes from astrocytes. Since it is known that in the
+GFAP/EGFP mouse strain a small subpopulation of GFAP2/
+EGFP1 cells are predominantly polydendrocytes (Matthias
+et al., 2003). HCN1 channel expression was generally very
+weak in the control mouse cortex (Fig. 2A). In addition to
+HCN11 neurons, several EGFP1/GFAP- cells also expressed
+this protein, and based on their morphology and the absence
+of GFAP expression we considered these cells as polydendrocytes. Almost no EGFP1 astrocytes in the control mouse cortex expressed HCN1. After 2 weeks of FCI, HCN1 protein
+expression in GFAP1 astrocytes was comparably low as in
+controls (data not shown), so we further analyzed later time
+points after FCI. A significantly different expression pattern
+was found in the astrogliotic tissue surrounding the ischemic
+core 5W after FCI. At the site of the ischemic lesion, there
+were numerous hypertrophic GFAP1 astrocytic processes,
+many of which also expressed HCN1 channels (Fig. 2B).
+HCN2 channels were strongly expressed in the cortical neurons of controls; however, in astrocytes located in the same
+region we did not detect any HCN2 channels (Fig. 2C). After
+5 weeks of FCI, HCN2 channels were present in several
+hypertrophied astrocytic processes around the lesion site (Fig.
+2D). The expression pattern of HCN3 channels in the control mouse cortex was very similar to that of HCN2, i.e. predominant localization in neuronal bodies and absence in
+astrocytes (Fig. 2E). However, numerous reactive astrocytes in
+the post-ischemic tissue strongly expressed HCN3 channels
+(Fig. 2F). We also analyzed the expression of HCN channels
+in the EGFP1 cells in the contralateral post-ischemic hemispheres, but we never detected the expression of any HCN
+channels in EGFP1 cells in these regions. We were unable to
+detect HCN4 channels in the cortical cells at any of the analyzed time points, and these channels were expressed only in
+the subcortical regions (data not shown).
+Immunohistochemical Identification of HCN
+Channels in the Rat Hippocampus after GCI
+To visualize and detect astrocytes in the rat hippocampus we
+stained the sections with an antibody against GFAP. The
+expression of HCN1 channels in the control rat hippocampus
+was predominantly localized in neuronal cells and virtually
+absent in astrocytes (Fig. 3A). In contrast, 5W after GCI the
+expression of GFAP was significantly increased, and HCN1
+channels were also found on the cell membrane of many reactive astrocytes (Fig. 3B). A very similar expression pattern was
+found for HCN2 channels, which were expressed in neuronal
+bodies in the stratum pyramidale in the hippocampus of con2010
+
+trol rats (Fig. 3C); however, GCI induced only a slightly
+increased expression of these channels in reactive astrocytes
+(Fig. 3D). HCN3 channels showed strong expression in the
+control hippocampus predominantly in the neurons (Fig. 3E),
+and 5W after GCI reactive astrocytes in the vicinity of the
+stratum pyramidale were HCN3-positive as well (Fig. 3F).
+HCN4 channel expression was not found in either the control or the ischemic rat hippocampus (data not shown).
+Taken together, our results from immunohistochemical
+analyses confirmed the increased expression of HCN channels
+in reactive astrocytes, predominantly at later time points after
+both types of ischemic injury. Interestingly, although the
+single-cell RT-qPCR analyses showed the increased expression
+of Hcn1–3 mRNA in the mouse cortex after FCI, markedly
+increased protein expression was confirmed only for the
+HCN1 and HCN3 channels.
+Membrane Properties of Astrocytes After FCI in
+GFAP/EGFP Mice
+Since we demonstrated the presence of HCN channels on the
+mRNA as well as the protein level, we further focused on
+their functional identification/characterization using the
+patch–clamp technique in the whole-cell configuration. Initially, we recorded cortical astrocytes in mouse brain slices
+that were identified based on their EGFP expression 2W after
+FCI, but we did not find any significant evidence of HCN
+channel presence or function at this time point. Therefore,
+we performed further electrophysiological analyses on astrocytes at later time point, 5W after FCI, when strong protein
+expression was detected. In controls, 100% of EGFP1 cells
+displayed the membrane properties of mature astrocytes, i.e.
+time- and voltage-independent symmetrical non-decaying passive currents (Fig. 4A top). In agreement with our previous
+findings 5W after FCI, 70% of recorded EGFP1 cells were
+passive astrocytes while the rest had membrane properties
+attributed to polydendrocytes (Honsa et al., 2012). Cells displaying the membrane properties of polydendrocytes were
+excluded from further data processing. The average resting
+membrane potential (RMP) of astrocytes in controls was
+268.7 6 1.8 mV (n 5 32), and it shifted to more positive
+values of 253.7 6 1.6 mV; (n 5 16; P < 0.001) 5W after FCI
+(Table 3). The astrocyte input resistance reached 115.4 6 9.5
+MX (n 5 32) in controls and decreased to 74.4 6 6.1 MX
+(n 5 16; P < 0.01) after FCI. Their membrane capacitance
+increased from 15.1 6 3.2 pF (n 5 23) in controls to
+44.1 6 10.2 pF (n 5 12; P < 0.01) after FCI (Table 3). Moreover, astrocytes 5W after FCI displayed hyperpolarizationactivated, time- and voltage-dependent, non-inactivating
+inward currents (Fig. 4A,B). The astrocytic inward current
+increased from 73.3 6 29.6 pA (n 5 20) in controls to
+251.3 6 38.9 pA (n 5 16; P < 0.001) 5W after FCI (Fig. 4C).
+Volume 62, No. 12
+
+Honsa et al.: HCN Channels in Reactive Astrocytes
+
+FIGURE 2: HCN1–3 staining in the cortex of GFAP/EGFP mice in controls and 5 weeks after focal cerebral ischemia. Brain slices were
+stained with anti-HCN1–3 antibodies and an antibody directed against glial fibrillary acidic protein (GFAP) in controls and 5 weeks (5W)
+after focal cerebral ischemia (MCAo). HCN1 channels are rarely expressed by EGFP1 astrocytes in the control cortex, but their expression is increased in reactive astrocytes 5W after MCAo. A similar expression pattern was found in the case of HCN2 and HCN3 channels.
+Arrows indicate representative cells. Scale bars: 50 lm.
+
+December 2014
+
+2011
+
+FIGURE 3: HCN1–3 staining in the CA1 region of the rat hippocampus in controls and 5 weeks after global cerebral ischemia. Brain slices
+were stained with anti-HCN1–3 antibodies and an antibody directed against glial fibrillary acidic protein (GFAP) in controls and 5 weeks
+(5W) after global cerebral ischemia (GCI). Arrow indicate the HCN-positive astrocytes after ischemia (s.p., stratum pyramidale; s.r., stratum radiatum). Scale bars: 50 lm.
+
+2012
+
+Volume 62, No. 12
+
+FIGURE 4: Inward currents triggered by focal cerebral ischemia in mouse EGFP1 cortical astrocytes. A: The inward currents in control
+astrocytes (n 5 20) and 5 weeks (5W) after focal cerebral ischemia (FCI, n 5 16) activated by 1 s hyperpolarizing pulses from a holding
+potential of 260 to 2160 mV. Astrocytes predominantly displayed passive conductance with a linear current/voltage relationship and,
+5W after FCI, additional time- and voltage-dependent non-inactivating inward currents in response to hyperpolarization. B: Current/voltage relationship generated from the currents activated by 1 s hyperpolarizing pulses in astrocytes in controls and 5W after FCI. Note
+that time- and voltage-dependent, non-inactivating inward currents were present in astrocytes 5W after FCI, but not in control astrocytes. C: Inset represents the hyperpolarization-activated inward current obtained by passive current subtraction (left), and the bar
+graphs indicate the average amplitudes of inward currents after passive subtraction (right) evoked by hyperpolarization to 2150 mV for
+1 s in astrocytes of controls and those 2 weeks (2W) or 5W after FCI. Statistical significance was calculated using ANOVA; ***P < 0.001,
+extremely significant. D: The hyperpolarization-activated, time- and voltage-dependent, non-inactivating inward currents were reduced
+by 50 lM ZD7288 (n 5 5), a blocker of neuronal Ih currents. E: Current/voltage relationship generated from the currents activated by 1 s
+hyperpolarizing pulses in astrocytes 5W after FCI and after the application of 50 lM ZD7288. F: Inset represents the hyperpolarizationactivated inward current obtained by passive current subtraction (left), and the bar graphs indicate the average amplitudes of inward
+currents after passive subtraction (right) evoked by hyperpolarization to 2150 mV for 1 s in astrocytes after ischemia, prior to and after
+the application of 50 lM ZD7288 (expressed in percentages). Statistical significance was calculated using a paired t test; **P < 0.01.
+
+December 2014
+
+2013
+
+TABLE 3: Membrane Properties of Astrocytes in Controls and 5W After Ischemia
+
+Mice
+
+Rats
+
+Control
+
+5W after FCI
+
+Control
+
+5W after GCI
+
+RMP (mV)
+
+268.7 6 1.8 (n 5 32)
+
+253.7 6 1.6 (n 5 16)***
+
+275.7 6 0.7 (n 5 61)
+
+265.9 6 0.7 (n 5 84)***
+
+RM (MX)
+
+115.4 6 9.5 (n 5 32)
+
+74.4 6 6.1 (n 5 16)**
+
+64.16 6.3 (n 5 61)
+
+71 6 4.3 (n 5 84)ns
+
+CM (pF)
+
+15.1 6 3.2 (n 5 23)
+
+44.1 6 10.2 (n 5 12)**
+
+26.6 6 2.5 (n 5 61)
+
+19.5 6 2.4 (n 5 71)**
+
+Iinw (pA)
+
+73.3 6 29.6 (n 5 20)
+
+251.3 6 38.9 (n 5 16)***
+
+103.3 6 32.7 (n 5 18)
+
+278.7 6 21.4 (n 5 49)***
+
+RMP, resting membrane potential; RM, membrane resistance; CM, membrane capacitance; Iinw, amplitude of the hyperpolarization-activated
+inward current at 2150 mV obtained by passive current subtraction. Statistical significance was calculated using Student’s t test; *P < 0.05,
+significant; **P < 0.01, very significant; ***P < 0.001, extremely significant.
+
+This current was sensitive to 50 mM ZD7288 (Fig. 4D,E), a
+blocker of neuronal hyperpolarization-activated (Ih) currents
+(Gasparini and DiFrancesco, 1997), which reduced the current by 63.9 6 13.9% (n 5 5; P < 0.01) (Fig. 4F). Thus, the
+hyperpolarization-activated, time- and voltage-dependent,
+non-inactivating inward currents expressed in cortical astrocytes after ischemia might strongly resemble the Ih currents
+permeable for both K1 and Na1 cations observed in cortical
+astrocyte cultures by (Guatteo et al., 1996). Since HCN
+channels are known to be modulated by cAMP, the binding
+of which increases their conductance, we used the extracellular application of 100 mM 8-Br-cAMP. The exposure of postischemic astrocytes to cAMP increased the inward current
+evoked by hyperpolarization by 28.8 6 5.4% in 25 cells out
+of 28 (P < 0.05, Fig. 5A–C) and shifted the voltage dependence of HCN channel opening towards more positive potentials (by 4.0 6 1.6 mV, n 5 25). The depolarization of
+astrocytes 5W after ischemia might be underlain by the
+downregulation of Kir4.1 protein expression (Pivonkova
+et al., 2010); however, an additional ion conductance, presumably for Na1 ions, might contribute to such depolarization as well. To test this hypothesis and to reveal the possible
+contribution of Na1 ions to the inward currents in astrocytes
+after ischemia, we partially replaced Na1 ions in the aCSF by
+NMDG1 (the Na1 ion concentration was decreased from
+150 to 75 mM). After reducing extracellular Na1 concentration, astrocytes 5W after FCI displayed a marked decrease in
+the inward current amplitude by 34.9 6 3.4% (n 5 17;
+P < 0.001, Fig. 5D–F).
+Membrane Properties of Astrocytes After GCI in
+Rats
+Membrane currents were recorded from astrocytes in the CA1
+region (stratum radiatum) of adult rat hippocampi in controls
+and rats 5W after GCI. Cells were selected for patch–clamp
+recordings based on their morphology, and post-recording
+2014
+
+identification using immunohistochemical staining for GFAP
+was carried out. In hippocampal astrocytes of controls and
+ischemic rats, clamping the cell membrane from the holding
+potential of 270 mV to values ranging from 2160 to 120
+or 140 mV elicited predominantly time- and voltageindependent currents with a linear current/voltage relationship (Pivonkova et al., 2010). Similarly to reactive astrocytes
+after FCI, the hippocampal astrocytes 5W after GCI displayed
+a considerable depolarization (Table 3). In controls, the average RMP of astrocytes was 275.7 6 0.7 mV (n 5 61), and it
+shifted to 265.9 6 0.7 mV (n 5 84; P < 0.001) 5W after
+GCI. In addition, hippocampal astrocytes 5W after GCI also
+displayed hyperpolarization-activated, time- and voltagedependent, non-inactivating inward currents (Fig. 6A–C).
+The astrocytic inward current increased from 103.3 6 32.7
+pA in controls (n 5 18) to 278.7 6 21.4 (n 5 49, P < 0.001)
+5W after GCI (Table 3 and Fig. 6C). To confirm that the
+inward currents could be carried by HCN channels, we used
+50 mM ZD7288 and the current was inhibited by
+27.4 6 8.4% (n 5 10, P < 0.01, Fig. 6D–F). Although the
+application of ZD7288 caused a decrease in inward currents,
+no shifts in the membrane potentials were detected. Despite
+the fact that ZD7288 is known/used as a specific HCN channel blocker, it also inhibits/activates the functioning of several
+ion channels, such as Nav1.4 channels (Wu et al., 2012),
+NMDA-evoked currents (Klar et al., 2003) or low-threshold
+Ca21 channels (Felix et al., 2003). Therefore, it is possible
+that the application of ZD7288 simultaneously activates or
+inhibits other channels, which could compensate for the shift
+towards more negative potentials caused by blocking the
+HCN channels.
+Moreover, astrocytes display large passive membrane
+conductance carried by numerous types of two-pore domain
+potassium channels that are expressed in the astrocytic membrane. These large currents, mostly carried by K1, could
+mask the activation of channels with considerably smaller
+
+Volume 62, No. 12
+
+Honsa et al.: HCN Channels in Reactive Astrocytes
+
+FIGURE 5: Effect of 8-bromoadenosine 30 , 50 -cyclic monophosphate (cAMP) and decreased extracellular Na1 concentration (dNa) on
+hyperpolarization–activated inward currents in post-ischemic mouse cortical astrocytes. A: The inward currents in astrocytes 5 weeks
+(5W) after focal cerebral ischemia (FCI, n 5 16) activated by 1 s hyperpolarizing pulses from 250 to 2160 mV (see the inset at the right)
+are potentiated by 100 lM cAMP. B: Representative current/voltage curve generated from the currents activated by 1 s hyperpolarizing
+pulses in a reactive astrocyte 5W after FCI during the application of normal aCSF (•) and aCSF containing 100 lM cAMP (~). C: Inset
+represents the hyperpolarization-activated inward current obtained by passive current subtraction (left), and the bar graphs indicate the
+average amplitudes (in percentages) of inward currents after passive subtraction (right) evoked by hyperpolarization to -150 mV for 1 s
+in astrocytes after ischemia in normal aCSF (5W) and after the application of 100 lM cAMP (cAMP). D: The inward currents in astrocytes
+5 weeks (5W) after focal cerebral ischemia (FCI, n 5 16) activated by 1 s hyperpolarizing pulses from 250 to 2160 mV (see the inset at
+the right) are decreased after application of aCSF with dNa (n 5 17). E: Representative current/voltage curve generated from the currents activated by 1 s hyperpolarizing pulses in a reactive astrocyte 5W after FCI during the application of normal aCSF (•) and during
+the application of aCSF with dNa from 150 to 75 mM (䊏). F: Inset represents the hyperpolarization-activated inward current obtained
+by passive current subtraction (left), and the bar graphs indicate the average amplitudes (in percentages) of inward currents after passive subtraction (right) evoked by hyperpolarization to 2150 mV for 1 s in astrocytes after ischemia in normal aCSF (5W) and in aCSF
+with dNa. Statistical significance was calculated using paired t test; *P < 0.05, ***P < 0.001.
+
+December 2014
+
+2015
+
+FIGURE 6: Hyperpolarization-activated inward currents triggered by global cerebral ischemia in rat hippocampal astrocytes. A: The
+inward currents in astrocytes in controls (n 5 18) and 5 weeks (5W) after global cerebral ischemia (GCI, n 5 49) activated by 1 s hyperpolarizing pulses from a holding potential of 260 or 270 to 2160 mV (see the inset at the bottom of section D). Astrocytes predominantly
+display passive conductance with a linear current-voltage relationship and, 5W after GCI, additional time- and voltage-dependent noninactivating inward currents activated by hyperpolarization. B: Current/voltage relationship generated from the currents activated by 1 s
+hyperpolarizing pulses in astrocytes in controls and 5W after GCI. Note that time- and voltage-dependent, non-inactivating inward currents are present in astrocytes 5W after GCI, but not in control astrocytes. C: Inset represents the hyperpolarization-activated inward
+current obtained by passive current subtraction (left), and the bar graphs indicate the average amplitudes of inward currents after passive subtraction (right) evoked by hyperpolarization to 2150 mV for 1 s in astrocytes of controls and those 5W after GCI. D: The
+hyperpolarization-activated, time- and voltage-dependent, non-inactivating inward currents were reduced by 50 lM ZD7288 (n 5 10), a
+blocker of neuronal Ih currents. E: Current/voltage relationship generated from the currents activated by 1 s hyperpolarizing pulses in
+astrocytes 5W after GCI and after the application of 50 lM ZD7288. F: Inset represents the hyperpolarization-activated inward current
+obtained by passive current subtraction (left), and the bar graphs indicate the average amplitudes of inward currents after passive subtraction (right) evoked by hyperpolarization to 2150 mV for 1 s in astrocytes 5W after GCI, prior to (ctrl) and after the application of 50
+lM ZD7288 (expressed in percentages). Statistical significance was calculated using a paired t test; **P < 0.01;***P<0.001.
+
+2016
+
+Volume 62, No. 12
+
+Honsa et al.: HCN Channels in Reactive Astrocytes
+
+conductance. This was observed in our previous study in
+which we described the increased expression of TRPV4 channels in reactive astrocytes. These currents were masked by
+high potassium conductance, and the application of a TRPV4
+antagonist did not result in a shift of the membrane potential.
+Nevertheless, blocking potassium conductance with cesium
+revealed TRPV4 mediated currents together with a shift of
+the membrane potential after blocking these currents
+(Butenko et al., 2012). However, we could not use cesium to
+block potassium conductance in our experiments with
+ZD7288, because cesium simultaneously blocks HCN conductance and removing potassium ions from the solutions is
+not possible due to the potassium conductance of HCN
+channels (Lau et al., 2011).
+The hyperpolarization-activated current was further
+potentiated by the extracellular application of 100 mM cAMP
+by 116.3 6 33.3% in nine cells out of 21 (P < 0.01, Fig. 7A–
+C); however, no shift in HCN channel opening to more positive potentials was observed. Similarly to FCI, the
+hyperpolarization-activated, time- and voltage-dependent,
+non-inactivating inward currents detected in rat astrocytes
+after GCI strongly resemble Ih currents, permeable for both
+K1 and Na1 cations, so we also decreased the extracellular
+Na1 ion ([Na1]e) concentration from 150 to 75 mM, upon
+which astrocytes 5W after GCI displayed a marked decrease
+in their inward current amplitude by 34.7 6 11.0% (n 5 10,
+P < 0.05, Fig. 7D–F). In addition, the decreased Na1 concentration in the aCSF induced an outward current in reactive astrocytes 5W after GCI when the cells were voltage
+clamped at 270 mV, accompanied by membrane hyperpolarization from 265.5 6 2.2 to -74.3 6 1.6 mV (n 5 8,
+P < 0.001) (Fig. 7E). These observations indicate that the
+inward currents in reactive astrocytes 5W after GCI are partially carried by Na1 ions and that reactive astrocytes display
+resting Na1 conductance.
+In summary, electrophysiological analyses confirmed the
+presence of hyperpolarization-activated, time- and voltagedependent, non-inactivating inward currents in reactive astrocytes after both types of ischemic injury. Their sensitivity to
+the HCN channel blocker ZD7288, their potentiation by
+cAMP and their permeability for Na1 ions suggest that these
+currents are carried by HCN channels as was anticipated
+based on mRNA and protein expression.
+
+Discussion
+In the present study we demonstrated the strong upregulation
+of mRNA coding the HCN channels in reactive astrocytes in
+the mouse cortex 2W after focal cerebral ischemia as well as
+in those in the rat hippocampus following global cerebral
+ischemia. The presence of these channels, until now described
+primarily in excitable cells, was also confirmed on the protein
+December 2014
+
+level using immunohistochemistry 5W after ischemia. Final
+confirmation that HCN channels contribute to the changed
+membrane properties of reactive astrocytes after ischemia was
+obtained from patch–clamp recordings. We have demonstrated that hyperpolarization-activated inward currents in
+reactive astrocytes are sensitive to ZD7288, cAMP and a
+decreased [Na1]e concentration, thus we provide here, for the
+first time, evidence that HCN channels are strongly expressed
+by reactive astrocytes and significantly alter their electrophysiological properties at later time points following ischemic
+brain injury.
+The single-cell RT-qPCR analyses revealed an increased
+number of cells expressing Hcn genes and their increased relative expression 2W after FCI or GCI. Interestingly, these
+changes on the mRNA level occurred with a relatively long
+delay after injury and lasted for a long time, since at later
+time points we were also able to detect Hcn transcripts. Based
+on these data, it seems that the onset of HCN channel
+expression correlates with glial scar formation (Sofroniew,
+2009). Focal cerebral ischemia, the permanent and more
+severe type of ischemia, led to a marked increase in the number of Hcn expressing astrocytes when compared with GCI,
+so the levels of Hcn transcripts may correlate with the severity
+of ischemic damage. Moreover, the Hcn1,2 genes exhibited
+strong and frequent expression among all of the measured
+genes in reactive astrocytes 2W after ischemia, which makes
+them a potentially suitable marker of reactive astrocytes.
+Nevertheless, it is very difficult to distinguish reactive astrocytes from neural stem cells, which can be found in the proximity of the ischemic regions. Reactive astrocytes share almost
+all markers with neural stem cells (Buffo et al., 2008; Robel
+et al., 2011) and moreover, when exposed to the proper factors reactive astrocytes can adopt neural stem cells phenotype
+(Sirko et al., 2013). Therefore, we cannot exclude the possibility that some of the reactive astrocytes in our analyses
+adopted neural stem cells phenotype and also expressed
+increased levels of HCN channels transcripts.
+Our immunohistochemical analysis in control brains confirmed that HCN channels are predominantly present in neuronal cells in the mouse cortex or the rat hippocampus (WahlSchott and Biel, 2008) and that they are virtually absent in glial
+cells with the exception of HCN1 channels, which were
+detected in EGFP1 cells with a morphology corresponding to
+that of polydendrocytes. Although we detected the strong
+expression of Hcn genes in reactive astrocytes 2W after ischemia, we were unable to confirm the presence of HCN channels
+at this time point in the cytoplasmic membrane of reactive
+astrocytes. Nevertheless, 5W after ischemia we found a number
+of HCN1 reactive astrocytes after both types of ischemia.
+These results are quite unique since HCN channels were
+known to be expressed only in excitable cells, and only the
+2017
+
+FIGURE 7: Effect of 8-bromoadenosine 3’, 50 -cyclic monophosphate (cAMP) and decreased extracellular Na1 concentration (dNa) on
+astrocytic membrane currents in the post-ischemic rat hippocampus. A: The inward currents in astrocytes 5 weeks (5W) after global cerebral ischemia (GCI, n 5 7) activated by 1 s hyperpolarizing pulses from a holding potential of 270 to 2160 mV (see the inset at the bottom) are potentiated by 100 lM cAMP. B: Representative current/voltage curves generated from the currents activated by 1 s
+hyperpolarizing pulses in a reactive astrocyte 5W after GCI during the application of normal aCSF (•) and aCSF containing 100 lM cAMP
+(䊏). C: Inset represents the hyperpolarization-activated inward current obtained by passive current subtraction (left), and the bar graphs
+indicate the average amplitudes (in percentages) of inward currents after passive subtraction (right) evoked by hyperpolarization to
+2150 mV for 1 s in astrocytes after ischemia in normal aCSF (5W) and after the application of 100 lM cAMP (cAMP). D: The inward currents in astrocytes 5 weeks (5W) after global cerebral ischemia (GCI) activated by 1 s hyperpolarizing pulses from 270 to 2160 mV (see
+the inset at the bottom) are reduced after the application of aCSF with dNa (n 5 8). E: Representative current/voltage curve generated
+from the currents activated by 1 s hyperpolarizing pulses in a reactive astrocyte 5W after GCI during the application of normal aCSF (䊏)
+and during the application of aCSF with dNa (•). F: Inset represents the hyperpolarization-activated inward current obtained by passive
+current subtraction (left), and the bar graphs indicate the average amplitudes (in percentages) of inward currents after passive subtraction (right) evoked by hyperpolarization to 2150 mV for 1 s in astrocytes after ischemia in normal aCSF (5W) and after the application
+of aCSF with dNa. Statistical significance was calculated using paired t test; *P<0.05; **P<0.01.
+
+HCN1 channel was reported to be expressed in the cortex (Biel
+et al., 2009). Here we detected also HCN2 and HCN3 channels after ischemia in the mouse cortex as well as in the rat hip-
+
+2018
+
+pocampus. The relatively long delay between the strong
+transcription of Hcn genes and detectable protein levels could
+be explained by delayed translation into protein, a
+
+Volume 62, No. 12
+
+Honsa et al.: HCN Channels in Reactive Astrocytes
+
+phenomenon that was previously shown, for example, in freshly
+isolated human circulating monocytes (Guo et al., 2008).
+Although the frequency and expression rates of Hcn1, 2, and 3
+were increased 2W after FCI, immunohistochemistry showed
+the predominant presence of only HCN1 and HCN3 5W after
+FCI. This discrepancy could be caused by a different half-time
+of Hcn2 mRNA or its protein products. Alternatively, mRNA
+coding Hcn2 may not be translated into a protein product at
+all. Different types of miRNAs, which have recently been
+shown to regulate many downstream targets for example in the
+inflammatory response of astrocytes, could play a crucial role in
+this process (Iyer et al., 2012).
+All functional studies we performed point towards
+delayed protein expression, since in the earlier stages after
+ischemia we were unable to detect currents corresponding to
+HCN channels. However, in brains 5W after ischemia we
+found many reactive astrocytes with significantly depolarized
+RMP and decreased RM. These altered properties suggest
+changes in the composition of cytoplasmic membrane channels, such as Kir4.1 or two-pore domain K1 channels as
+shown previously (Kucheryavykh et al., 2009; Pivonkova
+et al., 2010; Wu et al., 2013). The recorded inward currents,
+sensitive to HCN channel blocker and co-agonist, together
+with the demonstrated Na1 conductance, imply that the
+HCN channels are one of the main players in the altered
+membrane properties of reactive astrocytes. Thus, these channels with permeability for Na1 ions could be partially responsible for the significant depolarization of reactive astrocytes
+that we observed after both types of ischemia. Although the
+passive membrane properties as well as the hyperpolarizationactivated inward currents in reactive astrocytes were very similar after both types of ischemia, we also found some differences in the sensitivity of the currents to their blockers and coagonists. ZD7288 decreased the amplitude of the
+hyperpolarization-activated currents by 64% in mice, but
+only by 28% in rats. Since different current reductions caused
+by ZD7288 were not described among different HCN homotetramers (Stieber, 2005), we suppose that different sensitivities to ZD7288 might be caused by an unusual composition
+of HCN channels in rodent reactive astrocytes. Another difference between reactive astrocytes after both types of ischemia was observed in the potentiation of hyperpolarizationactivated currents by cAMP. In reactive astrocytes after FCI,
+cAMP increased the amplitudes of the HCN currents only by
+29% in almost all astrocytes (in 25 cells out of 28), while in
+rat reactive astrocytes following GCI, cAMP application
+markedly increased the current amplitude by 116%, but only
+in 9 astrocytes out of 21. Since it is well known that cAMP
+increases the conductance of channels composed of HCN2 or
+4 (Altomare et al., 2003), we hypothesize that these isoforms
+might be enriched predominantly in reactive astrocytes in the
+December 2014
+
+rat. However, this presumption was not confirmed by immunohistochemistry, which could be explained by the different
+properties of HCN channels in astrocytes; nevertheless, similar cell type–specific differences in ion channel properties
+were already shown, for example, in NMDA receptors, which
+have strikingly different properties between neurons and
+astrocytes (Dzamba et al., 2013; Palygin et al., 2011). Interestingly, the activation of HCN channels by cAMP resulted
+in the shift of the voltage dependence of HCN channel opening towards more positive potentials only in reactive astrocytes after FCI (by 4.0 mV, n 5 25). This phenomenon
+could be caused by the concomitant activation of inwardly
+rectifying K1 channels, which could entirely counteract this
+effect (Roy and Sontheimer, 1995). Additionally, the HCN
+channel brain-specific auxiliary subunit TRIP8b, which is in
+part responsible for the correct membrane targeting of these
+channels, was shown to inhibit the cAMP-induced shift of
+voltage gating of HCN channel (Hu et al., 2013).
+The reduction of HCN current amplitudes in reactive
+astrocytes after a decrease of the [Na1]e concentration was
+comparable after both types of ischemia, which suggests their
+similar Na1 conductance. The conductance of HCN channels
+is carried by K1/Na1 at a ratio of 4:1 (Wahl-Schott and Biel,
+2008), which explains why the reduction of the [Na1]e concentration had a relatively small impact on the amplitude of
+inward currents. Moreover, the intracellular concentration of
+Na1 in astrocytes is higher than in neurons (Black et al.,
+2010), which could result in a lower influx of Na1 through
+HCN channels into astrocytes when compared with neurons.
+Taken together, it seems that the strong expression of
+HCN channels is a common feature of reactive astrocytes at
+later stages after ischemic brain injury and that therefore these
+channels may play an important role in the regeneration of
+ischemic tissue. Hyperpolarization-activated cyclic nucleotidegated non-selective cation channels are important regulators of
+neuronal physiology, contributing to passive membrane properties, such as resting membrane potential and input resistance,
+and to intrinsic oscillatory activity and synaptic integration.
+But what is the real purpose of this massive HCN channel
+upregulation in reactive astrocytes? As mentioned before, reactive astrocytes protect the CNS tissue, especially in the initial
+phase after ischemia, by taking up excitotoxic glutamate
+(Sidoryk-Wegrzynowicz et al., 2011) and protecting nervous
+tissue from oxidative stress (Liddell et al., 2006). At later stages,
+astrocytes facilitate blood brain barrier repair (Tian et al.,
+2011), stabilize extracellular homeostasis, reduce the seizure
+threshold (Stanimirovic et al., 1997) and limit the spread of
+inflammatory cells (Karimi-Abdolrezaee and Billakanti, 2012).
+It is obvious that the HCN channels are involved in the later
+processes, possibly contributing to ionic homeostasis maintenance by enabling Na1 and K1 influx into astrocytes or by
+2019
+
+reducing the [Na1]e concentration and therefore preventing
+seizures, since total tissue sodium levels are elevated in stroke
+(Thulborn et al., 2005) or in brain tumor tissues (Ouwerkerk
+et al., 2003). Moreover, Na1/K1 ATPase activity within astrocytes appears to depend on a constant Na1 influx through Na1
+channels, and their role may be a prerequisite for the viability
+of these cells (Sontheimer et al., 1994). We hypothesize that the
+upregulated expression of Na1 permeable channels within
+astrocytes may provide a compensatory mechanism that supports Na1/K1 ATPase-dependent ionic homeostasis in areas of
+CNS injury (Black et al., 2010). Membrane depolarization due
+to HCN channel activity might also activate a part of the low/
+high threshold voltage-gated Ca21 channels, which are
+expressed in post-ischemic astrocytes (Chung et al., 2001;
+Westenbroek et al., 1998), and thus enhance Ca21 signaling
+within astrocytic networks in response to injury. Additionally,
+HCN channels were also shown to play an essential role in cell
+proliferation as in the case of embryonic stem cells (Lau et al.,
+2011), and since we showed that astrocytes proliferate at later
+time points after ischemia (Anderova et al., 2010), these channels could play a role in controlling the proliferation of reactive
+astrocytes.
+In view of the fact that HCN channel blockers have
+been recently introduced into human medicine as analogs of
+beta blockers or calcium channel blockers in the treatment of,
+e.g., angina pectoris—Ivabradine (Borer, 2003), our study
+shows for the first time another possible target for these
+blockers in the human body. Thus, it should be taken into
+account that using HCN channel blockers could lead to
+unexpected interactions or side-effects after treatment with
+these drugs during ongoing stroke, when reactive astrocytes
+perform many important functions.
+
+Acknowledgment
+Grant sponsor: The Grant Agency of the Czech Republic;
+Grant number: CZ: GA CR: P303 13–02154S; Grant sponsor: The Grant UEM AV CR; Grant number: P304/12/
+G069; Grant sponsor: The Academy of Sciences of the Czech
+Republic; Grant number: AV0Z50390703; Grant sponsor:
+The European Social Fund and the state budget of the Czech
+Republic; Grant number: CZ.1.07/2.3.00/30.0045; Grant
+sponsor: The Project “BIOCEV—Biotechnology and Biomedicine Centre of the Academy of Sciences and Charles University”; Grant number: CZ.1.05/1.1.00/02.0109; Grant
+sponsor: The European Regional Development Fund.
+The authors would like to thank to Helena Pavlikova and
+Marketa Hemerova for excellent technical assistance. We also
+thank James Dutt for helpful comments and suggestions.
+Conflict of Interest: The authors declare no conflict of
+interest.
+2020
+
+References
+Altomare C, Terragni B, Brioschi C, Milanesi R, Pagliuca C, Viscomi C,
+Moroni A, Baruscotti M, DiFrancesco D. 2003. Heteromeric HCN1–HCN4
+channels: a comparison with native pacemaker channels from the rabbit
+sinoatrial node. J Physiol 549:347–359.
+Anderova M, Vorisek I, Pivonkova H, Benesova J, Vargova L, Cicanic M,
+Chvatal A, Sykova E. 2010. Cell death/proliferation and alterations in glial
+morphology contribute to changes in diffusivity in the rat hippocampus after
+hypoxia–ischemia. J Cereb Blood Flow Metab 31:894–907.
+Benesova J, Rusnakova V, Honsa P, Pivonkova H, Dzamba D, Kubista M,
+Anderova M. 2012. Distinct expression/function of potassium and chloride
+channels contributes to the diverse volume regulation in cortical astrocytes of
+GFAP/EGFP mice (Hetman M, ed.). PLoS ONE 7:e29725.
+Biel M, Wahl-Schott C, Michalakis S, Zong X. 2009. Hyperpolarization-activated cation channels: From genes to function. Physiol Rev 89:847–885.
+Black JA, Newcombe J, Waxman SG. 2010. Astrocytes within multiple sclerosis lesions upregulate sodium channel Nav1.5. Brain 133:835–846.
+Borer JS .2003. Antianginal and antiischemic effects of ivabradine, an if inhibitor, in stable angina: A randomized, double-blind, multicentered, placebocontrolled trial. Circulation 107:817–823.
+Buffo A, Rite I, Tripathi P, Lepier A, Colak D, Horn A-P, Mori T, G€
+otz M.
+2008. Origin and progeny of reactive gliosis: A source of multipotent cells in
+the injured brain. Proc Natl Acad Sci USA 105:3581–3586.
+Butenko O, Dzamba D, Benesova J, Honsa P, Benfenati V, Rusnakova V,
+Ferroni S, Anderova M. 2012. The Increased Activity of TRPV4 channel in the
+astrocytes of the adult rat hippocampus after cerebral hypoxia/ischemia
+(Am
+ed
+ee T, ed.). PLoS ONE 7:e39959.
+Chen M, Dong Y, Simard JM. 2003. Functional coupling between sulfonylurea
+receptor type 1 and a nonselective cation channel in reactive astrocytes from
+adult rat brain. J Neurosci 23:8568–8577.
+Chen M, Simard JM. 2001. Cell swelling and a nonselective cation channel
+regulated by internal Ca21 and ATP in native reactive astrocytes from adult
+rat brain. J Neurosci 21:6512–6521.
+Chung YH, Shin CM, Kim MJ, Cha CI. 2001. Enhanced expression of L-type
+Ca21 channels in reactive astrocytes after ischemic injury in rats. Neurosci
+Lett 302:93–96.
+Chvatal A, Anderova M, Neprasov
+a H, Prajerova I, Benesov
+a J, Butenko O,
+Verkhratsky A. 2008. Pathological potential of astroglia. Physiol Res 57 Suppl
+3:S101–S110.
+Dzamba D, Honsa P, Anderova M. 2013. NMDA Receptors in glial cells:
+Pending questions. Curr Neuropharmacol 11:1–13.
+Faulkner JR. 2004. Reactive astrocytes protect tissue and preserve function
+after spinal cord injury. J Neurosci 24:2143–2155.
+Felix R, Sandoval A, S
+anchez D, G
+omora JC, Vega-Beltr
+an JL, DL, Trevi~
+no
+CL, Darszon A. 2003. ZD7288 inhibits low-threshold Ca21 channel activity
+and regulates sperm function. Biochem Biophys Res Commun 311:187–192.
+Gasparini S, DiFrancesco D. 1997. Action of the hyperpolarization-activated
+current (Ih) blocker ZD 7288 in hippocampal CA1 neurons. Pflugers Arch Eur
+J Physiol 435:99–106.
+Guatteo E, Stanness KA, Janigro D. 1996. Hyperpolarization-activated ion
+currents in cultured rat cortical and spinal cord astrocytes. Glia 16:196–209.
+Guo Y, Xiao P, Lei S, Deng F, Xiao GG, Liu Y, Chen X, Li L, Wu S, Chen Y,
+Jiang H, Tan L, Xie J, Zhu X, Liang S, Deng H .2008. How is mRNA expression predictive for protein expression? A correlation study on human circulating monocytes. Acta Biochim Biophys Sin 40:426–436.
+Honsa P, Pivonkova H, Dzamba D, Filipova M, Anderova M. 2012. Polydendrocytes display large lineage plasticity following focal cerebral ischemia.
+PLoS ONE 7:e36816.
+Honsa P, Pivonkova H, Anderova M. 2013. Focal cerebral ischemia induces
+the neurogenic potential of mouse Dach1-expressing cells in the dorsal part
+of the lateral ventricles. Neuroscience 240:39–53.
+
+Volume 62, No. 12
+
+Honsa et al.: HCN Channels in Reactive Astrocytes
+Hu L, Santoro B, Saponaro A, Liu H, Moroni A, Siegelbaum S. 2013. Binding
+of the auxiliary subunit TRIP8b to HCN channels shifts the mode of action of
+cAMP. J Gen Physiol 142:599–612.
+
+Perill
+an PR, Li X, Potts EA, Chen M, Bredt DS, Simard JM. 2000. Inward rectifier K(1) channel Kir2.3 (IRK3) in reactive astrocytes from adult rat brain. Glia
+31:181–192.
+
+Iyer A, Zurolo E, Prabowo A, Fluiter K, Spliet WGM, van Rijen PC, Gorter JA,
+Aronica E. 2012. MicroRNA-146a: A key regulator of astrocyte-mediated
+inflammatory response (Villoslada P, ed). PLoS ONE 7:e44789.
+
+Pivonkova H, Benesova J, Butenko O, Chvatal A, Anderova M. 2010. Impact
+of global cerebral ischemia on K1 channel expression and membrane properties of glial cells in the rat hippocampus. Neurochem Int 57:783–794.
+
+Kang SJ, Cho S-H, Park K, Yi J, Yoo SJ, Shin KS. 2008. Expression of Kir2.1
+channels in astrocytes under pathophysiological conditions. Mol Cells 25:
+124–130.
+
+Ridet JL, Malhotra SK, Privat A, Gage FH. 1997. Reactive astrocytes: cellular
+and molecular cues to biological function. Trends Neurosci 20:570–577.
+
+Karimi-Abdolrezaee S, Billakanti R. 2012. Reactive astrogliosis after spinal cord injury-beneficial and detrimental effects. Mol Neurobiol 46:251–
+264.
+Klar M, Surges R, Feuerstein TJ. 2003. Ih channels as modulators of presynaptic terminal function: ZD7288 increases NMDA-evoked [3H]-noradrenaline
+release in rat neocortex slices. Naunyn-Schmiedeberg’s Arch Pharmacol 367:
+422–425.
+Kucheryavykh LY, Kucheryavykh YV, Inyushin M, Shuba YM, Sanabria P,
+Cubano LA, Skatchkov SN, Eaton MJ. 2009. Ischemia increases TREK-2 channel expression in astrocytes: Relevance to glutamate clearance. TONEURJ 3:
+40–47.
+Lau Y-T, Wong C-K, Luo J, Leung L-H, Tsang P-F, Bian Z-X, Tsang S-Y. 2011.
+Effects of hyperpolarization-activated cyclic nucleotide-gated (HCN) channel
+blockers on the proliferation and cell cycle progression of embryonic stem
+cells. Pflugers Arch Eur J Physiol 461:191–202.
+Lewis AS, Chetkovich DM. 2011. HCN channels in behavior and neurological disease: too hyper or not active enough? Mol Cell Neurosci 46:357–
+367.
+Lichter-Konecki U, Mangin JM, Gordish-dressman H, Hoffman EP, Gallo V.
+2008. Gene expression profiling of astrocytes from hyperammonemic mice
+reveals altered pathways for water and potassium homeostasis in vivo. Glia
+56:365–377.
+Liddell JR, Dringen R, Crack PJ, Robinson SR. 2006. Glutathione peroxidase
+1 and a high cellular glutathione concentration are essential for effective
+organic hydroperoxide detoxification in astrocytes. Glia 54:873–879.
+Marx T, Gisselmann G, St€
+ortkuhl KF, Hovemann BT, Hatt H. 1999. Molecular
+cloning of a putative voltage- and cyclic nucleotide-gated ion channel present in the antennae and eyes of Drosophila melanogaster. Invert Neurosci 4:
+55–63.
+Matthias K, Kirchhoff F, Seifert G, H€
+uttmann K, Matyash M, Kettenmann H,
+Steinh€
+auser C. 2003. Segregated expression of AMPA-type glutamate receptors and glutamate transporters defines distinct astrocyte populations in the
+mouse hippocampus. J Neurosci 23:1750–1758.
+Noebels JL, Avoli M, Rogawski MA, Olsen RW, Delgado-Escueta AV, Poolos
+NP. 2012. Hyperpolarization-activated cyclic nucleotide-gated (HCN) ion
+channelopathy in epilepsy, 4 ed. Bethesda, MD: National Center for Biotechnology Information (US).
+Nolte C, Matyash M, Pivneva T, Schipke CG, Ohlemeyer C, Hanisch UK,
+Kirchhoff F, Kettenmann H. 2001. GFAP promoter-controlled EGFP-expressing transgenic mice: A tool to visualize astrocytes and astrogliosis in living
+brain tissue. Glia 33:72–86.
+
+Robel S, Berninger B, G€
+otz M. 2011. The stem cell potential of glia: Lessons
+from reactive gliosis. Nat Rev Neurosci. 12:88–104.
+Roy ML, Sontheimer H. 1995. Beta-adrenergic modulation of glial inwardly
+rectifying potassium channels. J Neurochem 64:1576–1584.
+Rusnakova V, Honsa P, Dzamba D, Ståhlberg A, Kubista M, Anderova M.
+2013. Heterogeneity of astrocytes: From development to injury—Single cell
+gene expression. PLoS ONE 8:e69734.
+Sidoryk-Wegrzynowicz M, Wegrzynowicz M, Lee E, Bowman AB, Aschner M. 2011.
+Role of astrocytes in brain function and disease. Toxicol Pathol 39:115–123.
+Sirko S, Behrendt G, Johansson PA, Tripathi P, Costa M, Bek S, Heinrich C,
+Tiedt S, Colak D, Dichgans M, Fischer IR, Plesnila N, Staufenbiel M, Haass C,
+Snapyan M, Saghatelyan A, Tsai LH, Fischer A, Grobe K, Dimou L, G€
+otz M.
+2013. Reactive glia in the injured brain acquire stem cell properties in
+response to sonic hedgehog [corrected]. Cell Stem Cell 12:426–439.
+Sofroniew MV. 2009. Molecular dissection of reactive astrogliosis and glial
+scar formation. Trends Neurosci 32:638–647.
+Sofroniew MV, Vinters HV. 2009. Astrocytes: biology and pathology. Acta
+Neuropathol 119:7–35.
+Sontheimer H, Fernandez-Marques E, Ullrich N, Pappas CA, Waxman SG.
+1994. Astrocyte Na1 channels are required for maintenance of Na1/K(1)ATPase activity. J Neurosci 14:2464–2475.
+Stanimirovic DB, Ball R, Durkin JP. 1997. Stimulation of glutamate uptake
+and Na,K-ATPase activity in rat astrocytes exposed to ischemia-like insults.
+Glia 19:123–134.
+Stieber J. 2005. Functional expression of the human HCN3 channel. J Biol
+Chem 280:34635–34643.
+Thal SC, Thal SE, Plesnila N. 2010. Characterization of a 3-vessel occlusion
+model for the induction of complete global cerebral ischemia in mice. J Neurosci Methods 192:219–227.
+Thulborn KR, Davis D, Snyder J, Yonas H, Kassam A. 2005. Sodium MR imaging of acute and subacute stroke for assessment of tissue viability. Neuroimaging Clin N Am 15:639–653 (xi–xii).
+Tian W, Sawyer A, Kocaoglu FB, Kyriakides TR. 2011. Astrocyte-derived
+thrombospondin-2 is critical for the repair of the blood–brain barrier. Am J
+Pathol 179:860–868.
+Wahl-Schott C, Biel M. 2008. HCN channels: Structure, cellular regulation
+and physiological function. Cell Mol Life Sci 66:470–494.
+Westenbroek RE, Bausch SB, Lin RC, Franck JE, Noebels JL, Catterall WA.
+1998. Upregulation of L-type Ca21 channels in reactive astrocytes after brain
+injury, hypomyelination, and ischemia. J Neurosci 18:2321–2334.
+
+Ouwerkerk R, Bleich KB, Gillen JS, Pomper MG, Bottomley PA. 2003. Tissue
+sodium concentration in human brain tumors as measured with 23Na MR
+imaging. Radiology 227:529–537.
+
+Wu, X., Liao L, Liu X, Luo F, Yang T, Li C. 2012. Is ZD7288 a selective blocker
+of hyperpolarization-activated cyclic nucleotide-gated channel currents?
+Channels 6:438–442. doi:10.4161/chan.22209.
+
+Palygin O, Lalo U, Pankratov Y. 2011. Distinct pharmacological and functional
+properties of NMDA receptors in mouse cortical astrocytes. Br J Pharmacol
+163:1755–1766.
+
+Wu X, Liu Y, Chen X, Sun Q, Tang R, Wang W, Yu Z, Xie M. 2013. Involvement of TREK-1 activity in astrocyte function and neuroprotection under
+simulated ischemia conditions. J Mol Neurosci 49:499–506.
+
+December 2014
+
+2021
+
+

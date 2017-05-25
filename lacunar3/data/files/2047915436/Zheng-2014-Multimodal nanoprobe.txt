@@ -1,0 +1,898 @@
+﻿[Link]
+http://doi.wiley.com/10.1002/adhm.201400159
+www.advhealthmat.de
+www.MaterialsViews.com
+FULL PAPER
+© 2014 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim 1909 wileyonlinelibrary.com
+ Multimodal Nanoprobes Evaluating Physiological Pore Size 
+of Brain Vasculatures in Ischemic Stroke Models 
+   Shuyan     Zheng     ,         Ying-Ying     Bai     ,         Yinzhi     Changyi     ,         Xihui     Gao     ,         Wenqing    Zhang     ,    
+    Yuancheng     Wang     ,         Lu     Zhou     ,         Shenghong     Ju     ,*        and         Cong     Li   *
+DOI: 10.1002/adhm.201400159
+  S. Zheng, Y. Changyi, X. Gao, W. Zhang, 
+Dr. L. Zhou, Dr. C. Li 
+ Key Laboratory of Smart Drug Delivery 
+Ministry of Education 
+ School of Pharmacy 
+Fudan University 
+  Shanghai     201203  ,    China   
+E-mail:   congli@fudan.edu.cn    
+ Y.-Y. Bai, Y. Wang, Prof. S. Ju 
+ Jiangsu Key Laboratory of Molecular and 
+Functional Imaging 
+Department of Radiology 
+ Zhongda  Hospital 
+Medical School of Southeast University 
+  Nanjing     210009  ,    China   
+E-mail:   jsh0836@hotmail.com   
+ Ischemic stroke accounts for 80% strokes and originates from a reduction 
+of cerebral blood fl ow (CBF) after vascular occlusion. For treatment, the 
+fi rst action is to restore CBF by thrombolytic agent recombinant tissue-type 
+plasminogen activator (rt-PA). Although rt-PA benefi ts clinical outcome, its 
+application is limited by short therapeutic time window and risk of brain 
+hemorrhage. Different to thrombolytic agents, neuroprotectants reduce neurological
+injuries by blocking ischemic cascade events such as excitotoxicity 
+and oxidative stress. Nano-neuroprotectants demonstrate higher therapeutic 
+effect than small molecular analogues due to their prolonged circulation 
+lifetime and disrupted blood–brain barrier (BBB) in ischemic region. Even 
+enhanced BBB permeability in ischemic territories is verifi ed, the pore size of 
+ischemic vasculatures determining how large and how effi cient the therapeutics
+can pass is barely studied. In this work, nanoprobes (NPs) with different
+diameters are developed. In vivo multimodal imaging indicates that NP 
+uptakes in ischemic region depended on their diameters and the pore size 
+upper limit of ischemic vasculatures is determined as 10–11 nm. Additionally, 
+penumbra defi ned as salvageable ischemic tissues performed a higher BBB 
+permeability than infarct core. This work provides a guideline for developing
+nano-neuroprotectants by taking advantage of the locally enhanced BBB 
+permeability in ischemic brain tissues. 
+and it originates from a lasting or transient
+reduction in cerebral blood fl ow 
+(CBF) that arises from the occlusion of 
+a cerebral artery either by embolus or by 
+other particle matters. [ 2 ]  In the management
+of ischemic stroke, the fi rst line of 
+action is to restore the CBF by intravenous 
+injection of thrombolytic agent: recombinant
+tissue-type plasminogen activator 
+(rt-PA). As the only clinically approved 
+drug for acute stroke treatment, rt-PA has 
+been proved to dredge the occlusive vasculatures
+, increase perfusion of ischemic 
+regions, and preserve salvageable ischemic 
+tissues. [ 3 ]  Although rt-PA benefi ts clinical 
+outcome, [ 4 ]  its application in clinic is limited
+by short therapeutic time window 
+(within 3.0 h after ischemic symptoms) [ 5 ]
+and potential risk of brain hemorrhage. [ 6 ]
+Therefore, alternative therapeutic strategies
+with extended intervention time 
+window and minimized side effects are 
+urgently needed. 
+ Ischemic cascade, starting with a severe 
+focal reduction in CBF triggers a cascade 
+of events in the ischemic region including 
+depletion of energy compounds, excessive
+activation of glutamate receptors, accumulation of intracellular
+calcium cations, acidosis of intracellular environment, 
+excessive production of free radicals, abnormal recruitment of 
+infl ammatory cells, and initiation of pathological apoptosis, [ 7 ]
+which are actively involved in ischemic damage. [ 8 ]  The interruption
+of these cascades holds potential to protect the neurological
+tissues from above ischemic damages. Neuroprotection 
+aims to prevent the ischemic insults by blocking the deleterious 
+ischemic cascade. Even though neuroprotective agents such 
+as glutamate antagonists, [ 9 ]  ion channel modulators, [ 10 ]   antiinfl ammatory  agents, [ 11 ]  and free radical scavenges [ 12 ]   have 
+been developed and showed pronounced therapeutic effects in 
+preclinical studies, their clinical transformations were disappointing.[ 13 ]  One of the major reasons is the low brain delivery 
+effi ciency of the neuroprotectants due to their short circulation 
+lifetime. For example, compared with the native superoxide 
+dismutase (SOD) with short resident time (≈6 min) in blood 
+pool, [ 14 ]  SOD encapsulated in biodegradable poly( D,L -lactide   co -
+glycolide, PLGA) demonstrated a higher reduction in infarct 
+volume and increased survival rate by eliminating the free 
+  1.      Introduction 
+ Stroke is the second most frequent cause of death and a leading 
+cause of disability and cognitive impairment worldwide. [ 1 ]
+Ischemic stroke accounts for approximately 80% of strokes 
+Adv. Healthcare Mater. 2014, 3, 1909–1918
+(BY PDF Extractor SDK TRIAL VERSION)
+www.MaterialsViews.com
+FULL PAPER
+www.advhealthmat.de
+1910 wileyonlinelibrary.com © 2014 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+oxidative radicals. [ 15 ]  Therefore, the development of nanosized 
+neuroprotective agents or drug delivery vectors holds promise 
+to achieve improved therapeutic effi ciency. 
+ As a unique physiological structure of the blood vessels in 
+the brain, blood–brain barrier (BBB) precisely regulates the 
+movement of molecules between blood and brain and maintains
+a precisely controlled microenvironment for neuronal 
+circuits, synaptic transmission, and neurogenesis. [ 16 ]  Due to 
+the low permeability of BBB, overwhelming majority of small 
+molecular drugs and almost all macromolecular pharmaceutics
+cannot reach brain tissues. [ 17 ]  The acute ischemia results in 
+local BBB permeability enhancement, which can be explained 
+by the disruption of tight junctions (TJs) [ 18 ]  that are zipper-like 
+seals between adjacent endothelial cells [ 19 ]  and restrict the entry 
+of blood-borne substances into brain. The compromised BBB 
+tightness in ischemic region results in brain damages such 
+as edema and hemorrhagic transformation. [ 20 ]  On the other 
+hand, the leaky BBB provides the opportunity for delivery of 
+the drugs, especially the nanoparticle-based therapeutics. Even 
+though the BBB opening dynamics in ischemic regions were 
+systemically studied, [ 21 ]  as far as we know, the physiologic pore 
+size of ischemic vasculatures that determines how large and 
+how effi cient the nanoparticles can pass is barely studied. [ 22 ]
+Elucidating the vascular pore size up-limit in ischemic regions, 
+especially in penumbra that is referred to the “salvageable” 
+tissue [ 23 ]  will provide a guideline for development of nanoparticle-based
+neuroprotective agents by taking advantage of the 
+enhanced BBB permeability in the ischemic regions. 
+ Magnetic resonance imaging is widely used for ischemic 
+stroke diagnosis due to its noninvasiveness, the ability to offer 
+anatomic information with high spatial resolution and the 
+feasibility to characterize the etiology and pathophysiology. [ 20 ]
+Meanwhile, the unrivaled advantages of optical imaging stem 
+from its ability to monitor the biological events with detection 
+sensitivity at molecular or cellular level for providing functional 
+information. [ 24 ]  To determine the physiologic pore size of vasculatures
+in the ischemic regions, a series of dendrimer-based 
+nanoprobes (NPs) with diameters in a range of 3.3–14.8 nm 
+was developed. The conjugation of both paramagnetic chelators 
+and fl uorophores on the NPs helps to elucidate
+the pore sizes of vasculatures in infarct 
+core as well as penumbra area by noninvasively
+quantifying their brain uptake effi ciencies
+after their extravasation from the leaky 
+vasculatures ( Figure 1  ).   
+  2.      Results 
+  2.1.      Design,  Synthesis,  and  Characterization 
+of the NPs 
+ Poly(amidoamine) (PAMAM) dendrimers as 
+multigenerational polymers were chosen as 
+scaffolds of NPs due to their globular architecture
+, identical molecular weight, and welldefi ned reactive groups on surface. [ 25 ]   With 
+each successive generation, the number 
+of reactive groups on dendrimer surface 
+doubles and the overall diameter increases by 1–2 nm. [ 26 ]
+Previous reports demonstrated that the pore size upper limit 
+in brain tumor vasculatures is about 12 nm. [ 27 ]  By hypothesizing
+the similar magnitude of vascular pore sizes between 
+ischemic lesion and brain tumor, NPs were prepared by using 
+PAMAM dendrimers with generation from 2 to 6. The modifi cation of polyethylene glycols (PEGs) not only improves the 
+biocompatibility of the NPs but also minimizes the nonspecifi c 
+tissue binding by shielding the surface charge on the NPs. To 
+improve imaging sensitivity, multiple copies of paramagnetic 
+Gd-DTPA chelators were labeled on the NPs via physiologically
+inert amide bonds. Meanwhile, near-infrared (NIR) fl uorophore
+IR783 was conjugated to track the NP uptakes in vivo 
+because tissue absorption and autofl uorescence in NIR wavelength
+region (650–900 nm) are low, which allows the NIR light 
+to penetrate into deep tissues. [ 28 ]  Additionally, the labeled rhodamine
+helps to track the NPs in excised brain tissues under 
+fl uorescence microscope because the NIR fl uorophore cannot 
+be excited well by conventional fl uorescence microscope. 
+ The general synthetic procedure of the NPs is described in 
+Scheme 1  .  mPEG 2K -NHS ester (3.2, 6.4, 12.8, 25.6, and 51.2 
+molar equivalences to G2, G3, G4, G5, and G6 dendrimer, 
+respectively) dissolved in anhydrous DMF was added dropwise 
+to the dendrimer (1.0 mmol) in 2.0 mL PBS (pH 7.4). The mixture
+was allowed to react for 1.0 h at r.t. and purifi ed by gel 
+column chromatography (GCC, Sephadex G25) using deionized 
+water as mobile phase to give compound  1a – e .   1a – e  (0.9 mmol) 
+in 3.0 mL sodium bicarbonate buffered solution (0.1  M , pH 9.5) 
+reacted with DTPA dianhydride (12, 24, 48, 96, 192 equiv.). The 
+pH of the reaction solution was maintained at pH 9.5 by adding 
+NaOH solution (0.1  M ). The product labeled with multiple 
+DTPA chelators ( 2a – e ) was purifi ed by GCC. Compound  2a – e
+(0.8 mmol) in 2.0 mL HEPES buffer (0.1  M , pH 8.3) was added 
+with Gd 
+2
+ (CO 
+3
+ ) 
+3
+  powder (24, 48, 96, 192, 384 equiv.) and stirred 
+for overnight at 60 °C. At the end of reaction, excess Gd 
+2
+ (CO 
+3
+ ) 
+3
+was fi ltrated and the clear supernatant was further purifi ed by 
+a centrifugal fi lter (MW 3000 and 10 000 cutoff, 4000 rpm) to 
+give compound  3a – e . Home-made reactive IR783-NHS ester 
+(4.0 equiv.) in 50 µL anhydrous DMF was added dropwise to 
+Adv. Healthcare Mater. 2014, 3, 1909–1918
+Figure 1.     Determination of physiological pore size upper limit of vasculatures in brain ischemic 
+regions. The pore size upper limit of vasculatures in ischemic territories was determined by 
+measuring the extravasation efficiencies of NPs with different hydrodynamic diameters via in 
+vivo MRI/NIR fl uorescence imaging and ex vivo fl uorescence microscopic imaging.
+(DEMO PDF Extractor SDK 8.0.0.2542-211960742)
+www.MaterialsViews.com
+FULL PAPER
+www.advhealthmat.de
+1911 wileyonlinelibrary.com © 2014 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+3a – e  (0.7 mmol) in 2.0 mL HEPES (pH 8.3) solution. After stirring
+1.0 h at r.t., rhodamine-NHS ester (3.0 equiv.) in 50 µL 
+anhydrous DMF was added. The dual-fl uorophore conjugated 
+dendrimers were purifi ed by GCC respectively to offer the fi nal 
+products  5a – e.
+ The physical parameters of the NPs were demonstrated in 
+Table 1  . The hydrodynamic diameters of the NPs correlated with 
+the dendrimer generation and increased from 3.3 nm of G2-P to 
+14.8 nm of G6-P (Figure S1A, Supporting Information). Every NP 
+migrated as a single band in fl uorescence images of the sodium 
+dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGEs), 
+which indicated their purities (Figure S1B, Supporting Information
+). Notably, the migration distances of the NP bands decreased 
+with dendrimer generation number, which can be interpreted by 
+the increased molecular weights. All the migration bands in NIR 
+and rhodamine fl uorescence images colocalized well with each 
+other, which verifi ed the dual-fl uorophore conjugation on the 
+NPs.  1 H NMR spectroscopy indicated that averagely 10% primary 
+amines on the NPs were modifi ed with PEG. Meanwhile, the 
+molar ratios between Gd 3+ -DTPA chelators and primary amines 
+on the NPs were measured in a range of 20%–30%. Moreover, 
+the average longitudinal relaxivity  r
+1p
+  of the labeled Gd 3+   chelators
+enhanced with the generation and the values increased 
+from 2.7 m M
+−1   s −1 /Gd 3+  of G2-P to 8.8 m M
+−1   s −1 /Gd 3+  of G6-P. 
+Averagely 2–4 IR783 and rhodamine fl uorophores were labeled 
+on the NPs, which makes them sensitive enough to be visualized
+by in vivo optical imaging (Figure S2, Table S1, Supporting 
+Information). 
+  2.2.      The  Particle-Size-Dependent  NP  Uptakes  in  Ischemic 
+Regions 
+ The ischemic stroke models were developed in nude mice 
+underwent a permanent middle cerebral artery occlusion 
+(MCAO) via photochemically induced strategy. [ 29 ]  The ischemic 
+lesion defi ned by T2W-MRI distributed in large part of cortex 
+(from primary motor and sensory cortices to the end), striatum
+and nucleus accumbens of the right brain hemisphere. 
+Remarkably, the ischemic location and volume were highly 
+reproducible in the mouse models, which benefi ted to accurately
+evaluate vascular pore size in ischemic regions.  Figure 2  A  
+demonstrated the representative T1W MR images of the mouse 
+brains before and at selected time post-injection (PI) of NP via 
+intravenous (i.v.) injection. Although no obvious MR enhancement
+was observed after the administration of G6-P, other NPs 
+performed obvious uptakes in the ischemic territories. In the 
+fi rst 2 h PI, MR signals were observed in ventral pallidum and 
+nucleuses below the striatum in the ipsilateral hemisphere. 
+Compared with the rapidly reduced G2-P signal, G3, G4, and 
+Adv. Healthcare Mater. 2014, 3, 1909–1918
+Scheme 1.     Development of multimodal NPs with different particle size. A) Synthetic procedure of the PAMAM dendrimer-based NPs. i) mPEG2KNHS
+, pH 7.4; ii) DTPA-dianhydride, pH 9.5; iii) Gd 
+2
+ (CO 
+3
+ ) 
+3
+ , pH 8.3; iv) IR783-NHS, pH 8.3; v) Rho-NHS, pH 8.3. B) Schematics of the NPs based on 
+G2 –G6 PAMAM dendrimer.
+Table 1.     Physical properties of dendrimer based NPs.  
+NP d   [mm] a) PDI a) ζ
+[mV] a)
+Den/PEG/
+Gd b)
+r
+1p
+[m M
+−1   s −1 ] c)
+G2-P 3.3 0.306 3.6 1/10/3.6 2.71
+G3-P 3.9 0.294 8.8 1/10/8.5 4.10
+G4-P 6.5 0.348 10.8 1/10/20 5.48
+G5-P 10.7 0.313 8.7 1/10/28.0 6.20
+G6-P 14.8 0.233 20.5 1/10/50.2 8.80
+a) Diameter, polydispersity index (PDI), and zeta potential (ζ) of the NPs were 
+measured by dynamic light scattering (DLS) in PBS (pH 7.4).  b) The Gd concentrations
+were measured by inductively coupled plasma-atomic emission spectrometry 
+(ICP-AES).  c) T1-weighted relaxivities ( r
+1p
+ ) of the NPs were determined on 7.0 T MRI 
+scanner at 25 °C.   
+(8.0.0.2542,2008072498 PDF Extractor SDK TRIAL)
+www.MaterialsViews.com
+FULL PAPER
+www.advhealthmat.de
+1912 wileyonlinelibrary.com © 2014 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+G5-P were detected in the boundary between the cortex and 
+striatum including claustrum, dorsal endopiriform nucleus, 
+and ventral endoporiform nucleus at 12 h PI. At 24 h, MR signals
+of G3, G4, and G5-P were found in the cortex and striatum 
+of the ipsilateral hemisphere. The color-coded T1W-MR images 
+showed that G4-P not only offered the highest signal enhancements
+but also distributed in the largest volume in the ischemic 
+territories. Figure  2 B demonstrated the time-dependent 
+T1W-MR signal ratio between the ipsilateral and contralateral 
+hemispheres after administration of NPs. Signifi cantly,  while 
+the target to background (T/B) ratios of G4, G5, and G6-Ps 
+increased consistently, the ratios of G2 and G3-P reached their 
+maximal values at 2 and 12 h, respectively. The normalized T/B 
+ratios at 24 h PI of the NPs were demonstrated in Figure  2 C, 
+and they decreased with a sequence of G4-P> G3-P> G2-P >
+G5-P > G6-P (mean ± SD,  n = 4).  
+ The NP delivery effi ciency into ischemic regions was further 
+investigated by in vivo NIR fl uorescence imaging.  Figure 3  A  
+demonstrated representative in vivo NIR fl uorescence images of 
+ischemic mouse models at selected time points after the injection
+of NP via i.v.. All NPs visualized the ischemic region located 
+at the ipsilateral hemisphere. While the T/B ratios of G4, G5, 
+and G6-Ps increased consistently with time, the values of G2 and 
+G3-P reached their maximal values at 4 h PI (Figure  3 B). Above 
+experimental result was verifi ed by ex vivo NIR fl uorescence 
+images of brains that were excised at 2 and 24 h PI (Figure  3 C). 
+While strong fl uorescence signals of G2, G3, and G4-P in the 
+ischemic regions were detected at 2 h PI of NPs, there were little 
+signals of G5 and G6-P to be observed. In contrast, when the 
+signals of G2 and G3-P remarkably decreased at 24 h PI, the fl uorescence
+signals of G4 and G5-P increased substantially compared
+to the values at 2 h PI. Quantitative studies demonstrated 
+that all of the NPs, except G2-P, showed higher T/B ratio at 24 h 
+PI compared to the values at 2 h PI (Figure  3 D). G4-P demonstrated
+the highest T/B ratio at 24 h PI. 
+  2.3.     Pore Size Upper Limit of BBB in Infarct Core and Penumbra 
+ Due to the heterogeneity of CBF within the ischemic regions, 
+tissues far away from collateral supply and exposed to the 
+most severe reduction of CBF are referred to the infarct core 
+where the damages are irreversible. Tissue at the periphery of 
+the infarct core with a less severe reduction in CBF is defi ned 
+Adv. Healthcare Mater. 2014, 3, 1909–1918
+Figure 2.     MRI indicated the particle-size-dependent NP uptakes in the ischemic region. A) In vivo T1W MR images of ischemic mouse brains before 
+and selected time points after the administration of NPs (150 µL, T1 = 60 ms) via i.v.. The ischemia territories were indicated by the T2W MRI. The 
+color code (C.C.) MR images presented the T1W signal enhancement of the NPs at 24 h PI. B) Time-dependent T1W MR signal intensity ratio between 
+the ipsilateral and contralateral hemisphere after i.v. injection of NP. C) Contrast to noise ratio (CNR) in the ipsilateral hemisphere (Is) at 2 and 24 h 
+PI of NPs. The data were presented as mean±SD ( n = 4).
+(BY PDF Extractor SDK TRIAL VERSION)
+www.MaterialsViews.com
+FULL PAPER
+www.advhealthmat.de
+1913 wileyonlinelibrary.com © 2014 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+as ischemic penumbra where the prompt restoration of CBF 
+can recover its neurological function. Saving the penumbra 
+shows crucial clinical relevance because its salvage correlates 
+to the therapeutic effi ciency. [ 30 ]  The location of infarct core and 
+penumbra in ischemic mouse brain was delineated by triphenyl
+tetrazolium chloride (TTC) staining, Nissl staining, and 
+immunohistochemical staining, respectively. The location of 
+infarct core in the cortex of ipsilateral hemisphere was fi rst 
+indicated by TTC staining that distinguished the metabolically 
+inactive/necrotic tissues as pale color (Figure S3A, Supporting 
+Information). Nissl staining further verifi ed the infarct core 
+location with characteristic triangularly shaped and deep blue 
+stained neurons due to the condensation of cytoplasm and karyoplasm[ 31 ]   ( Figure   4 A, Figure S3B, Supporting Information). 
+Meanwhile, the inducible heat shock protein HSP70 was widely 
+used as a marker for penumbra due to its restrict expression in 
+the peri-lesional neurons. [ 32 ]  The HSP70 positive cells shown 
+as brown color and shuttle shaped morphology were observed 
+in the striatum, hippocampus, thalamus, and hypothalamus of 
+the ipsilateral hemisphere that were indicated as the ischemic 
+penumbra (Figure  4 B, Figure S3C, Supporting Information). 
+NIR fl uorescence microscopic images of the ischemic brain 
+sections demonstrated that: 1) higher NP uptakes in the ipsilateral
+hemisphere compared to the contralateral hemisphere; 
+2) higher NP uptakes in penumbra than the infarct core; 3) 
+particle-size-dependent NP uptakes in both infarct core and 
+penumbra (Figure  4 C). Quantitative studies demonstrated that 
+while the normalized NIR fl uorescence intensities of NPs were 
+determined with a sequence of G4-P > G3-P > G2-P >> G5-P 
+> G6-P in the penumbra, the sequence was changed to G3-P >
+G4-P > G2-P > G5-P >> G6-P in the infarct core (Figure  4 D). 
+Moreover, the fl uorescence signals of G2, G3 and G4-P in the 
+penumbra were higher than in the infarct core. Notably, there 
+was not any NP signal detected in the contralateral hemisphere 
+regardless of their particle size, which confi rms the extremely 
+low permeability in the nonischemic brain tissues (Figure S3D, 
+Supporting Information). 
+  2.4.     Higher BBB Permeability in Penumbra Compared to Infarct 
+Core 
+ To investigate the BBB permeability in the ischemic regions, 
+the brain capillary endothelial cells (BCECs) were immunohistochemically
+stained by CD31 antibody at 24 h PI of the 
+NPs. Confocal fl uorescence microscopic images indicated the 
+remarkable rhodamine fl uorescence of G3, G4, and G5-NP in 
+the penumbra areas ( Figure 5  A, upper panel). While most of 
+the G3-P dispersedly distributed in the extravascular space, 
+G5-P predominately located in the vessels. Notably, G4-P was 
+found in both intra- and extravascular spaces. In the infarct 
+core, even the fl uorescence of G3, G4, and G5 was evident, 
+most of them colocalized well with vasculatures, which indicates
+the low extravasation degree of the NPs (Figure  5 A, low 
+Adv. Healthcare Mater. 2014, 3, 1909–1918
+Figure 3.     NIR  fl uorescence imaging indicated particle-size-dependent NP uptakes in the ischemic region. A) In vivo NIR fl uorescence imaging of mouse 
+brain area at selected time-points PI of NPs. B) Ex vivo NIR fl uorescence imaging of the excised mouse brain at selected time-points PI of NPs. C) 
+Time-dependent NIR fl uorescence intensity ratio between the ipsilateral and contralateral hemisphere after injection of NP (10 nmol/mouse) via i.v.
+(mean ± SD,  n = 4). D) Average NIR fl uorescence intensities on ipsilateral hemisphere at 2 and 24 h PI of NPs via i.v. ( n = 4).
+(EVAL PDF Extractor SDK 8.0.0.2542-1469428853)
+www.MaterialsViews.com
+FULL PAPER
+www.advhealthmat.de
+1914 wileyonlinelibrary.com © 2014 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+panel). G2-P and G6-P were hardly found in the ischemic 
+regions, which can be explained by the fast excretion rate of 
+G2-P and larger diameter of G6-P than that of pore size upper 
+limit in ischemic vasculatures. As expected, no obvious brain 
+Adv. Healthcare Mater. 2014, 3, 1909–1918
+Figure 5.     NPs demonstrating higher transvascular efficiency in penumbra than infarct core. A) Fluorescence microscopic images of penumbra and 
+infarct core in ipsilateral hemisphere at 24 h PI of NPs via i.v. CD31 immunofl uorescence presenting vasculatures, rhodamine fl uorescence presenting 
+the NPs and DAPI fl uorescence presenting nuclei were displayed in green, red, and blue, respectively. Scale bar: 100 µm. B) The colocalization coefficients
+between NP and brain vasculatures in penumbra and infarct core were quantified at 24 h PI. The values were quantified from six randomly 
+selected images. Data were presented as mean ± SD ( n = 6).
+Figure 4.     Higher NP permeability in the ischemic penumbra than that in infarct core. A) Nissl staining delineated infarct core in ispilateral hemisphere. 
+B) HSP70 immunostaining defined the location of penumbra in ispilateral hemisphere. C) Fluorescence microscopic images of penumbra and infarct 
+core at 24 h PI of NPs. Scale bar: 100 µm. D) Average rhodamine fl uorescence intensities of penumbra (upper panel) and infarct core (low panel) at 
+24 h PI of NPs. Data were presented as mean ± SD ( n = 4).
+(WITH PDF Extractor SDK TRIAL VERSION)
+www.MaterialsViews.com
+FULL PAPER
+www.advhealthmat.de
+1915 wileyonlinelibrary.com © 2014 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+uptake of the NPs was observed in normal brain tissues regardless
+of their particle sizes (Figure S4, Supporting Information). 
+Figure  5 B shows the colocalization coeffi cients between the 
+NPs and brain vasculatures in the penumbra and infarct core 
+at 24 h PI. Interestingly, while the colocalization coeffi cients 
+of G3, G4, and G5-P in penumbra increased consistently from 
+0.57 ± 0.06 to 0.86 ± 0.07, the data of all these three NPs were 
+above 80% in the infarct core. The colocalization coeffi cients of 
+G2-P and G6-P kept below 30% in both penumbra and infarct 
+core, which can be explained by their low uptakes in ischemic 
+region.    
+  3.      Discussion 
+ Understanding of the physiological pore size of vasculatures 
+is important to optimize the delivery of imaging/therapeutic 
+agents. During the past years, the permeability of vasculatures 
+to blood borne molecules has been systemically studied. [ 33 ]   For 
+example, the average pore size of capillaries in normal brain, 
+skeletal muscles, and kidney glomerulus were measured as 0.5, 
+5, and 15 nm, respectively. [ 33 ]  The leakage of vasculatures is 
+widely observed under pathological conditions due to the disorganized
+endothelial cells and the degradation of the basal membrane.[ 34 ]  For example, the pore size in human brain tumor 
+vasculatures was determined around 12 nm [ 27a ]  and the values 
+of peripheral tumors even reached micrometer range. The 
+enhanced permeability of tumor vasculatures has been widely 
+used to delivery macromolecular agents for cancer therapy. [ 35 ]
+Similarly, the increased BBB permeability in the ischemic 
+lesions will offer the opportunity to specifi cally deliver the 
+neuroprotective agents. However, as far as we know, the pore 
+size upper limit of BBB in ischemic territories, especially the 
+“salvageable” penumbra has not been investigated. The elucidation
+of above question will pave the way for the development 
+of nanosized neuroprotective agents with improved delivery 
+effi ciency. 
+ PAMAM dendrimers are branched, multilayer, and synthetic 
+polymers with uniform size and molecular weight for each generation.
+By choosing the dendrimer with suitable size and precisely
+manipulating the functional groups, it is possible to tune 
+the biocompatibility and pharmacokinetics of resulting NPs. [ 25b ]
+Compared with native dendrimers that usually increase 1–2 nm 
+in diameter with each successive generation, [ 27a ]  the hydrodynamic
+diameters of the NPs actually increased 1–4 nm, which 
+can be explained by the multiple water molecular spheres surrounding
+the labeled Gd 3+   center. [ 36 ]  Notably, only 50%–60% 
+labeled DTPA chelators were complexed with Gd 3+  ions even 
+a large excess of Gd 
+2
+ (CO 
+3
+ ) 
+3
+  was treated. The phenomenon was 
+reported previously and can be explained by the coordination 
+between a single Gd 3+  ion and two or more adjacent DTPA 
+chelators. [ 37 ]  The T1 relaxivity of a Gd 3+ complex is primarily 
+determined by: 1) the number of water molecules  q   directly 
+coordinated with Gd 3+  ion; 2) the rotational correlation time 
+τ
+R
+  of the agent (how fast the chelator rotates) and 3) the residence
+lifetime of Gd 3+  bound water molecule  τ
+M
+  (how fast the 
+exchange rate). [ 38 ]  The generation-dependent relaxivity enhancement
+of the NPs (from 2.7 to 8.8 m M
+−1   s −1 /Gd 3+ ) can be attributed
+to the increased  τ
+R
+  values of the bulky NPs. Moreover, 
+the lower relaxivites of Gd 3+  chelators in the NPs (maximally 
+8.8 m M
+−1   s −1 /Gd 3+ ) compared to the reported dendrimer-based 
+MR agents (13.9–26.9 m M
+−1   s −1 ) [ 37,39 ]  could be interpreted by 
+1) the measurements under 7.0 T because of the magneticfi eld-dependent relaxivity according to the nuclear magnetic 
+relaxation dispersion (NMRD) profi le [ 40 ] ; 2) the replacement of 
+the Gd 3+ bound water molecules by negatively charged carboxylate
+group from an adjacent uncomplexed DTPA chelators. [ 39b ]
+ Middle cerebral artery (MCA) is the most commonly affected 
+blood vessels in human ischemic stroke and MCAO animal 
+model is the most widely used in preclinical studies. [ 41 ]   In 
+this work, photothrombosis strategy was used to develop the 
+MCAO model because of its advantages including minimized 
+mechanical damage to cerebral blood vessels, the fl exibility to 
+modulate lesion location, the low mortality of animals (≈5%), 
+and high ratio of model establishment (100%). Additionally, the 
+good reproducibility in infarct size and functional defi cit benefi t 
+to accurately determine the pore size of ischemic BBB. In vivo 
+MR and NIR optical imaging studies showed a close relationship
+between the particle size and NP uptake effi ciency in the 
+ischemic regions. Both G6-P with the largest diameter (14.8 nm) 
+and G2-P with the smallest diameter (3.3 nm) showed the low 
+uptakes, which can be explained by the bulky size of G6-P 
+larger than the pore size upper limit of ischemic vasculatures 
+and the rapid excretion of G2-P via renal fi ltration. [ 42 ]   Remarkable
+uptakes of G3, G4, and G5-P in the ischemic regions attributed
+to their prolonged circulation lifetime and their diameters 
+below the pore size upper limit of ischemic BBB. According to 
+the in vivo and ex vivo experimental results, the pore size upper 
+limit in ischemic regions should be between the diameters of 
+G5-P and G6-P and in a range of 10–11 nm. 
+ Even though numerous studies have been made to assess 
+the vascular permeability of tumors, [ 27a ]  as far as we know, there 
+is very limited investigations evaluating BBB permeability in 
+the ischemic stroke. Loss of blood supply in brain initiates a 
+cascade of events including the increased production of reactive
+oxygen species (ROS), [ 43 ]  overexpression of proteases, [ 44 ]
+and down-regulation of TJ-associated proteins, [ 18 ]  which jointly 
+increase BBB permeability through the promotion of vascular
+infl ammation, compromise of TJ tightness, degradation 
+of basal membrane, and loss of the vasoregulatory capability. 
+Previous work indicated the highest vascular permeability was 
+within the infarct core because it suffers the greatest degree of 
+TJ dysregulation and disassembly. [ 18 ]  However, in this work, 
+even infarct core and penumbra demonstrated a similar vascular
+pore size upper limit, penumbra indeed showed a higher 
+BBB permeability than that in infarct core with the evidence 
+of the earlier MR signal enhancement and higher NP uptake 
+effi ciency. Above phenomenon could be explained by high 
+CFB, active angiogenesis, and overexpression of caspases in 
+penumbra. High CFB leads to the increased mass transfer rate 
+through vascular wall, [ 45 ]  active angiogenesis generates the neovascultures
+with enhanced permeability, [ 46 ]  and the caspases 
+actively cleave TJ-related proteins in maintaining BBB tightness.[ 47 ]  Taking advantage of the higher vascular permeability in 
+penumbra than that of normal neurological tissues and infarct 
+core, it is possible to specifi cally deliver the nanosized neuroprotective
+therapeutics into the “salvageable” penumbra by 
+fi nely tuning their particle size. 
+Adv. Healthcare Mater. 2014, 3, 1909–1918
+(EVALUATION PDF Extractor SDK 8.0.0.2542.1282157099)
+www.MaterialsViews.com
+FULL PAPER
+www.advhealthmat.de
+1916 wileyonlinelibrary.com © 2014 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+ Even the disrupted BBB in the ischemic regions offers an 
+opportunity for the entry of the nanosized therapeutics, the 
+compromised drug delivery effi ciency is still the main obstacle 
+for neuroprotective therapy because the drug concentration in 
+the lesion is still less than the therapeutic threshold. How to 
+specifi cally enhance BBB permeability in the ischemic regions, 
+especially the penumbra is the next challenge to be overcome.
+In our previous work, a two-order targeted brain tumor 
+imaging strategy was put forward. [ 48 ]  The NP labeled with cyclic 
+[RGDyK] peptides targeting α
+V
+β
+3
+  integrin and angiopep-2 peptides
+targeting the lipoprotein receptor-related protein (LRP) 
+was developed. This NP fi rst targets the tumor vasculatures 
+and its increased concentration in endothelial cells facilitates its 
+BBB traverse via LRP-mediated transcytosis. [ 49 ]  The BBB penetrated
+NP further targeted brain cancer cells. In this way, brain 
+tumor with a diameter less than 1.0 mm was visualized with 
+high target to background ratio. Enlightening by the two-order 
+targeting strategy, it is possible to label penumbra targeting 
+ligands and BBB opening ligands on the NAs. The dual-labeled 
+NP will fi rst accumulate in penumbra and then specifi cally upregulate
+local BBB permeability. The targeted BBB opening 
+in the ischemic site will benefi t to maximize the delivery effi -
+ciency of neuroprotective agents and minimize the off-targeted 
+side-effects.  
+  4.      Conclusions 
+ Since the fi rst thrombolytic agent rt-PA trial in 1995, more than 
+160 clinical trials of the neuroprotective drugs have been tested, 
+but none has shown clinical effi cacy. [ 50 ]  Although multiple reasons
+lead to the failures, the low drug delivery effi ciency in the 
+ischemic tissues is the main challenge faced by researchers. 
+Nanoparticle-based neuroprotective agents with prolonged circulation
+lifetime but smaller than the pore size upper limit of 
+ischemic vasculatures hold the promise to improve the therapeutic
+effi cacy. In this work, by developing NPs with different 
+diameters and utilizing multimodal MR/optical imaging, the 
+upper limit pore sizes of ischemic vasculatures were determined
+in a range of 10–11 nm and the higher permeability in 
+the penumbra than that in the infarct core was verifi ed. Importantly
+, this work provides a guideline for development of nanosized
+neuroprotectants with the capability to specifi cally deliver 
+into ischemic lesions, especially the salvageable penumbra. 
+This guideline holds the promise to improve the therapeutic 
+effi ciency of ischemic stroke.  
+  5.      Experimental  Section 
+Materials : All chemical reagents were obtained from Aladdin Reagent 
+(Shanghai, China) unless otherwise specified. PAMAM dendrimers 
+were purchased from Weihai CY Dendrimer Technology Co., Ltd 
+(Weihai, China). Rhodamine-NHS was purchased from Thermofisher 
+Scientific (New York, USA). Rabbit anti-mouse CD31 primary antibody 
+was purchased from Abcam (Cambridge, UK). Alexa Fluo488-labeled 
+goat anti-rabbit secondary antibody was purchased from Cell Signaling 
+Technology (Danvers, USA). Rabbit anti-mouse HSP70 primary antibody 
+was purchased from Enzo Life Sciences, Inc. (Switzerland). PEG–NHS 
+was purchased from JenKem Technology Co. Ltd (Beijing, China). DTPA–
+dianhydride was obtained from TCI (Shanghai, China). IR783-NHS was 
+prepared according to our previous work. [ 51 ]  Amicon ultra-15 centrifugal 
+filter tubes (3000 and 10 000 MW cutoff) were from Millipore (Bedford, 
+USA). 
+Characterization : The purity of NPs was determined by SDS-PAGE. NP 
+(50 µg) in treatment buffer was loaded on a 12% polyacrylamide gel. 
+Photographic and fl uorescent images of the resolved SDS-PAGE gels 
+were acquired under IVIS Spectrum (Caliper PerkinElemer, USA) Imaging 
+System (FOV = 13.6 cm, F/Stop = 2, bin = medium resolution, exposure 
+time = auto). The molar ratios between dendrimer, PEG, and DTPA 
+chelators in NPs were quantified by integrating the characteristic proton 
+of dendrimer (3.3–2.2 ppm), PEG (3.6–3.7 ppm), and DTPA chelator 
+(2.37 and 3.30 ppm) in  1 H NMR (Varian Mercury400 spectrometer, 
+USA). The fl uorophore labeling degree was calculated according to 
+standard curve method on UV-2401PC UV–vis spectrophotometer 
+(Shimadzu, Japan). The absorbance of rhodamine and IR783 was 
+measured at 548 and 775 nm. The hydrodynamic size distribution and 
+Zeta potentials of NPs were determined by Malvern Zetasizer (Malvern 
+Instruments Inc., USA) dynamic light scattering (DLS) instrument after 
+instrumental calibration. Gd 3+  concentrations of NPs were determined 
+by a Hitachi P-4010 inductively coupled plasma atomic emission 
+spectroscopy (ICP-AES, Tokyo, Japan) with RF power at 1100 W and 
+nebulizer gas fl ow at 0.9 L min −1 . The standard solutions with the Gd 3+
+concentration of 1, 5, 10, 20, 50, 100, 200 ppm were prepared and a 
+calibration curve was made by plotting the corresponding signal peaks 
+versus the Gd 3+  concentrations. The Gd 3+  concentrations of the NPs 
+were determined by fitting the Gd 3+  peak intensity against the calibration 
+curve. The longitudinal relaxivities of the NPs were determined at 7.0 T 
+MRI coilaccording to the equation of  r
+1p
+= (1/ T
+sample
+  – 1/ T
+PBS
+ )/[Gd].  NP 
+with five different concentrations was measured respectively. Plotting 
+the (1/ T
+sample
+  – 1/ T
+PBS
+ ) values with corresponding Gd 3+   concentrations 
+measured by ICP-AES offered the T1-weighted relaxivities. 
+Animal Model of Ischemic Stroke : Male nude mice weighing 18–22 g 
+were anesthetized with 1% pentobarbital sodium solution (0.03 mg kg −1 ) 
+via intraperitoneal (i.p.) injection. The anesthetized mouse was 
+positioned on a plate. A 5-mm incision was made between the orbit 
+and ear. Under an operating microscope, an incision was made by 
+dividing the temporal muscle, and the right lateral aspect of the skull 
+was exposed. The main trunk of the middle central artery (MCA) was 
+visualized without a craniotomy. Rose bengal dissolved in saline with a 
+concentration of 10 mg mL −1  was injected via caudal vein (0.5 mL). At 
+2 min post dye injection, a laser beam of 0.1 mm diameter (Shanghai 
+Laser & Optics Century Co., Ltd. Shanghai, China) and 532 nm 
+wavelength was stereotactically positioned onto the MCA for 3 min. 
+Afterwards, the skin was sutured and T2-weighted images were acquired 
+at 2 h after surgery to verify the establishment of ischemic stroke models. 
+In Vivo MRI Studies : All MRI experiments were conducted on Bruker 
+Pharmascan 7.0 T micro-MRI scanner (Bruker, Germany) using a 
+transmit/receive quadrature volume radio frequency (RF) coil of an 
+inner diameter of 38 mm. The mice were used for in vivo imaging at 8 h 
+after ischemic stroke. In vivo MR images of mouse brain were acquired 
+before and at selected time points after i.v. injection of NP in 150 µL PBS 
+with T1 value of 60 ms via caudal vein. Animals were anesthetized with 
+isofl urane (1.5–2% in 20% oxygen) and then positioned prostrate with 
+head snugly inserted into a nose cone centered within the bore of the 
+magnet. Respiration rate was monitored and mice were kept warm in 
+heating pad. Fast spin echo T1-weighted anatomical scans using a 2 ×
+2 cm field of view for 24 slices of 0.5 mm thickness through the brain 
+were performed with TR = 574.9 ms and TE = 15.0 ms. ROIs contained 
+the ischemic lesions and a corresponding region in the contralateral 
+hemisphere. Contralateral ROIs were exactly matched in size and shape 
+with respect to their ipsilateral counterparts. The color-coded MR 
+images were processed by ImageJ 1.48a software. T1-weighted images 
+were first fl ippedhorizontally followed by registering with the original 
+MR images. After subtracting the MR signals in fl ipped images from 
+the original images, the resulting images were pseudo-colored with 
+signal intensity ranged from 0 to 5000. The color-coded images were 
+finally overlaid on the original MR images after deleting the signals in 
+contralateral hemisphere. 
+Adv. Healthcare Mater. 2014, 3, 1909–1918
+(8.0.0.2542.1701313136 PDF Extractor SDK TRIAL VERSIOn)
+www.MaterialsViews.com
+FULL PAPER
+www.advhealthmat.de
+1917 wileyonlinelibrary.com © 2014 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+In Vivo Optical Imaging Studies : Fluorescence images of a whole 
+mouse body and close-up image of brain areas were obtained using 
+Maestro In Vivo Imaging System (CRi Inc., Woburn, MA, USA). A 
+serial of images were acquired before and at selected time points after 
+administration of NP via i.v. In vivo NIR fl uorescence images were 
+acquired by using a band-pass excitation filter from 745 to 785 nm and 
+a long-pass emission filter over 760 nm. The regions of interest were 
+defined and quantified by using the instrument-equipped software 
+(Maestro software, CRi). At 2 h and 24 h after administration of NPs, the 
+mice were scarified and were perfused transcardially with PBS followed 
+by 4% paraformaldehyde (PFA). The whole brains were excised carefully 
+and ex vivo NIR fl uorescence images were performed using the CRi 
+imaging system with similar instrumental setting to the in vivo studies. 
+Triphenyl Tetrazolium Chloride Staining : At 24 h after NP injection via 
+i.v., mouse brains were carefully isolated and then frozen at −40 °C for 
+30 min. Thereafter, the brains were sectioned into coronal slices with 
+thickness of 2 mm by using a brain-sectioning block. The sections were 
+stained with 0.1% TTC (Beyotime, China) solution at 37 °C for 30 min 
+and then imaged by SONY DSC-W120 camera (SONY, Japan). 
+Nissl Staining : The brains at 24 h after NP injection were harvested and 
+preserved at 4% PFA for overnight and then transferred to 30% sucrose 
+for 3 d at 4 °C. The brains were embedded in wax and sectioned coronally 
+with a thickness of 4 µm. The slides were rehydrated and then incubated 
+in the Nissl–thionin staining solution for 4 min and maintained under 
+agitation. The slides were rinsed in distilled water for 2 min, progressively 
+dehydrated in 70% alcohol (10 min), 95% alcohol (2–3 min), and fi nally 
+100% alcohol (10 min). After cleared in xylene for 5 min, sections were 
+mounted on glass slides using Aqua-Mount mounting media (Thermo 
+Scientifi c) and cover-slipped. Photographic and rhodamine fl uorescence 
+images of the contralateral and ipsilateral hemispheres of brain sections 
+were collected and then quantifi ed by ImageJ software. 
+Immunohistochemistry Staining : The paraffi n-embedded brain cryosections
+were incubated in warm water bath (55 °C) for 5–10 min and in a 
+mixture of 5% H 
+2
+ O 
+2
+  and 10% methanol (v/v) in PBS for 20 min and then 
+blocked with IHC blocking solution for 30 min at room temperature (r.t.). 
+After incubation with 100 µL HSP70 primary antibody (1:500 dilution) 
+overnight at 4 °C, the slides were washed and incubated with100 µL 
+Alexa Fluor 488 secondary antibody (1: 500 dilution). Last, incubated 
+each section with 100 µL of DAB-chromogen solution for 1–5 min and 
+immersed the slide in PBS and mounted with a coverslip and predried 
+before the microscopic imaging. For CD31 antibody immunostainning, 
+free fl oating sections were fi xed with 4% formaldehyde for 30 min and 
+washed with PBS. Specimens were treated with 0.3% Triton X-100 and 3% 
+BSA for 1.5 h to block against nonspecifi c binding and to permeabilize the 
+cell membranes to enable staining. Then, BSA/Triton X-100 was removed, 
+and the brain sections were incubated with anti-CD 31 primary antibody 
+(1:100 dilution, Abcam) with supplemental 0.3% BSA overnight at 4 °C. 
+After washing, the sections were incubated with goat anti-rabbitAlexa 
+Fluor 488 secondary antibody (1:500 dilution) with supplemental 1% 
+BSA for 1 h at room temperature; and the nuclear DNA was stained with 
+DAPI (1:500 dilution). The fl uorescence images were processed by ZEN 
+2012 software (Carl Zeiss, Germany) and colocalization of NPs and blood 
+vessel was performed by Image-Pro Plus 6.0 software. 
+Statistical Analysis : Values are presented as mean ± SD when the 
+sample number was above 4 ( n > 4).  
+  Supporting  Information 
+ Supporting Information is available from the Wiley Online Library or 
+from the author.  
+  Acknowledgement 
+ S.Z. and Y.B. contributed equally to this work. This work was supported 
+by the National Basic Research Program of China (973 Program, 
+2013CB733801, 2011CB910404), the National Natural Science 
+Foundation of China (Nos. 81371624, 81171384), New Century 
+Excellent Talents in University Award and the Shanghai Foundation 
+for Development of Science and Technology (Nos. 13NM1400400, 
+12NM0501400). The authors thank the helpful discussions with Prof. W. 
+Lu and Dr. X. Gu.   
+Received:  March 21, 2014 
+Revised:  April 29, 2014 
+Published online: June 4, 2014    
+[1]      A.  S.     Go  ,    D.     Mozaffarian  ,    V.  L.     Roger  ,    E.  J.     Benjamin  ,    J.  D.     Berry  , 
+  W.  B.     Borden  ,    D.  M.     Bravata  ,    S.     Dai  ,    E.  S.     Ford  ,    C.  S.     Fox  ,    S.     Franco  , 
+  H.  J.     Fullerton  ,    C.     Gillespie  ,    S.  M.     Hailpern  ,    J.  A.     Heit  ,    V.  J.     Howard  , 
+  M.  D.     Huffman  ,    B.  M.     Kissela  ,    S.  J.     Kittner  ,    D.  T.     Lackland  , 
+  J.  H.     Lichtman  ,    L.  D.     Lisabeth  ,    D.     Magid  ,    G.  M.     Marcus  , 
+  A.     Marelli  ,    D.  B.     Matchar  ,    D.  K.     McGuire  ,    E.  R.     Mohler  ,    C.  S.     Moy  , 
+  M.  E.     Mussolino  ,    G.     Nichol  ,    N.  P.     Paynter  ,    P.  J.     Schreiner  , 
+  P.  D.     Sorlie  ,    J.     Stein  ,    T.  N.     Turan  ,    S.  S.     Virani  ,    N.  D.     Wong  ,    D.     Woo  , 
+  M. B.    Turner  ,  C. American Heart Association Statistics, S. Stroke 
+Statistics ,  Circulation 2013 ,   127 ,   e6 .  
+[2]      L.  B.     Goldstein  ,   Circulation 2007 ,   116 ,   1504 .  
+[3]      A.     Ciccone  ,    L.     Valvassori  ,    M.     Nichelatti  ,    A.     Sgoifo  ,    M.     Ponzio  , 
+  R.     Sterzi  ,    E.     Boccardi  ,    S.  E.     Investigators  ,   N. Engl. J. Med. 2013 ,   368 , 
+ 904 .  
+[4]      O.     Adeoye  ,    R.     Hornung  ,    P.     Khatri  ,    D.     Kleindorfer  ,   Stroke 2011 ,   42 , 
+ 1952 .  
+[5]      W.  M.     Clark  ,    S.     Wissman  ,    G.  W.     Albers  ,    J.  H.     Jhamandas  , 
+  K.  P.     Madden  ,    S.     Hamilton  ,   JAMA 1999 ,   282 ,   2019 .  
+[6]      C.  M.     Maier  ,    L.     Hsieh  ,    T.     Crandall  ,    P.     Narasimhan  ,    P.  H.     Chan  ,   Ann. 
+Neurol. 2006 ,   59 ,   929 .  
+[7]      P.     Deb  ,    S.     Sharma  ,    K.  M.     Hassan  ,   Pathophysiology 2010 ,   17 ,   197 .  
+[8]      G.  J.     del  Zoppo  ,   N. Engl. J. Med. 2006 ,   354 ,   553 .  
+[9]      A.     Lau  ,    M.     Tymianski  ,   Pflugers Arch. 2010 ,   460 ,   525 .  
+[10]      Z.  G.     Xiong  ,    X.  P.     Chu  ,    R.  P.     Simon  ,   J. Membr. Biol. 2006 ,   209 , 
+ 59 .  
+[11]      H.  J.     Kim  ,    M.     Rowe  ,    M.     Ren  ,    J.  S.     Hong  ,    P.  S.     Chen  ,    D.  M.     Chuang  , 
+J. Pharmacol. Exp. Ther. 2007 ,   321 ,   892 .  
+[12]      J.  E.     Slemmer  ,    J.  J.     Shacka  ,    M.  I.     Sweeney  ,    J.  T.     Weber  ,   Curr. Med. 
+Chem. 2008 ,   15 ,   404 .  
+[13]      Y.  D.     Cheng  ,    L.     Al-Khoury  ,    J.  A.     Zivin  ,   NeuroRx 2004 ,   1 ,   36 .  
+[14]      D.  S.     Warner  ,    H.     Sheng  ,    I.     Batinic-Haberle  ,   J. Exp. Biol. 2004 ,   207 , 
+ 3221 .  
+[15]      M.  K.     Reddy  ,    V.     Labhasetwar  ,   FASEB J. 2009 ,   23 ,   1384 .  
+[16]      N.  J.     Abbott  ,    A.  A.     Patabendige  ,    D.  E.     Dolman  ,    S.  R.     Yusof  , 
+  D.  J.     Begley  ,   Neurobiol. Dis. 2010 ,   37 ,   13 .  
+[17]    a)    W.  M.     Pardridge  ,   NeuroRx 2005 ,   2 ,   3 ;       b)    C.  A.     Lipinski  ,   J. Pharmacol.
+Toxicol. Methods 2000 ,   44 ,   235 .  
+[18]      K.  E.     Sandoval  ,    K.  A.     Witt  ,   Neurobiol. Dis. 2008 ,   32 ,   200 .  
+[19]      J.  D.     Huber  ,    R.  D.     Egleton  ,    T.  P.     Davis  ,   Trends Neurosci. 2001 ,   24 , 
+ 719 .  
+[20]      A.     Kastrup  ,    T.     Engelhorn  ,    C.     Beaulieu  ,    A.     de  Crespigny  , 
+  M.  E.     Moseley  ,   J. Neurol. Sci. 1999 ,   166 ,   91 .  
+[21]    a)    T.     Kuroiwa  ,    P.     Ting  ,    H.     Martinez  ,    I.     Klatzo  ,   Acta Neuropathol.
+ 1985 ,   68 ,   122 ;       b)    Z.  G.     Huang  ,    D.     Xue  ,    E.     Preston  ,    H.     Karbalai  , 
+  A.  M.     Buchan  ,   Can. J. Neurol. Sci. 1999 ,   26 ,   298 ;       c)    A.     Durukan  , 
+  I.     Marinkovic  ,    D.     Strbian  ,    M.     Pitkonen  ,    E.     Pedrono  ,    L.     Soinne  , 
+  U.     Abo-Ramadan  ,    T.     Tatlisumak  ,   Brain Res. 2009 ,   1280 ,   158 .  
+[22]      A.     Abulrob  ,    E.     Brunette  ,    J.     Slinn  ,    E.     Baumann  ,    D.     Stanimirovic  , 
+ In Vivo Optical Imaging of Ischemic Blood-Brain Barrier Disruption,
+  Springer ,   NY,  USA    2011 .  
+[23]      W.  D.     Heiss  ,   Int. J. Stroke 2010 ,   5 ,   290 .  
+[24]      K.     Licha  ,    C.     Olbrich  ,   Adv. Drug Delivery Rev. 2005 ,   57 ,   1087 .  
+Adv. Healthcare Mater. 2014, 3, 1909–1918
+(DEMO PDF Extractor SDK 8.0.0.2542-2120469173)
+www.MaterialsViews.com
+FULL PAPER
+www.advhealthmat.de
+1918 wileyonlinelibrary.com © 2014 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+[25]    a)    E.  R.     Gillies  ,    J.  M.     Frechet  ,   Drug Discovery Today 2005 ,   10 ,   35 ;    
+ b)    C.  C.     Lee  ,    J.  A.     MacKay  ,    J.  M.     Frechet  ,    F.  C.     Szoka  ,   Nat. Biotechnol.
+ 2005 ,   23 ,   1517 .  
+[26]      J.  B.     Wolinsky  ,    M.  W.     Grinstaff  ,   Adv. Drug Delivery Rev. 2008 ,   60 , 
+ 1037 .  
+[27]    a)    H.     Sarin  ,    A.  S.     Kanevsky  ,    H.     Wu  ,    K.  R.     Brimacombe  ,    S.  H.     Fung  , 
+  A.  A.     Sousa  ,    S.     Auh  ,    C.  M.     Wilson  ,    K.     Sharma  ,    M.  A.     Aronova  , 
+  R.  D.     Leapman  ,    G.  L.     Griffiths  ,    M.  D.     Hall  ,   J. Transl. Med. 2008 ,   6 , 
+ 80 ;       b)    X.     Gao  ,    C.     Li  ,   Small 2014 ,   10 ,   426 .  
+[28]      X.     He  ,    J.     Gao  ,    S.  S.     Gambhir  ,    Z.     Cheng  ,   Trends Mol. Med. 2010 ,   16 , 
+ 574 .  
+[29]      A.     Schmidt  ,    M.     Hoppen  ,    J.  K.     Strecker  ,    K.     Diederich  ,    W.  R.     Schabitz  , 
+  M.     Schilling  ,    J.     Minnerup  ,   Exp. Transl. Stroke Med. 2012 ,   4 ,   13 .  
+[30]      P.     Ramos-Cabrer  ,    F.     Campos  ,    T.     Sobrino  ,    J.     Castillo  ,   Stroke 2011 ,   42 , 
+ S7 .  
+[31]      M.     Oechmichen  ,    C.     Meissner  ,   J. Forensic Sci. 2006 ,   51 ,   880 .  
+[32]      A.     Popp  ,    N.     Jaenisch  ,    O.  W.     Witte  ,    C.     Frahm  ,   PLoS One 2009 ,   4 , 
+ e4764 .  
+[33]      H.     Sarin  ,   J. Angiogenes Res. 2010 ,   2 ,   14 .  
+[34]      D.  M.     McDonald  ,    P.     Baluk  ,   Cancer Res. 2002 ,   62 ,   5381 .  
+[35]      V.     Torchilin  ,   Adv. Drug Delivery Rev. 2011 ,   63 ,   131 .  
+[36]      P.     Caravan  ,    J.  J.     Ellison  ,    T.  J.     McMurry  ,    R.  B.     Lauffer  ,   Chem. Rev.
+ 1999 ,   99 ,   2293 .  
+[37]      H.     Xu  ,    C.  A.     Regino  ,    M.     Bernardo  ,    Y.     Koyama  ,    H.     Kobayashi  , 
+  P.  L.     Choyke  ,    M.  W.     Brechbiel  ,   J. Med. Chem. 2007 ,   50 ,   3185 .  
+[38]      L.  M.     De  Leon-Rodriguez  ,    A.  J.     Lubag  ,    C.  R.     Malloy  ,    G.  V.     Martinez  , 
+  R.  J.     Gillies  ,    A.  D.     Sherry  ,   Acc. Chem. Res. 2009 ,   42 ,   948 .  
+[39]    a)    H.     Xu  ,    C.  A.     Regino  ,    Y.     Koyama  ,    Y.     Hama  ,    A.  J.     Gunn  , 
+  M.     Bernardo  ,    H.     Kobayashi  ,    P.  L.     Choyke  ,    M.  W.     Brechbiel  ,   Bioconjug.
+Chem. 2007 ,   18 ,   1474 ;       b)    K.     Nwe  ,    H.     Xu  ,    C.  A.     Regino  , 
+  M.     Bernardo  ,    L.     Ileva  ,    L.     Riffl  e  ,    K.  J.     Wong  ,    M.  W.     Brechbiel  ,   Bioconjug.
+Chem. 2009 ,   20 ,   1412 .  
+[40]      P.     Caravan  ,   Chem. Soc. Rev. 2006 ,   35 ,   512 .  
+[41]      I.  M.     Macrae  ,   Br. J. Pharmacol. 2011 ,   164 ,   1062 .  
+[42]      H.     Kobayashi  ,    M.  W.     Brechbiel  ,   Adv. Drug Delivery Rev. 2005 ,   57 , 
+ 2271 .  
+[43]      P.  H.     Chan  ,   J. Cereb Blood Flow Metab. 2001 ,   21 ,   2 .  
+[44]      Y.     Yang  ,    E.  Y.     Estrada  ,    J.  F.     Thompson  ,    W.     Liu  ,    G.  A.     Rosenberg  , 
+J. Cereb Blood Flow Metab. 2007 ,   27 ,   697 .  
+[45]      R.  B.     Huang  ,    S.     Mocherla  ,    M.  J.     Heslinga  ,    P.     Charoenphol  , 
+  O.     Eniola-Adefeso  ,   Mol. Membr. Biol. 2010 ,   27 ,   312 .  
+[46]      Z.     Kovacs  ,    K.     Ikezaki  ,    K.     Samoto  ,    T.     Inamura  ,    M.     Fukui  ,   Stroke 1996 , 
+27 ,   1865 .  
+[47]      C.     Manabat  ,    B.  H.     Han  ,    M.     Wendland  ,    N.     Derugin  ,    C.  K.     Fox  , 
+  J.     Choi  ,    D.  M.     Holtzman  ,    D.  M.     Ferriero  ,    Z.  S.     Vexler  ,   Stroke 2003 , 
+34 ,   207 .  
+[48]      H.     Yan  ,    L.     Wang  ,    J.     Wang  ,    X.     Weng  ,    H.     Lei  ,    X.     Wang  ,    L.     Jiang  ,    J.     Zhu  , 
+  W.     Lu  ,    X.     Wei  ,    C.     Li  ,   ACS Nano 2012 ,   6 ,   410 .  
+[49]      H.     Yan  ,    J.     Wang  ,    P.     Yi  ,    H.     Lei  ,    C.     Zhan  ,    C.     Xie  ,    L.     Feng  ,    J.     Qian  , 
+  J.     Zhu  ,    W.     Lu  ,    C.     Li  ,   Chem. Commun. 2011 ,   47 ,   8130 .  
+[50]      M.  D.     Ginsberg  ,   Neuropharmacology 2008 ,   55 ,   363 .  
+[51]      J.     Du  ,    W.-L.     Lu  ,    X.     Ying  ,    Y.     Liu  ,    P.     Du  ,    W.     Tian  ,    Y.     Men  ,    J.     Guo  , 
+  Y.     Zhang  ,    R.-J.     Li  ,    J.     Zhou  ,    J.-N.     Lou  ,    J.-C.     Wang  ,    X.     Zhang  , 
+  Q.     Zhang  ,   Mol. Pharm. 2009 ,   6 ,   905 .   
+Adv. Healthcare Mater. 2014, 3, 1909–1918
+(PDF Extractor SDK TRIAL VERSION)
+

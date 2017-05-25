@@ -1,0 +1,723 @@
+RESEARCH ARTICLE
+
+Precise Characterization of the Penumbra
+Revealed by MRI: A Modified
+Photothrombotic Stroke Model Study
+Cheng Qian1☯, Pei-Cheng Li1☯, Yun Jiao1, Hong-Hong Yao2, Yu-Chen Chen1, Jian Yang1,
+Jie Ding1, Xiang-Yu Yang1, Gao-Jun Teng1*
+1 Jiangsu Key Laboratory of Molecular and Functional Imaging, Department of Radiology, Zhongda Hospital,
+Medical School, Southeast University, Nanjing, China, 2 Department of Pharmacology, Medical School,
+Southeast University, Nanjing, China
+
+a11111
+
+☯ These authors contributed equally to this work.
+* gjteng@seu.edu.cn
+
+Abstract
+OPEN ACCESS
+Citation: Qian C, Li P-C, Jiao Y, Yao H-H, Chen Y-C,
+Yang J, et al. (2016) Precise Characterization of the
+Penumbra Revealed by MRI: A Modified
+Photothrombotic Stroke Model Study. PLoS ONE 11
+(4): e0153756. doi:10.1371/journal.pone.0153756
+Editor: Yanmin Yang, Stanford University School of
+Medicine, UNITED STATES
+Received: December 12, 2015
+Accepted: April 4, 2016
+Published: April 19, 2016
+Copyright: © 2016 Qian et al. This is an open
+access article distributed under the terms of the
+Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any
+medium, provided the original author and source are
+credited.
+Data Availability Statement: All relevant data are
+within the paper and its Supporting Information files.
+Funding: The National Key Basic Research Program
+of China (973 Program; 2013CB733800,
+013CB733803, URLs: http://www.nsfc.gov.cn/), CQ
+PCL YJ HHY YCC JY JD XYY GJT; the National
+Natural Science Foundation of China (81230034,
+URLs: http://www.nsfc.gov.cn/), CQ PCL YJ YCC JY
+JD XYY GJT; the Jiangsu Provincial Special Program
+of Medical Science (BL2013029, URLs: www.jswst.
+gov.cn), CQ PCL YJ JY JD XYY GJT. The funders
+had no role in study design, data collection and
+
+Aims
+To precisely characterize the penumbra by MRI based on a modified photothrombotic
+stroke mouse model.
+
+Methods
+The proximal middle cerebral artery was occluded by a convenient laser system in conjunction with an intravenous injection of Rose Bengal in mice. And the suture MCAO model was
+performed in seven mice as a comparison of the reproducibility. One hour after occlusion,
+the penumbra was defined in six random photothrombotic stroke mice by mismatch
+between perfusion-weighted imaging and the apparent diffusion coefficient map on a homemade workstation. After imaging, three random mice of them were chosen to perform the
+reperfusion surgery. And the other three mice were sacrificed to stain for several potential
+penumbra markers, such as c-fos and heart shock protein 90. In the remaining mice, the
+evolution of the lesions was detected on the apparent diffusion coefficient map, diffusionweighted imaging and T2-weighted imaging at 1, 3, 6, 12 and 24 hours. After evaluating the
+neurological deficit scores, the brains were sectioned and stained by triphenyltetrazolium
+chloride and Nissl.
+
+Results
+The mice subjected to photothrombosis showed significant behavioral deficits. One hour
+after occlusion, the low perfusion areas on the perfusion-weighted imaging interlaced with
+the hypointense areas on the apparent diffusion coefficient map, demonstrating that the
+penumbra was located both surrounding and inside the lesions. This phenomenon was subsequently confirmed by the c-fos and heart shock protein 90 staining. The final T2-weighted
+images of the mice subjected to the reperfusion surgery were also consistent with the penumbra images at one hour. At early stages, the lesions were clearly identified on the
+
+PLOS ONE | DOI:10.1371/journal.pone.0153756 April 19, 2016
+
+1 / 13
+
+Precise Imaging of Penumbra and Stroke Model
+
+analysis, decision to publish, or preparation of the
+manuscript.
+Competing Interests: The authors have declared
+that no competing interests exist.
+
+apparent diffusion coefficient map; the volumes of the lesions on the diffusion-weighted
+imaging and T2-weighted imaging did not reach a maximum until 12 hours. The coefficient
+of variation (CV) of the final lesions in the photothrombotic stroke mice was 21.7% (0.08 of
+0.37) on T2-weighted imaging and 27.8% (0.10 of 0.35) on triphenyltetrazolium chloride,
+representing a high reproducibility (n = 7). While the CV of the lesions in the MCAO stroke
+mice was only 70% (0.24 of 0.34, n = 4).
+
+Conclusions
+This study has provided a precise imaging definition of the penumbra based on a reproducible photothrombotic stroke mouse model.
+
+Introduction
+Stroke is one of the leading causes of serious long-term disabilities and even death around the
+world. It is estimated that one sixth of people will suffer a stroke at least once in their lifetime
+[1]. Despite numerous studies during the last decades[2–4], finding potential neuroprotective
+strategies remains challenging. After a stroke, rescuing the penumbra, a zone of salvageable tissue, has become the major objective of thrombolytic therapy[5]. A distinctive association has
+been proven between rescuing the penumbra and improvement in outcomes[6, 7].
+Imaging provides comprehensive in vivo evidence for the evolution of the lesions, the evaluation of hemodynamic issues, and the identification of the penumbra. Appropriate imaging
+techniques include magnetic resonance imaging (MRI), CT and so on[8, 9]. Among these
+imaging methods, The noninvasive MRI is currently the most useful and common imaging
+technique to assess the penumbra. Through the mismatch between perfusion-weighted imaging (PWI) and diffusion-weighted imaging (DWI), it is possible to define the penumbra and
+then effectively choose candidate patients that are suitable for recanalization therapy in the
+clinic[10]. However, the traditional penumbra was displayed as surrounding the infarct lesions
+in most previous studies[11–13], and the evidence of the penumbra was only limited to imaging studies with few pathophysiological-specific markers[14].
+To elucidate the pathophysiology of the penumbra, the use of validated animal stroke models is important. Ginsberg et al. discussed that the validity of animal models is self-evident [15].
+In fact, there are various advantages in animal models, such as lower cost, reproducibility of
+lesion size, and suitability for pathophysiological studies. “Close to patient” animal models are
+needed to bridge the gap between preclinical studies and clinical applications, and to promote
+precision medicine in the treatment of stroke. The intraluminal suture model, known as the
+MCAO, is well-recognized in the literature [16]. However, the success rate of occlusion and the
+reproducibility of lesions are always unsatisfactory with this technique. Furthermore, even with
+skilled operation, local trauma induced by the surgery is still unavoidable. Unlike the MCAO,
+the photothrombotic stroke model established by Yao et al. is a pure occlusion method that
+closely imitates the relevant pathophysiology of thrombosis in the clinic [17]. A highly reproducible lesion could be performed without the need for skilled surgery. However, considering
+the rats involved in the previous studies, their thick skull mean that a craniotomy is necessary
+to expose the middle cerebral artery (MCA). Indeed, a distal MCA occlusion leads to the infarct
+lesions only in the cortex [17], whereas the location of lesions in patients was mostly in the
+basal ganglia due to the insufficient blood supply [18]. Moreover, the complex laser system
+used in those studies also limits further popularization.
+
+PLOS ONE | DOI:10.1371/journal.pone.0153756 April 19, 2016
+
+2 / 13
+
+Precise Imaging of Penumbra and Stroke Model
+
+Therefore, the objective for these experiments was to establish a modified photothrombotic
+“close to patient” stroke mouse model by occluding the proximal MCA (pMCA) with a convenient laser system, and to provide the precise imaging definition of the penumbra as characterized by early MRI multiparameters.
+
+Materials and Methods
+Animals
+The protocols were approved by the Institutional Animal Care and Use Committee (IACUC),
+Southeast University (approval ID: SYXK-2010.4987) and in accordance with the Animals
+(Scientific Procedures) Act, 1986 (UK) (amended 2013). A total of 27 male C57BL/6J mice (2225g, Yangzhou University, China) were involved and randomly divided into three groups
+(Photothrombotic stroke group, n = 13; Sham group, n = 7; MCAO group, n = 7). All procedures adhered to the ARRIVE Guidelines for reporting animal research[19]. A checklist is
+included in S1 Checklist.
+
+Animal Model
+Anesthesia was induced and maintained with the intraperitoneal injection of pentobarbital
+(60mg/kg; Sigma-Aldrich, USA) during the surgery. The body temperature was monitored
+continuously and maintained at 37±0.5°C during surgery using a heating pad.
+1. Photothrombotic Stroke Model. Focal stroke was induced by occluding the pMCA.
+Briefly, under a stereoscopic microscope, an incision was made between the right orbit and the
+external auditory canal. After reflecting the temporalis muscle, the zygomatic arch was snipped.
+Immediately after the intravenous injection of Rose Bengal (25mg/kg; Sigma-Aldrich, USA) or
+PBS as a control, illumination was performed on the pMCA for 2 minutes using a 100μm optic
+fiber connected to a green laser (wavelength 532 nm, 35 mW, GL532TA-100FC, Shanghai
+Laser & Optics Century, China).
+Reperfusion was performed on the occluded pMCA using a 100μm optic fiber connected to
+an ultraviolet laser (wavelength 355 nm, 16 mW, Shanghai Laser & Optics Century, China) at
+one hour after occlusion. Afterwards, the temporalis muscle and the skin were closed. The total
+surgery time duration was approximately 15 minutes. There was no surgery-related mortality.
+2. MCAO Model. To evaluate the reproducibility of the photothrombotic stroke model,
+the most common stroke model, MCAO, was chosen for the comparison. For the MCAO, the
+surgery was performed as described previously[20]. The total time duration of each operation
+was at least 45 minutes.
+During the surgery of the two stroke models, an ointment was applied to prevent eye dehydration. Lidocaine gel was placed onto the surgical wound after the operation. The mouse was
+allowed to awaken and then was returned to its cage. Heating pads were used to maintain the
+cages at a constant temperature of 24°C. The mice were heavily monitored for abnormal health
+levels.
+
+Imaging Procedure
+MRI was performed on a 7.0 Tesla magnetic resonance scanner (Bruker PharmaScan, Germany). Anesthesia was induced and maintained by inhalation of 1% isoflurane (Shandong
+Keyuan Pharmaceutical Co., Ltd., China). The body temperature was maintained with a feedback-controlled water bath warming system (MT1025, Bruker Biospin Inc., Germany). The
+respiratory rate was monitored by a unit (Model 1025, SA Instruments Inc.). Before and after
+the surgery, magnetic resonance angiography (MRA) was performed to confirm the occlusion
+
+PLOS ONE | DOI:10.1371/journal.pone.0153756 April 19, 2016
+
+3 / 13
+
+Precise Imaging of Penumbra and Stroke Model
+
+by a Flash-three-dimensional sequence with the following parameters: repetition time (TR) /
+echo time (TE), 15/2.5 ms; field of view (FOV), 20×20 mm; matrix, 256×125. One hour after
+occlusion, dynamic contrast-enhanced PWI was performed on six random photothrombotic
+stroke mice by a T2 -weighted EPI sequence with the following parameters: TR/TE, 1,000/9
+ms; FOV, 16.5×16 mm; matrix, 128×64; thickness, 1 mm; number of measurements, 200. A
+bolus injection of Gadolinium (0.3 mmol/kg) through the tail vein was started after the 10%
+acquisition time. Then, at each time point (1, 3, 6, 12 and 24 hours), T2WI were obtained by a
+two-dimensional turbo spin-echo sequence with the following parameters: TR/TE, 2,800/50
+ms; RARE factor, 8, 3 averages; FOV, 20×20 mm; thickness, 1 mm; matrix, 256×256. DWI
+(TR/TE, 3,000/30 ms; matrix, 80×64; FOV, 16.5×16 mm) were also obtained with a 2-dimensional spin echo echo-planar sequence. Seven different b-values (0, 100, 200, 400, 600, 800 and
+1,000s/mm2) were measured to calculate the ADC maps.
+
+Evaluation of Neurological Deficits
+The neurological deficits were evaluated at 24 hours as described previously[21]. The score was
+evaluated as follows: 0, no deficits; 1, failure to fully stretch the contralateral body and forelimb; 2,
+circling to the contralateral side; 3, tumbling to the affected side; 4, hardly walking and no automatic action. Each mouse was evaluated by an investigator who was blind to the groups identities.
+
+Histopathology
+At one hour after occlusion, six of the photothrombotic stroke mice were chosen to perform
+PWI. Then three of them were randomly sacrificed with an overdose of pentobarbital for c-fos
+(1:1000, sc-52, Santa Cruz, CA) and HSP-90 (1:800, ab13492, Abcam, CA) staining. And
+another three mice got reperfusion therapy. After the functional evaluation, the remaining
+mice were also euthanized with an overdose of pentobarbital. The brains were removed and
+sectioned (1 mm thick; beginning from the olfactory bulb) by a vibratome (version VT1000s,
+Leica, Germany). Each section was incubated in 1% TTC (AMRESCO LLC) solution for 15
+minutes at 37°C. Then, the sections were fixed by 4% formaldehyde for Nissl-staining. The paraffin-blocked tissues were sectioned at a thickness of 4-μm, hydrated in 1% toluidine blue
+(Sigma-Aldrich, USA) at 50°C for 20 minutes, and then rinsed with double-distilled water.
+After dehydrating and mounting with Permount, the sections were photographed.
+
+Image Analysis
+The lesions were analyzed by Image J (version 2.1.4.7, NIH). The outlines of the lesions and
+hemispheric cross sections were traced manually on MR images and TTC sections. To facilitate
+the comparison between animals and methods, the lesion volumes were corrected for the
+effects of brain edema by using the following equation: rVL = (VC-VI+VL)/VC[22], where
+rVL indicates the edema-corrected lesion volumes as a percentage of the contralateral hemispheric volumes; VC and VI indicate contralateral and ipsilateral hemispheric volumes; VL
+indicates uncorrected lesion volumes. The cerebral blood flow (CBF) map was processed with
+SPIN software (version 2131, MRI Institute for Biomedical Research). For the penumbra, the
+areas of low intensity on the ADC map were subtracted from low CBF areas, and then image
+registration was performed on a home-made data processing workstation.
+
+Statistical analysis
+All statistical data were performed using SPSS software (version 19). All values were expressed
+as mean ±SD. A general linear model univariate test was applied for global and multiple
+
+PLOS ONE | DOI:10.1371/journal.pone.0153756 April 19, 2016
+
+4 / 13
+
+Precise Imaging of Penumbra and Stroke Model
+
+Fig 1. Representative response of proximal MCA to rose bengal-mediated photothrombotic occlusion. A) View of proximal MCA before occlusion
+under a stereoscopic microscope (upper panel) and on MRA (lower panel). B) View of occluded proximal MCA (white arrows) under a stereoscopic
+microscope (upper panel) and on MRA (lower panel).
+doi:10.1371/journal.pone.0153756.g001
+
+comparisons between different time points with different MRI sequences. The comparison of
+lesion volume between T2WI- and TTC-stained sections was made by using the two-tailed
+paired Student t-test. p<0.05 to indicate statistical significance.
+
+Results
+Establishment of the Photothrombotic pMCA Occlusion Stroke Mouse
+Model
+Before the surgery, the intact right MCA could be observed clearly through the transparent
+skull by a stereoscopic microscope and MRA (Fig 1A). However, it could be difficult to detect
+after the photothrombotic operation (Fig 1B).
+Neurologic deficit scores were used to evaluate each mouse at 24 hours after the occlusion.
+As shown in Table 1, there were significant behavioral deficits in the photothrombotic stroke
+group subjected to photothrombosis surgery (n = 7, 2.29±0.76) compared to the sham
+
+PLOS ONE | DOI:10.1371/journal.pone.0153756 April 19, 2016
+
+5 / 13
+
+Precise Imaging of Penumbra and Stroke Model
+
+operation group (n = 7, p< 0.05). In detail, the deficit score in six of the seven stroke mice generally ranged from 2 to 3, representing a moderate neurological injury.
+
+Evolution of the Infarct Volume
+The ischemic lesions in the photothrombotic stroke group depicted on different MRI
+sequences spread from the ventral part of the basal ganglia to the entire basal ganglia and ipsilateral cortex with time. The degree of brain edema became more and more severe, reflected by
+a shift of the midline (white arrows, Fig 2A). At one hour after MCA occlusion, only the ADC
+map could display distinct lesions. Indeed, the T2WI detected few significant abnormal signals
+at that time. At 3 and 6 hours, the ADC map still showed larger relative lesion volumes than
+T2WI (p<0.05). Meanwhile, although there was no significant statistical differences, the rVL
+on DWI was somewhat smaller than that on the ADC map. The rVL on DWI and T2WI
+reached a maximum and matched well with that on the ADC map at 12 hours. As shown in Fig
+2B, the rVL on DWI at 12 and 24 hours were significantly larger than that at 1 hour, and the
+rVL on T2WI at 12 and 24 hours were also significantly larger than that at 3 hours (p< 0.05).
+However, the rVL on ADC map at different time points remained consistent (0.42±0.07, 0.37
+±0.05, 0.40±0.08, 0.41±0.08, 0.41±0.06 at 1,3,6,12,24 hours, respectively, p> 0.05).
+
+Reproducibility of Infarct Volume
+No mice died in the photothrombotic stroke group and sham group, while three of the seven
+mice in the MCAO group died due to large infarct lesions.
+To evaluate the reproducibility of the stroke models, TTC-staining and T2WI were introduced to examine the final relative lesion volumes. The rVL in the photothrombotic stroke group
+in the TTC-stained slices showed no significant difference with that on T2WI at 24 hours (0.35
+±0.10 vs 0.37±0.08; p> 0.05) (Fig 3A and 3B). The CV of infarct volumes was 21.7% (0.08 of
+0.37) on T2WI and 27.8% (0.10 of 0.35) on TTC, suggesting a high reproducibility of this model.
+The rVL in the MCAO group on T2WI at 24 hours was 0.34±0.24, and the CV of infarct volumes
+was 70% (0.24 of 0.34) (S1 Fig). Nissl-staining was further used to examine the neurons. The
+nuclei of neurons in the lesions appeared karyolytic and pyknotic, indicating a regional loss of
+pigmentation and tissue structure (Fig 3C). Histological abnormalities were not detected microscopically around the lesions or in the contralateral hemisphere (Fig 3D).
+
+Penumbra on MRI at One Hour
+The penumbra was visualized in vivo at one hour after occlusion. As the representative slices
+from one mouse were showed in Fig 4A, red colored areas indicated low perfusion areas on the
+cerebral blood flow (CBF) map or hypointense areas on the ADC map, respectively. Then, on
+the same map, the matching areas between the CBF and ADC maps were showed in light blue,
+Table 1. Neurological deficit scores in the photothrombotic stroke and sham groups at 24 hours after
+MCA occlusion.
+Group
+
+number
+
+Neurological deﬁcit scores
+
+Mean±SD
+
+0
+
+1
+
+2
+
+3
+
+4
+
+Stroke
+
+7
+
+0
+
+1
+
+3
+
+3
+
+0
+
+2.29±0.76*
+
+Sham
+
+7
+
+7
+
+0
+
+0
+
+0
+
+0
+
+0
+
+*P< 0.05.
+doi:10.1371/journal.pone.0153756.t001
+
+PLOS ONE | DOI:10.1371/journal.pone.0153756 April 19, 2016
+
+6 / 13
+
+Precise Imaging of Penumbra and Stroke Model
+
+Fig 2. The evolution of the infarct volume on MRI. A) The brain lesions were detected by T2WI, ADC map
+and DWI at different time points. The curving midlines (white arrows) indicate a severe brain edema. B) The
+ADC map showed relatively larger lesion volumes at 1 hour (*p<0.05) versus DWI, 3 hours and 6 hours
+(*p<0.05), and versus T2WI. The relative lesion volumes on DWI and T2WI reached a maximum and
+matched well with those on ADC map at 12 hours (p>0.05), On T2WI, the lesion volumes at 12 and 24 hours
+were larger (#p<0.05) versus that at 3 hours; while on DWI the volumes at 12 and 24 hours were larger
+(#p<0.05) versus that at 1 hour.
+doi:10.1371/journal.pone.0153756.g002
+
+while the mismatching areas were showed in yellow, and the negative mismatch areas were
+showed in dark blue. In detail, the relative volume of low blood flow areas on CBF map
+appeared considerably larger than the hypointense areas on the ADC map (0.48±0.01vs 0.33
+±0.08, p< 0.05) (Fig 4A and 4B). Interestingly, the mismatch areas, representing the penumbra,
+could be detected not only surrounding but also in the lesions (Fig 4A). This phenomenon was
+also confirmed by several potential penumbra markers, c-fos and HSP-90. C-fos was readily
+
+PLOS ONE | DOI:10.1371/journal.pone.0153756 April 19, 2016
+
+7 / 13
+
+Precise Imaging of Penumbra and Stroke Model
+
+Fig 3. The reproducibility of infarct volume. A) The lesions at 24 hours after occlusion were showed on T2WI (left side) and TTC slices (right side). B) The
+relative lesion volumes on the TTC-stained slices showed no difference from those on T2WI (p>0.05). For Nissl staining, representative images contrasted
+the ipsilateral (C) and contralateral zone (D). The white arrows indicated that the nucleus of neurons appears with karyolysis and pyknosis in the lesion.
+doi:10.1371/journal.pone.0153756.g003
+
+observed in both the peri-infarct and infarct areas, which was also consistent with HSP-90 staining (Fig 4C and 4D). The T2-weighted images at 24 hours showed small lesions in the mice subjected to reperfusion, which matched well with the penumbra images at one hour (S2 Fig).
+
+Discussion
+A modified mouse stroke model based on photothrombotic pMCA occlusion has been established in the present study, which is a “close to patient” animal model. There were various
+methods in the literature for stroke models, such as the electrocoagulation method[23], topical
+FeCl3 application method[24], and MCAO occlusion[25]. The first two methods could cause a
+certain degree of trauma to the dura mater and parenchyma with craniotomy, leading to
+spreading depression. For the MCAO method, the surgery is mostly based on the operator’s
+experience, as the occlusion could be indirectly monitored. Moreover, it is the filament and not
+the endogenous embolus that occludes the MCA. In the present study, the MCAO model
+showed a low reproducibility of lesions with high mortality. However, the photothrombotic
+occlusion is almost limited to the arterial segment with little injury to the surrounding tissues.
+The principle of photothrombosis is an endothelial damage of the singlet molecular oxygen
+induced by an endovascular photochemical reaction between the green laser and the photosensitizing solution, resulting in a particularly platelet-based response[26]. This thrombus mostly
+mimics the clinical thrombosis, making it suitable for a thrombolysis study[27]. The distal
+
+PLOS ONE | DOI:10.1371/journal.pone.0153756 April 19, 2016
+
+8 / 13
+
+Precise Imaging of Penumbra and Stroke Model
+
+Fig 4. The penumbra at one hour after occlusion on MRI. A) Representative slices from one mouse. Red colored areas represented low perfusion areas
+on the CBF map or hypointense areas on the ADC map, respectively. On the same map, meanwhile, the light blue colored areas represented the matching
+areas, which were regarded as the infarct lesions; while the negative mismatch areas were showed in dark blue. And the yellow colored areas represented
+the mismatching areas, this indicated the penumbra. The penumbra was shown as not only surrounding the lesions but also in the lesions. B) The CBF map
+on PWI showed considerably larger averaged relative lesion volumes (in percent of ipsilateral hemisphere) (*p<0.05; versus the ADC map). Several potential
+penumbra markers stains were performed to confirm the location of the penumbra, such as c-fos (C) and HSP-90 (D). The ipsilateral hemispheric slices were
+taken with a 2.5× objective lens. And the peri-infarct and the infarct areas were taken with a 10× lens indicated by triangle and pentacle, respectively. In both
+the peri-infarct and infarct areas, c-fos was readily detected, which was also consistent with the HSP-90 staining.
+doi:10.1371/journal.pone.0153756.g004
+
+MCA was occluded in most previous studies, leading to the lesions being limited to the cortex
+[28]. In fact, insufficient blood supply makes the basal ganglia more sensitive to ischemia compared to the cortex, and this results in a high incidence rate of infarct in the basal ganglia in
+clinic[29]. Therefore, large lesions including both cortex and basal ganglia seemed more reasonable by occluding the pMCA in the present study. Using mouse instead of rat could avoid
+unnecessary trauma induced by the craniotomy. This study also introduced a convenient and
+cheap laser system with an optical fiber instead of the complex beam steerage in previous studies. This system shortened the irradiation time to just 2 minutes, and avoided more irradiation
+trauma. There were several advantages in this modified stroke model: 1) The surgery operation
+could be finished rapidly within 15 minutes. 2) No professional surgical techniques were
+required. 3) Additional trauma induced by craniotomy could be avoided. 4) The final lesions
+involved both cortex and basal ganglia, resulting in moderate deficit scores with low mortality.
+5) A high reproducibility of infract volumes could be achieved. 6) A convenient and cheap
+
+PLOS ONE | DOI:10.1371/journal.pone.0153756 April 19, 2016
+
+9 / 13
+
+Precise Imaging of Penumbra and Stroke Model
+
+laser system was introduced. Such advantages should facilitate its further study in various
+fields.
+In the present study, noninvasive MRI was introduced to characterize, from early stages and
+onwards, the evolution of lesions in real-time. Compared with the other sequences (T2WI and
+DWI), the ADC map indicated earlier and clearer lesions, and it has been proved to predict the
+final lesions[30]. Combined with the DWI or ADC map, the CBF map could discern the penumbra [31]. The penumbra has become the major objective of the thrombolytic therapy. However, the therapy time window for penumbral salvage is within a few hours of stroke onset.
+Patients with a penumbra, if detected in time, may benefit from the thrombolytic therapy[32].
+There have been several animal studies on the penumbra[33, 34]. For example, several studies
+were undertaken on another photothrombotic “ring” stroke model[35]. Directly irradiating the
+cortex with a ring filter resulted in a central area surrounded by the lesions. However, the animal model lesions were present within the simultaneous vasogenic edema and cytotoxic
+edema, which is not similar with the stroke in human beings. To our knowledge, we are the
+first to precisely make the penumbra visualization in this model. Different from the conventional concept of the penumbra[34–36], an interesting finding in the present study was that the
+low perfusion areas on PWI interlaced with the hypointense areas on the ADC map. This
+resulted in the penumbra not only surrounding but also being found in the lesions (Fig 2A).
+The reason for this phenomenon might be the complicated anatomy of the arteries. And the
+residual collateral circulation may also supply blood to a number of small regions in the lesions,
+leading to several salvageable tissues. Coincidentally, this phenomenon was also detected in the
+acute stroke patients based on our home-made data processing workstation (unpublished
+results). The precise visualization of the penumbra seemed to accord with the complex pathophysiology in human beings. It has been reported that the expression of c-fos was localized in
+the penumbra and the normal regions adjacent to the lesions[37]. Hsp90 was already reported
+to play important roles in the regulation of cellular homeostasis and stress response, and it has
+shown a potential relationship with the penumbra[38]. Our study further demonstrated the
+relationship between these pathobiological markers and the penumbra. However, it is still
+unclear if these specific biological markers could represent the penumbra[39, 40]. Therefore,
+better understanding of the penumbra both on imaging and pathophysiology could be received
+based on our study, which may promote research in stroke and anti-stroke agents.
+There were some limitations to note. Due to several small vessels around the zygomatic
+arch, particular attention should be paid to avoid hemorrhage during the process of surgery.
+This issue could be avoided with enough practice and carefulness. To shorten the scan time of
+PWI, the images were acquired without high-resolution. Shimming before scanning and
+adjusting the scanning parameters would improve image resolution.
+In conclusion, we have established a modified reproducible stroke mouse model by photothrombotic pMCA occlusion with a convenient laser system. On MRI, the precise location of
+the penumbra in our study was considered to mimic the complex situation in human beings.
+Furthermore, using this model could improve the interpretation of the results, providing promising functional relevance for application in clinical scenarios.
+
+Supporting Information
+S1 Checklist. Completed ‘‘The ARRIVE Guidelines Checklist” for reporting animal data in
+this manuscript.
+(PDF)
+S1 Dataset. The evolution of lesion volume for all endpoints.
+(XLSX)
+
+PLOS ONE | DOI:10.1371/journal.pone.0153756 April 19, 2016
+
+10 / 13
+
+Precise Imaging of Penumbra and Stroke Model
+
+S2 Dataset. The final lesion volumes on TTC and T2WI.
+(XLSX)
+S3 Dataset. Lesion volumes on PWI and DWI.
+(XLSX)
+S1 Fig. The reproducibility of infarct volume on MCAO model. A) The same slices from different mice at 24 hours were showed on T2WI. B) The relative lesion volumes of each mouse
+subjected to MCAO.
+(TIF)
+S2 Fig. Effect of reperfusion on the penumbra. A) Slices of one representative mouse only
+subjected to photothrombotic occlusion on T2-weighted images at 24 hours. B) The
+T2-weighted images of one representative mouse subjected to reperfusion at 24 hours. C) Slices
+of the same mice subjected to reperfusion on the PWI/DWI mismatch images at one hour.
+(TIF)
+
+Acknowledgments
+We would like to thank the Collaborative Innovation Center of Suzhou Nano Science and
+Technology for their kindly help.
+
+Author Contributions
+Conceived and designed the experiments: CQ PCL GJT. Performed the experiments: CQ PCL.
+Analyzed the data: CQ PCL YJ XYY. Contributed reagents/materials/analysis tools: CQ PCL
+YJ. Wrote the paper: CQ PCL HHY YCC JY JD GJT.
+
+References
+1.
+
+Roger VL, Go AS, Lloyd-Jones DM, Adams RJ, Berry JD, Brown TM, et al. Heart disease and stroke
+statistics: a report from the American Heart Association. Circulation. 2011; 123(4):e18–e209. doi: 10.
+1161/CIR.0b013e3182009701 PMID: 21160056
+
+2.
+
+Hacke W, Kaste M, Bluhmki E, Brozman M, Dávalos A, Guidetti D, et al. Thrombolysis with alteplase 3
+to 4.5 hours after acute ischemic stroke. New Engl J Med. 2008; 359(13):1317–29. doi: 10.1056/
+NEJMoa0804656 PMID: 18815396
+
+3.
+
+Ezura M, Takahashi A, Matsumoto Y, Ogawa A. MCA embolism local fibrinolytic intervention trial
+(MELT) Japan. Minimally Invasive Neurosurgery and Multidisciplinary Neurotraumatology: Springer;
+2006. p. 85–9.
+
+4.
+
+Investigators PPST. The penumbra pivotal stroke trial safety and effectiveness of a new generation of
+mechanical devices for clot removal in intracranial large vessel occlusive disease. Stroke. 2009; 40
+(8):2761–8. doi: 10.1161/STROKEAHA.108.544957 PMID: 19590057
+
+5.
+
+Jung S, Gilgen M, Slotboom J, El-Koussy M, Zubler C, Kiefer C, et al. Factors that determine penumbral
+tissue loss in acute ischaemic stroke. Brain. 2013; 136(12):3554–60.
+
+6.
+
+Markus R, Reutens D, Kazui S, Read S, Wright P, Pearce D, et al. Hypoxic tissue in ischaemic stroke:
+persistence and clinical consequences of spontaneous survival. Brain. 2004; 127(6):1427–36.
+
+7.
+
+Muir KW, Halbert HM, Baird TA, McCormick M, Teasdale E. Visual evaluation of perfusion computed
+tomography in acute stroke accurately estimates infarct volume and tissue viability. J Neurol Neurosur
+Ps. 2006; 77(3):334–9.
+
+8.
+
+Chemmanam T, Campbell B, Christensen S, Nagakane Y, Desmond P, Bladin C, et al. Ischemic diffusion lesion reversal is uncommon and rarely alters perfusion-diffusion mismatch. Neurology. 2010; 75
+(12):1040–7. doi: 10.1212/WNL.0b013e3181f39ab6 PMID: 20720188
+
+9.
+
+Schaefer PW, Barak ER, Kamalian S, Gharai LR, Schwamm L, Gonzalez RG, et al. Quantitative
+assessment of core/penumbra mismatch in acute stroke CT and MR perfusion imaging are strongly
+correlated when sufficient brain volume is imaged. Stroke. 2008; 39(11):2986–92. doi: 10.1161/
+STROKEAHA.107.513358 PMID: 18723425
+
+PLOS ONE | DOI:10.1371/journal.pone.0153756 April 19, 2016
+
+11 / 13
+
+Precise Imaging of Penumbra and Stroke Model
+
+10.
+
+Chen F, Suzuki Y, Nagai N, Sun X, Wang H, Yu J, et al. Microplasmin and tissue plasminogen activator:
+comparison of therapeutic effects in rat stroke model at multiparametric MR imaging. Radiology. 2007;
+244(2):429–38. PMID: 17581889
+
+11.
+
+McLeod DD, Parsons MW, Hood R, Hiles B, Allen J, McCann SK, et al. Perfusion computed tomography thresholds defining ischemic penumbra and infarct core: studies in a rat stroke model. Int J Stroke.
+2015; 10(4):553–9. doi: 10.1111/ijs.12147 PMID: 24138577
+
+12.
+
+Robertson CA, McCabe C, Lopez-Gonzalez MR, Deuchar GA, Dani K, Holmes WM, et al. Detection of
+ischemic penumbra using combined perfusion and T2* oxygen challenge imaging. Int J Stroke. 2015;
+10(1):42–50. doi: 10.1111/ijs.12327 PMID: 25042078
+
+13.
+
+McLeod DD, Parsons MW, Levi CR, Beautement S, Buxton D, Roworth B, et al. Establishing a rodent
+stroke perfusion computed tomography model. Int J Stroke. 2011; 6(4):284–9. doi: 10.1111/j.17474949.2010.00564.x PMID: 21609409
+
+14.
+
+Ramos-Cabrer P, Campos F, Sobrino T, Castillo J. Targeting the ischemic penumbra. Stroke. 2011; 42
+(1 Suppl):S7–11.
+
+15.
+
+Ginsberg MD. The validity of rodent brain-ischemia models is self-evident. Arch Neurol. 1996; 53
+(10):1065–7. PMID: 8859069
+
+16.
+
+Li P, Mao L, Liu X, Gan Y, Zheng J, Thomson AW, et al. Essential role of program death 1-ligand 1 in
+regulatory T-cell-afforded protection against blood-brain barrier damage after stroke. Stroke. 2014; 45
+(3):857–64. doi: 10.1161/STROKEAHA.113.004100 PMID: 24496394
+
+17.
+
+Yao H, Ibayashi S, Sugimori H, Fujii K, Fujishima M. Simplified model of krypton laser-induced thrombotic distal middle cerebral artery occlusion in spontaneously hypertensive rats. Stroke. 1996; 27
+(2):333–6. PMID: 8571433
+
+18.
+
+Del Bene A, Makin SD, Doubal FN, Inzitari D, Wardlaw JM. Variation in risk factors for recent small subcortical infarcts with infarct size, shape, and location. Stroke. 2013; 44(11):3000–6. doi: 10.1161/
+STROKEAHA.113.002227 PMID: 24008573
+
+19.
+
+Kilkenny C, Browne WJ, Cuthill IC, Emerson M, Altman DG. Improving bioscience research reporting:
+the ARRIVE guidelines for reporting animal research. PLoS Biol. 2010; 8(6):e1000412. doi: 10.1371/
+journal.pbio.1000412 PMID: 20613859
+
+20.
+
+Morris GP, Wright AL, Tan RP, Gladbach A, Ittner LM, Vissel B. A comparative study of variables influencing ischemic injury in the longa and koizumi methods of intraluminal filament middle cerebral artery
+occlusion in mice. PloS One. 2016; 11(2):e0148503. doi: 10.1371/journal.pone.0148503 PMID:
+26870954
+
+21.
+
+Wu LJ, Wu G, Akhavan Sharif MR, Baker A, Jia Y, Fahey FH, et al. The voltage-gated proton channel
+Hv1 enhances brain damage from ischemic stroke. Nature Neurosci. 2012; 15(4):565–73. doi: 10.
+1038/nn.3059 PMID: 22388960
+
+22.
+
+Zhang Y, Fan S, Yao Y, Ding J, Wang Y, Zhao Z, et al. In vivo near-infrared imaging of fibrin deposition
+in thromboembolic stroke in mice. PloS One. 2012; 7(1):e30262. doi: 10.1371/journal.pone.0030262
+PMID: 22272319
+
+23.
+
+Orset C, Macrez R, Young AR, Panthou D, Angles-Cano E, Maubert E, et al. Mouse model of in situ
+thromboembolic stroke and reperfusion. Stroke. 2007; 38(10):2771–8. PMID: 17702959
+
+24.
+
+Karatas H, Erdener SE, Gursoy-Ozdemir Y, Gurer G, Soylemezoglu F, Dunn AK, et al. Thrombotic distal middle cerebral artery occlusion produced by topical FeCl(3) application: a novel model suitable for
+intravital microscopy and thrombolysis studies. J Cerebr Blood F Met. 2011; 31(6):1452–60.
+
+25.
+
+Boehm-Sturm P, Aswendt M, Minassian A, Michalk S, Mengler L, Adamczak J, et al. A multi-modality
+platform to image stem cell graft survival in the naïve and stroke-damaged mouse brain. Biomaterials.
+2014; 35(7):2218–26. doi: 10.1016/j.biomaterials.2013.11.085 PMID: 24355489
+
+26.
+
+Yao H, Sugimori H, Fukuda K, Takada J, Ooboshi H, Kitazono T, et al. Photothrombotic middle cerebral
+artery occlusion and reperfusion laser system in spontaneously hypertensive rats. Stroke. 2003; 34
+(11):2716–21. PMID: 14576380
+
+27.
+
+Yao H, Okada Y, Ibayashi S. Therapeutic time window for YAG laser-induced reperfusion of thrombotic
+stroke in hypertensive rats. Neuroreport. 2002; 13(8):1005–8. PMID: 12060796
+
+28.
+
+Umemura K, Wada K, Uematsu T, Nakashima M. Evaluation of the combination of a tissue-type plasminogen activator, SUN9216, and a thromboxane A2 receptor antagonist, vapiprost, in a rat middle
+cerebral artery thrombosis model. Stroke. 1993; 24(7):1077–81. PMID: 8322383
+
+29.
+
+Yang ST, Lee WT, Hung KL, Chang CL. Infantile basal ganglia stroke after mild head trauma. Neurology. 2015; 84(23):2381–2. doi: 10.1212/WNL.0000000000001669 PMID: 26054894
+
+30.
+
+Rosso C, Hevia-Montiel N, Deltour S, Bardinet E, Dormont D, Crozier S, et al. Prediction of infarct
+growth based on apparent diffusion coefficients: penumbral assessment without intravenous contrast
+material. Radiology. 2009; 250(1):184. doi: 10.1148/radiol.2493080107 PMID: 19017923
+
+PLOS ONE | DOI:10.1371/journal.pone.0153756 April 19, 2016
+
+12 / 13
+
+Precise Imaging of Penumbra and Stroke Model
+
+31.
+
+Kidwell CS, Alger JR, Saver JL. Beyond mismatch: evolving paradigms in imaging the ischemic penumbra with multimodal magnetic resonance imaging. Stroke. 2003; 34(11):2729–35. PMID: 14576370
+
+32.
+
+Rosso C, Samson Y. The ischemic penumbra: the location rather than the volume of recovery determines outcome. Curr Opin Neurol. 2014; 27(1):35–41. doi: 10.1097/WCO.0000000000000047 PMID:
+24275722
+
+33.
+
+Reid E, Graham D, Lopez-Gonzalez MR, Holmes WM, Macrae IM, McCabe C. Penumbra detection
+using PWI/DWI mismatch MRI in a rat stroke model with and without comorbidity: comparison of methods. J Cerebr Blood F Met. 2012; 32(9):1765–77.
+
+34.
+
+McCabe C, Gallagher L, Gsell W, Graham D, Dominiczak AF, Macrae IM. Differences in the evolution
+of the ischemic penumbra in stroke-prone spontaneously hypertensive and Wistar-Kyoto rats. Stroke.
+2009; 40(12):3864–8. doi: 10.1161/STROKEAHA.109.559021 PMID: 19797186
+
+35.
+
+Jiang W, Gu W, Hossmann K-A, Mies G, Wester P. Establishing a photothrombotic ‘ring’stroke model
+in adult mice with late spontaneous reperfusion: quantitative measurements of cerebral blood flow and
+cerebral protein synthesis. J Cerebr Blood F Met. 2005; 26(7):927–36.
+
+36.
+
+Risher WC, Ard D, Yuan J, Kirov SA. Recurrent spontaneous spreading depolarizations facilitate acute
+dendritic injury in the ischemic penumbra. J Neurosci. 2010; 30(29):9859–68. doi: 10.1523/
+JNEUROSCI.1917-10.2010 PMID: 20660268
+
+37.
+
+Xu JH, Culman J, Blume A, Brecht S, Gohlke P. Chronic treatment with a low dose of lithium protects
+the brain against ischemic injury by reducing apoptotic death. Stroke. 2003; 34(5):1287–92. PMID:
+12677021
+
+38.
+
+Chen XP, Zhao CY, Li XL, Wang T, Li YZ, Cao C, et al. Terazosin activates Pgk1 and Hsp90 to promote
+stress resistance. Nat Chem Biol. 2015; 11(1):19–25. doi: 10.1038/nchembio.1657 PMID: 25383758
+
+39.
+
+Weinstein PR, Hong S, Sharp FR. Molecular identification of the ischemic penumbra. Stroke. 2004; 35
+(11 suppl 1):2666–70. PMID: 15486332
+
+40.
+
+Agulla J, Brea D, Campos F, Sobrino T, Argibay B, Al-Soufi W, et al. In vivo theranostics at the periinfarct region in cerebral ischemia. Theranostics. 2014; 4(1):90.
+
+PLOS ONE | DOI:10.1371/journal.pone.0153756 April 19, 2016
+
+13 / 13
+
+

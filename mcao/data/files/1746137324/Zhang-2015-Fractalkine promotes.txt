@@ -1,0 +1,1022 @@
+Fractalkine promotes chemotaxis of bone marrow-derived
+mesenchymal stem cells towards ischemic brain lesions
+through Jak2 signaling and cytoskeletal reorganization
+Yuan Zhang1, Jian Zheng2, Zhujuan Zhou2, Huadong Zhou3, Yanjiang Wang3, Zili Gong2 and
+Jie Zhu3
+1 Department of Orthopedics, Xinqiao Hospital, Third Military Medical University, Chongqing, China
+2 Department of Neurology, Xinqiao Hospital, Third Military Medical University, Chongqing, China
+3 Department of Neurology, Daping Hospital, Third Military Medical University, Chongqing, China
+
+Keywords
+bone marrow-derived mesenchymal stem
+cells; chemotaxis; cytoskeleton; fractalkine;
+Jak2
+Correspondence
+J. Zhu, Department of Neurology, Daping
+Hospital, Third Military Medical University,
+Chongqing 40042, China
+Fax: +86 23 68757852
+Tel: +86 23 68757853
+E-mail: dpapof@hotmail.com
+(Received 18 September 2014, revised 1
+December 2014, accepted 27 December
+2014)
+doi:10.1111/febs.13187
+
+The fractalkine (FKN)–CX3CR1 (FKN receptor) axis reportedly plays an
+important role in the progression of many neural pathologies. However, its
+role in the recruitment of bone marrow-derived progenitor cells for neurogenesis remains elusive. The chemokine-based mechanism underlying the
+migration of bone marrow-derived mesenchymal stem cells (BMSCs) was
+investigated in a double-chamber transmigration model with recombinant
+FKN and endogenous FKN extract, and the results confirmed the involvement of FKN in migration. This chemotactic response was CX3CR1dependent and FKN-sensitive. Western blotting, immunoprecipitation and
+transmigration assays revealed that the Janus kinase (Jak)2–signal transducer and activator of transcription (Stat)5a–extracellular signal-related
+kinase (ERK)1/2 pathway was activated by FKN. Confocal laser scanning
+microscopy was used to demonstrate cytoskeletal reorganization caused by
+remodeling of the surface receptor integrin a5b1, intracellular phosphorylation of Fak and Pax, and upregulation of intercellular adhesion molecule-1
+during BMSC migration. Moreover, significant inhibition of signaling and
+migration was detected after treatment of cells with Jak2-interfering RNA
+or the antagonist AG490. In addition, the results of a fluorescence immunohistochemical analysis of an in vivo chemotactic model, developed via
+transplantation of BMSCs into transient middle cerebral artery-occluded
+rats, were consistent with the in vitro results. These findings suggest that
+FKN activates Jak2–Stat5a–ERK1/2 signaling through CX3CR1, thereby
+triggering integrin-dependent machinery reorganization to allow chemotactic migration of BMSCs towards an ischemic cerebral lesion.
+
+Introduction
+Stroke is a devastating disorder that is secondary to
+cardiac ischemia as a major cause of mortality and
+
+disability worldwide [1]. Cerebral infarctions are generally considered to be incurable, owing to irreversible
+
+Abbreviations
+a-FKN, membrane-anchored fractalkine; BMSC, bone marrow-derived mesenchymal stem cell; CLSM, confocal laser scanning microscopy;
+DMEM, Dulbecco’s modified Eagle’s medium; ERK, extracellular signal-related kinase; Fak, focal adhesion kinase; FKN, fractalkine; H-R,
+hypoxia–reoxygenation; ICAM-1, intercellular adhesion molecule-1; I-R, ischemia–reperfusion; Jak, Janus kinase; MAPK, mitogen-activated
+protein kinase; MCA, middle cerebral artery; MCAO, middle cerebral artery occlusion; Pax, paxillin; PTEN, phosphatase and tensin homolog
+deleted on chromosome 10; qPCR, quantitative real-time PCR; r-FKN, recombinant fractalkine; SDF-1a, stromal cell-derived factor-1a; s-FKN,
+soluble fractalkine; shRNA, small hairpin RNA; Stat, signal transducer and activator of transcription; TTC, triphenyl tetrazolium chloride.
+
+FEBS Journal 282 (2015) 891–903 ª 2015 FEBS
+
+891
+
+Y. Zhang et al.
+
+Fractalkine-induced chemotaxis via Jak2 pathway
+
+neuronal necrosis and multiple neurochemical cascades
+that are triggered by ischemia–reperfusion (I-R) [2,3].
+Fortunately, current chemokine-based approaches provide hope that lost neurons can be replenished and
+that communication between neural networks can be
+restored.
+Chemokines form a superfamily of glycoproteins
+that induce directional chemotaxis of cells via corresponding receptors. Fractalkine (FKN, also known as
+CX3CL1), one of the few chemokines that is constitutively expressed in the central nervous system [4],
+interacts with its specific seven-transmembrane, G-protein-coupled receptor CX3CR1. FXN participates in
+multiple neuropathologies involving inflammation,
+degeneration, angiogenesis, and tumorigenesis, by
+improving the migration and adhesion of CX3CR1positive cells [5–7]. Endogenous and exogenous nonneural cells have the potential to migrate and accumulate in ischemic regions through an incompletely
+known mechanism. These cells also provide support
+for the formation of neurons and associated cells, and
+maintain tissue homeostasis during neurogenesis [8].
+For example, one type of macrophage that characteristically expresses chondroitin sulfate proteoglycan
+can be induced to attach to the vascular wall and
+migrate towards ischemic brain lesions via monocyte
+chemoattractant protein-1 and its receptor CCR2 [9].
+Pluripotent cells, primarily bone marrow-derived mesenchymal stem cells (BMSCs), show therapeutic superiority, because they specifically localize to injury sites
+and show multilineage differentiation. Some in vivo
+experimental data suggest that BMSCs, engrafted
+either systemically or locally, migrate towards the
+ischemic hemisphere and improve functional outcomes
+via a stromal cell-derived factor-1a (SDF-1a)–CXCR4
+axis-dependent mechanism [10,11].
+Another FKN–CX3CR1 axis has also been reported
+to be involved in chemotaxis towards ischemic injury,
+but most studies have focused on its role in recruiting
+proinflammatory cells, such as leukocytes, monocytes,
+and lymphocytes, and its contribution to neuroinflammation [3,9,12]. For example, neurons and astrocytes
+cause microglia to exert neuroprotective or neurotoxic
+effects through an interaction between FKN and
+CX3CR1 [13]. Up to now, there have been few studies
+on the role that stem cells play in chemotactic migration, especially stem cells employed in transplantation
+therapy.
+In a previous study, we verified that the FKN–
+CX3CR1 axis participates in the directional migration
+of systemically grafted BMSCs to an ischemic brain
+lesion. We also showed histopathological evidence of
+the codistribution of BMSCs with endogenous neurons
+892
+
+and astrocytes in ischemic boundary zones showing
+high expression of FKN. In addition, RNA interference targeting CX3CR1 significantly inhibited cell
+migration [14]. However, the molecular mechanisms
+underlying these effects remain unclear. Given the controversial role of FKN in the diversified outcomes of
+stroke, this issue is of high importance. We hypothesized that the FKN–CX3CR1 axis shares certain
+G-protein-coupled receptor signaling pathways and
+reassembles the adhesion machinery to modulate the
+migration of BMSCs. Therefore, we further investigated the role of the FKN–CX3CR1 axis and its
+effects on downstream molecules and cytoskeletal components by using both in vitro and in vivo models.
+
+Results
+I–R increases the expression of FKN and CX3CR1
+A rat middle cerebral artery (MCA) occlusion
+(MCAO) model was employed to replicate a local cerebral infarction that mimicked pathological I-R at a
+predetermined time and to illustrate the characteristics
+of FKN expression in ischemic brains ex vivo. After
+occlusion for 2 h, the spatial distribution of the ischemic core and peri-ischemic region could be grossly recognized via triphenyl tetrazolium chloride (TTC)
+staining, and differential production of FKN within
+the ischemic core could be differentiated by microscopic immunohistology (Fig. 1A,B). A previous study
+reported that cerebral FKN was primarily produced
+by neurons and hypoxic astrocytes in the cortex [9];
+however, our histopathological results indicated that
+FKN was notably upregulated in the peri-ischemic
+region 12 h after MCAO. At 24 h, FKN peaked at a
+value of 2.7-fold the level of FKN at MCAO onset
+(P < 0.01), and this augmentation was maintained for
+72 h (Fig. 1C). The corresponding contralateral region
+showed compensatory elevation of FKN 12 h after IR, and this increase was sustained for 72 h (P < 0.05).
+Previous studies showed that FKN functioned in
+both the membrane-anchored form (a-FKN, for adhesion) and the released soluble form (s-FKN, chemoattraction), and the expression of these two forms might
+occur in different patterns [7]. Hence, in this study,
+ELISA-based quantification of these two forms was
+employed to discriminate their composition within an
+endogenous cerebral filtrate. The results revealed that
+the level of s-FKN was markedly increased in the
+entire central ischemic block, accounting for nearly
+80% of the total FKN content 48 h after I-R onset.
+However, a mild increase in the level of a-FKN was
+also noted (Fig. 1D).
+FEBS Journal 282 (2015) 891–903 ª 2015 FEBS
+
+Y. Zhang et al.
+
+Fractalkine-induced chemotaxis via Jak2 pathway
+
+B
+
+A
+
+E
+C
+
+D
+
+Fig. 1. Expression profiles of FKN in ischemic brain tissue and its receptor CX3CR1 on BMSCs. (A) The gross appearance of TTC-stained brain
+tissue shows the morphological distribution of the ischemic core and the peri-ischemic region following occlusion of the MCA for 2 h. (B) The
+morphological difference of FKN expression within the ischemic core was determined through anti-FKN immunohistochemistry (9 100). And
+the striatum and cortex were labeled as dark and light brown areas, respectively. (C) The spatiotemporal expression of FKN in different groups
+was observed at various reperfusion time points after MCAO for 2 h. The sham control is the group in which the rats underwent the same
+surgical operation but without insertion of the monofilament nylon suture. *P < 0.05 as compared with the sham control; #P < 0.05 as
+compared with corresponding regions of the MCAO sample collected at 6 h; §P < 0.05 as compared with the contralateral region at the same
+time points after MCAO. (D) Two constitutive forms of FKN, s-FKN and a-FKN, were quantified via ELISA at 450 nm. *P < 0.05 as compared
+with the sham control. (E) Gene and protein expression of CX3CR1 in BMSCs subjected to different treatments, determined via qPCR,
+western blotting, and anti-CX3CR1 immunohistochemistry (9 200). *P < 0.05 and #P < 0.05 as compared with normoxia and CX3CR1
+shRNA + r-FKN-treated samples, respectively. Con-shRNA, control shRNA; GAPDH, glyceraldehyde-3-phosphate dehydrogenase.
+
+The CX3CR1 expression profile in BMSCs cultured
+in vitro was investigated to test the response of the
+BMSCs to physical treatment [hypoxia–reoxygenation
+(H-R)] and biochemical stimulation [chemokine
+FEBS Journal 282 (2015) 891–903 ª 2015 FEBS
+
+domain of recombinant FKN (r-FKN)]. We observed
+markedly increased CX3CR1 expression following
+exposure of BMSCs toH-R for 2 h or incubation of
+BMSCs with r-FKN at 100 ngmL 1, as demonstrated
+
+893
+
+Y. Zhang et al.
+
+Fractalkine-induced chemotaxis via Jak2 pathway
+
+by the results of quantitative real-time PCR (qPCR),
+western blotting of cell lysates, and whole-cell immunohistochemistry. When BMSCs were pretreated with
+CX3CR1 small hairpin RNA (shRNA), the upregulation of CX3CR1 caused by r-FKN stimulation was
+significantly inhibited at the mRNA level (by ~ 60%)
+(Fig. 1E).
+
+A
+
+The FKN–CX3CR1 axis contributes greatly to
+BMSC migration
+We investigated whether the FKN–CX3CR1 axis modulated chemotactic cell migration by using agonist and
+antagonist strategies. The migration of cells in a transwell assay was quantified by the use of fluorescence values from the bottom of the transwell chamber. The
+results revealed a dose-dependent increase in the number of BMSCs following r-FKN stimulation at an initial
+concentration of 10 ngmL 1 for 30 min, and the maximal effect was observed at 100 ngmL 1 (P < 0.01). We
+also transfected CX3CR1 shRNA into cultured BMSCs,
+and exposed these cells to r-FKN. We found that the
+blockade of surface CX3CR1 significantly inhibited the
+migration of BMSCs into the bottom chamber, by as
+much as 78% (Fig. 2A). Verifying that the ability of
+exogenous FKN to stimulate BMSC migration is also
+present in the ischemic brain, the filtrate from the ischemic region of the brain markedly promoted the migration of BMSCs after I-R for 24 h (Fig. 2B), and
+CX3CR1 knockdown by shRNA also decreased the
+number of migrated cells (~ 40%, P < 0.05). Notably,
+the blockade efficiency of CX3CR1 shRNA did not
+fully replicate the results of the in vitro assay, suggesting
+that other chemokines or factors are present in the filtrate, possibly including macrophage inflammatory protein-1a, SDF-1a, monocyte chemoattractant protein-1,
+and CXCL10 [11,15].
+
+B
+
+FKN–CX3CR1 interaction activates the Janus
+kinase (Jak)2–signal transducer and activator of
+transcription (Stat)5a–extracellular signal-related
+kinase (ERK)1/2 signaling pathway
+
+Fig. 2. Quantitative migration of BMSCs towards exogenous and
+endogenous FKN gradients in vitro. (A) BMSCs were exposed to
+intermittent gradients of r-FKN, and fluorescence-based
+quantitation of the migration of BMSCs in transwell chamber assay
+was performed. The effect of CX3CR1 shRNA on cell migration,
+with or without r-FKN treatment at 100 ngmL 1, was also
+determined. *P < 0.05 and #P < 0.05 as compared with non-FKN
+treated samples and CX3CR1 shRNA + r-FKN-treated samples,
+respectively. (B) Quantitative analysis of migrated BMSCs was
+performed in cells exposed to the cerebral filtrates from MCAOtreated brains collected at consecutive reperfusion time points. The
+effect of CX3CR1 shRNA on cell migration, with or without filtrate
+collected after reperfusion for 48 h, was also examined. §P < 0.05,
+†P < 0.05 and ‡P < 0.05 as compared with non-filtrate-treated
+samples, CX3CR1 shRNA  filtrate-treated samples, and ConshRNA  filtrate-treated samples, respectively. Con-shRNA, control
+shRNA.
+
+Jak–Stat signaling was analyzed to explore the participation of specific downstream molecules in
+BMSCs treated with FKN. The phosphorylation of
+Jak2 was first examined after chemokine stimulation
+(Fig. 3A). Phosphorylation at Tyr317 of Jak2
+showed a rapid increase, with a transient peak from
+1 min to 5 min during r-FKN treatment (phosphorylation at Tyr221 and Tyr1007 was not investigated).
+Additionally, Stat5 phosphorylation at Tyr694 was
+detected at 5 min, peaked at 15 min, and lasted for
+
+30 min. The total and phosphorylated levels of Jak1,
+Jak3, Stat1, Stat2, Stat3 and Stat6 remained
+unchanged under our experimental conditions (data
+not shown).
+To further determine which Stat5 isoform was phosphorylated, we employed an antibody against Stat5a
+or an antibody against Stat5b to immunoprecipitate
+protein extracts derived from cells incubated with
+r-FKN for 15 min or 30 min, and then blotted the
+
+894
+
+FEBS Journal 282 (2015) 891–903 ª 2015 FEBS
+
+Y. Zhang et al.
+
+A
+
+Fractalkine-induced chemotaxis via Jak2 pathway
+
+B
+
+C
+
+D
+
+Fig. 3. Activation of signal transduction triggered by FKN stimulation. (A) Western blotting analyses of Jak2, Stat5, Akt, ERK1/2 and PTEN
+were conducted after treatment of BMSCs with r-FKN (100 ngmL 1) at consecutive time points. Immunoprecipitated PTEN from lysates of
+r-FKN-induced BMSCs was employed to determine the phosphatase activity of PTEN, by quantifying the phosphoinositide product
+dephosphorylated from phosphatidylinositol 3,4,5-triphosphate substrate, via a competitive ELISA.To further investigate which isoform of
+Stat5 was phosphorylated during BMSC migration, BMSCs were incubated with r-FKN at 100 ngmL 1 for 15 min (left two lanes) or 30 min
+(right two lanes), and the protein extract was subjected to immunoprecipitation with antibodies against Stat5a and Stat5b and then blotting
+with antibody against pStat5. (B) BMSCs were pretreated with CX3CR1 shRNA and control shRNA, or Jak2 shRNA, control shRNA, and
+AG490, and the inhibition of the phosphorylation of Jak2 (at 5 min), Stat5 (at 10 min) and ERK1/2 (at 15 min) was assessed following
+incubation with r-FKN (100 ngmL 1). (C) BMSCs were incubated with Jak2 shRNA or Jak2 inhibitor AG490 (100 lM) overnight, and then
+stimulated with r-FKN for 15 min. Western blotting analysis suggested that the phosphorylation of Stat5 and ERK1/2 was significantly
+inhibited. (D) The effects of an AG490 gradient and Jak2 shRNA on BMSC migration were determined in transwell chamber assays. Cells
+were treated with AG490 (100 lM) or Jak2 shRNA overnight, and then stimulated with r-FKN at 100 ngmL 1 to trigger migration.
+Knockdown efficacy of Jak2 was shown by screening protein levels after virus infection. *P < 0.05 and #P < 0.05 as compared with FKNtreated samples and control shRNA + r-FKN-treated samples, respectively. Con-shRNA, control shRNA; GAPDH, glyceraldehyde-3phosphate dehydrogenase; IB, immunoblotting; IP, immunoprecipitation; WB, western blotting.
+
+immunoprecipitated proteins with antibody against
+phospho-Stat5. The results demonstrated that Stat5a
+was predominantly phosphorylated following r-FKN
+stimulation.
+FEBS Journal 282 (2015) 891–903 ª 2015 FEBS
+
+The expression of two other common participants in
+cellular migration, ERK1/2 and Akt, was also analyzed following Jak–Stat activation. The results demonstrated that ERK1/2 phosphorylation began at
+
+895
+
+Fractalkine-induced chemotaxis via Jak2 pathway
+
+5 min and persisted for > 30 min. Akt remained
+unphosphorylated throughout the stimulation process.
+Quantification by western blotting and an ELISAbased phosphatase activity assay for phosphatase and
+tensin homolog deleted on chromosome 10 (PTEN), a
+key regulator of the phosphoinositide 3-kinase–Akt
+pathway, indicated that neither protein expression nor
+phosphatase activity showed a significant change after
+r-FKN stimulation for 60 min; this result suggests that
+PTEN may not be involved in the continued dephosphorylation of Akt (Fig. 3A).
+To further elucidate the signaling of the CX3CR1–
+Jak–Stat and ERK pathways in our model, we examined
+the effects of CX3CR1 shRNA on downstream signaling,
+and found that the phosphorylation levels of Jak2, Stat5
+and ERK1/2 were prominently blocked by CX3CR1
+shRNA, although there was a minimal effect on total
+protein expression (Fig. 3B). Furthermore, AG490 (a
+Jak2 inhibitor) and Jak2 shRNA were employed to interfere with signal transduction mediated by Jak2. The levels of phosphorylated Stat5 and ERK1/2 were
+significantly decreased to different extents following
+overnight treatment with 10 lM AG490 or incubation
+with Jak2 shRNA for 24 h (Fig. 3C).
+Therefore, we re-examined the migration of BMSCs
+in response to r-FKN following treatment with AG490
+and Jak2 shRNA (Fig. 3D). AG490 treatment (10 lM)
+
+Y. Zhang et al.
+
+significantly reduced BMSC migration, and 100 lM
+AG490 completely abolished the FKN-induced increase
+in cellular migration. A similar result regarding BMSC
+migration was obtained following Jak2 shRNA treatment, but the amount of migration was smaller than
+with AG490 treatment (~ 50%, P < 0.05). These data
+suggest that Jak2 signal transduction is required for
+BMSC migration in response to FKN.
+FKN–CX3CR1 triggers cytoskeletal reorganization
+via Jak2–Stat5a transduction
+Cell transmigration is dominated by complicated migration machinery between the transmembrane integrin
+receptor and the cell substratum interface. Therefore,
+we focused on the differential activation of components
+of this machinery, including integrin, focal adhesion
+kinase (Fak), paxillin (Pax), and intercellular adhesion
+molecule-1 (ICAM-1). The effects of r-FKN and Jak2
+inhibitors on integrin remodeling were determined with
+confocal laser scanning microscopy (CLSM), and different integrin clustering statuses were examined on the cell
+surface. In particular, remodeling of integrin a5b1 was
+prominently activated after r-FKN stimulation, as
+demonstrated by strong spot/fiber-like fluorescence, but
+AG490 and Jak2 shRNA notably inhibited this remodeling (Fig. 4A).
+
+A
+
+B
+
+896
+
+C
+
+Fig. 4. Cytoskeletal reorganization induced
+by the FKN–CX3CR1 interaction. (A)
+BMSCs were incubated with DMEM or
+blocked with Jak2 shRNA/AG490 (100 lM)
+overnight, and this was followed by r-FKN
+treatment at 100 ngmL 1 for
+30 min.Integrin a5b1 remodeling on the
+cell surface was subsequently determined
+via CLSM at 550 nm. Integrin a5b1 and
+cell nuclei were labeled with rhodamine (in
+bright red) and Hoechst-33 342 (in blue),
+respectively (scale bar: 50 lm). (B)
+Western blotting analysis was performed
+to detect the phosphorylation of Fak and
+Pax, and ICAM-1 protein expression, in
+BMSCs upon exposure to r-FKN
+(100 ngmL 1) at consecutive time points.
+(C) Inhibition of the phosphorylation of Fak
+and Pax was observed when BMSCs
+were treated with Jak2 shRNA/AG490
+(100 lM) following subsequent r-FKN
+stimulation. Knockdown efficacy of Jak2
+was shown by screening protein levels
+after virus infection. Con-shRNA, control
+shRNA; GAPDH, glyceraldehyde-3phosphate dehydrogenase.
+
+FEBS Journal 282 (2015) 891–903 ª 2015 FEBS
+
+Y. Zhang et al.
+
+Western blotting results showed that stimulation
+with 100 ngmL 1 r-FKN for 30 min significantly
+increased the expression of Fak phosphorylated at
+Tyr397, and this dynamic increase lasted for 60 min.
+Consequently, Pax phosphorylation at Tyr118 was significantly activated 30 min after r-FKN treatment.
+ICAM-1 protein expression increased at an early stage,
+5 min after r-FKN incubation (Fig. 4B). However,
+Jak2 inhibitors (AG490 or shRNA) diminished the
+increase in both Fak and Pax phosphorylation in
+response to FKN (Fig. 4C), which suggests that their
+activation was dependent on Jak2 but also relied on
+two independent pathways downstream of Fak and
+Pax. These data indicate that Jak2–Stat5a signaling
+mediates the migration of BMSCs in response to FKN
+by reorganizing the cytoskeletal system.
+Jak2 mediates the chemotactic migration of
+transplanted BMSCs towards ischemic brain
+lesions
+An in vivo BMSC transplantation experiment was conducted in a rat MCAO model to verify the in vitro
+results. Frozen coronal brain slices were processed for
+immunofluorescence analysis with CLSM on the first
+day and third day after transplantation, and the
+migration of transplanted BMSCs in ischemic brains
+was investigated. The results indicated that GFPlabeled BMSCs were distributed throughout the ischemia-damaged brain in the ipsilateral hemisphere of
+recipient rats, including the cortex and striatum. However, the majority of the cells were located in the ischemic boundary region, where homogeneous FKN
+immunoreactivity was strongly increased, as observed
+through double immunolabeling with GFP and Cy3.
+The BMSCs that migrated towards the ischemic region
+3 days after cell transplantation were distinctly more
+abundant than the BMSCs that migrated on the first
+day. In particular, the BMSCs transduced with the
+Jak2 shRNA construct were significantly less abundant
+in the corresponding ischemic area than in the control
+shRNA transplantation groups on the first and third
+days after transplantation (Fig. 5A).
+According to a well-established method [14], the
+number of GFP-positive BMSCs distributed in the
+peri-ischemic region was assessed by counting the average number of cells in five equally spaced sections in
+each brain block. The results showed that the numbers
+of directionally migrated cells at 24 h and 72 h after
+cell transplantation were 16.4-fold and 28.3-fold higher
+than in the MCAO sham group. In particular, the
+BMSCs that migrated in the first 24 h accounted for
+57.8% of the total number of cells that accumulated
+FEBS Journal 282 (2015) 891–903 ª 2015 FEBS
+
+Fractalkine-induced chemotaxis via Jak2 pathway
+
+throughout the observation period. The chemotactic
+capability of the BMSCs was significantly impaired by
+Jak2 shRNA at both 24 h and 72 h (Fig. 5B).
+
+Discussion
+In this study, the molecular mechanism by which
+transplanted multipotent cells restore infarcted cerebral
+microenvironments was studied by examining the specific role and molecular mechanism of FKN and its
+receptor, CX3CR1, in the migration of transplanted
+BMSCs towards ischemic brain lesions. We obtained
+definitive evidence that: (a) the increased expression of
+endogenous FKN in an ischemic brain shows defined
+spatiotemporal characteristics – the action of CX3CR1
+on BMSCs is hypoxia-responsive and FKN-sensitive,
+and initiates intracellular biochemical changes and
+extrinsic mobility; (b) CX3CR1 triggers signal transduction via Jak2–Stat5a and the downstream activation of the ERK1/2 pathway, and these pathways are
+required for the chemotactic migration of BMSCs in
+response to FKN; and (c) the interaction between
+FKN and CX3CR1 triggers substantial cytoskeletal
+reorganization, including integrin a5b1 remodeling,
+Fak/Pax phosphorylation, and ICAM-1 upregulation,
+and this reorganization drives the chemotactic migration of BMSCs towards ischemic brain lesions.
+In this study, a well-developed MCAO model was
+first employed to determine the expression pattern of
+FKN in the ischemic brain from two aspects. Spatiotemporally, endogenous FKN is rapidly accumulated
+in both the ipsilateral lesion and contralateral brain,
+beginning 12 h after the onset of I-R. Consistent with
+a previous report, our preliminary result also suggested
+that the ischemic core contributed little to the total
+pattern of FKN in the ischemic brain, owing to progressive necrosis and intracerebral cyst formation [16].
+We believe that the major contribution to the increase
+in FKN mRNA comes from the ipsilateral peri-ischemic region, followed by the contralateral brain. The
+expression profile of FKN was also validated in our
+transwell chamber migration assay with r-FKN at different concentrations and an endogenous FKN extract
+at predetermined times following MCAO.
+The majority of the increase in FKN is attributable
+to s-FKN, which is released from cell surfaces through
+proteolytic cleavage and behaves as a chemotactic factor. The level of a-FKN, which acts as an adhesion
+molecule, was also increased slightly in our H-R samples, which may have occurred to enhance local trafficking and crosstalk between neural cells, such as
+neurons, astrocytes, and microglia [17], and improve
+the neuroregenerative response.
+
+897
+
+Fractalkine-induced chemotaxis via Jak2 pathway
+
+Y. Zhang et al.
+
+A
+
+B
+
+There is accumulating evidence that FKN promotes
+the activation of neural and non-neural cells and their
+migration to lesions through interactions with
+CX3CR1. Increased numbers of leukocytes, macrophages, natural killer cells and T lymphocytes play
+critical roles in the clearance of necrotic tissue, the
+regulation of inflammation, and the promotion of
+functional recovery [3,9,12]. One study explored the
+mechanism of FKN/CX3CR1-mediated microglial
+activation, and found that hypoxia induced microglial
+proliferation and cytokine secretion through p38
+mitogen-activated protein kinase (MAPK)/protein
+kinase C [18]. Another study demonstrated monocyte
+chemotaxis in response to FKN, and revealed that
+activation of the cytoplasmic protein tyrosine kinase
+Syk and the formation of cell protrusions reorganized
+the F-actin cytoskeleton [19]. Furthermore, Cambien
+et al. identified phosphoinositide 3-kinase and members of the MAPK family, including ERK1/2, p38
+MAPK, and c-Jun N-terminal kinase 1, as signaling
+components leading to cell adhesion to fibronectin in
+response to soluble FKN, by using monocytic cell
+898
+
+Fig. 5. Fluorescence
+immunohistochemical analysis of BMSCs
+that migrated towards the ischemic region
+in vivo. (A) The colocalization of BMSCs
+(GFP-labeled) and endogenous FKN (Cy3labeled) in the peri-ischemic area was
+determined through double-labeling under
+CLSM at 500 nm, 1 or 3 days after cells
+had been transplanted into MCAO rats
+(scale bar: 50 lm). (B) The number of
+GFP-positive cells in the ischemic brain
+was evaluated according to the average
+number of cells in five equally spaced
+sections in each brain block, and the
+difference in the numbers of migrated of
+BMSCs between different groups are
+summarized in the chart. *P < 0.01 as
+compared with the BMSC-transplanted
+MCAO sham control; #P < 0.05 as
+compared with control shRNA treatment
+at the time points of 24 h and 72 h after
+cell transplantation; §P < 0.05 as
+compared with control shRNA treatment
+at 24 h after cell transplantation. ConshRNA, control shRNA.
+
+lines [20]. During the acute inflammation phase of
+atherosclerosis, soluble FKN is shed from the endothelium following I-R, and acts via CX3CR1 to promote neutrophil adhesion through activation of the
+Jak–Stat pathway [21]. This signaling, in addition to
+MAPK/ERK kinase/ERK1/2 phosphorylation, has
+also been shown to be involved in the SDF-1a/
+CXCR4-mediated homing of BMSCs to the breast
+cancer milieu [22].
+These studies inspired our current hypothesis. On the
+basis of our preliminary data concerning differences in
+mRNA expression levels among Jak isoforms, we conducted systemic immunoblotting, and found that Jak2–
+Stat5a signaling was involved in BMSC migration. In
+our supplementary studies, the expression patterns of the
+Jak and Stat isoforms were shown to be consistent with
+their involvement in BMSC migration. Additionally, two
+participants in common mechanisms of cell migration,
+ERK1/2 and Akt, were examined, and the results confirmed the role of ERK1/2 in BMSC migration.
+Cell migration relies on forces generated by
+dynamic machinery between integrins and the cell
+FEBS Journal 282 (2015) 891–903 ª 2015 FEBS
+
+Y. Zhang et al.
+
+substratum interface [23]. This study evaluated
+cytoskeletal reorganization by determining the expression of integrin, Fak, Pax, and ICAM-1. Integrins are
+heterodimeric transmembrane proteins involved in
+cell–cell and cell–extracellular matrix interactions. The
+formation of integrin clusters is a critical step in the
+transduction of extracellular stimuli and the triggering
+of intracellular structural or biochemical changes [24].
+Previous studies suggested that specific integrins are
+expressed on neural cells, and significant alterations
+in cellular adhesion receptors and their ligands occur
+under conditions of cerebral ischemia. For example,
+the a6-subunit and b1-subunit of integrin are specifically responsible for the recruitment of microglia to
+disease-affected brain regions and the enhanced adhesion of neurons in situ [25]. We determined the activation of integrin a5b1, and we found that
+remodeling of a5b1 was a prominent trait of BMSCs
+following FKN treatment. Fak and Pax, which colocalize with the integrin-enriched focal adhesion contact
+site,
+showed
+significantly
+increased
+phosphorylation after FKN stimulation. Therefore,
+activated integrin, Fak and Pax form a complex that
+promotes the focal contact structure responsible for
+cell migration.
+Furthermore, we examined the effects of CX3CR1
+shRNA, Jak2 shRNA and AG490 (a Jak2 antagonist)
+on molecular and cytoskeletal activation. The antagonist effect of AG490 has been well documented in previous studies [20,21], and the efficacy of suppression
+by shRNA was confirmed through real-time PCR and
+western blotting assays in vitro. We found that the
+phosphorylation levels of Jak2, Stat5 and ERK1/2 and
+the protein expression of ICAM-1 were markedly
+decreased to different extents by CX3CR1 shRNA,
+AG490 and Jak2 shRNA treatment. The morphological and quantitative results also suggest that Jak2
+shRNA-transfected BMSCs have an impaired ability
+to migrate into FKN-rich regions both in vitro and
+in vivo.
+The neuroprotective or neurotoxic role of FKN has
+been debatable until now. Previous studies showed
+that the administration of exogenous FKN to rodents
+with experimentally induced stroke [26] and plasma
+FKN to stroke patients [27] was positively associated
+with a smaller infarction size and fewer neurological
+deficits. Conversely, genetically FKN-deficient and
+CX3CR-deficient mice (FKN / and CX3CR1 / ) are
+less susceptible to ischemic insult during an early stage
+[28,29]. This work elucidates some of the mechanisms
+underlying grafted cell chemotaxis, and provides
+insights into the role of FKN from a non-inflammatory perspective. Additional studies might be required
+FEBS Journal 282 (2015) 891–903 ª 2015 FEBS
+
+Fractalkine-induced chemotaxis via Jak2 pathway
+
+to broaden our knowledge of the exact mechanism
+that drives BMSC chemostaxis towards ischemic brain
+lesions, by determining the full influence of phosphorylation sites (e.g. Tyr221 and Tyr1007 of Jak2, Thr202
+of ERK1/2, and Tyr925 of FAK) on signal transduction.
+In conclusion, we provide experimental evidence
+that the FKN–CX3CR1 chemokine axis triggers the
+activation of Jak2–Stat5–ERK1/2 signaling and the
+cytoskeletal reorganization mediated by integrin a5b1,
+and thereby promotes the directional migration of
+BMSCs towards an ischemic cerebral lesion. Therefore, elevated or prolonged expression of certain
+chemokines by genetic engineering of BMSCs may be
+one of the critical targets for novel therapeutic
+approaches for stroke therapy.
+
+Experimental procedures
+Ethical statement
+The Research Council and Ethics Committee of the Third
+Military Medical University (Chongqing, China) approved
+the study protocol. Animals were housed and treated in
+accordance with the Guide for the Care and Use of Laboratory Animals published by the United States National
+Institutes of Health.
+
+Materials and reagents
+r-FKN (chemokine domain) was obtained from R&D Systems (Minneapolis, MN, USA). The following antibodies
+were used in this study: antibodies aganist Jak, Stat, Akt,
+ERK, Fak, and Pax and their phosphorylated products
+were obtained from Cell Signaling (Boston, MA, USA);
+antibodies against ICAM-1 and PTEN were obtained from
+Abcam (Cambridge, UK); and antibodies against integrin,
+GFP and FKN were obtained from Santa Cruz Biotechnology (Santa Cruz, CA, USA). AG490 (a Jak2 inhibitor) was
+obtained from Calbiochem (Billerica, MA, USA). Dulbecco’s modified Eagle’s medium (DMEM) and FBS were
+obtained from Gibco (Boston, MA, USA). The protease
+inhibitor PMSF, the RNA extraction reagent Tripure, a
+Percoll gradient and Hoechst-33342 were obtained from
+Sigma (St Louis, MO, USA). Protein extraction RIPA buffer was obtained from Cell Signaling. The PTEN activity
+ELISA kit was obtained from Echelon Biosciences (Salt
+Lake City, UT, USA).
+
+Cell isolation, culture, and treatment
+BMSCs were isolated and cultured in accordance with a
+previously published report [30]. Briefly, bone marrow was
+harvested from the femurs of Wistar rats (Laboratory Ani-
+
+899
+
+Y. Zhang et al.
+
+Fractalkine-induced chemotaxis via Jak2 pathway
+
+mal Center, The Third Military Medical University, China)
+and isolated by use of a Percoll gradient. The upper
+cell-containing phase was initially plated in DMEM-F12
+supplemented with 10% FBS at 37 °C in a humidified
+atmosphere containing 5% CO2. Cell passages 3–5 were
+used in subsequent experiments. Hypoxia was induced by
+exposing BMSCs to a mixture of 5% CO2, 94% N2 and
+1% O2 gas in an airtight chamber in the presence of
+DMEM-F12 containing 10% FBS. The chamber containing the cell cultures was incubated for 2 h, and subsequently reoxygenated for up to 120 min.
+
+Focal cerebral infarction model, endogenous FKN
+extraction, and quantification
+A transient MCAO model was employed to replicate ischemic brain lesions in adult Wistar rats, as described in a previous study by our group [14]. Briefly, the MCA was
+occluded for 120 min by use of the intraluminal filament
+technique to obstruct the origin of the right MCA. A 4-0
+nylon monofilament suture with a 0.25-mm-diameter silicone tip was inserted into the internal carotid artery
+through the external carotid artery. Reperfusion was performed until 6–72 h after the occlusion was abolished
+through the removal of the nylon filament and tip. TTC
+staining and Longa’s behavioral scale were adopted to verify the occlusive efficacy. TTC was also used to distinguish
+ischemic and normal brain tissues and core and peri-ischemic regions.
+To prepare tissue extracts from the ischemic brains, the
+infarcted hemisphere, including the ischemic core and periischemic region, was collected in blocks and mechanically
+ground in a homogenizer with PBS (200 lL for 5 g of tissue). The samples were then subjected to filtration with a
+0.45-lm vacuum filter (Corning, USA) to collect the
+extract. Endogenous FKN within the filtrate was measured
+with an ELISA kit (R&D Systems, USA), according to the
+manufacturer’s protocol.
+
+Transwell chamber migration assay
+BMSCs (1 9 105 per well) were seeded on transwell filters
+(8-lm pores; Corning, USA) and grown to confluence. The
+bottom of the chamber was then filled with 600 lL per well
+of DMEM/0.2% BSA with or without the indicated concentrations of r-FKN at 10, 50, 100 or 200 ngmL 1, or
+with brain filtrates extracted at different reperfusion time
+points starting from the onset of reperfusion to 72 h after
+MCAO. The top chamber was removed after incubation
+for 6 h at 37 °C, whereas the bottom chamber was subjected to centrifugation at 50 g for 5 min (Beckman Allegra
+X-22R centrifuge, USA). The adherent cells in the bottom
+chamber were quickly labeled with Hoechst-33342
+(5 lgmL 1, 5 min, 4 °C). Fluorescence values were read at
+450 nm in a Thermo system (Varioskam Flash, USA) to
+
+900
+
+calculate cell density. For inhibition assays, BMSCs were
+either incubated with AG490 (a Jak2 inhibitor) at 10, 50 or
+100 lM for 12 h, or transfected with lentivirus for 24–48 h.
+The shRNA-treated cells were allowed to recover for 24 h
+before the migration assay.
+
+qPCR
+Total RNA from brain tissue homogenates of the cerebral parenchyma in the peri-ischemic region and the contralateral hemisphere in the cerebral cortex of MCAO
+rats was extracted with the Tripure extraction reagent for
+FKN quantification. A brain that received the same
+MCAO surgical operation but without insertion of the
+monofilament nylon suture was used as the control sample. For CX3CR1 analysis, 5 9 106 BMSCs treated with
+H-R and s-FKN stimulation were collected. cDNA was
+generated from 1 lg of total RNA with the PrimeScript
+RT reagent kit (TaKaRa, Japan), and amplified with
+primers targeting FKN, CX3CR1 and glyceraldehyde-3phosphate dehydrogenase, as reported in our previous
+study [14]. Reaction data were collected with an ABI
+7500 system (ABI, USA) and quantified with the 2 DDCt
+method.
+
+Protein expression and activity – western
+blotting, immunoprecipitation, and phosphatase
+assays
+Three isotypes of Jak and five isotypes of Stat, Akt,
+PTEN, Fak, Pax and ICAM-1, as well as their phosphorylated forms, were extensively investigated to determine the
+signal transduction and cytoskeletal activation events
+related to the response of BMSCs to FKN. Total protein
+was extracted from 5 9 106 BMSCs with RIPA buffer
+[20 mM Tris/HCl (pH 7.5), 150 mM NaCl, 1 mM
+Na2EDTA, 1 mM EGTA, 1% NP-40, 1% sodium deoxycholate, 2.5 mM sodium pyrophosphate, 1 mM b-glycerophosphate, 1 mM Na3VO4, 1 lgmL 1 leupeptin, 1 mM PMSF].
+A total of 30 lg of protein was separated by SDS/PAGE
+and transferred to poly(vinylidene difluoride) membranes
+(Millipore, USA). The proteins were sequentially hybridized with different primary antibodies and horseradish peroxidase-labeled secondary antibodies (Zhongshan, China).
+Protein bands were visualized with an enhanced chemiluminescence method (Amersham, USA).
+BMSCs were incubated with FKN (100 ngmL 1) for
+15 min or 30 min for immunoprecipitation assays. The
+cells were lysed in radioimmunoprecipitation assay buffer.
+Antibodies against Stat5a and Stat5b were added, and
+the cells were gently rotated at 4 °C overnight. Protein–
+agarose beads (Invitrogen, USA) were then added to the
+reaction, and this was followed by rotation for 3 h at
+4 °C. After washing and centrifugation (12 000 g,
+10 min), the pellet was resuspended, denatured, and run
+
+FEBS Journal 282 (2015) 891–903 ª 2015 FEBS
+
+Y. Zhang et al.
+
+on a NuPAGE gel for immunoblotting with antibodies
+against Stat5 phosphorylated on tyrosine.
+To determine the protein phosphatase activity of
+PTEN, PTEN protein was immunoprecipitated from total
+protein derived from BMSC lysate with an antibody
+against PTEN and antibody-coupled magnetic beads,
+according to the manufacturer’s instructions (Miltenyi Biotechnology, MA, USA). As controls, we used an IgG isoantibody targeting nonspecific protein and the absence of
+any antibody. The dephosphorylation was initiated in
+phosphatase reaction buffer [100 mM Tris/HCl (pH 8.0),
+10 mM DTT, 200 mM diC16-phosphatidylinositol 3,4,5-triphosphate] for 2 h at 37 °C. The resulting samples
+(100 lL) were then transferred to a 96-well plate and
+incubated with a phosphatidylinositol 4,5-bisphosphate
+detector and then with a secondary detector. The production of phosphate from the substrate was measured by a
+colorimetric method with absorbance at 450 nm in a
+Thermo system (Varioskam Flash, USA). The theoretical
+amount of free phosphate was calculated from the standard curve line-fit data.
+
+Integrin reassembly and cytoskeletal
+reorganization
+CLSM was employed to examine integrin remodeling and
+cytoskeletal reorganization [30]. Briefly, BMSCs were cultured in 96-well plates until they reached 70–80% confluence. The cells were treated either with r-FKN
+(100 ngmL 1, 30 min) alone, or with AG490 (100 lM)/
+shRNA overnight followed by r-FKN stimulation. After
+treatment with glutaraldehyde and Triton X-100 at 4 °C
+for 15 min and 2 min, respectively, immunofluorescence
+staining was performed with a goat primary mAb against
+integrin a5b1 (1: 200) and rhodamine-conjugated secondary
+antibodies (1 : 100, Zhongshan, China). Finally, nuclei
+were counterstained with Hoechst-33342, and fluorescence
+images were obtained via CLSM at 550 nm (Leica, Germany).
+
+Silencing of CX3CR1 and Jak2 with lentivirus
+shRNA in vivo
+shRNA-expressing lentivirus gene transfer vectors targeting
+CX3CR1 (CX3CR1 shRNA) and Jak2 (Jak2 shRNA) and
+a control (control shRNA) containing a scrambled
+sequence were purchased from Genechem (Shanghai,
+China). The interference expression constructs were cotransfected into HEK293T cells with Lipofectamine 2000
+(Invitrogen, CA, USA). Lentivirus particles were collected
+after 48 h, and BMSCs were transduced at 37 °C in 5%
+CO2 for 24–48 h. The transduction efficiency was measured
+on the basis of the frequency of GFP positivity, and knockdown efficacy was confirmed by screening mRNA and protein levels following virus infection.
+
+FEBS Journal 282 (2015) 891–903 ª 2015 FEBS
+
+Fractalkine-induced chemotaxis via Jak2 pathway
+
+BMSC transplantation and
+immunohistochemistry
+At 24 h after the onset of cerebral I-R, 2 9 106 BMSCs
+transfected with either Jak2 shRNA or control shRNA
+were injected slowly into the tail vein. Rats were killed
+under deep anesthesia at 24 h or 72 h after transplantation. Frozen blocks of coronal brain sections were analyzed with immunohistochemistry, and the GFP label
+delivered in the lentivirus enabled the monitoring of the
+transplanted cells at 480 nm. A negative sham control
+for MCAO was established by performing the same surgical operation but without insertion of the monofilament
+nylon suture.
+To determine the distribution of transplanted BMSCs
+(GFP-positive cells), cell sections were incubated first with
+a goat polyclonal antibody against GFP overnight
+(1 : 200), and then with FITC-conjugated rabbit anti-(goat
+IgG) (1 : 100). The colocalization of FKN-positive and
+GFP-positive cells was determined by additionally staining
+the sections with an antibody against FKN (1 : 200) and a
+secondary antibody against Cy3 (1 : 500). All sections were
+assessed with CLSM.
+To determine the number of GFP-positive cells in the
+ischemic brain, the average number of cells in five equally
+spaced sections (at ~ 200-lm intervals) was determined in
+each brain block, and the number of GFP-positive cells
+was counted within the seven 2-mm-thick blocks. To reduce
+bias introduced by the sampling parameters, all of the sections obtained from the rats were stained for GFP simultaneously. The analysis was conducted by observers who
+were blinded to the treatment conditions.
+
+Statistics
+All quantitative assays were performed in triplicate, and
+the results are expressed as the means  standard errors.
+Statistical significance was evaluated with an unpaired Student’s t-test for comparisons between two groups, and
+ANOVA followed by Tukey’s post hoc test for multiple
+comparisons. The significance level was set to 0.05 throughout the analysis.
+
+Acknowledgements
+This work was supported by the Nature Science Foundation of China (81000507), and the Chongqing Natural Science Committee (CSTC201JJA10011 and
+CSTC2011JJA10079).
+
+Author contributions
+Jie Zhu: designed the study. Yuan Zhang, Jian Zheng,
+Jie Zhu, Zhujuan Zhou, and Zili Gong: performed
+research. Yuan Zhang and Jie Zhu: analyzed the data
+
+901
+
+Y. Zhang et al.
+
+Fractalkine-induced chemotaxis via Jak2 pathway
+
+and conducted the statistical analyses. Yuan Zhang
+and Jie Zhu: wrote the article.
+12
+
+References
+1 Agulla J, Brea D, Campos F, Sobrino T, Argibay B,
+Al-Soufi W, Blanco M, Castillo J & Ramos-Cabrer P
+(2014) In vivo theranostics at the peri-infarct region in
+cerebral ischemia. Theranostics 4, 90–105.
+2 Huang X, Sun J, Zhao T, Wu KW, Watanabe K, Xiao
+ZC, Zhu LL & Fan M (2011) Loss of NB-3 aggravates
+cerebral ischemia by impairing neuron survival and
+neurite growth. Stroke 42, 2910–2916.
+3 Gan Y, Liu Q, Wu W, Yin JX, Bai XF, Shen R, Wang
+Y, Chen J, La Cava A, Poursine-Laurent J et al. (2014)
+Ischemic neurons recruit natural killer cells that
+accelerate brain infarction. Proc Natl Acad Sci U S A
+111, 2704–2709.
+4 Cardona AE, Pioro EP, Sasse ME, Kostenko V,
+Cardona SM, Dijkstra IM, Huang D, Kidd G,
+Dombrowski S, Dutta R et al. (2006) Control of
+microglial neurotoxicity by the fractalkine receptor. Nat
+Neurosci 9, 917–924.
+5 Savarin-Vuaillat C & Ransohoff RM (2007)
+Chemokines and chemokine receptors in neurological
+disease: raise, retain, or reduce? Neurotherapeutics 4,
+590–601.
+6 Lee SJ, Namkoong S, Kim YM, Kim CK, Lee H, Ha
+KS, Chung HT, Kwon YG & Kim YM (2006)
+Fractalkine stimulates angiogenesis by activating the
+Raf-1/MEK/ERK- and PI3K/Akt/eNOS-dependent
+signal pathways. Am J Physiol Heart Circ Physiol 291,
+H2836–H2846.
+7 Marchesi F, Locatelli M, Solinas G, Erreni M,
+Allavena P & Mantovani A (2010) Role of CX3CR1/
+CX3CL1 axis in primary and secondary involvement
+of the nervous system by cancer. J Neuroimmunol
+224, 39–44.
+8 Okano H (2011) Strategic approaches to regeneration of
+a damaged central nervous system. Cornea 30, S15–S18.
+9 Tei N, Tanaka J, Sugimoto K, Nishihara T, Nishioka
+R, Takahashi H, Yano H, Matsumoto S, Ohue S,
+Watanabe H et al. (2013) Expression of MCP-1 and
+fractalkine on endothelial cells and astrocytes may
+contribute to the invasion and migration of brain
+macrophages in ischemic rat brain lesions. J Neurosci
+Res 91, 681–693.
+10 Wang Y, Deng Y & Zhou GQ (2008) SDF-1alpha/
+CXCR4-mediated migration of systemically
+transplanted bone marrow stromal cells towards
+ischemic brain lesion in a rat model. Brain Res 1195,
+104–112.
+11 Ji JF, He BP, Dheen ST & Tay SS (2004) Interactions
+of chemokines and chemokine receptors mediate the
+migration of mesenchymal stem cells to the impaired
+
+902
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+24
+
+site in the brain after hypoglossal nerve injury. Stem
+Cells 22, 415–427.
+Shichita T, Sugiyama Y, Ooboshi H, Sugimori H,
+Nakagawa R, Takada I, Iwaki T, Okada Y, Iida M, Cua
+DJ et al. (2009) Pivotal role of cerebral interleukin-17producing gammadelta T cells in the delayed phase of
+ischemic brain injury. Nat Med 15, 946–950.
+Catalano M, Lauro C, Cipriani R, Chece G, Ponzetta
+A, Di Angelantonio S, Ragozzino D & Limatola C
+(2013) CX3CL1 protects neurons against excitotoxicity
+enhancing GLT-1 activity on astrocytes. J
+Neuroimmunol 263, 75–82.
+Zhu J, Zhou Z, Liu Y & Zheng J (2009) Fractalkine
+and CX3CR1 are involved in the migration of
+intravenously grafted human bone marrow stromal cells
+toward ischemic brain lesion in rats. Brain Res 1287,
+173–183.
+Sheridan GK & Murphy KJ (2013) Neuron-glia
+crosstalk in health and disease: fractalkine and
+CX3CR1 take centre stage. Open Biol 3, 130181.
+MacLellan CL, Auriat AM, McGie SC, Yan RH,
+Huynh HD, De Butte MF & Colbourne F (2006)
+Gauging recovery after hemorrhagic stroke in rats:
+implications for cytoprotection studies. J Cereb Blood
+Flow Metab 26, 1031–1042.
+Hanisch UK & Kettenmann H (2007) Microglia: active
+sensor and versatile effector cells in the normal and
+pathologic brain. Nat Neurosci 10, 1387–1394.
+Liu Y, Zhao T, Yang Z & Li Q (2014) CX3CR1 RNAi
+inhibits hypoxia-induced microglia activation via
+p38MAPK/PKC pathway. Int J Exp Pathol 95, 153–
+157.
+Gevrey JC, Isaac BM & Cox D (2005) Syk is required
+for monocyte/macrophage chemotaxis to CX3CL1
+(Fractalkine). J Immunol 175, 3737–3745.
+Cambien B, Pomeranz M, Schmid-Antomarchi H,
+Millet MA, Breittmayer V, Rossi B & Schmid-Alliana
+A (2001) Signal transduction pathways involved in
+soluble fractalkine-induced monocytic cell adhesion.
+Blood 97, 2031–2037.
+Yang XP, Mattagajasingh S, Su S, Chen G, Cai Z,
+Fox-Talbot K, Irani K & Becker LC (2007) Fractalkine
+upregulates intercellular adhesion molecule-1 in
+endothelial cells through CX3CR1 and the Jak Stat5
+pathway. Circ Res 101, 1001–1008.
+Gao H, Priebe W, Glod J & Banerjee D (2009)
+Activation of signal transducers and activators of
+transcription 3 and focal adhesion kinase by stromal
+cell-derived factor 1 is required for migration of human
+mesenchymal stem cells in response to tumor cellconditioned medium. Stem Cells 27, 857–865.
+Huttenlocher A & Horwitz AR (2011) Integrins in cell
+migration. Cold Spring Harb Perspect Biol 3, a005074.
+Millard M, Odde S & Neamati N (2011) Integrin
+targeted therapeutics. Theranostics 1, 154–188.
+
+FEBS Journal 282 (2015) 891–903 ª 2015 FEBS
+
+Y. Zhang et al.
+
+25 Lauro C, Catalano M, Trettel F, Mainiero F, Ciotti
+MT, Eusebi F & Limatola C (2006) The chemokine
+CX3CL1 reduces migration and increases adhesion of
+neurons with mechanisms dependent on the beta1
+integrin subunit. J Immunol 177, 7599–7606.
+26 Cipriani R, Villa P, Chece G, Lauro C, Paladini A,
+Micotti E, Perego C, De Simoni MG, Fredholm BB,
+Eusebi F et al. (2011) CX3CL1 is neuroprotective in
+permanent focal cerebral ischemia in rodents.
+J Neurosci 31, 16327–16335.
+27 Donohue MM, Cain K, Zierath D, Shibata D, Tanzi
+PM & Becker KJ (2012) Higher plasma fractalkine is
+associated with better 6-month outcome from ischemic
+stroke. Stroke 43, 2300–2306.
+
+FEBS Journal 282 (2015) 891–903 ª 2015 FEBS
+
+Fractalkine-induced chemotaxis via Jak2 pathway
+
+28 Denes A, Ferenczi S, Halasz J, K€
+ornyei Z & Kovacs
+KJ (2008) Role of CX3CR1 (fractalkine receptor) in
+brain damage and inflammation induced by focal
+cerebral ischemia in mouse. J Cereb Blood Flow Metab
+28, 1707–1721.
+29 Fumagalli S, Perego C, Ortolano F & De Simoni MG
+(2013) CX3CR1 deficiency induces an early protective
+inflammatory environment in ischemic mice. Glia 61,
+827–842.
+30 Zhou Z, Xu Y, Zhong Q & Zheng J (2012)
+Phenotypic characteristics of hybrid cells generated
+by transferring neuronal nuclei into bone
+marrow stromal cell cytoplasts. Brain Res Bull 87,
+303–311.
+
+903
+
+

@@ -1,0 +1,1722 @@
+﻿[Link]
+http://crossmark.crossref.org/dialog/?doi=10.1016/j.pharmthera.2014.05.009&domain=pdf
+[Link]
+http://dx.doi.org/10.1016/j.pharmthera.2014.05.009
+[Link]
+mailto:pcalias@shire.com
+[Link]
+http://dx.doi.org/10.1016/j.pharmthera.2014.05.009
+[Link]
+http://www.sciencedirect.com/science/journal/01637258
+[Link]
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+[Link]
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+Associate editor: J.L. Turgeon
+Intrathecal delivery of protein therapeutics to the brain:
+A critical reassessment
+Pericles Caliasa,⁎, William A. Banks b,c, David Begleyd, Maurizio Scarpa e,PatriciaDicksonf
+a Shire, Lexington, MA, USA
+b Geriatrics Research Education and Clinical Center, Veterans Affairs Puget Sound Health Care Center, Seattle, WA, USA
+c Division of Gerontology and Geriatric Medicine, Department of Medicine, University of Washington School of Medicine, Seattle, WA, USA
+d Institute of Pharmaceutical Science, King's College London, London, UK
+e Department of Paediatrics, University of Padova, Padova, Italy
+f Los Angeles Biomedical Research Institute, Harbor–UCLA Medical Center, Torrance, CA, USA
+a b s t r a c t a r t i c l e  i n f o 
+Available online 20 May 2014
+Keywords:
+Blood–brain barrier
+Central nervous system
+Drug delivery
+Intrathecal
+Intracerebroventricular
+Recombinant proteins
+Disorders of the central nervous system (CNS), including stroke, neurodegenerative diseases, and brain tumors,
+are the world’s leading causes of disability. Delivery of drugs to the CNS is complicated by the blood–brain
+barriers that protect the brain from the unregulated leakage and entry of substances, including proteins, from
+the blood. Yet proteins represent one of the most promising classes of therapeutics for the treatment of CNS
+diseases. Many strategies for overcoming these obstacles are in development, but the relatively straightforward
+approach of bypassing these barriers through direct intrathecal administration has been largely overlooked.
+Originally discounted because of its lack of usefulness for delivering small, lipid-soluble drugs to the brain, the
+intrathecal route has emerged as a useful, in some cases perhaps the ideal, route of administration for certain
+therapeutic protein and targeted disease combinations. Here, we review blood–brain barrier functions and cerebrospinalfluid dynamics and their relevance to drug delivery via the intrathecal route, discuss animal and human
+studies that have investigated intrathecal delivery of protein therapeutics, and outline several characteristics of
+protein therapeutics that can allow them to be successfully delivered intrathecally.
+© 2014 Elsevier Inc.
+Contents
+1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  114 
+2. Barriers to the delivery of drugs to the brain and cerebrospinalfluid  . . . . . . . . . . . . . . . . . . . .  115 
+3. Cerebrospinal and interstitialfluidflowanddynamics:Implicationsfordrugdelivery  . . . . . . . . . . . .  115 
+4.  DirectdeliveryofproteintherapeuticstotheCNS . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  116 
+5.  Drugsdeliveredbytheintrathecalroute:Characteristicsoftheidealmolecule . . . . . . . . . . . . . . . .  120 
+6.  Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  120 
+Conflictofinterest  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  120 
+Acknowledgments  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  120 
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  120 
+1. Introduction
+The World Health Organization has called neurological disorders
+one of the greatest threats to public health, making their treatment a
+critical unmet need in the current healthcare environment (World
+Health Organization, 2006). It is estimated that over 1 billion people
+worldwide suffer from a neurological disorder, including brain tumors,
+epilepsy, cerebrovascular diseases, neurodegenerative disorders, depression
+, multiple sclerosis, autoimmune encephalopathy, and chronic
+Pharmacology & Therapeutics 144 (2014) 114–122
+Abbreviations:BBB, blood–brain barrier; CSF, cerebrospinalfluid; CNS, central nervous
+system; GAG, glycosaminoglycan; HNS, heparan N-sulfatase; I2S, iduronate-2-sulfatase;
+ICV,intracerebroventricular; IDU,α-L-iduronidase; ICV, intracerebroventricular; ISF, interstitialfluid; IT, intrathecal; IV, intravenous; MC, meningeal carcinomatosis; MRI, magnetic
+resonance imaging.
+⁎ Corresponding author at: Shire, 125 Spring Street, Lexington, MA 02421, USA.
+Tel.: +1 781 482 0701 (office); fax: +1 617 613 4022.
+E-mail address:pcalias@shire.com(P. Calias).
+http://dx.doi.org/10.1016/j.pharmthera.2014.05.009
+0163-7258/© 2014 Elsevier Inc.
+Contents lists available atScienceDirect
+Pharmacology & Therapeutics
+journal homepage: www.elsevier.com/locate/pharmthera
+Open access under CC BY-NC-ND license.
+Open access under CC BY-NC-ND license.
+(BY PDF Extractor SDK TRIAL VERSION)
+neuropathic pain (World Health Organization, 2006; Bray et al., 2012).
+Effective treatment of most of these and other neurological conditions
+may require the use of drugs with sites of action within the central
+nervous system (CNS). However, the blood–brain barrier (BBB), a protector
+of the CNS and a major regulator of its environment, impedes the
+blood-to-brain entry of most potential therapeutics.
+Strategies under investigation to overcome the problem of the BBB
+can be roughly divided into two broad categories. The first category
+comprises techniques that allow or facilitate the crossing of drugs
+through the BBB (e.g. molecular Trojan horses, proton-coupled
+oligopeptide transporters, exosomes,liposomes, nanoparticles, chimeric
+peptides, prodrugs), while the second category consists of techniques
+that bypass the BBB altogether via direct delivery to the CNS (Smith
+et al., 2004; Alam et al., 2010; Tan et al., 2010; Guo et al., 2012; Vlieghe
+& Khrestchatisky, 2013). In the second category, several techniques
+have been investigated, including BBB disruption, and intrathecal (IT),
+intracerebroventricular(ICV), and intranasal delivery. This review focuses
+specifically on IT delivery. Because promising reports for ICV and intranasal
+delivery and BBB disruption have been extensively described
+(Alam et al., 2010; Rajadhyaksha et al., 2011; Tayebati et al., 2013;
+Zhao et al., 2013), we will not recapitulate them here. Instead, this
+review is intended to re-examine the potential of IT drug delivery to
+allow penetration of protein therapeutics to the brain parenchyma, a
+role thathas been largely discounted in the past. We begin with a discussion
+of endogenous BBB mechanisms and CNSfluidflow dynamics, then
+examine current data demonstrating effective IT delivery of particular
+classes of therapeutic proteins to the brain. We conclude with a consideration
+of ideal molecules for IT delivery and promising future applicationsofthistechnology.
+2. Barriers to the delivery of drugs
+to the brain and cerebrospinalfluid
+Drug delivery to the CNS is complicated by complex biological barriers
+generally termed the blood–brain barriers, including the vascular
+blood–brain barrier (BBB), blood–cerebrospinalfluid barrier, and specialty
+barriers such as the blood–retinal barrier (Neuwelt et al., 2008).
+These barriers serve many functions for their dependent tissue beds.
+The most widely known function, especially for the vascular BBB, is
+the prevention of the unregulated movement of substances from the
+blood into the CNS. Generating and maintaining stable resting potentials
+, action potentials, and synaptic transmission, together with the
+massive spatial and temporal summation of nerve impulses necessary
+for CNS function, requires an extreme degree of control over ionic,
+protein, and neurotransmitter concentrations in CNS fluids. The BBB
+thus affects and even regulates many of the complex interactions between
+the peripheral tissues and the CNS that are mediated through the
+blood stream, including neuroimmune interactions (Quan & Banks,
+2007), feeding and energy balance (Banks, 2008), and even those affecting
+cognition (Banks, 2012).
+The simplest mechanism by which molecules can cross the BBB is
+passive transmembrane diffusion. The degree to which a substance
+can enter by this mechanism is dictated by its lipid solubility and molecular
+weight, with small, lipid-soluble substances crossing more efficiently
+than large, hydrophilic substances. Steroid hormones are good
+examples of endogenous substances that can cross the BBB in this
+manner (Banks, 2012). Most small molecule recreational drugs also
+cross the BBB by this mechanism, including morphine, heroine, and
+ethanol (Becker & Greig, 2010). Exploitation of passive transmembrane
+diffusion in drug delivery has been hampered, however, by the presence
+of CNS-to-blood (efflux) saturable transport systems (Begley, 2004).
+Efflux transporters at the BBB serve critical functions, controlling electrolyte
+levels and limiting CNS exposure to endogenous and exogenous
+neurotoxins and to other endogenous biologics, including enkephalins
+and immunoglobulin G molecules, but they complicate the delivery of
+potential protein therapeutics to the CNS (Begley, 2004; Banks, 2005).
+We have shown, for example, that efflux of the neurotrophic peptide,
+pituitary adenylate cyclase-activating polypeptide 27, limits it accumulation
+in the brain and that inhibition of the efflux transporter allows intravenously
+administered peptide to accumulate in the brain to therapeutic
+levels (Dogrukol-Ak et al., 2009).
+Influx transporters are also located at the BBB in large numbers, including
+those for glucose, amino acids, organic acids, vitamins, minerals,
+electrolytes, nucleic acids, peptides, feeding hormones, immune cells,
+and cytokines (Oldendorf, 1971; Davson & Segal, 1996; Engelhardt,
+2008). Use of an influx transporter by a substance can increase its
+brain uptake to 4- to 30-fold over what would be predicted from entry
+via a passive transmembrane route (Oldendorf, 1971). A few drugs are
+known to use endogenous, saturable influx transport systems to enter
+the CNS, including L-dopa, donepezil, valproic acid, and gabapentin
+(Pardridge, 2007). Utilizing influx transporters for drug delivery of
+proteins is fraught with its own special difficulties, however. For example
+, the proteins which transport certain ligands across the BBB are not
+always the same proteins which act as receptors within the CNS (Pan &
+Kastin, 1999). As such, a modification that enhances transport of an
+endogenous ligand across the BBB can also have the unwanted effect
+of reducing its binding affinity to its CNS receptor. Further, recombinant
+proteins are unpredictably sensitive to being modified. Encapsulation,
+alteration to the base sequence (fusion proteins), and slight changes
+to glycosylation patterns can cause recombinant proteins to fold improperly
+, lose stability, lose enzymatic activity, or become more immunogenic
+(Jorgensen et al., 2006; Jorgensen & Nielson, 2009; Tan et al.,
+2010).
+Many drug delivery techniques are in development with the aim of
+facilitating BBB crossing, as mentioned above, although a full discussion
+of these is outside the scope of this review. A different strategy is direct
+injection of protein therapeutics into the cerebrospinal fluid (CSF)
+in order to bypass the BBB altogether (Patel et al., 2009; Alam et al.,
+2010; Rajadhyaksha et al., 2011). Administration into CSF is accomplished
+by injection into the lateral ventricles of the brain (ICV administration
+), the subarachnoid space at the level of the cisterna magna, or
+the lumbar spine (IT administration). Direct CNS administrations have
+been successfully employed in instances where a local effect of the
+deliveredtherapeutic is desired, such asin pain management, treatment
+of spasticity, and cancer chemotherapy. A larger extent of penetration
+beyond the site of injection, which is needed to treat neurodegenerative
+disease, is influenced primarily by theflow dynamics of the CSF.
+3. Cerebrospinal and interstitialfluidflow
+and dynamics: Implications for drug delivery
+A thorough understanding of thefluidflow dynamics in the brain is
+critical when considering the distribution patterns for protein drugs
+administered directly into the CNS. In the body, interstitialfluid (ISF),
+containing sugars, salts, lipids, amino acids, coenzymes, hormones,
+and cellular waste products, bathes nearly every cell, including those
+of the brain. ISFflow plays a key role in nutrient and waste transportation
+, intercellular signaling, immune regulation, and the maintenance of
+cellular homeostasis throughout the body. The regulation of both colloidal
+osmotic pressure andfluid volume is dependent upon this efficient
+removal of soluble proteins and waste products from the ISF (Scallan
+et al., 2010; Wiig & Swartz, 2012).
+Within the brain ventricles, a second CNSfluid, the CSF, is continuously
+produced. The major direction of CSFflow is between the sites of
+production in the choroid plexuses (Johanson, 1988) and the major
+sites of reabsorption in the arachnoid villi and in the primitive lymphatic
+system located at the cribriform plate (Knopf et al., 1995; Boulton et al.,
+1999). The total volume of human CSF is about 150 mL, and the human
+brain produces approximately 500 mL of CSF per day (Johanson et al.,
+2008). It has been calculated that while the ISF is replaced relatively
+slowly (every 20 hours), the rate of turnover of CSF is faster and dependent
+on the size of the brain, with the mouse turning over its CSF
+115 P. Calias et al. / Pharmacology & Therapeutics 144 (2014) 114–122
+(PDF Extractor SDK TRIAL VERSION)
+compartment every 1.87 hours and the human every 4.39 hours (Cserr
+& Patlak, 1992; Davson & Segal, 1996; Begley et al., 2000; Johanson
+et al., 2008; Begley, 2012).
+Although somatic ISF drains into lymphatic vessels, such vessels are
+notably lacking in the CNS, despite the fact that the intense metabolic
+activity of neural tissue and its exquisite sensitivity to changes in the extracellular
+environment would seem to demand an efficient lymphatic
+vasculature. The absence of such vasculature led to early work whereby
+the role of CSF, whichflows throughout the ventricular system in the
+CNS, was clarified as critical to ISF solute clearance from the brain via
+paravascular pathways (Rennels et al., 1990, 1985). Recent elegant
+experiments in mice have expanded our understanding of CNS fluid
+flow, with resulting implications for drug delivery (Begley, 2012; Iliff
+et al., 2012). Iliff and colleagues investigated theflow of CSF into and
+through the brain interstitium through a series of ex vivo and in vivo experiments
+in mice using fluorescent tracers of different molecular
+weights. In thefirst set of experiments, tracers of three different molecular
+weights (759 Da, 3 kDa, and 2000 kDa) were infused into subarachnoid
+space of anesthetized mice, from which point they entered the
+brain along paravascular spaces (Iliff et al., 2012). The large 2000 kDa
+tracer was confined to the paravascular spaces and did not enter the interstitial
+space, but the 3 kDa tracer entered the interstitium from the
+paravascular space and from the pial surface. The smallest tracer of
+759 Da rapidly disseminated throughout the interstitial spaces of the
+brain, leaving only a small amount in the paravascular spaces through
+which it had entered. Building upon thesefindings, the investigators
+used two-photon laser scanning microscopy through a closed cranial
+window in anesthetized mice to conduct real-time imaging of the
+movement of the same 3 kDa and 2000 kDa tracers after intracisternal
+injection (Iliff et al., 2012). After injection, both of the tracers rapidly
+entered the brain along the outside of cortical surface arteries and
+penetrating arterioles. Movement from the paravascular spaces into
+the interstitium occurred readily for the 3 kDa tracer, but the 2000
+kDa tracer remained confined to the paravascular space. The movement
+of the 3 kDa tracer into the interstitium was dependent on the
+aquaporin-4 water channel localized in perivascular astrocytic endfeet,
+and its movement was abolished in Aqp4-null mice.
+Ex vivo techniqueswere then used to map the exit pathwayfrom the
+brain of a 45 kDa tracer after intracisternal injection. After injection, the
+45 kDa tracer moved rapidly inward along penetrating arteries and
+arterioles to reach the terminal capillary beds throughout the brain. The
+largest influxes were seen along large ventral perforating arteries of the
+basal ganglia and thalamus. Exit from the brain appeared to occur along
+both the medial internal cerebral veins and the lateral-ventral caudal
+rhinal veins. Interestingly, tracer injected intraparenchymally into the
+cortex, striatum, or thalamus was cleared along the same pathways.
+The authors concluded that the ISF and CSF moving through the brain
+parenchyma share the same paravenous drainage pathways. Because
+the brain-widefluid transport that the authors observed in their series
+of experiments is dependent upon astroglial waterflux, and because it
+serves a lymphatic-like function in clearing solutes from the interstitial
+space, the authors coined the term “glymphatic pathway” to describe
+theirfindings (Iliff et al., 2012). This glymphatic pathway may help IT-
+administered substances that reach the subarachnoid CSF to distribute
+more deeply into the brain than would be predicted were penetration
+to depend on diffusion only.
+4. Direct delivery of protein therapeutics to the CNS
+Early human studies of proteins administered by the ICV route found
+that theywere rapidly cleared from the CSF and brain into the blood,
+presumably failing to penetrate deeply into the brain parenchyma
+(Greene et al., 1969; Ghersi-Egea et al., 1996). Some later studies were
+similarly disappointing. For example, glial cell line-derived neurotrophic
+factor, a peptide that promotes survival of dopamine neurons, failed
+to produce any improvements in Unified Parkinson’s Disease Rating
+Scale scores when delivered into the ventricles of patients with advanced
+Parkinson’s disease by an implanted catheter and access port
+(Nutt et al., 2003). A later animal study investigatinginsulin-likegrowth
+factor-1 for its potential neuroprotective effects in an Alzheimer’s
+disease model was no more encouraging. After unilateral ICV injection
+in the rat model, nearly all of the insulin-like growth factor-1 was cleared
+from the brain by 1 hour after injection, and very little penetrated into
+the parenchyma (Nagaraja et al., 2005).
+Despite these well-known disappointing results, studies have documented
+successful ICV or IT delivery of large protein therapeutics to the
+brain parenchyma. One of thefirst examples of successful delivery in an
+animal model was with leptin, which after lumbar IT administration
+into the CSF of baboons and dogs was shown to reach the hypothalamus
+and so influence feeding (LeBel et al., 1999; McCarthy et al., 2002). This
+early work rekindled the interest in direct CNS administration of biologics
+, which has since been shown in animal studies to be a potentially
+viable therapeutic approach in several diseases, as discussed below.
+4.1. IT Nogo-A Antibodies for Stroke
+One factor affecting functional recovery after stroke is the neuriteoutgrowth
+inhibitory environment present in the adult CNS. Proteins
+such as Nogo-A appear to prevent fiber regeneration, sprouting, and
+new network formation, contributing to the failure of CNS axons to
+regrow and reconnect after injury (Pernet & Schwab, 2012). IT-
+administered anti–Nogo-A antibody has been shown to penetrate into
+the corpus callosum and the striatal white matter in rat models and
+has resulted in improvements in measures of functional recovery (Tsai
+et al., 2007). In a stroke model, macaque monkeys implanted with
+osmotic pumps delivering anti–Nogo-A antibody to the IT and subdural
+spaces showed recovery on theBrinkmanbox task, whichtests reaching
+and grasping. Recovery ranged from 73% to 89.6% of pre-lesion levels in
+treated animals, compared with below 50% recovery in the control
+animals (Hamadjida et al., 2012). The treated animals, but not controls,
+also exhibited an enhanced callosal connectivity with the ipsilesional
+premotor cortex, based on normalized numbers of retrogradely labeled
+neurons in the intact hemisphere.
+4.2. IT enzyme replacement for neuropathic lysosomal storage diseases
+The lysosomal storage diseases are inherited disorders characterized
+by a deficiency in one or more specific lysosomal enzymes, resulting in
+the accumulation of undigested or partially digested macromolecules
+within cells and tissues (Winchester et al., 2000). Of the approximately
+50 lysosomal storage diseases, two-thirds manifest neurological and
+cognitive declines (Hemsley & Hopwood, 2009). Peripheral administration
+of the missing enzyme can result in recovery of the peripheral
+tissues, but it does little to reverse CNS manifestations of the disease.
+Studies in animal models of several neuropathic lysosomal storage
+disorders have demonstrated that IT or ICV administration of the missing
+enzyme is feasible and potentially effective. Rodent studies are summarized
+inTable 1. In general, these studies have found penetration of
+recombinant enzyme into the brain parenchyma; in some cases localization
+to the lysosomes of neuronal cells has been verified via coimmunostaining
+with lysosomal-associated membrane protein 2 and
+neuronal nuclear antigen. Significant reduction or normalization of
+storage material levels in the brain as well as improvements in lifespan
+or cognitive performance testing have also been seen. Probably of great
+significance for the IT administration of lysosomal enzymes is the phenomenon
+of cell uptake of the recombinant proteins by neurons and
+glia, mediated by mannose-6-phosphate receptors or other uptake
+mechanisms (Calias et al., 2012), thus effectively rescuing them from
+the extracellularfluid and CSF and reducing the extent of clearance by
+bulkflow.
+Large animal studies of brain delivery of recombinant enzymes
+have been conducted for several lysosomal diseases, including
+116 P. Calias et al. / Pharmacology & Therapeutics 144 (2014) 114–122
+(EVAL PDF Extractor SDK 8.0.0.2542-675582793)
+mucopolysaccharidosis I, II, and III, late infantile neuronal ceroid
+lipofuscinosis, and Niemann-Pick A disease (Table 2).AfterITorcisterna
+magna administration, recombinant enzymes reached the hippocampus,
+basal ganglia, thalamus, caudate, and periventricular white matter of
+these large animals (Kakkis et al., 2004; Dickson et al., 2007; Hemsley
+et al., 2009; Dierenfeld et al., 2010; Chen et al., 2011; Crawley et al.,
+2011; Vuillemenot et al., 2011; Calias et al., 2012; Dickson et al., 2012).
+Penetration was dose dependent, and regions of the brain that are closest
+to the CSF surface accumulated the highest enzyme levels. Detectable
+enzymatic activity in various CNS cell types and improvements in neuropathology
+have been reported in some of the large animal studies
+(Kakkis et al., 2004; Dickson et al., 2007; Hemsley et al., 2009; Chen
+et al., 2011; Crawley et al., 2011; Vuillemenot et al., 2011; Calias et al.,
+2012; Dickson et al., 2012; Pfeifer et al., 2012). For example, enzymatic activity
+was detected in neurons and glia in all six neuronal layers of the cerebral
+cortex and in white matter oligodendrocytes in non-human
+primates and beagles that received lumbar IT or ICV doses of iduronate-
+2-sulfatase (the enzyme that is deficient in mucopolysaccharidosis II)
+(Calias et al., 2012). Similarly, weekly intrathecal administration of recombinant
+humanα-L-iduronidase to mucopolysaccharidosis I model
+dogs revealed 2- to 5-fold elevated levels of enzyme in brain specimens
+(Kakkis et al., 2004). Levels of pathologic glycosaminoglycan storage material
+were normalized in the brains of these treated dogs, and neuronal
+glycosaminoglycan storage was significantly reduced as seen on electron
+microscopy. Although improvement in cognitive function and memory
+has been suggested by murine studies (Table 1), only one study included
+testing for cognitive improvement in a large animal model of lysosomal
+storage disease; that study had a sample size of one treated animal
+which developed an immune response to the administered protein, and
+no improvement or stabilization of cognitive function was seen
+(Vuillemenot et al., 2011).
+Investigational use of IT treatment in a human patient has been
+reported in a case study of a male patient with mucopolysaccharidosis
+I-Scheie (Munoz-Rojas et al., 2008). At the age of 38 years, the patient,
+while presenting with near-normal intellectual function, developed
+unstable and progressive spinal cord compression with resulting gait
+ataxia and lower extremity numbness, tingling, and pain. The patient
+refused standard surgical treatment. He was treated with IT injections
+of laronidase (Aldurazyme®, BioMarin Pharmaceutical/Genzyme
+Corporation, Cambridge, Massachusetts) via lumbar puncture at 1-
+month intervals for a total of 4 months. After 6 months, his 12-minute
+walk test distance increased by 14%, pulmonary function parameters
+improved between 18% and 56%, a consistent right ankle clonus disappeared
+, and temperature sensation in the feet showed improvement.
+Spinal canal stenosis remained stable on MRI. The patient reported
+decreased numbness and tingling, increased stability when rising from
+a chair and when walking, and decreased need for pain medication.
+There was a reduction of 22.5% in CSF levels of glycosaminoglycan substrate
+from baseline such that by month 4, the levels were normal.
+Lysosomal enzymes may be particularly well suited for IT or ICV
+delivery, as several viral vector studies have supported the idea that
+lysosomal enzymes may undergo axonal transport, being transported
+to and from a neuron cell body along microtubules through the cytoplasm
+of axons. A similar transport throughout the brain may occur
+Table 1
+Studies of intracerebroventricular (ICV) and intrathecal (IT) administration of recombinant enzymes in rodent models of lysosomal storage diseases.
+Study Disease Organism Protein Delivery Findings in Treated Animals
+Cabrera-Salazar
+et al. 2010
+Gaucher disease Mouse Glucocerebrosidase Bilateral ICV injection Enzyme detected in parenchyma. Significant reduction
+in storage material. Lifespan increased by about 50%.
+Lee et al., 2007 Globoid cell
+leukodystrophy
+(Krabbe disease)
+Mouse Galactocerebrosidase Unilateral ICV injection Enzyme detected in parenchyma. Subcellular staining
+pattern consistent with a lysosomal/endosomal
+distribution. Lifespan increased by about 20%.
+Stroobants et al.,
+2011
+Metachromatic
+leukodystrophy
+Mouse Arylsulfatase A Unilateral ICV continuous
+infusion
+Enzyme detected in parenchyma co-localized with
+neuronal cell markers and lysosomal markers. Significant
+reduction in storage material. Normalization of motor
+incoordination and reduced gait homogeny in gait
+analysis.
+Tsuji et al., 2011 Tay-Sachs disease and
+Sandhoff disease
+Mouse β-hexosaminidase with a
+high mannose 6-
+phosphatetype-N-glycan content
+Bilateral ICV injection Enzyme detected in parenchyma, co-localized with
+neuronal cell markers. Significant reductions in storage
+materials in neural cells. Delay in onset of motor
+dysfunction as well as a 12% increase in lifespan.
+Chang et al., 2008 Late infantile neuronal
+ceroid lipofuscinosis
+Mouse Tripeptidyl peptidase 1
+proenzyme
+Unilateral ICV continuous
+infusion
+Enzyme detected in parenchyma. Improvements in mean
+tremor amplitude.
+Xu et al., 2011 Late infantile neuronal
+ceroid lipofuscinosis
+Mouse Recombinant tripeptidyl
+peptidase 1
+IT via lumbar puncture Decline in gait analysis significantly delayed. Lifespan
+increased by about 30% to 40%.
+Belichenko et al.,
+2005
+MPS I Rat α-L-iduronidase Unilateral ICV injection Enzyme detected in parenchyma.
+Calias et al., 2012 MPS II Mouse Iduronate-2-sulfatase IT via lumbar puncture Enzyme detected in parenchyma. Reduction in storage
+inclusions in neurons in gray matter and vacuolation
+in oligodendrocytes in white matter.
+Higuchi et al.,
+2012
+MPS II Mouse Iduronate-2-sulfatase Unilateral ICV injection Normalization of alternation behavior and arm entry in
+Y-maze test.
+Hemsley, 2007 MPS IIIA Mouse Heparan N-sulfatase Cerebellomedullary
+cistern
+injection
+Reduction in storage material level throughout brain.
+Reduction in storage vesicles in neuronal and glial cells
+in cerebellum, cerebral cortex, and spinal cord.
+Slower decline on open-field testing over time.
+Normalization of gait.
+Hemsley et al.,, 2008 MSP IIIA Mouse Heparan N-sulfatase Cerebellomedullary
+cistern
+injection
+Reduction in storage material level throughout brain.
+Reduction in markers of brain inflammation.
+Dodge et al., 2009 Niemann–Pick A Mouse Acid sphingomyelinase Unilateral ICV infusion Enzyme detected in parenchyma. Reductions in storage
+material throughout brain. Improved performance on
+foot
+fault test. Improved gait analysis parameters.
+Ziegler et al., 2011 Niemann–Pick A Rat Acid sphingomyelinase Unilateral ICV infusion Enzyme detected in parenchyma.
+Abbreviations: GAG, glycosaminoglycan; HNS, heparan N-sulfatase; I2S, iduronate-2-sulfatase; IDU,α-L-iduronidase; MPS, mucopolysaccharidosis.
+117 P. Calias et al. / Pharmacology & Therapeutics 144 (2014) 114–122
+( 8.0.0.2542.541913319 PDF Extractor SDK EVAL VERSION)
+via tanycytes and astrocytic processes (Begley, 2012). Such studies used
+viral vectors that transduce cells only at the site of injection, but showed
+detectable levels of enzyme activity and some correction of storage in
+distal sites, including the contralateral hemisphere (Skorupa et al.,
+1999; Bosch et al., 2000; Consiglio et al., 2001; Passini et al., 2002).
+Passini et al. directly tested the axonal transport hypothesis by injection
+of a viral vector expressing beta-glucuronidase, a lysosomal enzyme
+that can be visualized in tissue sections, into mouse brain structures
+that have defined axonal connections to other structures (Passini
+et al., 2002). The authors found that after injection of the vector unilaterally
+into the hippocampus of beta-glucuronidase–deficient mice, gene
+expression was detected only at the site of injection, but cells were
+strongly positive for beta-glucuronidase activity in both hemispheres
+of the hippocampus and in the septum. Only regions with axonal
+connections to the site of transduction were enzyme positive. Storage
+lesions in the distal structures were also reversed, suggesting that the
+enzyme was correctly targeted to the lysosomal compartment and
+remained enzymatically active after transport.
+IT andICV treatmentwithrecombinanthuman enzymes not surprisingly
+can be associated with an inflammatory response. As noted above,
+this may be related to the reabsorption of CSF by way of routes previously
+discussed (Cserr & Knopf, 1992; Knopf et al., 1995). Homozygous
+null animals, such as the mucopolysaccharidosis I canine model, show
+variable accumulations of B lymphocytes, plasma cells, and other lymphocytes
+in the meninges of the spinal cord, areas of the spinal dura,
+and around the brain (Kakkis et al., 2004). The inflammatory cells in
+the meninges appeared more prominent in animals that were treated
+with frequent doses or that developed immunoglobulin G antibodies
+against the human protein (Dickson et al., 2007). Specific antibodies
+were found in serum and CSF in these animals, and in dogs, cats
+and monkeys receiving intra-CSF doses of other recombinant human
+enzymes (Kakkis et al., 2004; Dickson et al., 2007; Hemsley et al.,
+2009; Crawley et al., 2011; Felice et al., 2011; Vuillemenot et al., 2011;
+Dickson et al., 2012; Pfeifer et al., 2012). Antibody formation may be
+partly due to cross-species reactivity; however, titers in wild-type
+animalswerelowerthanthoseseeninnullanimalmodels(Vuillemenot
+et al., 2011). While in some cases the appearance of antibodies in the
+serumandCSFcoincidedwiththedevelopmentofinfusion-relatedreactions
+(Hemsley et al., 2009; Vuillemenot et al., 2011), the majority of
+studies reported that no adverse effects were observed (Kakkis et al.,
+2004;Dicksonetal.,2007;Crawleyetal.,2011;Feliceetal.,2011;Ziegler
+etal.,2011;Dicksonetal.,2012;Pfeiferetal.,2012).Inthefuture,blocking
+antibodyproductionbyinducingimmunetolerance(Dicksonetal.,2012)
+or by neonatal exposure to the enzymes (Vogleret al., 1999; Dierenfeld
+et al., 2010; Crawley et al., 2011) might enhance the effectiveness of IT
+delivery ofproteintherapeutics.
+4.3. IT Trastuzumab for breast cancer brain metastases
+About 5% to 6% of patients with breast cancer develop brain metastases
+(Schouten et al., 2002; Schouten et al., 2002; Barnholtz-Sloan
+et al., 2004) at which point survival is about 7 months (Altundag
+et al., 2007). In about 40% of patients with CNS metastases, the tumors
+are positive for human epidermal growth factor receptor 2 (HER-2)
+(Altundag et al., 2007). Trastuzumab, a humanized anti–HER-2 monoclonal
+antibody, has beenshown in severallarge, prospective, controlled
+Table 2
+Studies of IT administration of recombinant enzymes in large animals.
+Study Disease Organism Protein Delivery Findings in Treated Animals Tolerability in Treated Animals
+Kakkis et al.,
+2004
+MPS I Dog IDU IT injection weekly for
+4weeks
+IDU levels increased 2.7 to 5.9-fold normal
+levels depending on dose. Brain GAG levels
+normalized. Neuronal GAG storage
+significantly reduced.
+Well tolerated. All treated dogs developed
+variable accumulations of immune cells in
+meninges of spinal cord, areas of spinal dura,
+and around brain. No clinical effects observed.
+Dickson et al.,
+2007
+MPS I Dog IDU IT injection either
+once monthly or
+once every 3 months
+IDU widely distributed throughout
+brain tissue. Brain GAG levels normalized.
+Neuronal GAG storage moderately reduced.
+One dog in monthly group with baseline gait
+disturbances improved on therapy.
+Well tolerated. One dog in monthly group
+developed a moderate neutrophilic meningitis.
+One dog died from a large brain stem hematoma
+caused by a traumatic injection.
+Felice et al.,
+2011
+MPS II Cynomolgus
+monkey
+I2S IT injection monthly
+for 6 months
+I2S staining was observed both in surface
+neurons next to meninges and in neurons
+adjacent to white matter in a dose-dependent
+manner.
+Well tolerated. Leukocyte infiltrates observed in
+meninges of brain in treated and control groups
+without notable tissue damage. Anti-idursulfase
+antibodies detected in two-thirds of treated
+animals.
+Calias et al.,
+2012
+MPS II Cynomolgus
+monkey
+I2S IT injection monthly
+for 6 months
+I2S detected in neurons of cerebrum,
+cerebellum, brainstem, and spinal cord of
+all groups in a dose-dependent manner.
+Enzyme was specifically detected within
+lysosomes of oligodendrocytes and neurons.
+Not reported.
+Calias et al.,
+2012
+MPS II Dog I2S Single IT injection I2S detected in all 6 neuronal layers of cerebral
+cortex, as well as the cerebellar cortex,
+hippocampus, thalamus, and caudate nucleus.
+Not reported.
+Hemsley
+et al.,
+2009
+MPS III Dog HNS IT injection weekly
+for up to
+4weeks
+Increased HNS activity detected in the dorsal,
+lateral and ventral cortical regions of cerebral
+cortex. Reductions in GAG-derived
+oligosaccharides were found in cerebellum
+and in surface samples from brainstem,
+spinal cord, and dura.
+Well tolerated. One treated dog euthanized
+because of development of a non-infectious
+meningitis. All treated dogs developed antibodies
+against HNS, and levels increased over time.
+Pfeifer et al.,
+2012
+MPS III Juvenile
+cynomolgus
+monkeys
+HNS ITinjection every other
+week for 6 months
+Elevated HNS activity seen in surface as
+well as periventricular areas of brain in
+treated animals. HNS immunostaining seen
+in meningeal and perivascular macrophages
+of brain and spinal cord, in adjacent glial
+and neuronal cell populations, and in
+cerebellum.
+Well tolerated. One female had to be sacrificed
+early due to leaking device. All monkeys tested
+positive for anti-HNS antibodies in serum and
+CSF at one or more time points. Eosinophilic
+infiltrates were present in brain and spinal cord
+of some animals but did not cause morphological
+changes.
+Abbreviations: CSF, cerebrospinalfluid; GAG, glycosaminoglycan; HNS, heparan N-sulfatase; I2S, iduronate-2-sulfatase; IDU,α-L-iduronidase; MPS, mucopolysaccharidosis.
+118 P. Calias et al. / Pharmacology & Therapeutics 144 (2014) 114–122
+(EVALUATION PDF Extractor SDK 8.0.0.2542.1829812093)
+Table 3
+Case reports of IT delivery of trastuzumab in patients with MC from breast cancer.
+Report Patient Treatment Outcome
+Laufman and
+Forsthoefel, 2001
+48-year-old female with mid-back
+pain and sudden paralysis
+3 IT doses of trastuzumab escalating from
+5to20mgover2weeks.
+Treatment well tolerated.
+Concomitant treatment with IT thiotepa
+and/or methotrexate.
+No benefits seen afterfirst 2 doses. After third dose,
+patient remained neurologically stable for 30 days,
+then declined and died of respiratory arrest.
+Stemmler et al.,
+2006
+39-year-old female with dizziness,
+hearing loss, and headache.
+4 IT doses of trastuzumab escalating from
+5 to 20 mgover2 weeks followed by another
+20 mg dose 3 weeks later.
+Treatment well tolerated.
+Neurological symptoms improved within 2 weeks
+from last dose.
+Concomitant treatment with IV trastuzumab
+and chemotherapy every 3 weeks continued.
+Tumor cell count in CSF remained low for 11 months
+fromfirst diagnosis of MC.
+Progression of MC occurred after 11 months.
+Platini et al., 2006 41-year-old female with vertigo,
+memory and sleep problems, and
+difficulty concentrating.
+IT trastuzumab escalating from 20 mg to
+25 mg given weekly for about 1 year.
+Treatment well tolerated.
+IT 25 mg prednisone and 10 mg thiotepa
+added after 1 year. Total of 46 IT injections
+over 17 months. Concomitant treatment
+with IV
+trastuzumab and chemotherapy continued.
+Patient developed vision disturbances after 1 year of
+IT trastuzumab. These stabilized after addition of
+prednisone and thiotepa. Progression was again seen
+6 months later with nausea, vomiting, and exacerbation
+of vision problems.
+Stemmler et al.,
+2008
+48-year-old female with overflow
+incontinence and paraparesis of the legs.
+4 IT doses 12 mg methotrexate and
+20 mg trastuzumab.
+Treatment well tolerated.
+Tumor cell count in CSF decreased within 2 weeks.
+Patient’s general condition improved significantly
+(Eastern Cooperative Oncology Group 3 to 1) and she
+was able to walk again without assistance.
+Tumor cell count was negative by the end of
+treatment.
+After 1 month, patientdied due to rapid progression of
+lung and liver metastases, with no signs of MC.
+Mir et al., 2008 59-year-old female with mid-back
+pain, cerebellar ataxia and headaches.
+6 IT doses of trastuzumab escalating from
+20 to 100 mg given weekly.
+Treatment well tolerated.
+MRI at 6 weeks showed stable MC.
+2 months later patient died of rapidly progressing
+brain
+metastasis to parenchyma.
+Ferrario et al, 2009 38-year-old female with visual impairment,
+right ptosis, right hemi-facial hypoesthesia,
+left foot drop, and paralysis of the left facial
+nerve.
+6 IT doses of trastuzumab given weekly,
+escalating from 20 to 30 mg, followed by
+Treatment well tolerated.
+2 IT doses of 30 mg trastuzumab plus
+10 mg methotrexate given weekly.
+MRI revealed that all the lesions were stable or slightly
+decreased after 40 mg trastuzumab plus 10 mg
+thiotepa.
+IT doses of 40 mg trastuzumab given
+every 3 weeks for 8 months.
+Significant improvement, with some lesions
+significantly decreasing in size, and other lesions no
+longer visualized, seen after 50 mg trastuzumab plus
+12 mg thiotepa.
+IT doses of 40 mg trastuzumab plus 10 mg
+thiotepa given every 3 weeks for
+6months. Patient was fully functional at end of treatment.
+IT doses of 50 mg trastuzumab plus 12 mg
+thiotepa given every 3 weeks for 7 months.
+Concomitant treatment with IV
+chemotherapy every 3 weeks continued.
+Mego et al., 2011 43-year-old female with dizziness and
+cranial nerve palsies.
+6 IT doses of 15 mg methotrexate,
+24 mg cytarabine, and 24 mg
+hydrocortisone plus escalating dose
+oftrastuzumab up to 40 mg given
+weekly. Systemic trastuzumab continued.
+Treatment well tolerated.
+CSF protein level remained elevated but CSF tumor
+cell counts were negative.
+Symptoms improved significantly.
+2 months later presented with impaired level of
+consciousness but refused further treatment.
+Overall survival was 13.5 months from diagnosis of
+MC.
+Mego et al., 2011 39-year-old female with vision disorders,
+headaches, dizziness, cranial nerve palsies,
+and sleepiness.
+6 IT doses of 15 mg methotrexate, 24 mg
+cytarabine, and 24 mg hydrocortisone plus
+escalating dose of trastuzumab up to
+100 mg given weekly.
+Treatment well tolerated
+Tumor cell count in CSF decreased, then was negative
+by last infusion.
+Symptoms improved significantly.
+Lesions were reduced on MRI.
+6 months after last IT infusion, died due to progression
+of liver metastases, free of symptoms of MC.
+Oliveira et al., 2011 44-year-old female with headache, gait
+disturbance, neck stiffness, and reduced
+flexion of lower limbs.
+67 weekly IT doses of 25 mg trastuzumab
+plus 25 mg prednisolone.
+Treatment well tolerated.
+Systemic trastuzumab plus chemotherapy
+continued.
+After 3 doses, recovered lower limb motion and
+resumed daily physical activities.
+Tumor cell count in CSF was negative after third dose
+and thereafter.
+The patient died from Listeriameningitis 27 months
+after diagnosis of MC. No evidence of MC was seen on
+autopsy.
+Brandt, 2012 49-year-old female with headache, mental
+status changes, seizures, and lower limb
+weakness.
+IT doses of 25 mg trastuzumab given every
+other day for 3 weeks, followed by doses
+given weekly for 43 months, followed by
+doses given biweekly to present time.
+Systemic trastuzumab plus capecitabine
+and lapatinib continued.
+Treatment well tolerated.
+Improvement in mental status after 2 doses.
+After 3 months, all neurological compromises abated
+and have remained so to date.
+Abbreviations: CSF, cerebrospinalfluid; IT, intrathecal; IV, intravenous; MC, meningeal carcinomatosis; MRI, magnetic resonance imaging.
+119 P. Calias et al. / Pharmacology & Therapeutics 144 (2014) 114–122
+(BY PDF Extractor SDK TRIAL VERSION)
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0005
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0005
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0010
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0010
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0010
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0015
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0015
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0015
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0020
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0020
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0020
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0025
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0025
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0030
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0030
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0035
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0035
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0405
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0405
+studies to improve survival for patients with primary and metastatic
+HER-2–positive breast cancer (Slamon et al., 2001; Smith et al., 2007)
+andisusedaspartofthefirst-line treatment regimens in these populations.
+Unfortunately, peripherally administered trastuzumab
+does not reach therapeutic levels in the brain because of poor penetration
+of the BBB (Stemmler et al., 2007). A number of case reports
+documenting the use of IT delivery of trastuzumab in patients with
+leptomeningeal carcinomatosis have suggested that this route of administration
+is well tolerated (Table 3). IT trastuzumab improved
+clinical status and neurological complaints, and the overall survival
+appeared to be greater than what would be expected in this patient
+population. The safety of IT trastuzumab was evaluated in a formal toxicology
+study performed in cynomolgus monkeys. Animals received
+weekly IT trastuzumab at doses of 0, 3, or 15 mg for four weeks, and no
+drug-related effects on body weight, clinical signs, neurological function,
+clinical pathology, or anatomic pathology were seen, even at CSF
+concentrations that exceeded those reported in patients in the IT
+case studies (Braen et al., 2010). Phase I/II trials in human patients
+with leptomeningeal carcinomatosis are in progress (NCT01373710,
+NCT01281696, NCT01645839, NCT01325207).
+5. Drugs delivered by the intrathecal
+route: Characteristics of the ideal molecule
+The studies reviewed here illustrate that, contrary to traditional
+dogma, some molecules administered by the IT route can exert therapeutic
+effects on the CNS. The traditional view was based on and is
+largely true for small, lipid-soluble molecules. The molecules that are
+able to reach the CNS in therapeutic amounts after IT delivery tend to
+share a number of characteristics. Ideal molecules are usually proteins
+with little or no brain-to-blood passage at the level of the blood–brain
+barriers and are relatively resistant to degradation by the enzymes
+found within the CSF. Although the CSF has been shown to contain
+hundreds of proteins (Bora et al., 2012; Holtta et al., 2012) and may
+have a lower enzymatic activity than blood, enzymatic susceptibility
+should be evaluated for each drug candidate individually during the development
+process. Distribution to deep brain tissues after IT delivery
+can also be aided by receptor mediated cellular uptake and intercellular
+transfer. The lysosomal enzymes, for which some success in IT delivery
+has been reported, are examples of protein drugs with these characteristics.
+Without such intracellular and intercellular distributions, another
+characteristic of the ideal molecule would be a site of action within
+diffusible distance of a CSF-contacting area or accessed by the deep
+subarachnoid circulation recently described by Iliff and colleagues (Iliff
+et al., 2012). Another advantage of IT delivery of a protein therapeutic
+with a high therapeutic index is that the drug may be able to treat not
+only the neurological but also the peripheral symptoms of the disease.
+Inmost cases, CNSdelivery results inthedrugenteringtheblood stream
+as the CSF is reabsorbed.
+There are also several disadvantages of IT delivery of therapeutic
+proteins. One is the development of antibodies that tend to reduce the
+effectiveness of the drugs. Another is that it may be difficult to predict
+the percent of an IT dose of a drug that will reach the brain and cranial
+CSF space; this may be caused by the variations in rates of CSF and
+metabolic free water production and reabsorption. Chronic IT delivery
+would be easier to achieve with the placement of indwelling catheters
+rather than repeated lumbar punctures; however, treatment would
+then be dependent on reliable catheter placement and stability. Some
+disease conditions may complicate catheter placement or stability,
+such as obesity or rapid growth rates in children (Follett et al., 2003).
+Infection is a risk that must be managed as well, with rates of infection
+with implanted IT catheters reported to be between 4% and 9% (Du Pen,
+2005; Holmfred et al., 2006; Aprili et al., 2009; Taira et al., 2013; Motta &
+Antonello, 2014). Thus, even in the best of circumstances, catheters
+require periodic replacement.
+6. Conclusions
+Whereas early experiences with small, lipid-soluble molecules
+resulted in the IT route for drug administration being discounted, new
+evidence demonstrates that IT delivery may be an ideal route of administration
+for large biomolecules. Numerous studies in small and large
+animal models of stroke and the neurodegenerative lysosomal storage
+diseases show that IT delivery of protein therapeutics can result in
+widespread penetration into the brain parenchyma, improved signs of
+neuropathology, and improved clinical and behavioral outcomes.
+Tolerability to treatment was generally good in these studies.
+Similarly, case reports and studies in human patients with a neurodegenerative
+lysosomal storage disease or breast cancer metastases
+to the CNS have suggested generally acceptable tolerability
+and therapeutic effectiveness with few adverse events after the IT
+delivery of enzymes or antibodies. A number of clinical trials of
+IT-administered protein therapeutics are underway for patients
+with mucopolysaccharidosis I (NCT00638547, NCT00852358),
+mucopolysaccharidosis II (NCT00920647, NCT01506141) and
+mucopolysaccharidosis III (NCT01155778, NCT01299727);
+leptomeningeal carcinomatosis (NCT01373710, NCT01281696,
+NCT01645839, NCT01325207) and intraventricular hemorrhage
+(NCT01810302). It is anticipated that results from these trials will
+help guide clinical implementation of IT drug delivery on a larger
+scale and will inform therapeutic efforts for a variety of neurological
+disorders.
+Conflict of interest
+P. Calias is an employee of Shire. W. A. Banks has received research
+grants and honoraria from Shire. D. Begley has received research grants,
+travel grants, and honoraria from Shire and is a consultant for ArmaGen
+Technologies, Inc., and Synageva BioPharma. M. Scarpa has received research
+grants, travel grants, and honoraria from Shire. P. Dickson receives
+research and educational support from BioMarin Pharmaceutical and
+Genzyme Corporation, and is a consultant for ArmaGen Technologies,
+Inc., Isis Pharmaceuticals, Inc., and Shire.
+Acknowledgments
+Editorial assistance to the authors was provided by Jillian Lokere, MS,
+of The Curry Rockefeller Group, LLC, Tarrytown, New York, and was
+funded by Shire. The opinions expressed are solely those of the authors,
+and the authors confirm independence from the sponsor. The authors
+received no payment for their work. The sponsor had no role in the
+collection, analysis and interpretation of data, in the writing of the report
+, or in the decision to submit the paper for publication.
+References
+Alam, M. I., Beg, S., Samad, A., Baboota, S., Kohli, K., Ali, J., et al. (2010).Strategyfor effective
+brain drug delivery. Eur J Pharm Sci 40,385 –403.
+Altundag, K., Bondy, M. L., Mirza, N. Q., Kau, S. W., Broglio, K., Hortobagyi, G. N., et al.
+(2007). Clinicopathologic characteristics and prognostic factors in 420 metastatic
+breast cancer patients with central nervous system metastasis. Cancer 110,
+2640–2647.
+Aprili, D., Bandschapp, O., Rochlitz, C., Urwyler, A., & Ruppen, W. (2009). Serious complications
+associated with external intrathecal catheters used in cancer pain patients: A
+systematic review and meta-analysis. Anesthesiology 111,1346 –1355.
+Banks, W. A. (2005). Critical roles of efflux systems in health and disease. In E. M. Taylor
+(Ed.), Efflux Transporters and the Blood-Brain Barrier (pp. 21–53). Hauppauge, New
+York: Nova Science Publishers, Incorporated.
+Banks, W. A. (2008). The blood-brain barrier as a cause of obesity. Curr Pharm Des 14,
+1606–1614.
+Banks, W. A. (2012).Brain meets body: The blood-brain barrier as an endocrine interface.
+Endocrinology 153,4111 –4119.
+Barnholtz-Sloan, J. S., Sloan, A. E., Davis, F. G., Vigneau, F. D., Lai, P., & Sawaya, R. E. (2004).
+Incidence proportions of brain metastases in patients diagnosed (1973 to 2001) in
+the Metropolitan Detroit Cancer Surveillance System. J Clin Oncol 22, 2865–2872.
+Becker, R. E., & Greig, N. H. (2010).Lost in translation: Neuropsychiatric drug development.
+Sci Transl Med 2, 61rv66.
+120 P. Calias et al. / Pharmacology & Therapeutics 144 (2014) 114–122
+(EVAL PDF Extractor SDK 8.0.0.2542-970227220)
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0040
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0040
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0410
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0045
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0045
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0045
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0045
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf1005
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf1005
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf1005
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0050
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0050
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0050
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0055
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0055
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0055
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0060
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0060
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0065
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0065
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0065
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0070
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0070
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2000
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2000
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf3000
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf3000
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf3000
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0075
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0075
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0075
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf4000
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf4000
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0080
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0080
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0080
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0085
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0085
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0085
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0090
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0090
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0095
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0095
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0100
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0100
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0100
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0100
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0105
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0105
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0105
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0115
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0115
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0110
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0110
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0110
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0420
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0420
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0420
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0420
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0420
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf5000
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf5000
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf5000
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0120
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0120
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0120
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0125
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0125
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0130
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0130
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0135
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0135
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0135
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf6000
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf6000
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf6000
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0140
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0140
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0140
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0145
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0145
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0150
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0150
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0155
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0155
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0160
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0160
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0160
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0165
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0165
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0165
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf7000
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf7000
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf7000
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0170
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0170
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0175
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0175
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0175
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0180
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf8000
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf8000
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf8000
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0425
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0425
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0425
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0425
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0185
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0185
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0185
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0190
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0190
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0195
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0195
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0200
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0200
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0205
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0205
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0205
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0210
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0210
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0210
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0215
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0215
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0215
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0220
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0220
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0220
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf9100
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf9100
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf1100
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf1100
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf1100
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0225
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0225
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf1200
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf1200
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf1200
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf1300
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf1300
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf1300
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0230
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0230
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0230
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0235
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0235
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0235
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0240
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0240
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0240
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0245
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0245
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0250
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0250
+Begley, D. J. (2004). ABC transporters and the blood-brain barrier. Curr Pharm Des 10,
+1295–1312.
+Begley, D. J. (2012). Brain superhighways. Sci Transl Med 4, 147 fs129.
+Begley, D. J., Khan, E. U., Rollinson, C., Abbott, J., Regina, A., & Roux, F. (2000). The Role of
+Brain Extracellular Fluid Production and Efflux Mechanisms in Drug Transport to the
+Brain. In D. J. Begley, M. W. Bradbury, & J. Kreuter (Eds.), The Blood-Brain Barrier and
+Drug Delivery to the CNS (pp. 93–108). New York: Marcel Dekker, Inc.
+Belichenko, P. V., Dickson, P. I., Passage, M., Jungles, S., Mobley, W. C., & Kakkis, E. D.
+(2005). Penetration, diffusion, and uptake of recombinant human alpha-L-
+iduronidase after intraventricular injection into the rat brain. Mol Genet Metab 86,
+141–149.
+Bora, A., Anderson, C., Bachani, M., Nath, A., & Cotter, R. J. (2012).Robust two-dimensional
+separation of intact proteins for bottom-up tandem mass spectrometry of the human
+CSF proteome. JProteomeRes11 , 3143–3149.
+Bosch, A., Perret, E., Desmaris, N., & Heard, J. M. (2000).Long-term and significant correction
+of brain lesions in adult mucopolysaccharidosis type VII mice using recombinant
+AAV vectors. Mol Ther 1,63 –70.
+Boulton, M., Flessner, M., Armstrong, D., Mohamed, R., Hay, J., & Johnston, M. (1999).
+Contribution of extracranial lymphatics and arachnoid villi to the clearance of a CSF
+tracer in the rat. Am J Physiol 276, R818–R823.
+Braen, A. P., Perron, J., Tellier, P., Catala, A.R., Kolaitis, G., & Geng, W. (2010). A 4-week
+intrathecal toxicity and pharmacokinetic study with trastuzumab in cynomolgus
+monkeys. Int J Toxicol 29,259 –267.
+Bray, F., Ren, J. S., Masuyer, E., & Ferlay, J. (2012).Global estimates of cancer prevalence for
+27 sites in the adult population in 2008. Int J Cancer 132,1133 –1145.
+Brandt, D. S. (2012).Intrathecal trastuzumab: 46 months and no progression.Community
+Oncol 9,232 –234.
+Cabrera-Salazar, M. A., Bercury, S. D., Ziegler, R. J., Marshall, J., Hodges, B. L., Chuang, W. L.,
+et al. (2010). Intracerebroventricular delivery of glucocerebrosidase reduces substrates
+and increases lifespan in a mouse model of neuronopathic Gaucher disease.
+Exp Neurol 225,436 –444.
+Calias, P., Papisov, M., Pan, J., Savioli, N., Belov, V., Huang, Y., et al. (2012).CNS penetration
+of intrathecal-lumbar idursulfase in the monkey, dog and mouse: Implications for
+neurological outcomes of lysosomal storage disorder. PLoS One 7, e30341.
+Chang, M., Cooper, J. D., Sleat, D. E., Cheng, S. H., Dodge, J. C., Passini, M. A., et al. (2008).
+Intraventricular enzyme replacement improves disease phenotypes in a mouse
+model of late infantile neuronal ceroid lipofuscinosis. Mol Ther 16,649 –656.
+Chen, A., Vogler, C., McEntee, M., Hanson, S., Ellinwood, N. M., Jens, J., et al. (2011).Glycosaminoglycan
+storage in neuroanatomical regions of mucopolysaccharidosis I dogs
+following intrathecal recombinant human iduronidase. APMIS 119,5 1 3 –521.
+Consiglio, A., Quattrini, A., Martino, S., Bensadoun, J. C., Dolcetta, D., Trojani, A., et al.
+(2001). In vivo gene therapy of metachromatic leukodystrophy by lentiviral
+vectors: Correction of neuropathology and protection against learning impairments
+in affected mice. Nat Med 7,310 –316.
+Crawley, A.C., Marshall, N., Beard, H., Hassiotis, S., Walsh, V., King, B., et al. (2011).Enzyme
+replacement reduces neuropathology in MPS IIIA dogs. Neurobiol Dis 43,422 –434.
+Cserr, H. F., & Knopf, P.M. (1992). Cervical lymphatics, the blood-brain barrier and the
+immunoreactivity of the brain: A new view. Immunol Today 13,507 –512.
+Cserr, H. F., & Patlak, C. S. (1992).Secretion and Bulk Flow of Interstitial Fluid. In M. W.
+B. Bradbury (Ed.), Physiology and Pharmacology of the Blood-Brain Barrier.
+Handbook of Experimental Pharmacology. vol. 103. (pp. 245–261). Berlin: Springer
+Berlin Heidelberg.
+Davson, H., & Segal, M. B. (1996). The return of the cerebrospinalfluid to the blood: The
+drainage mechanism. Physiology of the CSF and Blood-Brain Barriers (pp. 489–523).
+Boca Raton: CRC Press.
+Dickson, P. I., Ellinwood, N. M., Brown, J. R., Witt, R. G., Le, S. Q., Passage, M. B., et al. (2012).
+Specific antibody titer alters the effectiveness of intrathecal enzyme replacement
+therapy in canine mucopolysaccharidosis I. Mol Genet Metab 106,68 –72.
+Dickson, P., McEntee, M., Vogler, C., Le, S., Levy, B., Peinovich, M., et al. (2007).Intrathecal
+enzyme replacement therapy: Successful treatment of brain disease via the cerebrospinal fluid. Mol Genet Metab 91,61 –68.
+Dierenfeld, A.D., McEntee, M. F., Vogler, C. A., Vite, C. H., Chen, A. H., Passage, M., et al.
+(2010). Replacing the enzyme alpha-L-iduronidase at birth ameliorates symptoms
+in the brain and periphery of dogs with mucopolysaccharidosis type I. Sci Transl
+Med 2, 60ra89.
+Dodge,J.C.,Clarke,J.,Treleaven,C.M.,Taksir,T.V.,Grif fiths, D. A., Yang, W., et al.
+(2009). Intracerebroventricular infusion of acid sphingomyelinase corrects CNS
+manifestations in a mouse model of Niemann-Pick A disease. Exp Neurol 215,
+349–357.
+Dogrukol-Ak, D., Kumar, V. B., Ryerse, J. S., Farr, S. A., Verma, S., Nonaka, K., et al. (2009).
+Isolation of peptide transport system-6 from brain endothelial cells: Therapeutic
+effects with antisense inhibition in Alzheimer's and stroke models. J Cereb Blood
+Flow Metab 29,411 –422.
+Du Pen, A. (2005). Care and management of intrathecal and epidural catheters. J Infus
+Nurs 28,377 –381.
+Engelhardt, B. (2008).The blood-central nervous system barriers actively control immune
+cell entry into the central nervous system. Curr Pharm Des 14,1555 –1565.
+Felice, B. R., Wright, T. L., Boyd, R. B., Butt, M. T., Pfeifer, R. W., Pan, J., et al. (2011). Safety
+evaluation of chronic intrathecal administration of idursulfase-IT in cynomolgus
+monkeys. ToxicolPathol39 ,879 –892.
+Ferrario, C., Davidson, A., Bouganim, N., Aloyz, R., & Panasci, L. C. (2009). Intrathecal
+trastuzumab and thiotepa for leptomeningeal spread of breast cancer. Ann Oncol 20,
+792–795.
+Follett, K. A., Burchiel, K., Deer, T., Dupen, S., Prager, J., Turner, M. S., et al. (2003).Prevention
+of intrathecal drug delivery catheter-related complications. Neuromodulation 6,
+32–41.
+Ghersi-Egea, J. F., Gorevic, P. D., Ghiso, J., Frangione, B., Patlak, C. S., & Fenstermacher, J.D.
+(1996).Fate of cerebrospinalfluid-borne amyloid beta-peptide: Rapid clearance into
+blood and appreciable accumulation by cerebral arteries. J Neurochem 67,880 –883.
+Greene, H. L., Hug, G., & Schubert, W. K. (1969).Metachromatic leukodystrophy. Treatment
+with arylsulfatase-A.Arch Neurol 20, 147–153.
+Guo, L., Ren, J., & Jiang, X. (2012). Perspectives on brain-targeting drug delivery systems.
+Curr Pharm Biotechnol 13, 2310–2318.
+Hamadjida, A., Wyss, A. F., Mir, A., Schwab, M. E., Belhaj-Saif, A., & Rouiller, E. M. (2012).
+Influence of anti-Nogo-A antibody treatment on the reorganization of callosal connectivity
+of the premotor cortical areas following unilateral lesion of primary motor
+cortex (M1) in adult macaque monkeys. Exp Brain Res 223,321 –340.
+Hemsley, K. M., & Hopwood, J. J. (2009).Delivery of recombinant proteins via the cerebrospinalfluid as a therapy option for neurodegenerative lysosomal storage diseases. Int J Clin
+Pharmacol Ther 47(Suppl. 1), S118–S123.
+Hemsley, K. M., Beard, H., King, B. M., & Hopwood, J. J. (2008).Effect of high dose, repeated
+intra-CSF injection of sulphamidase on neuropathology in MPS IIIA mice.Genes Brain
+Behav 7,740 –753.
+Hemsley, K. M., Norman, E. J., Crawley, A.C., Auclair, D., King, B., Fuller, M., et al. (2009).
+Effect of cisternal sulfamidase delivery in MPS IIIA Huntaway dogs—A proof of principle
+study. Mol Genet Metab 98,383 –392.
+Holmfred, A., Vikerfors, T., Berggren, L., & Gupta, A. (2006). Intrathecal catheters with
+subcutaneous port systems in patients with severe cancer-related pain managed
+out of hospital: The risk of infection. J Pain Symptom Manage 31,568 –572.
+Holtta, M.,Zetterberg, H., Mirgorodskaya, E., Mattsson, N.,Blennow, K., & Gobom, J.(2012).
+Peptidome analysis of cerebrospinalfluid by LC-MALDI MS.PLoS One 7, e42555.
+Higuchi, T., Shimizu, H., Fukuda, T., Kawagoe, S., Matsumoto, J., Shimada, Y., et al. (2012).
+Enzyme replacement therapy (ERT) procedure for mucopolysaccharidosis type II
+(MPS II) by intraventricular administration (IVA) in murine MPS II. Mol Genet
+Metab 107,122 –128.
+Iliff,J.J.,Wang,M.,Liao,Y.,Plogg,B.A.,Peng,W.,Gundersen,G.A.,etal.(2012).A
+paravascular pathway facilitates CSF flowthroughthebrainparenchymaand
+the clearance of interstitial solutes, including amyloid beta. Sci Transl Med 4,
+147ra111.
+Johanson, C. E. (1988). The Choroid Plexus-Arachnoid Membrane-Cerebrospinal Fluid
+System. In A. A. Boulton, G. B. Baker, & W. Walz (Eds.), Neuromethods; The Neuronal
+Microenvironment (pp. 33–104). Clifton, New Jersey: The Humana Press.
+Johanson, C. E., Duncan, J. A., III, Kling, P.M., Brinker, T., Stopa, E. G., & Silverberg, G. D.
+(2008). Multiplicity of cerebrospinalfluid functions: New challenges in health and
+disease. Cerebrospinal Fluid Res 5,10.
+Johanson, C. E., Duncan, J. A., III, Klinge, P.M., Brinker, T., Stopa, E. G., & Silverberg, G. D.
+(2008). Multiplicity of cerebrospinalfluid functions: New challenges in health and
+disease. Cerebrospinal Fluid Res 5,10.
+Jorgensen, L., Moeller, E. H., van de Weert, M., Nielsen, H. M., & Frokjaer, S. (2006).Preparing
+and evaluating delivery systems for proteins. Eur J Pharm Sci 29,174 –182.
+Jorgensen, L., & Nielson, H. M. (2009). Introduction. Delivery Technologies for
+Biopharmaceuticals: Peptides, Proteins, Nucleic Acids and Vaccines(pp. 3–8). Hoboken,
+NJ: John Wiley & Sons, Ltd.
+Kakkis, E., McEntee, M., Vogler, C., Le, S., Levy, B., Belichenko, P., et al. (2004). Intrathecal
+enzyme replacement therapy reduces lysosomal storage in the brain and meninges of
+the canine model of MPS I. Mol Genet Metab 83,163 –174.
+Knopf, P.M., Cserr, H. F., Nolan, S.C., Wu, T. Y., & Harling-Berg, C. J. (1995).Physiology and
+immunology of lymphatic drainage of interstitial and cerebrospinal fluid from the
+brain. Neuropathol Appl Neurobiol 21,175 –180.
+LeBel, C., Bourdeau, A., Lau, D., & Hunt, P. (1999).Biological response to peripheral
+and central administration of recombinant human leptin in dogs. Obes Res 7,
+577–585.
+Laufman, L. R., & Forsthoefel, K. F. (2001).Use of intrathecal trastuzumab in a patient with
+carcinomatous meningitis. Clin Breast Cancer 2,235.
+Lee, W. C., Tsoi, Y. K., Troendle, F. J., DeLucia, M. W., Ahmed, Z., Dicky, C. A., Dickson, D. W.,
+& Eckman, C. B. (2007). Single-dose intracerebroventricular administration of
+galactocerebrosidase improves survival in a mouse model of globoid cell leukodystrophy. FASEB J 21, 2520–2527.
+McCarthy, T. J., Banks, W. A., Farrell, C. L., Adamu, S., Derdeyn, C. P., Snyder, A. Z., et al.
+(2002). Positron emission tomography shows that intrathecal leptin reaches the
+hypothalamus in baboons. J Pharmacol Exp Ther 301,878 –883.
+Mego, M., Sycova-Mila, Z., Obertova, J., Rajec, J., Liskova, S., Palacka, P., et al. (2011).Intrathecal
+administration of trastuzumab with cytarabine and methotrexate in breast
+cancer patients with leptomeningeal carcinomatosis. Breast 20,478 –480.
+Mir, O., Ropert, S., Alexandre, J., Lemare, F., & Goldwasser, F. (2008).High-dose intrathecal
+trastuzumab for leptomeningeal metastases secondary to HER-2 overexpressing
+breast cancer. Ann Oncol 19,1978 –1980.
+Motta, F., & Antonello, C. E. (2014).Analysis of complications in 430 consecutive pediatric
+patients treated with intrathecal baclofen therapy: 14-year experience. J Neurosurg
+Pediatr 13,301 –306.
+Munoz-Rojas, M. V., Vieira, T., Costa, R., Fagondes, S., John, A., Jardim, L. B., et al.
+(2008). Intrathecal enzyme replacement therapy in a patient with
+mucopolysaccharidosis type I and symptomatic spinal cord compression. Am J
+Med Genet A 146A,2538 –2544.
+Nagaraja, T. N., Patel, P., Gorski, M., Gorevic, P. D., Patlak, C. S., & Fenstermacher, J.D. (2005).In
+normal rat, intraventricularly administered insulin-like growth factor-1 is rapidly
+cleared from CSF with limited distribution into brain. Cerebrospinal Fluid Res 2,5.
+Neuwelt,E.,Abbott,N.J.,Abrey,L.,Banks,W.A.,Blakley,B.,Davis,T.,etal.(2008).Strategies
+to advance translational research into brain barriers. Lancet Neurol 7,84 –96.
+Nutt, J. G., Burchiel, K. J., Comella, C. L., Jankovic, J., Lang, A. E., Laws, E. R., Jr., et al. (2003).
+Randomized, double-blind trial of glial cell line-derived neurotrophic factor (GDNF)
+in PD. Neurology 60,69 –73.
+121 P. Calias et al. / Pharmacology & Therapeutics 144 (2014) 114–122
+(TRIAL PDF Extractor SDK 8.0.0.2542-1534109413)
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0255
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0255
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2100
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2100
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2100
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0430
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0260
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0260
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0265
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0270
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0270
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0270
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0275
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0275
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0280
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0280
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0285
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0285
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2200
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2200
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0290
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0290
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0295
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0295
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0295
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0300
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0300
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0305
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0305
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0305
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0305
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0310
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0310
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0310
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0315
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0315
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0320
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0320
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0320
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0325
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0325
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0325
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0325
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0325
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0330
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0330
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0335
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0335
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0340
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0340
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2400
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2400
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2400
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0345
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0345
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0345
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2300
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2300
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2300
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2500
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2500
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2500
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0350
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0350
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0350
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0355
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0355
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0360
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0360
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0365
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0365
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2600
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2600
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0370
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0370
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0370
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0375
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0375
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0375
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0375
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0380
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0380
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0385
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0385
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0385
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0390
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0390
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2700
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2700
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf2700
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0395
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0395
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0400
+[Link]
+http://refhub.elsevier.com/S0163-7258(14)00104-1/rf0400
+Oldendorf, W. H. (1971).Brain uptake of radio-labelled amino acids, amines and hexoses
+after arterial injection. Am J Physiol 221,1629 –1639.
+Oliveira, M., Braga, S., Passos-Coelho, J. L., Fonseca, R., & Oliveira, J. (2011). Complete response
+in HER2+ leptomeningeal carcinomatosis from breast cancer with intrathecal
+trastuzumab. Breast Cancer Res Treat 127,841 –844.
+Organization, W. H. (2006). Neurological Disorders: Public Health Challenges vol. 2012,.
+Pan, W., & Kastin, A. J. (1999). Entry of EGF into brain is rapid and saturable. Peptides 20,
+1091–1098.
+Pardridge, W. M. (2007). Blood-brain barrier delivery. Drug Discov Today 12,54 –61.
+Passini, M.A., Lee, E. B., Heuer, G. G., & Wolfe, J. H. (2002). Distribution of a lysosomal
+enzyme in the adult brain by axonal transport and by cells of the rostral migratory
+stream. JNeurosci22 ,6437 –6446.
+Patel, M. M., Goyal, B. R., Bhadada, S. V., Bhatt, J. S., & Amin, A. F. (2009).Getting into the
+brain: Approaches to enhance brain drug delivery. CNS Drugs 23,35 –58.
+Pernet, V., & Schwab, M. E. (2012). The role of Nogo-A in axonal plasticity, regrowth and
+repair. Cell Tissue Res 349,97 –104.
+Pfeifer, R. W., Felice, B. R., Boyd, R. B., Butt, M. T., Ruiz, J. A., Heartlein, M. W., et al. (2012).
+Safety evaluation of chronic intrathecal administration of heparan N-sulfatase in
+juvenile cynomolgus monkeys. Drug Deliv Transl Res 2,187 –200.
+Platini, C., Long, J., & Walter, S. (2006). Meningeal carcinomatosis from breast cancer
+treated with intrathecal trastuzumab. Lancet Oncol 7,778 –780.
+Quan, N., & Banks, W. A. (2007). Brain-immune communication pathways. Brain Behav
+Immun 21,727 –735.
+Rajadhyaksha, M., Boyden, T., Liras, J., El-Kattan, A., & Brodfuehrer, J. (2011). Current
+advances in delivery of biotherapeutics across the blood-brain barrier. Curr Drug
+Discov Technol 8,87 –101.
+Rennels,M.L.,Blaumanis,O.R.,&Grady,P.A.(1990).Rapid solute transport throughout
+the brain via paravascularfluid pathways. Adv Neurol 52,431 –439.
+Rennels, M. L., Gregory, T. F., Blaumanis, O. R., Fujimoto, K., & Grady, P. A. (1985).Evidence
+for a 'paravascular' fluid circulation in the mammalian central nervous system,
+provided by the rapid distribution of tracer protein throughout the brain from the
+subarachnoid space. Brain Res 326,47 –63.
+Scallan, J., Huxley, V. H., & Korthuis, R. J. (2010).The Interstitium.Capillary Fluid Exchange:
+Regulation, Functions, and Pathology (pp. 21–32). San Rafael, CA: Morgan & Claypool
+Life Sciences.
+Schouten, J. P., McElgunn, C. J., Waaijer, R., Zwijnenburg, D., Diepvens, F., & Pals, G. (2002).
+Relative quantification of 40 nucleic acid sequences by multiplex ligation-dependent
+probe amplification. Nucleic Acids Res 30,e57.
+Schouten, L. J., Rutten, J., Huveneers, H. A., & Twijnstra, A. (2002). Incidence of brain
+metastases in a cohort of patients with carcinoma of the breast, colon, kidney, and
+lung and melanoma. Cancer 94,2698 –2705.
+Skorupa, A. F., Fisher, K. J., Wilson, J. M., Parente, M. K., & Wolfe, J. H. (1999). Sustained
+production of beta-glucuronidase from localized sites after AAV vector gene transfer
+results in widespread distribution of enzyme and reversal of lysosomal storage
+lesions in a large volume of brain in mucopolysaccharidosis VII mice. Exp Neurol
+160,17 –27.
+Slamon, D. J., Leyland-Jones, B., Shak, S., Fuchs, H., Paton, V., Bajamonde, A., et al. (2001).
+Use of chemotherapy plus a monoclonal antibody against HER2 for metastatic breast
+cancer that overexpresses HER2. NEnglJMed344 ,783 –792.
+Smith, D. E., Johanson, C. E., & Keep, R. F. (2004). Peptide and peptide analog transport
+systems at the blood-CSF barrier. Adv Drug Deliv Rev 56,1765 –1791.
+Smith, I., Procter, M., Gelber, R. D., Guillaume, S., Feyereislova, A., Dowsett, M., et al.
+(2007). 2-year follow-up of trastuzumab after adjuvant chemotherapy in HER2-
+positive breast cancer: A randomised controlled trial. Lancet 369,29 –36.
+Stemmler, H. J., Schmitt, M., Harbeck, N., Willems, A., Bernhard, H., Lassig, D., et al. (2006).
+Application of intrathecal trastuzumab (Herceptin™) for treatment of meningeal carcinomatosis
+in HER2-overexpressing metastatic breast cancer. Oncol Rep 15,
+1373–1377.
+Stemmler, H. J., Schmitt, M., Willems, A., Bernhard, H., Harbeck, N., & Heinemann, V.
+(2007). Ratio of trastuzumab levels in serum and cerebrospinal fluid is altered in
+HER2-positive breast cancer patients with brain metastases and impairment of
+blood-brain barrier. Anticancer Drugs 18,23 –28.
+Stemmler, H. J., Mengele, K., Schmitt, M., Harbeck, N., Laessig, D., Herrmann, K. A., et al.
+(2008). Intrathecal trastuzumab (Herceptin) and methotrexate for meningeal carcinomatosis
+in HER2-overexpressing metastatic breast cancer: A case report.
+Anticancer Drugs 19,832 –836.
+Stroobants, S., Gerlach, D., Matthes, F., Hartmann, D., Fogh, J., Gieselmann, V., et al. (2011).
+Intracerebroventricular enzyme infusion corrects central nervous system pathology
+and dysfunction in a mouse model of metachromatic leukodystrophy. Hum Mol
+Genet 20,2760 –2769.
+Taira, T., Ueta, T., Katayama, Y., Kimizuka, M., Nemoto, A., Mizusawa, H., et al. (2013).Rate
+of complications among the recipients of intrathecal baclofen pump in Japan: A
+multicenter study. Neuromodulation 16,266 –272 (discussion 272).
+Tan, M. L., Choong, P. F., & Dass, C. R. (2010).Recentdevelopments inliposomes, microparticles
+and nanoparticles for protein and peptide drug delivery. Peptides 31,184 –193.
+Tayebati, S. K., Nwankwo, I. E., & Amenta, F. (2013).Intranasal drug delivery to the central
+nervous system: Present status and future outlook. Curr Pharm Des 19,510 –526.
+Tsai, S. Y., Markus, T. M., Andrews, E. M., Cheatwood, J. L., Emerick, A. J., Mir, A. K., et al.
+(2007).Intrathecal treatment with anti-Nogo-A antibody improves functional recovery
+in adult rats after stroke. Exp Brain Res 182,261 –266.
+Tsuji, D., Akeboshi, H., Matsuoka, K., Yasuoka, H., Miyasaki, E., Kasahara, Y., et al. (2011).
+Highly phosphomannosylated enzyme replacement therapy for GM2 gangliosidosis.
+Ann Neurol 69,691 –701.
+Vlieghe, P., & Khrestchatisky, M. (2013). Medicinal chemistry based approaches and
+nanotechnology-based systems to improve CNS drug targeting and delivery. Med
+Res Rev 33,457 –516.
+Vogler, C., Levy, B., Galvin, N. J., Thorpe, C., Sands, M. S., Barker, J. E., et al. (1999).Enzyme
+replacement in murine mucopolysaccharidosis type VII: Neuronal and glial response
+to beta-glucuronidase requires early initiation of enzyme replacement therapy.
+Pediatr Res 45,838 –844.
+Vuillemenot, B. R., Katz, M. L., Coates, J. R., Kennedy, D., Tiger, P., Kanazono, S., et al.
+(2011). Intrathecal tripeptidyl-peptidase 1 reduces lysosomal storage in a canine
+model of late infantile neuronal ceroid lipofuscinosis. Mol Genet Metab 104,325 –337.
+Wiig, H., & Swartz, M.A. (2012). Interstitial fluid and lymph formation and transport:
+Physiological regulation and roles in inflammation and cancer. Physiol Rev 92,
+1005–1060.
+Winchester, B., Vellodi, A., & Young, E. (2000). The molecular basis of lysosomal storage
+diseases and their treatment. Biochem Soc Trans 28,150 –154.
+Xu, S., Wang, L., El-Banna, M., Sohar, I., Sleat, D. E., & Lobel, P. (2011).Large-volume intrathecal
+enzyme delivery increases survival of a mouse model of late infantile neuronal
+ceroid lipofuscinosis. Mol Ther 19,1842 –1848.
+Zhao, Y. Z., Lu, C. T., Li, X. K., & Cai, J. (2013). Ultrasound-mediated strategies in opening
+brain barriers for drug brain delivery. Expert Opin Drug Deliv 10,987 –1001.
+Ziegler, R. J., Salegio, E. A., Dodge, J. C., Bringas, J., Treleaven, C. M., Bercury, S. D., et al.
+(2011). Distribution of acid sphingomyelinase in rodent and non-human primate
+brain after intracerebroventricular infusion. Exp Neurol 231,261 –271.
+122 P. Calias et al. / Pharmacology & Therapeutics 144 (2014) 114–122
+(8.0.0.2542.1976605180 PDF Extractor SDK TRIAL VERSIOn)
+

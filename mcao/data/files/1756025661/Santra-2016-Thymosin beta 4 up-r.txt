@@ -1,0 +1,2389 @@
+JOURNAL OF NEUROCHEMISTRY
+
+| 2016 | 136 | 118–132
+
+doi: 10.1111/jnc.13394
+
+,
+
+*Department of Neurology, Henry Ford Health System, Detroit, Michigan, USA
+†Department of Physics, Oakland University, Rochester, Michigan, USA
+‡Department of Emergency Medicine, Henry Ford Health System, Detroit, Michigan, USA
+
+Abstract
+Thymosin beta 4 (Tb4), a secreted 43 amino acid peptide,
+promotes oligodendrogenesis, and improves neurological
+outcome in rat models of neurologic injury. We demonstrated that exogenous Tb4 treatment up-regulated the
+expression of the miR-200a in vitro in rat brain progenitor
+cells and in vivo in the peri-infarct area of rats subjected to
+middle cerebral artery occlusion (MCAO). The up-regulation
+of miR-200a down-regulated the expression of the following
+targets in vitro and in vivo models: (i) growth factor receptorbound protein 2 (Grb2), an adaptor protein involved in
+epidermal growth factor receptor (EGFR)/Grb2/Ras/MEK/
+ERK1/c-Jun signaling pathway, which negatively regulates
+the expression of myelin basic protein (MBP), a marker of
+mature oligodendrocyte; (ii) ERRFI-1/Mig-6, an endogenous
+potent kinase inhibitor of EGFR, which resulted in activation/
+phosphorylation of EGFR; (iii) friend of GATA 2, and
+
+phosphatase and tensin homolog deleted in chromosome
+10 (PTEN), which are potent inhibitors of the phosphatidylinositol-3-kinase (PI3K)/AKT signaling pathway, and resulted
+in marked activation of AKT; and (iv) transcription factor,
+p53, which induces pro-apoptotic genes, and possibly
+reduced apoptosis of the progenitor cells subjected to
+oxygen glucose deprivation (OGD). Anti-miR-200a transfection reversed all the effects of Tb4 treatment in vitro. Thus,
+Tb4 up-regulated MBP synthesis, and inhibited OGDinduced apoptosis in a novel miR-200a dependent EGFR
+signaling pathway. Our ﬁndings of miR-200a-mediated protection of progenitor cells may provide a new therapeutic
+importance for the treatment of neurologic injury.
+Keywords: AKT, epidermal growth, microRNA, myelin basic
+protein, progenitor cells, thymosin beta 4.
+J. Neurochem. (2016) 136, 118–132.
+
+Thymosin b4 (Tb4) is a secreted 43-amino acid G-actin
+sequestering peptide (Goldstein et al. 1966) which regulates
+the cellular actin-cytoskeleton and cell migration (Sanders
+et al. 1992; Huff et al. 2001). Tb4 has multiple biologic
+functions including inhibiting inﬂammation and promoting
+regeneration in both dermal and cardiac injury models
+(Goldstein et al. 2005). In addition, Tb4 induces differentiation of oligoprogenitor cells (OPC) into mature myelin
+secreting oligodendrocytes in vitro and in vivo in experimental animal models of multiple sclerosis (MS), embolic
+stroke and traumatic brain injury (TBI) (Zhang et al. 2009;
+Morris et al. 2010a; Xiong et al. 2010; Santra et al. 2012,
+2014). In all three animal models, Tb4 treatment improves
+functional outcome. This improvement may in-part be
+attributed to migration of OPCs toward the site of injury
+
+and the differentiation of OPCs which remyelinates injured
+axons (Jiang et al. 2006; Menn et al. 2006; Aguirre et al.
+2007; Morris et al. 2010a; Zhang et al. 2010a,b, 2013a,b).
+Neurorestorative therapies, including Tb4 for stroke, regulate
+
+118
+
+Received June 11, 2015; revised manuscript received September 27,
+2015; accepted October 5, 2015.
+Address correspondence and reprint requests to Manoranjan Santra,
+Department of Neurology, Henry Ford Health System, Detroit, MI
+48202, USA. E-mail: santra@neuro.hfh.edu
+Abbreviations used: 30 UTR, 30 untranslated region; EGFR, epidermal
+growth factor receptor; FOG2, friend of GATA 2; Grb2, growth factor
+receptor-bound protein 2; MBP, myelin basic protein; NPC, neuroprogenitor cell; OGD, oxygen glucose deprivation; OPC, oligoprogenitor
+cells; PI3K, phosphatidylinositol-3-kinase; PTEN, phosphatase and
+tensin homolog deleted in chromosome 10; Tb4, thymosin beta 4.
+
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 118--132
+
+Thymosin beta 4 up-regulates miR-200a
+
+multiple molecular mechanisms during the recovery phase of
+neurologic injury. These molecular mechanisms are involved
+in remodeling of the injured brain via angiogenesis, neurogenesis, and axonal and dendritic plasticity, and thereby
+enhance neurologic recovery (Zhang and Chopp 2009;
+Morris et al. 2010b). To aid in the translation of
+neurorestorative therapies to the clinical for stroke, it is
+important to elucidate the molecular mechanisms that
+regulate neurologic recovery.
+The adult subventricular zone (SVZ) normally produces
+neuroprogenitor cells (NPCs) and OPCs. Stroke increases
+production of newborn NPCs and OPCs of which very few
+survive (Arvidsson et al. 2002; Zhang et al. 2013b).
+Increasing the survival of newborn NPCs and OPCs, and
+their differentiation into neurons and oligodendrocytes,
+respectively, may be a therapeutic approach for the treatment
+of diseases associated with ischemic brain injuries. Increasing evidence suggests that the microRNAs (e.g., miR-200,
+124a, 133b, 17–92 cluster, 29a, and 146a) regulate proliferation and differentiation of adult NPCs and OPCs (Lee
+et al. 2010; Liu et al. 2011, 2013a,b; Rink and K. 2011;
+Ouyang et al. 2013, 2014; Xin et al. 2013; Zhang et al.
+2013c; Santra et al. 2014; Wang et al. 2014). Based on
+Agilent Mouse microRNA Microarray analysis of ischemic
+mouse brain tissue samples, the miR-200 family (miR-200a,
+miR-200b, miR-200c, miR-141, and miR-429) members
+(miR-200) show the best neuroprotective effect against
+oxygen glucose deprivation (OGD) among the microRNAs
+(Lee et al. 2010). In addition, NPCs undergo apoptosis in the
+absence of miR-200 in mouse and zebra ﬁsh brain (Choi
+et al. 2008).
+Our previous data demonstrated that Tb4 treatment
+induces myelin basic protein (MBP) synthesis, and differentiation of OPCs into oligodendrocytes, by up-regulating
+p38 MAPK in the cells isolated from the SVZ, and in a
+miR-146a dependent pathway in an OPC cell line-N20.1a
+and primary OPCs (Santra et al. 2012, 2014). Enhanced
+epidermal growth factor receptor (EGFR) signaling induces
+remyelination of axons of injured neurons, and increases
+migration of newly generated NPCs from the SVZ to the
+olfactory bulb (OB) via the rostral migratory stream
+(Aguirre et al. 2005, 2007; Adam et al. 2009). The miR200 family members are highly expressed in the OB and are
+required for terminal differentiation of NPCs (Choi et al.
+2008). The miR-200 not only induces terminal differentiation of NPCs in the OB, but also induces neuronal
+differentiation in neuronal stem cells and in a PC-12 cell
+line (Pandey et al. 2015). Based on TargetScan analysis
+(http://www.mirbase.org), we identiﬁed multiple target
+sequences for the miR-200 in adaptor and mediators of
+the EGFR signaling, e.g., Mig-6/ERRFI-1, growth factor
+receptor-bound protein 2 (Grb2), friend of GATA 2
+(FOG2), phosphatase and tensin homolog deleted in chromosome 10 (PTEN). We therefore sought to investigate the
+
+119
+
+effect of Tb4 treatment on miR-200 in the regulation of
+EGFR expression, and EGFR signaling.
+In this study, we investigated the molecular mechanism of
+Tb4-mediated differentiation of OPCs into myelinating
+mature oligodendrocytes and their protection from OGDmediated apoptosis. We found that Tb4-enhanced EGFR
+signaling in a miR-200a dependent pathway in progenitor
+cells. Tb4 treatment (in vitro and in vivo) up-regulated
+miR-200a, and down-regulated the known targets of miR200a, e.g., ERRFI-1/Mig-6, Grb2, FOG2, PTEN, and p53,
+which were involved in MBP synthesis, AKT activation, cell
+survival, and protection of progenitor cells from OGDinduced cell death. Up-regulation of miR-200a after Tb4
+treatment induced oligodendrogenesis in a cell culture model
+under condition of OGD. Our ﬁndings of an important role of
+miR-200a in mediating progenitor cell and oligodendrocyte
+protection may provide a new therapeutic target for the
+treatment of neurologic injury.
+
+Materials and methods
+All animal experiments were performed according to protocols
+approved by the Henry Ford Hospital Institutional Animal Care and
+Use Committee.
+Middle cerebral artery occlusion
+Male Wistar rats (300–400 g) purchased from Charles River
+Breeding Company (Wilmington, MA, USA), were anesthetized
+with 1.0–2.0% isoﬂurane in 70% N2O and 30% O2 using a face
+mask. Right MCAO was performed according to a modiﬁed
+protocol of intraluminal vascular occlusion established in our
+laboratory (Santra et al. 2006a,b).
+Isolation of neuroprogenitor cells from SVZ
+The SVZ of the adult male Wistar rat (Charles river Breeding
+company), was examined under a microscope (Olympus BX40;
+Olympus Optical, Tokyo, Japan) and was surgically dissected
+according to methods previously described (Santra et al. 2006a,b).
+SVZ cells were dissociated and cultured in neurosphere growth
+medium containing EGF and basic ﬁbroblast growth factor (20 ng/
+mL), as previously described (Santra et al. 2006a,b). The generated neurospheres were passed by mechanical dissociation and
+reseeded as single cells at a density of 104 cells/cm2 in EGFcontaining media. Passage 2 and 3 neurospheres were used in this
+study.
+Preparation of primary rat embryonic oligodendrocyte progenitor
+cells
+Primary rat embryonic oligodendrocyte progenitor cells were
+isolated and prepared according to the method of Chen et al.
+(2007). Brieﬂy, on embryonic day 17, the rat embryos were
+removed from a pregnant Wistar rat in a laminar ﬂow hood. The
+cortices were dissected and dissociated with 0.01% trypsin and
+DNase at 37°C for 15 min followed by platting with Dulbecco’s
+modiﬁed Eagle’s medium containing 20% fetal bovine serum in
+poly-D-lysine coated T75 cell culture ﬂasks (~ 107/ﬂask) for 10 days.
+
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 118--132
+
+120
+
+M. Santra et al.
+
+These conﬂuent cells were shaken at 200 rpm at 37°C for 1 h to
+remove microglial cells in the medium and further shaken at
+200 rpm at 37°C for 12 h to collect OPCs in the medium. The
+collected OPCs from medium were cultured in poly-D, L-ornithinecoated Petri dishes at a cell density of 104 per/cm2 with OPC
+medium containing platelet derived growth factor and basic
+ﬁbroblast growth factor (10 ng/mL).
+Tb4 treatment
+The cells (102 cells/cm2) were treated with 0, 25, or 50 ng/mL of
+Tb4 (RegeneRx Biopharmaceuticals Inc, Rockville, MD, USA) for
+7 days. For the treatment with kinase inhibitors, the cells were pretreated EGFR speciﬁc inhibitor-AG-1478 at the dose of 1–3 nM
+(Calbiochem, San Diego, CA, USA) for 20–30 min before the
+addition of Tb4 into the medium, as previously described
+(Moscatello et al. 1998). For in vivo treatment in rats, Tb4
+(12 mg/kg) was intraperitoneally injected 24 h after MCAO. The
+injection was continued every 3 days for four additional doses
+(12 mg/kg), as previously reported (Morris et al. 2014).
+Transfection
+The cells (106) were mixed with 1 lg plasmid DNA or 100 pmol of
+siRNA/oligo nucleotides and pulsed according to the manufacturer’s instruction. The transfected cells were immediately plated
+into Petri dishes with Dulbecco’s modiﬁed Eagle’s medium
+containing 1% fetal bovine serum and incubated at 37°C for
+2 days. A random mixture of oligonucleotides (Ambion, Grand
+Island, NY, USA) was used as a scrambled oligo control (Izadi
+et al. 2007) for both transfections with Tb4siRNA (Santa Cruz
+Biotechnology, Dallas, TX, USA) and anti-miRTM miRNA inhibitors for miR-200a, -200b, -200c, -429, and -141 (Applied Biosystem, Grand Island, NY, USA). The cells were transfected with the
+anti-miRTM miRNA inhibitors for miR-200a, -200b, -200c, -429,
+and -141 according to manufacturer’s protocol (Applied Biosystem)
+in order to knock-down the expression of miR-200a, -200b, -200c, 429, and -141. The control lentiviral vector without insert was used
+as a mock transfected control for miR-200 expression vector
+transfection. In order to over-express miR-200, the cells were
+transfected with lentiviral vector of miR-200 cluster genes, e.g.,
+Lenti-miR-200b-200a-429 and Lenti-miR-200c-141 (addgene;
+Cambridge, MA, USA), as previously reported (Gregory et al.
+2008; Santra et al. 2008).
+Quantification of mature miRNAs by real-time qrtPCR
+The cDNA for each miRNA and TaqMan assay were performed in
+triplicate according to the manufacturer’s protocol speciﬁed in
+Applied Biosystems ViiATM 7 Real-Time PCR System (Applied
+Biosystem), as previously described (Santra et al. 2014). Brieﬂy,
+total RNA was isolated with TRIzol (Qiagen, Valencia, CA, USA).
+The microRNA cDNA was performed by individual reverse
+transcription in the following thermal cycle 16°C for 30 min,
+42°C for 30 min, 85°C for 5 min, and then held at 4°C for TaqMan
+assays. TaqMan assay was performed in 20 lL TaqMan real-time
+PCR reactions. All values were normalized to U6 snRNA TaqMan
+miRNA control assay (Applied Biosystem), as the endogenous
+control. Values obtained from three independent experiments were
+analyzed relative to gene expression data using the 2ΔΔCT method
+(Livak and Schmittgen 2001).
+
+Quantitative analysis of western blot
+Total protein extracts from the cells were prepared, as previously
+described (Santra et al. 2011). The protein extracts were separated
+by sodium dodecyl sulfate–polyacrylamide gel electrophoresis for
+western blot analysis. For western blot analysis, rabbit antiserum for
+MBP (1 : 200; Dako, Carpinteria, CA, USA), monoclonal antibodies (1 : 500) for EGFR and phosphorylated EGFR; monoclonal
+antibodies (1 : 1000) for phosphorylated ERK1, c-JUN, and FOG2
+(Santa Cruz Biotechnology); rabbit polyclonal antibodies (1 : 500)
+for Grb2, Mig-6, Pten, p53 (Cell Signaling Technology, Danver,
+MA, USA), and mouse monoclonal a-tubulin antibodies (1 : 5000;
+Sigma, St Louis, MO, USA) were used. Donkey anti-goat, antirabbit, and anti-mouse horseradish peroxidase (1 : 5000; Jackson
+ImmunoResearch Labs, West Grove, PA, USA) were used as
+secondary antibodies. Each experiment was repeated at least ﬁve
+times. The protein bands were quantiﬁed based on histogram
+analysis relative to gel loading marker a-tubulin at least ﬁve
+independent experiments.
+Statistical analysis
+Data were summarized using mean and standard deviation. To
+compare the differences between cell cultures with Tb4 treatment
+and without, a one-sample t-test or a two-sample t-test was used. For
+the comparisons of qrtPCR of mRNA/glyceraldehyde-3-phosphate
+dehydrogenase (GAPDH), and qrtPCR of miRNA/U6, controls were
+normalized to 1, so that one-sample t-test was used for analysis. To
+compare the percentage of positive stained cells out of the total
+number of cells between Tb4 treatment and control, a two-sample ttest was used. p-value < 0.05 was considered signiﬁcant.
+
+Results
+To examine cell survival of newborn SVZ progenitor cells
+after stroke, we isolated and cultured progenitor cells as
+neurospheres from the SVZ of adult rats, subjected to
+MCAO for 7 days. Since MCAO stimulates newly generated progenitor cells which are vulnerable to ischemic
+insults (Zhang et al. 2001, 2004a,b, 2010b, 2011, 2012,
+2013b; Arvidsson et al. 2002), we utilized these progenitor
+cells (cultured as neurospheres) from the SVZ of adult
+rats, subjected to MCAO for 7 days in all the following
+experiments. Additionally, normal rat embryonic primary
+OPCs (Santra et al. 2012, 2014) were also employed to
+determine OPC differentiation into oligodendrocytes and
+their survival from OGD in subsequent experiments. We
+sought to investigate whether Tb4 treatment protects
+newly generated SVZ progenitor cells from OGD insult
+and the molecular mechanisms underlying this neuroprotection.
+Tb4 treatment up-regulates expression and
+phosphorylation/activation of EGFR in rat SVZneurospheres/progenitor cells and primary OPCs
+To determine the effect of Tb4 on EGFR expression, the
+neurospheres were cultured from the SVZ of adult rats
+(n = 5), subjected to MCAO for 7 days, and primary
+
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 118--132
+
+Thymosin beta 4 up-regulates miR-200a
+
++
+
++
+
+0 0
+
+1
+
+2
+
+MBP-
+
+-tubulin-
+
++
+
++
+
+0
+
+*
+
++
+
+.0
+5
+
+#
+
+miR-429
+
+<0
+
+20
+
++p
+
+30
+
++
+
++
+
+#
+
+n=3
+
+Mig-6
+
+*
+
+** **
+
+0.0
+0.6
+
+**
+
+**
+
+*p<0.01, **p<0.001
+
+0.5
+
+n=5
+
+0.4
+0.3
+
+*
+
+0.2
+
+*
+
+0.1
+
+**
+
+0.0
+
+**
+
+**
+
+*p<0.05
+
+**
+
+Oligo control
+
++ –
+
++
+
+–
+
+Mig-6siRNA
+
+– +
+
+–
+
++
+
+50
+
+100
+
+0
+
+-tululinT 4 (ng/mL):
+
+25
+
+*p<0.05
+
+.0
+#p
+<0
+
++
+
+10
+
+*
+
+0.4
+
+Mig-6-
+
+#
+
+1
+
+#
+
+n=5
+
+0.8
+
+50
+
+miR-200b
+
+n=3
+
+*
+
+OPCs
+
+*p<0.01, **p<0.001
+
+1.2
+
+100
+
++
+
+miR-200a
+
+miR-200a/U6
+Relative
+to control
+
+0
+
+*
+
+50
+
+In vivo
+
+#
+
+01
+
++
+
+0
+60
+
+OPCs
+
+Neurospheres
+
+Mig-6P-EGFR-
+
+*
+
+MBP-tubulin-
+
+Neurospheres
+
+OPCs
+
+0
+
+0
+25
+50
+100
+
+(ng/mL)
+
+– +
+
+2
+
+(e)
+.
+<0
+*p
+
++
+
+10
+
+T 4
+
++
+
+Neurospheres
+
+#
+
+10
+
+**
+
+miR-200a
+
+*
+
+25
+50
+100
+
+miR-200/U6 relative to control
+
+50
+
+**
+
+0 1
+
+In vitro
+n=5
+
+*
++ +
+
+Mig-6 mRNA/
+GAPDH Relative
+to control
+
+60
+
+n=5
+
+AG-1478 (nM) 0
+
+OPCs
+
+0
+
+(d)
+
+*
+
+5
+
+**
+
+(c)
+
+0
+
+0
+
+Neurospheres
+
+*p<0.0001
+**p<0.001
+
+0
+T 4 (50 ng/mL) –
+
+25
+50
+100
+
+0
+P-EGFREGFR-tubulinT 4 (ng/mL):
+
+*
+
+*
+
+*
+
+25
+
++
+
+2
+
+*
+
+*
+
+120
+110
+100
+90
+10
+
+EGFR signaling is required for MBP synthesis and OPC
+differentiation into mature oligodendrocytes
+To determine the involvement of EGFR signaling in OPC
+differentiation into mature oligodendrocyte, EGFR signaling
+was blocked by tyrphostin AG-1478, a speciﬁc pharmaceutical inhibitor of EGFR kinase (Moscatello et al. 1998). To
+examine Tb4-mediated OPC differentiation, a potent marker
+of mature oligodendrocyte, MBP was measured (Santra et al.
+2012, 2014) in rat SVZ-neurospheres and primary OPCs
+
+Mig-6 mRNA/
+GAPDH relative
+to control
+
++p
+<0
+
+4
+
+(b)
+
+*p<0.01
+
+signaling was involved in Tb4-mediated OPC differentiation
+into mature oligodendrocyte.
+
+Relative Histogram
+/ -tubulin
+
+.05
+
+** **p<0.001
+
+0
+25
+50
+100
+
+Histogram
+of P-EGFR/
+total EGFR
+
+(a)
+
+MBP mRNA/
+GAPDH relative
+to control
+
+embryonic OPCs were isolated from the embryos of pregnant
+Wistar rats (n = 5). These neurospheres and OPCs were
+treated with 0, 25, 50 and 100 ng/mL Tb4 for 7 days in ﬁve
+independent experiments. The qrtPCR and western blot data
+revealed that Tb4 treatment signiﬁcantly up-regulated EGFR
+expression and its phosphorylation at mRNA and protein
+levels in a dose-dependent manner (Fig. 1a and Figure S1a
+and b). These data demonstrated that Tb4 treatment induced
+EGFR signaling. Since EGFR signaling enhances OPC
+differentiation into mature oligodendrocyte (Doetsch et al.
+2002; Aguirre and G. 2007; Aguirre et al. 2007, 2010;
+Scaﬁdi et al. 2014), we investigated whether EGFR
+
+121
+
+Neurospheres OPCs
+Fig. 1 Thymosin beta 4 (Tb4) treatment induces EGFR phosphorylation/activation and the expression of myelin basic protein (MBP),
+Mig-6 and miR-200. (a) Quantitative histogram analysis of western
+blot for phosphorylation of EGFR (P-EGFR) in the adult rat subventricular zone (SVZ)-neurospheres/progenitor cells (Neurospheres) and
+rat embryonic primary OPCs (OPCs) after the treatment with Tb4 (0–
+100 ng/mL) in ﬁve independent experiments (n = 5). (b) Treatment
+with EGFR speciﬁc inhibitor, AG1478, reversed Tb4-induced MBP
+expression measured by qrtPCR and western blot analysis. (c) Mig-6
+expression were analyzed by qrtPCR (top) and western blot which
+were quantiﬁed by histogram analysis (bar-graph) in photoshop after
+the treatment with different dose of Tb4; and by western blot after
+
+transfection with scrambled oligo control (oligo control), and Mig6siRNA, in the adult rat SVZ-neurospheres/progenitor cells (Neurospheres) and primary rat embryonic OPCs (OPCs), in ﬁve independent experiments (n = 5). Loading of the samples were normalized
+with a-tubulin. The mature miR-200 was analyzed in vitro (d) in the
+adult rat SVZ-neurospheres/progenitor cells (Neurospheres) and
+primary rat embryonic OPCs (OPCs) in ﬁve independent experiments
+(n = 5); and mature miR-200a and Mig-6 mRNA were analyzed
+in vivo (e) in normal rats and rats subjected to middle cerebral artery
+occlusion (MCAO) treated with/without Tb4 (12 mg/kg; n = 3). The pvalue < 0.05, was considered, as signiﬁcance difference. OPCs,
+oligoprogenitor cells.
+
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 118--132
+
+122
+
+M. Santra et al.
+
+after the treatment with 50 ng/mL Tb4 with/without AG1478 for 7 days. The qrtPCR and western blot data revealed
+that Tb4 treatment markedly up-regulated mRNA and
+protein levels of MBP. In contrast, AG-1478 treatment
+reversed this Tb4 effect on up-regulation of MBP (Fig. 1b).
+Since AG-1478 is a speciﬁc inhibitor of EGFR kinase
+(Moscatello et al. 1998), AG-1478-induced inhibition of
+MBP synthesis indicated that EGFR signaling was required
+for Tb4-mediated MBP synthesis. In addition to the pharmaceutical inhibitor, AG-1478, the endogenous cytoplasmic
+protein, Mig-6/ERRFI-1/Gene-33, speciﬁcally inhibits EGFR
+kinase (Xu et al. 2005, 2006; Zhang et al. 2007; Descot
+et al. 2009). To examine molecular mechanism of Tb4mediated EGFR signaling, we therefore investigated the
+expression of Mig-6 after Tb4 treatment.
+Tb4 treatment down-regulates Mig-6 expression in rat SVZ
+progenitor cells and OPCs
+To determine the effect of Tb4 treatment on the expression
+of Mig-6, rat SVZ-neurospheres and OPCs were treated
+with Tb4 at the dose of 0, 25, 50, and 100 ng/mL for
+7 days. The qrtPCR and western blot revealed that Tb4
+treatment down-regulated Mig-6 expression in a dosedependent manner at mRNA and protein levels (Fig. 1c).
+To determine whether Mig-6 expression regulates EGFR
+phosphorylation and MBP expression, we transfected rat
+SVZ-neurospheres and OPCs with Mig-6siRNA. The
+transfection efﬁcacy was determined by qrtPCR (Figure S1c). The western blot data revealed that Mig-6siRNA
+transfection up-regulated both EGFR phosphorylation and
+MBP synthesis (Fig. 1c at bottom). These data indicated
+that Mig-6 expression was involved in MBP synthesis. The
+30 untranslated region (30 -UTR) of Mig-6 is a direct target of
+miR-200 in urothelial cancer cells (Adam et al. 2009). We
+therefore sought to investigate whether the 30 -UTR of Mig6 is a direct target of miR-200 in rat SVZ-neurospheres and
+primary OPCs. The 30 -UTR of Mig-6 pmiR-GLO construct
+and the mutated/mismatched miR-200 target site in 30 -UTR
+of Mig-6 pmiR-GLO construct (mutant) were generated and
+analyzed based on luciferase assay in rat SVZ-neurospheres
+and primary OPCs according to manufacturer’s protocol
+(Promega Corporation, Madison, WI, USA), as described in
+Appendix S1. The transfection efﬁciencies for over-expression (> 10 fold) and knock-down (> 5 fold) of miR-200
+family members were determined by qrtPCR (Figure S2),
+and utilized for all the following experiments. The 30 -UTR
+of Mig-6 pmiR-GLO construct transfection markedly
+reduced luciferase activity which was signiﬁcantly reversed
+after anti-miR-200a transfection or anti-miR-200b or antimiR-200c. In contrast, mutated 30 -UTR of Mig-6 pmiRGLO construct transfection had no effect on luciferase
+activity (Figure S3). The co-transfection of Lenti-miR-200b200a-429 or Lenti-miR-200c-141 with 30 -UTR of Mig-6
+pmiR-GLO construct markedly augmented luciferase
+
+activities. In contrast, co-transfection of Lenti-miR-200b200a-429 or Lenti-miR-200c-141 with mutated 30 -UTR of
+Mig-6 pmiR-GLO construct had no effect on luciferase
+activities (Figure S3). These data indicate that 30 -UTR of
+Mig-6 is a direct target of miR-200a, -200b and -200c in rat
+SVZ-neurospheres and primary OPCs. We therefore investigated whether Tb4 treatment affects the expression of the
+miR-200 family.
+Tb4 treatment induces expression of miR-200a in vitro in
+rat SVZ progenitor cells and embryonic primary OPCs, and
+in vivo in rats subjected to MCAO
+To examine the effect of Tb4 treatment on expression of
+miR-200 family members, rat SVZ-neurospheres and
+primary OPCs were treated with Tb4 at the dose of 0, 25,
+50 and 100 ng/mL for 7 days. The qrtPCR data revealed
+that Tb4 treatment markedly up-regulated miR-200a, miR200b and miR-429 in vitro in a dose-dependent manner
+(Fig. 1d), but rarely affected miR-200c and miR-141 (data
+not shown). These data indicate that Tb4 treatment upregulated miR-200b-a-429 cluster gene, but not miR-200c141 cluster gene. These data were also consistent with
+in vivo up-regulation of miR-200a level in rats subjected to
+MCAO after Tb4 (12 mg/kg) treatment (Fig. 1e), as
+described in Supplementary Methods. In contrast, Tb4
+(12 mg/kg) treatment had no effect on the expression level
+of miR-200b, -200c, -429 and -141 (data not shown). Tb4
+(12 mg/kg) treatment, not only up-regulated miR-200a
+expression, but also down-regulated in vivo mRNA expression of miR-200 target Mig-6 (Fig. 1e bottom). However,
+MCAO had no effect on Mig-6 expression (Fig. 1e bottom).
+These data indicate that in vivo up-regulation of miR-200a
+level may activate EGFR signaling in vivo. However, the
+molecular mechanism how Tb4 induces miR-200 expression is unknown. From genomic DNA of human chromosome-1 or mouse chromosome-4, a single tricistronic
+primary microRNA cluster gene encoding miR-200b, miR200a and miR-429 (Figure S4a) and, from genomic DNA of
+human chromosome-12 or mouse chromosome-6, another
+single bicistronic primary microRNA cluster gene encoding
+miR-200c and miR-141(Figure S4b), are transcribed by
+RNA polymerase II (Tr€
+umbach and P. 2015). The miR200b-a-429 cluster gene resides within an intergenic region
+that has an enhancer located approximately 5.1 kb upstream
+of the miR-200b-a-429 transcriptional start site (Attema
+et al. 2013). This enhancer recruits sequence-speciﬁc transcription factors, and inﬂuences transcription of miR-200ba-429 cluster gene, may be regulated by Tb4 (Figure S4a).
+In contrast, this enhancer may be missing in the promoter of
+primary miR-200b-a-429 cluster gene (Figure S4b). However, further investigations are necessary to determine
+whether Tb4 regulates directly transcription of mir-200ba-429 cluster gene or indirectly regulates miRNA maturation on a post-transcriptional level.
+
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 118--132
+
+Thymosin beta 4 up-regulates miR-200a
+
+Transfection with miR-200b-a-429 cluster gene enhances
+EGFR signaling and MBP synthesis
+As Tb4 up-regulated miR-200a, b and 429, we hypothesized
+that miR-200 targets and reduces expression of Mig-6, a
+potent inhibitor of EGFR phosphorylation, and enhances
+EGFR signaling. To test this hypothesis, we transiently
+transfected rat SVZ-neurospheres, and primary OPCs, with
+one genomic cluster of miR-200 (e.g., miR-200b-200a-429)
+expression vector (pLenti4.1EX), in order to over-express, or
+with anti-miR-200a to knock-down miR-200a, respectively.
+The qrtPCR and western blot data demonstrated that the
+miR-200b-a-429 cluster transfection markedly up-regulated
+MBP at the mRNA and protein levels, along with decreasing
+Mig-6 protein level and increasing EGFR phosphorylation in
+rat SVZ-neurospheres, and primary OPCs (Fig. 2a). To
+determine speciﬁcity of MBP antibody, whole blots were
+examined (Figure S5). These data conﬁrmed that MBP
+
+(a)
+
+MBP mRNA/GAPDH
+relative to control
+
+*p<0.001
+
+(c)
+
+n=5
+
+T 4 (50 ng/mL)
+
+*
+
+Anti-miR-200a
+
+*
+
+140
+
+antibody strongly recognized MBP bands based on
+molecular size (~ 15 kDa) in rat SVZ-neurospheres, and
+primary OPCs (Figure S5). These data indicated that miR200b-a-429 cluster transfection targeted Mig-6, increased
+EGFR phosphorylation and induced MBP synthesis and
+oligodendrocyte differentiation.
+To determine whether expression of miR-200a was
+required for Tb4-mediated MBP synthesis, we transfected
+Tb4 (50 ng/mL) treated cells (SVZ-neurospheres and OPCs)
+with anti-miR-200a. Western blot analysis showed that antimiR-200a transfection reversed the Tb4 effect on EGFR
+phosphorylation and MBP synthesis (Fig. 2b). These data
+indicated that Tb4 induced MBP synthesis in a miR-200a
+dependent EGFR signaling pathway. However, enhanced
+EGFR signaling usually activates or phosphorylates ERK1
+leading to activation/phoshorylation of a transcription factor,
+c-Jun, a potent inhibitor of MBP promoter (Daub et al. 1996;
+
+(b)
+
+Neurospheres OPCs
+
+120
+
+– + +
+– – +
++ + –
+
+Oligo control
+P-EGFR-
+
+100
+4
+3
+2
+1
+0
+
+123
+
+– + +
+– – +
++ + –
+
+T 4 (50 ng/mL)
+miR-200b-a-429
+Plasmid control
+P-ERK1-
+
+MBP-
+
+– – + –
++ – – +
+– + + –
+
+P-c-Jun-tubulin-
+
+-tubulin-
+
+MBP-
+
+Neurospheres OPCs
+
+P-EGFR-
+
+– +
+– –
++ +
+
+Neurospheres OPCs
+
+Mig-6-tubulin-
+
+(e)
+
+Grb2 mRNA/GAPDH
+relative to control
+
+(d)
+
+n=5
+
+30
+
+*p<0.001
+
+*
+
+20
+
+1
+
+3
+
+4
+
+5
+
+6
+
+7
+
+1
+
+2
+
+3
+
+4
+
+5
+
+* *
+
+*
+
+10
+
+2
+
+6
+
+7
+
+-Grb2
+-P-ERK1
+
+1.0
+
+-P-c-Jun
+
+0.5
+
+* * *
+1
+
+2
+
+3
+
+4
+
+5
+
+-MBP
+
+* * *
+
+0.0
+
+6
+
+Neurospheres
+
+7
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+- -tubulin
+
+7
+
+OPCs
+
+Fig. 2 Transfection with miR-200b-a-429 cluster enhances EGFR
+signaling and myelin basic protein (MBP) synthesis, and inhibits
+growth factor receptor-bound protein 2 (Grb2) synthesis and ERK1
+phosphorylation (a) The qrtPCR and western blot analysis, after
+transfection with plasmid control, and miR-200b-a-429 cluster
+expression vector (miR-200b-a-429); (b) Western blot analysis after
+treatment with/without thymosin beta 4 (Tb4) and transfection with
+scrambled oligo control (oligo control), and with anti-miR-200a; (c)
+Western blot analysis of plasmid control transfected cells followed
+
+Neurospheres
+
+OPCs
+
+by treatment with/without Tb4, and miR-200b-a-429 cluster transfected cells; and, the qrtPCR (d) and western blot (e) analysis in
+seven samples (shown at the top of the gel) were performed in the
+adult rat subventricular zone neurospheres/progenitor cells (Neurospheres) and primary rat embryonic OPCs (OPCs) in the ﬁve
+independent experiments (n = 5). Loading of the samples for all
+western blot analysis is normalized with a-tubulin. The p-value
+< 0.05 was considered as signiﬁcantly different. OPCs,
+oligoprogenitor cells.
+
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 118--132
+
+M. Santra et al.
+
+Santra et al. 2012, 2014). We therefore investigated whether
+miR-200b-a-429 cluster transfection induces phosphorylation
+of ERK1 in rat SVZ-neurospheres, and primary OPCs.
+Western blot data revealed that miR-200b-a-429 cluster
+transfection surprisingly down-regulated phosphorylation of
+ERK1 and c-Jun (Fig. 2c). Tb4 (50 ng/mL) treatment also
+consistently suppressed phosphorylation of ERK1 and c-Jun
+(Fig. 2c), as previously reported (Santra et al. 2012, 2014).
+These data suggested that miR-200a may target any of the
+adaptors or mediators of EGFR signaling. We therefore
+investigated TargetScan database (http://www.mirbase.org)
+of miR-200a for the adaptor and mediators, which drive
+EGFR/Grb2/ERK signaling pathway.
+Transfection with miR-200b-a-429 cluster inhibits
+phosphorylation of ERK1 after targeting Grb2, a key adaptor
+for EGFR/Grb2/Ras/ERK1 signaling pathway
+Based on TargetScan database (http://www.mirbase.org), we
+found that 30 -UTR of Grb2 was direct target of miR-200a.
+The direct target of miR-200a for Grb2 has been previously
+conﬁrmed in HEK293T cells (Liu et al. 2013c). The rat
+SVZ-neurospheres and primary OPCs were therefore transfected with the miR-200b-200a-429 cluster, and treated with
+Tb4 treatment (50 ng/mL). The qrtPCR and western blot
+analysis revealed that transfection and treatment alone, and
+combined transfection with treatment markedly down-
+
+(a)
+
+regulated Grb2 expression at the mRNA and protein levels,
+and inhibited phosphorylation of ERK1 and c-Jun, but upregulated MBP (Fig. 2d and e). In contrast, Tb4siRNA or
+anti-miR-200a transfection reversed the effect of miR-200b200a-429 cluster transfection, and Tb4 treatment (50 ng/mL)
+on Grb2 expression, phosphorylation of ERK1 and c-Jun,
+and MBP expression (Fig. 2d and e). These data are also
+consistent with the previous data of miR-200a transfection
+which targets Grb2 in mouse embryonic stem cells (Liu et al.
+2013c). These data are also consistent with our previous
+results on induction of OPC differentiation into oligodendrocyte after reduction in phosphorylation of ERK1 and cJun (Santra et al. 2012, 2014). Inhibition of ERK1 signaling
+enhances the EGFR/phosphatidylinositol-3-kinase (PI3K)/
+AKT signaling pathway (Gan et al. 2010). We therefore
+investigated the effect of Tb4 on AKT activation in the
+EGFR/PI3K/AKT signaling pathway.
+Tb4 treatment activates AKT in miR-200a dependent
+pathway
+To determine the effect of Tb4 treatment on AKT activation,
+the rat SVZ-neurospheres and primary OPCs were treated
+with Tb4 at the dose of 0, 25, 50 and 100 ng/mL for 7 days.
+Western blot data demonstrated that Tb4 treatment induced
+activation/phosphorylation of AKT in a dose-dependent
+manner (Fig. 3a and b). In contrast, anti-miR-200a
+
+(b)
+0 100
+
+50 25
+
+0 100 50 25 T 4 (ng/mL)
+
+-P-AKT
+-total AKT
+- -tubulin
+Neurospheres
+
+Histogram of
+Phospho-AKT/
+total AKT
+
+124
+
+7
+6
+
+* *p<0.001
+
+n=5
+
+**p<0.01
++p<0.05
+
+5
+4
+2
+1
+
+**
++
+
+OPCs
+
+T 4 (ng/mL) 0 25 50 100 0 25 50 100
+
+(d)
++
++
+-
+
++
+-
+
++
++
+
++
++
+-
+
+P-AKTtotal AKT-
+
+6.0
+5.0
+
+OPCs
+
+Fig. 3 Thymosin beta 4 (Tb4) treatment induces activation/phosphorylation of AKT. (a) Western blot analysis after the treatment with
+Tb4 at different doses for AKT and AKT phosphorylation (P-AKT);
+(b) Quantitative histogram analysis of the AKT phosphorylation/
+activation from western blot (a) data; (c) Western blot analysis after
+transfection with scrambled oligo control (oligo control) followed by
+treatment with/without Tb4, and anti-miR-200a; (d) Quantitative
+
+n=5
+
+*
+
+OPCs
+
+*p<0.001
+**p<0.01
+
+4.0
+
+*
+
+3.0
+0.8
+0.4
+0.0
+
+-tubulin-
+
+Neurospheres
+
+Histogram of
+Phospho-AKT/
+total AKT
+
+(c)
++
++
+
+**
+
++
+
+0
+
+Neurospheres
+
+Oligo control +
+T 4(50ng/mL) Anti-miR-200a -
+
+*
+
+**
+
+Oligo control + - +
+T 4(50ng/mL) - + +
+Anti-miR-200a - + Neurospheres
+
+**
++ - +
+- + +
+- + OPCs
+
+histogram analysis of the AKT phosphorylation/activation from
+western blot (c) data, were performed in the adult rat subventricular
+zone neurospheres/progenitor cells (Neurospheres) and primary rat
+embryonic OPCs (OPCs) in the ﬁve independent experiments
+(n = 5). Loading of the samples was normalized with a-tubulin.
+The p-value < 0.05, was considered, as signiﬁcance difference.
+OPCs, oligoprogenitor cells.
+
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 118--132
+
+Thymosin beta 4 up-regulates miR-200a
+
+transfection reversed the Tb4 effect on AKT activation
+(Fig. 3c and d). These data indicated that Tb4 treatment
+induced AKT activation in miR-200a dependent pathway,
+and suggested that miR-200a may target endogenous PI3K/
+AKT inhibitors. Two miR-200a targets, FOG2 and PTEN,
+negatively regulate PI3K/AKT pathway (Hyun et al. 2009;
+Li et al. 2014; Yang et al. 2014; Becker et al. 2015). We
+therefore examined the effect of miR-200a on the expression
+of FOG2 and PTEN, and AKT activation in the rat SVZneurospheres and primary OPCs.
+Tb4 treatment and transfection with miR-200b-a-429
+cluster down-regulate PI3K inhibitors- FOG2 and PTEN, and
+activates AKT
+To determine the effect of Tb4 treatment on the expression of
+FOG2 and PTEN, rat SVZ-neurospheres and primary OPCs
+were treated with Tb4 at the dose of 0, 25, 50 and 100 ng/mL
+for 7 days. QrtPCR and western blot data demonstrated that
+expression of FOG2 and PTEN was down-regulated in a
+dose-dependent manner in mRNA and protein levels
+(Fig. 4a, b and c). To examine the effect of miR-200a on
+the expression of FOG2 and PTEN, and AKT phosphorylation/activation, the rat SVZ-neurospheres and primary OPCs
+were transfected with miR-200b-a-429 cluster. Western blot
+data demonstrated that miR-200b-a-429 cluster transfection,
+Tb4 treatment (50 ng/mL), and miR-200b-a-429 cluster
+transfection combined with Tb4 treatment (50 ng/mL)
+down-regulated the expression of FOG2 and PTEN, but
+
+125
+
+enhanced AKT phosphorylation/activation in the rat SVZneurospheres and primary OPCs (Fig. 4d). In contrast, antimiR-200a transfection reversed the effect of Tb4 treatment
+on expression of FOG2 and PTEN, and phosphorylation/
+activation of AKT in the rat SVZ-neurospheres and primary
+OPCs (Fig. 4d). These data demonstrated that Tb4 treatment
+increased AKT activation in the rat SVZ neurospheres and
+primary OPCs after miR-200a-mediated inhibition of expression of FOG2 and PTEN. Enhanced AKT activation is
+involved in cell survival and also enhances mouse double
+minute 2 homolog (MDM2) -mediated ubiquitination and
+degradation of p53, an inducer of pro-apoptotic genes (Zhou
+et al. 2001). The miR-200a directly targets p53 which is upregulated after ischemic stroke in experimental animal
+models and triggers cell death, as previously reported (Chopp
+et al. 1992; Hong et al. 2010; Becker et al. 2012). Moreover, ischemic lesion is signiﬁcantly reduced in p53 knockout
+mice, subjected to MCAO (Crumrine et al. 1994). We
+therefore sought to investigate, whether Tb4 treatment or
+miR-200b-a-429 cluster transfection affects p53 expression
+in the rat SVZ-neurospheres and primary OPCs, and protect
+these cells from ischemic insult such as OGD.
+Tb4 treatment and miR-200b-a-429 cluster transfection
+down-regulate p53 expression
+To examine the effect of Tb4 treatment on p53 expression,
+the rat SVZ-neurospheres and primary OPCs were treated
+with Tb4 at the dose of 0, 25, 50 and 100 ng/mL for
+
+(b)
+n=5
+
+1.2
+0.8
+
+*p<0.001, **p<0.01
+
+**
+
+0.4
+
+**
+** *
+
+0.0
+
+PTEN mRNA
+/GAPDH
+relative
+to control
+
+FOG2 mRNA
+/GAPDH
+relative
+to control
+
+(a)
+
+** *
+
+0 25 50 100 0 25 50 100
+
+T 4 (ng/mL)
+
+Neurospheres
+
+- -tubulin
+
+*
+
+0 25 50 100 0 25 50 100
+
+OPCs
+
+Neurospheres
+
+OPCs
+
+PTENPhospho-AKT-
+
+Neurospheres
+
+OPCs
+
+**
+
+FOG2-
+
+-PTEN
+
+-PTEN
+
+0.0
+
+Neurospheres
+
+(d)
+
++
+
+** **
+*
+
+0.4
+
+OPCs
+
+-FOG2
+
+0 25 50 100 T 4 (ng/mL)
+-FOG2
+
+n=5
+
+0.8
+
+T 4 (ng/mL)
+
+(c) 0 25 50 100 T 4 (ng/mL)
+
+- -tubulin
+
+1.2 *p<0.001, **p<0.01, +p<0.05
+
+Total-AKT-tubulin-
+
+Oligo control
+T 4(50 ng/mL)
+anti-miR-200a
+miR-200b-a-429
+
+Fig. 4 Transfection with miR-200b-a-429 cluster reduces PI3K inhibitors- friend of GATA 2 (FOG2) and phosphatase and tensin homolog
+deleted in chromosome 10 (PTEN), and increases AKT activation. The
+qrtPCR analysis for FOG2 (a) and PTEN (b), and western blot (c) after the
+treatment with thymosin beta 4 (Tb4) at different doses; and (d) Western
+blot analysis after transfection with scrambled oligo control (Oligo control),
+
++
+-
+
++
++
+-
+
++
+
++
++
+
++
++
+-
+
++
+-
+
++
++
+-
+
++
+
++
++
+
++
++
+-
+
+anti-miR-200a and miR-200b-a-429 cluster followed by treatment with/
+without Tb4, were performed in the adult rat subventricular zone
+neurospheres/progenitor cells (Neurospheres) and primary rat embryonic
+OPCs (OPCs) in ﬁve independent experiments (n = 5). Loading of the
+samples was normalized with a-tubulin. The p-value < 0.05, was
+considered as signiﬁcantly different. OPCs, oligoprogenitor cells.
+
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 118--132
+
+Thymosin beta 4 up-regulates miR-200a
+
+transfection reversed the Tb4 effect on AKT activation
+(Fig. 3c and d). These data indicated that Tb4 treatment
+induced AKT activation in miR-200a dependent pathway,
+and suggested that miR-200a may target endogenous PI3K/
+AKT inhibitors. Two miR-200a targets, FOG2 and PTEN,
+negatively regulate PI3K/AKT pathway (Hyun et al. 2009;
+Li et al. 2014; Yang et al. 2014; Becker et al. 2015). We
+therefore examined the effect of miR-200a on the expression
+of FOG2 and PTEN, and AKT activation in the rat SVZneurospheres and primary OPCs.
+Tb4 treatment and transfection with miR-200b-a-429
+cluster down-regulate PI3K inhibitors- FOG2 and PTEN, and
+activates AKT
+To determine the effect of Tb4 treatment on the expression of
+FOG2 and PTEN, rat SVZ-neurospheres and primary OPCs
+were treated with Tb4 at the dose of 0, 25, 50 and 100 ng/mL
+for 7 days. QrtPCR and western blot data demonstrated that
+expression of FOG2 and PTEN was down-regulated in a
+dose-dependent manner in mRNA and protein levels
+(Fig. 4a, b and c). To examine the effect of miR-200a on
+the expression of FOG2 and PTEN, and AKT phosphorylation/activation, the rat SVZ-neurospheres and primary OPCs
+were transfected with miR-200b-a-429 cluster. Western blot
+data demonstrated that miR-200b-a-429 cluster transfection,
+Tb4 treatment (50 ng/mL), and miR-200b-a-429 cluster
+transfection combined with Tb4 treatment (50 ng/mL)
+down-regulated the expression of FOG2 and PTEN, but
+
+125
+
+enhanced AKT phosphorylation/activation in the rat SVZneurospheres and primary OPCs (Fig. 4d). In contrast, antimiR-200a transfection reversed the effect of Tb4 treatment
+on expression of FOG2 and PTEN, and phosphorylation/
+activation of AKT in the rat SVZ-neurospheres and primary
+OPCs (Fig. 4d). These data demonstrated that Tb4 treatment
+increased AKT activation in the rat SVZ neurospheres and
+primary OPCs after miR-200a-mediated inhibition of expression of FOG2 and PTEN. Enhanced AKT activation is
+involved in cell survival and also enhances mouse double
+minute 2 homolog (MDM2) -mediated ubiquitination and
+degradation of p53, an inducer of pro-apoptotic genes (Zhou
+et al. 2001). The miR-200a directly targets p53 which is upregulated after ischemic stroke in experimental animal
+models and triggers cell death, as previously reported (Chopp
+et al. 1992; Hong et al. 2010; Becker et al. 2012). Moreover, ischemic lesion is signiﬁcantly reduced in p53 knockout
+mice, subjected to MCAO (Crumrine et al. 1994). We
+therefore sought to investigate, whether Tb4 treatment or
+miR-200b-a-429 cluster transfection affects p53 expression
+in the rat SVZ-neurospheres and primary OPCs, and protect
+these cells from ischemic insult such as OGD.
+Tb4 treatment and miR-200b-a-429 cluster transfection
+down-regulate p53 expression
+To examine the effect of Tb4 treatment on p53 expression,
+the rat SVZ-neurospheres and primary OPCs were treated
+with Tb4 at the dose of 0, 25, 50 and 100 ng/mL for
+
+(b)
+n=5
+
+1.2
+0.8
+
+*p<0.001, **p<0.01
+
+**
+
+0.4
+
+**
+** *
+
+0.0
+
+PTEN mRNA
+/GAPDH
+relative
+to control
+
+FOG2 mRNA
+/GAPDH
+relative
+to control
+
+(a)
+
+** *
+
+0 25 50 100 0 25 50 100
+
+T 4 (ng/mL)
+
+Neurospheres
+
+- -tubulin
+
+*
+
+0 25 50 100 0 25 50 100
+
+OPCs
+
+Neurospheres
+
+OPCs
+
+PTENPhospho-AKT-
+
+Neurospheres
+
+OPCs
+
+**
+
+FOG2-
+
+-PTEN
+
+-PTEN
+
+0.0
+
+Neurospheres
+
+(d)
+
++
+
+** **
+*
+
+0.4
+
+OPCs
+
+-FOG2
+
+0 25 50 100 T 4 (ng/mL)
+-FOG2
+
+n=5
+
+0.8
+
+T 4 (ng/mL)
+
+(c) 0 25 50 100 T 4 (ng/mL)
+
+- -tubulin
+
+1.2 *p<0.001, **p<0.01, +p<0.05
+
+Total-AKT-tubulin-
+
+Oligo control
+T 4(50 ng/mL)
+anti-miR-200a
+miR-200b-a-429
+
+Fig. 4 Transfection with miR-200b-a-429 cluster reduces PI3K inhibitors- friend of GATA 2 (FOG2) and phosphatase and tensin homolog
+deleted in chromosome 10 (PTEN), and increases AKT activation. The
+qrtPCR analysis for FOG2 (a) and PTEN (b), and western blot (c) after the
+treatment with thymosin beta 4 (Tb4) at different doses; and (d) Western
+blot analysis after transfection with scrambled oligo control (Oligo control),
+
++
+-
+
++
++
+-
+
++
+
++
++
+
++
++
+-
+
++
+-
+
++
++
+-
+
++
+
++
++
+
++
++
+-
+
+anti-miR-200a and miR-200b-a-429 cluster followed by treatment with/
+without Tb4, were performed in the adult rat subventricular zone
+neurospheres/progenitor cells (Neurospheres) and primary rat embryonic
+OPCs (OPCs) in ﬁve independent experiments (n = 5). Loading of the
+samples was normalized with a-tubulin. The p-value < 0.05, was
+considered as signiﬁcantly different. OPCs, oligoprogenitor cells.
+
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 118--132
+
+Thymosin beta 4 up-regulates miR-200a
+
+MCAO + Tβ4
+
+FOG-2
+
+100 µm
+
+Pten
+
+100 µm
+
+100 µm
+
+% of GRB2+ cells
+
+MCAO
+
+We demonstrated that Tb4 up-regulated miR-200a, -200b
+and -429 which belong to miR-200b-a-429 cluster gene. Tb4
+treatment down-regulated important regulators of EGFR
+signaling, which are known targets of miR-200a, in favor of
+oligodendrogenesis, and protection against OGD in a cell
+culture model. Up-regulation of miR-200a (in vivo and
+in vitro), and miR-200b and -429 (in vitro) after Tb4
+treatment, down-regulated miR-200a target, Grb2, a key
+adapter of EGFR/Grb2/ERK1 signaling pathway, leading to
+inhibition of phosphorylation/activation of a transcription
+factor, c-Jun. Activation of c-Jun negatively regulates the
+MBP promoter and MBP synthesis, as previously reported
+(Chew et al. 2010; Santra et al. 2012, 2014). In current
+
+GRB2
+
+Cont
+
+Discussion
+
+100
+
+*p<0.05
+
+75
+50
+
+*
+
+25
+0
+Cont
+
+% of FOG-2+ cells
+
+Effect of in vivo Tb4 treatment on miR-200 targets, e.g.,
+GRB2, FOG2 and Pten, in rats subjected to MCAO
+To examine miR-200 targets in vivo, parafﬁn embedded
+brain slides from normal rats, rats subjected to MCAO and
+rats subjected to MCAO followed by treatment with Tb4
+(12 mg/kg), were immunostained with diaminobenzidine
+(DAB) for GRB2, FOG2, and Pten antibodies analyzed in
+peri-infarct area of rat brain subjected to MCAO. In normal
+rat brain, tissue from the area corresponding to the periinfarct area of rat brain subjected to MCAO was selected for
+analysis. These data showed signiﬁcant down-regulation of
+miR-200a targets, e.g., GRB2, FOG2 and Pten (Fig. 6).
+These in vivo data were consistent with in vitro downregulation of GRB2, FOG2, and Pten. Thus, Tb4 treatment
+
+in vivo and in vitro may induce AKT activation and protect
+brain cells from MCAO-mediated apoptosis. Our data and
+observations of miR-200-mediated neuroprotection (Lee
+et al. 2010), Tb4-mediated improvement of functional
+neurologic outcome in a rat model of embolic stroke (Morris
+et al. 2010a), and neuroprotection in a rat model of TBI
+(Xiong et al. 2012b) indicate therapeutic importance of Tb4
+and miR-200 for the treatment of stroke and TBI.
+
+% of Pten+ cells
+
+transfection of miR-200c-141 cluster showed the same
+effects as miR-200b-a-429 cluster on inhibition of OGDinduced apoptosis (Figure S6 and S7); down-regulation of
+GRB2, Mig-6, FOG2, Pten, and P53; and up-regulation of
+MBP and phospho-AKT (Figure S8a and b). These data
+suggest the therapeutic beneﬁt of the entire miR-200 family
+for treatment of neurologic diseases, e.g., stroke and TBI. We
+therefore investigated whether Tb4 treatment down-regulates
+miR-200 targets in vivo in rats subjected to MCAO.
+
+75
+
+MCAO
+
+MCAO
++ Tβ4
+
+*p<0.05
+
+50
+
+*
+
+25
+0
+Cont
+
+MCAO
+
+100
+
+MCAO
++ Tβ4
+
+*p<0.05
+
+75
+
+*
+
+50
+25
+0
+Cont
+
+Fig. 6 Immunohistochemistry of miR-200 targets, e.g., GRB2, friend of
+GATA 2 (FOG2) and phosphatase and tensin homolog deleted in
+chromosome 10 (Pten) in vivo in rats subjected to middle cerebral artery
+occlusion (MCAO) after thymosin beta 4 (Tb4) treatment. Parafﬁn
+embedded brain slides from normal rats (normal), rats subjected to MCAO
+
+127
+
+MCAO
+
+MCAO
++ Tβ4
+
+(MCAO) and rats subjected to MCAO followed by treatment with 12 mg/kg
+Tb4 (MCAO+Tb4), were immunostained with DAB for GRB2, FOG2 and
+Pten antibodies. Location of images was in the peri-infarct areas. Bar
+graphs at right indicate quantitative analysis of corresponding antibodies
+(e.g., GRB2, FOG2 and Pten) positive (+) cells in percentage (%).
+
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 118--132
+
+128
+
+M. Santra et al.
+
+study, we demonstrated that Tb4 induced MBP expression in
+a novel miR-200a regulated molecular mechanism of inhibition of EGFR/Grb2/ERK1/c-Jun signaling. When the
+EGFR/Grb2/ERK1 signaling is blocked, EGFR/PI3K/AKT
+signaling is usually activated (Gan et al. 2010). Our data
+demonstrated that Tb4 treatment markedly up-regulated
+AKT activation/phosphorylation leading to cell survival in
+a novel miR-200a dependent pathway. Tb4 treatment
+(in vitro and in vivo) or miR-200b-a-429 cluster transfection
+(in vitro) down-regulated the known targets of miR-200a,
+e.g., the potent EGFR kinase inhibitor- ERRFI-1/Mig-6 and
+inhibitors of PI3K/AKT signaling- FOG2 and PTEN, leading
+to markedly activation of AKT. ERRFI-1/Mig-6 is a
+cytosolic endogenous protein which binds and inhibits
+phosphorylation/activation of EGFR (Xu et al. 2005, 2006;
+Zhang et al. 2007; Descot et al. 2009). After miR-200mediated down-regulation of Mig-6, EGFR was constitutively activated leading to PI3K/AKT activation. AKT was
+further activated, when PI3K inhibitors, FOG2 and PTEN
+were down-regulated after Tb4 treatment or miR-200b-a-429
+cluster transfection. As anti-miR-200a transfection reversed
+the Tb4 effect on AKT activation, Tb4 treatment markedly
+activated AKT via a novel miR-200 dependent EGFR/PI3K/
+AKT pathway. Tb4 treatment or miR-200b-a-429 cluster
+transfection down-regulated in vitro another known target of
+miR-200a, p53, an inducer of pro-apoptotic genes, and
+inhibited ischemic-induced cell death in a cell culture model
+of OGD. Since anti-miR-200a transfection reversed the Tb4
+effect on p53 expression and OGD-mediated apoptosis, Tb4
+treatment markedly activated AKT as well as reduced p53
+expression leading to inhibition of apoptosis via miR-200a
+dependent EGFR/PI3K/AKT signaling pathway. These data
+were also consistent with neuroprotective effect of miR-200
+transfection in NPC line, Neuro-2a, subjected to OGD for
+16 h (Lee et al. 2010).
+EGFR controls cell growth, differentiation, migration, and
+oligodendrogenesis in mammalian brain (Aguirre and G.
+2007; Aguirre et al. 2007). When EGFR’s intrinsic kinase is
+activated, it drives several downstream intracellular signaling
+pathways, e.g., Grb2/Ras/MEK/ERK and PI3K/AKT (Hayakawa-Yano et al. 2007; Gan et al. 2010). Our data demonstrated that Tb4-mediated up-regulation of miR-200 family
+members down-regulated Grb2, blocked EGFR/Grb2/Ras/
+MEK/ERK/cJun signaling, but activated EGFR/PI3K/AKT
+signaling. The reduced EGFR signaling attenuates MBP
+expression and oligodendrogenesis in the wa2 mouse
+(Aguirre and G. 2007; Aguirre et al. 2007). EGFR/PI3K/
+AKT signaling may be required for MBP expression. EGFR/
+Grb2/Ras/MEK/ERK signaling induces proliferation. In
+contrast, EGFR/PI3K/AKT signaling pathway mediates cell
+survival/differentiation (Furnari et al. 2007). EGFR/PI3K/
+AKT signaling is required, but EGFR/Grb2/Ras/MEK/ERK
+is not required for oligodendrogenesis in the number of
+Olig2+ progenitor cells in the developing spinal cord
+
+(Hayakawa-Yano et al. 2007). When cell differentiation
+switches on, the proliferation of cells therefore turns off. In
+this study, our data also demonstrated that Tb4-induced miR200 activated EGFR/PI3K/AKT signaling which was
+required for MBP synthesis.
+AKT is a serine/threonine kinase which phosphorylates
+more than 30 downstream targets/substrates and regulates
+cell survival, growth, differentiation, migration, and metabolism in a cell-speciﬁc manner (Somanath et al. 2006). In
+OPCs, activation of AKT induces cell survival, MBP
+synthesis and differentiation into myelinating mature oligodendrocytes in vivo in transgenic (Plp-Akt-DD) mice (Flores
+et al. 2000, 2008; Frederick et al. 2007; Pang et al. 2007;
+Yang et al. 2007; Narayanan et al. 2009). In this study, we
+demonstrated that Tb4-induced miR-200 down-regulated
+FOG2 and PTEN, which were the endogenous potent
+inhibitors of PI3K. As a result, AKT was activated. FOG2
+inhibits active PI3K complex formation between p85 and
+p110 by forming inactivation PI3K complex between p85
+and FOG2 (Hyun et al. 2009). Thus, Tb4- and miR-200induced down-regulation of FOG2, enhanced active PI3K
+complex (p110 and p85a) formation, PI3K activation and
+AKT activation (Hyun et al. 2009). PI3K phosphorylates
+phosphatidylinositol-4,5-bisphosphate to phosphatidylinositol-3,4,5-triphosphate which phosphorylates/activates AKT
+(Sansal and S. 2004; Mellinghoff et al. 2005), whereas
+PTEN dephosphorylates phosphatidylinositol-3,4,5-triphosphate to phosphorylates phosphatidylinositol-4,5-bisphosphate by its lipid phosphatase activity and inhibits PI3K/
+AKT activation (Sansal and S. 2004; Mellinghoff et al.
+2005). Tb4- and miR-200-induced down-regulation of
+PTEN, therefore, induced AKT activation. The rationale
+for choosing FOG2 and PTEN is to determine cell survival
+signaling pathway via PI3K/AKT activation. FOG2 and
+PTEN both negatively regulate PI3K/AKT activation. Downregulation of both of these potent endogenous inhibitors of
+PI3K/AKT results in strong AKT activation leading to cell
+survival and protection of cells from OGD-mediated apoptosis.
+The activation of AKT has been shown to phosphorylate
+MDM2, and increase the nuclear localization of MDM2.
+Phosphorylated MDM2 interacts with p300 and p53, which
+undergoes ubiquitination and degradation of p53 (Zhou et al.
+2001). The p53 is a transcription factor which induces the
+pro-apoptotic genes, e.g., Noxa and PUMA, in many cells,
+especially neurons (Cregan et al. 2004). PUMA is localized
+in mitochondria where it interacts with Bcl-2, Bcl-XL and
+Bax. As a result, cytochrome c is released, thereby caspases9 and -3 are activated, and the cells including neurons and
+OPCs, undergo apoptosis (Cregan et al. 2004; Pang et al.
+2007). Our present data demonstrated that Tb4 treatment
+down-regulated p53 via miR-200a-mediated direct effect and
+via AKT activation, and inhibited OGD-mediated apoptosis.
+Ischemic stroke induces expression of p53 which causes
+
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 118--132
+
+Thymosin beta 4 up-regulates miR-200a
+
+Exogenous
+Tβ4
+
+EGFR
+Plasma
+
+miR-200a
+
+Membrane
+
+P– –P
+p85
+
+Mig-6 (ERRFI-1)
+
+p110
+
+FOG2
+Inactive PI3K
+
+FOG2
+degradation/
+inhition
+
+Grb2
+
+Pten
+
+p85 p110
+Active
+PI3K
+miR-200a
+p53
+
+MDM2
+
+MEK
+ERK
+
+AKT
+
+C-Jun
+
+mTOR
+Apoptosis
+
+miR-200
+Ras
+
+Proliferation
+
+Differentiation
+MBP
+
+MBP
+
+Fig. 7 A summarizing schematic diagram of mechanistic cascades for
+thymosin beta 4 (Tb4)-induced oligoprogenitor cells (OPC) differentiation and inhibition of oxygen glucose deprivation (OGD)-mediated
+apoptosis in novel miR-200-regulated EGFR signaling pathways.
+Exogenous Tb4 administration up-regulated miR-200a which targeted
+growth factor receptor-bound protein 2 (Grb2), blocked proliferating
+signal (EGFR/Grb2/ERK1), and thereby induced OPC differentiation by
+increasing myelin basic protein (MBP) (a marker of OPC differentiation)
+synthesis. Tb4-induced up-regulation of miR-200a targeted endogenous inhibitors of EGFR signaling, e.g., Mig-6 for EGFR and, friend of
+GATA 2 (FOG2) and phosphatase and tensin homolog deleted in
+chromosome 10 (Pten) for PI3K. As a result, AKT was markedly
+activated. AKT activation usually induces 1) cell survival, 2) OPC
+differentiation via AKT/mTOR/MBP, and 3) inhibition of apoptosis via
+MDM2-mediated p53 degradation. Tb4-induced miR-200a directly
+targeted P53, reduced p53 synthesis and inhibited P53-mediated
+apoptosis. Protection of progenitor cells from OGD-mediated apoptosis
+may contribute the therapeutic beneﬁts of Tb4 and miR-200 for stroke
+and other neuronal diseases associated with demyelination disorders.
+
+neuronal death in an animal model of embolic stroke, as
+previously reported (Chopp et al. 1992). Other neuronal
+death paradigms, e.g., hypoxia and excitotoxicity, have been
+shown to up-regulate the expression of p53 (Banasiak and H.
+1998; Halterman and F. 1999). Post-mitotic neurons undergo
+apoptosis after over-expression of p53 (Slack et al. 1996;
+Cregan et al. 1999). In contrast, excitotoxicity and stroke
+result in reduced brain damage in p53 null mice in compared
+to wild-type mice (Crumrine et al. 1994; Morrison et al.
+1996). Thus, Tb4- or miR-200b-a-429 cluster–mediated
+AKT activation and p53 down-regulation may be involved
+in inhibition of OGD-induced apoptosis and may provide a
+new therapeutic approach and implication for the treatment
+of neurologic injury. In addition, the reduction in OGDinduced apoptosis by Tb4- or miR-200b-a-429 cluster
+suggest that Tb4 treatment or miR-200b-a-429 cluster
+transfection may also enhance the survival of stroke-induced
+newborn cells (OPCs and NPCs) in the SVZ, and thereby
+promote neurologic recovery (Jin et al. 2001, 2006; Zhang
+et al. 2001, 2004a,b, 2013b; Arvidsson et al. 2002; Parent
+et al. 2002; Macas et al. 2006; Minger et al. 2007; Zhang
+
+129
+
+and Chopp 2009; Curtis et al. 2011). These newborn NPCs
+migrate from the SVZ to the infarct area of ischemic stroke.
+These migrated NPCs differentiate into parenchymal cells
+including neurons. However, in the striatum, only 20% of the
+newly generated cells survive, resulting in an estimated
+replacement of only 0.2% of the cells that are lost as a result
+of ischemia in a rat model of embolic stroke (Arvidsson et al.
+2002). Our data are consistent with observations that Tb4
+and miR-200 (Lee et al. 2010) provide signiﬁcant therapeutic beneﬁts for the treatment of stroke and TBI (Morris et al.
+2010a; Xiong et al. 2012a).
+In summary, Tb4 treatment up-regulated miR-200 expression which targeted Grb2 and blocked EGFR/Grb2/Ras/
+MEK/ERK/c-Jun signaling pathway to proliferation
+(Fig. 7). Blockage of proliferation signaling induced MBP
+synthesis and OPC differentiation, as c-Jun activation
+negatively regulate MBP synthesis. Tb4-induced miR-200
+down-regulated EGFR inhibitor- ERRFI-1/Mig6, and PI3K
+inhibitors (FOG2 and PTEN), as a result, AKT was
+activated (Fig. 7). The enhanced AKT activation also
+induces MBP via EGFR/PI3K/AKT/mammalian target of
+rapamycin (mTOR) signaling pathway and OPC differentiation, as previously reported (Flores et al. 2008; Narayanan et al. 2009). The enhanced AKT activation
+phosphorylates MDM2 which induces p53-ubiquitination
+and degradation (Fig. 7). The Tb4-induced miR-200a also
+directly down-regulated p53 expression (Fig. 7). Since p53
+induces apoptosis in ischemic cells, rat SVZ progenitor cells
+and embryonic primary OPCs may be protected from OGDmediated apoptosis (Fig. 7). These data suggest that Tb4
+via miR-200 may contribute the therapeutic beneﬁts for
+stroke and other neuronal diseases associated with demyelination disorders (Baumann and P.-D. 2001; Scaﬁdi et al.
+2014).
+
+Acknowledgments and conflict of interest
+disclosure
+We thank RegeneRx Biopharmaceuticals Inc, Rockville, MD for
+providing us Tb4. A patent (PCT/US10/28839) has been granted on
+Sept 22, 2011 for use of Tb4 in Improving Neurological Outcome
+after Neural Injury and Neurodegenerative Disease. This work has
+been supported by NIH, R01 AG038648 (DM), R01 NS075156
+(ZG) and R01 NS088656 (MC). The authors have no conﬂict of
+interest to declare.
+All experiments were conducted in compliance with the ARRIVE
+guidelines.
+
+Supporting information
+Additional supporting information may be found in the online
+version of this article at the publisher's web-site:
+Appendix S1. Supplementary Methods
+Table S1. Sequences of oligonucleotide primers used in qrtPCR
+analysis.
+
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 118--132
+
+130
+
+M. Santra et al.
+
+Figure S1. Tb4 treatment induces expression of EGFR in rat
+SVZ progenitor cells and rat embryonic primary OPCs in a dosedependent manner.
+Figure S2. Measurement of knock-down and over-expression
+efﬁciency of miR-200 by qrtPCR.
+Figure S3. Luciferase assay for the reporter gene constructs
+of the pmirGLO vector carrying miR-200 target site in 30 UTR of
+Mig-6.
+Figure S4. Schematic diagram of a single tricistronic primary
+miR-200b-a-429 cluster gene and a single bicistronic primary miR200c-141 cluster gene.
+Figure S5. Western blot of MBP expression using whole blot in
+SVZ-neurosphere and embryonic primary OPCs.
+Figure S6. TUNEL staining of neurospheres/progenitor cells
+from adult ischemic rat SVZ.
+Figure S7. TUNEL staining of primary OPCs from the rat
+embryos on embryonic day 17.
+Figure S8. Effect of miR-200c-141 cluster gene transfection on
+mediators of EGFR/ERK/c-Jun and EGFR/PI3K/AKT/p53 in SVZneurosphere and embryonic primary OPCs.
+
+References
+Adam L., Zhong M., Choi W. et al. (2009) miR-200 expression
+regulates epithelial-to-mesenchymal transition in bladder cancer
+cells and reverses resistance to epidermal growth factor receptor
+therapy. Clin. Cancer Res. 15, 5060–5072. PMID: 19671845.
+Aguirre A. and Gallo V. (2007) Reduced EGFR signaling in progenitor
+cells of the adult subventricular zone attenuates oligodendrogenesis
+after demyelination. Neuron Glia Biol. 3, 209–220. PMID:
+18634612.
+Aguirre A., Rizvi T., Ratner N. and Gallo V. (2005) Overexpression of
+the epidermal growth factor receptor confers migratory properties
+to nonmigratory postnatal neural progenitors. J. Neurosci. 25,
+11092–11106. PMID: 16319309.
+Aguirre A., Dupree J., Mangin J. M. and Gallo V. (2007) A functional
+role for EGFR signaling in myelination and remyelination. Nat.
+Neurosci. 10, 990–1002. PMID: 1761827.
+Aguirre A., Rubio M. and Gallo V. (2010) Notch and EGFR pathway
+interaction regulates neural stem cell number and self-renewal.
+Nature 467, 323–327. PMID: 20844536.
+Arvidsson A., Collin T., Kirik D., Kokaia Z. and Lindvall O. (2002)
+Neuronal replacement from endogenous precursors in the
+adult brain after stroke. Nat. Med. 8, 963–970. PMID:
+12161747.
+Attema J. L., Bert A., Lim Y. Y. et al. (2013) Identiﬁcation of an
+enhancer that increases miR-200b~200a~429 gene expression in
+breast cancer cells. PLoS ONE 8, e75517. PMID: 24086551.
+Banasiak K. J. and Haddad G. (1998) Hypoxia-induced apoptosis: effect
+of hypoxic severity and role of p53 in neuronal cell death. Brain
+Res. 797, 295–304. PMID: 9666152.
+Baumann N. and Pham-Dinh D. (2001) Biology of oligodendrocyte and
+myelin in the mammalian central nervous system. Physiol. Rev. 81,
+871–927. PMID: 11274346.
+Becker L. E., Lu Z., Chen W., Xiong W., Kong M. and Li Y. (2012) A
+systematic screen reveals MicroRNA clusters that signiﬁcantly
+regulate four major signaling pathways. PLoS ONE 7, e48474.
+PMID: 23144891.
+Becker L. E., Takwi A., Lu Z. and Li Y. (2015) The role of miR-200a in
+mammalian epithelial cell transformation. Carcinogenesis 36, 2–
+12. PMID: 25239643.
+
+Chen Y., Balasubramaniyan V., Peng J., Hurlock E. C., Tallquist M.,
+Li J. and Lu Q. R. (2007) Isolation and culture of rat and mouse
+oligodendrocyte precursor cells. Nat. Protoc. 2, 1044–1051.
+PMID: 17546009.
+Chew L. J., Coley W., Cheng Y. and Gallo V. (2010) Mechanisms of
+regulation of oligodendrocyte development by p38 mitogenactivated protein kinase. J. Neurosci. 30, 11011–11027. PMID:
+20720108.
+Choi P. S., Zakhary L., Choi W. Y. et al. (2008) Members of the
+miRNA-200 family regulate olfactory neurogenesis. Neuron 57,
+41–55. PMID: 18184563.
+Chopp M., Li Y., Zhang Z. G. and Freytag S. O. (1992) p53 expression
+in brain after middle cerebral artery occlusion in the rat. Biochem.
+Biophys. Res. Commun. 182, 1201–1207. PMID: 1540165.
+Cregan S. P., MacLaurin J., Craig C. G., Robertson G. S., Nicholson D.
+W., Park D. S. and Slack R. S. (1999) Bax-dependent caspase-3
+activation is a key determinant in p53-induced apoptosis in
+neurons. J. Neurosci. 19, 7860–7869. PMID: 10479688.
+Cregan S. P., Arbour N., Maclaurin J. G., Callaghan S. M., Fortin A.,
+Cheung E. C., Guberman D. S., Park D. S. and Slack R. S. (2004)
+p53 activation domain 1 is essential for PUMA upregulation and
+p53-mediated neuronal cell death. J. Neurosci. 24, 10003–10012.
+PMID: 15525786.
+Crumrine R. C., Thomas A. and Morgan P. F. (1994) Attenuation of
+p53 expression protects against focal ischemic damage in
+transgenic mice. J. Cereb. Blood Flow Metab. 14, 887–891.
+PMID: 7929653.
+Curtis M. A., Kam M. and Faull R. L. (2011) Neurogenesis in humans.
+Eur. J. Neurosci. 33, 1170–1174. PMID: 21395861.
+Daub H., Weiss F., Wallasch C. and Ullrich A. (1996) Role of
+transactivation of the EGF receptor in signalling by G-proteincoupled receptors. Nature 379, 557–560. PMID: 8596637.
+Descot A., Hoffmann R., Shaposhnikov D., Reschke M., Ullrich A. and
+Posern G. (2009) Negative regulation of the EGFR-MAPK cascade
+by actin-MAL-mediated Mig6/Errﬁ-1 induction. Mol. Cell 35,
+291–304. PMID: 19683494.
+Doetsch F., Petreanu L., Caille I., Garcia-Verdugo J. M. and AlvarezBuylla A. (2002) EGF converts transit-amplifying neurogenic
+precursors in the adult brain into multipotent stem cells. Neuron 36,
+1021–1034. PMID:12495619.
+Flores A. I., Mallon B., Matsui T., Ogawa W., Rosenzweig A., Okamoto
+T. and Macklin W. B. (2000) Akt-mediated survival of
+oligodendrocytes induced by neuregulins. J. Neurosci. 20, 7622–
+7630. PMID: 11027222.
+Flores A. I., Narayanan S., Morse E. N., Shick H. E., Yin X., Kidd G.,
+Avila R. L., Kirschner D. A. and Macklin W. B. (2008)
+Constitutively active Akt induces enhanced myelination in the
+CNS. J. Neurosci. 28, 7174–7183. PMID: 18614687.
+Frederick T. J., Min J., Altieri S. C., Mitchell N. E. and Wood T. L.
+(2007) Synergistic induction of cyclin D1 in oligodendrocyte
+progenitor cells by IGF-I and FGF-2 requires differential
+stimulation of multiple signaling pathways. Glia 55, 1011–1022.
+PMID: 17508424.
+Furnari F. B., Fenton T., Bachoo R. M. et al. (2007) Malignant
+astrocytic glioma: genetics, biology, and paths to treatment. Genes
+Dev. 21, 2683–2710. PMID: 17974913.
+Gan Y1., Shi C., Inge L., Hibner M., Balducci J. and Huang Y. (2010)
+Differential roles of ERK and Akt pathways in regulation of
+EGFR-mediated signaling and motility in prostate cancer cells.
+Oncogene 29, 4947–4958. PMID: 20562913.
+Goldstein A. L., Slater F. and White A. (1966) Preparation, assay, and
+partial puriﬁcation of a thymic lymphocytopoietic factor
+(thymosin). Proc. Natl Acad. Sci. USA 56, 1010–1017. PMID:
+5230175.
+
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 118--132
+
+Thymosin beta 4 up-regulates miR-200a
+
+Goldstein A. L., Hannappel E. and Kleinman H. K. (2005) Thymosin
+beta4: actin-sequestering protein moonlights to repair injured
+tissues. Trends Mol. Med. 11, 421–429.
+Gregory P. A., Bert A., Paterson E. L., Barry S. C., Tsykin A., Farshid
+G., Vadas M. A., Khew-Goodall Y. and Goodall G. J. (2008) The
+miR-200 family and miR-205 regulate epithelial to mesenchymal
+transition by targeting ZEB1 and SIP1. Nat. Cell Biol. 10,
+593–601. PMID:18376396.
+Halterman M. W. and Federoff H. (1999) HIF-1alpha and p53 promote
+hypoxia-induced delayed neuronal death in models of CNS
+ischemia. Exp. Neurol. 159, 65–72. PMID: 10486175.
+Hayakawa-Yano Y1., Nishida K., Fukami S., Gotoh Y., Hirano T.,
+Nakagawa T., Shimazaki T. and Okano H. (2007) Epidermal
+growth factor signaling mediated by grb2 associated binder1 is
+required for the spatiotemporally regulated proliferation of olig2expressing progenitors in the embryonic spinal cord. Stem Cells 25,
+1410–1422. PMID: 17332510.
+Hong L. Z., Zhao X. and Zhang H. L. (2010) p53-mediated neuronal cell
+death in ischemic brain injury. Neurosci. Bull. 26, 232–240. PMID:
+20502500.
+Huff T., Muller C. S., Otto A. M., Netzker R. and Hannappel E. (2001)
+beta-thymosins, small acidic peptides with multiple functions. Int.
+J. Biochem. Cell Biol. 33, 205–220.
+Hyun S., Lee J., Jin H., Nam J., Namkoong B., Lee G., Chung J. and
+Kim V. N. (2009) Conserved microRNA miR-8/miR-200 and its
+target USH/FOG2 control growth by regulating PI3K. Cell 139,
+1096–1108. PMID: 20005803.
+Izadi H., Motameni A., Bates T. C. et al. (2007) c-Jun N-terminal kinase
+1 is required for Toll-like receptor 1 gene expression in
+macrophages. Infect. Immun. 75, 5027–5034. PMID: 17664270.
+Jiang Q1., Zhang Z., Ding G. L. et al. (2006) MRI detects white matter
+reorganization after neural progenitor cell treatment of stroke.
+NeuroImage 32, 1080–1089. PMID: 16860575.
+Jin K., Minami M., Lan J. Q., Mao X. O., Batteur S., Simon R. P. and
+Greenberg D. A. (2001) Neurogenesis in dentate subgranular zone
+and rostral subventricular zone after focalcerebral ischemia in the
+rat. Proc. Natl Acad. Sci. USA 98, 4710–4715. PMID: 11296300.
+Jin K., Wang X., Xie L., Mao X. O., Zhu W., Wang Y., Shen J., Mao Y.,
+Banwait S. and Greenberg D. A. (2006) Evidence for strokeinduced neurogenesis in the human brain. Proc. Natl Acad. Sci.
+USA 103, 13198–13202. PMID: 16924107.
+Lee S. T., Chu K., Jung K. H. et al. (2010) MicroRNAs induced during
+ischemic preconditioning. Stroke 41, 1646–1651. PMID: 20576953.
+Li H., Tang J., Lei H., Cai P., Zhu H., Li B., Xu X., Xia Y. and Tang W.
+(2014) Decreased MiR-200a/141 suppress cell migration and
+proliferation by targeting PTEN in Hirschsprung’s disease. Cell.
+Physiol. Biochem. 34, 543–553. PMID: 25116353.
+Liu X. S., Chopp M., Zhang R. L., Tao T., Wang X. L., Kassis H.,
+Hozeska-Solgot A., Zhang L., Chen C. and Zhang Z. G. (2011)
+MicroRNA proﬁling in subventricular zone after stroke: MiR-124a
+regulates proliferation of neural progenitor cells through Notch
+signaling pathway. PLoS ONE 6, e23461. PMID: 21887253.
+Liu X. S., Chopp M., Wang X. L. et al. (2013a) MicroRNA-17-92 cluster
+mediates the proliferation and survival of neural progenitor cells
+after stroke. J. Biol. Chem. 288, 12478–12488. PMID: 23511639.
+Liu X. S., Chopp M., Zhang R. L. and Zhang Z. G. (2013b) MicroRNAs
+in cerebral ischemia-induced neurogenesis. J. Neuropathol. Exp.
+Neurol. 72, 718–722. PMID 23860031.
+Liu Y., Liu Q., Jia W. et al. (2013c) MicroRNA-200a regulates Grb2 and
+suppresses differentiation of mouse embryonic stem cells into
+endoderm and mesoderm. PLoS ONE 8, e68990. PMID: 23874841.
+Livak K. J. and Schmittgen T. D. (2001) Analysis of relative gene
+expression data using real-time quantitative PCR and the 2(-Delta
+Delta C(T)) Method. Methods 25, 402–408.
+
+131
+
+Macas J., Nern C., Plate K. H. and Momma S. (2006) Increased generation
+of neuronal progenitors after ischemic injury in the aged adult human
+forebrain. J. Neurosci. 26, 13114–13119. PMID: 17167100.
+Mellinghoff I. K., Wang M., Vivanco I. et al. (2005) Molecular
+determinants of the response of glioblastomas to EGFR kinase
+inhibitors. N. Engl. J. Med. 353, 2012–2024. PMID: 16282176.
+Menn B., Garcia-Verdugo J., Yaschine C., Gonzalez-Perez O., Rowitch
+D. and Alvarez-Buylla A. (2006) Origin of oligodendrocytes in the
+subventricular zone of the adult brain. J. Neurosci. 26, 7907–7918.
+PMID:16870736.
+Minger S. L., Ekonomou A., Carta E. M., Chinoy A., Perry R. H. and
+Ballard C. G. (2007) Endogenous neurogenesis in the human brain
+following cerebral infarction. Regen. Med. 2, 69–74. PMID:
+17465777.
+Morris D. C., Chopp M., Zhang L., Lu M. and Zhang Z. G. (2010a)
+Thymosin beta4 improves functional neurological outcome in a rat
+model of embolic stroke. Neuroscience 169, 674–682. PMID:
+20627173.
+Morris D. C., Chopp M., Zhang L. and Zhang Z. G. (2010b) Thymosin
+beta4: a candidate for treatment of stroke? Ann. N. Y. Acad. Sci.
+1194, 112–117. PMID: 20536457.
+Morris D. C., Cui Y., Cheung W. L., Lu M., Zhang L., Zhang Z. G. and
+Chopp M. (2014) A dose-response study of thymosin b4 for the
+treatment of acute stroke. J. Neurol. Sci. 345, 61–67. PMID:
+25060418.
+Morrison R. S1., Wenzel H., Kinoshita Y., Robbins C. A., Donehower
+L. A. and Schwartzkroin P. A. (1996) Loss of the p53 tumor
+suppressor gene protects neurons from kainate-induced cell death.
+J. Neurosci. 16, 1337–1345. PMID: 8778285.
+Moscatello D. K., Santra M., Mann D. M., McQuillan D. J., Wong A. J.
+and Iozzo R. V. (1998) Decorin suppresses tumor cell growth by
+activating the epidermal growth factor receptor. J. Clin. Invest.
+101, 406–412. PMID: 9435313.
+Narayanan S. P., Flores A., Wang F. and Macklin W. B. (2009) Akt
+signals through the mammalian target of rapamycin pathway to
+regulate CNS myelination. J. Neurosci. 29, 6860–6870. PMID:
+19474313.
+Ouyang Y. B., Xu L., Lu Y., Sun X., Yue S., Xiong X. X. and Giffard R.
+G. (2013) Astrocyte-enriched miR-29a targets PUMA and reduces
+neuronal vulnerability to forebrain ischemia. Glia 61, 1784–1794.
+PMID: 24038396.
+Ouyang Y. B., Xu L., Yue S., Liu S. and Giffard R. G. (2014)
+Neuroprotection by astrocytes in brain ischemia: importance of
+microRNAs. Neurosci. Lett. 17, 53–58. PMID: 24269978.
+Pandey A., Singh P., Jauhari A., Singh T., Khan F., Pant A. B., Parmar
+D. and Yadav S. (2015) Critical role of the miR-200 family
+in regulating differentiation and proliferation of neurons.
+J. Neurochem. 133, 640–652. PMID: 25753155.
+Pang Y., Zheng B., Fan L. W., Rhodes P. G. and Cai Z. (2007) IGF-1
+protects oligodendrocyte progenitors against TNFalpha-induced
+damage by activation of PI3K/Akt and interruption of the
+mitochondrial apoptotic pathway. Glia 55, 1099–1107. PMID:
+17577243.
+Parent J. M., Vexler Z., Gong C., Derugin N. and Ferriero D. M. (2002)
+Rat forebrain neurogenesis and striatal neuron replacement after
+focal stroke. Ann. Neurol. 52, 802–813. PMID: 12447935.
+Rink C. and Khanna S. (2011) MicroRNA in ischemic stroke etiology
+and pathology. Physiol. Genomics 43, 521–528. PMID 20841499.
+Sanders M. C., Goldstein A. L. and Wang Y. L. (1992) Thymosin beta 4
+(Fx peptide) is a potent regulator of actin polymerization in living
+cells. Proc. Natl Acad. Sci. USA 89, 4678–4682.
+Sansal I. and Sellers W. (2004) The biology and clinical relevance of the
+PTEN tumor suppressor pathway. J. Clin. Oncol. 22, 2954–2963.
+PMID: 15254063.
+
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 118--132
+
+132
+
+M. Santra et al.
+
+Santra M., Katakowski M., Zhang R. L., Zhang Z. G., Meng H., Jiang F.
+and Chopp M. (2006a) Protection of adult mouse progenitor cells
+and human glioma cells by de novo decorin expression in an
+oxygen- and glucose-deprived cell culture model system. J. Cereb.
+Blood Flow Metab. 26, 1311–1322. PMID: 16467781.
+Santra M., Liu X., Santra S., Zhang J., Zhang R. L., Zhang Z. G. and
+Chopp M. (2006b) Ectopic expression of doublecortin protects
+adult rat progenitor cells and human glioma cells from severe
+oxygen and glucose deprivation. Neuroscience 142, 739–752.
+PMID: 16962712.
+Santra M., Santra S., Zhang J. and Chopp M. (2008) Ectopic decorin
+expression up-regulates VEGF expression in mouse cerebral
+endothelial cells via activation of the transcription factors Sp1,
+HIF1alpha, and Stat3. J. Neurochem. 105, 324–337. PMID: 1802129.
+Santra M., Santra S., Buller B., Santra K., Nallani A. and Chopp M.
+(2011) Effect of doublecortin on self-renewal and differentiation in
+brain tumor stem cells. Cancer Sci. 102, 1350–1357.
+Santra M., Chopp M., Zhang Z. G., Lu M., Santra S., Nalani A., Santra
+S. and Morris D. C. (2012) Thymosin b 4 mediates
+oligodendrocyte differentiation by upregulating p38 MAPK. Glia
+60, 1826–1838. PMID: 23073962.
+Santra M., Zhang Z., Yang J., Santra S., Santra S., Chopp M. and Morris
+D. C. (2014) Thymosin b4 upregulation of microRNA-146a
+promotes oligodendrocyte differentiation and suppression of the
+toll-like proinﬂammatory pathway. J. Biol. Chem. 289, 19508–
+19518. PMID: 24828499.
+Scaﬁdi J., Hammond T., Scaﬁdi S. et al. (2014) Intranasal epidermal
+growth factor treatment rescues neonatal brain injury. Nature 506,
+230–234. PMID:24390343.
+Slack R. S1., Belliveau D., Rosenberg M. et al. (1996) Adenovirusmediated gene transfer of the tumor suppressor, p53, induces
+apoptosis in postmitotic neurons. J. Cell Biol. 135, 1085–1096.
+PMID: 8922388.
+Somanath P. R., Razorenova O., Chen J. and Byzova T. V. (2006) Akt1
+in endothelial cell and angiogenesis. Cell Cycle 5, 512–518. PMID:
+16552185.
+Tr€
+umbach D. and Prakash N. (2015) The conserved miR-8/miR-200
+microRNA family and their role in invertebrate and vertebrate
+neurogenesis. Cell Tissue Res. 359, 161–177. PMID: 24875007.
+Wang C., Ji B., Cheng B., Chen J. and Bai B. (2014) Neuroprotection of
+microRNA in neurological disorders (Review). Biomed. Rep. 2, 5.
+PMID: 25053999.
+Xin H., Li Y., Liu Z., Wang X., Shang X., Cui Y., Zhang Z. G. and Chopp
+M. (2013) MiR-133b promotes neural plasticity and functional
+recovery after treatment of stroke with multipotent mesenchymal
+stromal cells in rats via transfer of exosome-enriched extracellular
+particles. Stem Cells 31, 2737–2746. PMID: 23630198.
+Xiong Y., Mahmood A., Meng Y., Zhang Y., Zhang Z. G., Morris D. C.
+and Chopp M. (2010) Treatment of traumatic brain injury with
+thymosin b₄ in rats. J. Neurosurg. 114, 102–115. PMID: 20486893.
+Xiong Y., Mahmood A., Meng Y., Zhang Y., Zhang Z. G., Morris D. C.
+and Chopp M. (2012a) Neuroprotective and neurorestorative
+effects of thymosin b4 treatment following experimentaltraumatic
+brain injury. Ann. N. Y. Acad. Sci. 270, 51–58. PMID: 23050817.
+Xiong Y., Zhang Y., Mahmood A., Meng Y., Zhang Z. G., Morris D. C.
+and Chopp M. (2012b) Neuroprotective and neurorestorative effects
+of thymosin b4 treatment initiated 6 hours aftertraumatic brain
+injury in rats. J. Neurosurg. 116, 1081–1092. PMID: 22324420.
+Xu D., Makkinje A. and Kyriakis J. M. (2005) Gene 33 is an endogenous
+inhibitor of epidermal growth factor (EGF) receptor signaling and
+mediates dexamethasone-induced suppression of EGF function. J.
+Biol. Chem. 280, 2924–2933. PMID: 15556944.
+Xu D., Patten R., Force T. and Kyriakis J. M. (2006) Gene 33/RALT is
+induced by hypoxia in cardiomyocytes, where it promotes cell
+
+death by suppressing phosphatidylinositol 3-kinase and
+extracellular signal-regulated kinase survival signaling. Mol. Cell.
+Biol. 26, 5043–5054. PMID: 16782890.
+Yang W1., Zhang Y., Li Y., Wu Z. and Zhu D. (2007) Myostatin
+induces cyclin D1 degradation to cause cell cycle arrest through a
+phosphatidylinositol 3-kinase/AKT/GSK-3 beta pathway and is
+antagonized by insulin-like growth factor 1. J. Biol. Chem. 282,
+3799–3808. PMID: 17130121.
+Yang Y., Ahn Y., Chen Y. et al. (2014) ZEB1 sensitizes lung
+adenocarcinoma to metastasis suppression by PI3K antagonism.
+J. Clin. Invest. 124, 2696–2708. PMID: 24762440.
+Zhang Z. G. and Chopp M. (2009) Neurorestorative therapies for stroke:
+underlying mechanisms and translation to the clinic. Lancet
+Neurol. 8, 491–500. PMID: 19375666.
+Zhang R. L., Zhang Z., Zhang L. and Chopp M. (2001) Proliferation and
+differentiation of progenitor cells in the cortex and the
+subventricular zone in the adult rat after focal cerebral ischemia.
+Neuroscience 105, 33–41. PMID: 11483298.
+Zhang R., Zhang Z., Wang L., Wang Y., Gousev A., Zhang L., Ho K. L.,
+Morshead C. and Chopp M. (2004a) Activated neural stem cells
+contribute to stroke-induced neurogenesis and neuroblast migration
+toward the infarct boundary in adult rats. J. Cereb. Blood Flow
+Metab. 24, 441–448. PMID: 15087713.
+Zhang R., Zhang Z., Zhang C., Zhang L., Robin A., Wang Y., Lu M. and
+Chopp M. (2004b) Stroke transiently increases subventricular zone
+cell division from asymmetric to symmetric and increases neuronal
+differentiation in the adult rat. J. Neurosci. 24, 5810–5815. PMID:
+15215303.
+Zhang X., Pickin K., Bose R., Jura N., Cole P. A. and Kuriyan J.
+(2007) Inhibition of the EGF receptor by binding of MIG6 to an
+activating kinase domain interface. Nature 450, 741–744.
+PMID:18046415.
+Zhang J., Zhang Z., Morris D., Li Y., Roberts C., Elias S. B. and Chopp
+M. (2009) Neurological functional recovery after thymosin beta4
+treatment in mice with experimental auto encephalomyelitis.
+Neuroscience 164, 1887–1893. PMID: 19782721.
+Zhang C., Chopp M., Cui Y. et al. (2010a) Cerebrolysin enhances
+neurogenesis in the ischemic brain and improves functional outcome
+after stroke. J. Neurosci. Res. 88, 3275–3281. PMID: 20857512.
+Zhang L., Chopp M., Zhang R. L., Wang L., Zhang J., Wang Y., Toh Y.,
+Santra M., Lu M. and Zhang Z. G. (2010b) Erythropoietin
+ampliﬁes stroke-induced oligodendrogenesis in the rat. PLoS ONE
+5, e11016. PMID: 20552017.
+Zhang R. L., Chopp M., Roberts C., Jia L., Wei M., Lu M., Wang X.,
+Pourabdollah S. and Zhang Z. G. (2011) Ascl1 lineage cells contribute
+to ischemia-induced neurogenesis and oligoden- drogenesis. J. Cereb.
+Blood Flow Metab. 31, 614–625. PMID: 20736965.
+Zhang R. L., Chopp M., Roberts C., Wei M., Wang X., Liu X., Lu M.
+and Zhang Z. G. (2012) Sildenaﬁl enhances neurogenesis and
+oligodendrogenesis in ischemic brain of middle-aged mouse. PLoS
+ONE 7, e48141. PMID: 23118941.
+Zhang L., Chopp M., Meier D. H., Winter S., Wang L., Szalad A., Lu
+M., Wei M., Cui Y. and Zhang Z. G. (2013a) Sonic hedgehog
+signaling pathway mediates cerebrolysin-improved neurological
+function after stroke. Stroke 44, 1965–1972. PMID: 23696546.
+Zhang R., Chopp M. and Zhang Z. G. (2013b) Oligodendrogenesis after
+cerebral ischemia. Front. Cell. Neurosci. 7, 201. PMID: 24194700.
+Zhang Y., Ueno Y., Liu X. S., Buller B., Wang X., Chopp M. and Zhang
+Z. G. (2013c) The MicroRNA-17-92 cluster enhances axonal
+outgrowth in embryonic cortical neurons. J. Neurosci. 33, 6885–
+6894. PMID: 23595747.
+Zhou B. P., Liao Y., Xia W., Zou Y., Spohn B. and Hung M. C. (2001)
+HER-2/neu induces p53 ubiquitination via Akt-mediated MDM2
+phosphorylation. Nat. Cell Biol. 3, 973–982. PMID: 11715018.
+
+© 2015 International Society for Neurochemistry, J. Neurochem. (2016) 136, 118--132
+
+

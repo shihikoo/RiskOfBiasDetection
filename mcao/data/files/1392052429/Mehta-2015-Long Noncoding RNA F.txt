@@ -1,0 +1,475 @@
+The Journal of Neuroscience, December 16, 2015 • 35(50):16443–16449 • 16443
+
+Neurobiology of Disease
+
+Long Noncoding RNA FosDT Promotes Ischemic Brain
+Injury by Interacting with REST-Associated ChromatinModifying Proteins
+Suresh L. Mehta,1 TaeHee Kim,1,2 and Raghu Vemuganti1,2,3
+1Department of Neurological Surgery, 2Neuroscience Training Program, and 3Cellular and Molecular Pathology Training Program, University of Wisconsin,
+Madison, Wisconsin 53792
+
+Ischemia induces extensive temporal changes in cerebral transcriptome that influences the neurologic outcome after stroke. In addition
+to protein-coding RNAs, many classes of noncoding RNAs, including long noncoding RNAs (LncRNAs), also undergo changes in the
+poststroke brain. We currently evaluated the functional significance of an LncRNA called Fos downstream transcript (FosDT) that is
+cogenic with Fos gene. Following transient middle cerebral artery occlusion (MCAO) in adult rats, expression of FosDT and Fos was
+induced. FosDT knockdown significantly ameliorated the postischemic motor deficits and reduced the infarct volume. Focal ischemia
+also increased FosDT binding to chromatin-modifying proteins (CMPs) Sin3a and coREST (corepressors of the transcription factor
+REST). Furthermore, FosDT knockdown derepressed REST-downstream genes GRIA2, NF␬B2, and GRIN1 in the postischemic brain.
+Thus, FosDT induction and its interactions with REST-associated CMPs, and the resulting regulation of REST-downstream genes might
+modulate ischemic brain damage. LncRNAs, such as FosDT, can be therapeutically targeted to minimize poststroke brain damage.
+Key words: brain; gene expression; neuroprotection; noncoding RNA; stroke; transcriptional regulation
+
+Significance Statement
+Mammalian brain is abundantly enriched with long noncoding RNAs (LncRNAs). Functional roles of LncRNAs in normal and
+pathological states are not yet understood. This study identified that LncRNA FosDT induced after transient focal ischemia
+modulates poststroke behavioral deficits and brain damage. These effects of FosDT in part are due to its interactions with
+chromatin-modifying proteins Sin3a and coREST (corepressors of the transcription factor REST) and subsequent derepression of
+REST-downstream genes GRIA2, NF␬B2, and GRIN1. Therefore, LncRNA-mediated epigenetic remodeling could determine
+stroke outcome.
+
+Introduction
+Mammalian genomes are replete with thousands of genes that
+transcribe long noncoding RNAs (LncRNAs; ⬎200 nt in length)
+from intergenic or intragenic locations (Xie et al., 2014). LncRNAs are thought to be crucial regulators of genomic imprinting, chromatin remodeling, transcription, and cell cycle, and
+their expression is spatially and temporally restricted to cell types
+and stages of development (Wapinski and Chang, 2011; Clark
+Received Aug. 4, 2015; revised Oct. 15, 2015; accepted Nov. 14, 2015.
+Author contributions: S.L.M. and R.V. designed research; S.L.M. and T.K. performed research; S.L.M. contributed
+unpublished reagents/analytic tools; S.L.M. and R.V. analyzed data; S.L.M. and R.V. wrote the paper.
+This work was supported by American Heart Association Grants 15IRG23050015 and 14PRE20150039, and National Institute of Health Grants RO3NS083007, R21NS082957, R21NS079585, and R21NS095192.
+The authors declare no competing financial interests.
+Correspondence should be addressed to Dr. Raghu Vemuganti, Department of Neurological Surgery, Mail Code
+CSC-8660, 600 Highland Avenue, Madison, WI 53792. E-mail: Vemuganti@neurosurgery.wisc.edu.
+DOI:10.1523/JNEUROSCI.2943-15.2015
+Copyright © 2015 the authors 0270-6474/15/3516443-07$15.00/0
+
+and Blackshaw, 2014; Maass et al., 2014). Although their function
+and mechanism of action are not clear, perturbations in LncRNA
+expression have been implicated in many diseases, including Alzheimer’s disease, heart pathology, and multiple forms of cancer
+(Wahlestedt, 2013; Han et al., 2014; Yarmishyn and Kurochkin,
+2015).
+We recently showed that focal ischemia significantly alters the
+expression of many LncRNAs in adult rat brain (Dharap et al.,
+2012a). However, the significance of these changes to postischemic outcome is not known. To fill this void, we currently analyzed the role of an LncRNA called Fos downstream transcript
+(FosDT) after transient middle cerebral artery occlusion
+(MCAO) in adult rats. The rationale for selecting FosDT is that:
+(1) it was observed to be highly upregulated during the acute
+period after focal ischemia (Dharap et al., 2012a); (2) it is cogenic
+to Fos gene and rapid induction of Fos after brain injury is a
+marker of cellular stress (Shimazu et al., 1994); and (3) it binds
+to chromatin-modifying proteins (CMPs) Sin3 transcription
+
+Mehta et al. • LncRNA and Stroke
+
+16444 • J. Neurosci., December 16, 2015 • 35(50):16443–16449
+
+Figure 1. FosDT is downstream to Fos with an overlapping sequence of 105 nt (red box in A). In rat genome, FosDT and Fos are located in a gene desert of ⬃260 kb in chromosome 6. BLAT
+alignment showed that FosDT is highly conserved among mammals (A). FosDT is 604 nt long and Fos is 1589 nt long (B). Primers used for amplification of FosDT and Fos were chosen from the
+non-overlapping regions (B). Three regions of the FosDT that are targeted by independent siRNAs used as a mixture are highlighted (B).
+
+regulatory family member a (Sin3a) and co-RE-1-silencing
+transcription factor (coREST) that are corepressors of the transcription factor REST, which is known to be induced after stroke
+(Noh et al., 2012; Dharap et al., 2013). REST plays a crucial role in
+apoptosis and cell differentiation during embryogenesis, and regulates neuronal function in the adult brain (Calderone et al.,
+2003; Noh et al., 2012; Baldelli and Meldolesi, 2015). REST complex (REST-coREST-Sin3a) has been shown to increase ischemic
+brain damage by modulating its downstream genes AMPA receptor subunit GluR2 (GRIA2), NF␬ L chain enhancer of activated B
+cells 2 (NF␬B2), and glutamate receptor, ionotropic, N-methyl
+D-aspartate 1 (GRIN1) (Calderone et al., 2003; Noh et al., 2012).
+We presently evaluated whether FosDT induction is a promoter
+of ischemic brain damage and if, yes, its mechanism of action is by
+modulating the REST-downstream gene expression.
+
+Materials and Methods
+Focal ischemia. All the surgical procedures were approved by the Research
+Animal Resources and Care Committee of the University of WisconsinMadison, and the animals were cared for in accordance with the Guide for
+the Care and Use of Laboratory Animals (U.S. Department of Health and
+Human Services Publication 86-23, revised). All surgeries were performed under isoflurane anesthesia, and all efforts were made to minimize suffering. Transient MCAO of 1 h was induced in adult, male,
+spontaneously hypertensive rats (SHR; 280 –300 g; Charles River) by an
+intraluminal suture method as described previously (Dharap et al., 2011,
+2012a). Sham-operated rats served as control. Regional cerebral blood
+flow and physiological parameters (pH, Pao2, Paco2, hemoglobin, and
+blood glucose) were monitored, and rectal temperature was maintained
+at 37.0 ⫾ 0.5°C during surgery.
+FosDT knockdown. Three in vivo grade Silencer Select siRNAs targeting
+nonoverlapping regions of FosDT and nontargeting negative control
+siRNAs (Invitrogen) were injected intracerebrally as described previ-
+
+Mehta et al. • LncRNA and Stroke
+
+J. Neurosci., December 16, 2015 • 35(50):16443–16449 • 16445
+
+Figure 2. Transient MCAO induced FosDT expression in the ipsilateral cortex at 3, 6, and 12 h of reperfusion compared with sham analyzed with LncRNA microarrays (A). Increased FosDT and Fos
+expression was observed at 12 h of reperfusion after transient MCAO with real-time PCR (B). Levels of a control LncRNA were not altered at this time point (B). Expression of REST and its corepressor
+CMPs coREST and MeCP2 measured by real-time PCR was observed to be increased at 12 h reperfusion following transient MCAO (C). Protein levels of REST and coREST were also observed to be
+increased at 12 h reperfusion following transient MCAO (D, E). RIP showed increased binding of coREST and Sin3a to FosDT at 6 h of reperfusion following transient MCAO (F ). Values are mean ⫾
+SD (n ⫽ 3 or 4/group).*p ⬍ 0.05, compared with sham by Student’s t test.
+
+ously (Satriotomo et al., 2006; Pandi et al., 2013). In brief, siRNA mix (8
+nmol in 6 ␮l buffer ⫹ 2 ␮l invivofectamine) was incubated at room
+temperature for 15 min and injected with a Hamilton syringe (1 ␮l/5
+min) into cerebral cortex (bregma; ⫺0.2 mm posterior, 3 mm dorsoventral, 4.5 mm lateral) (Paxinos and Watson, 1998).
+Motor function and infarct volume estimation. Neurobehavioral deficits were determined by rotarod test, beam walk test, and adhesive
+removal test at 1, 3, 5, and 7 d of reperfusion (Schaar et al., 2010;
+Nakka et al., 2011). Rats were killed on day 7, and infarct volume was
+measured by National Institutes of Health ImageJ software using cresyl violet-stained serial coronal sections (6 sections/rat; 40 ␮m thick
+at an interval of 320 ␮m) as described previously (Tureyen et al., 2008;
+Dharap et al., 2009; Nakka et al., 2011). Injury volumes were corrected for edema and differential shrinkage using the Swanson formula (Swanson et al., 1990). Animals were randomly assigned to
+groups, and behavioral and histological analyses were performed by
+an investigator blinded to the study groups.
+
+Real-time PCR. Expression of FosDT (MRAK159688), Fos
+(NM_022197), REST (NM_031788.1), coREST (NM_001013994.1), Sin3a
+(NM_001108761.1), MeCP2 (NM_022673.2), GRIA2 (NM_017261.2),
+NFkB2 (NM_001008349.1), and GRIN1 (NM_017010.2) was evaluated
+with real-time PCR using the SYBR Green method as described previously
+(Dharap et al., 2009); 18s rRNA was used as an internal control.
+Western blotting and RNA immunoprecipitation (RIP). In brief, tissue
+from peri-infarct area was homogenized in buffer containing protease
+and phosphatase inhibitors, centrifuged at 14,000 ⫻ g, and the supernatant
+(40 ␮g) was electrophoresed, blotted onto nitrocellulose membranes, and
+probed with antibodies against REST (1:500; ARP32478P050, Aviva System
+Biology), coREST (1:5000; ab183711, Abcam), Sin3a (1:1000; ab129087, Abcam), and ␤-actin (1:000; 3700, Cell Signaling Technology) followed by
+HRP-conjugated anti-rabbit or anti-mouse IgG (Cell Signaling Technology). Protein bands were developed using enhanced chemiluminescence,
+visualized and quantitated with Image Studio software (LI-COR Biotechnology). RIP was performed using chromatin immunoprecipitation grade an-
+
+16446 • J. Neurosci., December 16, 2015 • 35(50):16443–16449
+
+Mehta et al. • LncRNA and Stroke
+
+tibodies against Sin3a (ab3479; Abcam) and
+coREST (07-455; Millipore) and corresponding
+HRP-tagged secondary antibodies (Cell Signaling Technology) as described previously (Dharap
+et al., 2013).
+
+Results
+FosDT is cogenic with Fos
+FosDT gene is downstream of Fos gene
+with a partial overlap (105 nt long region;
+Fig. 1A, box). These two genes are located
+in a gene desert with no other genes in a
+⬃260,000 nucleotide stretch of DNA.
+FosDT is highly conserved with ⬃94% sequence similarity between rat, mouse, and
+human genomes (Fig. 1A). Whereas
+FosDT is 604 nt long, Fos mRNA is 1589
+nt long (Fig. 1B).
+Focal ischemia-induced
+FosDT expression
+Microarray analysis showed significantly
+increased FosDT expression at 3, 6, and
+12 h of reperfusion (by 12- to 28-fold; p ⬍
+0.05) after transient MCAO compared
+with sham (Fig. 2A). At 12 h of reperfusion, real-time PCR also showed significantly increased expression of FosDT (by
+17-fold; p ⬍ 0.05) and Fos (by 7-fold; p ⬍
+0.05) compared with sham control (Fig.
+2B).
+Focal ischemia induced the expression
+of REST and its corepressor partners
+At 12 h of reperfusion following transient
+MCAO, mRNA levels of REST, coREST,
+and MeCP2 were observed to be significantly induced compared with sham ( p ⬍
+0.05 in all cases) (Fig. 2C), whereas Sin3a
+expression was not altered in the ischemic Figure 3. FosDT knockdown prevented postischemic induction of FosDT and Fos, without altering REST, measured at 12 h of
+brain (Fig. 2C). At 12 h of reperfusion fol- reperfusion following transient MCAO (A). FosDT knockdown increased the expression of REST target genes GRIA2, NF␬B2, and
+lowing transient MCAO, protein levels of GRIN1, possibly by derepression (B). Values are mean ⫾ SD (n ⫽ 4/group). *p ⬍ 0.05 versus control siRNA group by Student’s t
+test.
+REST and coREST, but not of Sin3a, were
+also observed to be significantly increased
+shows the essential nature of FosDT in REST-mediated gene
+compared with sham ( p ⬍ 0.05 in all cases) (Fig. 2 D, E).
+repression.
+LncRNAs are known to bind to CMPs to guide them to the specific genomic loci (Wahlestedt, 2013). The CMPs coREST and
+FosDT silencing improved postischemic motor function and
+Sin3a are essential components of the REST complex-mediated gene
+reduced infarction
+repression, and REST induction is known to promote postischemic
+Transient MCAO in adult rats resulted in significant motor dysbrain damage (Calderone et al., 2003; Noh et al., 2012). RIP analysis
+function between day 1 and day 7 of reperfusion as measured by
+showed that binding of FosDT to coREST and Sin3a increased sigrotarod test, beam walk test, and adhesive removal test (Fig. 4A).
+nificantly (by twofold to threefold; p ⬍ 0.05) at 6 h of reperfusion
+FosDT knockdown significantly improved the motor recovery in
+following transient MCAO compared with sham (Fig. 2F).
+all three functional tests compared with the control siRNA group
+(Fig. 4A). Furthermore, FosDT knockdown significantly decreased the infarct volume compared with the control siRNA
+FosDT regulates the expression of REST-responsive genes
+group (by 37%; p ⬍ 0.05), measured at day 7 of reperfusion
+FosDT siRNA treatment significantly prevented the postischemic
+following transient MCAO (Fig. 4 B, C).
+induction of FosDT and Fos, but not REST, compared with the
+control siRNA group (by 45%–50%, p ⬍ 0.05; Fig. 3A). This
+Discussion
+shows that FosDT alters REST complex by modulating the RESTassociated CMPs, but not by a direct effect on REST expression.
+In brief, the present study shows that focal ischemia upregulates
+FosDT knockdown also derepressed REST-target genes GRIA2,
+the expression of LncRNA FosDT and its cogenic gene Fos. We
+NF␬B2, and GRIN1 in the postischemic brain compared with the
+further show that focal ischemia increases binding of FosDT to
+control siRNA group (Fig. 3B; p ⬍ 0.05 in all cases). This further
+coREST and Sin3a, which are the essential corepressors of REST.
+
+Mehta et al. • LncRNA and Stroke
+
+J. Neurosci., December 16, 2015 • 35(50):16443–16449 • 16447
+
+LncRNAs are transcribed from the intergenic or intragenic locations of the
+genome and are known to modulate transcription, translation, and epigenetics as
+they link DNA, histones, and CMPs, either acting as structural scaffolding or directly recruiting factors to chromatin
+(Wapinski and Chang, 2011; Wahlestedt,
+2013; Clark and Blackshaw, 2014; Maass
+et al., 2014). LncRNA levels and function
+are known to be significantly altered and
+might play critical roles in many diseases, including neurodegenerative diseases,
+cardiac hypertrophy, and cancer (Han et
+al., 2014; Yarmishyn and Kurochkin,
+2015).
+Although LncRNA expression profiles
+are known to be altered after stroke
+(Dharap et al., 2012a), their functional
+significance to poststroke outcome is not
+known yet. As a proof of principle to show
+whether LncRNAs have a role in stroke,
+we tested the postischemic histological
+and functional outcome following knockdown of FosDT, an LncRNA that was significantly upregulated during the acute
+phase after transient MCAO in adult rats.
+The FosDT siRNA-treated rats developed
+significantly smaller infarcts and showed
+better neurological function recovery as
+measured by sensorimotor deficits (adhesive removal test), vestibulomotor function
+(beam balance test), and motor coordination/motor learning (rotarod test) compared with control siRNA-treated rats.
+The mechanism of action of FosDT is
+not
+known; however, we observed that
+Figure 4. FosDT siRNA treatment significantly improved the postischemic motor function recovery compared with control
+siRNA-treated group measured by rotarod test (A, top), beam walk test (A, middle), and adhesive removal test (A, bottom) on days FosDT binds to CMPs coREST and Sin3a;
+1–7 of reperfusion following transient MCAO. Rats were tested by an investigator blinded to the study groups. The ability to stay on and more importantly, this binding ina beam (vestibulomotor activity) was tested in the beam balance test with a score range of 1– 6. The motor coordination and motor creased following ischemia. REST is a
+learning were tested with the rotarod test, which measured the latency time to fall from a cylinder rotating at 8 RPM. Adhesive- transcription factor that represses gene
+removal test measured the time taken by rats to remove small adhesive tapes from forepaws. *p ⬍ 0.05, compared with respective expression in CNS, and REST induction is
+reperfusion time point (one-way ANOVA followed by Neuman-Keul’s multiple comparisons post test). Representative cresyl violet- a known promoter of ischemic neuronal
+stained serial sections shows a smaller infarct in the FosDT siRNA group compared with the control siRNA group at 7 d of reperfusion
+death (Calderone et al., 2003; Noh et al.,
+(B). The infarct volume measured from the serial sections is significantly lower in the FosDT siRNA group compared with the control
+Pandi et al., 2013). Both coREST
+2012;
+siRNA group (C). Values are mean ⫾ SEM (n ⫽ 6 or 7/group). *p ⬍ 0.05, compared with the control siRNA group (Student’s t test).
+and Sin3a are essential partners of REST
+Knockdown of FosDT derepressed REST-downstream genes and
+in orchestrating epigenetic reprogramming of neuronal genes in
+decreased postischemic infarction and motor dysfunction. Thus,
+developing and adult brain (Calderone et al., 2003; Noh et al.,
+2012; Pandi et al., 2013). Following stroke, Sin3a levels were unFosDT induction might be a promoter of poststroke brain damaltered, but its binding to FosDT increased, indicating that norage via modulation of REST.
+mal levels of Sin3a might be sufficient to bind to FosDT to induce
+In mammals, ⬃98% of the transcriptional output is various
+REST-mediated gene suppression. Our studies indicate that
+classes of noncoding RNAs (ncRNAs), and perturbations in
+FosDT scaffolds coREST and Sin3a to enable the formation of
+ncRNA levels and function are known to promote various paREST complex. Recent studies also suggest that LncRNAs recruit
+thologies (Esteller, 2011; Vemuganti, 2013). We and others recently showed that ischemia extensively alters the expression
+REST-containing polycomb repressive complex 2 to target genes
+of many classes of ncRNAs, such as microRNAs (miRNAs),
+to alter their expression and function (Tsai et al., 2010); and using
+ChIP-on-Chip analysis, Noh et al. (2012) showed that REST
+piRNAs, and LncRNAs (Dharap et al., 2009, 2011, 2012a; Dharap
+and Vemuganti, 2010). Although recent studies demonstrated
+binds to a discrete subset of target genes that contain RE-1 bindthe role of miRNAs in modulating ischemic brain damage (Siegel
+ing sites in their promoters. Of those, GRIA2, NF␬B2, and GRIN1
+et al., 2011; Dharap et al., 2012b; Selvamani et al., 2012; Irmady et
+are known to modulate ischemic neuronal death (Calderone et
+al., 2014; Lusardi et al., 2014; Stary et al., 2015; Yin et al., 2015),
+al., 2003; Wu and Xie, 2006; Noh et al., 2012). GRIA2 gene enthe functional significance of LncRNAs in this process is still
+codes GluR2 subunit that prevents Ca 2⫹ entry through AMPA
+unknown.
+receptors, and GluR2-lacking AMPA receptors are highly perme-
+
+Mehta et al. • LncRNA and Stroke
+
+16448 • J. Neurosci., December 16, 2015 • 35(50):16443–16449
+
+able to Ca 2⫹, which elevates to toxic levels in ischemic neurons
+(Calderone et al., 2003), and GRIA2 expression determines the
+sensitivity of neurons to ischemic insults (Noh et al., 2012). REST
+activated after stroke is known to suppress GluR2 expression,
+leading to Ca 2⫹ entry and neuronal death (Calderone et al., 2003;
+Noh et al., 2012). NF␬B2 gene encodes NF␬B2 p100/p52 protein,
+which exhibits I␬B properties due to a cluster of ankyrin repeats
+in the C-terminal domains. NF␬B2 p100 mediates cytoplasmic
+retention of NF␬B RelA/p65 to prevent its nuclear translocation,
+and thus minimizes inflammation and cell death after ischemia
+(Schneider et al., 1999; Zhang et al., 2005). Hence, RESTmediated repression of NF␬B2 might be a promoter of neuronal
+death after ischemia. GRIN1 codes for GluN1 subunit of NMDA
+receptor and, together with GluN2 subunit, forms channels that
+are responsible for synaptic plasticity (Hasan et al., 2013). The
+present study shows that FosDT knockdown derepressed the
+REST target genes (GRIA2, NF␬B2, and GRIN1), indicating that
+FosDT might play a role in REST-mediated repression by scaffolding coREST and Sin3a. Following global cerebral ischemia,
+expression of GRIA2 was shown to be repressed in the hippocampus (Calderone et al., 2003; Noh et al., 2012). However, we presently did not observe altered GRIA2 expression in cerebral cortex
+after focal ischemia. These previous studies used a global ischemia model that kills hippocampal neurons, whereas we used a
+focal ischemia model that mainly damages cerebral cortex and
+striatum. Furthermore, the neuronal death after global ischemia
+is apoptosis while a mixture of necrosis and apoptosis occurs after
+focal ischemia. Hence, the mechanisms controlled by FosDT
+and/or REST might not be exactly same after focal and global
+ischemia. It was also suggested that the majority of RESTresponsive gene promoters do not appear to interact with REST
+expressed at the physiological levels, yet retain the ability to bind
+REST when its expression levels are increased and thus poised for
+REST-mediated repression (Bruce et al., 2004). It was further
+suggested that these effects are not attributable to an endogenous REST deficiency; however, the presence of multiple RE1
+sites might allow repression to occur at different threshold
+concentrations or over a greater range of REST concentrations
+(Bruce et al., 2004). Furthermore, REST can target various
+other genes, including Na⫹/Ca2⫹ exchanger 1 and mu opioid
+receptor 1 (Formisano et al., 2007, 2013; Noh et al., 2012).
+We presently show that FosDT interacts with coREST and
+Sin3a, which are important corepressors of REST. FosDT might
+function by guiding these chromatin modifiers to specific
+genomic loci (Dharap et al., 2013; Wahlestedt, 2013). However,
+future studies are needed to show whether FosDT modulates any
+other REST target genes. Interestingly, FosDT knockdown reduced the levels of FosDT and Fos without altering REST,
+indicating that FosDT modulates formation of REST protein
+complex but does not directly influence REST expression. Both
+FosDT knockdown that disrupts REST complex and direct REST
+knockdown are neuroprotective after stroke; hence, both manipulations can be used to develop future therapies. A surprising
+finding is that FosDT knockdown prevented postischemic Fos
+induction. This is not due to Fos knockdown as siRNAs used are
+exclusive for FosDT and does not span the overlapping area of the
+FosDT and Fos sequences. This indicates that intragenic
+LncRNAs, such as FosDT, can modulate the expression of their
+host genes.
+Overall, this is the first study that shows that an LncRNA has a
+functional role in mediating ischemic brain damage. However,
+this is only a proof-of-principle mechanistic study that encourages further studies to evaluate the potential of LncRNA-based
+
+therapies for poststroke neuroprotection. As LncRNAs do not
+translate any proteins, developing small molecules to modulate their function is difficult. However, siRNAs and synthetic
+LncRNA mimics can be used to prevent or increase LncRNA
+levels and function, respectively. They can be therapeutically
+translated if formulated to deliver peripherally together with
+transfection agents that are not toxic. The pharmacodynamics/
+pharmacokinetics also need to be tested. To use them for stroke
+therapy, preclinical studies are also needed to test the window of
+therapeutic opportunity, effect of age, sex, and comorbid conditions to satisfy Stroke Treatment Academic Industry Roundtable
+criteria (Albers et al., 2011). Overall, the present study shows that
+LncRNAs are candidates for developing novel stroke therapies.
+
+References
+Albers GW, Goldstein LB, Hess DC, Wechsler LR, Furie KL, Gorelick PB,
+Hurn P, Liebeskind DS, Nogueira RG, Saver JL (2011) Stroke Treatment
+Academic Industry Roundtable (STAIR) recommendations for maximizing the use of intravenous thrombolytics and expanding treatment
+options with intra-arterial and neuroprotective therapies. Stroke 42:
+2645–2650. CrossRef Medline
+Baldelli P, Meldolesi J (2015) The transcription repressor REST in adult neurons: physiology, pathology, and diseases. eNeuro 2:piiENEURO.
+0010-15.2015. CrossRef Medline
+Bruce AW, Donaldson IJ, Wood IC, Yerbury SA, Sadowski MI, Chapman M, Göttgens B, Buckley NJ (2004) Genome-wide analysis of repressor element 1 silencing transcription factor/neuron-restrictive silencing factor (REST/NRSF) target
+genes. Proc Natl Acad Sci U S A 101:10458–10463. CrossRef Medline
+Calderone A, Jover T, Noh KM, Tanaka H, Yokota H, Lin Y, Grooms SY,
+Regis R, Bennett MV, Zukin RS (2003) Ischemic insults derepress the
+gene silencer REST in neurons destined to die. J Neurosci 23:2112–2121.
+Medline
+Clark BS, Blackshaw S (2014) Long non-coding RNA-dependent transcriptional regulation in neuronal development and disease. Front Genet
+5:164. CrossRef Medline
+Dharap A, Vemuganti R (2010) Ischemic pre-conditioning alters cerebral
+microRNAs that are upstream to neuroprotective signaling pathways.
+J Neurochem 113:1685–1691. CrossRef Medline
+Dharap A, Bowen K, Place R, Li LC, Vemuganti R (2009) Transient focal
+ischemia induces extensive temporal changes in rat cerebral micro
+RNAome. J Cereb Blood Flow Metab 29:675– 687. CrossRef Medline
+Dharap A, Nakka VP, Vemuganti R (2011) Altered expression of PIWI RNA
+in the rat brain after transient focal ischemia. Stroke 42:1105–1109.
+CrossRef Medline
+Dharap A, Nakka VP, Vemuganti R (2012a) Effect of focal ischemia on long
+noncoding RNAs. Stroke 43:2800 –2802. CrossRef Medline
+Dharap A, Nakka VP, Vemuganti R (2012b) microRNAs in ischemic brain:
+the fine-tuning specialists and novel therapeutic targets. In: Translational
+stroke research: from target selection to clinical trials (Lapchak PA, Zhang
+JH, eds), pp 335–352. New York: Springer.
+Dharap A, Pokrzywa C, Vemuganti R (2013) Increased binding of strokeinduced long non-coding RNAs to the transcriptional corepressors Sin3A
+and coREST. ASN Neuro 5:283–289. CrossRef Medline
+Esteller M (2011) Non-coding RNAs in human disease. Nat Rev Genet 12:
+861– 874. CrossRef Medline
+Formisano L, Noh KM, Miyawaki T, Mashiko T, Bennett MV, Zukin RS
+(2007) Ischemic insults promote epigenetic reprogramming of mu opioid receptor expression in hippocampal neurons. Proc Natl Acad Sci
+U S A 104:4170 – 4175. CrossRef Medline
+Formisano L, Guida N, Valsecchi V, Pignataro G, Vinciguerra A, Pannaccione
+A, Secondo A, Boscia F, Molinaro P, Sisalli MJ, Sirabella R, Casamassa A,
+Canzoniero LM, Di Renzo G, Annunziato L (2013) NCX1 is a new rest
+target gene: role in cerebral ischemia. Neurobiol Dis 50:76 – 85. CrossRef
+Medline
+Han P, Li W, Lin CH, Yang J, Shang C, Nurnberg ST, Jin KK, Xu W, Lin CY,
+Lin CJ, Xiong Y, Chien HC, Zhou B, Ashley E, Bernstein D, Chen PS,
+Chen HS, Quertermous T, Chang CP (2014) A long noncoding RNA
+protects the heart from pathological hypertrophy. Nature 514:102–106.
+CrossRef Medline
+Hasan MT, Hernández-González S, Dogbevia G, Treviño M, Bertocchi I,
+
+Mehta et al. • LncRNA and Stroke
+Gruart A, Delgado-García JM (2013) Role of motor cortex NMDA receptors in learning-dependent synaptic plasticity of behaving mice. Nat
+Commun 4:2258. CrossRef Medline
+Irmady K, Jackman KA, Padow VA, Shahani N, Martin LA, Cerchietti L,
+Unsicker K, Iadecola C, Hempstead BL (2014) Mir-592 regulates the
+induction and cell death-promoting activity of p75NTR in neuronal ischemic injury. J Neurosci 34:3419 –3428. CrossRef Medline
+Lusardi TA, Murphy SJ, Phillips JI, Chen Y, Davis CM, Young JM, Thompson
+SJ, Saugstad JA (2014) MicroRNA responses to focal cerebral ischemia
+in male and female mouse brain. Front Mol Neurosci 7:11. CrossRef
+Medline
+Maass PG, Luft FC, Bähring S (2014) Long non-coding RNA in health and
+disease. J Mol Med 92:337–346. CrossRef Medline
+Nakka VP, Lang BT, Lenschow DJ, Zhang DE, Dempsey RJ, Vemuganti R
+(2011) Increased cerebral protein ISGylation after focal ischemia is neuroprotective. J Cereb Blood Flow Metab 31:2375–2384. CrossRef Medline
+Noh KM, Hwang JY, Follenzi A, Athanasiadou R, Miyawaki T, Greally JM,
+Bennett MV, Zukin RS (2012) Repressor element-1 silencing transcription factor (REST)-dependent epigenetic remodeling is critical to
+ischemia-induced neuronal death. Proc Natl Acad Sci U S A 109:E962–
+E971. CrossRef Medline
+Pandi G, Nakka VP, Dharap A, Roopra A, Vemuganti R (2013) MicroRNA
+miR-29c down-regulation leading to de-repression of its target DNA
+methyltransferase 3a promotes ischemic brain damage. PLoS One
+8:e58039. CrossRef Medline
+Paxinos G, Watson C (1998) The rat brain in stereotaxic coordinates, Ed 4.
+San Diego: Academic.
+Satriotomo I, Bowen KK, Vemuganti R (2006) JAK2 and STAT3 activation
+contributes to neuronal damage following transient focal cerebral ischemia. J Neurochem 98:1353–1368. CrossRef Medline
+Schaar KL, Brenneman MM, Savitz SI (2010) Functional assessments in the
+rodent stroke model. Exp Transl Stroke Med 2:13. CrossRef Medline
+Schneider A, Martin-Villalba A, Weih F, Vogel J, Wirth T, Schwaninger M
+(1999) NF-kappaB is activated and promotes cell death in focal cerebral
+ischemia. Nat Med 5:554 –559. CrossRef Medline
+Selvamani A, Sathyan P, Miranda RC, Sohrabji F (2012) An antagomir to
+microRNA Let7f promotes neuroprotection in an ischemic stroke model.
+PLoS One 7:e32662. CrossRef Medline
+Shimazu M, Mizushima H, Sasaki K, Arai Y, Matsumoto K, Shioda S, Nakai Y
+(1994) Expression of c-fos in the rat cerebral cortex after focal ischemia
+and reperfusion. Brain Res Bull 33:689 – 697. CrossRef Medline
+
+J. Neurosci., December 16, 2015 • 35(50):16443–16449 • 16449
+Siegel C, Li J, Liu F, Benashski SE, McCullough LD (2011) miR-23a regulation of X-linked inhibitor of apoptosis (XIAP) contributes to sex differences in the response to cerebral ischemia. Proc Natl Acad Sci U S A
+108:11662–11667. CrossRef Medline
+Stary CM, Xu L, Sun X, Ouyang YB, White RE, Leong J, Li J, Xiong X, Giffard
+RG (2015) MicroRNA-200c contributes to injury from transient focal
+cerebral ischemia by targeting Reelin. Stroke 46:551–556. CrossRef
+Medline
+Swanson RA, Morton MT, Tsao-Wu G, Savalos RA, Davidson C, Sharp FR
+(1990) A semiautomated method for measuring brain infarct volume.
+J Cereb Blood Flow Metab 10:290 –293. CrossRef Medline
+Tsai MC, Manor O, Wan Y, Mosammaparast N, Wang JK, Lan F, Shi Y, Segal
+E, Chang HY (2010) Long noncoding RNA as modular scaffold of histone modification complexes. Science 329:689 – 693. CrossRef Medline
+Tureyen K, Brooks N, Bowen K, Svaren J, Vemuganti R (2008) Transcription factor early growth response-1 induction mediates inflammatory
+gene expression and brain damage following transient focal ischemia.
+J Neurochem 105:1313–1324. CrossRef Medline
+Vemuganti R (2013) All’s well that transcribes well: non-coding RNAs and
+poststroke brain damage. Neurochem Int 63:438 – 449. CrossRef Medline
+Wahlestedt C (2013) Targeting long non-coding RNA to therapeutically
+upregulate gene expression. Nat Rev Drug Discov 12:433– 446. CrossRef
+Medline
+Wapinski O, Chang HY (2011) Long noncoding RNAs and human disease.
+Trends Cell Biol 21:354 –361. CrossRef Medline
+Wu J, Xie X (2006) Comparative sequence analysis reveals an intricate network among REST, CREB and miRNA in mediating neuronal gene expression. Genome Biol 7:R85. CrossRef Medline
+Xie C, Yuan J, Li H, Li M, Zhao G, Bu D, Zhu W, Wu W, Chen R, Zhao Y
+(2014) NONCODEv4: exploring the world of long non-coding RNA
+genes. Nucleic Acids Res 42:D98 –D103. CrossRef Medline
+Yarmishyn AA, Kurochkin IV (2015) Long noncoding RNAs: a potential
+novel class of cancer biomarkers. Front Genet 6:145. CrossRef Medline
+Yin KJ, Hamblin M, Chen YE (2015) Angiogenesis-regulating microRNAs
+and ischemic stroke. Curr Vasc Pharmacol 13:352–365. CrossRef Medline
+Zhang W, Potrovita I, Tarabin V, Herrmann O, Beer V, Weih F, Schneider A,
+Schwaninger M (2005) Neuronal activation of NF-kappaB contributes
+to cell death in cerebral ischemia. J Cereb Blood Flow Metab 25:30 – 40.
+CrossRef Medline
+
+

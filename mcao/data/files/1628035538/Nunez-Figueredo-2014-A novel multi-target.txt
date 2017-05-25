@@ -1,0 +1,961 @@
+Neuropharmacology 85 (2014) 517e527
+
+Contents lists available at ScienceDirect
+
+Neuropharmacology
+journal homepage: www.elsevier.com/locate/neuropharm
+
+A novel multi-target ligand (JM-20) protects mitochondrial integrity,
+inhibits brain excitatory amino acid release and reduces cerebral
+ischemia injury in vitro and in vivo
+~ ez-Figueredo a, 1, Jeney Ramírez-Sa
+nchez a, 1, Gisele Hansel b,
+Yanier Nun
+b
+~ es Pires , Nelson Merino a, Odalys Valdes a,
+Elisa Nicoloso Simo
+ Delgado-Herna
+ndez a, Alicia Lagarto Parra a, Estael Ochoa-Rodríguez c,
+Rene
+Yamila Verdecia-Reyes c, Christianne Salbego b, Silvia L. Costa d, Diogo O. Souza b,
+Gilberto L. Pardo-Andreu e, *
+n y Desarrollo de Medicamentos, Ave 26, No. 1605 Boyeros y Puentes Grandes, CP 10600, La Habana, Cuba
+Centro de Investigacio
+sicas de la Salud,
+n en Ciencia, Instituto de Ciencias Ba
+Departamento de Bioquímica, PPG en Bioquímica, PPG en Educacio
+Universidad Federal de Rio Grande do Sul, Rua Ramiro Barcelos, 2600 Anexo, Porto Alegre, RS, 90035-003, Brazil
+c
+nica de La Facultad de Química de La Universidad de La Habana (Zapata s/n entre G y Carlitos Aguirre,
+Laboratorio de Síntesis Orga
+n, CP 10400, La Habana, Cuba
+Vedado Plaza de la Revolucio
+d
+n / Bioquímica, Instituto de Ciencias de la Salud,
+Laboratorio de Neuroquímica y Biología Celular, Departamento de Biofuncio
+Universidad Federal de Bahia, Av. Reitor Miguel Calmon s/n, Salvador, BA, 40.110-100, Brazil
+e
+gicas, Instituto de Farmacia y Alimentos, Universidad de La Habana,
+Centro de Estudio para las Investigaciones y Evaluaciones Biolo
+Ave. 23 # 21425 e/214 y 222, La Coronela, La Lisa, CP 13600, La Habana, Cuba
+a
+
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 16 December 2013
+Received in revised form
+26 May 2014
+Accepted 10 June 2014
+Available online 19 June 2014
+
+We previously showed that JM-20, a novel 1,5-benzodiazepine fused to a dihydropyridine moiety,
+possessed an anxiolytic proﬁle similar to diazepam and strong neuroprotective activity in different cell
+models relevant to cerebral ischemia. Here, we investigated whether JM-20 protects against ischemic
+neuronal damage in vitro and in vivo. The effects of JM-20 were evaluated on hippocampal slices subjected to oxygen and glucose deprivation (OGD). For in vivo studies, Wistar rats were subjected 90 min of
+middle cerebral artery occlusion (MCAo) and oral administration of JM-20 at 2, 4 and 8 mg/kg 1 h
+following reperfusion. Twenty-four hours after cerebral blood ﬂow restoration, neurological deﬁcits were
+scored, and the infarct volume, histopathological changes in cortex, number of hippocampal and striatal
+neurons, and glutamate/aspartate concentrations in the cerebrospinal ﬂuid were measured. Susceptibility to brain mitochondrial swelling, membrane potential dissipation, H2O2 generation, cytochrome c
+release, Ca2þ accumulation, and morphological changes in the organelles were assessed 24 h postischemia. In vitro, JM-20 (1 and 10 mM) administered during reperfusion signiﬁcantly reduced cell
+death in hippocampal slices subjected to OGD. In vivo, JM-20 treatment (4 and 8 mg/kg) signiﬁcantly
+decreased neurological deﬁcit scores, edema formation, total infarct volumes and histological alterations
+in different brain regions. JM-20 treatment also protected brain mitochondria from ischemic damage,
+most likely by preventing Ca2þ accumulation in organelles. Moreover, an 8-mg/kg JM-20 dose reduced
+glutamate and aspartate concentrations in cerebrospinal ﬂuid and the deleterious effects of MCAo even
+when delivered 8 h after blood ﬂow restoration. These results suggest that in rats, JM-20 is a robust
+neuroprotective agent against ischemia/reperfusion injury with a wide therapeutic window. Our ﬁndings
+support the further examination of potential clinical JM-20 use to treat acute ischemic stroke.
+© 2014 Elsevier Ltd. All rights reserved.
+
+Keywords:
+JM-20
+Neuroprotection
+Middle cerebral artery occlusion
+Mitochondria
+Oxygeneglucose deprivation
+Ischemia/reperfusion injury
+́
+
+ gicas, Instituto de Farmacia y Alimentos, Universidad de La Habana, Ave. 23 # 21425
+* Corresponding author. Centro de Estudio para las Investigaciones y Evaluaciones Biolo
+e/214 y 222, La Coronela, La Lisa, CP 13600, Ciudad Habana, Cuba. Tel.: þ53 5 2719538.
+E-mail address: gilbertopardo@infomed.sld.cu (G.L. Pardo-Andreu).
+1
+~ ez-Figueredo and Jeney Ramírez-Sa
+nchez have contributed equally to this paper.
+Yanier Nun
+http://dx.doi.org/10.1016/j.neuropharm.2014.06.009
+0028-3908/© 2014 Elsevier Ltd. All rights reserved.
+
+518
+
+~ ez-Figueredo et al. / Neuropharmacology 85 (2014) 517e527
+Y. Nun
+
+1. Introduction
+Cerebrovascular disease is the leading cause of disability and the
+third leading cause of death in industrialized countries. The frequency of worldwide cerebrovascular diseases is increasing, and
+approximately 5.7 million deaths per year are the result of acute
+ischemia (Howells and Donnan, 2010). Recurrent stroke risk after
+cerebrovascular diseases ranges from 5 to 20% per year (Balucani
+et al., 2010). At present, the European Medicines Agency and the
+US Food and Drug Administration have only approved intravenous
+recombinant tissue plasminogen activator for acute ischemic stroke
+during the 3-h time window after symptom onset. In daily clinical
+practice, it is only used in approximately 5% of patients because of
+various contraindications (Xing et al., 2012; Broussalis et al., 2012).
+The principal strategy for the development and evaluation of
+neuroprotective drugs has been to search for a molecule that impedes a feature of the ischemic cascade, such as calcium- and
+glutamate-induced excitotoxicity, free radical-mediated injury,
+mitochondrial damage or inﬂammatory mechanisms (Fisher, 2011).
+Unfortunately, the evidence of neuroprotection obtained in preclinical models has not been successfully translated into clinical
+trials, possibly because a highly selective ligand for a given target
+does not always result in a clinically efﬁcacious drug.
+Due to the multiplicity of mechanisms involved in causing
+neuronal damage during ischemia, an emerging paradigm in the
+development of novel therapeutics advocates the deliberate search
+for agents acting as multiple ligands or multifunctional drugs. Such
+drugs may target an array of pathological pathways, each of which
+is believed to contribute to the cascades that ultimately lead to
+neuronal cell death, and could be superior in therapeutic effect,
+possibly reducing unwanted effects in contrast to conventional
+therapy with monospeciﬁc drugs or polypharmaceutic combinations of different agents (Van der Schyf, 2011; Youdim, 2013;
+Geldenhuys et al., 2011; Cavalli et al., 2008).
+In this context, and based on a multimodal drug design paradigm, our group has developed a new family of 1,5 benzodiazepines, structurally different from currently available 1,5benzodiazepines by the presence of a 1,4 dihydropyridine moiety
+fused to the benzodiazepine ring. JM-20 (3-ethoxycarbonyl-2methyl-4-(2-nitrophenyl)-4,11-dihydro-1H-pyrido[2,3-b][1,5]
+benzodiazepine) is one of the member of this family of compounds
+currently under research by our group. This molecule could have
+high probability to succeed in the treatment of neurodegenerative
+diseases since it could target at the same time both calcium (due to
+dihydropyridine moiety) and g-aminobutyric acid (GABA) receptors (benzodiazepine system), well-known mediators of
+neuronal cell death in ischemia (Ginsberg, 2008).
+Previously, we showed that JM-20 has a similar anxiolytic proﬁle of diazepam and that its dihydropyridine ring did not seem to
+interfere with the molecule's GABA-ergic activity (Figueredo et al.,
+2013). This effect was observed with an apparent lack of toxicity,
+since the exposure of mice to a single oral dose of 2000 mg/kg only
+involved the sedation and somnolence in two animals (Figueredo
+et al., 2013). We also previously demonstrated that JM-20
+possessed cytoprotective activity in different cerebral ischemia
+in vitro models at very low micromolar concentrations, which most
+likely resulted from the protection of mitochondria from Ca2þinduced impairment and the preservation of cell energy balance
+~ ez-Figueredo et al., 2014). This molecule reached its maximal
+(Nun
+protective effect at 0.1 mM, a concentration that was approximately
+100 times lower than the concentrations of its structural precursors
+(diazepam and nifedipine), that were required to see a similar effect
+~ ez-Figueredo et al., 2014).
+(Nun
+In this context, we evaluated the neuroprotective effects of JM20 using in vitro and in vivo experimental ischemia models. Rat
+
+organotypic hippocampal cultures were exposed to oxygen and
+glucose deprivation (OGD) and rats subjected to middle cerebral
+artery occlusion (MCAo) injury were chosen as experimental
+ischemia models. Here, we provide evidence for the in vitro and
+in vivo neuroprotective properties of JM-20. When evaluating its
+neuroprotective properties in ischemic rats, we demonstrated that
+JM-20 protected brain mitochondria from MCAo-induced damage
+and reduced the cerebrospinal ﬂuid levels of glutamate and
+aspartate.
+2. Materials and methods
+2.1. Synthesis and chemical characterization of JM-20
+JM-20 was synthesized, puriﬁed and characterized as previously reported
+(Figueredo et al., 2013).
+2.2. Chemicals
+Dulbecco's modiﬁed Eagle's medium (DMEM), minimum essential medium
+(MEM), Hank's balanced salt solution (HBSS), horse serum, Fungizone®, penicillin/
+streptomycin and 0.25% trypsin/EDTA solution were obtained from Gibco (Gibco
+BRL, Carlsbad, CA, USA). Fetal bovine serum was obtained from Cultilab (Cultilab,
+Campinas, SP, Brazil). Gentamicin was obtained from Schering do Brazil (Rio de
+Janeiro, RJ, Brazil). Propidium iodide (PI) and 2,3,5-triphenyltetrazolium chloride
+(TTC) were obtained from Sigma (St. Louis, USA). All other chemicals and solvents
+used were of analytical or pharmaceutical grade.
+2.3. Animals
+Male Wistar rats (275e300 g) were obtained from CENPALAB (Havana, Cuba)
+and for acclimation, housed in the animal care facility for 1 week prior to in vivo
+experiments. Rats were housed in a temperature-controlled environment
+(22e24  C) with a 12-h light/dark cycle and had access to food and water ad libitum.
+Six to eight day old male Wistar rats were obtained from rat colonies at the
+Departamento de Bioquímica, Universidade Federal do Rio Grande do Sul, Porto
+Alegre, RS, Brazil and were used for in vitro experiments. Animal housing and care
+and all experimental procedures were in accordance with institutional guidelines
+under approved animal protocols (Animal Care Committee of UFRGS, Porto Alegre,
+Brazil and CIDEM, Havana, Cuba).
+2.4. Organotypic hippocampal slice cultures
+Organotypic hippocampal slice cultures were prepared as previously reported
+by Stoppini et al. (1991) with some modiﬁcations (Bernardi et al., 2008). Brieﬂy,
+400 mm thick hippocampal slices were prepared from 6 to 8-day-old male Wistar
+rats (n ¼ 9) using a McIlwain tissue chopper and transferred to an ice-cold HBSS. Six
+hippocampal slices were placed on each Millicell culture insert in 6-well culture
+plates together with 1 ml of culture medium per well. Culture medium (pH 7.3)
+consisted of 50% MEM, 25% horse serum and 25% HBSS supplemented with 36 mM
+glucose, 25 mM HEPES, 4 mM NaHCO3, 1% Fungizone and 0.1 mg/ml gentamicin.
+Cultures were incubated at 37  C in a 5% CO2/95% O2 atmosphere for 14 days in vitro
+prior to use. The medium was changed every 3 days.
+2.4.1. OGD and JM-20 treatment
+The induction of OGD was based on the method previously described by Strasser
+and Fischer (1995), with some modiﬁcations (Bernardi et al., 2008). After 14 days
+in vitro, the culture inserts were transferred to a sterilized 6-well plate and incubated with 1 ml of OGD medium (1.26 mM CaCl2, 5.36 mM KCl, 136.9 mM NaCl,
+0.34 mM H2PO4, 0.49 mM MgCl2, 0.44 mM MgSO4, and 25 mM HEPES, pH 7.2) for
+15 min to deplete glucose from intracellular stores and the extracellular space. Next,
+the medium was exchanged for OGD medium previously bubbled with N2/CO2 (95%/
+5%) for 10 min. The slice cultures were then transferred to an anaerobic chamber at
+37  C with an N2-enriched atmosphere for 60 min. During OGD, control slices were
+maintained in an incubator with a 5% CO2 atmosphere at 37  C. After the OGD period,
+the slice cultures were carefully washed twice with HBSS and then incubated for
+24 h in culture medium in the presence or absence of JM-20 (0.1, 1 and 10 mM) at
+37  C and 5% CO2/95% O2 atmosphere, which corresponded to the recovery period.
+Respective controls were performed without exposure to OGD. For this assay, JM-20
+was dissolved in dimethyl sulfoxide (DMSO) and added to the culture medium at 1/
+1000 (v/v) dilutions.
+2.4.2. Assessment of OGD-induced cell death
+Cell damage was assessed after 24 h (the recovery period) by ﬂuorescent image
+analysis of PI uptake (Noraberg et al., 1993), which indicated signiﬁcant membrane
+injury (Macklis and Madison, 1990). PI is excluded from healthy cells, but following
+the loss of cell membrane integrity, it enters into the cells, binds to DNA and becomes highly ﬂuorescent. Two hours before the end of the recovery period, PI (5 mM)
+was added to the culture medium. Cultures were observed with an inverted
+
+~ ez-Figueredo et al. / Neuropharmacology 85 (2014) 517e527
+Y. Nun
+microscope (Nikon Eclipse TE 300) using a standard rhodamine ﬁlter set. Images
+were captured and analyzed using the Scion Image software (http://www.scioncorp.
+com). The area where PI ﬂuorescence was detected above background levels was
+determined using the “density slice” option of the Scion Image software and
+compared to the total slice area to obtain the percentage of damage.
+2.5. MCAo-induced focal cerebral ischemia
+MCAo and reperfusion were performed as previously described, using an
+intraluminal ﬁlament model (Longa et al., 1989). Brieﬂy, anesthesia was induced
+with Ketamine (75 mg/kg) and Xylazine (8 mg/kg). The right carotid region was
+exposed, and the external and common carotid arteries were ligated with a 3-0 silk
+suture. A 25 mm length 4-0 nylon monoﬁlament (Somerville, Brazil), whose tip had
+been rounded and coated with poly-L-lysine (Zhao et al., 2008; Lourbopoulos et al.,
+2008), was introduced (18e20 mm) through the internal carotid artery, thereby
+occluding the middle cerebral artery origin. After 90 min of MCAo, reperfusion was
+permitted by gentle withdrawal of the suture (under the same anesthetic conditions
+as surgery). During MCAo procedures, the body temperature was maintained within
+the normal range (from 36.5  C to 37.5  C) with a heating pad. One hour after
+reperfusion, rats received a single oral dose of JM-20 (2, 4 or 8 mg/kg) or vehicle.
+Control (sham) rats received all surgical procedures except the suture insertion and
+were administered with vehicle or JM-20 (8 mg/kg). Twenty four hours after
+reperfusion, neurological deﬁcits were evaluated, and animals were euthanized for
+TTC staining (to measure the infarct size), histological, mitochondrial or biochemical
+analyses. The maximal effective dose of JM-20 (8 mg/kg) was also studied when
+administration was delayed for 1e23 h after reperfusion (n ¼ 8 animals per group).
+Vehicle-treated animals (administered 1 h after reperfusion), which received transient MCAo, were also included (n ¼ 8 animals per group). The infarct volume and
+neurological deﬁcits were measured at 24 h post-ischemia.
+2.5.1. Experimental groups
+Animals were randomly divided into 5 experimental groups (n ¼ 8 animals per
+group): (1) control ischemic-reperfusion (I/R) group with vehicle treatment, (2) I/R
+with JM-20 treatment (2 mg/kg), (3) I/R with JM-20 treatment (4 mg/kg), (4) I/R with
+JM-20 treatment (8 mg/kg), and (5) sham-operated group. All parameters were
+measured after the 24-h recovery period. Vehicle and JM-20 were administered by
+oral gastric gavage 1 h after reperfusion, and the variability in the dosing volumes
+was mitigated by adjusting the concentration to ensure a constant volume (10 ml/
+kg). Immediately before use, JM-20 was suspended in a 0.05% carboxymethylcellulose (CMC) solution (vehicle) and administered as a single dose (2, 4 or 8 mg/
+kg). The dose range was selected based on previous experience with this compound
+(Figueredo et al., 2013). Behavioral evaluations and cerebral infarct volume measurements were obtained from the same animals.
+2.5.2. Measurement of infarct size
+At 24 h post-reperfusion, brains (n ¼ 8 for each group) were removed, sliced into
+2-mm thick coronal slices and incubated in a 2% TTC solution at 37  C for 30 min.
+After ﬁxation in a 4% phosphate-buffered formalin solution, each stained section was
+digitally scanned, and the brain areas were measured with ImageJ 1.41 (National
+Institutes of Health, USA) (Bederson et al., 1986a,b). Infarct volume (mm3) was
+determined using the following formula: infarct volume ¼ 2 mm (thickness of the
+section)  [sum of the infarction area in all brain section (mm2)]. To minimize artifacts from postischemic edema in the infarct area, an edema index was calculated
+by dividing the total volume of the hemisphere ipsilateral to MCAo by the total
+volume of the contralateral hemisphere. The actual infarct volume adjusted for
+edema was calculated by dividing the infarct volume by the edema index (Belayev
+et al., 2008; Candelario-Jalil et al., 2005). Ischemic volumes were expressed as a
+percentage of the contralateral side.
+2.5.3. Neurological deﬁcit scoring
+Behavioral tests were performed 24 h after MCAo just prior to euthanasia.
+Neurological deﬁcits were assessed according to a six-point scale: 0 ¼ no observable
+neurological deﬁcit; 1 ¼ failure to extend left forepaw fully; 2 ¼ circling to the left if
+pulled by tail; 3 ¼ spontaneously circling to the left; 4 ¼ no spontaneous activity
+with a depressed level of consciousness; and 5 ¼ death (Zhao et al., 2008; Yuzawa
+et al., 2008; Schmid-Elsaesser et al., 1998).
+2.5.4. Excitatory amino acid (EAA) quantiﬁcation
+2.5.4.1. Cerebrospinal ﬂuid (CSF) sampling. After 90 min of MCAo and 24 h of
+reperfusion, rats (n ¼ 6 for each group) were anesthetized, placed in a stereotaxic
+apparatus, and CSF samples (40e60 mL per rat) were obtained through a direct
+puncture of the cisterna magna with an insulin syringe (27 gauge  1/2 in length)
+(Portela et al., 2002). To obtain cell-free supernatants, all samples were centrifuged
+at 10,000  g in an Eppendorf centrifuge for 5 min and stored (70  C) until use for
+quantiﬁcation of glutamate and aspartate levels by high-performance liquid chromatography (HPLC).
+2.5.4.2. HPLC. HPLC was used to quantify the glutamate and aspartate levels in CSF
+cell-free supernatant aliquots (Joseph and Marsden, 1986). Brieﬂy, samples were
+
+519
+
+derivatized with o-phthaldehyde and separated on a reverse phase column
+(Supelcosil LC-18, 250 mm  4.6 mm, Supelco) using a Shimadzu Instruments liquid
+chromatograph (50 mL loop valve injection). The mobile phase ﬂowed at a rate of
+1.4 mL/min, and the column temperature was 24  C. Buffer compositions were as
+follows: A, 0.04 M NaH2PO4 buffer, pH 5.5, 20% methanol; and B, 0.01 mol/L NaH2PO4
+H2O buffer, pH 5.5, 80% methanol. The gradient proﬁle was modiﬁed according to the
+content of buffer B in the mobile phase; 0% at 0.00 min, 25% at 13.75 min, 100% at
+15.00e20.00 min, and 0% at 20.01e25.00 min. The absorbance values were obtained
+at 360 nm and 455 nm for excitation and emission, respectively, in a Shimadzu
+ﬂuorescence detector. Samples of 50 mL were used, and the concentration was
+expressed in mM (Schmidt et al., 2009).
+2.5.5. Histopathology
+Animals (n ¼ 8 for each group) were anesthetized and transcardially perfused
+with ice-cold 0.9% saline for 10 min and then for 15 min with 4% paraformaldehyde
+in 0.1 mmol/L phosphate buffer. Animals were decapitated, and the brains were
+allowed to post-ﬁx overnight in 4% paraformaldehyde. Brains were embedded in
+parafﬁn, sliced in 5 mm thick coronal sections of different cerebral regions and
+processed for hematoxylin and eosin (H&E) (hippocampus and cortex) or Luxol fast
+blue staining (corpus striatum) (Sch€
+abitz et al., 2000). In the hemisphere ipsilateral to
+MCAo insult, a light microscope BR044 (Carl Zeiss) with an immersion objective lens
+(40  ) and a large-ﬁeld ocular lens (8) was used to measure the CA1 hippocampal
+normal and damaged neurons from sham-operated, vehicle- or JM-20-treated
+brains. A rat brain atlas with anatomical explanations of the terminology adopted
+by Paxinos and Watson (Paxinos and Watson, 2005) was used to identify the CA1
+region. Pyramidal cells showing atrophy, shrinkage, nuclear pyknosis, dark cytoplasmic coloration or ambient empty spaces all indicated cell degeneration (Bian
+et al., 2007). To assess neuronal damage, the average number of viable neurons in
+the ﬁxed lateral CA1 areas (150  320 mm) was counted from using ImageJ 1.41
+(National Institutes of Health, USA). Cell counts were expressed as a percentage of
+the sham group (Plahta et al., 2004).
+As in the hippocampus, an ocular grid with a square side of 130 mm in the 20
+ocular lens with a 40 objective was used to count the total numbers of normal and
+pathological neurons in each ﬁxed cortical region.
+In the corpus striatum, white matter lesions were evaluated. The myelin in 3
+sections per animal and both hemispheres of the selected areas were stained with
+Luxol fast blue. The severity of white matter lesions was graded as 0 (normal), 1
+(disarrangement of nerve ﬁbers), 2 (formation of marked vacuoles), and 3 (disappearance of myelinated ﬁbers), according to a previously described grading system
+(Wakita et al., 2002).
+2.6. Isolation of brain mitochondria
+Mitochondria were isolated from sham-operated rats brains and the ipsilateral
+cerebral hemispheres from rats treated with vehicle or JM-20 (2, 4 and 8 mg/kg) 1 h
+after reperfusion (n ¼ 5 for each group) as described by Mirandola et al. (2010), with
+minor modiﬁcations. Brieﬂy, after 90 min of MCAo and 24 h reperfusion, rats were
+sacriﬁced by decapitation, and their brains were rapidly removed (within 1 min) and
+placed into 10 mL of ice-cold ‘‘isolation buffer’’ containing 225 mM mannitol,
+75 mM sucrose, 1 mM K-EGTA, 0.1% bovine serum albumin (BSA, fatty-acid free), and
+10 mM K-HEPES (pH 7.2). The cerebellum and underlying structures were removed,
+and the remaining tissue, which was considered the forebrain, was used to isolate
+brain mitochondria. The forebrains were cut into small pieces using surgical scissors
+and extensively washed in isolation buffer. The tissue was then manually homogenized in a glass Dounce homogenizer with both a loose-ﬁtting and a tight-ﬁtting
+pestle. The homogenate was centrifuged for 3 min at 2000  g in a Hettich centrifuge (Germany), Rotanta 460R. After centrifugation, the supernatant was centrifuged for 8 min at 12,000  g. The pellet was resuspended in 10 mL isolation buffer
+containing 20 mL of 10% digitonin, which was used to release synaptosomal mitochondria, and recentrifuged for 10 min at 12,000  g. The supernatant and the upper
+light layer of the pellet were discarded, and the dark pellet was resuspended in
+isolation buffer devoid of EGTA. This homogenate was then centrifuged for 10 min at
+12,000  g. The supernatant was discarded, and the ﬁnal pellet gently washed and
+resuspended in isolation buffer devoid of EGTA, at an approximate protein concentration of 30e40 mg/mL. The entire procedure was carried out at 4  C. The
+respiratory control ratio (state 3/state 4 respiratory rate) was greater than 4,
+measured using 5 mM succinate as a substrate.
+To determine total mitochondrial calcium, the isolation buffers also contained
+ruthenium red (1 mM) to prevent Ca2þ inﬂux via calcium uniporters, oligomycin
+(1 mM) to inhibit the F1FO ATP synthase to preserve organelle membrane potentials,
+and Cyclosporine A (1 mM) to prevent any outﬂow of calcium via mitochondrial
+permeability transition pore. A mitochondrial suspension (2 mg/mL) was subjected
+to a hypo-osmotic shock with ultrapure water and to 3 consecutive ultrasound cycles of 5 min to release total intra-mitochondrial calcium.
+2.6.1. Continuous-monitoring mitochondrial assays
+Mitochondrial respiration was monitored polarographically by an oxygraph
+equipped with a Clark-type oxygen electrode (Hansatech instruments, Oxytherm
+electrode unit, UK), and the mitochondrial membrane potential (DJm) was
+
+520
+
+~ ez-Figueredo et al. / Neuropharmacology 85 (2014) 517e527
+Y. Nun
+
+Fig. 1. Protective effects of JM-20 on rat hippocampal organotypic slice culture cell damage induced by oxygen-glucose deprivation (OGD) for 60 min and 24 h of reperfusion. (A)
+Representative images of cultures show propidium iodide (PI) uptake 24 h after OGD. (B) Quantitative analysis of PI incorporation in control undamaged and JM-20-treated OGD
+slices. JM-20 was dissolved in culture medium and incubated with slices for 24 h (at the recovery/reperfusion period) after OGD. The results are presented as percentage of PI
+incorporation ± SEM (n ¼ 9). Scale Bar ¼ 1 mm. Different letters: p < 0.05, by ANOVA and post hoc NewmaneKeuls tests.
+
+determined spectroﬂuorimetrically using 10 mM safranine O as a probe (Zanotti and
+Azzone, 1980; Pardo-Andreu et al., 2011) in a POLARstar Omega ﬂuorescence
+spectrophotometer (Germany) at 495/586 nm excitation/emission wavelengths;
+these assays were performed in the presence of 0.1 mM EGTA and 2 mM K2HPO4.
+Mitochondrial swelling was estimated spectrophotometrically from the decrease in
+apparent absorbance at 540 nm using a Model U-2910 Hitachi spectrophotometer
+(Japan). Reactive oxygen species (ROS) were monitored spectroﬂuorimetrically using 1 mM Amplex red (Molecular Probes, OR, USA) and 1 UI/mL horseradish peroxidase at 563/587 nm excitation/emission wavelengths (Pardo-Andreu et al., 2011;
+Votyakova and Reynolds, 2001). Variations in free medium and mitochondrial calcium concentrations were examined by measuring changes in the absorbance
+spectrum of Arsenazo III, at 675e685 nm wavelengths (Bento et al., 2007). For all
+assays, mitochondria were energized with 5 mM potassium succinate (plus 2.5 mM
+rotenone) in a standard medium consisting of 125 mM sucrose, 65 mM KCl and
+10 mM HEPES-KOH, pH 7.4, at 30  C.
+
+2.6.2. Mitochondrial ultrastructural analysis
+Ultrastructural changes on brain mitochondria were evaluated by transmission
+electron microscopy. Mitochondrial suspension (2 mg/mL) was ﬁxed in 2.5%
+glutaraldehyde and 2% paraformaldehyde in 0.1 M cacodylate buffer (pH 7.4) for 2 h
+at 4  C. After three washes in cacodylate buffer, the tissues were postﬁxed with 1%
+osmium tetroxide plus 0.8% potassium ferricyanide and 5 mM CaCl2 in the same
+buffer for 1 h at room temperature and washed three times with cacodylate buffer.
+The pellet were then dehydrated in an acetone series and embedded in Polybed
+resin. Ultrathin sections were obtained with an ultramicrotome (UltraCut-UCT,
+Leica, Austria) and stained with 2% uranyl acetate (15 min) and lead citrate (5 min)
+and observed under a Zeiss EM109 (Carl Zeiss. Inc., Thornwood, NY, USA) transmission electron microscopy (Silva et al., 2013).
+
+2.6.3. Cytochrome c release from rat brain mitochondria
+Isolated rat brain mitochondria (2 mg/ml) were incubated (10 min) in standard
+medium supplemented with succinate (5 mM), rotenone (2.5 mM) and PI (2 mM).
+Mitochondria were sedimented by high-speed centrifugation, and the differential
+absorption spectra (reduced with dithionite/oxidized) of the supernatants were
+recorded in a 96-well plate (l ¼ 1 cm). The cytochrome c absorption extinction coefﬁcient (A550  A540 nm) was assumed to be 19.1 mM1 cm1 (Kruglov et al., 2008).
+
+2.7. Statistical analysis
+The GraphPad Prism 5.0 software (GraphPad Software Inc., USA) was used for
+statistical analyses. The data are expressed as the means ± SEM. Comparisons among
+different groups were performed by a one-way analysis of variance (ANOVA) followed by the NewmaneKeuls multiple comparison post hoc test. Differences were
+considered statistically signiﬁcant at p < 0.05. All analysis was conducted by one
+experimenter who was blinded to the experimental group designations.
+
+3. Results
+3.1. Protective effects of JM-20 from OGD-induced cell death in rat
+organotypic hippocampal slice cultures
+Organotypic hippocampal slice cultures are an in vitro model
+used to examine the mechanisms of neuronal injury where the
+basic hippocampal architecture and composition are relatively
+preserved (Stoppini et al., 1991). This culture method is frequently
+used to examine excitotoxic and hypoxic injury to hippocampal
+pyramidal neurons and to search for novel neuroprotective strategies. Here, organotypic hippocampal slice cultures were subjected to OGD for 60 min and 24 h of reperfusion in the presence or
+absence of JM-20. In undamaged controls lacking OGD exposure, PI
+ﬂuorescence was barely detectable (Fig. 1A), whereas OGD exposure caused prominent cell death, as assessed by PI incorporation.
+In OGD-exposed slices, JM-20 at concentrations of 0.1, 1 and 10 mM
+decreased cell death by 29%, 45% and 73, respectively, compared
+with the untreated OGD slices (Fig. 1AeB). Importantly, this
+molecule elicited its strong neuroprotective effects after OGD, i.e.,
+at the 24 h recovery/reperfusion period with a therapeutic-like
+mode of action.
+
+3.2. JM-20 reduced ischemic injury and improved neurological
+deﬁcits after transient MCAo in rats
+The neuroprotective and multifunctional mechanism of action
+~ ez-Figueredo et al., 2014) prompted us to extend our
+of JM-20 (Nun
+research to an in vivo study. We evaluated the neuroprotective effects of JM-20 on rats subjected to MCAo, a reliable and reproducible rodent model of cerebral ischemia that results in widely
+described sensorimotor and cognitive deﬁcits (Bederson et al.,
+1986a,b). JM-20 was orally administered at doses of 2, 4, and
+8 mg/kg, 1 h after reperfusion. TTC staining of consecutive brain
+sections demonstrated that JM-20 greatly reduced the infarct size
+(Fig. 2A) without any sign of tissue damage when administered
+under basal-non ischemic condition. Computer-assisted quantitative analysis revealed that the total infarct volume in MCAo rats
+
+~ ez-Figueredo et al. / Neuropharmacology 85 (2014) 517e527
+Y. Nun
+
+521
+
+treated with 4 or 8 mg/kg JM-20 was signiﬁcantly reduced
+(p < 0.05) when compared with the vehicle-treated group (from
+43% in the vehicle-treated group to 5.2% and 0.7%, respectively)
+(Fig. 2B). The overall reduction in these infarct volumes by JM-20
+could be attributed to a signiﬁcant reduction (p < 0.05) of cortical
+(no visible infarct at 4 and 8 mg/kg versus 33.11% in the vehicletreated group; Fig. 2B) and subcortical lesion sizes (a 4.97% and
+0.65% reduction at 4 and 8 mg/kg, respectively, versus 10.13% in the
+vehicle-treated group; Fig. 2B). The edema index was also signiﬁcantly reduced (p < 0.05) by JM-20 treatment at doses of 4 and
+8 mg/kg when compared with the vehicle-treated group (from 1.09
+in the vehicle-treated group to 1.04 and 1.00 in the 4 and 8 mg/kg
+groups, respectively) (Fig. 2C). Neurological scores were also
+assessed after 90 min of MCAo and 24 h of reperfusion. No significant neurological deﬁcits in the sham group were observed (results not shown), but severe neurological deﬁcits were detected in
+the vehicle-treated MCAo group. The rats in this group consistently
+showed circling movements, severe paw ﬂexion, or decreased
+spontaneous movements. JM-20 treatments (4 and 8 mg/kg) 1 h
+after reperfusion signiﬁcantly improved (p < 0.05) the neurological
+deﬁcits and decreased the neurological scores (Fig. 2D). In both
+groups, fewer movement abnormalities in posture and circling
+movements were observed compared with the vehicle-treated
+group, suggesting that acute JM-20 treatment improved the functional outcome after stroke.
+
+3.3. JM-20 reduced MCAo/reperfusion-induced histopathological
+damage
+Following 24 h of reperfusion, H&E staining showed histological
+changes in hippocampal (CA1) and cortical regions of injured brains
+(vehicle-treated rats) with the following characteristics: shrunken
+cells with condensed and triangulated-pyknotic nuclei surrounded
+by swollen cellular process and cytoplasmic eosinophilia (Fig. 3A).
+Luxol fast blue staining (LFB) also showed a loss of LFB in subcortical areas, which denote spongiform changes with a loss of ﬁber
+structure and a severe myelin loss. In contrast, normal tissue patterns were observed in brain sections from sham animals (Fig. 3A).
+JM-20 (4 and 8 mg/kg) inhibited (p < 0.05) the MCAo/reperfusioninduced damage in all brain regions examined (Fig. 3A). The most
+important histological signs of neuroprotection elicited by JM-20
+treatment were the preservation of hippocampal and cortical
+neurons, with the disappearance of vacuoles and protection from
+demyelination in subcortical ﬁbers. To quantitate the neuroprotective effects of JM-20, the percentage of damaged hippocampal and cortical cells was calculated. Fig. 3B and C shows a
+signiﬁcant decrease (p < 0.05) in injured hippocampal and cortical
+neurons when animals were treated with 4 and 8 mg/kg JM-20
+compared with the vehicle group. Similar patterns of protection
+were observed in the corpus striatum where the protective effects of
+JM-20 against myelin loss was estimated (Fig. 3D).
+
+Fig. 2. Post-ischemic acute JM-20 treatment reduced lesion volume, edema and
+behavioral deﬁcits in rats following 90 min of MCAo and 24 h reperfusion. JM-20 (2, 4,
+and 8 mg/kg) was orally administered 1 h after reperfusion. (A) Representative coronal
+brain sections (2-mm thick, measured in six serial coronal sections arranged from
+
+cranial to caudal regions and corrected for edema) from sham-operated, vehicle- or
+JM-20 (2, 4 and 8 mg/kg)-treated rats stained with 2% TTC 24 h after MCAo. Redcolored regions in the TTC-stained sections are non-ischemic, and pale-colored regions indicate the ischemic portions of the brain. Scale Bar ¼ 10 mm. (B) Quantitative
+analyses of cortical and subcortical infarct volumes. (C) The edema index was calculated by dividing the volume of the hemisphere ipsilateral to MCAo by the volume of
+the contralateral hemisphere. (D) Neurological deﬁcit scores 24 h after MCAo in
+ischemic vehicle-treated rats and after administration of different JM-20 doses. The
+infarct volume, edema index and neurological score from sham groups treated with
+vehicle or 8 mg/kg JM-20 were all equal to cero. Bars represent mean values ± SEM
+(n ¼ 8). Different letters: p < 0.05, by ANOVA and post hoc NewmaneKeuls tests. (For
+interpretation of the references to colour in this ﬁgure legend, the reader is referred to
+the web version of this article.)
+
+Fig. 3. Histological evaluation (hematoxylineeosin and Luxol fast blue staining) of the post-ischemic effects of acute JM-20 treatment. The panels show representative images (A) and
+morphometric analysis of the hippocampal (B) hematoxylineeosin, cortical (C) hematoxylineeosin, and corpus striatal (D) Luxol fast blue regions of the sham-operated, vehicle-, and
+JM-20-treated animals 24 h after reperfusion. Animals treated with JM-20 received a single oral dose of 2, 4 or 8 mg/kg 1 h after reperfusion. Scale Bar ¼ 50 mm.
+
+~ ez-Figueredo et al. / Neuropharmacology 85 (2014) 517e527
+Y. Nun
+
+3.4. JM-20 reduced cerebrospinal ﬂuid (CSF) concentrations of
+glutamate and aspartate
+Because an increase in glutamate and aspartate levels in the
+extracellular ﬂuid is associated with cerebral ischemia brain injuries (Benveniste, 2009), we sought to examine the effects of JM20 treatment on CSF levels of these EAA. As expected, 90 min of
+MCAo followed by 24 h of reperfusion caused a signiﬁcant increase
+(p < 0.05) in extracellular glutamate and aspartate concentrations
+compared with sham-operated rats (13.8 ± 3.48 mM versus
+4.8 ± 0.41 mM for glutamate and 5.70 ± 1.35 mM versus
+1.95 ± 0.27 mM for aspartate; Fig. 4). JM-20 administered 1 h after
+reperfusion at the neuroprotective dose of 8 mg/kg signiﬁcantly
+reduced (p < 0.05) the MCAo-induced increase in EAA concentrations compared with vehicle-treated rats (5.5 ± 1.55 and
+1.61 ± 0.26 mM for glutamate and aspartate, respectively). Such a
+reduction re-established normal EAA levels, as no differences were
+observed when compared to the sham-operated group.
+3.5. Therapeutic window for JM-20 administration in rats subjected
+to transient focal cerebral ischemia
+Given the potent neuroprotection observed with 8 mg/kg JM-20,
+we sought to deﬁne the therapeutic and protective window for JM20 administration after transient ischemia. Signiﬁcant total infarct
+volume reductions (p < 0.05) were observed when JM-20 was
+administered at 1 (98e99%), 2 (83e87%), 4 (74e77%), 6 (68e72%)
+and 8 h (61e66%) after reperfusion, but not when the JM-20
+administration was delayed by 16e23 h (Fig. 5A and B). This protection included cortical and subcortical regions, with the former
+mainly contributing to the overall neuroprotection observed in rats
+receiving JM-20 during a delayed therapeutic window. A similar
+proﬁle of neuroprotection was observed when neurological deﬁcits
+were evaluated (Fig. 5C); a signiﬁcant improvement (p < 0.05) in
+neurological scores was detected when JM-20 treatment was
+administered from 1 to 8 h after reperfusion. However, these
+neuroprotective effects were lost when JM-20 administration was
+delayed more than 16 h after the ischemic episode.
+3.6. In vivo post-ischemic JM-20 treatment prevented MCAoinduced mitochondrial dysfunction and the accumulation of
+organellar Ca2þ
+Many mechanisms involved in ischemic cell death have been
+associated with mitochondrial dysfunction (Sanderson et al., 2013).
+
+523
+
+To conﬁrm that mitochondria are direct JM-20 targets in the brain
+and to further probe its mechanism of action, we evaluated the
+effects of JM-20 on isolated brain mitochondria from animals
+subjected to 90 min MCAo and 24 h reperfusion. Fig. 6 shows that
+brain mitochondria isolated from vehicle-treated rats exposed to
+MCAo were more susceptible to spontaneous swelling, membrane
+potential dissipation and reactive oxygen species generation when
+compared with mitochondria from sham-operated rats (trace ‘b’
+versus trace ‘a’ in Fig. 6AeC). This ischemic intervention also
+increased the total Ca2þ concentration in the organelles (Fig. 6D).
+The ultrastuctural analysis revealed a normal morphology in
+mitochondria isolated from the sham operated rats, contrasting
+with the presence of abnormal-irregularly shaped organelles with
+shortening and disintegrating cristae in vehicle treated ischemic
+brains (Fig. 6E). Post-ischemic JM-20 treatment dose-dependently
+improved mitochondrial function, as evidenced by decreased
+spontaneous organellar swelling, a preservation of membrane potential, and a reduction in reactive oxygen species generation (trace
+‘b’ versus traces ‘c’, ‘d’, and ‘e’ in Fig. 6AeC). The morphological
+examination also supported such functional improvement, evidenced by the presence of regularly-rounded mitochondria
+showing increased number of elongated cristae, particularly at a
+dose of 8 mg/kg (Fig. 6E). Remarkably, JM-20 treatment also
+reduced the total Ca2þ levels in mitochondria isolated from
+ischemic rat brains (Fig. 6D), an effect that could explain the in vivo
+mitoprotective effects elicited by JM-20 from ischemic rats brains.
+Mitochondrial membrane potential dissipation, reactive oxygen
+species generation, and permeability transition pores from Ca2þ
+accumulation in mitochondria are all events implicated in neuronal
+cell death mediated by the intrinsic pathways involved in ischemic/
+reperfusion brain damage (Fujimura et al., 1998; Borutaite et al.,
+2013; Javadov and Kuznetsov, 2013). In this case, cytochrome c
+release from the mitochondria into the cytoplasm is a potent
+physiological stimulus for caspase-9 and caspase-3 activation
+(Green and Reed, 1998). Therefore, the inhibition of cytochrome c
+release might be a primary target of the in vivo neuroprotective
+effects of JM-20 in brain ischemia. We observed that at 8 mg/kg,
+this novel molecule inhibited cytochrome c release from mitochondria when administered 1 h after rat brain MCAo ischemia/
+reperfusion (Fig. 7). Considering the critical role of mitochondria in
+apoptotic pathways, the relationship between JM-20 mitoprotection and the inhibition of cytochrome c release is most likely an
+important clue to one of its primary/direct mechanisms of therapeutic action (Green and Reed, 1998).
+4. Discussion
+
+Fig. 4. Effects of JM-20 on the MCAo-induced increase of EAA concentrations in rat
+brains 24 h after reperfusion. JM-20 (8 mg/kg) or vehicle (CMC 0.05%) was orally
+administered 1 h after reperfusion. Cerebrospinal ﬂuid was collected 24 h after
+reperfusion and analyzed by HPLC to determine glutamate (white bars) and aspartate
+(black bars) concentrations. Bars represent mean values ± SEM (n ¼ 6). Different letters: p < 0.05, by ANOVA and post hoc NewmaneKeuls tests.
+
+The main ﬁnding in this present study is that JM-20 treatment
+reduced the cerebral damage caused by MCAo in rats, which was
+accompanied by mitochondrial stabilization and a decrease of EAA
+release. JM-20 treatment produced neuroprotective actions even
+when treatment was delayed up to 8 h after reperfusion and
+without any apparent toxic effects on brain tissues under basal-non
+ischemic conditions.
+Cerebral stroke leads to a diminished brain blood supply that
+consequently results in substantial tissue damage. Reperfusion also
+contributes to the post-ischemic deleterious outcomes, in part,
+because of the exacerbation of oxidative stress, a process that involves mitochondria disorder (Li et al., 2012). Abnormal mitochondrial membrane potential, resulting from energetic
+impairments after ischemic events, is a known condition involved
+in increased ROS generation following reperfusion, causing structural and functional mitochondrial damage and eventually
+neuronal death (Sanderson et al., 2013). Our results support this
+mechanism because brain mitochondria isolated from ischemic rats
+
+524
+
+~ ez-Figueredo et al. / Neuropharmacology 85 (2014) 517e527
+Y. Nun
+
+Fig. 5. Effects of JM-20 (8 mg/kg) on cortical and subcortical infarct volumes and behavioral deﬁcits at different administration times after transient focal cerebral ischemia in rats.
+JM-20 (8 mg/kg) was orally administered at 1, 2, 4, 6, 8, 16 and 23 h after reperfusion. Vehicle was administered 1 h after reperfusion. (A) Representative coronal brain sections (2mm thick) from sham-operated, vehicle- or JM-20 (8 mg/kg)-treated rats stained with 2% TTC after 24 h of MCAo (measured in six serial coronal sections arranged from cranial to
+caudal regions and corrected for edema). Scale Bar ¼ 10 mm. (B) Quantitative analyses of cortical and subcortical infarct volumes. (C) Neurological deﬁcit scores 24 h after MCAo in
+vehicle-treated rats and after delayed administration of JM-20 (8 mg/kg). Bars represent mean values ± SEM (n ¼ 8). Different letters: p < 0.05, by the ANOVA and post hoc
+NewmaneKeuls tests.
+
+(vehicle-treated group) spontaneously lost their DJm, generated
+higher ROS levels, and were more prone to membrane permeabilization/swelling when compared with the sham group. Such
+events were associated with higher intramitochondrial Ca2þ levels
+and increased release of the pro-apoptotic cytochrome c, which
+
+was prevented by ADP plus oligomycin (result not shown), well
+known inhibitors of mitochondrial permeability transition pores
+(Saito and Castilho, 2010). It is widely described that excessive
+mitochondrial calcium uptake can cause non-selective permeabilization of the inner mitochondrial membrane, also known as
+
+~ ez-Figueredo et al. / Neuropharmacology 85 (2014) 517e527
+Y. Nun
+
+525
+
+Fig. 6. Effects of in vivo JM-20 treatment on mitochondrial dysfunction associated with MCAo in rats. JM-20 (2, 4, and 8 mg/kg) or vehicle (CMC 0.05%) were orally administered 1 h
+after reperfusion. Rat brain mitochondria were isolated 24 h after reperfusion and assessed for mitochondria swelling (A), mitochondria membrane potential (B), H2O2 generation
+(C), total intramitochondrial calcium levels (D), and Representative images of mitochondrial morphology by transmission electron microscopy (E). The assay conditions are
+described in Materials and methods. Experimental conditions were rat brain mitochondria (RBM) isolated from sham (trace a), vehicle-treated (trace b), and JM-20 treated rats (2, 4
+and 8 mg/kg traces c, d, and e, respectively). In Panel B (trace f), the incubation medium was supplemented with the classic protonophore, carbonyl cyanide m-chlorophenyl
+hydrazone (CCCP 1 mM). In Panel E the arrow shows a mitochondrion with shortened and disintegrating cristae. Scale bars ¼ 500 nm. Panels AeE are representative of 3 different
+mitochondrial preparations. Panel D is expressed as the means ± SEM of 3 experiments. Different letters: p < 0.05, by ANOVA and post hoc NewmaneKeuls tests.
+
+mitochondrial permeability transition (MPT) pores (Crompton,
+1993; Kowaltowski et al., 2001), that could also contribute to
+mitochondrial swelling and DJm dissipation from massive proton
+leakage (Crompton, 1993; Kowaltowski et al., 2001).
+Calcium-induced cytochrome c release, which occurs in neurons
+during stroke and ischemia, involves the rupture of the mitochondrial outer membrane (MOM) and can be blocked by inhibitors
+of mitochondrial permeability transition pores. Thus, inhibitors of
+MPT have shown efﬁcacy in animal models of ischemia (Jemmerson
+et al., 2005). In this regard, JM-20 most likely prevented MPTinduced mitochondrial alterations through the inhibition of calcium inﬂux into the organelles because mitochondria isolated from
+in vivo-treated rats exhibited lower calcium levels, a slower DJm
+dissipation rate, reduced ROS generation, increased swelling
+resistance and lower levels of cytochrome c released into the medium when compared with the mitochondria obtained from the
+brains of vehicle-treated rats. These results are in agreement with
+our previous report showing the in vitro mitoprotective effects of
+JM-20 in isolated rat liver mitochondria, where JM-20 exerted
+similar protection to the protective effects elicited by the classic
+MPT inhibitor CsA against calcium plus Pi-mediated mitochondrial
+~ ez-Figueredo et al., 2014). Moreover, in this recent
+impairment (Nun
+study, JM-20 also inhibited Ca2þ-mediated cytochrome c release, a
+process critically involved in apoptosis and often associated with
+MPT (Kim et al., 2003; Jemmerson et al., 2005).
+The precise mechanisms underlying the JM-20-induced reduction in total mitochondrial calcium levels observed here are
+currently not fully known. We recently reported that this molecule
+prevented the in vitro Ca2þ uptake in energized rat liver mito~ ez-Figueredo et al., 2014). This effect could explain
+chondria (Nun
+the lower intramitochondrial Ca2þ levels after in vivo JM-20 treatment. However, the reduction of calcium entry into neurons
+through the suppressed activation of L-subtype voltage-gated calcium channels after ischemic depolarization by the dihydropyridine moiety of JM-20 is another plausible mechanism. The
+inhibition of Ca2þ entry at both the neuronal and mitochondrial
+levels by nimodipine and ruthenium red, respectively, have been
+reported as neuroprotective in rats subjected to MCAo and
+
+reperfusion (Zhao et al., 2013; Babu and Ramanathan, 2011). Thus,
+the former, latter or both mechanisms may partly explain JM-20's
+neuroprotective effects.
+We also observed that CSF glutamate and aspartate levels were
+augmented as result of the ischemic event 24 h after reperfusion
+onset. This observation was not surprising because excitotoxicity is
+one of the major mechanisms associated with neuronal damage in
+stroke, which is triggered by an exacerbated increase in extracellular excitatory transmitter levels (Benveniste, 2009). In fact,
+mitochondrial Ca2þ overload and dysfunction, from the excitotoxic
+activation of glutamate receptors, is a crucial early event that follows ischemic or traumatic brain injury (Nicholls et al., 2007).
+Treatment with JM-20 (8 mg/kg) markedly reduced the CSF levels
+of these EAA, which could contribute to the overall neuroprotection
+elicited by JM-20. The lowering of CSF EAA levels observed after
+in vivo JM-20 treatment could reﬂect the preservation of neuronal
+cell integrity and mitochondrial functionality, which may restore
+energy balance and consequently the function of the neuronal
+membrane ATP-dependent ionic pumps. Accordingly, we recently
+reported that JM-20 has the ability to inhibit the hydrolytic activity
+of the mitochondrial F1FO ATP synthase in submitochondrial par~ ez-Figueredo et al.,
+ticles and intact rat liver mitochondria (Nun
+2014). Therefore, our results suggest that JM-20 may prevent
+neuronal cell death during ischemia by also maintaining cell energy
+balance, which in turn could drive neuronal recovery processes.
+Neuroprotection from ischemic stroke is deﬁned as any strategy
+that antagonizes, interrupts, or slows the sequence of injurious
+biochemical and molecular events that, if left unchecked, would
+end in irreversible ischemic brain injury (Ginsberg, 2008). In this
+sense, neuroprotective approaches predict that ischemic brain
+damage can be prevented, in part, from evolving into infarctions
+through any intervention that modulates key aspects of the
+ischemic cascade. Great effort has been invested to decipher
+ischemic mechanisms and elucidate neuroprotective therapies.
+Among the numerous identiﬁed steps, excessive activation of ionotropic glutamate receptors, intracellular calcium accumulation,
+overproduction of free radicals, neuroinﬂammation, and initiation
+of apoptotic signaling are believed to play critical roles in ischemic
+
+526
+
+~ ez-Figueredo et al. / Neuropharmacology 85 (2014) 517e527
+Y. Nun
+
+Fig. 7. Effects of JM-20 on MCAo-induced cytochrome c release from rat brain mitochondria isolated 24 h after reperfusion onset. JM-20 (8 mg/kg) or vehicle (CMC 0.05%)
+was orally administered 1 h after reperfusion. Incubation conditions are described in
+the Materials and Methods. Rat brain mitochondria (2 mg/ml) were sedimented after a
+standard incubation period. The data are presented as the means ± SEM of 3 independent experiments. Different letters: p < 0.05, by ANOVA and post hoc NewmaneKeuls tests.
+
+damage (Fisher, 1997). It is predicted that the interruption of these
+steps could protect brain tissue. Additionally, it is crucial that
+effective neuroprotective approaches include either a combination
+of strategies directed toward multiple cell death pathways or the
+use of a single compound that may affect more than one cell death
+mechanism. Mitochondria are directly or indirectly linked to most
+of the above-mentioned mediators of ischemic damage; thus, targeting these organelles may allow the simultaneous modulation of
+various mechanisms relevant to a brain ischemic event. In this regard, “mitochondrial therapeutics” may hold promise for preventing cell injuries related to ischemic brain injury (Christophe
+and Nicolas, 2006).
+Here we observed that in vivo post-ischemic JM-20 treatment
+most likely targets rat brain mitochondria, as it prevents several
+mitochondrial events linked to ischemic neuronal damage, such as
+intramitochondrial Ca2þ overload, the opening of permeability
+transition pores, membrane potential dissipation and cytochrome c
+release. We propose that these events may contribute to the strong
+neuroprotective effects elicited by this novel molecule. At the same
+time, its ability to reduce CSF glutamate and aspartate levels of
+ischemic rats may be associated with other extramitochondrial
+sites of action, such as neuronal GABA receptors. We recently
+demonstrated that JM-20 had a similar anxiolytic and sedative
+proﬁle to diazepam, which was most likely mediated by its in vivo
+GABAergic effects (Figueredo et al., 2013). On the other hand, we
+have previously suggested that the cytoprotective effects exerted
+by JM-20 on primary cerebellar granule neuron cultures exposed to
+toxic concentrations of glutamate possibly involved functional
+GABAergic enhancements due to its benzodiazepine-like structure
+~ ez-Figueredo et al., 2014). Potentiation of endogenous GABA
+(Nun
+activity could counteract the excitotoxic cascade by reducing
+postsynaptic hyperexcitability and presynaptic glutamate release
+from nerve terminals (Green et al., 2000). Because it has been
+demonstrated that GABA receptor agonists are neuroprotective (Xu
+et al., 2008), the participation of GABA and NMDA receptors in the
+neuroprotection elicited by JM-20 may be interesting to assess. To
+our knowledge, this is the ﬁrst time that a multi-target drug
+candidate that has anti-excitotoxic and mitoprotective effects has
+been preclinically evaluated in experimental brain ischemia
+models. The combination of several anti-ischemic effects into one
+small molecule endows it with a high potential translation from the
+bench to bedside as a neuroprotective agent against ischemic
+stroke.
+Notably, the effects of JM-20 on both cerebral infarct volume and
+neurological performance manifested even when JM-20
+
+administration was delayed up to 8 h after reperfusion, indicating a
+wide therapeutic time window for JM-20 administration in a rat
+stroke model. As previously suggested (Li and Stephenson, 2002),
+preclinical studies demonstrating neurological function preservation in addition to a reduction in infarct size may improve the
+predictive value of animal models for clinical efﬁcacy of novel
+neuroprotective agents.
+Our results showed the beneﬁcial effects of JM-20 against cerebral ischemia and paved the way for a potential therapeutic
+clinical application. In particular, this present study strongly suggests the ability of JM-20 to simultaneously target several critical
+aspects of the ischemic cascade, i.e., excitotoxicity and mitochondrial impairment. JM-20's mitoprotective effects may also provide
+other potential therapeutic applications in other CNS neurodegenerative disorders associated to mitochondrial alterations, such
+as Parkinson and Alzheimer diseases.
+Acknowledgments
+This work was partially supported by CAPES-Brazil/MES-Cuba
+projects 140/11 and 092/10, INCT-EN/CNPq (Brazil), IBN.Net/CNPq
+(Brazil), FAPERGS/RS, and the Non-Governmental Organization
+MEDICUBA-SPAIN. We are grateful to the Plataforma de Microscopia Eletronica-Centro de Pesquisa Gonc
+̧alo Muniz, Fundaçaeo
+Oswaldo Cruz, Salvador, Brazil for mitochondrial electronic microscopy images.
+References
+Babu, C.S., Ramanathan, M., 2011. Post-ischemic administration of nimodipine
+following focal cerebral ischemic-reperfusion injury in rats alleviated excitotoxicity, neurobehavioural alterations and partially the bioenergetics. Int. J. Dev.
+Neurosci. 29, 93e105.
+Balucani, C., Barlinn, K., Zivanovic, Z., Parnetti, L., Silvestrini, M., Alexandrov, A.V.,
+2010. Dual antiplatelet therapy in secondary prevention of ischemic stroke: a
+ghost from the past or a new frontier? Stroke Res. Treat. 2010, 427418.
+Bederson, J.B., Pitts, L.H., Germano, S.M., Nishimura, M.C., Davis, R.L.,
+Bartkowski, H.M., 1986a. Evaluation of 2,3,5-triphenyltetrazolium chloride as a
+stain for detection and quantiﬁcation of experimental cerebral infarction in rats.
+Stroke 17, 1304e1308.
+Bederson, J.B., Pitts, L.H., Tsuji, M., Nishimura, M.C., Davis, R.L., Bartkowski, H.,
+1986b. Rat middle cerebral artery occlusion: evaluation of the model and
+development of a neurologic examination. Stroke 17, 472e476.
+Belayev, L., Khoutorova, L., Atkins, K., Gordon, W.C., Alvarez-Builla, J., Bazan, N.G.,
+2008. Lau-0901, a novel platelet-activating factor antagonist, is highly neuroprotective in cerebral ischemia. Exp. Neurol. 214, 253e258.
+Bento, L.M.A., Fagian, M.M., Vercesi, A.E., Gontijo, J.A.R., 2007. Effects of NH4Clinduced systemic metabolic acidosis on kidney mitochondrial coupling and
+calcium transport in rats. Nephrol. Dial. Transpl. 22, 2817e2823.
+Benveniste, H., 2009. Glutamate, microdialysis, and cerebral ischemia: lost in
+translation? Anesthesiology 110, 422e425.
+€ger, E., Figueiro
+, F., Bavaresco, L., Salbego, C.,
+Bernardi, A., Frozza, R.L., Ja
+Pohlmann, A.R., Guterres, S.S., Battastini, A.M., 2008. Selective cytotoxicity of
+indomethacin and indomethacin ethyl ester-loaded nanocapsules against glioma cell lines: an in vitro study. Eur. J. Pharmacol. 586, 24e34.
+Bian, Q., Shia, T., Chuang, De M., Qian, Y., 2007. Lithium reduces ischemia-induced
+hippocampal CA1 damage and behavioral deﬁcits in gerbils. Brain Res. 1184,
+270e276.
+Borutaite, V., Toleikis, A., Brown, G.C., 2013. In the eye of the storm: mitochondrial
+damage during heart and brain ischaemia. FEBS J. 280, 4999e5014.
+Broussalis, E., Killer, M., McCoy, M., Harrer, A., Trinka, E., Kraus, J., 2012. Current
+therapies in ischemic stroke. Part A. Recent developments in acute stroke
+treatment and in stroke prevention. Drug. Discov. Today 17, 296e309.
+Candelario-Jalil, E., Mhadu, N., Gonzalez-Falcon, A., Garcia-Cabrera, M., Munoz, E.,
+Leon, O., Fiebich, B.L., 2005. Effects of the cyclooxygenase-2 inhibitor nimesulide on cerebral infarction and neurological deﬁcits induced by permanent
+middle cerebral artery occlusion in the rat. J. Neuroinﬂamm. 2, 3.
+Cavalli, A., Bolognesi, M.L., Minarini, A., Rosini, M., Tumiatti, V., Recanatini, M.,
+Melchiorre, C., 2008. Multi-target-directed ligands to combat neurodegenerative diseases. J. Med. Chem. 51, 347e372.
+Christophe, M., Nicolas, S., 2006. Mitochondria: a target for neuroprotective interventions in cerebral ischemia-reperfusion. Curr. Pharm. Des. 12, 739e757.
+Crompton, M., 1993. The mitochondrial permeability transition pore and its role in
+cell death. Biochem. J. 341, 233e249.
+Figueredo, Y.N., Rodríguez, E.O., Reyes, Y.V., Domínguez, C.C., Parra, A.L.,
+nchez, J.R., Herna
+ndez, R.D., Verdecia, M.P., Pardo Andreu, G.L., 2013.
+Sa
+
+~ ez-Figueredo et al. / Neuropharmacology 85 (2014) 517e527
+Y. Nun
+Characterization of the anxiolytic and sedative proﬁle of JM-20: a novel
+benzodiazepine-dihydropyridine hybrid molecule. Neurol. Res. 35, 804e812.
+Fisher, M., 1997. Characterizing the target of acute stroke therapy. Stroke 28,
+866e872.
+Fisher, M., 2011. New approaches to neuroprotective drug development. Stroke 42,
+S24eS27.
+Fujimura, M., Morita-Fujimura, Y., Murakami, K., Kawase, M., Chan, P.H., 1998.
+Cytosolic redistribution of cytochrome c after transient focal cerebral ischemia
+in rats. J. Cereb. Blood Flow. Metab. 18, 1239e1247.
+Geldenhuys, W.J., Youdim, M.B., Carroll, R.T., Van der Schyf, C.J., 2011. The emergence of designed multiple ligands for neurodegenerative disorders. Prog.
+Neurobiol. 94, 347e359.
+Ginsberg, M.D., 2008. Neuroprotection for ischemic stroke: past, present and future.
+Neuropharmacology 55, 363e389.
+Green, A.R., Hainsworth, A.H., Jackson, D.M., 2000. GABA potentiation: a logical
+pharmacological approach for the treatment of acute ischaemic stroke.
+Neuropharmacology 39, 1483e1494.
+Green, D.R., Reed, J.C., 1998. Mitochondria and apoptosis. Science 281, 1309e1312.
+Howells, D.W., Donnan, G.A., 2010. Where will the next generation of stroke
+treatments come from? PLoS Med. 7, e1000224.
+Javadov, S., Kuznetsov, A., 2013. Mitochondrial permeability transition and cell
+death: the role of cyclophilin d. Front. Physiol. 4 http://dx.doi.org/10.3389/
+fphys.2013.00076.
+Jemmerson, R., Dubinsky, J.M., Brustovetsky, N., 2005. Cytochrome C release from
+CNS mitochondria and potential for clinical intervention in apoptosis-mediated
+CNS diseases. Antioxid. Redox Signal 7, 1158e1172.
+Joseph, M.H., Marsden, C.A., 1986. Amino acids and small peptides. In: Lim, C.K.
+(Ed.), HPLC of Small Molecules; a Practical Approach. IRL Press, Oxford,
+pp. 13e47.
+Kim, M.H., Jung, Y.S., Moon, C.H., Lee, S.H., Baik, E.J., Moon, C.K., 2003. High-glucose
+induced protective effect against hypoxic injury is associated with maintenance
+of mitochondrial membrane potential. Jpn. J. Physiol. 53, 451e459.
+Kowaltowski, A.J., Castilho, R.F., Vercesi, A.E., 2001. Mitochondrial permeability
+transition and oxidative stress. FEBS Lett. 495, 12e15.
+Kruglov, A.G., Subbotina, K.B., Saris, N.E.L., 2008. Redox-cycling compounds can
+cause de permeabilization of mitochondrial membranes by mechanisms other
+than ROS production. Free Radic. Biol. Med. 44, 646e656.
+Li, J., Ma, X., Yu, W., Lou, Z., Mu, D., Wang, Y., Shen, B., Qi, S., 2012. Reperfusion
+promotes mitochondrial dysfunction following focal cerebral ischemia in rats.
+PLoS One 7, e46498.
+Li, Q., Stephenson, D., 2002. Postischemic administration of basic ﬁbroblast growth
+factor improves sensorimotor function and reduces infarct size following permanent focal cerebral ischemia in the rat. Exp. Neurol. 177, 531e537.
+Longa, E.Z., Weinstein, P.R., Carlson, S., Cummins, R., 1989. Reversible middle cerebral artery occlusion without craniectomy in rats. Stroke 20, 84e91.
+Lourbopoulos, A., Karacostas, D., Artemis, N., Milonas, I., Grigoriadis, N., 2008. Effectiveness of a new modiﬁed intraluminal suture for temporary middle cerebral artery occlusion in rats of various weight. J. Neurosci. Methods 173, 225e234.
+Macklis, J.D., Madison, R.D., 1990. Progressive incorporation of propidium iodide in
+cultured mouse neurons correlates with declining electrophysiological status: a
+ﬂuorescence scale of membrane integrity. J. Neurosci. Methods 31, 43e46.
+^ Castilho, R.F., 2010. 3-nitropropionic acidMirandola, S.R., Melo, D.R., Saito, A.,
+induced mitochondrial permeability transition: comparative study of mitochondria from different tissues and brain regions. J. Neurosci. Res. 88, 630e639.
+Nicholls, D.G., Johnson-Cadwell, L., Vesce, S., Jekabsons, M., Yadava, N., 2007. Bioenergetics of mitochondria in cultured neurons and their role in glutamate
+excitotoxicity. J. Neurosci. Res. 85, 3206e3212.
+Noraberg, J., Kristensen, B.W., Zimmer, J., 1993. Markers for neuronal degeneration
+in organotypic slice cultures. Brain Res. Brain Res. Protoc. 3, 278e290.
+~ ez-Figueredo, Y., Ramírez-Sa
+nchez, J., Delgado-Hern
+Nun
+andez, R., PortolezVerdecia, M., Ochoa-Rodríguez, E., Verdecia-Reyes, Y., Marin-Prida, J., Gonza
+Durruthy, M., Uyemura, S.A., Curti, C., Souza, D.O., Pardo Andreu, G.L., 2014. JM20, a novel benzodiazepine-dihydropyridine hybrid molecule, protects mitochondria and prevents neural cells death from in vitro ischemic insults. Eur. J.
+Pharmacol. 726, 57e65.
+~ ez-Figueredo, Y., Tudella, V.G., Cuesta-Rubio, O.,
+Pardo-Andreu, G.L., Nun
+Rodrigues, F.P., Pestana, C.R., Uyemura, S.A., Leopoldino, A.M., Alberici, L.C.,
+
+527
+
+Curti, C., 2011. The anti-cancer agent guttiferone-a permeabilizes mitochondrial
+membrane: ensuing energetic and oxidative stress implications. Toxicol. Appl.
+Pharmacol. 253, 282e289.
+Paxinos, G., Watson, C., 2005. The Rat Brain in Stereotaxic Coordinates. Elsevier
+Academic Press, San Diego.
+Plahta, W.C., Clark, D.L., Colbourne, F., 2004. 17beta-estradiol pretreatment reduces
+CA1 sector cell death and the spontaneous hyperthermia that follows forebrain
+ischemia in the gerbil. Neuroscience 129, 187e193.
+Portela, L.V.C., Oses, J.P., Silveira, A.L., Schmidt, A.P., Lara, D.R., Battastini, A.M.O.,
+, L., Freitas-Sarkis, J.J., Souza, D.O., 2002. Guanine and
+Ramirez, G., Vinade
+adenine nucleotidase activities in rat cerebrospinal ﬂuid. Brain Res. 950, 74e78.
+Saito, A., Castilho, R.F., 2010. Inhibitory effects of adenine nucleotides on brain
+mitochondrial permeability transition. Neurochem. Res. 35, 1667e1674.
+Sanderson, T., Reynolds, C., Kumar, R., Przyklenk, K., Hüttemann, M., 2013. Molecular mechanisms of ischemiaereperfusion injury in brain: pivotal role of the
+mitochondrial membrane potential in reactive oxygen species generation. Mol.
+Neurobiol. 47, 9e23.
+€bitz, W.R., Li, F., Fisher, M., 2000. The N-methyl-D-aspartate antagonist CNS
+Scha
+1102 protects cerebral gray and white matter from ischemic injury following
+temporary focal ischemia in rats. Stroke 31, 1709e1714.
+Schmid-Elsaesser, R., Zausinger, S., Hungerhuber, E., Baethmann, A., Reulen, H.J.,
+1998. A critical reevaluation of the intraluminal thread model of focal cerebral
+ischemia. Stroke 29, 2162e2170.
+€hmer, A.E., Hansel, G., Knorr, L.,
+Schmidt, A.P., Tort, A.B.L., Silveira, P.P., Bo
+Schallenberger, C., Dalmaz, C., Elisabetsky, E., Crestana, R.H., Lara, D.R.,
+Souza, D.O., 2009. The NMDA antagonist MK-801 induces hyperalgesia and
+increases csf excitatory amino acids in rats: reversal by guanosine. Pharmacol.
+Biochem. Behav. 91, 549e553.
+Silva, V.D., Pitanga, B.P., Nascimento, R.P., Souza, C.S., Coelho, P.L., Menezes-Filho, N.,
+Silva, A.M., Costa Mde, F., El-Bacha, R.S., Velozo, E.S., Costa, S.L., 2013. Juliprosopine and Juliprosine from Prosopis juliﬂora leaves induce mitochondrial
+damage and cytoplasmic vacuolation on cocultured glial cells and neurons.
+Chem. Res. Toxicol. 26, 1810e1820.
+Stoppini, L., Buchs, P.A., Muller, D., 1991. A simple method for organotypic cultures
+of nervous tissue. J. Neurosci. Methods 37, 173e182.
+Strasser, U., Fischer, G., 1995. Protection from neuronal damage induced by combined oxygen and glucose deprivation in organotypic hippocampal cultures by
+glutamate receptor antagonists. Brain Res. 687, 167e174.
+Van der Schyf, C.J., 2011. The use of multi-target drugs in the treatment of neurodegenerative diseases. Expert Rev. Clin. Pharmacol. 4, 293e298.
+Votyakova, T.V., Reynolds, I.J., 2001. DeltaPsi(m)-Dependent and -independent
+production of reactive oxygen species by rat brain mitochondria. J. Neurochem.
+79, 266e277.
+Wakita, H., Tomimoto, H., Akiguchi, I., Matsuo, A., Lin, J.X., Ihara, M., McGeer, P.L.,
+2002. Axonal damage and demyelination in the white matter after chronic
+cerebral hypoperfusion in the rat. Brain Res. 924, 63e70.
+Xing, C., Arai, K., Lo, E.H., Hommel, M., 2012. Pathophysiologic cascades in ischemic
+stroke. Int. J. Stroke 7, 378e385.
+Xu, J., Li, C., Yin, X.H., Zhang, G.Y., 2008. Additive neuroprotection of GABA A and
+GABA B receptor agonists in cerebral ischemic injury via PI-3K/Akt pathway
+inhibiting the ASK1-JNK cascade. Neuropharmacology 54, 1029e1040.
+Youdim, M.B.H., 2013. Multi target neuroprotective and neurorestorative antiParkinson and anti-Alzheimer drugs ladostigil and M30 derived from rasagiline. Exp. Neurobiol. 22, 1e10.
+Yuzawa, I., Yamada, M., Fujii, K., 2008. An oral administration of cilostazol before
+focal ischemia reduces the infarct volume with delayed cerebral blood ﬂow
+increase in rats. J. Stroke Cerebrovasc. Dis. 17, 281e286.
+Zanotti, A., Azzone, G.F., 1980. Safranine as membrane potential probe in rat liver
+mitochondria. Arch. Biochem. Biophys. 201, 255e265.
+Zhao, H., Mayhan, W.G., Sun, H., 2008. A modiﬁed suture technique produces
+consistent cerebral infarction in rats. Brain Res. 30, 158e166.
+Zhao, Q., Wang, S., Li, Y., Wang, P., Li, S., Guo, Y., Yao, R., 2013. The role of the
+mitochondrial calcium uniporter in cerebral ischemia/reperfusion injury in rats
+involves regulation of mitochondrial energy metabolism. Mol. Med. Rep. 7,
+1073e1080.
+
+

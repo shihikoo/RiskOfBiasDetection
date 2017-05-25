@@ -1,0 +1,1027 @@
+Experimental Neurology 267 (2015) 243–253
+
+Contents lists available at ScienceDirect
+
+Experimental Neurology
+journal homepage: www.elsevier.com/locate/yexnr
+
+Regular Article
+
+Spreading depolarizations mediate excitotoxicity in the development of
+acute cortical lesions☆
+Jason M. Hinzman a,⁎, Vince A. DiNapoli a,b, Eric J. Mahoney a, Greg A. Gerhardt c, Jed A. Hartings a,b
+a
+
+Department of Neurosurgery, University of Cincinnati (UC) College of Medicine and Neurotrauma Center at UC Neuroscience Institute, Cincinnati, OH, USA
+Mayﬁeld Clinic, Cincinnati, OH, USA
+Department of Anatomy and Neurobiology, University of Kentucky Chandler Medical Center, Morris K. Udall Parkinson's Disease Research Center of Excellence,
+Center for Microelectrode Technology, Spinal Cord and Brain Injury Research Center, Lexington, KY, USA
+
+b
+c
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 8 January 2015
+Revised 9 March 2015
+Accepted 17 March 2015
+Available online 24 March 2015
+Keywords:
+Spreading depression
+Stroke
+Middle cerebral artery occlusion
+
+a b s t r a c t
+Spreading depolarizations (SD) are mass depolarizations of neurons and astrocytes that occur spontaneously in
+acute brain injury and mediate time-dependent lesion growth. Glutamate excitotoxicity has also been extensively studied as a mechanism of neuronal injury, although its relevance to in vivo pathology remains unclear. Here
+we hypothesized that excitotoxicity in acute lesion development occurs only as a consequence of SD. Using
+glutamate-sensitive microelectrodes, we found that SD induced by KCl in normal rat cortex elicits increases in extracellular glutamate (11.6 ± 1.3 μM) that are synchronous with the onset, sustainment, and resolution of the extracellular direct-current shift of SD. Inhibition of glutamate uptake with D,L-threo-β-benzyloxyaspartate (TBOA,
+0.5 and 1 mM) signiﬁcantly prolonged the duration of the direct-current shift (148% and 426%, respectively) and
+the glutamate increase (167% and 374%, respectively) in a dose-dependent manner (P b 0.05). These prolonged
+events produced signiﬁcant cortical lesions as indicated by Fluoro-Jade staining (P b 0.05), while no lesions were
+observed after SD in control conditions or after cortical injection of 1 mM glutamate (extracellular increase:
+243 ± 50.8 μM) or 0.5 mM TBOA (glutamate increase: 8.5 ± 1.6 μM) without SD. We then used an embolic
+focal ischemia model to determine whether glutamate elevations occur independent of SD in the natural evolution of a cortical lesion. In both the ischemic core and penumbra, glutamate increased only in synchrony with anoxic terminal SD (6.1 ± 1.1 μM) and transient SDs (11.8 ± 2.4 μM), and not otherwise. Delayed terminal SDs were
+also observed in two animals at 98 and 150 min after ischemic onset and induced similar glutamate elevations.
+Durations of SDs and glutamate increases were signiﬁcantly correlated in both normal and ischemic animals
+(P b 0.05). These data suggest that pathologically prolonged SDs are a required mechanism of acute cortical lesion
+development and that glutamate elevations and the mass electrochemical changes of SD and are merely different
+facets of the same pathophysiologic process.
+© 2015 Elsevier Inc. All rights reserved.
+
+Introduction
+In 1954, Hayashi observed that elevations in glutamate were capable
+of inducing convulsions and seizures (Hayashi, 1954). Fifteen years
+later, Olney discovered that high concentrations of glutamate produced
+lesions in the brain, coining the term “excitotoxicity” (Olney, 1969). This
+toxic process was found to be dependent on an overwhelming inﬂux of
+
+Abbreviations: ATSD, anoxic terminal spreading depolarization; CCA, common carotid
+artery; EAAT, excitatory amino acid transporter; ECA, external carotid artery; ECoG, electrocorticography; ICA, internal carotid artery; MEA, microelectrode arrays; MCA, middle cerebral artery; MCAO, middle cerebral artery occlusion; NMDAR, N-methyl-D-aspartate
+receptor; PBS, phosphate-buffered saline; SD, spreading depolarization; TBOA, D,L-threoβ-benzyloxyaspartate; TTC, 2,3,5 triphenyltetrazolium.
+☆ J.M.H. and V.A.D. contributed equally to this work.
+⁎ Corresponding author at: Department of Neurosurgery, University of Cincinnati, 231
+Albert Sabin Way, Cincinnati, OH 45267, USA. Fax: +1 513 558 7702.
+E-mail address: jmhinz2@gmail.com (J.M. Hinzman).
+
+http://dx.doi.org/10.1016/j.expneurol.2015.03.014
+0014-4886/© 2015 Elsevier Inc. All rights reserved.
+
+calcium from activated N-methyl-D-aspartate receptors (NMDARs)
+(Choi, 1987; Rothman, 1984). The discovery of elevations in extracellular glutamate after traumatic brain injury (TBI) and stroke (Benveniste
+et al., 1984; Bullock et al., 1995, 1998; Hillered et al., 1989; Nilsson
+et al., 1990) implicated excitotoxicity as a principal mechanism of secondary brain injury and identiﬁed NMDARs as a lead candidate for therapeutic targeting. Following promising preclinical studies (Gill et al.,
+1987, 1988; Hayes et al., 1988), multiple NMDAR antagonists were tested in clinical trials (Muir, 2006). However, all of these trials failed to
+show clinical efﬁcacy (Muir, 2006). Doubts about glutamate's role
+as the primary driver of excitotoxicity (Obeidat et al., 2000;
+Obrenovitch and Urenjak, 1997) were reinforced by reports that endogenous elevations in glutamate alone are insufﬁcient to induce signiﬁcant neuronal damage (Massieu et al., 1995; Obrenovitch et al.,
+1997) and that supra-physiological concentrations of glutamate
+(N 20 mM) are required for the development of focal lesions in vivo
+(Landolt et al., 1998).
+
+244
+
+J.M. Hinzman et al. / Experimental Neurology 267 (2015) 243–253
+
+An alternative role for glutamate in brain injury is based on Van
+Harreveld's hypothesis that accumulation of extracellular glutamate is
+responsible for the initiation and propagation of spreading depolarization (SD) (Van Harreveld, 1959). SDs are waves of mass depolarization
+of neurons and astrocytes that propagate across the cerebral cortex at
+2–5 mm/min (Dreier, 2011; Somjen, 2001). Recent studies have
+shown that SDs are a key pathophysiological process of secondary
+brain injury that occur spontaneously and frequently in many patients
+with acute neurological insults (Bosche et al., 2010; Dreier et al., 2006,
+2009; Hartings et al., 2009, 2011a; Lauritzen et al., 2011) and are associated with neurological deterioration and poor outcomes (Dreier et al.,
+2006, 2009; Hartings et al., 2011b; Oliveira-Ferreira et al., 2010). In animals, prolonged SDs are a causal mechanism of ischemic lesion growth
+(Back et al., 1996; Busch et al., 1996; Nakamura et al., 2010).
+Recent ex vivo experiments using glutamate-sensitive microelectrode
+arrays (MEAs) have supported Van Harreveld's hypothesis, showing that
+regenerative glutamate release and presynaptic NMDAR activation are
+critical mechanisms of SD initiation and propagation (Zhou et al., 2013).
+The loss of electrochemical membrane gradients during SD (Hablitz and
+Heinemann, 1989; Hansen and Lauritzen, 1984; Kraig and Nicholson,
+1978) may also imply that SD is a primary contributor to excitotoxic processes. Microdialysis studies have shown increases in extracellular glutamate in association with both SD and the related phenomenon of anoxic
+terminal spreading depolarization (ATSD) (Fabricius et al., 1993; Iijima
+et al., 1998; Kunimatsu et al., 1999; Satoh et al., 1999; Ueda et al., 1992).
+During sustained depolarizations, neurons may be particularly vulnerable
+to glutamate since the Mg2+ block of NMDARs is removed and the
+sodium- and voltage-dependence of excitatory amino acid transporters
+(EAATs) would limit glutamate clearance (Danbolt, 2001; Sarantis and
+Attwell, 1990; Szatkowski et al., 1990). Indeed, it was recently
+shown that neuronal death induced by SD is mediated by irrecoverable
+calcium inﬂux through NMDARs, as typically observed with glutamate
+excitotoxicity (Aiba and Shuttleworth, 2012).
+The mechanisms underlying glutamate increases in the development of acute brain lesions remain unclear. Similarly, it is unknown
+whether excitotoxicity is a process that occurs independent of SD, in
+strict association with SD, or some combination; no studies have examined glutamate dynamics in relation to SD in a model of focal brain
+lesion development. Therefore, here we used glutamate-sensitive electrodes to determine whether SD is a required mechanism for the development of excitotoxic lesions and to determine whether glutamate
+increases are a cause or consequence of SD in the natural development
+of focal cerebral infarction. Our results indicate that excitotoxic processes are conﬁned to the phenomenon of SD and have implications for
+neuroprotection clinical trials.
+Methods
+Animals
+Forty-ﬁve male Sprague–Dawley rats weighing 325–400 g (Harlan
+Laboratories Inc.) were used in the experiments. Animals were housed
+singularly in polycarbonate cage (10.25 × 18.75 × 8 in.) with bed-ocob bedding in a pathogen free room. Animals were in a 12 h light/
+dark cycle with food and water available ad libitum according to standards of the Association for Assessment and Accreditation of Laboratory
+Animal Care International. All animal procedures and care occurred during the light cycle and were approved by the University of Cincinnati Institutional Animal Care and Use Committee and conformed to the
+Animal Welfare Act and the National Institutes of Health Guide for the
+Care and Use of Laboratory Animals (National Research Council).
+Glutamate microelectrode array fabrication
+Microelectrode arrays (MEAs) with four platinum recording sites
+(50 × 150 μm) arranged vertically with 50 μm spacing between sites,
+
+spanning a total distance of 750 μm, were prepared and selected for
+in vivo recordings as follows. Brieﬂy, a glutamate-oxidase solution covered the distal pair of recording sites to allow for the enzymatic conversion of glutamate to α-ketoglutarate and the generation of the reporter
+molecule, H2O2. A small drop (~0.1 μL) of the glutamate-oxidase solution, consisting of 1% bovine serum albumin (Sigma-Aldrich, St. Louis,
+MO), 0.125% glutaraldehyde (Sigma-Aldrich), and 1% glutamateoxidase (Sigma-Aldrich) was manually applied using a dissecting microscope and a microsyringe. Two enzyme coats were applied with a
+1-minute drying period between each coat. The two proximal recording
+sites served as sentinels and were coated with a solution containing 1%
+bovine serum albumin and 0.125% glutaraldehyde using the same procedures. After coating, the MEAs were cured for at least 48 h in a low humidity environment. The two different coatings allowed the use of a
+self-referencing technique, whereby the background current of the sentinel (−glutamate oxidase) sites was subtracted from the current of the
+(+glutamate-oxidase) sites, thus producing a more selective glutamate
+measure and allowing the determination of basal levels of glutamate.
+A size exclusion layer of 1,3-phenylenediamine was electroplated
+onto the platinum recording sites to restrict the passage of large molecule interferents (e.g., ascorbic acid). For electroplating, the enzymecoated MEAs were connected to the FAST-16 mkI system (Fast Analytical Sensor Technology Mark I; Quanteon, L.L.C., Nicholasville, KY) and
+the tip of the MEA was placed in a 5 mM 1,3-phenylenediamine solution
+(Acros Organics, Morris Plains, NJ). A triangular potential wave with
+± 0.25 V peak amplitude, offset of − 0.5 V, and frequency of 0.05 Hz
+was applied for 20 min (Hinzman et al., 2010, 2012).
+Glutamate MEA calibration
+Calibrations were conducted to test the capability of the MEAs to
+measure glutamate and generate a standard curve for the conversion
+of current to glutamate concentration. Constant potential amperometry
+was performed using a specialized grounded head stage that permitted
+simultaneous electrophysiological measures. A potential of 0.7 V versus
+a Ag/AgCl reference electrode was applied to oxidize the reporter molecule, H2O2, which is a two-electron oxidation reaction that occurs at
+the platinum recording sites. The resulting current was ampliﬁed and
+digitized by the FAST-16 mkI system. The MEAs were placed in a
+continuously-stirred 40-mL solution of 0.05 M phosphate-buffered saline maintained at 37 °C with a re-circulating water bath (Gaymar Industries Inc., Orchard Park, NY). The MEAs were exposed to ﬁnal
+concentrations of 250 μM ascorbic acid, 20, 40, and 60 μM glutamate,
+and 8.8 μM H2O2. Parameters tested were limit of detection (three
+times the relative standard deviation of the baseline noise), selectivity
+(ability of the MEA to measure glutamate compared to ascorbic acid),
+and slope of the electrode (the linear increase in current due to additions of glutamate). The average limit of detection was 0.98 ± 0.1 μM,
+selectivity was 29 ± 3.3 (glutamate: ascorbic acid), and slope was
+13.8 ± 0.01 pA/μM. Calibrations were made before in vivo experimentation to ensure that the MEAs were functional before implantation. Previous studies have shown that these arrays have rapid glutamate
+response times (≤ 1 s) and perform similarly pre- and postimplantation (Burmeister and Gerhardt, 2001; Burmeister et al., 2002;
+Hinzman et al., 2010, 2012).
+Electrophysiology and drug delivery
+For electrophysiology, borosilicate glass micropipettes (1.5 mm o.d.
+0.86 mm i.d., Sutter Instrument, Novato, CA) were pulled (P-97, Sutter
+Instruments) with a 2–3-μm tip diameter and average impedance of
+1.7 ± 0.1 MΩ. To record both DC and AC signals, pipettes were ﬁlled
+with saline and connected to a differential ampliﬁer (DP-304, Warner
+instrument, Hamden, CT) versus a Ag/AgCl reference. To measure extracellular glutamate and electrophysiology at the same location, a micropipette was connected to the surface of the MEA with wax so that the tip
+
+J.M. Hinzman et al. / Experimental Neurology 267 (2015) 243–253
+
+of the micropipette resided between the ﬁrst and second MEA sites and
+~200 μm to the side of the MEA.
+For local application of solutions into the rat brain, glass micropipettes were bumped against a glass rod under microscopic visualization
+to produce an i.d. of 10–15 μm and the micropipette was attached to the
+surface of the MEA so that the tip was positioned at the bottom of the
+distal recording site and ~300 μm to the other side. This arrangement
+provided optimal sealing of the brain parenchyma around the electrodes with local application of the solutions into tissues following the
+path of least resistance, that is, up and down the ceramic shank of the
+MEA. Micropipettes were ﬁlled with either 500 μM or 1 mM D,L-threoβ-benzyloxyaspartate (TBOA) (Tocris, Ellisville, MO), a competitive inhibitor of EAATs that has minimal effects on ionotropic and metabotropic glutamate receptors with glutamate's afﬁnity for the NMDAR being
+~ 3600 × higher than that of TBOA (Shimamoto et al., 1998), or ﬁlled
+with 1 mM glutamate (Sigma-Aldrich, St. Louis, MO). All drugs were dissolved to their ﬁnal concentrations in physiological saline. Solutions
+were sterile ﬁltered (0.20 μm) and adjusted to a pH of 7.4. The micropipette for drug delivery was connected with tubing to a Picospritzer III
+(Parker-Hanniﬁn, Cleveland, OH) with settings adjusted to consistently
+deliver volumes between 250 and 500 nL. Pressure was applied from 10
+to 30 psi for 0.3–3 s and volume displacement was monitored with the
+use of a stereomicroscope.
+Animal preparation and neuromonitoring
+After induction of anesthesia (5% isoﬂurane for 5 min), the surgical
+sites were prepared by shaving and then applying 70% alcohol and
+betadine solution; the rats' eyes were treated with artiﬁcial tears.
+Throughout the procedure, anesthesia was maintained at 2–3% isoﬂurane
+(30% oxygen, 70% nitrous oxide) and body temperatures were maintained with a homeothermic heating pad (Harvard Apparatus, Holliston,
+MA).
+Rats were mounted in a stereotaxic frame and the skull was exposed by midline scalp incision with retraction of the right temporal muscle. A craniotomy was made over parietal cortex (~ 7 mm2;
+ML: + 2 → + 4 mm and AP: − 1 → − 4.5 mm from bregma). In studies
+where SDs were pharmacologically induced, a single micropipette for
+electrophysiology was placed (~AP: −1.5 mm ML: 3.0 mm) avoiding
+major vasculature. The MEA with a second electrophysiological micropipette was then placed ~ 2 mm posterior to the ﬁrst micropipette. The
+MEA was implanted so that the most proximal recording site resided
+just below the pial surface. A regional cerebral blood ﬂow probe (rCBF)
+(Fine Needle Probe, ADInstruments, New South Wales, Australia) was
+placed in close proximity (~0.5 mm) lateral to the MEA.
+A second anterior craniotomy (∼ 2 mm2; ML: + 2 → + 3 mm and
+AP: +4 → +5 mm) was made for induction of SD. The dura was incised
+at both craniotomies and the exposed brain was kept moist with physiologic saline. Single SDs were induced by a 30 s application of a 1 M
+KCl-soaked cotton ball to the frontal cortex. At conclusion of the experiment, skin was closed with suture and animals received 0.3 mg/kg
+buprenorphine (Buprenex, Reckitt Benckiser, Berkshire, UK) for postoperative analgesia.
+Embolic focal ischemia
+We utilized an embolic focal ischemia model with an autologous
+blood clot to occlude the middle cerebral artery (MCA) (Dinapoli et al.,
+2006). Blood was drawn from the femoral artery of a donor rat, transferred into PE-50 tubing (Braintree Scientiﬁc, Braintree, MA), and
+allowed to clot at 37 °C for 2 h. The clot was then refrigerated for at
+least 24 h at 4 °C. On the day of the experiment, a 5-cm segment of
+the clot was expelled into saline and ﬂushed repeatedly into PE-10 tubing (Braintree Scientiﬁc) to wash off red blood cells. An autologous
+ﬁbrin-rich clot of 35 mm in length was then cut and transferred into a
+
+245
+
+PE-50 micro-catheter, which was modiﬁed to have an outer diameter
+of 0.3 mm.
+For MCA occlusion (MCAO), the common carotid artery (CCA), internal carotid artery (ICA), and external carotid artery (ECA) were exposed
+under an operating microscope via a midline cervical incision. The ECA
+was ligated by silk suture near its origin and distally coagulated and
+cut to produce a stump. Microvascular clips were used to clamp the
+proximal CCA and distal ICA. The ligature was then loosened and the
+micro-catheter was inserted into the ECA stump and advanced via the
+ICA to the origin of the MCA. The microcatheter was advanced approximately 18 mm distal to the ICA bifurcation, to a point 3–4 mm distal
+to the MCA origin (Supplementary Fig. 1a).
+For neuromonitoring during MCAO, rats were prepared as described
+above. Additionally, the femoral artery was cannulated for monitoring
+blood pressure (ADInstruments) and analyzing blood gases (i-STAT,
+Abaxis, Union City, CA). Recordings were performed in two locations:
+one on the lateral ridge (~AP: −2.0 ML: 6.0) avoiding major vasculature
+and the second ~2 mm medial to this location (Supplementary Fig. 1b).
+Once electrodes had stabilized in the brain (~ 20 min), the clot was
+injected to occlude the MCA. Blood pressure and blood gases were monitored periodically throughout the experiment. Three hours after MCAO,
+recordings were stopped, electrodes and catheters removed, and the
+skin closed with suture. All animals received 0.3 mg/kg buprenorphine
+for postoperative analgesia.
+Histology
+Twenty-four hours after experimental recordings, rats were anesthetized with 5% isoﬂurane for 5 min and transcardially perfused with
+0.1 M phosphate-buffered saline (PBS) at pH 7.4 followed by 4% paraformaldehyde in PBS. The brains were removed and post-ﬁxed in 4% paraformaldehyde for 24 h at 4 °C. Tissue was transferred to 20% sucrose in
+PBS for 24 h followed by 30% sucrose in PBS for 48 h. Tissue was
+cryoprotected in a 1:1 ratio of 30% sucrose and cryoprotectant (Neg50,
+Fisher Scientiﬁc) for 4 h at 4 °C, followed by freezing and storage
+− 80 °C. Sections of 20-μm thickness obtained using a cryostat (Leica
+550, Buffalo Grove, IL) were dried overnight at 50 °C. Slides were
+washed with distilled water for 2 min, incubated for 35 min with
+0.06% potassium permanganate (Fisher Scientiﬁc), washed with distilled water for 2 min, covered in 0.004% Fluoro-Jade B (Millipore, Billerica, MA) for 20 min, and washed three more times. Slides were dried at
+50 °C in the dark for 4 h, dehydrated with xylene for 5 min, mounted
+(DPX Mounting Media, Fisher Scientiﬁc), and cover slipped for image
+analysis (Axiovert Microscope, Zeiss, Jena, Germany). A slide containing
+brain slices from a control focal ischemia rat was used as both the
+positive (occluded hemisphere) and negative (uninjured hemisphere)
+controls to ensure staining speciﬁcity and validity.
+In a subset of focal ischemia animals, we measured the size of the ischemic lesion 24 h after recordings by decapitating rats following induction of deep anesthesia. Brains were then removed, sliced into 2-mm
+thick sections, and stained with 0.05% 2,3,5 triphenyltetrazolium (TTC)
+(Sigma) for 20 min.
+Experimental design and data collection
+To study glutamate levels during SD in the uninjured brain, SDs were
+induced with application of KCl to the frontal cortex and electrophysiological and amperometric recordings of glutamate were performed in
+the parietal cortex. Except for the ﬁrst SD, which was excluded from
+analysis due to a signiﬁcantly larger glutamate signal, the amplitude
+and duration of the signals were reproducible and could be repeated
+every 10 min. Next, we examined whether endogenous increases in extracellular glutamate were sufﬁcient to induce a SD by locally applying a
+glutamate re-uptake inhibitor, TBOAhigh. Lastly, we examined whether
+SD duration was dependent on glutamate re-uptake by testing a lower
+dose of TBOA. Local application of TBOAlow failed to evoke a SD, but
+
+246
+
+J.M. Hinzman et al. / Experimental Neurology 267 (2015) 243–253
+
+altered the duration of SDs already propagating across the cortex. Results from these initial studies provided the experimental methods to
+permit us to determine whether varying durations of SDs and and/or
+glutamate elevations were responsible for acute excitotoxicity. A sample size calculation using the duration and variance of the prior signals
+was performed to estimate the number of animals needed to detect a
+signiﬁcant difference using a one-way ANOVA (effect size = 1.69,
+P = 0.05, power = 0.95, number of groups = 4, animals per group =
+3). In these studies, SDs or glutamate were applied ﬁve times per animal, 10 min apart, and the number of Fluoro-Jade positive cells on the
+brain slice containing the MEA track was quantiﬁed. Here, SDs were reproducibly generated every 10 min except when using TBOAhigh where
+SD initiation fatigued over multiple injections. A control group, injection
+of TBOAlow without a SD, was added to ensure that any toxicity was not
+a direct result from TBOA.
+To examine the relationship between increases in extracellular glutamate and SD during the natural evolution of an ischemic lesion, both
+electrophysiological and amperometric recordings of glutamate were
+performed at two locations, proximal and distal to the MCA, during
+MCAO. Placement of the rCBF probe and MEA alternated between the
+proximal and distal locations in different experiments. Rats were excluded from analysis if cerebral blood ﬂow was not reduced after injection of the clot indicating failed occlusion of the MCA. In all experiments
+there was no speciﬁc randomization procedure for allocation of animals
+into experimental groups. Also, investigators were not blinded to the
+experimental groups during data collection or analysis.
+All data were recorded on a single device (PowerLab, ADInstruments)
+with a 400-Hz sampling rate, except for amperometric data collected at
+40 Hz. With LabChart software (ADInstruments), electrophysiological recordings were low-pass ﬁltered (0.5 Hz) for analysis of DC shifts and
+band-pass ﬁltered (0.5–30 Hz) for analysis of spontaneous activity,
+and amperometric data were low-pass ﬁltered (0.5 Hz). Glutamate concentrations were obtained by subtracting the background current of the
+sentinel site from the current of the glutamate-oxidase site; the
+resulting current (pA) was then divided by the slope (pA/μM) obtained
+during the calibration.
+Statistical analysis
+Signal parameters from SDs pharmacologically induced from the
+same stimulus in the same animal were averaged for comparisons between groups. The durations of the signals were normally distributed,
+but the variances between the groups were signiﬁcantly different
+[Bartlett's test, P b 0.05]. To equalize the variances [Bartlett's test,
+P N 0.05], the duration of the signals were transformed (log function)
+and analyzed using a one-way ANOVA with Tukey's post-hoc. Since
+the variance of the Fluoro-Jade staining was equal between the experimental groups [Levene's test of medians, P N 0.05], a one-way ANOVA
+with Tukey's post-hoc test was used for analysis. The spontaneous SDs
+after MCAO exhibited wide variability in the duration of the signal within a single experiments, and therefore were grouped as being either
+transient (recovery of DC potential) or terminal (no recovery of DC potential). The duration of the transient SDs after MCAO were normally
+distributed; therefore unpaired two-tailed t-tests were used for comparison with SDs evoked by KCl. Data are presented as mean ± standard
+error of mean (SEM) with statistical signiﬁcance deﬁned as P b 0.05.
+
+the intensive care unit with the Component Neuromonitoring System
+(Moberg Research, Inc., Ambler, PA) and analyzed off-line with LabChart
+software. Research was approved by the institutional review board and
+conducted in accordance with the Declaration of Helsinki.
+Results
+SDs evoke synchronous increases in extracellular glutamate
+To examine changes in extracellular glutamate during SD in vivo, we
+made simultaneous electrophysiological and amperometric recordings
+of glutamate in the same cortical location following remote induction
+of SD by topical KCl (Fig. 1a). For each SD, increases in extracellular glutamate closely mirrored changes in the DC potential (Fig. 1b). When SDs
+were induced every 10 min, the ﬁrst events always carried a signiﬁcantly larger glutamate signal (24.7 ± 6.7 μM) and were excluded from
+analysis. This phenomenon has been observed previously (Hinzman
+et al., 2010) and may be due to a reduced pre-synaptic glutamate pool
+or increased EAAT surface expression after an initial SD; the mechanisms are unknown. However, subsequent signals were reproducible
+and parameters are reported in Table 1. The glutamate signal was not
+an artifact, as the electrode lacking glutamate-oxidase had no increase
+in current (Supplementary Fig. 2). The initial slow decline in the DC potential coincided with a slow increase in glutamate above a baseline
+concentration of 3.2 μM (±0.4) and the steep decline in the DC potential
+corresponded to a rapid rise in glutamate (Fig. 1c). Glutamate levels
+peaked 7.2 s (± 1.5) after the trough of the DC potential. Recovery of
+the DC potential coincided with restoration of glutamate back to baseline levels. There was a signiﬁcant correlation between the duration of
+DC shift and glutamate signal [Pearson r2 = 0.51, P = 0.004]. In uninjured cortex, an increase in cerebral blood ﬂow closely followed the
+SDs (Fig. 1b) (Table 1).
+Endogenous increases in extracellular glutamate can initiate SD
+Since extracellular glutamate increased during SD, we examined
+whether endogenous increases in extracellular glutamate were sufﬁcient to induce SD. We locally injected a non-transportable competitive
+EAAT inhibitor, TBOA, into the cortex to block glutamate re-uptake and
+build the extracellular glutamate concentration via endogenous synaptic release (Fig. 1a). A 500 nL injection of TBOA(high), 1 mM TBOA, increased extracellular glutamate sufﬁciently to evoke a prolonged SD
+that propagated across the cortex (Fig. 1d). SDs evoked by TBOA(high)
+had signiﬁcant longer durations in both the DC shift and glutamate signal compared to SDs evoked by KCl [Tukey's post hoc, P b 0.05]
+(Table 1). However, the effect was only focal as the duration of the
+SDs recorded at the distant micropipette was no different than those
+evoked by KCl alone [T19 = 0.03, P = 0.98]. Only 3–5 SDs could be induced by sequential TBOA(high) injections, as the SD amplitudes
+decreased and eventually failed. This fatigue was associated with a progressive increase in baseline glutamate (7.8 → 12.5 μM) and a decrease
+in the amplitude of the glutamate signal during SD (28.4 → 13.1 μM).
+These changes may be due to limited glutamate re-packaging during
+EAAT inhibition, or to a smaller neuronal pool participating in successive
+SDs as cellular injury develops (see below, Figs. 2d, e). Thus, inhibition
+of glutamate re-uptake increases extracellular glutamate sufﬁciently
+to evoke a prolonged SD.
+
+Patient recording
+Glutamate uptake by EAATs regulates SD duration
+Surrogate informed consent was obtained for electrocorticographic
+monitoring of SD at the University of Cincinnati Medical Center (Cincinnati, OH). Methods have been described previously in detail (Hartings
+et al., 2014; Hinzman et al., 2014; Jeffcote et al., 2014). Brieﬂy, recordings were obtained from a 6-contact electrode strip placed on the cortical surface following emergent craniotomy to evacuate an intracranial
+hematoma. Continuous full-band DC recordings were then made in
+
+Since SDs evoked by inhibition of glutamate re-uptake were
+prolonged, we examined whether SD duration was dependent on glutamate re-uptake. Injection of 500 nL of TBOA(low), 500 μM TBOA, into the
+cortex signiﬁcantly increased extracellular glutamate from 3.3 to
+11.8 μM [T8 = 5.0, P = 0.001], but failed to evoke SD (Supplementary
+Fig. 3). We examined if this level of inhibition could prolong a SD that
+
+J.M. Hinzman et al. / Experimental Neurology 267 (2015) 243–253
+
+247
+
+Fig. 1. Increases in extracellular glutamate mirror changes in the DC potential during SD. (a) Diagram depicting approximate placement of electrodes and neuromonitoring devices during
+pharmacological induction of SDs. (b) SDs propagating across rat cortex from application of KCl to frontal cortex (arrows) produce synchronous changes in extracellular glutamate. DC
+potential (gray and black trace), spontaneous activity (light blue traces), extracellular glutamate (green trace), regional cerebral blood ﬂow (red trace). (c) High resolution (40 Hz) recording depicts simultaneous changes in the DC shift and extracellular glutamate during SD. (d) Local application of a glutamate uptake inhibitor, TBOA(high), at pipette 2 evokes a prolonged SD
+with a corresponding prolonged glutamate signal. The SD propagates across the cortex and is recorded at pipette 1. (e) Local application of TBOA(low) just before KCl-evoked SD reaches
+pipette 2 increased the duration of both the SD and glutamate signal. (f) Local application of glutamate increases the extracellular glutamate concentration but fails to evoke a SD.
+(g) Signiﬁcant Pearson correlation (r2 = 0.63, P b 0.001) between durations of pharmacologically induced SDs (DC shifts) and glutamate signals. Scale bar y-axis: pipette 1 (gray
+trace) and pipette 2 (black trace) DC potential = 10 mV; pipettes 1 and 2 (blue trace) AC potential = 500 μV; glutamate (green trace) = 10 μM; cerebral blood ﬂow (red trace) =
+100%; x-axis: time (black bar) = 90 s.
+
+was already propagating across the cortex. To test this, SD was evoked
+with KCl in the frontal cortex and TBOA(low) was injected just before
+the SD reached the second set of electrodes (Fig. 1e). Inhibition of glutamate uptake by TBOA(low) increased the durations of both the glutamate
+signal [ANOVA: F(2,25) = 58.83, P b 0.0001] and DC shift [ANOVA:
+F(2,25) = 65.66, P b 0.0001] compared to SDs under control conditions,
+
+but durations were signiﬁcantly shorter than signals elicited with
+TBOA(high) [Tukey's post hoc, P b 0.05] (Table 1). Comparing all pharmacologically induced SDs, we found a signiﬁcant correlation between the
+durations of the DC shifts and glutamate signals [Pearson r2 = 0.63,
+P b 0.001] (Fig. 1g). Thus, the duration of both the glutamate signal
+and SD is dependent on glutamate re-uptake by EAATs.
+
+Table 1
+Signal parameters.
+DC shift
+
+KCl
+(animals = 14)
+KCl + TBOA(low)
+(animals = 7)
+TBOA(high) (animals = 7)
+MCAO
+ATSD
+(events = 8)
+SD
+(events = 93)
+Terminal SD
+(events = 3)
+
+Glutamate signal
+
+rCBF
+
+Amplitude
+(mV)
+
+Duration
+(s)
+
+Amplitude
+(μM)
+
+Duration
+(s)
+
+Type
+(% change)
+
+16.0 ± 1.1
+
+37.5 ± 2.5
+
+11.6 ± 1.3
+
+39.7 ± 2.4
+
+I (182 ± 28)
+
+11.2 ± 1.2
+
+93.0 ± 13.1
+
+10.4 ± 1.6
+
+106.0 ± 19.9
+
+I (223 ± 40)
+
+11.0 ± 1.2
+
+197.1 ± 25.1
+
+17.1 ± 5.0
+
+188.1 ± 19.5
+
+I (144 ± 27)
+
+25.0 ± 2.7
+
+Terminal
+
+6.1 ± 1.1 (n = 4)
+
+Terminal
+
+16.8 ± 0.6
+
+145.6 ± 19.7
+
+11.8 ± 2.4 (n = 35)
+
+113.0 ± 14.8
+
+28.1 ± 10.8
+
+Terminal
+
+3.6 (n = 1)
+
+Terminal
+
+rCBF response: type I (monophasic increase), type II (biphasic with predominant increase), type III (monophasic decrease).
+ATSD = anoxic terminal spreading depolarization.
+SD = spreading depolarization.
+
+I (78 ± 13) (n = 27)
+II (70 ± 5) (n = 21)
+III (−28 ± 8) (n = 8)
+
+248
+
+J.M. Hinzman et al. / Experimental Neurology 267 (2015) 243–253
+
+Fig. 2. Elevations in glutamate during prolonged SDs produce neuronal degeneration. Representative images of Fluoro-Jade+ staining in histology slices containing the MEA track from
+animals sacriﬁced 24-h after the following experiments: (a) local application of glutamate, (b) short-duration SDs evoked by KCl, (c) TBOA(low), (d) KCl-evoked SDs prolonged by
+TBOA(low), (e) prolonged SDs evoked by TBOA(high), and (f) MCAO. Images taken at 10× magniﬁcation, scale bar = 0.1 mm.
+
+Exogenous application of glutamate fails to induce a SD
+Since endogenous increases in extracellular glutamate were sufﬁcient to evoke SD, we examined whether exogenous glutamate injected
+into cortex through a micropipette would produce the same effect. A
+500 nL injection of 1 mM glutamate raised glutamate concentrations
+an order of magnitude higher than those observed in TBOA experiments
+(amplitude 243.0 ± 50.8 μM, n = 3 animals), but failed to evoke a SD or
+a rCBF response (Fig. 1f). The glutamate concentration returned to baseline rapidly (duration 30.0 ± 7.3 s). Thus, exogenous increases in extracellular glutamate fail to evoke SD when glutamate uptake is intact.
+Prolonged SD is required for acute lesion development
+To determine whether SDs, elevations in extracellular glutamate, or
+both are required for acute lesion development, SDs or drugs were
+applied ﬁve times in each animal 10 min apart and the number of
+Fluoro-Jade positive cells was quantiﬁed from the brain slice containing
+the MEA track (n = 3 animals per group). There was no signiﬁcant neuronal damage observed after injections of glutamate without SD (19 ±
+14 neurons, Fig. 2a), after elevations in glutamate with short-duration
+SDs evoked by KCl (18 ± 18, Fig. 2b), or after elevations in glutamate
+from TBOA(low) alone (16 ± 16, Fig. 2c). In fact, the limited damage observed was likely a result of the mechanical forces during implantation
+and/or pressure ejection of solutions. In contrast, prolonged SDs with
+associated increases in glutamate produced signiﬁcant neuronal damage. SDs modulated with TBOA(low) produced a substantial number of
+Fluoro-Jade+ neurons (235 ± 39, Fig. 2d) (ANOVA: F(4,10) = 88.31,
+P b 0.0001, Tukey's post hoc, P b 0.05). Furthermore, the longest duration SDs evoked from TBOA(high) produced wide-spread damage that
+was signiﬁcantly greater than all other groups (776 ± 61, Fig. 2e)
+(Tukey's post hoc, P b 0.05). Thus, prolonged SDs are necessary and sufﬁcient to induce acute neuronal degeneration, while neither shortduration SDs nor glutamate increases without SD cause signiﬁcant
+neuronal injury.
+Ischemic lesion development: extracellular glutamate only increases during
+SDs
+Next, we examined whether elevations in glutamate occur as a cause
+or consequence, or are independent of SDs in the natural development
+of a focal ischemic lesion. Ejection of a blood clot from a catheter docked
+at the origin of the middle cerebral artery (MCA) permitted monitoring
+from the onset of occlusion (MCAO) and for 3 h following. Monitoring
+was performed at two separate locations along the perfusion gradient
+
+of the MCA watershed region, proximal and distal. Blood pressure and
+blood gases were maintained in their physiological ranges during the
+monitoring period (Supplemental Table 1). At the proximal location,
+MCAO reduced CBF by 76% (± 7) and initially reduced extracellular
+glutamate by 60% (6.0 → 2.7 μM); the maximum decrease in glutamate
+occurred after MCAO and prior to the ﬁrst SD. At the distal location, CBF
+decreased by 45% (± 12) and glutamate initially decreased by 22%
+(5.4 → 4.2 μM). Following these immediate changes, various types of
+SDs were observed ranging from terminal to transient (groups described below) and evoked various blood ﬂow responses (Table 1). Increases in extracellular glutamate (N2 μM) only occurred in synchrony
+with SDs in all 11 experiments (Table 1), except for one instance
+where a transient increase occurred independently. The average ischemic lesion 24 h after MCAO was 245 ± 16 mm3 (n = 3 animals) with
+10,877 ± 1021 Fluoro-Jade positive cortical neurons in the brain slice
+containing the MEA track (n = 3 animals) (Fig. 2f).
+Anoxic terminal spreading depolarization
+In 5 of 11 rats, anoxic terminal spreading depolarization (ATSD) was
+observed at the proximal recording location (Fig. 3) (Table 1). In 4 of
+these animals, MCAO ﬁrst resulted in a simultaneous (non-spreading)
+loss of spontaneous neuronal activity (0.5–30 Hz) that occurred 92 s
+(±44) after occlusion. Extracellular glutamate began to decrease during
+this period and reached the lowest levels at 118 ± 21 s after occlusion.
+Near this time, 124 s (±25) after occlusion, ATSD developed at the proximal location as evidenced by a negative shift in DC potential. Only at
+ATSD onset did extracellular glutamate begin to increase (Table 1). In 3
+of 5 animals, the spreading nature of ATSD was observed by appearance
+of a DC shift at the distal electrode 29 s (±7) after its occurrence proximally. Thus, in the ischemic core where ATSD develops, glutamate appears to increase only with the onset of terminal depolarization.
+Prolonged transient SDs after focal ischemia
+In the other 6 of 11 rats, ATSD did not occur at the MEA recording
+site, suggesting that electrodes were placed outside the core of ischemia. However, multiple transient SDs of varying durations (range
+25–1508 s) were recorded (Table 1) (Fig. 4a). In these animals, extracellular glutamate initially decreased following MCAO and thereafter increased only in synchrony with the SDs. As for pharmacologically
+induced SDs, there was a signiﬁcant correlation in the duration of the
+DC shift and glutamate signal [Pearson r2 = 0.65, P b 0.001] (Fig. 4b).
+However, the increases in glutamate during transient SDs after MCAO
+were signiﬁcantly longer than those evoked by KCl in healthy rats
+
+J.M. Hinzman et al. / Experimental Neurology 267 (2015) 243–253
+
+249
+
+Fig. 3. Anoxic terminal spreading depolarization after ischemic onset. Representative tracing of ATSD after MCAO (arrow) producing a simultaneous increase in extracellular glutamate. Note
+the decrease in spontaneous activity (light blue trace) and extracellular glutamate (green trace) after occlusion but before terminal depolarization.
+
+[T37 = 3.5, P = 0.001] and exhibited morphologies similar to those
+evoked by KCl and modiﬁed with TBOA(low) (Table 1).
+Delayed terminal SD
+In two rats, we observed delayed development of terminal SD at 98
+and 150 min after MCAO. In both cases, multiple transient SDs ﬁrst occurred and then evolved into terminal depolarizations that persisted
+until the end of monitoring. Fig. 5a illustrates one case in which 4 transient SDs propagate from the distal MEA recording site to the proximal
+electrode initially after MCAO. The ﬁfth SD is similarly transient at the
+distal site, but is terminal without recovery of the DC potential at the
+proximal site. Two subsequent SDs at the distal site then induce terminal depolarization in a stepwise manner (Fig. 5b). These cases of delayed terminal SD differ from ATSD since changes are caused by SD as
+a recurrent secondary injury process, rather than at ischemic onset. Accordingly, depression of spontaneous cortical activity occurs simultaneously with the delayed terminal SD, and not before as in the case of
+ATSD. Thus, in the penumbra after focal ischemia, the prolongation of
+SDs into terminal events triggers a terminal increase in extracellular
+glutamate and persistent loss of neuronal activity.
+Clinical relevance
+
+Fig. 4. Transient SDs and associated glutamate increases in the ischemic penumbra.
+(a) Representative tracing of transient SDs induced by MCAO (arrow). Increases in extracellular glutamate are synchronous with the DC shifts of SD. (b) Signiﬁcant correlation between the duration of DC shift and glutamate signal from transient SDs induced by focal
+ischemia.
+
+Since their clinical discovery in 2002 (Strong et al., 2002), SDs have
+been studied by electrocorticography as a mechanism of secondary injury in patients with stroke and traumatic brain injury. Fig. 6 shows a
+case example of a patient with an intracerebral hemorrhage, illustrating
+the direct translational relevance of SDs and their prolongation as observed in experimental models. In this patient, 144 SDs were recorded
+in the initial 56 h of intensive care, and all had short durations of
+1–3 min (Fig. 6a). During this time, the patient was able to localize
+pain. The next series of four SDs, by contrast, were considerably
+prolonged with durations of 13–18 min each at electrode 2 (Fig. 6b).
+These and 5 subsequent SDs induced a 7-h period of continuous ﬂatline on electrodes 1–2. The patient made no movements in response
+to pain during this period, but began localizing after recovery of
+
+250
+
+J.M. Hinzman et al. / Experimental Neurology 267 (2015) 243–253
+
+Discussion
+Here we have shown in vivo that the onset, sustainment, and resolution of SD are associated with synchronous changes in extracellular
+glutamate under both normal and pathologic conditions. Our results
+demonstrate that glutamate signaling is an intrinsic mechanism of SD,
+since inhibition of glutamate uptake prolonged the duration of SD and
+was also able to initiate SD. Together with previous studies, we have further shown that prolonged SDs, with associated prolonged increases in
+glutamate, result in signiﬁcant neuronal damage; by contrast, short duration SDs or elevations in glutamate without SD do not induce signiﬁcant
+damage. The relevance of these results was illustrated in a model of focal
+cerebral ischemia, where both prolonged and terminal SDs were observed. In both the penumbra and ischemic core, extracellular glutamate
+increased only in synchrony with SDs and not independently. These data
+suggest that glutamate signaling and the mass electrochemical changes
+during SD are merely different facets of the same pathophysiologic process, and that any excitotoxic effect of glutamate occurs in connection
+with the mechanism of SD. Thus, our results not only support Van
+Harreveld's glutamate hypothesis (Van Harreveld, 1959), but extend it
+by unifying the hypothesis of glutamate excitotoxicity with the
+established role of SD as a causal mechanism of ischemic lesion development (Busch et al., 1996; Nakamura et al., 2010).
+
+Glutamate's role in the initiation and prolongation of SD
+
+Fig. 5. Ischemic lesion growth: transformation from transient to terminal SDs. (a) Example
+of transformation from transient SDs into a terminal SD after focal ischemia (arrow). Note
+the presence of spontaneous activity until the onset of terminal depolarization (pipette 2).
+(b) Expanded view of dashed box shows the step-wise development of the persistent DC
+shift that is paralleled by a step-wise increase in extracellular glutamate.
+
+spontaneous activity. The initial SD waveforms in this patient clearly resemble normoxic SDs evoked experimentally by KCl, whereas the
+prolonged SDs resemble those of delayed terminal depolarization or
+SDs induced by TBOA(high).
+
+It was previously shown with 1-min rapid sampling microdialysis
+that glutamate and other amino acids increase transiently during SD
+in the normal brain and that persistent increases follow ATSD
+(Fabricius et al., 1993). With glutamate-sensitive electrodes inside a microdialysis probe, Iijima and colleagues (Iijima et al., 1998) then demonstrated the close temporal synchrony of these processes, similar to our
+results. Here we found that the glutamate release during SD contributes
+to the sustainment of depolarization, since 1) the durations of SD and
+glutamate elevation were strongly correlated, and 2) inhibition of glutamate uptake with TBOA signiﬁcantly prolonged the duration of SD.
+These data are consistent with hippocampal slice studies that demonstrated a period of NMDAR activation after SD onset that prolonged
+
+Fig. 6. Transformation from short to prolonged SDs in a patient with acute intracerebral hemorrhage. A comatose 55-year-old female with right hemiplegia underwent decompressive
+craniectomy for removal of acute left frontal intracerebral hemorrhage and subdural hematoma. An electrode strip was placed on the cortex during surgery for electrocorticographic
+(ECoG) monitoring during intensive care. Representative recordings of repetitive SDs from the initial (a) and subsequent (b) periods of monitoring show the prolongation of depolarizations
+that induces persistent silencing of spontaneous activity. Both full-band DC (black traces) and high-pass ﬁltered (0.5 Hz, light blue) recordings from the same electrodes are shown. Expanded
+views of short and prolonged events (a and b, dashed boxes) show morphologies similar to SDs in the rat evoked by KCl and TBOA(high), respectively. Post-operative head CT on day 1 shows
+left frontal hemorrhage (arrow) (c) and location of electrodes along the border of the hemorrhage (outlined in red) (d). On post-injury day 12, T1-weighted (e) and FLAIR (f) MRI studies
+show evolving hematoma and surrounding edema.
+
+J.M. Hinzman et al. / Experimental Neurology 267 (2015) 243–253
+
+the duration of individual neuronal depolarizations and delayed recovery of the DC potential (Aiba and Shuttleworth, 2012). We also found
+that endogenous glutamate accumulation induced by uptake inhibition
+can initiate SDs. The likely mechanism for this effect, as shown in recent
+brain slice experiments, is activation of pre-synaptic NMDARs and subsequent regenerative glutamate release and diffusion (Zhou et al.,
+2013). The authors' conclusion that the primary source of glutamate is
+calcium-mediated vesicular release is also consistent with our results
+(Zhou et al., 2013). Since inhibition of transporters by TBOA did not
+signiﬁcantly reduce the amplitude of the glutamate signal in our
+study, reversal of EAATs is not likely to be a major source of glutamate
+during KCl-induced SD.
+Prolonged SDs are required for excitotoxic lesion development
+Our data suggest that SD is necessary, but not always sufﬁcient, for
+the development of acute excitotoxic lesions in vivo and that elevated
+glutamate without SD does not cause signiﬁcant injury. The lack of
+toxicity from elevations in glutamate without depolarization is likely
+due to the Mg2+ block of NMDARs as well as the tremendous efﬁciency
+of EAATs to rapidly uptake glutamate from the extracellular space
+(Danbolt, 2001). In vivo supra-physiological concentrations of extracellular glutamate (N20 mM) are required for a long period of time
+(90 min) for the development of acute lesions (Landolt et al., 1998).
+Here, exogenous injection of 1 mM glutamate temporarily raised the
+extracellular glutamate concentration well beyond reported pathophysiologic values (~ 250 μM), but failed to produce signiﬁcant neuronal
+damage.
+In contrast, SD can set the stage for excitotoxic lesion development
+since the massive ionic shifts of SD not only trigger glutamate release
+(Fabricius et al., 1993; Ueda et al., 1992; Zhou et al., 2013), but also
+remove the Mg2 + block from NMDARs and inhibit glutamate reuptake by disrupting the electrochemical Na+ gradient that drives
+EAATs (Danbolt, 2001; Sarantis and Attwell, 1990; Szatkowski et al.,
+1990). The result is sustained activation of ionotropic glutamate receptors and calcium inﬂux (Aiba and Shuttleworth, 2012; Zhou et al., 2013).
+If sufﬁcient metabolic resources are available to quickly restore ionic
+gradients, extracellular glutamate and intracellular calcium can be sequestered before permanent injury (Aiba and Shuttleworth, 2012).
+Thus, short-duration SDs with hyperemic blood ﬂow responses do not
+cause cell death (Figs. 1b, 2b) (Nedergaard and Hansen, 1988; Sword
+et al., 2013). However, if SDs are prolonged by inhibition of glutamate
+uptake, metabolic impairment, or other mechanisms, sequestration of
+intracellular calcium may fail, resulting in membrane permeabilization
+and cell death (Figs. 1d, e and 2d, e) (Aiba and Shuttleworth, 2012;
+Dreier et al., 2000; Risher et al., 2012). Critically, ex vivo slice studies
+have shown that SD-induced neuronal cell death can be blocked by
+NMDAR antagonists (Aiba and Shuttleworth, 2012). While these results
+are applicable to acute brain injury, we note that the indirect, or “slow”
+excitotoxicity of selective neuronal damage that is implicated in neurodegenerative diseases is likely distinct from SD (Doble, 1999).
+Glutamate only increases during SD in ischemic lesion development
+Several studies have shown an association between glutamate elevations and anoxic depolarization following global cerebral ischemia
+(Fabricius et al., 1993; Kunimatsu et al., 1999; Satoh et al., 1999; Ueda
+et al., 1992; Wahl et al., 1994). However, the spatial and temporal resolution of the microdialysis techniques used in these studies has limited
+ability to resolve cause–effect relationships. Furthermore, no studies
+have examined glutamate dynamics in relation to SD in the ischemic
+penumbra where prolonged SDs mediate time-dependent lesion
+growth (Dijkhuizen et al., 1999; Koroleva and Bures, 1996; Nallet
+et al., 1999). Therefore, we sought to determine whether elevations in
+extracellular glutamate are a cause or consequence of SD in an animal
+model relevant to neuroprotection studies.
+
+251
+
+In an embolic model of focal cerebral ischemia, we failed to observe
+any signiﬁcant elevations in extracellular glutamate independent of the
+mass depolarization events of SD. Conversely, all SDs, whether transient
+events in the ischemic penumbra or ATSD in the ischemic core, were associated with synchronous increases in extracellular glutamate. In the
+ischemic core where blood ﬂow was reduced by ~ 75%, we observed
+an initial cessation of neuronal ﬁring and decrease in extracellular glutamate. These changes are due to a hyperpolarization from increased K+
+conductance, which shunts post-synaptic potentials (Hansen and
+Lauritzen, 1984), as well as adenosine accumulation and inhibition of
+glutamate release via adenosine A1 receptor activation (Canals et al.,
+2008; Dunwiddie and Masino, 2001; Lindquist and Shuttleworth,
+2014). ATSD is then triggered as extracellular potassium reaches a
+threshold of ~ 10 mM after a slow rise (Heinemann and Lux, 1977;
+Muller and Somjen, 2000). Only then, with the onset of the DC shift of
+ATSD, did glutamate increase. Prior studies have determined that this
+glutamate increase is initially calcium-dependent but then arises from
+calcium-independent sources, such as reversal of the EAATs and loss
+of membrane integrity (Rossi et al., 2000; Satoh et al., 1999). Reversal
+of EAATs requires high levels of extracellular potassium that are more
+readily achieved in ATSD compared to transient SD (Hansen and
+Zeuthen, 1981; Raiteri et al., 2007).
+In the ischemic penumbra where blood ﬂow was reduced by ~45%,
+all transient SDs were associated with increases in extracellular glutamate. The magnitude of glutamate elevations (~12 μM) was similar to
+that associated with KCl-induced SD in healthy cortex in our study,
+and also to SDs induced by KCl in a prior study of partial global ischemia
+(7–9 μM) (Iijima et al., 1992). Iijima et al. (1992) reasoned that SDs
+prolonged in ischemic conditions may not be harmful, since SD durations did not correlate with higher glutamate concentrations. While
+our results are consistent with theirs, we did ﬁnd that SD durations
+were signiﬁcantly correlated with the durations of glutamate elevation.
+This relationship held for both pharmacologically induced SD in normal
+cortex and spontaneous SD in the ischemic penumbra. In both cases,
+prolonged SDs were associated with lesion development, suggesting
+that the duration of glutamate elevation, with simultaneous depolarization, is the critical factor determining toxicity, and not the peak concentration. Consistent with this, levels of glutamate during SD are well
+above the EC50 (~2 μm) for NMDAR activation (Nakanishi et al., 1992).
+Among several other factors, prolongation of SDs in ischemic conditions
+may result partially from reduced clearance of glutamate, since glutamate signaling prolongs SD and transport costs ~ 1 ATP per molecule
+of glutamate (Danbolt, 2001).
+Finally, in two animals we observed a transformation over time from
+transient and recoverable SDs to terminal depolarizations that induced
+persistent increases in extracellular glutamate and silencing of cortical
+activity. These events mediate the time-dependent, delayed expansion
+of the terminally depolarized ischemic core. Importantly, however, delayed terminal SD differs from the ATSD that occurs in the core soon
+after ischemic onset: the former represents modiﬁable secondary injury
+processes in the penumbra, while the latter is an inevitable immediate
+consequence of severe ischemia. Accordingly, blockade of delayed transient and terminal SDs is likely the basis of the neuroprotective effects of
+NMDAR antagonists in focal ischemia models (Gill et al., 1992; Hartings
+et al., 2003; Iijima et al., 1992). ATSD, on the other hand, is resistant to
+such pharmacologic therapy (Hernandez-Caceres et al., 1987; Jarvis
+et al., 2001; Lauritzen and Hansen, 1992).
+Study limitations
+A limitation of this study is that enzyme-based MEAs require oxygen
+as a co-factor to accurately measure glutamate. Lack of oxygen availability likely contributes to underestimation of glutamate in the ischemic
+core and to the substantially smaller glutamate values during ATSD
+compared to those reported in microdialysis studies (Iijima et al.,
+1998; Kunimatsu et al., 1999; Satoh et al., 1999; Ueda et al., 1992;
+
+252
+
+J.M. Hinzman et al. / Experimental Neurology 267 (2015) 243–253
+
+Wahl et al., 1994). However, several considerations suggest that this
+limitation does not affect our main conclusion that glutamate does not
+increase independent of SD in focal ischemia. First, our prior study
+showed that MEAs are minimally dependent on the oxygen concentration, since glutamate responses in an anoxic solution were within 80% of
+those obtained in an oxygen-saturated solution (Hinzman et al., 2010).
+This is because of the small electrode area coated with enzyme and because oxygen is continuously generated during electrochemical oxidation of H2O2. Second, the durations and absolute changes in glutamate
+during transient SDs were similar in both ischemic and normal animals
+(Table 1 and compare Figs. 1g and 4b), suggesting that low oxygen during ischemia did not affect measurements or preclude detection of glutamate increases. Third, because SD induces tissue hypoxia (Takano
+et al., 2007), any error in glutamate measurement would result in a relative underestimation of values during SD compared to other periods.
+Clinical implications
+SDs are observed in 55–90% of patients who require neurosurgical
+treatment of acute brain injury from stroke or trauma (Dohmen et al.,
+2008; Dreier et al., 2006; Hartings et al., 2011a). ATSD has not been observed in these studies since electrodes are placed hours after the initial
+ictus. However, in two case series approximately 25% of SDs exhibited
+prolongation (durations N 3 min), in contrast to a majority of
+normally-distributed events with mean DC shift durations of ~ 2 min
+(Hartings et al., 2011b; Hartings et al., 2013). In some cases, as illustrated here in Fig. 6, individual depolarizations persisted for N10 min with
+prolonged depression of cortical activity similar to the delayed terminal
+SDs reported here [see also (Dreier et al., 2009)]. Given that prolonged
+SDs occur in some patients, the notion that excitotoxicity occurs only
+as a consequence of SD would suggest a re-interpretation of the failed
+clinical trials of NMDAR antagonists. NMDAR antagonism is an effective
+therapy to block SD, even in gyrencephalic brain (Hertle et al., 2012;
+Iijima et al., 1992; Sanchez-Porras et al., 2014). However, if prolonged
+SDs only occur in a subset of patients, only that subgroup of patients
+would be expected to beneﬁt from NMDAR antagonists. Thus, any therapeutic effect would be greatly diluted by other non-responsive patients
+without SD who met the very broad inclusion criteria for past trials, thus
+creating a strong bias toward negative results. To avert this pitfall, appropriate patients for such trials could be selected by electrophysiologic
+monitoring of SD, which additionally would allow assessment of the
+therapeutic effect on the target mechanism and patient-speciﬁc adjustment of drug dosing and duration (Hartings et al., 2012).
+Supplementary data to this article can be found online at http://dx.
+doi.org/10.1016/j.expneurol.2015.03.014.
+Funding
+This work was funded by the Mayﬁeld Education and Research
+Foundation.
+Conﬂict of interest
+Greg Gerhardt is the sole proprietor of Quanteon, LLC, which makes
+the electrochemistry hardware used for the glutamate measurements.
+No other authors have a conﬂict of interest.
+References
+Aiba, I., Shuttleworth, C.W., 2012. Sustained NMDA receptor activation by spreading depolarizations can initiate excitotoxic injury in metabolically compromised neurons.
+J. Physiol. 590, 5877–5893.
+Back, T., Ginsberg, M.D., Dietrich, W.D., Watson, B.D., 1996. Induction of spreading depression in the ischemic hemisphere following experimental middle cerebral artery
+occlusion: effect on infarct morphology. J. Cereb. Blood Flow Metab. 16, 202–213.
+Benveniste, H., Drejer, J., Schousboe, A., Diemer, N.H., 1984. Elevation of the extracellular
+concentrations of glutamate and aspartate in rat hippocampus during transient
+
+cerebral ischemia monitored by intracerebral microdialysis. J. Neurochem. 43,
+1369–1374.
+Bosche, B., Graf, R., Ernestus, R.I., Dohmen, C., Reithmeier, T., Brinker, G., Strong, A.J., Dreier, J.P.,
+Woitzik, J., 2010. Recurrent spreading depolarizations after subarachnoid hemorrhage
+decreases oxygen availability in human cerebral cortex. Ann. Neurol. 67, 607–617.
+Bullock, R., Zauner, A., Woodward, J., Young, H.F., 1995. Massive persistent release of excitatory amino acids following human occlusive stroke. Stroke 26, 2187–2189.
+Bullock, R., Zauner, A., Woodward, J.J., Myseros, J., Choi, S.C., Ward, J.D., Marmarou, A.,
+Young, H.F., 1998. Factors affecting excitatory amino acid release following severe
+human head injury. J. Neurosurg. 89, 507–518.
+Burmeister, J.J., Gerhardt, G.A., 2001. Self-referencing ceramic-based multisite microelectrodes for the detection and elimination of interferences from the measurement of Lglutamate and other analytes. Anal. Chem. 73, 1037–1042.
+Burmeister, J.J., Pomerleau, F., Palmer, M., Day, B.K., Huettl, P., Gerhardt, G.A., 2002. Improved ceramic-based multisite microelectrode for rapid measurements of Lglutamate in the CNS. J. Neurosci. Methods 119, 163–171.
+Busch, E., Gyngell, M.L., Eis, M., Hoehn-Berlage, M., Hossmann, K.A., 1996. Potassiuminduced cortical spreading depressions during focal cerebral ischemia in rats: contribution to lesion growth assessed by diffusion-weighted NMR and biochemical imaging. J. Cereb. Blood Flow Metab. 16, 1090–1099.
+Canals, S., Larrosa, B., Pintor, J., Mena, M.A., Herreras, O., 2008. Metabolic challenge to glia activates an adenosine-mediated safety mechanism that promotes neuronal survival by
+delaying the onset of spreading depression waves. J. Cereb. Blood Flow Metab. 28,
+1835–1844.
+Choi, D.W., 1987. Ionic dependence of glutamate neurotoxicity. J. Neurosci. 7, 369–379.
+Danbolt, N.C., 2001. Glutamate uptake. Prog. Neurobiol. 65, 1–105.
+Dijkhuizen, R.M., Beekwilder, J.P., van der Worp, H.B., Berkelbach van der Sprenkel, J.W.,
+Tulleken, K.A., Nicolay, K., 1999. Correlation between tissue depolarizations and damage in focal ischemic rat brain. Brain Res. 840, 194–205.
+Dinapoli, V.A., Rosen, C.L., Nagamine, T., Crocco, T., 2006. Selective MCA occlusion: a precise embolic stroke model. J. Neurosci. Methods 154, 233–238.
+Doble, A., 1999. The role of excitotoxicity in neurodegenerative disease: implications for
+therapy. Pharmacol. Ther. 81, 163–221.
+Dohmen, C., Sakowitz, O.W., Fabricius, M., Bosche, B., Reithmeier, T., Ernestus, R.-I.,
+Brinker, G., Dreier, J.P., Woitzik, J., Strong, A.J., Graf, R., 2008. Spreading depolarizations occur in human ischemic stroke with high incidence. Ann. Neurol. 63, 720–728.
+Dreier, J.P., 2011. The role of spreading depression, spreading depolarization and spreading ischemia in neurological disease. Nat. Med. 17, 439–447.
+Dreier, J.P., Ebert, N., Priller, J., Megow, D., Lindauer, U., Klee, R., Reuter, U., Imai, Y.,
+Einhaupl, K.M., Victorov, I., Dirnagl, U., 2000. Products of hemolysis in the subarachnoid space inducing spreading ischemia in the cortex and focal necrosis in rats: a
+model for delayed ischemic neurological deﬁcits after subarachnoid hemorrhage?
+J. Neurosurg. 93, 658–666.
+Dreier, J.P., Woitzik, J., Fabricius, M., Bhatia, R., Major, S., Drenckhahn, C., Lehmann, T.N.,
+Sarrafzadeh, A., Willumsen, L., Hartings, J.A., Sakowitz, O.W., Seemann, J.H., Thieme,
+A., Lauritzen, M., Strong, A.J., 2006. Delayed ischaemic neurological deﬁcits after subarachnoid haemorrhage are associated with clusters of spreading depolarizations.
+Brain 129, 3224–3237.
+Dreier, J.P., Major, S., Manning, A., Woitzik, J., Drenckhahn, C., Steinbrink, J., Tolias, C.,
+Oliveira-Ferreira, A.I., Fabricius, M., Hartings, J.A., Vajkoczy, P., Lauritzen, M., Dirnagl,
+U., Bohner, G., Strong, A.J., 2009. Cortical spreading ischaemia is a novel process involved in ischaemic damage in patients with aneurysmal subarachnoid haemorrhage.
+Brain 132, 1866–1881.
+Dunwiddie, T.V., Masino, S.A., 2001. The role and regulation of adenosine in the central
+nervous system. Annu. Rev. Neurosci. 24, 31–55.
+Fabricius, M., Jensen, L.H., Lauritzen, M., 1993. Microdialysis of interstitial amino acids
+during spreading depression and anoxic depolarization in rat neocortex. Brain Res.
+612, 61–69.
+Gill, R., Foster, A.C., Woodruff, G.N., 1987. Systemic administration of MK-801 protects
+against ischemia-induced hippocampal neurodegeneration in the gerbil. J. Neurosci.
+7, 3343–3349.
+Gill, R., Foster, A.C., Woodruff, G.N., 1988. MK-801 is neuroprotective in gerbils when administered during the post-ischaemic period. Neuroscience 25, 847–855.
+Gill, R., Andine, P., Hillered, L., Persson, L., Hagberg, H., 1992. The effect of MK-801 on cortical spreading depression in the penumbral zone following focal ischaemia in the rat.
+J. Cereb. Blood Flow Metab. 12, 371–379.
+Hablitz, J.J., Heinemann, U., 1989. Alterations in the microenvironment during spreading
+depression associated with epileptiform activity in the immature neocortex. Brain
+Res. Dev. Brain Res. 46, 243–252.
+Hansen, A.J., Lauritzen, M., 1984. The role of spreading depression in acute brain disorders.
+An. Acad. Bras. Cienc. 56, 457–479.
+Hansen, A.J., Zeuthen, T., 1981. Extracellular ion concentrations during spreading depression and ischemia in the rat brain cortex. Acta Physiol. Scand. 113, 437–445.
+Hartings, J.A., Rolli, M.L., Lu, X.C., Tortella, F.C., 2003. Delayed secondary phase of periinfarct depolarizations after focal cerebral ischemia: relation to infarct growth and
+neuroprotection. J. Neurosci. 23, 11602–11610.
+Hartings, J.A., Strong, A.J., Fabricius, M., Manning, A., Bhatia, R., Dreier, J.P., Mazzeo, A.T.,
+Tortella, F.C., Bullock, M.R., 2009. Spreading depolarizations and late secondary insults after traumatic brain injury. J. Neurotrauma 26, 1857–1866.
+Hartings, J.A., Bullock, M.R., Okonkwo, D.O., Murray, L.S., Murray, G.D., Fabricius, M., Maas,
+A.I., Woitzik, J., Sakowitz, O., Mathern, B., Roozenbeek, B., Lingsma, H., Dreier, J.P.,
+Puccio, A.M., Shutter, L.A., Pahl, C., Strong, A.J., 2011a. Spreading depolarisations and
+outcome after traumatic brain injury: a prospective observational study. Lancet
+Neurol. 10, 1058–1064.
+Hartings, J.A., Watanabe, T., Bullock, M.R., Okonkwo, D.O., Fabricius, M., Woitzik, J., Dreier,
+J.P., Puccio, A., Shutter, L.A., Pahl, C., Strong, A.J., 2011b. Spreading depolarizations
+
+J.M. Hinzman et al. / Experimental Neurology 267 (2015) 243–253
+have prolonged direct current shifts and are associated with poor outcome in brain
+trauma. Brain 134, 1529–1540.
+Hartings, J.A., Strong, A.J., Okonkwo, D.O., Bullock, M.R., 2012. Spreading depolarisations
+and traumatic brain injury: time course and mechanisms — authors' reply. Lancet
+Neurol. 11, 389–390.
+Hartings, J.A., Wilson., J.A., Look, A.C., Vagal, A., Shutter, L.A., Dreier, J.P., Ringer, A.,
+Zuccarello, M., 2013. Full-band electrocorticography of spreading depolarizations in
+patients with aneurysmal subarachnoid hemorrhage. Acta Neurchir. Suppl. 115,
+131–141.
+Hartings, J.A., Wilson, J.A., Hinzman, J.M., Pollandt, S., Dreier, J.P., DiNapoli, V., Ficker, D.M.,
+Shutter, L.A., Andaluz, N., 2014. Spreading depression in continuous electroencephalography of brain trauma. Ann. Neurol. 76, 681–694.
+Hayashi, T., 1954. Effects of sodium glutamate on the nervous system. Keio J. Med.
+183–192.
+Hayes, R.L., Jenkins, L.W., Lyeth, B.G., Balster, R.L., Robinson, S.E., Clifton, G.L., Stubbins, J.F.,
+Young, H.F., 1988. Pretreatment with phencyclidine, an N-methyl-D-aspartate antagonist, attenuates long-term behavioral deﬁcits in the rat produced by traumatic brain
+injury. J. Neurotrauma 5, 259–274.
+Heinemann, U., Lux, H.D., 1977. Ceiling of stimulus induced rises in extracellular potassium concentration in the cerebral cortex of cat. Brain Res. 120, 231–249.
+Hernandez-Caceres, J., Macias-Gonzalez, R., Brozek, G., Bures, J., 1987. Systemic ketamine
+blocks cortical spreading depression but does not delay the onset of terminal anoxic
+depolarization in rats. Brain Res. 437, 360–364.
+Hertle, D.N., Dreier, J.P., Woitzik, J., Hartings, J.A., Bullock, R., Okonkwo, D.O., Shutter, L.A.,
+Vidgeon, S., Strong, A.J., Kowoll, C., Dohmen, C., Diedler, J., Veltkamp, R., Bruckner, T.,
+Unterberg, A.W., Sakowitz, O.W., 2012. Effect of analgesics and sedatives on the occurrence of spreading depolarizations accompanying acute brain injury. Brain 135,
+2390–2398.
+Hillered, L., Hallstrom, A., Segersvard, S., Persson, L., Ungerstedt, U., 1989. Dynamics of extracellular metabolites in the striatum after middle cerebral artery occlusion in the rat
+monitored by intracerebral microdialysis. J. Cereb. Blood Flow Metab. 9, 607–616.
+Hinzman, J.M., Thomas, T.C., Burmeister, J.J., Quintero, J.E., Huettl, P., Pomerleau, F.,
+Gerhardt, G.A., Lifshitz, J., 2010. Diffuse brain injury elevates tonic glutamate levels
+and potassium-evoked glutamate release in discrete brain regions at two days
+post-injury: an enzyme-based microelectrode array study. J. Neurotrauma 27,
+889–899.
+Hinzman, J.M., Thomas, T.C., Quintero, J.E., Gerhardt, G.A., Lifshitz, J., 2012. Disruptions in
+the regulation of extracellular glutamate by neurons and glia in the rat striatum two
+days after diffuse brain injury. J. Neurotrauma 29, 1197–1208.
+Hinzman, J.M., Andaluz, N., Shutter, L.A., Okonkwo, D.O., Pahl, C., Strong, A.J., Dreier, J.P.,
+Hartings, J.A., 2014. Inverse neurovascular coupling to cortical spreading depolarizations in severe brain trauma. Brain 137, 2960–2972.
+Iijima, T., Mies, G., Hossmann, K.A., 1992. Repeated negative DC deﬂections in rat cortex
+following middle cerebral artery occlusion are abolished by MK-801: effect on volume of ischemic injury. J. Cereb. Blood Flow Metab. 12, 727–733.
+Iijima, T., Shimase, C., Iwao, Y., Sankawa, H., 1998. Relationships between glutamate release, blood ﬂow and spreading depression: real-time monitoring using an
+electroenzymatic dialysis electrode. Neurosci. Res. 32, 201–207.
+Jarvis, C.R., Anderson, T.R., Andrew, R.D., 2001. Anoxic depolarization mediates acute
+damage independent of glutamate in neocortical brain slices. Cereb. Cortex 11,
+249–259.
+Jeffcote, T., Hinzman, J.M., Jewell, S.L., Learney, R.M., Pahl, C., Tolias, C., Walsh, D.C., Hocker,
+S., Zakrzewska, A., Fabricius, M.E., Strong, A.J., Hartings, J.A., Boutelle, M.G., 2014. Detection of spreading depolarization with intraparenchymal electrodes in the injured
+human brain. Neurocrit. Care. 20, 21–31.
+Koroleva, V.I., Bures, J., 1996. The use of spreading depression waves for acute and longterm monitoring of the penumbra zone of focal ischemic damage in rats. Proc. Natl.
+Acad. Sci. U. S. A. 93, 3710–3714.
+Kraig, R.P., Nicholson, C., 1978. Extracellular ionic variations during spreading depression.
+Neuroscience 3, 1045–1059.
+Kunimatsu, T., Asai, S., Kanematsu, K., Zhao, H., Kohno, T., Misaki, T., Ishikawa, K., 1999.
+Transient in vivo membrane depolarization and glutamate release before anoxic depolarization in rat striatum. Brain Res. 831, 273–282.
+Landolt, H., Fujisawa, H., Graham, D.I., Maxwell, W.L., Bullock, R., 1998. Reproducible
+peracute glutamate-induced focal lesions of the normal rat brain using microdialysis.
+J. Clin. Neurosci. 5, 193–202.
+Lauritzen, M., Hansen, A.J., 1992. The effect of glutamate receptor blockade on anoxic depolarization and cortical spreading depression. J. Cereb. Blood Flow Metab. 12,
+223–229.
+Lauritzen, M., Dreier, J.P., Fabricius, M., Hartings, J.A., Graf, R., Strong, A.J., 2011. Clinical relevance of cortical spreading depression in neurological disorders: migraine, malignant stroke, subarachnoid and intracranial hemorrhage, and traumatic brain injury.
+J. Cereb. Blood Flow Metab. 31, 17–35.
+Lindquist, B.E., Shuttleworth, C.W., 2014. Spreading depolarization-induced adenosine accumulation reﬂects metabolic status in vitro and in vivo. J. Cereb. Blood Flow Metab.
+34, 1779–1790.
+Massieu, L., Morales-Villagran, A., Tapia, R., 1995. Accumulation of extracellular glutamate
+by inhibition of its uptake is not sufﬁcient for inducing neuronal damage: an in vivo
+microdialysis study. J. Neurochem. 64, 2262–2272.
+Muir, K.W., 2006. Glutamate-based therapeutic approaches: clinical trials with NMDA antagonists. Curr. Opin. Pharmacol. 6, 53–60.
+
+253
+
+Muller, M., Somjen, G.G., 2000. Na(+) and K(+) concentrations, extra- and intracellular
+voltages, and the effect of TTX in hypoxic rat hippocampal slices. J. Neurophysiol.
+83, 735–745.
+Nakamura, H., Strong, A.J., Dohmen, C., Sakowitz, O.W., Vollmar, S., Sue, M., Kracht, L.,
+Hashemi, P., Bhatia, R., Yoshimine, T., Dreier, J.P., Dunn, A.K., Graf, R., 2010. Spreading
+depolarizations cycle around and enlarge focal ischaemic brain lesions. Brain 133,
+1994–2006.
+Nakanishi, N., Axel, R., Shneider, N.A., 1992. Alternative splicing generates functionally
+distinct N-methyl-D-aspartate receptors. Proc. Natl. Acad. Sci. U. S. A. 89, 8552–8556.
+Nallet, H., MacKenzie, E.T., Roussel, S., 1999. The nature of penumbral depolarizations following focal cerebral ischemia in the rat. Brain Res. 842, 148–158.
+Nedergaard, M., Hansen, A.J., 1988. Spreading depression is not associated with neuronal
+injury in the normal brain. Brain Res. 449, 395–398.
+Nilsson, P., Hillered, L., Ponten, U., Ungerstedt, U., 1990. Changes in cortical extracellular
+levels of energy-related metabolites and amino acids following concussive brain injury in rats. J. Cereb. Blood Flow Metab. 10, 631–637.
+Obeidat, A.S., Jarvis, C.R., Andrew, R.D., 2000. Glutamate does not mediate acute neuronal
+damage after spreading depression induced by O2/glucose deprivation in the hippocampal slice. J. Cereb. Blood Flow Metab. 20, 412–422.
+Obrenovitch, T.P., Urenjak, J., 1997. Is high extracellular glutamate the key to
+excitotoxicity in traumatic brain injury? J. Neurotrauma 14, 677–698.
+Obrenovitch, T.P., Urenjak, J., Zilkha, E., 1997. Effects of increased extracellular glutamate
+levels on the local ﬁeld potential in the brain of anaesthetized rats. Br. J. Pharmacol.
+122, 372–378.
+Oliveira-Ferreira, A.I., Milakara, D., Alam, M., Jorks, D., Major, S., Hartings, J.A., Luckl, J.,
+Martus, P., Graf, R., Dohmen, C., Bohner, G., Woitzik, J., Dreier, J.P., 2010. Experimental
+and preliminary clinical evidence of an ischemic zone with prolonged negative DC
+shifts surrounded by a normally perfused tissue belt with persistent
+electrocorticographic depression. J. Cereb. Blood Flow Metab. 30, 1504–1519.
+Olney, J.W., 1969. Brain lesions, obesity, and other disturbances in mice treated with
+monosodium glutamate. Science 164, 719–721.
+Raiteri, L., Zappettini, S., Milanese, M., Fedele, E., Raiteri, M., Bonanno, G., 2007. Mechanisms of glutamate release elicited in rat cerebrocortical nerve endings by ‘pathologically’ elevated extraterminal K+ concentrations. J. Neurochem. 103, 952–961.
+Risher, W.C., Croom, D., Kirov, S.A., 2012. Persistent astroglial swelling accompanies rapid
+reversible dendritic injury during stroke-induced spreading depolarizations. Glia 60,
+1709–1720.
+Rossi, D.J., Oshima, T., Attwell, D., 2000. Glutamate release in severe brain ischaemia is
+mainly by reversed uptake. Nature 403, 316–321.
+Rothman, S., 1984. Synaptic release of excitatory amino acid neurotransmitter mediates
+anoxic neuronal death. J. Neurosci. 4, 1884–1891.
+Sanchez-Porras, R., Santos, E., Scholl, M., Stock, C., Zheng, Z., Schiebel, P., Orakcioglu, B.,
+Unterberg, A.W., Sakowitz, O.W., 2014. The effect of ketamine on optical and electrical characteristics of spreading depolarizations in gyrencephalic swine cortex. Neuropharmacology 84, 52–61.
+Sarantis, M., Attwell, D., 1990. Glutamate uptake in mammalian retinal glia is voltage- and
+potassium-dependent. Brain Res. 516, 322–325.
+Satoh, M., Asai, S., Katayama, Y., Kohno, T., Ishikawa, K., 1999. Real-time monitoring of
+glutamate transmitter release with anoxic depolarization during anoxic insult in rat
+striatum. Brain Res. 822, 142–148.
+Shimamoto, K., Lebrun, B., Yasuda-Kamatani, Y., Sakaitani, M., Shigeri, Y., Yumoto, N.,
+Nakajima, T., 1998. DL-Threo-beta-benzyloxyaspartate, a potent blocker of excitatory
+amino acid transporters. Mol. Pharmacol. 53, 195–201.
+Somjen, G.G., 2001. Mechanisms of spreading depression and hypoxic spreading
+depression-like depolarization. Physiol. Rev. 81, 1065–1096.
+Strong, A.J., Fabricius, M., Boutelle, M.G., Hibbins, S.J., Hopwood, S.E., Jones, R., Parkin, M.C.,
+Lauritzen, M., 2002. Spreading and synchronous depressions of cortical activity in
+acutely injured human brain. Stroke 33, 2738–2743.
+Sword, J., Masuda, T., Croom, D., Kirov, S.A., 2013. Evolution of neuronal and astroglial disruption in the peri-contusional cortex of mice revealed by in vivo two-photon imaging. Brain 136, 1446–1461.
+Szatkowski, M., Barbour, B., Attwell, D., 1990. Non-vesicular release of glutamate from
+glial cells by reversed electrogenic glutamate uptake. Nature 348, 443–446.
+Takano, T., Tian, G.F., Peng, W., Lou, N., Lovatt, D., Hansen, A.J., Kasischke, K.A., Nedergaard,
+M., 2007. Cortical spreading depression causes and coincides with tissue hypoxia.
+Nat. Neurosci. 10, 754–762.
+Ueda, Y., Obrenovitch, T.P., Lok, S.Y., Sarna, G.S., Symon, L., 1992. Efﬂux of glutamate produced by short ischemia of varied severity in rat striatum. Stroke 23, 253–259.
+Van Harreveld, A., 1959. Compounds in brain extracts causing spreading depression of cerebral cortical activity and contraction of crustacean muscle. J. Neurochem. 3,
+300–315.
+Wahl, F., Obrenovitch, T.P., Hardy, A.M., Plotkine, M., Boulu, R., Symon, L., 1994. Extracellular glutamate during focal cerebral ischaemia in rats: time course and calcium dependency. J. Neurochem. 63, 1003–1011.
+Zhang, H., Lin, S.C., Nicolelis, M.A., 2009. Acquiring local ﬁeld potential information from
+amperometric neurochemical recordings. J. Neurosci. Methods 179, 191–200.
+Zhou, N., Rungta, R.L., Malik, A., Han, H., Wu, D.C., MacVicar, B.A., 2013. Regenerative glutamate release by presynaptic NMDA receptors contributes to spreading depression.
+J. Cereb. Blood Flow Metab. 33, 1582–1594.
+
+

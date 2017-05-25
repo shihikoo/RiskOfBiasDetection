@@ -1,0 +1,423 @@
+Functional Real-Time Optoacoustic Imaging of Middle
+Cerebral Artery Occlusion in Mice
+Moritz Kneipp1,2., Jake Turner1,2., Sebastian Hambauer3., Sandro M. Krieg3,4, Jens Lehmberg3,
+Ute Lindauer3,4,5", Daniel Razansky1,2*"
+1 Faculty of Medicine and Faculty of Electrical Engineering, Technische Universität München, Munich, Germany, 2 Institute for Biological and Medical Imaging, Helmholtz
+Zentrum München, Neuherberg, Germany, 3 Department of Neurosurgery, Klinikum rechts der Isar, Technische Universität München, Munich, Germany, 4 TUMNeuroimaging Center, Technical University Munich, Munich, Germany, 5 Munich Cluster for Systems Neurology (SyNergy), Munich, Germany
+
+Abstract
+Background and Purpose: Longitudinal functional imaging studies of stroke are key in identifying the disease progression
+and possible therapeutic interventions. Here we investigate the applicability of real-time functional optoacoustic imaging
+for monitoring of stroke progression in the whole brain of living animals.
+Materials and Methods: The middle cerebral artery occlusion (MCAO) was used to model stroke in mice, which were
+imaged preoperatively and the occlusion was kept in place for 60 minutes, after which optoacoustic scans were taken at
+several time points.
+Results: Post ischemia an asymmetry of deoxygenated hemoglobin in the brain was observed as a region of hypoxia in the
+hemisphere affected by the ischemic event. Furthermore, we were able to visualize the penumbra in-vivo as a localized
+hemodynamically-compromised area adjacent to the region of stroke-induced perfusion deficit.
+Conclusion: The intrinsic sensitivity of the new imaging approach to functional blood parameters, in combination with real
+time operation and high spatial resolution in deep living tissues, may see it become a valuable and unique tool in the
+development and monitoring of treatments aimed at suspending the spread of an infarct area.
+Citation: Kneipp M, Turner J, Hambauer S, Krieg SM, Lehmberg J, et al. (2014) Functional Real-Time Optoacoustic Imaging of Middle Cerebral Artery Occlusion in
+Mice. PLoS ONE 9(4): e96118. doi:10.1371/journal.pone.0096118
+Editor: Thiruma V. Arumugam, National University of Singapore, Singapore
+Received January 4, 2014; Accepted April 3, 2014; Published April 28, 2014
+Copyright: ß 2014 Kneipp et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: D.R. acknowledges funding support from the European Research Council under grant agreement ERC-2010-StG-260991; http://erc.europa.eu/. U.L. was
+supported by the Deutsche Forschungsgemeinschaft (German Research Foundation) within the framework of the Munich Cluster for Systems Neurology (EXC
+1010 SyNergy); http://www.dfg.de/. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Competing Interests: The authors have declared that no competing interests exist.
+* E-mail: dr@tum.de
+. These authors contributed equally to this work.
+" These authors also contributed equally to this work.
+
+[5]. Being based on light absorption, optoacoustics can directly
+sense blood-related contrast, in particular concentration of
+deoxygenated hemoglobin (Hb) and oxygenated hemoglobin
+(HbO2), without introduction of contrast agents [6]. In addition,
+the ability to visualize real time kinetics of uptake and clearance
+of contrast agents, in particular in whole mouse brains, has
+been recently demonstrated with this method [7].
+In this study, real-time MSOT imaging [8] was applied for
+longitudinal functional stroke imaging studies, aimed at identifying functional blood flow in the whole brain of a middle
+cerebral artery occlusion (MCAO) mouse model in vivo. Scans
+were made preoperatively for later comparison to post-operative
+scans and as a control. Infarct volume analysis was performed
+after the last in-vivo scan by means of histology after sacrificing
+the animal.
+
+Introduction
+Clinical and small animal imaging studies on stroke aim to
+further understanding into the development of the ischemic
+lesion [1], which in turn may lead to more effective treatments.
+Noninvasive functional imaging is central to these studies.
+However, imaging modalities commonly used for stroke
+visualization have generally high acquisition and running costs,
+with some also lacking the sufficient specificity, imaging speed,
+spatial resolution or penetration depth necessary for efficient
+investigations of disease progression in small animal models [1–
+3]. Multispectral optoacoustic tomography (MSOT) is a new
+imaging modality that utilizes generation of ultrasonic waves by
+wavelength-dependent absorption of ultrashort pulses of light in
+the imaged tissues [4]. Therefore, MSOT maintains the good
+functional contrast of the optical spectrum while also retaining
+significant advantages that are commonly associated with
+ultrasonic imaging, such as real-time operation and excellent
+spatial resolution unaffected by light scattering in deep tissues
+
+PLOS ONE | www.plosone.org
+
+1
+
+April 2014 | Volume 9 | Issue 4 | e96118
+
+Functional Optoacoustic Imaging of MCAO in Mice
+
+Following the initial validation scan, the MCAO procedure [9]
+was performed outside the scanner. A small incision was made at
+the neck of the animal and the left external and internal carotid
+arteries (ECA, ICA) were freed from the surrounding tissue. A
+coated filament was introduced into the common carotid artery
+(CCA), advanced inside the ICA and secured to occlude the origin
+of the middle cerebral artery (MCA), as illustrated in Figure 1A.
+During occlusion, a second in-vivo scan was performed. After
+60 min of ischemia, the filament was retracted, the wound closed,
+and the animal allowed to survive for 24 hours. After 24 h, a final
+MSOT scan was performed under anesthesia.
+
+Methods
+In-vivo MSOT Imaging
+The non-invasive optoacoustic scans were performed in vivo by
+acquiring whole-brain tomographical datasets formed from
+coronal slices imaged at 15 different excitation wavelengths
+between 710 and 850 nm. The system used was a cross-sectional
+small animal MSOT scanner, which uses a 64-element ultrasonic
+array for real-time 2D scanning [9]. MSOT offers high-resolution
+real-time imaging in deep tissues, combining advantages of high
+optical contrast and low scattering of ultrasound waves in
+biological tissues. The acquired broadband acoustic signals are
+generated through the optoacoustic phenomenon, whereby
+thermoelastic expansion in the target is created by irradiating it
+with nanosecond duration pulses of light from a tunable optical
+parametric oscillator laser [6]. In addition to the focused
+ultrasound transducer array, the MSOT scanner comprises an
+animal holder with a gas mask for anesthesia supply, and a
+motorized positioning stage to translate the animal relative to the
+illumination plane (Fig. 1B). Fiber bundles are distributed to form
+an illumination pattern that provides equal light fluence around
+the circumference of the imaged region. Ultrasonic coupling
+between the target and the transducer array is achieved by filling
+the acquisition chamber with water; the water is heated to 34uC to
+give a stable body temperature for the mice and a constant speed
+of sound in the coupling medium. The animal is further protected
+by a membrane, inhibiting direct contact between the coupling
+medium and the animal.
+
+Data Analysis
+The tomographic optoacoustic data recorded at each wavelength were reconstructed by interpolated model-matrix inversion
+[10]. The model-based framework allows for an accurate modeling
+of light and sound propagation in tissues as well as ultrasounic
+detector characteristics, thus most quantitative functional blood
+parameters can be extracted. Reconstruction artifacts due to the
+limited view of 172u of the transducer array are consequently
+minimized by including the array geometry in the reconstruction
+model. The optoacoustically-generated pressure distribution is
+given as
+p0 (r)!w(r)ma (r)
+
+where p0 denotes the initially generated pressure at location r,
+dependent upon the local light fluence w in J/m2 and the local
+absorption coefficient ma in cm21. The reconstructed images are
+subsequently spectrally unmixed, using a linear regression method
+[4] in order to map distributions of Hb and HbO2 in the brain.
+For every data point in the reconstructed images, the algorithm
+uses least-squares to match the recorded optoacoustic spectrum to
+the known absorption spectra of Hb and HbO2. This results in
+distribution maps of the two states of hemoglobin, which are
+regarded as the dominant absorbers in biological tissue. Spectral
+unmixing is essentially performed on a per-pixel basis by solving
+the set of linear equations:
+
+Mouse Handling
+All animals were treated in accordance with FELASA guidelines
+and the study was approved by local government (Regierung von
+Oberbayern, AZ 55.2-1-54-2531.2-6-10). This study saw seven
+mice (strain: Crl:SKH1-Hrhr, hairless, unpigmented, immunocompetent) operated upon and scanned; the mice were anesthetised with 1.5% isoflurane (Penlon vaporizer, UK) vaporized in
+pure oxygen; scans were made preoperatively for later comparison
+to post-operative scans and as a control.
+
+ma (li )~
+
+XN
+
+e (l )c
+j~1 j i j
+
+ð2Þ
+
+where li is the illumination wavelength ej is the wavelengthdependent molar extinction coefficient of a particular chromophore j having a local concentration cj [11].
+Additional analysis using single wavelength images was
+performed. The isosbestic point of hemoglobin is close to
+790 nm, thus signals recorded at this wavelength are closely
+related to the total cerebral blood volume (CBV). In order to
+analyze overall trends in the study, two areas were compared pre-,
+during, and post-ischemia at this wavelength. The comparison
+made was ratios of the mean value of a region of interest (ROI) in
+the ischemic cortex to the mean of its contralateral counterpart
+(marked by red squares in Figs. 2A and 2C); ratios were also taken
+for ROIs located in the striatum (marked by green squares in
+Figs. 2A and 2C). Percentage changes of the ratios relative to each
+pre-ischemia value were calculated. For statistical comparisons of
+absolute ratio data, the Friedman Repeated Measures Analysis of
+Variance on Ranks was performed. If a significant difference was
+detected, Tukey Test (all pairwise multiple comparison procedures) was used as post hoc analysis; p,0.05 was considered
+significant.
+
+Figure 1. Illustrations of the procedure and experimental
+setup. A: Schematic representation of the MCAO procedure. The
+filament is forwarded into the MCA (1) through the ICA (3), starting at
+the bifurcation of the CCA (5) into the ECA (4) and ICA. This causes
+formation of the stroke volume (2). B: Schematic representation of the
+MSOT scanner. The mouse holder (1) secures the mouse (2) in the
+scanner and anesthesia is supplied through the gas mask (3).
+Optoacoustic signals are generated in the illumination plane (4) and
+detected by the transducer array (5), covering and angle of 172u.
+doi:10.1371/journal.pone.0096118.g001
+
+PLOS ONE | www.plosone.org
+
+ð1Þ
+
+2
+
+April 2014 | Volume 9 | Issue 4 | e96118
+
+Functional Optoacoustic Imaging of MCAO in Mice
+
+Figure 2. Whole-brain optoacoustic images of a mouse. A: Structural features visible in the cryosection (right) are matched with the
+corresponding optoacoustic image features (left). The representative stained cryosection shows the infarct area caused by 1 h MCAO followed by
+24 h reperfusion. In the optoacoustic image, the area corresponding to the brain is enclosed by a green dotted line. The area affected by MCAO has
+been enclosed by a yellow dotted line. B: the multispectral data unmixed for the oxygenated and deoxygenated hemoglobin are overlaid on the
+single wavelength image from above (790 nm) in blue and red, respectively; the sagittal sinus is highly oxygenated due to the oxygen-isoflurane
+anesthetic. C: A coronal-slice set from a representative animal (distance between slices: 1 mm) with the multispectral unmixed data for deoxygenated
+hemoglobin in the brain presented in blue. The post ischemia set shows clear asymmetry (green arrow), while symmetry is intact in the pre ischemia
+set. Red and green squares in A and C indicate the ROIs for the ratio analysis.
+doi:10.1371/journal.pone.0096118.g002
+
+perfusion [12], resulting in the Hb-signal asymmetry after 24
+hours.
+Similar asymmetry is visible during the ischemia, as can be seen
+in Fig. 3. It is hypothesized that this hemodynamically compromised area represents part of the ischemic penumbra, which
+consists of hypoperfused but still viable tissue [13]. Even 24 h after
+the onset of stroke this region is not completely destroyed but may,
+depending on the course of the stroke, recover or become necrotic
+[14]. As can be further observed in Fig. 3, the Hb signal varies in
+strength and spatial distribution from mouse to mouse. While
+Mouse A exhibited the largest volume of increased Hb, mice B and
+C showed smaller areas, as can also be verified via the
+corresponding histological slices (infarct volumes at 24 h as
+analyzed from the histological sections: mouse A: 58.5 mm3,
+mouse B: 49 mm3, mouse C: 48.5 mm3). The size of the area of
+Hb-asymmetry and the associated signal strength therefore appear
+to be closely related to the histological infarct volume. Some mice
+appear to show little or no Hb signal in the cortex even after
+reperfusion (mouse A and B in Fig. 3). The infarct core has no (or
+dramatically reduced) cellular activity and thus limited oxygen
+consumption without the need to deoxygenate the present
+hemoglobin, resulting in pseudo-normal or reduced Hb signal
+[14].
+During artery occlusion, the total CBV in the ischemic core
+located in the cortex is reduced (Fig. 4A). This reduction in CBV
+
+Histological Validation
+The animals were then sacrificed and their brains excised and
+frozen at 280uC. To validate the stroke area post mortem coronal
+brain slices were taken using a cryostat with two 10 mm sections
+being mounted on a glass slide every 500 mm. H&E staining was
+performed and the infarct volumes were analyzed.
+
+Results
+A typical cross-sectional single wavelength optoacoustic image
+mainly reveals the major vessels and other anatomical features in
+the head. These correlate to some of the features that can be
+identified in the histological slices taken post mortem (Fig. 2A).
+However, the functional characteristics can be better visualized in
+the images spectrally unmixed for the presence of Hb and HbO2
+(Fig. 2B). When comparing the hemoglobin Hb signal of the
+preoperative scans to that of the scans taken 24 hours later, a clear
+asymmetry throughout a large portion of the brain becomes
+visible, as can be seen in Figure 2C. The signal likely corresponds
+to part of the tissue still suffering from hypoperfusion after the
+stroke. The Hb signal did not correspond directly to the necrotic
+ischemic lesion found in the stained coronal slices, but rather to
+the immediate surroundings of the lesion. While the hemisphere is
+reperfused after the 60-minute occlusion time, the area adjacent to
+the ischemic lesion appears to experience further deficient
+PLOS ONE | www.plosone.org
+
+3
+
+April 2014 | Volume 9 | Issue 4 | e96118
+
+Functional Optoacoustic Imaging of MCAO in Mice
+
+Figure 3. Deoxygenated hemoglobin distribution in several mice. From top down: Pre-, during, and 24 hours post-ischemia MSOT images for
+three MCAO mice (left to right) with corresponding H&E stained cryosections for each mouse (bottom; per mouse). MSOT: multispectral data for
+deoxygenated hemoglobin are presented in blue. Compared with the pre-ischemia situation, images taken during and 24 h post ischemia show clear
+asymmetry in the vicinity of the infarcted regions, as also apparent in the corresponding histological sections.
+doi:10.1371/journal.pone.0096118.g003
+
+The ratios between hemispheres demonstrate different longitudinal behavior in different areas of the brain. While cortex ratios
+dropped during ischemia for all mice, returning to nearly normal
+values after reperfusion, similar ratios in the striatum areas
+increased for all mice during artery occlusion and remained
+elevated at 24 h following reperfusion. It was previously confirmed
+that, due to the less pronounced reduction of blood flow in the
+penumbral region, autoregulatory dilation of the local cerebral
+circulation leads to an increase of CBV [15]. In the case that blood
+flow is sufficient, the cells located in the hypoxic penumbra will
+maintain metabolism and survive the occlusion; where blood flow
+is insufficient to support cell activity over time, the area will
+become part of the infarct.
+Indeed, the investigation into potential treatments for stroke
+necessitates non-invasive longitudinal studies. Here, through noninvasive functional MSOT imaging, it was possible to visualize the
+penumbra as a localized hypoxic area in the brain. Potential future
+studies could investigate the how different treatments affect the
+development of this hypoxic area, and thus limit the spread of the
+necrotic core. From a technical perspective, it would be ideal to
+simultaneously capture true three-dimensional MSOT data from
+the entire brain, which is a subject of our ongoing investigations.
+This would further allow achieving isotropic resolution in the
+imaged region, reduce out-of-plane image artifacts and lead to
+overall improvement of the data quantification abilities.
+
+results in a reduced ROI-ratio in all mice. At 24 h following
+reperfusion, the ratios have returned to nearly normal values. The
+averaged data of all 7 mice show that a significant difference exists
+between ratios during and 24 h post- ischemia (illustrated by the
+asterisks in Fig. 4C). No difference exists between pre- and 24 h
+post-ischemia. For the ROIs located in the striatum, a different
+trend is apparent (Figure 4B). While the ratios increase during
+artery occlusion for all mice, they further remain elevated also at
+24 h following reperfusion. Overall, the averaged data for all 7
+mice show a significant difference between the ischemic and postischemic periods as compared to pre-ischemia conditions (Fig. 4D).
+
+Discussion
+The current study investigated applicability of real-time
+multispectral optoacoustic tomography (MSOT) for the monitoring of stroke progression following MCAO in the whole brain of
+living mice. The in vivo optoacoustic scans of the whole animal
+head revealed the major vessels and their functional oxygenation
+parameters. Post ischemia an asymmetry of deoxygenated
+hemoglobin in the brain was observed as a region of hypoxia in
+the hemisphere affected by the ischemic event. This region was
+mainly located in the border zone adjacent to necrotic tissue and
+was present at 24 h post occlusion. Since similar asymmetry is
+found during the ischemia this hemodynamically compromised
+area is hypothesized to be part of the hypoperfused, but still viable,
+ischemic penumbra. Histological findings further confirmed that
+the size of the area of Hb-asymmetry and the associated signal
+strength, as revealed in the in-vivo optoacsoustic scans, are closely
+related to the infarct volume.
+
+PLOS ONE | www.plosone.org
+
+Conclusions
+In summary it has been shown that, although the ischemic
+lesion was not directly detectable using MSOT, an adjacent
+
+4
+
+April 2014 | Volume 9 | Issue 4 | e96118
+
+Functional Optoacoustic Imaging of MCAO in Mice
+
+Figure 4. CBV ratio analysis for all the 7 imaged animals based on single wavelength optoacoustic images acquired at isosbestic
+wavelength of blood at 790 nm. Ratios of the mean in the ischemic cortex to the mean of its contralateral counterpart were calculated for the
+cortical areas (marked by red squares in Figs. 2A and 2C) and striatum areas (marked by green squares in Figs. 2A and 2C) and % changes relative to
+pre-ischemia values are presented. A: All mice show reduction in CBV in the cortex, followed by return to normal values after reperfusion at 24 h
+(middle). B: For the striatum areas, the mice show an increase of CBV during ischemia, which remains elevated in most of the animals after
+reperfusion. Averaged data of absolute ratio values from all the mice (box plots with median and 25th and 75th percentile) are shown in panels C and
+D for the cortical and striatum areas, respectively.
+doi:10.1371/journal.pone.0096118.g004
+
+localized region with characteristic hemodynamic disturbance was
+detected throughout the brain that most certainly reflects the
+ischemic penumbra. The unique capacity to monitor the
+penumbra development non-invasively and longitudinally without
+the introduction of contrast agents demonstrates further potential
+for investigating the ability of acute stroke therapies aimed at
+limiting the lesion size. Finally, the intrinsic sensitivity of MSOT to
+functional blood parameters, in combination with real time
+
+operation and high spatial resolution in deep tissues, may see it
+become a valuable and unique tool in functional stroke studies.
+
+Author Contributions
+Performed the experiments: MK JT SH. Analyzed the data: MK JT SH.
+Wrote the paper: MK JT UL DR. Conceived and supervised the study:
+SMK JL UL DR.
+
+References
+5. Razansky D, Deliolanis NC, Vinegoni C, Ntziachristos V (2012) Deep tissue
+optical and optoacoustic molecular imaging technologies for small animal
+research and drug discovery. Curr Pharm Biotech 13(3): 504–522.
+6. Liang R (ed.). (2013) Biomedical optical imaging technologies: design and
+applications. Springer.
+7. Burton NC, Patel M, Morscher S, Driessen WH, Claussen J, et al. (2013)
+Multispectral optoacoustic tomography (MSOT) brain imaging and characterization of glioblastoma. Neuroimage 65: 522–528.
+8. Razansky D, Buehler A, Ntziachristos V (2011) Volumetric real-time
+multispectral optoacoustic tomography of biomarkers. Nature Prot 6: 1121–
+1129.
+9. Dirnagl Ulrich and Group, Members of the MCAO-SOP (2012) Standard
+operating procedures (SOP) in experimental stroke research: SOP for middle
+
+1. Heiss WD, Graf R, Wienhard K, Löttgen J, Saito R, et al. (1994) Dynamic
+penumbra demonstrated by sequential multitracer PET after middle cerebral
+artery occlusion in cats. J Cereb Blood Flow Metab. 14(6): 892–902.
+2. Zaharchuk G, Yamada M, Sasamata M, Jenkins BG, Moskowitz MA, et al.
+(2000) Is all perfusion-weighted magnetic resonance imaging for stroke equal?
+The temporal evolution of multiple hemodynamic parameters after focal
+ischemia in rats correlated with evidence of infarction. J Cereb Blood Flow
+Metab. 20: 1341–1351.
+3. Yu L, Nguyen E, Liu G, Choi B, Chen Z (2010) Spectral Doppler optical
+coherence tomography imaging of localized ischemic stroke in a mouse model. J
+Biomed Opt. 15(6): 066006.
+4. Razansky D (2012) Multi-spectral optoacoustic tomography – volumetric color
+hearing in real time, IEEE J. Sel. Topics Quantum Electron. 18, 1234–1243.
+
+PLOS ONE | www.plosone.org
+
+5
+
+April 2014 | Volume 9 | Issue 4 | e96118
+
+Functional Optoacoustic Imaging of MCAO in Mice
+
+cerebral artery occlusion in the mouse. Available from Nature Precedings ,
+http://dx.doi.org/10.1038/npre.2012.3492.3.. Accessed 10 December 2013.
+10. Rosenthal A, Razansky D, Ntziachristos V (2010) Fast semi-analytical modelbased acoustic inversion for quantitative optoacoustic tomography. IEEE Trans
+Med Imag. 29: 1275–1285.
+11. Deán-Ben XL, Razansky D (2013) Handheld clinical optoacoustic imaging
+scanner for three-dimensional visualization of deep tissue morphology and
+function in real time. Photoacoustics 1(4): 68–73.
+12. van Dorsten FA, Hata R, Maeda K, Franke C, Eis M, et al. (1999) Diffusionand perfusion-weighted MR imaging of transient focal cerebral ischaemia in
+mice. NMR Biomed. 12(8): 525–34.
+
+PLOS ONE | www.plosone.org
+
+13. Heiss WD (2012) The ischemic penumbra: how does tissue injury evolve? Ann N
+Y Acad Sci. 1268: 26–34.
+14. Liu S, Shi H, Liu W, Furuichi T, Timmins GS, et al. (2004) Interstitial pO2 in
+ischemic penumbra and core are differentially affected following transient focal
+cerebral ischemia in rats. J Cereb Blood Flow Metab. 24(3): 343–9.
+15. Deng Z, Wang Z, Yang X, Luo Q, Gong H (2012) In vivo imaging of
+hemodynamics and oxygen metabolism in acute focal cerebral ischemic rats with
+laser speckle imaging and functional photoacoustic microscopy. J Biomed Opt.
+17(8): 081415–1.
+
+6
+
+April 2014 | Volume 9 | Issue 4 | e96118
+
+

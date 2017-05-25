@@ -1,0 +1,732 @@
+Neurol Sci (2015) 36:1463–1470
+DOI 10.1007/s10072-015-2149-6
+
+ORIGINAL ARTICLE
+
+Treatment with recombinant tissue plasminogen activator alters
+the microRNA expression profiles in mouse brain after acute
+ischemic stroke
+Yan Yan Zhao1 • Wen An Wang1 • Hua Hu2
+
+Received: 27 October 2014 / Accepted: 3 March 2015 / Published online: 26 March 2015
+Ó Springer-Verlag Italia 2015
+
+Abstract Thrombolysis with recombinant tissue plasminogen activator (rtPA) is the only FDA approved treatment for the brain ischemic stroke. MicroRNAs, noncoding RNA sequences that regulate gene expression,
+might play important roles in regulating the rtPA thrombolysis process. The present study investigated changes in
+the microRNA profiles in a middle cerebral artery occlusion (MCAo) mouse model after rtPA treatment. Using
+microarrays containing 1179 microRNAs, we compared
+microRNAs expression profiles of brain tissues from C57
+BL/6J mice subjected to focal cerebral ischemia with and
+without rtPA thrombolysis. We found that rtPA treatment
+upregulated 31 microRNAs and downregulated 11 microRNAs. Expression alterations of selected microRNAs
+mmu-miR-125a-3p, -208a-5p, -709, -721 were confirmed
+by real-time PCR. Differentially expressed microRNAs
+were analyzed using Targetscan v6.2 and David v6.7. 2200
+predicted genes were subjected to GO analysis and pathway analysis, which identified mediators involved in
+multiple signaling pathways during proliferation. These
+data demonstrated that rtPA treatment alters microRNAs
+
+& Wen An Wang
+13611641232@163.com
+& Hua Hu
+hua.hu@foxmail.com
+1
+
+Department of Neurology, Xin Hua Hospital (Chongming),
+Shanghai Jiao Tong University, 25 Nanmen Road, Shanghai,
+China
+
+2
+
+Department of Otolaryngology, Shanghai First People’s
+Hospital, Shanghai Jiao Tong University, 100 Haining Road,
+Shanghai, China
+
+expression after stroke, and provided new insight into understanding the biological process of rtPA thrombolysis.
+Keywords Recombinant tissue plasminogen activator 
+Middle cerebral artery occlusion  microRNAs  Ischemic 
+Stroke
+
+Introduction
+Stroke is a leading cause of high disability rate and mortality worldwide. It is estimated that ischemic stroke accounts for about 85 percent of all strokes in Europe and
+North America [1]. To date, recombinant tissue plasminogen activator (rtPA) is the only Food and Drug Administration (FDA) approved treatment for acute ischemic
+stroke [2]. Treatment of the acute ischemic stroke patients
+with intravenous rtPA infusion within 3 h improves the
+clinical outcome at 3 months owing to its thrombolytic
+effect [3]. Earlier thrombolytic treatment led to reduced
+mortality and symptomatic intracranial hemorrhage [4].
+However, studies showed the tPA also has deleterious effects on the ischemic brain [5].
+microRNAs (miRNAs) are a group of small non-coding
+conserved RNAs. They bind to corresponding target
+mRNAs to degrade the target mRNAs or to inhibit the
+translation [6]. It is suggested that over one-third of human
+genes are modulated by microRNAs in diverse biological
+and pathological processes [7, 8]. Recent studies show that
+microRNAs are crucial in regulating brain functions after
+stroke [9].
+In this study, we examined brain microRNAs expression
+after rtPA thrombolysis treatment in a mouse middle
+cerebral artery occlusion (MCAo) model to elucidate predicted target genes and relevant signaling pathways.
+
+123
+
+1464
+
+Materials and methods
+Animals and experiment groups
+All experimental procedures were approved by the Institutional Animal Care and Use Committee of Shanghai Jiao
+Tong University. Adult male SPF C57BL/6J mice (n = 24,
+age 8–12 weeks, weight 24 ± 3 g) were employed in this
+study (Shanghai Laboratory Animal Research Center,
+Shanghai, China). All mice were housed at room temperature (20–23 °C) on a 12 h light/12 h dark cycle, with
+unlimited access to soft food and tap water. Mice were
+randomly divided into 2 groups (n = 12 each): (1) MCAo
+group: left middle cerebral artery was occluded with nylon
+monofilament for 24 h; (2) MCAo?rtPA group: left middle
+cerebral artery was occluded with nylon monofilament for
+2 h, and then rtPA (10 mg/kg, Boehringer Ingelheim,
+Germany) was administered intravenously for 15 min and
+then the monofilament was removed for reperfusion
+(Fig. 1).
+
+Neurol Sci (2015) 36:1463–1470
+
+Mouse body temperature was maintained at 36.5 ± 0.5 °C
+using a heating plate.
+To mimic the clinical treatment for brain ischemic
+stroke using rtPA, we designed the following experiment
+modified from the Toru Yamashita methods [12]. To
+simulate the tPA-associated thrombosis and reperfusion
+process, 10 mg/kg rtPA (Boehringer Ingelheim, Germany)
+was administrated for 15 min, followed by withdrawing the
+nylon monofilament from the origin of the middle cerebral
+artery for reperfusion.
+Measurement of functional outcome
+At 24 h after MCAo, neurological deficits were scored as
+previously described [12], with minor modifications. A sixpoint scale was used: 0, normal; 1, mild circling with the
+contralateral forelimb upon lifting of the animal by the tail;
+2, mild consistent circling to the ipsilateral side, but normal
+posture at rest; 3, consistent circling to the ipsilateral side
+strong; 4, severe rotation, loss of walking; and 5, leaning to
+the ipsilateral side with no spontaneous motor activity.
+
+Animal model of middle cerebral artery occlusion
+and rtPA preconditioning
+
+microRNA microarray
+
+The left middle cerebral artery (MCA) was occluded according to the standard operation procedures (SOP) for
+MCAo in mice [10, 11]. Briefly, mice were anesthetized
+with peritoneal injection of 1 % pentobarbital sodium
+(0.6 mL/100 g, SCRC, China) and then a midline neck
+incision was made. The left common carotid artery
+(LCCA), left external carotid artery (LECA), and left internal carotid artery (LICA) were isolated for inserting the
+nylon monofilament (4–0, Johnson & Johnson, USA)
+through a small incision in the LCCA. The monofilament
+was fixed in position tightly and then the incision was
+sutured. Cerebral blood flow was evaluated with laser
+doppler flowmetry (Perimed, Sweden) during MCAo.
+
+24 h after operation, mice were anesthetized with chloraldurat (35 mg/100 g, SCRC, China) and killed, and left
+brain was collected. Total RNA of each mouse brain
+sample was extracted and purified using the mirVana microRNA isolation kit in accordance with the manufacturer’s procedure (AM 1560, Ambion, USA). Quality control
+of the total RNAsamples was assessed using Agilent 2100
+Bioanalyzer (Agilent Technologies, USA). microRNA
+molecules in total RNA was labeled using microRNA
+complete labeling and hyb kit (5190-0456, Agilent technologies, USA), and hybridized to the MicroRNA microarrays according to conditions recommended by the
+manufacturer. The microarrays were scanned using an
+
+Fig. 1 Experimental flow diagram. Mice were divided into MCAo group and MCAo?rtPA groups, after operation and functional measurement,
+mice were killed at 24 h, and brain tissue was collected for microRNA array analysis
+
+123
+
+Neurol Sci (2015) 36:1463–1470
+Table 1 The primers used for real-time PCR
+microRNA
+
+Primer sequences (50 –30 )
+
+mmu-miR-125a-3p
+
+ACAGGTGAGGTTCTTGGGAG
+
+mmu-miR-721
+
+CAGTGCAATTAAAAGGGGGA
+
+mmu-miR-709
+
+GCAGAGGCAGGAGGAAAAA
+
+mmu-miR-5121
+
+GCTTGTGATGAGACATCTCCAA
+
+mmu-miR-208a-5p
+
+AGCTTTTGGCCCGGGTA
+
+mmu-miR-546
+
+ATGGTGGCACGGAGTCAA
+
+mus snoRNA292
+
+AAGAATGACACCAACAAAGGAAC
+
+1465
+
+Agilent microarray scanner (G2565BA, Agilent technologies, USA). Data were extracted from images using Feature
+Extraction software 10.7 (Agilent technologies, USA) with
+default settings. Gene Spring Software 11.0 (Agilent
+technologics, USA) was used for data summarization, Log2
+transformation, normalization, and quality control.
+Quantitative real-time polymerase chain reaction
+Alterations of selected microRNAs expression were tested
+using the miScript II RT Kit (Qiagen, Germany) and
+
+Fig. 2 Heat map of
+microRNAs profiling following
+different treatments. Data were
+from eight individual
+microarrays (four arrays per
+group). The color code in the
+heat maps is linear with green as
+the lowest and red as the highest
+expression. 31 and 11
+microRNAs in the rtPA
+treatment group were at least
+2-fold upregulated and 2-fold
+downregulated, respectively
+(p \ 0.05)
+
+123
+
+1466
+
+miRcute microRNA qPCR Detection Kit (Tiangen. China).
+Mus snoRNA292 was chosen as internal reference for the
+Quantity real-time PCR. All reactions were detected with a
+7900 HT Sequenced Detection System (ABI, USA) using
+miRcute miRNA premix following the instruction: 95 °C
+2 min; 94 °C 15 s and 60 °C 1 min with 40 cycles. Primers are presented in Table 1.
+Analysis of functional microRNAs regulation
+in the brain
+microRNAs that were significantly altered (p \ 0.05) more
+than 2-fold between the MCAo and rtPA thrombosis group
+were chosen for biologic functional analysis. Predicted
+target genes of differentially expressed microRNAs were
+determined using Targetscan v6.2 (http://www.targetscan.
+org/). The brain microRNA and predicted mRNA target
+genes were then subjected to biological pathways analyses
+using David v6.7 (http://david.abcc.ncifcrf.gov/) online.
+Statistical analysis
+microRNA microarray raw data were normalized by
+quantile algorithm, gene spring software 11.0 (Agilent
+technologics, USA). The microRNAs that were altered
+more than 2-fold and featured a p value of the threshold
+less than 0.05 were presented and selected for the miRNA
+functional and pathway study. Mouse neurologic scores in
+the study are presented as mean ± SD. A Student t test was
+used to evaluate the significance of comparisons. SPSS
+17.0 (PASW, US) was used for the statistical analysis, and
+a 2-tailed probability value \0.05 was considered as statistically significant.
+
+Results
+rtPA treatment alters microRNAs expression
+in the MCAo mice model
+We evaluated the neurological scores in animals in the
+MCAo and rtPA thrombolysis groups (n = 10 each) 24 h
+after surgery. There were statistically significant differences in neurological scores between the two groups with
+rtPA thrombolysis having improved functional outcome
+(rtPA thrombolysis vs MCAo, 1.60 ± 0.70 vs 2.70 ± 0.67,
+respectively; p = 0.003).
+To examine whether rtPA treatment will alter the expression profile of microRNAs after cerebral ischemia, we
+analyzed the expression profiles of mature microRNAs in
+brain tissues isolated from MCAo mice and MCAo mice
+treated with rtPA (n = 4 each, randomly picked from each
+group) using a microRNA microarray platform (Fig. 2).
+
+123
+
+Neurol Sci (2015) 36:1463–1470
+Table 2 Changed microRNAs identified using microRNA array with
+fold change[2 (ratio of the relative expression of microRNAs in rtPA
+thrombolysis group compared to MCAO group) and p value \0.05
+microRNA
+
+p values
+
+Fold change
+
+mmu-let-7e-3p
+
+0.025941675
+
+0.199331247
+
+mmu-miR-124-5p
+
+0.029819134
+
+0.464171628
+
+mmu-miR-24-1-5p
+mmu-miR-24-2-5p
+
+0.023974929
+0.039961604
+
+0.447295168
+0.166432733
+
+mmu-miR-3068-3p
+
+0.012651491
+
+0.155860406
+
+mmu-miR-330-5p
+
+0.021647788
+
+0.1960578
+
+mmu-miR-33-5p
+
+0.030149456
+
+0.473190059
+
+mmu-miR-455-3p
+
+0.011018546
+
+0.086157452
+
+mmu-miR-667-3p
+
+0.003201663
+
+0.098315294
+
+mmu-miR-744-3p
+
+0.00341739
+
+0.115294128
+
+mmu-miR-877-3p
+
+0.037680714
+
+mcmv-miR-m108-2-5p.2
+
+0.001721613
+
+mmu-miR-125a-3p
+
+0.001521909
+
+mmu-miR-125b-1-3p
+
+0.027202676
+
+mmu-miR-149-3p
+
+0.025447884
+
+mmu-miR-1901
+
+0.00078039
+
+mmu-miR-1940
+
+0.015438816
+
+2.853998854
+
+mmu-miR-208a-5p
+mmu-miR-2137
+
+0.009678032
+0.047990435
+
+45.50629875
+2.964856285
+
+mmu-miR-2861
+
+0.016988588
+
+mmu-miR-3067-3p
+
+6.97074E-05
+
+mmu-miR-3077-5p
+
+0.006747048
+
+mmu-miR-3096a-5p
+
+0.000100964
+
+mmu-miR-328-5p
+
+0.00871491
+
+2.573742304
+
+mmu-miR-3473b
+
+0.042582596
+
+2.649458772
+
+mmu-miR-3960
+
+0.003290942
+
+2.677082902
+
+mmu-miR-5102_v18.0
+
+0.026692626
+
+9.909705008
+
+mmu-miR-5105
+
+0.005817401
+
+2.061447283
+
+mmu-miR-5107-5p
+
+0.035337175
+
+2.162987713
+
+mmu-miR-5113
+
+0.042224314
+
+5.650341046
+
+mmu-miR-5121
+
+0.001953468
+
+2.862525479
+
+mmu-miR-5126
+
+0.002418124
+
+2.950166801
+
+mmu-miR-5128
+
+0.011651099
+
+3.539747915
+
+mmu-miR-5130
+mmu-miR-546
+
+0.011226076
+0.036552331
+
+2.012750651
+6.842004498
+
+mmu-miR-665-3p
+
+0.04562104
+
+4.294816504
+
+mmu-miR-678
+
+0.006904266
+
+4.770315496
+
+mmu-miR-681
+
+0.001028159
+
+3.360683755
+
+mmu-miR-709
+
+0.016523339
+
+2.8031187
+
+mmu-miR-714
+
+0.034886688
+
+2.390045606
+
+mmu-miR-721
+
+0.042196856
+
+3.456823155
+
+mmu-miR-760-3p
+
+0.043031047
+
+2.157343619
+
+0.152435335
+46.03599103
+2.034903578
+34.18438869
+2.322297922
+108.0345189
+
+3.114513783
+148.8157834
+2.578215359
+127.31878
+
+We found that 31 and 11 microRNAs in the rtPA treatment
+group were at least 2-fold upregulated and 2-fold downregulated, respectively (p \ 0.05, Fig. 2; Table 2).
+
+Neurol Sci (2015) 36:1463–1470
+
+1467
+
+Fig. 3 Real-time PCR
+verification of microRNA array.
+a Real-time PCR results of
+selective microRNAs after rtPA
+treatment. Except mmu-miR5121, mmu-miR-125a-3p, 208a-5p, -miR-709, -721
+expression increased after rtPA
+treatment (Data are
+mean ± SD, n = 6 each group,
+*p \ 0.05). b Selectively
+upregulated microRNAs
+detected on the microarrays.
+The microRNAs (mmu-miR125a-3p, -208a-5p, -5121, miR-709, -721) experssion
+increased after rtPA treatment.
+(Data are mean ± SD, n = 4
+each group, *p \ 0.05)
+
+Using quantitative real-time PCR, we verified 5 microRNAs (mmu-miR-125a-3p, -208a-5p, -5121, -miR-709,
+-721) that showed significant differences between groups
+(Fig. 3a). Except mmu-miR-5121, all other verified microRNAs by real-time PCR showed the similar alteration
+as detected by microarray (Fig. 3b).
+Analysis of predicted targets and biological
+functions of differentially expressed microRNAs
+
+target genes were transforming growth factor beta receptor
+activity, type I, activin receptor activity, type 1, AMP-activated protein kinase activity, protein phosphatase 2A binding, glycine transmembrane transporter activity, thyroid
+hormone receptor activity, RNA polymerase II transcription
+elongation factor activity, activin binding, transforming
+growth factor beta receptor activity, and transmembrane
+receptor protein serine/threonine kinase activity (Fig. 4).
+Pathways analysis of rtPA thrombolysis MCAo
+
+To analyze the likely functions of differentially expressed
+microRNAs in response to rtPA treatment in MCAo
+thrombolysis, we predicted the potential targets of microRNAs with Targetscan v6.2. No target was found for
+mmu-miR-124-5p, -149-3p, -1901, -2137, -24-1-5p, -30673p, -3077-5p, -3096a-5p, -328-5p, -33-5p, and -5107-5p. A
+total of 2,700 predicted target genes were identified, and
+among them, 2200 predicted genes which had David IDs
+were subjected to Go analysis in DAVID v6.7. The top 10
+significantly enhanced GO terms associated with predicted
+
+Pathway analysis was performed on the miRNAs which were
+altered more than 2-fold and that met the p \ 0.05 criteria.
+The targeted genes associated with 42 microRNAs were
+subjected to KEGG pathway enrichment analysis using the
+DAVID v6.7 tools. The top 10 significantly enhanced pathways following rtPA thrombolysis in the MCAo mouse
+model were as follows: thyroid cancer, chronic myeloid
+leukemia, glioma, colorectal cancer, keratan sulfate
+biosynthesis, ErbB signaling pathway, dorso-ventral axis
+
+123
+
+1468
+
+Neurol Sci (2015) 36:1463–1470
+
+Fig. 5 Top 10 significantly enriched Pathway analysis of the
+predicted target genes: thyroid cancer, chronic myeloid leukemia,
+glioma, colorectal cancer, keratan sulfate biosynthesis, ErbB signaling pathway, dorso-ventral axis formation, axon guidance, long-term
+potentiation, and the phosphatidylinositol signaling system
+
+Fig. 4 Go analysis of the molecular functions for the predicted target
+genes. The top 10 significantly molecular functions are transforming
+growth factor beta receptor activity, type I, activin receptor activity,
+type 1, AMP-activated protein kinase activity, protein phosphatase 2A
+binding, glycine transmembrane transporter activity, thyroid hormone
+receptor activity, RNA polymerase II transcription elongation factor
+activity, activin binding, transforming growth factor beta receptor
+activity, and transmembrane receptor protein serine/threonine kinase
+activity
+
+formation, axon guidance, long-term potentiation, and the
+phosphatidylinositol signaling system (Fig. 5).
+
+Discussion
+rtPA is the only approved medicine for the treatment of
+acute brain ischemic stroke world wildly [13]. However,
+the biological process of rtPA thrombolysis is still not fully
+
+123
+
+understood. The present study utilized a mice model to
+mimic rtPA thrombolysis to profile microRNAs expression.
+In this study, we demonstrated that rtPA treatment altered
+expression profiles of multiple micorRNAs after MCAo in
+mice. To our knowledge, this is the first report on microRNAs expression in MCAo after rtPA thrombolysis in
+mouse brain tissue. In addition, many of the altered microRNAs could potentially regulate the activities of TGFbeta superfamily receptors, including TGF-beta1 receptor,
+activin receptor activities, and many cancer related pathway and neuron axon, long-term potentiation related
+pathways. These results suggest that rtPA treatment might
+be relevant to neuron regeneration, axon repair, and the
+restoration of injured neural function. These data provide
+the basis for further investigation of biological function of
+the altered microRNAs after rtPA treatment for MCAo.
+microRNAs expression profile after MCAO has been
+investigated by several studies [14, 15]. Wang et al. [14]
+compared microRNAs expression profile of 2 h MCAo and
+reperfusion without rtPA till 24 h with that of normal
+
+Neurol Sci (2015) 36:1463–1470
+
+control in animal model, and found that total 64 miRNAs
+were downregulated and 2 miRNAs were upregulated
+(miR-503-3p and miR-23a-5p). Lee et al. [15] studied
+microRNAs expression profiles between 3, 24 h MCAo
+and normal control in mouse model. In our study, to mimic
+the clinical treatment for brain ischemic stroke using rtPA,
+rtPA was administrated after 2 h MCAo followed by
+withdrawing the nylon monofilament from the origin of the
+middle cerebral artery for reperfusion. Then we compared
+microRNAs expression profiles between MCAo with rtPA
+treatment and 24 h MCAo alone. Our results showed that
+rtPA thrombolysis affected 43 microRNAs differential
+expression at 24 h, among them 31 were upregulated and
+11 were downregulated. Lee et al. [15] found that miR125a-3p, miR-709, and miR-721 were upregulated at 24 h
+MCAo compared with normal control. miR-125a-3p, miR709, miR-721 were also found upregulated in rtPA administration group in our study. The functions of these
+microRNAs in MCAo pathological process need further
+examination.
+Using real-time PCR, we validated that the level of
+mmu-miR-125a-3p, -208a-5p, -5121, -709 and -721 increased after rtPA treatment. miR-125a-3p, which modulates p53 and Fyn related signals [16, 17], inhibits
+migration and invasion in several cancer cell types and
+functions as a tumor-suppressing microRNA [17, 18].
+Kumar et al. [19] showed that miR-125a-3p targeted genes involving cytokines, chemokines, and apoptotic genes
+in mouse brains infected with West Nile virus. Previous
+studies have indicated miR-208a was increased after acute
+myocardial infarction [20], and mir-208a might induce
+myocardial fibrosis through increasing endoglin expression [21]. In Adilakshmi, T’s study, miR-709 could induce gene silencing of the Egr2 promoter by combining
+with H3K27me3 and Argonaute-1, following peripheral
+nervous system injury [22]. Additionally, this biological
+modulation might affect schwann cells differentiation
+following brain ischemic injury. Although miR-125a-3p
+and miR-709 show regulatory roles in neuropathy, and
+miR-208 plays an important role in myocardial fibrosis,
+the function of miR-125a-3p, -208a-5p, and -709 in brain
+ischemic injury may need further study. The PubMed
+database shows no related studies for many differentially
+expressed microRNAs detected in our study. Further
+studies are needed for those differentially expressed microRNAs, their target genes, and their functions in
+neuropathogenesis.
+In summary, our data showed that rtPA thrombolysis
+induced changes in the microRNAs expression profile.
+Notably, these altered microRNAs might regulate the
+rtPA thrombolysis process, which could be helpful for
+further analyze of the biological function of rtPA in
+thrombolysis.
+
+1469
+Acknowledgments The work was supported by Shanghai Municipal Bureau of Public Health Grant No. 2011Y87 and National
+Natural Science Foundation of China (No.81400445).
+Conflict of interest There is no conflict of interest of any authors in
+relation to this article.
+
+References
+1. Bloom JM (1996) Low-molecular-weight heparin for the treatment of acute ischemic stroke. N Engl J Med 334(21):1407.
+doi:10.1056/NEJM199605233342115
+2. Brott T, Bogousslavsky J (2000) Treatment of acute ischemic
+stroke. N Engl J Med 343(10):710–722. doi:10.1056/
+NEJM200009073431007
+3. [Anonymous] (1995) Tissue plasminogen activator for acute ischemic stroke. The National Institute of Neurological Disorders
+and Stroke rt-PA Stroke Study Group. N Engl J Med
+333(24):1581–1587. doi:10.1056/NEJM199512143332401
+4. Saver JL, Fonarow GC, Smith EE, Reeves MJ, Grau-Sepulveda
+MV, Pan W, Olson DM, Hernandez AF, Peterson ED, Schwamm
+LH (2013) Time to treatment with intravenous tissue plasminogen activator and outcome from acute ischemic stroke. JAMA
+309(23):2480–2488. doi:10.1001/jama.2013.6959
+5. Yepes M, Roussel BD, Ali C, Vivien D (2009) Tissue-type plasminogen activator in the ischemic brain: more than a thrombolytic.
+Trends Neurosci 32(1):48–55. doi:10.1016/j.tins.2008.09.006
+6. Bartel DP (2004) MicroRNAs: genomics, biogenesis, mechanism, and function. Cell 116(2):281–297
+7. Lewis BP, Burge CB, Bartel DP (2005) Conserved seed pairing,
+often flanked by adenosines, indicates that thousands of human
+genes are microRNA targets. Cell 120(1):15–20. doi:10.1016/j.
+cell.2004.12.035
+8. Kloosterman WP, Plasterk RH (2006) The diverse functions of
+microRNAs in animal development and disease. Dev Cell
+11(4):441–450. doi:10.1016/j.devcel.2006.09.009
+9. Rink C, Khanna S (2011) MicroRNA in ischemic stroke etiology
+and pathology. Physiol Genomics 43(10):521–528. doi:10.1152/
+physiolgenomics.00158.2010
+10. Ulrich Dirnagl MotM-SG (2012) Standard operating procedures
+(SOP) in experimental stroke research: SOP for middle cerebral
+artery occlusion in the mouse. Nature. doi:10.1038/npre.2012.3492.3
+11. Engel O, Kolodziej S, Dirnagl U, Prinz V (2011) Modeling stroke
+in mice—middle cerebral artery occlusion with the filament
+model. J Vis Exp (47). doi:10.3791/2423
+12. Yamashita T, Kamiya T, Deguchi K, Inaba T, Zhang H, Shang J,
+Miyazaki K, Ohtsuka A, Katayama Y, Abe K (2009) Dissociation
+and protection of the neurovascular unit after thrombolysis and
+reperfusion in ischemic rat brain. J Cereb Blood Flow Metab
+29(4):715–725. doi:10.1038/jcbfm.2008.164
+13. Davalos A (2005) Thrombolysis in acute ischemic stroke: successes, failures, and new hopes. Cerebrovasc Dis 20(Suppl
+2):135–139. doi:10.1159/000089367
+14. Wang C, Pan Y, Cheng B, Chen J, Bai B (2014) Identification of
+conserved and novel microRNAs in cerebral ischemia-reperfusion injury of rat using deep sequencing. J Mol Neurosci
+54(4):671–683. doi:10.1007/s12031-014-0383-7
+15. Lee ST, Chu K, Jung KH, Yoon HJ, Jeon D, Kang KM, Park KH,
+Bae EK, Kim M, Lee SK, Roh JK (2010) MicroRNAs induced
+during ischemic preconditioning. Stroke 41(8):1646–1651.
+doi:10.1161/STROKEAHA.110.579649
+16. Jiang L, Chang J, Zhang Q, Sun L, Qiu X (2013) MicroRNA hsa-miR125a-3p activates p53 and induces apoptosis in lung cancer cells.
+Cancer Invest 31(8):538–544. doi:10.3109/07357907.2013.820314
+
+123
+
+1470
+17. Ninio-Many L, Grossman H, Shomron N, Chuderland D, Shalgi
+R (2013) microRNA-125a-3p reduces cell proliferation and migration by targeting Fyn. J Cell Sci 126(Pt 13):2867–2876.
+doi:10.1242/jcs.123414
+18. Hashiguchi Y, Nishida N, Mimori K, Sudo T, Tanaka F, Shibata
+K, Ishii H, Mochizuki H, Hase K, Doki Y, Mori M (2012) Downregulation of miR-125a-3p in human gastric cancer and its
+clinicopathological significance. Int J Oncol 40(5):1477–1482.
+doi:10.3892/ijo.2012.1363
+19. Kumar M, Nerurkar VR (2014) Integrated analysis of microRNAs and their disease related targets in the brain of mice
+infected with West Nile virus. Virology 452–453:143–151.
+doi:10.1016/j.virol.2014.01.004
+
+123
+
+Neurol Sci (2015) 36:1463–1470
+20. Xiao J, Shen B, Li J, Lv D, Zhao Y, Wang F, Xu J (2014) Serum
+microRNA-499 and microRNA-208a as biomarkers of acute
+myocardial infarction. Int J Clin Exp Med 7(1):136–141
+21. Wang BW, Wu GJ, Cheng WP, Shyu KG (2014) MicroRNA208a increases myocardial fibrosis via endoglin in volume
+overloading heart. PLoS One 9(1):e84188. doi:10.1371/journal.
+pone.0084188
+22. Adilakshmi T, Sudol I, Tapinos N (2012) Combinatorial action of
+miRNAs regulates transcriptional and post-transcriptional gene
+silencing following in vivo PNS injury. PLoS ONE 7(7):e39674.
+doi:10.1371/journal.pone.0039674
+
+

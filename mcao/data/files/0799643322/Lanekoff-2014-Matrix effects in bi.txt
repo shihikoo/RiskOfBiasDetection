@@ -1,0 +1,520 @@
+Volume 139 Number 14 21 July 2014 Pages 3483–3646
+
+Analyst
+www.rsc.org/analyst
+
+ISSN 0003-2654
+
+COMMUNICATION
+Julia Laskin et al.
+Matrix effects in biological mass spectrometry imaging: identiﬁcation
+and compensation
+
+Analyst
+View Article Online
+
+Published on 06 May 2014. Downloaded by University of Edinburgh on 04/10/2016 20:59:53.
+
+COMMUNICATION
+
+Cite this: Analyst, 2014, 139, 3528
+
+View Journal | View Issue
+
+Matrix eﬀects in biological mass spectrometry
+imaging: identiﬁcation and compensation†
+Ingela Lanekoﬀ,a Susan L. Stevens,b Mary P. Stenzel-Pooreb and Julia Laskin*a
+
+Received 18th March 2014
+Accepted 15th April 2014
+DOI: 10.1039/c4an00504j
+www.rsc.org/analyst
+
+Matrix eﬀects in mass spectrometry imaging (MSI) may aﬀect the
+observed molecular distribution in chemical and biological systems. In
+this study, we use mouse brain tissue of a middle cerebral artery
+occlusion (MCAO) stroke model to examine matrix eﬀects in nanospray desorption electrospray ionization MSI (nano-DESI MSI). This is
+achieved by normalizing the intensity of the sodium and potassium
+adducts of endogenous phosphatidylcholine (PC) species to the
+intensity of the corresponding adduct of the PC standard supplied at a
+constant rate with the nano-DESI solvent. The use of MCAO model
+with an ischemic region localized to one hemisphere of the brain
+enables immediate comparison of matrix eﬀects within one ion image.
+Furthermore, signiﬁcant diﬀerences in sodium and potassium
+concentrations in the ischemic region in comparison with the healthy
+tissue allowed us to distinguish between two types of matrix eﬀects.
+Speciﬁcally, we discuss matrix eﬀects originating from variations in
+alkali metal concentrations and matrix eﬀects originating from variations in the molecular composition of the tissue. Compensation for
+both types of matrix eﬀects was achieved by normalizing the signals
+corresponding to endogenous PC to the signals of the standards. This
+approach, which does not introduce any complexity in sample preparation, eﬃciently compensates for signal variations resulting from
+diﬀerences in the local concentrations of sodium and potassium in
+tissue sections and from the complexity of the extracted analyte
+mixture derived from local variations in molecular composition.
+
+Introduction
+MSI provides detailed information on the spatial localization of
+molecules in biological systems by recording mass spectra
+directly from specic locations on the sample surface.1–7 The
+strength of MSI is the ability to reveal regional chemical
+changes using diminutive amounts of sample. However, analyte
+a
+Physical Sciences Division, Pacic Northwest National Laboratory, PO Box 999,
+K8-88, Richland, WA 99352, USA. E-mail: Julia.Laskin@pnnl.gov
+b
+
+Department of Molecular Microbiology & Immunology, Oregon Health & Science
+University, Portland, OR, USA
+† Electronic supplementary
+10.1039/c4an00504j
+
+information
+
+3528 | Analyst, 2014, 139, 3528–3532
+
+(ESI)
+
+available.
+
+See
+
+DOI:
+
+ionization eﬃciency in MSI is dependent on the chemical
+composition of the surrounding matrix at the time of ionization, making it prone to matrix eﬀects.8 The presence of cations
+during ionization aﬀects the eﬃciency of adduct formation in
+positive mode (e.g. protonation or alkali ion adduct formation)
+while the presence of other molecules, originating from the
+sampled region, can aﬀect the analyte signal.9 Matrix eﬀects
+which arise from the competition of analyte molecules for
+charge, have been reported in MSI of drugs in tissue
+sections10–16 while matrix eﬀects caused by changes in cation
+concentration have been observed in MSI of brain injury and
+stroke models.17–21 For example, MSI studies of ischemic brain
+tissues report increased ion signals of phosphatidylcholine (PC)
+cationized on sodium and decreased signals of protonated PC
+and PC cationized on potassium in comparison with normal
+brain tissue.17,19,20,22 These observations were attributed to the
+diﬀerences in concentrations of sodium and potassium in the
+corresponding tissues. To overcome matrix eﬀects caused by
+variations in the alkali ion concentration, Wang et al. developed
+an approach for desalting brain tissue sections prior to MSI
+experiments.20 MSI studies of brain tissue from stroke models
+have found an increase of lysophosphatidylcholine (LPC) in the
+ischemic region. This increase of LPC may be a result of
+degradation of PC by phospholipase A2 activated in ischemic
+tissue by the release of glutamate.23–27
+Development of MSI approaches that account for matrix
+eﬀects is critically important for obtaining accurate spatial
+localization of molecules in biological systems. Herein, we
+describe an approach that compensates for matrix eﬀects in
+nanospray desorption electrospray ionization (nano-DESI) and
+enables accurate ambient imaging of tissue sections with
+minimal sample preparation. Nano-DESI is an ambient ionization technique that utilizes gentle localized liquid extraction
+of molecules from the sample surface followed by electrospray
+ionization.28–32 Nano-DESI has been used for imaging and
+quantication of drugs and endogenous lipids in tissue
+sections10,33–35 as well as tandem mass spectrometry (MS/MS)
+imaging.36 In this study, we use the middle cerebral artery
+
+This journal is © The Royal Society of Chemistry 2014
+
+View Article Online
+
+Published on 06 May 2014. Downloaded by University of Edinburgh on 04/10/2016 20:59:53.
+
+Communication
+
+occlusion (MCAO) stroke model which produces a localized
+ischemic region on one hemisphere of the brain leaving another
+side intact.27,37–41 The substantial increase in sodium and
+decrease in potassium concentration as a result of ischemia and
+their eﬀect on ion images are of particular importance to this
+study. Because both the ischemic and the control region are
+present in the same sample, MCAO brain tissue sections are
+excellent model systems for studying two types of matrix eﬀects:
+(1) matrix eﬀects originating from variations in alkali cation
+concentrations, and (2) matrix eﬀects originating from variations in the molecular composition of the tissue. PC species are
+highly abundant in the mass spectrum of brain tissues and are
+therefore excellent targets for evaluation of new MSI
+approaches. We have previously shown that endogenous PC can
+be quantied in nano-DESI imaging by doping the solvent with
+two PC standards and using carbon factors33 but could not
+systematically examine matrix eﬀects in MSI. Here, we use the
+MCAO mouse model system to identify and compensate for
+diﬀerent types of matrix eﬀects in nano-DESI MSI. We demonstrate that doping the solvent with a single PC standard in nanoDESI MSI enables acquisition of ion images of PC and LPC free
+of matrix eﬀects. Compensation for matrix eﬀects in nano-DESI
+MSI is achieved by normalizing ion images of endogenous
+species to the ion image of the corresponding alkali metal
+adduct of the standard. This study contributes to a fundamental
+understanding of matrix eﬀects in MSI and establishes nanoDESI MSI as a robust tool for lipid imaging in complex tissue
+sections.
+
+Experimental section
+Focal cerebral ischemia was induced in three C57BL/6 mice
+(male, 8–12 weeks, Jackson Laboratories, West Sacramento, CA)
+by MCAO as previously published.42,43 This model produces a
+highly reproducible infarct in C57BL/6 mice and has been used
+extensively as a model of cerebral ischemia-reperfusion injury.41
+Mice were briey induced with 3% isourane and maintained
+with 1.5–2% throughout the surgery. The middle cerebral artery
+(MCA) was blocked by threading silicone-coated 7-0 monolament nylon surgical suture through the external carotid to
+the internal carotid, and nally blocking its bifurcation into the
+MCA and anterior cerebral artery. The lament was maintained
+for 60 min while the mice were maintained under anesthesia.
+The lament was removed, and blood ow restored. Cerebral
+blood ow (CBF) was monitored with Laser Doppler Flowmetry
+(Transonic System Inc.). Any mouse that did not maintain a CBF
+during occlusion of <20% of baseline or failed to reach >80% of
+baseline following removal of suture was excluded from the
+study. Temperature was maintained at 37  C  0.5  C with a
+rectal thermometer-controlled heating pad and lamp (Harvard
+Apparatus). Two hours following restoration of blood ow, the
+mouse was perfused with cold, heparinized saline, the brain
+was removed, ash frozen in liquid nitrogen and stored at
+80  C prior to coronal cryo-sectioning (Cryostar NX70, Thermo
+Scientic). 12 mm thick tissue sections were thaw-mounted onto
+regular glass slides and three sections from each mouse were
+imaged.
+
+This journal is © The Royal Society of Chemistry 2014
+
+Analyst
+
+The nano-DESI probe was assembled using two fused silica
+capillaries (50  150 mm, ID  OD, Polymicro Technologies)
+mounted in a capillary holder, as described elsewhere.36 The tip
+of the primary capillary was beveled using a microbeveler
+(Microbeveler 48000, World Precision Instruments, Inc.) to
+avoid scratching the surface during MSI. Two standards, PC
+12:0/13:0 and PC 21:0/22:6 (Avanti Polar Lipids), were diluted in
+methanol to a nal concentration of 4.69 mM and 4.31 mM,
+respectively, and supplied through the primary capillary at 0.5
+mL min1 using a syringe pump (Legato 180, KD Scientic). The
+sample was continuously moved in lines, spaced by 200 mm,
+under the nano-DESI probe at a velocity of 40 mm s1. The
+distance between the sample and the probe was controlled
+using a motorized XYZ stage programmed to account for the tilt
+of the plane in which the sample resided, as described elsewhere.34 Mass spectra were continuously acquired in a full scan
+mode (m/z 100–2000, mass resolution of m/Dm ¼ 60 000) using
+an LTQ-Orbitrap XL mass spectrometer (Thermo Scientic). A
+high voltage of 3 kV was applied to the primary capillary and the
+heated inlet was kept at 250  C. Raw data were obtained with
+XCalibur (Thermo Scientic) and processed using MSI-Quickview, a program developed at PNNL and described in detail
+elsewhere.34 PC species were identied using MS/MS.
+
+Results and discussion
+Spectra comparison between healthy and ischemic region
+In MCAO mouse models, brain ischemia is induced on one
+hemisphere of the brain with the other hemisphere presenting
+a control tissue largely unaﬀected by stroke. As a result, imaging
+of coronal brain tissue sections facilitates direct comparison of
+healthy and ischemic tissue in one experiment.40 Nano-DESI
+spectra from healthy and ischemic striatum are shown in
+Fig. 1A and B, respectively. The spectra are dominated by PC
+species cationized on sodium and potassium while protonated
+PC species are observed as minor peaks. The most abundant
+peaks found in the spectrum from the healthy side of the brain
+are m/z 798.54, [PC 34:1 + K]+, and m/z 772.52, [PC 32:0 + K]+. The
+most abundant peaks found in the spectrum from the ischemic
+region originate from the same PC cationized on sodium
+instead of potassium; m/z 782.57, [PC 34:1 + Na]+, and m/z
+756.55, [PC 32:0 + Na]+. This shi in cationization between the
+healthy and the ischemic region observed for all the peaks in
+the mass spectrum can be rationalized assuming that there is a
+signicant diﬀerence in the amount of sodium and potassium
+in healthy and ischemic tissues, which is consistent with
+previous studies.17,19–21,37,38,44–46 Specically, atomic spectroscopy
+analysis demonstrated signicantly elevated sodium and
+reduced potassium concentrations at the ischemic site of MCAO
+rats.37
+Because ion signals in MSI experiments depend both on the
+concentration of alkali cations and the molecular composition,
+accurate determination of analyte localization in MSI is challenging. In this study, we examine signal suppression in MSI by
+adding standards into the nano-DESI solvent and monitoring
+the signal of the standard as a function of the position on the
+tissue sample. Furthermore, we show eﬃcient compensation
+
+Analyst, 2014, 139, 3528–3532 | 3529
+
+View Article Online
+
+Published on 06 May 2014. Downloaded by University of Edinburgh on 04/10/2016 20:59:53.
+
+Analyst
+
+Nano-DESI spectra of (A) healthy striatum and (B) ischemic
+striatum of the MCAO mouse brain tissue section. Color coding shows
+[M + Na]+ (red), [M + K]+ (blue), and [M + H]+ (green) ions of the four
+standards and three endogenous PC species with the corresponding
+m/z values listed in the table. Protonated PC species are observed as
+minor peaks.
+Fig. 1
+
+for matrix eﬀects by normalizing ion images of endogenous PC
+and LPC species extracted from the tissue sample to the ion
+image of an appropriate adduct of the PC or LPC standard. In
+this experiment, we added four standards of known concentration, LPC 13:0, LPC 17:1, PC 12:0/13:0 (hereaer referred to
+as PC 25:0) and PC 21:0/22:6 (hereaer referred to as PC 43:6), to
+the nano-DESI solvent. These standards have similar ionization
+eﬃciency as endogenous LPC and PC, respectively,47 and the
+m/z values of the standards do not overlap with m/z of endogenous lipids, as shown in Fig. S1 of the ESI.†
+Matrix eﬀects in MSI
+To investigate matrix eﬀects in MSI, we imaged brain tissue
+sections from MCAO treated mice. The MCAO mouse model was
+chosen because it enables investigation of matrix eﬀect originating both from chemical heterogeneity and from large variations in alkali cation concentration.27,37 The optical image of
+one imaged tissue section is shown in Fig. 2A; in Fig. 2B the
+ischemic region is marked pink and the white matter regions
+are marked blue. Ion images of [M + Na]+ and [M + K]+ ions of
+endogenous LPC 16:0, PC 34:1, PC 34:0, PC 38:6, PC 38:4 and
+the standard PC 43:6 for this section, are shown in Fig. 2C. The
+ion images are normalized to the total ion current (TIC) in the
+le column and to the standard PC 25:0 in the right column.
+Note that [M + Na]+ are normalized to [PC 25:0 + Na]+ and [M +
+K]+ are normalized to [PC 25:0 + K]+. Since the standard and the
+endogenous PC experience the same signal suppression eﬀects,
+the ion images of [M + K]+ and [M + Na]+ normalized to the
+corresponding standards are expected to be the same and
+reect the actual distribution of the endogenous PC.
+Two important observations transpire from the images
+shown in Fig. 2C. First, ion images normalized to the TIC show
+
+3530 | Analyst, 2014, 139, 3528–3532
+
+Communication
+
+matrix eﬀects caused by changes in alkali cation concentration:
+signals of endogenous PC cationized on sodium are enhanced
+in the ischemic region while signals of endogenous PC cationized on potassium are suppressed. Similar eﬀects were
+observed in MALDI MSI.17,19,21 In the absence of matrix eﬀects,
+the standard (PC 43:6), which is supplied at a constant rate,
+should show a uniform distribution over the tissue section.
+However, Fig. 2C shows that, when normalized to TIC, the
+signal of [PC 43:6 + Na]+ is enhanced and the signal of [PC 43:6 +
+K]+ is suppressed in the ischemic region – similar to endogenous PC. When instead normalized to the standard PC 25:0, ion
+images of the second PC 43:6 standard, show the expected
+uniform distribution across the tissue section for both [PC 43:6
++ Na]+ and [PC 43:6 + K]+. Furthermore, when ion images of
+endogenous PC are normalized to the standard they no longer
+show a clear localization or anti-localization to the ischemic
+site, regardless of cationization. Instead, remarkably similar
+distributions are obtained for both alkali metal adducts of
+endogenous PC species. This is also true for protonated PC
+(Fig. S2B†) which has a similar distribution as PC cationized on
+sodium when normalized to TIC. Due to the similarity in ionization eﬃciency between LPC and PC, normalization of LPC
+16:0 to PC 25:0 gives the qualitative matrix free ion image shown
+in Fig. 2. This is conrmed by the almost identical ion image of
+LPC 16:0 normalized to LPC 13:0 shown in Fig. S2A† of the ESI
+and the uniform distribution of LPC 13:0 standard normalized
+to PC 25:0 standard as shown in Fig. S2D.† Of note, LPC 13:0
+experiences higher ion suppression eﬀects on the tissue
+compared to PC 25:0 resulting in the increased signal outside
+the tissue observed in Fig. S2D.†,33 Nevertheless, similar signal
+suppression of both LPC and PC on the tissue enables the use of
+one PC standard in the nano-DESI solvent for obtaining matrixfree images of both lipid classes. The observed increase of LPC
+16:0 in the ischemic region (Fig. 2C) is a biological consequence
+of ischemia in which membrane degradation results in formation of free fatty acids and LPC from PC.20,23–27,48,49
+Second, ion images of the standard normalized to TIC show
+increased signal intensity in the white matter regions of the
+tissue. This is due to matrix eﬀects caused by diﬀerences in the
+molecular composition of the analyte mixture extracted from
+the white and the gray matter regions. The white matter has a
+high amount of glycolipids, which are abundant in myelinated
+axons, while the gray matter has high amounts of phospholipids.50–52 The higher ionization eﬃciency of phospholipids
+increases ion suppression eﬀects of molecules in the gray
+matter, while the lower ionization eﬃciency of glycolipids
+enhances the ion yield in the white matter. Although the analyte
+signal in MSI may be aﬀected by diﬀerences in the extraction
+eﬃciency of molecules from the tissue, our recent study indicates that in nano-DESI imaging the extraction eﬃciency of
+endogenous PC is independent of the brain tissue region.33
+Because both PC standards and endogenous PC molecules
+experience similar suppression during ionization, normalization to the standard compensates for matrix eﬀects. Ion images
+normalized to the standard reveal clear morphological structures including the dorsal 3rd and lateral ventricles and several
+white matter regions. Furthermore, the endogenous PC 38:4
+
+This journal is © The Royal Society of Chemistry 2014
+
+View Article Online
+
+Published on 06 May 2014. Downloaded by University of Edinburgh on 04/10/2016 20:59:53.
+
+Communication
+
+Analyst
+
+Fig. 2 (A) Optical image of the brain tissue section analyzed in this study, (B) optical image of the same tissue section with marked areas; pink –
+ischemic region, blue – white matter regions, purple – ventral hippocampal commissure, (C) ion images of sodium and potassium adducts, [M +
+Na]+ and [M + K]+, of endogenous LPC 16:0, PC 34:1, PC 34:0, PC 38:4, PC 38:6 and standard PC 43:6. Ion images are normalized to the TIC in
+the left two columns and to the standard PC 25:0 the right two columns. Lateral scale bar is 2 mm. Intensity scale bar ranges from 0 (black) to
+100% (light yellow) signal intensity of an individual peak.
+
+shows a clear localization to the ventral hippocampal
+commissure.
+For a more detailed view of the observed matrix eﬀects we are
+providing line scan traces of endogenous and standard PC in
+Fig. S3 of the ESI.† In addition to standard and TIC-normalized
+traces Fig. S3† shows non-normalized traces displaying very
+similar results as the TIC-normalized data.
+
+Conclusions
+Matrix eﬀects in MSI may aﬀect the observed localization of
+molecules in biological systems. In this study, we show that
+doping the nano-DESI solvent with appropriate standards
+enables identication of and compensation for matrix eﬀects in
+nano-DESI MSI. Using MCAO mouse brain tissue as a model
+system, we identify suppression of potassium adducts and
+enhancement of sodium adducts of PC in the ischemic region of
+the brain, and an overall enhancement of PC in white matter
+regions. Compensation for matrix eﬀects is achieved by
+normalizing ion signals of endogenous PC to the signal of the
+
+This journal is © The Royal Society of Chemistry 2014
+
+corresponding adduct of the PC standard. The resulting ion
+images show identical distributions of [PC + Na]+ and [PC + K]+
+and enhancement of LPC ([M + Na]+ and [M + K]+) in the
+ischemic region. The increase of LPC in the ischemic region is
+in agreement with previously published data conrming eﬃcient compensation for matrix eﬀects in nano-DESI imaging of
+biological tissues.
+
+Acknowledgements
+The research described in this paper is part of the Chemical
+Imaging Initiative, at Pacic Northwest National Laboratory
+(PNNL) supported under the PNNL's Laboratory Directed
+Research and Development Program. PNNL is operated by
+Battelle for the U.S. Department of Energy (DOE) under
+Contract DE-AC05-76RL01830. The research was performed
+using EMSL, a national scientic user facility sponsored by the
+DOE's Oﬃce of Biological and Environmental Research and
+located at PNNL. Research performed at OHSU was supported
+
+Analyst, 2014, 139, 3528–3532 | 3531
+
+View Article Online
+
+Analyst
+
+by the NIH-NINDS NS062381 (MSP). We thank Dr Mingyue Liu
+and Valerie Conrad for excellent technical support.
+
+Published on 06 May 2014. Downloaded by University of Edinburgh on 04/10/2016 20:59:53.
+
+References
+1 A. K. Badu-Tawiah, L. S. Eberlin, Z. Ouyang and R. G. Cooks,
+Annu. Rev. Phys. Chem., 2013, 64, 481–505.
+2 B. Prideaux and M. Stoeckli, J. Proteomics, 2012, 75, 4999–5013.
+3 E. J. Lanni, S. S. Rubakhin and J. V. Sweedler, J. Proteomics,
+2012, 75, 5036–5051.
+4 P. M. Angel and R. M. Caprioli, Biochemistry, 2013, 52, 3818–
+3828.
+5 P. Chaurand, J. Proteomics, 2012, 75, 4883–4892.
+6 S. N. Jackson, M. Ugarov, T. Egan, J. D. Post, D. Langlais,
+J. A. Schultz and A. S. Woods, J. Mass Spectrom., 2007, 42,
+1093–1098.
+7 A. M. Delvolve, B. Colsch and A. S. Woods, Anal. Methods,
+2011, 3, 1729–1736.
+8 R. M. A. Heeren, D. F. Smith, J. Stauber, B. Kukrer-Kaletas
+and L. MacAleese, J. Am. Soc. Mass Spectrom., 2009, 20,
+1006–1014.
+9 T. M. Annesley, Clin. Chem., 2003, 49, 1041–1044.
+10 I. Lanekoﬀ, M. Thomas, J. P. Carson, J. N. Smith,
+C. Timchalk and J. Laskin, Anal. Chem., 2012, 85, 882–889.
+11 M. Stoeckli, D. Staab and A. Schweitzer, Int. J. Mass
+Spectrom., 2007, 260, 195–202.
+12 G. Marko-Varga, T. E. Fehniger, M. Rezeli, B. Doeme,
+T. Laurell and A. Vegvari, J. Proteomics, 2011, 74, 982–992.
+13 M. R. Groseclose and S. Castellino, Anal. Chem., 2013, 85,
+10099–10106.
+14 G. Hamm, D. Bonnel, R. Legouﬀe, F. Pamelard, J.-M. Delbos,
+F. Bouzom and J. Stauber, J. Proteomics, 2012, 75, 4952–4961.
+15 R. Vismeh, D. J. Waldon, Y. Teﬀera and Z. Zhao, Anal. Chem.,
+2012, 84, 5439–5445.
+16 D. A. Pirman, R. F. Reich, A. Kiss, R. M. A. Heeren and
+R. A. Yost, Anal. Chem., 2013, 85, 1081–1089.
+17 J. Hankin, S. Farias, R. Barkley, K. Heidenreich, L. Frey,
+K. Hamazaki, H.-Y. Kim and R. Murphy, J. Am. Soc. Mass
+Spectrom., 2011, 22, 1014–1021.
+18 J. A. Hankin and R. C. Murphy, Anal. Chem., 2010, 82, 8476–
+8484.
+19 S. R. Shanta, C. S. Choi, J. H. Lee, C. Y. Shin, Y. J. Kim,
+K.-H. Kim and K. P. Kim, J. Lipid Res., 2012, 53, 1823–1831.
+20 H.-Y. J. Wang, H.-W. Wu, P.-J. Tsai and C. B. Liu, Anal.
+Bioanal. Chem., 2012, 404, 113–124.
+21 H.-Y. J. Wang, C. B. Liu, H.-W. Wu and S. Kuo, Jr, Rapid
+Commun. Mass Spectrom., 2010, 24, 2057–2064.
+22 S. Koizumi, S. Yamamoto, T. Hayasaka, Y. Konishi,
+M. Yamaguchi-Okada, N. Goto-Inoue, Y. Sugiura, M. Setou
+and H. Namba, Neuroscience, 2010, 168, 219–225.
+23 M. Wender, Z. Adamczewska-Goncerzewicz, J. Dorszewska,
+J. Szczech, A. Godlewski, J. Pankrac and D. Talkowska,
+Neuropatol. Pol., 1991, 29, 87–94.
+24 G. Sun and L. Foundin, J. Neurochem., 1984, 43, 1081–1086.
+25 J. Klein, J. Neural Transm., 2000, 107, 1027–1063.
+26 Y. Goto, S. Okamoto, Y. Yonekawa, W. Taki, H. Kikuchi,
+H. Handa and M. Kito, Stroke, 1988, 19, 728–735.
+
+3532 | Analyst, 2014, 139, 3528–3532
+
+Communication
+
+27 K. P. Doyle, R. P. Simon and M. P. Stenzel-Poore,
+Neuropharmacology, 2008, 55, 310–318.
+28 P. J. Roach, J. Laskin and A. Laskin, Analyst, 2010, 135, 2233–
+2236.
+29 I. Lanekoﬀ, O. Geydebrekht, G. E. Pinchuk, A. E. Konopka
+and J. Laskin, Analyst, 2013, 138, 1971–1978.
+30 P. J. Roach, J. Laskin and A. Laskin, Anal. Chem., 2010, 82,
+7979–7986.
+31 P. A. Eckert, P. J. Roach, A. Laskin and J. Laskin, Anal. Chem.,
+2012, 84, 1517–1525.
+32 J. Laskin, P. A. Eckert, P. J. Roach, B. S. Heath, S. A. Nizkorodov
+and A. Laskin, Anal. Chem., 2012, 84, 7179–7187.
+33 I. Lanekoﬀ, M. Thomas and J. Laskin, Anal. Chem., 2014, 86,
+1872–1880.
+34 I. Lanekoﬀ, B. S. Heath, A. Liyu, M. Thomas, J. P. Carson and
+J. Laskin, Anal. Chem., 2012, 84, 8351–8356.
+35 J. Laskin, B. S. Heath, P. J. Roach, L. Cazares and
+O. J. Semmes, Anal. Chem., 2012, 84, 141–148.
+36 I. Lanekoﬀ, K. Burnum-Johnson, M. Thomas, J. Short,
+J. P. Carson, J. Cha, S. K. Dey, P. Yang, M. Conaway and
+J. Laskin, Anal. Chem., 2013, 85, 9596.
+37 W. Young, Z. H. Rappaport, D. J. Chalif and E. S. Flamm,
+Stroke, 1987, 18, 751–759.
+38 S. G. Kanekar, T. Zacharia and R. Roller, AJR, Am.
+J. Roentgenol., 2012, 198, 63–74.
+39 J. B. Casals, N. C. Pieri, M. L. Feitosa, A. C. Ercolin,
+K. C. Roballo, R. S. Barreto, F. F. Bressan, D. S. Martins,
+M. A. Miglino and C. E. Ambrósio, Comp. Med., 2011, 61,
+305–313.
+40 A. Popp, N. Jaenisch, O. W. Witte and C. Frahm, PLoS One,
+2009, 4, E4764.
+41 F. Liu and L. D. McCullough, J. Biomed. Biotechnol., 2011,
+2011, 9.
+42 S. L. Stevens, P. Y. Leung, K. B. Vartanian, B. Gopalan,
+T. Yang, R. P. Simon and M. P. Stenzel-Poore, J. Neurosci.,
+2011, 31, 8456–8463.
+43 A. E. B. Packard, J. C. Hedges, F. R. Bahjat, S. L. Stevens,
+M. J. Conlin, A. M. Salazar and M. P. Stenzel-Poore,
+J. Cereb. Blood Flow Metab., 2012, 32, 242–247.
+44 Z. Qin, J. A. Caruso, B. Lai, A. Matusch and J. S. Becker,
+Metallomics, 2011, 3, 28–37.
+45 V. E. Yushmanov, A. Kharlamov, B. Yanovski, G. LaVerde,
+F. E. Boada and S. C. Jones, Brain Res., 2013, 1527, 199–208.
+46 S. Takahashi, S. Hatashita, Y. Taba, X. Z. Sun, Y. Kubota and
+S. Yoshida, J. Neurosci. Methods, 2000, 100, 53–62.
+47 M. Pulfer and R. C. Murphy, Mass Spectrom. Rev., 2003, 22,
+332–364.
+48 G. Sun, F. Lu, S. Lin and M. Ko, Mol. Chem. Neuropathol.,
+1992, 17, 39–50.
+49 R. M. Adibhatla, J. F. Hatcher and R. J. Dempsey, J. Neurosci.
+Res., 2004, 76, 390–396.
+50 P. Morell and R. Quarles, in Basic Neurochemistry: Molecular,
+Cellular and Medical Aspects, ed. B. Agranoﬀ, G. Siegel and R.
+Albers, Lippincott-Raven, Philadelphia, 6 edn, 1999.
+51 J. S. Obrien, D. L. Fillerup and J. F. Mead, J. Lipid Res., 1964,
+5, 109–116.
+52 J. S. Obrien and E. L. Sampson, J. Lipid Res., 1965, 6, 545–551.
+
+This journal is © The Royal Society of Chemistry 2014
+
+

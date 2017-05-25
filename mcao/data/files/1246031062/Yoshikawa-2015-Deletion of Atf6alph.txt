@@ -1,0 +1,1089 @@
+JOURNAL OF NEUROCHEMISTRY
+
+| 2015 | 132 | 342–353
+
+doi: 10.1111/jnc.12981
+
+,
+,
+,
+
+,
+,
+
+,
+
+*Department of Neurosurgery, Graduate School of Medical Sciences, Kanazawa University, Kanazawa
+City, Ishikawa, Japan
+†Department of Neuroanatomy, Graduate School of Medical Sciences, Kanazawa University,
+Kanazawa City, Ishikawa, Japan
+‡CREST (Core Research for Evolutionary Science and Technology), JST (Japan Science and
+Technology Agency), Tokyo, Japan
+§Department of Biophysics, Graduate School of Science, Kyoto University, Kyoto City, Kyoto, Japan
+¶Department of Neurology, Graduate School of Medicine, Kyoto University, Kyoto City, Kyoto, Japan
+**Institute for Advanced Medical Sciences, Hyogo College of Medicine, Nishinomiya City, Hyogo, Japan
+
+Abstract
+To dissect the role of endoplasmic reticulum (ER) stress and
+unfolded protein response in brain ischemia, we investigated
+the relevance of activating transcription factor 6a (ATF6a), a
+master transcriptional factor in the unfolded protein
+response, after permanent middle cerebral artery occlusion
+(MCAO) in mice. Enhanced expression of glucose-regulated
+protein78, a downstream molecular chaperone of ATF6a,
+was observed in both neurons and glia in the peri-infarct
+region of wild-type mice after MCAO. Analysis using wildtype and Atf6a/ mice revealed a larger infarct volume and
+increased cell death in the peri-ischemic region of Atf6a/
+mice 5 days after MCAO. These phenotypes in Atf6a/
+
+mice were associated with reduced levels of astroglial
+activation/glial scar formation, and a spread of tissue
+damage into the non-infarct area. Further analysis in mice
+and cultured astrocytes revealed that signal transducer and
+activator of transcription 3 (STAT3)-glial ﬁbrillary acidic
+protein signaling were diminished in Atf6a/ astrocytes. A
+chemical chaperone, 4-phenylbutyrate, restored STAT3-glial
+ﬁbrillary acidic protein signaling, while ER stressors, such as
+tunicamycin and thapsigargin, almost completely abolished
+signaling in cultured astrocytes. Furthermore, ER stressinduced deactivation of STAT3 was mediated, at least in
+part, by the ER stress-responsive tyrosine phosphatase, TCPTP/PTPN2. These results suggest that ER stress plays
+
+Received August 20, 2014; revised manuscript received October 22,
+2014; accepted October 22, 2014.
+Address correspondence and reprint requests to Dr Osamu Hori,
+Department of Neuroanatomy, Kanazawa University Graduate School of
+Medical Sciences, 13-1 Takara-Machi, Kanazawa City, Ishikawa 9208640, Japan. E-mail: osamuh3@staff.kanazawa-u.ac.jp
+Abbreviations used: 3-NT, 3-nirotyrosine; 4-PBA, 4-phenylbutyrate;
+ATF4, activating transcription factor 4; ATF6a, activating transcription
+factor 6a; bpV, bisperoxovanadium; CHOP, C/EBP homologous
+protein; CNTF, ciliary neurotrophic factor; eIF2a, eukaryotic translation
+initiation factor 2; ERAD, ER-associated degradation; ER, endoplasmic
+
+reticulum; FSK, forskolin; GFAP, glial ﬁbrillary acidic protein; GRP78,
+glucose-regulated protein78; Herp, homocysteine-inducible endoplasmic
+reticulum stress protein; HO-1, heme oxygenase 1; Ire1a, inositolrequiring enzyme 1a; LIF, leukemia inhibitory factor; MCAO, middle
+cerebral artery occlusion; ORP150, oxygen-regulated protein 150;
+PERK, protein kinase R (PKR)-like endoplasmic reticulum kinase;
+PTP, protein-tyrosine phosphatase; SOCS3, suppressor of cytokine
+signaling 3; ssDNA, single-stranded DNA; STAT3, signal transducer
+and activator of transcription 3; Tg, thapsigargin; Tm, tunicamycin;
+TTC, 2,3,5-triphenyl tetrazolium chloride; UPR, unfolded protein
+response.
+
+342
+
+© 2014 International Society for Neurochemistry, J. Neurochem. (2015) 132, 342--353
+
+Unfolded protein response and brain ischemia
+
+critical roles in determining the level of astroglial activation
+and neuronal survival after brain ischemia.
+
+343
+
+Keywords: astrogliosis, brain ischemia, ER stress, neuronal
+death.
+J. Neurochem. (2015) 132, 342–353.
+
+Read the Editorial Highlight for this article on page 263.
+Cover Image for this issue: doi: 10.1111/jnc.12857.
+
+Stroke is a major cause of death and long-lasting disability
+in the most industrialized countries. Brain damage after
+cerebrovascular occlusion occurs through both ﬂow-dependent and -independent mechanisms (Hossmann 2006;
+Amantea et al. 2009). A few minutes after the onset of
+ischemia, brain damage starts in the center of the ischemic
+region, or the ischemic core. At this stage, cell death is
+caused by acute energy failure and loss of ionic gradients
+associated with permanent and anoxic depolarization (Hossmann 1994; Dirnagl et al. 1999). A few hours later, the
+infarct area starts to expand into the bordering zone,
+penumbra, in which energy metabolism is partially preserved. Several pathways such as excitotoxicity, organelle
+dysfunction, and intracellular stress may be included in this
+step. Further brain damage is observed days to weeks after
+ischemia through vasogenic edema and inﬂammation. In
+contrast to the vulnerability of neurons, astrocytes, the most
+abundant glia in the brain, can survive and become
+activated after brain ischemia. Highly activated astrocytes
+form a barrier, the so-called glial scar, in the bordering zone
+that restricts inﬂammation and brain damage within the
+barrier (Sofroniew 2009).
+Endoplasmic reticulum (ER) stress is characterized by the
+accumulation of unfolded proteins in the ER, and occurs in
+many pathophysiological conditions such as ischemia,
+impairment of protein modiﬁcation, disturbance of Ca2+
+homeostasis, and production of a large amount of proteins
+in the ER. Eukaryotic cells respond to ER stress by
+activating a set of pathways known as the unfolded protein
+response (UPR) (Walter and Ron 2011). In mammals, the
+UPR is transmitted through three types of sensor proteins:
+Protein kinase R (PKR)-like endoplasmic reticulum kinase
+(PERK), inositol-requiring enzyme 1a (Ire1a), and activating transcription factor 6a (ATF6a) (Walter and Ron 2011).
+Downstream molecules of Ire1a and ATF6a include
+molecular chaperones in the ER, such as glucose-regulated
+protein78 (GRP78), and oxygen-regulated protein 150
+(ORP150), and ER-associated degradation molecules such
+as Derlins, and homocysteine-inducible endoplasmic reticulum stress protein (Herp). In contrast, PERK activation
+induces the phosphorylation of the alpha subunit of
+eukaryotic translation initiation factor 2 (eIF2a), which
+suppresses general protein synthesis to reduce protein loads
+into the ER, and activating transcription factor 4, which
+up-regulates the expression of heme oxygenase 1 and
+
+C/EBP homologous protein (CHOP) (Lewerenz and Maher
+2009).
+Ours and other groups have reported that brain ischemia
+causes ER stress and UPR activation both in human
+postmortem brains and rodent stroke models, the latter
+including both transient and permanent middle cerebral
+artery occlusion (MCAO) models (Tamatani et al. 2001;
+DeGracia and Montie 2004; Morimoto et al. 2007). We have
+also reported that both of GRP78 and OPR150 are upregulated in cultured astrocytes exposed to hypoxia, and that
+over-expression of ORP150 in neurons increased neuronal
+survival after brain ischemia in mice (Tamatani et al. 2001).
+Compounds such as the chemical chaperone Sodium 4phenylbutyrate (4-PBA) and UPR activator immunoglobulin
+heavy-chain binding protein (BIP) inducer X (BIX), both of
+which can ameliorate ER stress, have also been demonstrated
+to protect cortical neurons against brain ischemia in mice (Qi
+et al. 2004; Kudo et al. 2008). However, it is not yet clear
+whether the neuroprotective effect of the UPR against brain
+ischemia is mediated through cell-autonomous or non-cellautonomous mechanisms.
+To expand our understanding of the role of the UPR in
+brain ischemia, we initiated this study by estimating the
+status of UPR activation after permanent MCAO in wild-type
+mice. We then compared stroke size, neuronal death, glial
+activation/scar formation between wild-type and Atf6a/
+mice. Finally, we analyzed the impact of ER stress on
+astroglial activation using cultured astrocytes. Our data
+indicate that ER stress impedes astroglial activation/scar
+formation by suppressing signal transducer and activator of
+transcription 3 (STAT3)-Glial ﬁbrillary acidic protein
+(GFAP) signaling, and enhances neuronal death and stroke
+volume after brain ischemia.
+
+Materials and methods
+Mice and induction of focal cerebral ischemia
+All animal experiments were approved by the Animal Care and Use
+Committee of Kanazawa University. Atf6a/ mice were generated
+as described previously (Yamamoto et al. 2007), and backcrossed to
+the C57BL/6 strain (Japan SLC, Inc, Hamamatsu, Shizuoka, Japan)
+more than eight times in the Institute of Laboratory Animals
+Graduate School of Medicine, Kyoto University, followed by the
+breeding in the Institute for experimental animals, Kanazawa
+University Advanced science research center. Wild-type and
+
+© 2014 International Society for Neurochemistry, J. Neurochem. (2015) 132, 342--353
+
+Unfolded protein response and brain ischemia
+
+RNA interference
+Speciﬁc siRNAs for Ptpn1 and Ptpn2, Ptpn6, Ptpn11, and Socs3
+were obtained from Sigma, and negative control siRNA with a
+scrambled sequence was obtained from Invitrogen, Carlsbad, CA,
+USA. The target sequences of siRNAs are listed in Figure S3.
+Speciﬁc siRNAs or control siRNA were transfected into astrocytes using Lipofectamine RNAiMAX (Invitrogen) under the
+
+reverse transfection protocol according to the manufacturer’s
+speciﬁcation.
+Image quantification and statistical analysis
+Quantiﬁcation of western blots and immunohistochemistry was
+performed using Image J. The number of ssDNA-positive cells,
+GFAP-positive cells, and Iba1-positive cells were counted in seven
+
+(a)
+
+(b)
+
+(c) I
+
+Fig. 1 Expression of the unfolded protein
+response (UPR)-target genes after middle
+cerebral artery occlusion (MCAO). (a) qRTPCR. Wild-type (WT) mice were subjected
+to MCAO or sham operation, and total RNA
+(1 lg), extracted from the cerebral cortex,
+was analyzed by qRT-PCR. (b) Western
+blot. Wild-type (WT) mice were subjected to
+MCAO or sham operation, and protein
+(30 lg), extracted from the cerebral cortex,
+was subjected to western blot with the
+indicated antibodies. Values shown are the
+mean  SD (n = 4). *p < 0.05, compared
+with mice with sham operation. (c)
+Immunohistochemistry. Brain sections from
+mice after MCAO or sham operation were
+analyzed by immunohistochemical analysis
+with the indicated antibodies. Rectangles in
+(c i) indicate the regions enlarged in (c ii).
+Arrows indicate co-localization of glucoseregulated protein78 (GRP78) with glial
+ﬁbrillary acidic protein (GFAP) or Iba1.
+Scale bars = 200 lm (c i), 30 lm (c ii).
+
+345
+
+II
+
+© 2014 International Society for Neurochemistry, J. Neurochem. (2015) 132, 342--353
+
+352
+
+A. Yoshikawa et al.
+
+dependent deacetylation (Kimura et al. 2012). In our model,
+tyrosine phosphatase inhibitors such as orthovanadate and
+bpV, but not a HDAC inhibitor, TSA, or Sirt1 inhibitor,
+Ex527, enhanced levels of p-STAT3, and Gfap in both of
+normal and Tm-treated conditions (Fig. 7a and b). There are
+several PTPs expressed in astrocytes and/or C6 astroglioma
+(Navis et al. 2010), and some, such as PTP1B/PTPN1 and
+TC-PTP/PTPN2, are located, at least partly, in the ER. In our
+model, Ptpn2 had the strongest response to ER stress (Fig. 7c
+and d), and knockdown of Ptpn2, but not other genes,
+enhanced the level of p-STAT3 in all conditions tested
+(Fig. 7f).
+TC-PTP/PTPN2 is a ubiquitously expressed, non-receptortype PTP that has a similar structure to PTP1B/PTPN1
+(Navis et al. 2010). Two protein isoforms, TC45 and TC48,
+are generated by alternative splicing (Mosinger et al. 1992).
+TC45 is located in the nucleus, and regulates diverse
+signaling molecules including STAT3 (Muppirala et al.
+2013). TC48, in contrast, is anchored to the ER membrane
+using its hydrophobic carboxyl terminus, and may function
+in a secretory pathway (Muppirala et al. 2013). Our results
+indicate that both of TC45 and TC48 are expressed in
+astrocytes, and are up-regulated by ER stress, although the
+expression level may be higher in TC45 (Figure S2), as
+previously described (Mosinger et al. 1992). Further crude
+cell fractionation analysis revealed that not only T48 but also
+the majority of T45 was observed in the microsome fraction
+in our system (Fig. 7e), suggesting that TC45 may be
+recruited to some type of membrane in the secretory
+pathway. It has been reported that the expression of
+PTP1B/PTPN1, but not TC-PTP/PTPN2, is increased by
+ER stress in pancreatic b cells (Beamer et al. 2006). The
+discrepancy with our results may be attributed to the duration
+of ER stress (days vs. hours) and the cell types (pancreatic b
+cells vs. astrocytes). At this moment, we do not exclude the
+possibility that other PTPs, such as SHP-1, may also play
+important roles in regulating astroglial and microglial
+activation, as previously described (Hashida et al. 2012).
+Further studies will be required to clarify the roles of TCPTP and other PTPs in diverse neuropathological situations,
+including Parkinson’s disease, in which we also observed
+reduced astroglial activation in Atf6a/ mice (Cheng et al.
+2002). It will also be intriguing to test the effect of PTP
+inhibitors on astroglial activation and neuroprotection in
+vivo.
+It has been reported that both PTP1B and TC-PTP play
+critical roles in the insulin and/or leptin resistance through
+the suppression of STAT3 pathway (Zabolotny et al. 2002;
+Fukushima et al. 2010). As astrocytes also contribute to
+energy homeostasis in the brain both in normal and
+pathological conditions, it would be important to ﬁnd the
+role of these PTPs in the insulin/leptin signaling in
+astrocytes. Analysis of PTPs in astrocytes will provide new
+
+insight into the research of stress response and neuronal
+death in the central nervous system.
+
+Acknowledgments and conflict of interest
+disclosure
+We thank Mr Takashi Tamatani for technical assistance. We are also
+grateful to Dr Hideaki Hara (Gifu Pharmaceutical University) for
+valuable comments regarding MCAO. This work was supported by
+a Grant-in Aid for Scientiﬁc Research (24500419) from the Ministry
+of Education, Science, Technology, Sports and Culture of Japan.
+The authors have no conﬂicts of interest to declare.
+All experiments were conducted in compliance with the ARRIVE
+guidelines.
+
+Supporting information
+Additional supporting information may be found in the online
+version of this article at the publisher's web-site:
+Figure S1. (a) The areas used to count ssDNA-, GFAP-, and
+Iba1-positive cells after MCAO.
+Figure S2. (a) Expression of CHOP after MCAO. Wild-type and
+Atf6a-/- mice were subjected to MCAO or sham operation, and
+protein was extracted from the cerebral cortex after MCAO.
+Figure S3. The effect of protein-tyrosine phosphatases on pSTAT3 expression in astrocytes.
+
+References
+Amantea D., Nappi G., Bernardi G., Bagetta G. and Corasaniti M. T.
+(2009) Post-ischemic brain damage: pathophysiology and role of
+inﬂammatory mediators. FEBS J. 276, 13–26.
+Beamer C. A., Brooks D. M. and Lurie D. I. (2006) Motheaten (me/me)
+mice deﬁcient in SHP-1 are less susceptible to focal cerebral
+ischemia. J. Neurosci. Res. 83, 1220–1230.
+Cheng A., Uetani N., Simoncic P. D., Chaubey V. P., Lee-Loy A.,
+McGlade C. J., Kennedy B. P. and Tremblay M. L. (2002)
+Attenuation of leptin action and regulation of obesity by protein
+tyrosine phosphatase 1B. Dev. Cell 2, 497–503.
+DeGracia D. J. and Montie H. L. (2004) Cerebral ischemia and the
+unfolded protein response. J. Neurochem. 91, 1–8.
+Dirnagl U., Iadecol C. and Moskowitz M. A. (1999) Pathobiology of
+ischaemic stroke: an integrated view. Trends Neurosci. 22, 391–
+397.
+Faure R. and Posner B. I. (1993) Differential intracellular
+compartmentalization of phosphotyrosine phosphatases in a glial
+cell line: TC-PTP versus PTP-1B. Glia 9, 311–314.
+Fukushima A., Loh K., Galic S., Fam B., Shields B., Wiede F., Tremblay
+M. L., Watt M. J., Andrikopoulos S. and Tiganis T. (2010) T-cell
+protein tyrosine phosphatase attenuates STAT3 and insulin
+signaling in the liver to regulate gluconeogenesis. Diabetes 59,
+1906–1914.
+Hashida K., Kitao Y., Sudo H., Awa Y., Maeda S., Mori K., Takahashi
+R., Iinuma M. and Hori O. (2012) ATF6alpha promotes astroglial
+activation and neuronal survival in a chronic mouse model of
+Parkinson’s disease. PLoS ONE 7, e47950.
+Herrmann J. E., Imura T., Song B., Qi J., Ao Y., Nguyen T. K., Korsak
+R. A., Takeda K., Akira S. and Sofroniew M. V. (2008) STAT3 is
+
+© 2014 International Society for Neurochemistry, J. Neurochem. (2015) 132, 342--353
+
+346
+
+A. Yoshikawa et al.
+
+regions (total 0.07 mm2) either in the infarct area (squares in dotted
+lines) or in the glial scar area (squares in solid lines) (Figure S1a).
+The relative sizes of GFAP-positive cells and Iba1-positive cells were
+calculated by dividing the GFAP-positive areas and Iba1-positive
+areas with the number of GFAP-positive cells and Iba1-positive cells,
+respectively. Statistical analyses were performed using Bonferroni/
+Dunn test following a one-way ANOVA or Student’s t-test.
+
+(a)
+
+(b)
+
+Results
+Activation of the UPR after MCAO
+We ﬁrst analyzed the activating status of the UPR in our stroke
+model, in which the left MCA is permanently coagulated in
+mice (Taguchi et al. 2004). qRT-PCR analysis revealed
+enhanced mRNA expression in several UPR-target genes
+such as Hspa5 and Hyou1, which encode molecular chaperones in the ER, GRP78, and ORP150, respectively, and Ddit3,
+which encodes a cell death-related molecule, CHOP, 8–24 h
+after MCAO (Fig. 1a). Western blot analysis conﬁrmed the
+enhancement of GRP78 and CHOP protein levels 2 days after
+MCAO (Fig. 1b), suggesting that the effect of UPR activation
+may continue from the acute (hours) to subacute (days) phase
+after MCAO. Further immunohistochemical analysis revealed
+up-regulation of GRP78 expression in the border between the
+infarct and non-infarct area after MCAO (Fig. 1c ii). In the
+control condition (sham operation), a moderate level of
+expression of GRP78 was observed in NeuN-positive cortical
+neurons, but not in glial cells. In contrast, 1–3 days after
+MCAO, enhanced expression of GRP78 was observed both in
+neurons, GFAP-positive astrocytes, and Iba1-positive
+microglia/macrophages. In our model, UPR activation occurs
+earlier in astrocytes (24 h after MCAO) than in microglia/
+macrophages (72 h after MCAO).
+Enhanced infarct size and cell death in Atf6a/ mice after
+MCAO
+To evaluate the neuroprotective role of the UPR in the
+MCAO model, we analyzed infarct volume (Fig. 2a) and cell
+death (Fig. 2b), using TTC staining and immunohistochemistry against ssDNA, respectively. Although there were no
+signiﬁcant differences in TTC staining between wild-type
+and Atf6a/ mice until 3 days after MCAO, the latter mice
+displayed a larger infarct volume than the former
+(15.5  2.1 mm3 and 23.2  6.6 mm3, respectively) 5 days
+after MCAO (Fig. 2a). Consistent with these results, ssDNApositive apoptotic cells or FJC-positive neurodegenerative
+cells were restricted to the infarct area in wild-type mice
+5 days after MCAO, while they were extended to the periinfarct area in Atf6a/ mice (Fig. 2b, Figure S1c). Importantly, glial scar formation in Atf6a/ mice was less obvious
+than in wild-type mice (Fig. 2b). Further analysis revealed
+that the majority of ssDNA-positive cells in the border
+regions of Atf6a/ mice were NeuN-positive neurons, while
+some of those are GFAP-positive astrocytes (Figure S1b).
+
+Fig. 2 Enhanced infarct volume and cell death in Atf6a/ mice after
+middle cerebral artery occlusion (MCAO). (a) Infarct volume after
+MCAO. Wild-type and Atf6a/ mice were subjected to MCAO or sham
+operation, and the forebrain section was analyzed by 2,3,5-triphenyltetrazolium (TTC) staining at the indicated times. Infarct volume was
+calculated and indicated in the graph. Values shown are the
+mean  SD *p < 0.05, between wild-type and Atf6a/ brains
+(n = 5). B, Cell death after MCAO. Wild-type and Atf6a/ mice were
+subjected to MCAO or sham operation as above, and they were
+perfused with 4% paraformaldehyde at the indicated times. The
+forebrain section was prepared, and was analyzed by immunohistochemistry using the indicated antibodies. The number of ssDNApositive cells was counted and are indicated in the graph. Values
+shown are the mean  SD. *p < 0.05, **p < 0.01, signiﬁcantly different between 2 conditions (n = 4). Scale bars = 1 mm (a), 20 lm (b).
+
+Impaired astroglial activation in Atf6a/ mice after MCAO
+As the UPR was activated both in neurons and glial cells
+(Fig. 1c ii), and glial scar formation in Atf6a/ mice was
+less obvious than in wild-type mice (Fig. 2b), we hypothesized that glial activation, which could strongly inﬂuence
+neuronal survival/death, may be affected by deletion of Atf6a
+gene. Immunohistochemical analysis revealed that hypertrophic, GFAP-positive astrocytes were accumulated at the
+border between infarct and non-infarct area 3 days after
+MCAO in wild-type mice. In contrast, this astroglial
+accumulation was less observed in the same condition in
+Atf6a/ mice (Fig. 3a i). Interestingly, the size of each
+astrocyte was smaller in Atf6a/ mice, while the number
+was not signiﬁcantly different between wild-type and Atf6a/
+
+mice (Fig. 3a ii), suggesting that deletion of Atf6a gene
+
+© 2014 International Society for Neurochemistry, J. Neurochem. (2015) 132, 342--353
+
+Unfolded protein response and brain ischemia
+
+Fig. 3 Impaired astroglial activation in
+Atf6a/ mice after middle cerebral artery
+occlusion (MCAO). (a and b) Astroglial and
+microglial activation 3 days (a) and 5 days
+(b) after MCAO. Brain sections from wildtype and Atf6a/ mice after MCAO were
+analyzed by immunohistochemistry with the
+indicated antibodies. Nuclei were stained
+with DAPI. The relative sizes of activated
+astrocytes (a ii and b ii) and microglia/
+macrophages (a iii and b iii) were calculated
+and are indicated in the upper graphs. The
+relative sizes in wild-type mice were
+designated as one. The numbers of
+activated astrocytes (a ii and b ii) and
+microglia/macrophages (a iii and b iii) were
+counted and are indicated in the lower
+graphs.
+Values
+shown
+are
+the
+mean  SD.
+*p < 0.05,
+**p < 0.01,
+signiﬁcantly different between 2 conditions
+(n = 4). (c) Immunohisitochemical detection
+of 3-NT-pisitive area after MCAO. Brain
+sections from wild-type and Atf6a/ mice
+after
+MCAO
+were
+analyzed
+by
+immunohistochemistry with the indicated
+antibodies. Nuclei were stained with DAPI.
+Scale bars = 200 lm (a i, low mag., b i and
+c), 40 lm (a i, high mag.).
+
+(b) I
+
+may impair hypertrophic change, rather than proliferation of
+astrocytes after MCAO. In this period, the size and number
+of Iba1-positive microglia was not signiﬁcantly changed in
+both genotypes (Fig. 3a iii). Five days after MCAO, the size
+of each astrocyte was still smaller in Atf6a/ mice, when
+compared with wild-type mice (Fig. 3b i, ii). In addition, the
+number of Iba1-positive microglia/macrophages was somewhat lower in Atf6a/ mice when compared with wild-type
+mice (Fig. 3b i, iii). Consistent with the lower levels of
+astroglial activation/glial scar formation, the 3-nirotyrosine
+(3-NT)-positive area, which is a marker of oxidative stress
+and tissue injury, was expanded into non-infarct areas in
+Atf6a/ mice 5 days after MCAO (Fig. 3c).
+To conﬁrm the reduced levels of astroglial activation in
+Atf6a/ mice after MCAO, western blot analysis was
+performed using samples of ipsilateral (I) and contralateral
+(C) cortex in both genotypes. As early as 2 days after
+MCAO, the expression of marker proteins for astroglial
+activation such as phosphorylated STAT3 (p-STAT3) and
+GFAP (Okada et al. 2006; Herrmann et al. 2008) was lower
+in the Atf6a/ ipsilateral cortex when compared with
+wild-type ipsilateral cortex, and this lasted until 5 days after
+
+III
+
+II
+
+(a) I
+
+II
+
+III
+
+347
+
+(c)
+
+MCAO (Fig. 4a–c). The expression of GRP78 was lower in
+both of ipsilateral and contralateral cortex of Atf6a/ mice
+when compared with wild-type mice between 2 and 5 days
+after MCAO (Fig. 4a–c). In contrast, the expression of
+CHOP, which is mainly regulated by PERK pathway, was
+not different between wild-type and Atf6a/ mice 2 days
+after MCAO (Figure S2a). The expression of Iba1, a
+common marker of microglia/macrophages, was not significantly different between two genotypes until 3 days after
+MCAO, and expression became lower in the Atf6a/ipsilateral cortex 5 days after MCAO (Fig. 4a–c), which was
+consistent with the result of immunohistochemistry result
+(Fig. 3b i, iii). These results collectively suggest that deletion
+of the Atf6a gene affects astroglial activation at relatively
+early stages following ischemic injury.
+Reduced STAT3 signaling in Atf6a/astrocytes after MCAO
+Several cytokines and growth factors that are secreted from
+damaged neurons or other cells in the brain can induce
+astroglial activation, predominantly through the STAT3GFAP pathway (Okada et al. 2006; Herrmann et al. 2008).
+Therefore, we examined the expression level of these genes
+
+© 2014 International Society for Neurochemistry, J. Neurochem. (2015) 132, 342--353
+
+348
+
+A. Yoshikawa et al.
+
+(a)
+
+(b)
+
+Fig. 4 Expressions of glial markers after
+middle cerebral artery occlusion (MCAO). (a
+and b) Wild-type and Atf6a/ mice were
+subjected to MCAO or sham operation, and
+protein was extracted from the cerebral
+cortex either 2 days (a), 3 days, or 5 days
+(b) after MCAO. Samples were analyzed by
+western blot using the indicated antibodies.
+(c) Relative band intensity is shown in the
+graphs. The intensities in the ipsilateral
+cortex of wild-type sham-operated mice
+are designated as one. Values shown are
+the
+mean  SD
+(n = 4).
+*p < 0.05,
+**p < 0.01, when compared with mice after
+sham operation. #p < 0.05, compared
+between wild-type and ATF6a/ brains.
+
+(c)
+
+(a)
+
+(b)
+
+(c)
+
+Fig. 5 Activating status of astrocytes after
+middle cerebral artery occlusion (MCAO).
+Wild-type and Atf6a/ mice were subjected
+to MCAO or sham operation, and total RNA
+(1 lg) or protein, extracted from the cerebral
+cortex, was analyzed by qRT-PCR (a),
+western blot (b) or ELISA (c). In (b) the
+ratio of p-STAT3 versus total signal
+transducer and activator of transcription 3
+(STAT3) is shown in the graph. The
+intensities in the ipsilateral cortex of wildtype sham-operated mice were designated
+as one. Values shown are the mean  SD
+(n = 4). *p < 0.05, **p < 0.01, when
+compared with mice after sham operation.
+#
+p < 0.05, compared between wild-type and
+Atf6a/ brains.
+
+© 2014 International Society for Neurochemistry, J. Neurochem. (2015) 132, 342--353
+
+Unfolded protein response and brain ischemia
+
+in wild-type and Atf6a/ mice. qRT-PCR analysis revealed
+that mRNA expression of cytokines, such as LIF (Lif) and
+IL-6 (Il6), was signiﬁcantly enhanced after MCAO, while
+there was no difference between two genotypes (Fig. 5a).
+The expression of (transforming growth factor) TGFb
+(Tgfb1) (Fig. 5a) or ciliary neurotrophic factor (CNTF)
+(Cntf) (data not shown) was not signiﬁcantly enhanced after
+MCAO in either genotype. Consistent with these results,
+western blot and ELISA analysis revealed that there was no
+signiﬁcant difference in the expression of LIF (Fig. 5b) or
+IL-6 (Fig. 5c) between wild-type and Atf6a/ mice after
+MCAO. Further immunohistochemical analysis revealed that
+IL-6 was mainly produced in damaged neurons in these
+periods (Figure S2b). In contrast, the activating status of
+STAT3, which was determined by the level of p-STAT3, was
+lower in Atf6a/ mice when compared with wild-type mice
+1 day after MCAO (Fig. 5b), suggesting that the reduced
+level of astroglial activation in Atf6a/ mice is associated
+with impaired signaling pathways in astrocytes.
+Impaired STAT3-GFAP signaling in Atf6a/ and ER stressexposed astrocytes
+To conﬁrm the impairment of activation-related signaling
+pathways in Atf6a/ astrocytes, we employed cultured
+astrocytes isolated from the cerebral cortices of neonatal
+
+Fig. 6 Impaired signal transducer and
+activator of transcription 3 (STAT3)-glial
+ﬁbrillary acidic protein (GFAP) signaling in
+ATF6a/ and endoplasmic reticulum (ER)
+stress-exposed astrocytes (a and b)
+Cultured astrocytes, isolated from cerebral
+cortices of neonatal wild-type and ATF6a/
+mice, were stimulated with the indicated
+reagents for either 30 min (a) or 8 h (b) in
+serum-free conditions, and analyzed by
+western blot (a) or by qRT-PCR (b). (c and
+d) Cultured astrocytes were incubated with 4phenylbutyrate (4-PBA) or medium alone for
+8 h in serum-free conditions, and analyzed
+by western blot (c) or by qRT-PCR (d). Values
+shown are the mean  SD (n = 4).
+*p < 0.05, when compared with cells
+without stimulation. #p < 0.05, ##p < 0.01,
+compared between wild-type and ATF6a/
+astrocytes. (e and f) Cultured astrocytes
+were incubated with ER stressors or
+medium alone for 8 h (e) or for the indicated
+times (f) in serum-free conditions, and
+analyzed by western blot (e) or by qRTPCR (f), respectively. Values shown are the
+mean  SD (n = 4). #p < 0.05, ##p < 0.01,
+###
+p < 0.005, when compared between the
+indicated conditions.
+
+349
+
+wild-type and Atf6a/ mice. After serum deprivation for
+8 h, cells were stimulated with FSK or IL-6 for 30 min.
+Western blot analysis revealed that p-STAT3 was detected in
+the normal condition in wild-type astrocytes, consistent with
+a previous report showing that cultured astrocytes are at least
+partially activated without stimulation (Zamanian et al.
+2012). p-STAT3 expression was enhanced to 140% and
+170% by FSK and IL-6 treatment, respectively (Fig. 6a,
+white bars). In contrast, the level of p-STAT3 in Atf6a/
+astrocytes was signiﬁcantly lower in both of control and
+stimulated conditions (approximately 40, 65, and 65% when
+compared with wild-type astrocytes in normal, FSK-stimulated, and IL-6-stimulated conditions, respectively) (Fig. 6a,
+black bars). Consistent with these results, the expression of
+Gfap was lower in Atf6a/ astrocytes when compared with
+wild-type astrocytes (Fig. 6b). To analyze the role of ER
+stress in the reduced activation of the STAT3/GFAP pathway
+in Atf6a/ astrocytes, cells were treated with the chemical
+chaperone 4-PBA for 8 or16 h. 4-PBA is often used for
+attenuating ER stress (Qi et al. 2004; Kimura et al. 2012).
+Western blot and qRT-PCR analyses revealed that 4-PBA
+enhanced the level of p-STAT3 and Gfap in both wild-type
+and Atf6a/ astrocytes in a dose dependent manner (Fig. 6c
+and d). In contrast, when wild-type astrocytes were treated
+with common ER stressors, such as Tm and Tg, the
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+© 2014 International Society for Neurochemistry, J. Neurochem. (2015) 132, 342--353
+
+350
+
+A. Yoshikawa et al.
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+expression of p-STAT3 and Gfap was almost completely
+abolished (Fig. 6e and f). These results suggest that ER stress
+strongly suppresses STAT3-mediated astroglial activation.
+Involvement of TC-PTP in the impaired STAT3-GFAP
+signaling in ER stress-exposed astrocytes
+To dissect the mechanism underlying the ER stress-mediated
+impairment of STAT3-GFAP signaling in astrocytes, we
+treated wild-type astrocytes with several compounds which
+are known to regulate p-STAT3 expression (Kimura et al.
+2012), in the presence or absence of Tm. Orthovanadate
+(Vana), a broad PTP inhibitor, dose-dependently enhanced
+expression of p-STAT3 in both normal and ER stress
+conditions (Fig. 7a). Similarly, bisperoxovanadium (bpV), a
+more potent PTP inhibitor, strongly enhanced expression of
+p-STAT3 in the presence of Tm (Figure S2a). In contrast, the
+HDAC 1 inhibitor, TSA, or Sirt1 inhibitor, Ex527, did not
+enhance expression of p-STAT3 in the same condition
+(Figure S2a). These results suggest that PTPs may play an
+
+Fig. 7 The effect of protein-tyrosine
+phosphatases on signal transducer and
+activator of transcription 3 (STAT3)-glial
+ﬁbrillary acidic protein (GFAP) signaling in
+astrocytes. (a and b) Cultured astrocytes,
+isolated from cerebral cortexes of neonatal
+wild-type mice, were stimulated with
+Orthovanadate (Vana) in the presence or
+absence of tunicamycin (Tm) for either 8 h
+(a) or 16 h (b) in serum-free conditions, and
+analyzed by western blot (a) or by qRT-PCR
+(b). (c and d) Cultured astrocytes were
+incubated with endoplasmic reticulum (ER)
+stressors or medium alone for 8 h in serumfree conditions, and analyzed by qRT-PCR.
+(e) Crude cell fractionation. Cultured
+astrocytes
+were
+incubated
+with
+tunicamycin or medium alone for 8 h in
+serum-free conditions, and subjected to
+crude cell fractionation as described in the
+text. Samples from each fraction were
+analyzed by western blot. N, nucleus; Mit,
+mitochondria; M, microsome; C, sytosol.
+Values shown are the mean  SD (n = 4).
+*p < 0.05, **p < 0.05, when compared with
+cells without stimulation. #p < 0.05, when
+compared between the indicated conditions.
+(f) Gene silencing in wild-type and Atf6a/
+astrocytes. Cultured astrocytes were
+transfected with either scrambled siRNA
+(Sc) or Prpn2 siRNAs (Ptpn2 #1, #2), and
+cultured for 2 days. Cells were then
+incubated with serum-free condition for
+8 h, and subjected with western blot.
+
+important role in the regulation of STAT3 signaling in
+astrocytes. Consistent with these results, the expression of
+Gfap was enhanced by Vana under ER stress condition
+(Fig. 7b).
+Previous reports have demonstrated that several PTPs,
+such as PTP1B/PTPN1, TC-PTP/PTPN2, SHP1/PTPN6, and
+SHP2/PTPN11, are expressed in astrocytes and/or C6
+astroglioma (Faure and Posner 1993; Servidei et al. 1998;
+Horvat et al. 2001). Therefore, we hypothesized that PTPs
+may be critical for regulating STAT3-GFAP signaling in
+astrocytes both in normal and under ER stress. qRT-PCR
+revealed that Ptpn2, and to a lesser degree Ptpn1, were upregulated by both Tm and Tg (Fig. 7c), suggesting a possible
+association with these genes and ER stress. As there are two
+protein isoforms, TC45 and TC48, in TC-PTP/PTPN2, we
+analyzed whether both isoforms respond to ER stress.
+RT-PCR with isoform-speciﬁc primers revealed that expressions of both TC45 and TC48 are enhanced by ER stressors,
+although the expression level may be higher in TC45 (Figure
+
+© 2014 International Society for Neurochemistry, J. Neurochem. (2015) 132, 342--353
+
+Unfolded protein response and brain ischemia
+
+S2). In contrast, expression of Ptpn6 was slightly enhanced
+by Tg, but suppressed by Tm (Fig. 7e), and that of Ptpn11
+was not enhanced by Tm or Tg (Fig. 7c). Suppressor of
+cytokine signaling 3 (SOCS3) is also a potent endogenous
+regulator of STAT3; therefore, we measured expression of
+Socs3 in cultured astrocytes. qRT-PCR revealed that Socs3
+was not induced by Tm or Tg in our model, but its expression
+level was reduced by Tm (Fig. 7d). At protein levels, western
+blot analysis using samples after crude cell fractionation
+revealed that TC-PTP/PTPN2 was located in the microsome
+fraction and, to a lesser extent, in the nucleus fraction
+(Fig. 7e). The expression of TC-PTP/PTPN2 was enhanced
+by Tm in both fractions (Fig. 7e). In contrast, PTP1B/PTPN1
+was located exclusively in the microsome fraction, and its
+expression did not changed by Tm (Fig. 7e).
+To conﬁrm the suppressive effect of PTPs on the STAT3
+activation, gene-silencing experiments were performed using
+wild-type and Atf6a/ astrocytes. Two independent siRNAs
+per gene were introduced, and cell lysates were analyzed by
+western blot (Fig. 7f). Knockdown of Ptpn2 signiﬁcantly
+enhanced expression of p-STAT3 in both normal and ER
+stress conditions (Fig. 7f). However, knockdown of other
+Ptps (Figure S2b) or Socs3 (data not shown) failed to
+enhance the expression of p-STAT3. In these gene-silencing
+experiments, the expression of each gene was reduced to less
+than 20% of control levels (Fig. 7f and Figure S2b).
+
+Discussion
+In this study, we have demonstrated that deletion of Atf6a
+gene increases infarct volume and neuronal death in the periinfarct region after MCAO in mice. These phenotypes in
+Atf6a/ mice were associated with reduced astroglial
+activation/glial scar formation and a spread of tissue damage
+into the non-infarct region. Further analysis revealed that ER
+stress shut down the STAT3-GFAP signaling, one of the
+most critical pathways for astroglial activation, at least in
+part, through the ER stress-responsive tyrosine phosphatase,
+TC-PTP.
+Astrocytes play important roles in various neuropathological situations, including acute brain insults such as stroke
+and trauma. In these conditions, astrocytes undergo hypertrophy and up-regulate intermediate ﬁlaments such as GFAP
+and vimentin, and this is referred to as reactive astrogliosis or
+astroglial activation. Although reactive astrogliosis has both
+detrimental and beneﬁcial aspects, recent studies have
+emphasized its neuroprotective role through the regulation
+of inﬂammation and restoration of brain tissue (Okada et al.
+2006; Herrmann et al. 2008; Li et al. 2008). Our results also
+demonstrated that attenuated astrogliosis/glial scar formation,
+caused by deletion of Atf6a/, lead to a spreading of tissue
+damage and cell death 5 days after MCAO (Figs 2b and 3c).
+In contrast to the phenotypes in astrocytes, altered microglia/
+macrophage phenotypes in Atf6a/ mice were not seen until
+
+351
+
+3 days after MCAO, while they became signiﬁcant 5 days
+after MCAO. There were lower numbers of Iba1-positive
+cells in the border between infarct and non-infarct area in
+Atf6a/ mice (Fig. 3b i, iii). These phenotypes in Atf6a/
+microglia/macrophages may be attributed to a direct effect of
+Atf6a deletion on microglia/macrophages, or an indirect
+effect through a reduced level of astrogliosis. Further studies
+using conditional Atf6a knockout mice will provide detailed
+mechanisms regarding the phenotypes found in Atf6a/
+microglia/macrophages.
+We have previously reported that neuron-speciﬁc overexpression of ORP150, a downstream molecule of ATF6a,
+protected against brain ischemia through mechanisms
+including Ca2+ homeostasis and production of neurotrophic
+factors (Kitao et al. 2001; Tamatani et al. 2001). In contrast,
+the current study emphasizes the neuroprotective role of
+ATF6a through a non-cell-autonomous mechanism, astroglial activation/scar formation. These discrepancies could be
+attributed to different types of genetic modiﬁcation in mice
+and different models used to induce brain ischemia. In the
+previous report, we used neuron-speciﬁc ORP150 Tg mice or
+Hyou1+/ mice, because Hyou1/ mice are embryonic
+lethal (Kitao et al. 2001), while in this study, we have used
+Atf6a/ mice as they have normal development and can be
+used for MCAO. Furthermore, in the previous work, we
+estimated stroke volume and neuronal survival 24 h after
+MCAO, when glial scar was not yet formed, while, in this
+study, we did measure up to 5 days after MCAO. The basal
+expression of GRP78 protein in Atf6a/ mice was not
+different from that in wild-type mice (Fig. 4). This may be
+because of the compensatory function of other UPR
+pathways such as ATF6b and Ire1 (Yamamoto et al. 2007).
+Among intracellular signaling pathways, STAT3 pathway
+is among the most critical for inducing astrogliosis (Okada
+et al. 2006; Li et al. 2008). In response to extracellular
+signals such as IL-6, CNTF, and LIF, STAT3 is phosphorylated and translocates to the nucleus, where it promotes
+transcription of downstream genes including Gfap (Yeo
+et al. 2013). In the current study, the expression of IL-6, LIF,
+or CNTF was not altered between wild-type and Atf6a/
+mice in either control or ischemic conditions, while the level
+of p-STAT3, phosphorylated STAT3, was lower in Atf6a/
+mice when compared with wild-type mice after MCAO
+(Fig. 5b). Similarly, the level of p-STAT3 was lower in
+Atf6a/ astrocytes than wild-type astrocytes in vitro
+(Fig. 6a). Treatment of cells with a chemical chaperone,
+4-PBA, or with ER stressors, such as Tm and Tg, increased
+and decreased the levels of p-STAT3 and Gfap, respectively
+(Fig. 6c–f). These results suggest that enhanced level of
+ER stress in the basal Atf6a/ astrocytes suppresses
+STAT3-GFAP signaling.
+Recent reports have demonstrated that ER stress regulates
+STAT3 signaling through different mechanisms, including
+PTP1B-dependent tyrosine dephosphorylation and HDAC-
+
+© 2014 International Society for Neurochemistry, J. Neurochem. (2015) 132, 342--353
+
+352
+
+A. Yoshikawa et al.
+
+dependent deacetylation (Kimura et al. 2012). In our model,
+tyrosine phosphatase inhibitors such as orthovanadate and
+bpV, but not a HDAC inhibitor, TSA, or Sirt1 inhibitor,
+Ex527, enhanced levels of p-STAT3, and Gfap in both of
+normal and Tm-treated conditions (Fig. 7a and b). There are
+several PTPs expressed in astrocytes and/or C6 astroglioma
+(Navis et al. 2010), and some, such as PTP1B/PTPN1 and
+TC-PTP/PTPN2, are located, at least partly, in the ER. In our
+model, Ptpn2 had the strongest response to ER stress (Fig. 7c
+and d), and knockdown of Ptpn2, but not other genes,
+enhanced the level of p-STAT3 in all conditions tested
+(Fig. 7f).
+TC-PTP/PTPN2 is a ubiquitously expressed, non-receptortype PTP that has a similar structure to PTP1B/PTPN1
+(Navis et al. 2010). Two protein isoforms, TC45 and TC48,
+are generated by alternative splicing (Mosinger et al. 1992).
+TC45 is located in the nucleus, and regulates diverse
+signaling molecules including STAT3 (Muppirala et al.
+2013). TC48, in contrast, is anchored to the ER membrane
+using its hydrophobic carboxyl terminus, and may function
+in a secretory pathway (Muppirala et al. 2013). Our results
+indicate that both of TC45 and TC48 are expressed in
+astrocytes, and are up-regulated by ER stress, although the
+expression level may be higher in TC45 (Figure S2), as
+previously described (Mosinger et al. 1992). Further crude
+cell fractionation analysis revealed that not only T48 but also
+the majority of T45 was observed in the microsome fraction
+in our system (Fig. 7e), suggesting that TC45 may be
+recruited to some type of membrane in the secretory
+pathway. It has been reported that the expression of
+PTP1B/PTPN1, but not TC-PTP/PTPN2, is increased by
+ER stress in pancreatic b cells (Beamer et al. 2006). The
+discrepancy with our results may be attributed to the duration
+of ER stress (days vs. hours) and the cell types (pancreatic b
+cells vs. astrocytes). At this moment, we do not exclude the
+possibility that other PTPs, such as SHP-1, may also play
+important roles in regulating astroglial and microglial
+activation, as previously described (Hashida et al. 2012).
+Further studies will be required to clarify the roles of TCPTP and other PTPs in diverse neuropathological situations,
+including Parkinson’s disease, in which we also observed
+reduced astroglial activation in Atf6a/ mice (Cheng et al.
+2002). It will also be intriguing to test the effect of PTP
+inhibitors on astroglial activation and neuroprotection in
+vivo.
+It has been reported that both PTP1B and TC-PTP play
+critical roles in the insulin and/or leptin resistance through
+the suppression of STAT3 pathway (Zabolotny et al. 2002;
+Fukushima et al. 2010). As astrocytes also contribute to
+energy homeostasis in the brain both in normal and
+pathological conditions, it would be important to ﬁnd the
+role of these PTPs in the insulin/leptin signaling in
+astrocytes. Analysis of PTPs in astrocytes will provide new
+
+insight into the research of stress response and neuronal
+death in the central nervous system.
+
+Acknowledgments and conflict of interest
+disclosure
+We thank Mr Takashi Tamatani for technical assistance. We are also
+grateful to Dr Hideaki Hara (Gifu Pharmaceutical University) for
+valuable comments regarding MCAO. This work was supported by
+a Grant-in Aid for Scientiﬁc Research (24500419) from the Ministry
+of Education, Science, Technology, Sports and Culture of Japan.
+The authors have no conﬂicts of interest to declare.
+All experiments were conducted in compliance with the ARRIVE
+guidelines.
+
+Supporting information
+Additional supporting information may be found in the online
+version of this article at the publisher's web-site:
+Figure S1. (a) The areas used to count ssDNA-, GFAP-, and
+Iba1-positive cells after MCAO.
+Figure S2. (a) Expression of CHOP after MCAO. Wild-type and
+Atf6a-/- mice were subjected to MCAO or sham operation, and
+protein was extracted from the cerebral cortex after MCAO.
+Figure S3. The effect of protein-tyrosine phosphatases on pSTAT3 expression in astrocytes.
+
+References
+Amantea D., Nappi G., Bernardi G., Bagetta G. and Corasaniti M. T.
+(2009) Post-ischemic brain damage: pathophysiology and role of
+inﬂammatory mediators. FEBS J. 276, 13–26.
+Beamer C. A., Brooks D. M. and Lurie D. I. (2006) Motheaten (me/me)
+mice deﬁcient in SHP-1 are less susceptible to focal cerebral
+ischemia. J. Neurosci. Res. 83, 1220–1230.
+Cheng A., Uetani N., Simoncic P. D., Chaubey V. P., Lee-Loy A.,
+McGlade C. J., Kennedy B. P. and Tremblay M. L. (2002)
+Attenuation of leptin action and regulation of obesity by protein
+tyrosine phosphatase 1B. Dev. Cell 2, 497–503.
+DeGracia D. J. and Montie H. L. (2004) Cerebral ischemia and the
+unfolded protein response. J. Neurochem. 91, 1–8.
+Dirnagl U., Iadecol C. and Moskowitz M. A. (1999) Pathobiology of
+ischaemic stroke: an integrated view. Trends Neurosci. 22, 391–
+397.
+Faure R. and Posner B. I. (1993) Differential intracellular
+compartmentalization of phosphotyrosine phosphatases in a glial
+cell line: TC-PTP versus PTP-1B. Glia 9, 311–314.
+Fukushima A., Loh K., Galic S., Fam B., Shields B., Wiede F., Tremblay
+M. L., Watt M. J., Andrikopoulos S. and Tiganis T. (2010) T-cell
+protein tyrosine phosphatase attenuates STAT3 and insulin
+signaling in the liver to regulate gluconeogenesis. Diabetes 59,
+1906–1914.
+Hashida K., Kitao Y., Sudo H., Awa Y., Maeda S., Mori K., Takahashi
+R., Iinuma M. and Hori O. (2012) ATF6alpha promotes astroglial
+activation and neuronal survival in a chronic mouse model of
+Parkinson’s disease. PLoS ONE 7, e47950.
+Herrmann J. E., Imura T., Song B., Qi J., Ao Y., Nguyen T. K., Korsak
+R. A., Takeda K., Akira S. and Sofroniew M. V. (2008) STAT3 is
+
+© 2014 International Society for Neurochemistry, J. Neurochem. (2015) 132, 342--353
+
+Unfolded protein response and brain ischemia
+
+a critical regulator of astrogliosis and scar formation after spinal
+cord injury. J. Neurosci. 28, 7231–7543.
+Hori O., Matsumoto M., Maeda Y., Ueda H., Ohtsuki T., Stern D. M.,
+Kinoshita T., Ogawa S. and Kamada T. (1994) Metabolic and
+biosynthetic alterations in cultured astrocytes exposed to hypoxia/
+reoxygenation. J. Neurochem. 62, 1489–1495.
+Horvat A., Schwaiger F., Hager G., Brocker F., Streif R., Knyazev P.,
+Ullrich A. and Kreutzberg G. W. (2001) A novel role for protein
+tyrosine phosphatase shp1 in controlling glial activation in the
+normal and injured nervous system. J. Neurosci. 21, 865–874.
+Hossmann K. A. (1994) Viability thresholds and the penumbra of focal
+ischemia. Ann. Neurol. 36, 557–565.
+Hossmann K. A. (2006) Pathophysiology and therapy of experimental
+stroke. Cell. Mol. Neurobiol. 26, 1057–1083.
+Huang J., Li Y., Tang Y., Tang G., Yang G. Y. and Wang Y. (2013)
+CXCR4 antagonist AMD3100 protects blood-brain barrier
+integrity and reduces inﬂammatory response after focal ischemia
+in mice. Stroke 44, 190–197.
+Kimura K., Yamada T., Matsumoto M. et al. (2012) Endoplasmic
+reticulum stress inhibits STAT3-dependent suppression of hepatic
+gluconeogenesis via dephosphorylation and deacetylation.
+Diabetes 61, 61–73.
+Kitao Y., Ozawa K., Miyazaki M. et al. (2001) Expression of the
+endoplasmic reticulum molecular chaperone (ORP150) rescues
+hippocampal neurons from glutamate toxicity. J. Clin. Invest. 108,
+1439–1450.
+Koumura A., Hamanaka J., Shimazawa M., Honda A., Tsuruma K.,
+Uchida Y., Hozumi I., Satoh M., Inuzuka T. and Hara H. (2009)
+Metallothionein-III knockout mice aggravates the neuronal
+damage after transient focal cerebral ischemia. Brain Res. 1292,
+148–154.
+Kudo T., Kanemoto S., Hara H., Morimoto N., Morihara T., Kimura R.,
+Tabira T., Imaizumi K. and Takeda M. (2008) A molecular
+chaperone inducer protects neurons from ER stress. Cell Death
+Differ. 15, 364–375.
+Kuwabara K., Matsumoto M., Ikeda J. et al. (1996) Puriﬁcation and
+characterization of a novel stress protein, the150-kDa oxygenregulated protein (ORP150), from cultured rat astrocytes and its
+expression in ischemic mouse brain. J. Biol. Chem. 271, 5025–
+5032.
+Lewerenz J. and Maher P. (2009) Basal levels of eIF2alpha
+phosphorylation determine cellular antioxidant status by
+regulating ATF4 and xCT expression. J. Biol. Chem. 284, 1106–
+1115.
+Li L., Lundkvist A., Andersson D. et al. (2008) Protective role of
+reactive astrocytes in brain ischemia. J. Cereb. Blood Flow Metab.
+28, 468–481.
+
+353
+
+Morimoto N., Oida Y., Shimazawa M., Miura M., Kudo T., Imaizumi K.
+and Hara H. (2007) Involvement of endoplasmic reticulum stress
+after middle cerebral artery occlusion in mice. Neuroscience 147,
+957–967.
+Mosinger B., Jr, Tillmann U., Westphal H. and Tremblay M. L. (1992)
+Cloning and characterization of a mouse cDNA encoding a
+cytoplasmic protein-tyrosine-phosphatase. Proc. Natl Acad. Sci.
+USA 89, 499–503.
+Muppirala M., Gupta V. and Swarup G. (2013) Emerging role of
+tyrosine phosphatase, TCPTP, in the organelles of the early
+secretory pathway. Biochim. Biophys. Acta 1833, 1125–1132.
+Navis A. C., van den Eijnden M., Schepens J. T., Hooft van
+Huijsduijnen R., Wesseling P. and Hendriks W. J. (2010) Protein
+tyrosine phosphatases in glioma biology. Acta Neuropathol. 119,
+157–175.
+Okada S., Nakamura M., Katoh H. et al. (2006) Conditional ablation of
+Stat3 or Socs3 discloses a dual role for reactive astrocytes after
+spinal cord injury. Nat. Med. 12, 829–834.
+Qi X., Hosoi T., Okuma Y., Kaneko M. and Nomura Y. (2004) Sodium
+4-phenylbutyrate protects against cerebral ischemic injury. Mol.
+Pharmacol. 66, 899–908.
+Servidei T., Bhide P. G., Huang Z., Moskowitz M. A., Harsh G. and
+Reeves S. A. (1998) The protein tyrosine phosphatase SHP-2 is
+expressed in glial and neuronal progenitor cells, postmitotic
+neurons and reactive astrocytes. Neuroscience 82, 529–543.
+Sofroniew M. V. (2009) Molecular dissection of reactive astrogliosis and
+glial scar formation. Trends Neurosci. 32, 638–647.
+Taguchi A., Soma T., Tanaka H. et al. (2004) Administration of
+CD34 + cells after stroke enhances neurogenesis via angiogenesis
+in a mouse model. J. Clin. Invest. 114, 330–338.
+Tamatani M., Matsuyama T., Yamaguchi A. et al. (2001) ORP150
+protects against hypoxia/ischemia-induced neuronal death. Nat.
+Med. 7, 317–323.
+Walter P. and Ron D. (2011) The unfolded protein response: from stress
+pathway to homeostatic regulation. Science 334, 1081–1086.
+Yamamoto K., Sato T., Matsui T. et al. (2007) Transcriptional induction
+of mammalian ER quality control proteins is mediated by single or
+combined action of ATF6alpha and XBP1. Dev. Cell 13, 365–376.
+Yeo S., Bandyopadhyay S., Messing A. and Brenner M. (2013)
+Transgenic analysis of GFAP promoter elements. Glia 61, 1488–
+1499.
+Zabolotny J. M., Bence-Hanulec K. K., Stricker-Krongrad A. et al.
+(2002) PTP1B regulates leptin signal transduction in vivo. Dev.
+Cell 2, 489–495.
+Zamanian J. L., Xu L., Foo L. C., Nouri N., Zhou L., Giffard R. G. and
+Barres B. A. (2012) Genomic analysis of reactive astrogliosis.
+J. Neurosci. 32, 6391–6410.
+
+© 2014 International Society for Neurochemistry, J. Neurochem. (2015) 132, 342--353
+
+

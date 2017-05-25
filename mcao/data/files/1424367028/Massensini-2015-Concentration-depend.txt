@@ -1,0 +1,931 @@
+Acta Biomaterialia 27 (2015) 116–130
+
+Contents lists available at ScienceDirect
+
+Acta Biomaterialia
+journal homepage: www.elsevier.com/locate/actabiomat
+
+Concentration-dependent rheological properties of ECM hydrogel
+for intracerebral delivery to a stroke cavity
+Andre R. Massensini a,c,g,1, Harmanvir Ghuman a,b,1, Lindsey T. Saldin a,b, Christopher J. Medberry a,b,
+Timothy J. Keane a,b, Francesca J. Nicholls a,c,f, Sachin S. Velankar a,d, Stephen F. Badylak a,b,e,
+Michel Modo a,b,c,⇑
+a
+
+University of Pittsburgh, McGowan Institute for Regenerative Medicine, Pittsburgh, PA, USA
+University of Pittsburgh, Department of Bioengineering, Pittsburgh, PA, USA
+University of Pittsburgh, Department of Radiology, Pittsburgh, PA, USA
+d
+University of Pittsburgh, Department of Chemical Engineering, Pittsburgh, PA, USA
+e
+University of Pittsburgh, Department of Surgery, Pittsburgh, PA, USA
+f
+King’s College London, Department of Neuroscience, London, UK
+g
+Universidade Federal de Minas Gerais, Department of Physiology and Biophysics, Belo Horizonte, Brazil
+b
+c
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 24 April 2015
+Received in revised form 13 August 2015
+Accepted 25 August 2015
+Available online 28 August 2015
+Keywords:
+Biomaterial
+Delivery
+Extracellular matrix
+Injection
+Magnetic resonance imaging
+Stereotactic
+Brain
+Stroke
+
+a b s t r a c t
+Biomaterials composed of mammalian extracellular matrix (ECM) promote constructive tissue
+remodeling with minimal scar tissue formation in many anatomical sites. However, the optimal shape
+and form of ECM scaffold for each clinical application can vary markedly. ECM hydrogels have been
+shown to promote chemotaxis and differentiation of neuronal stem cells, but minimally invasive delivery
+of such scaffold materials to the central nervous system (CNS) would require an injectable form. These
+ECM materials can be manufactured to exist in fluid phase at room temperature, while forming hydrogels
+at body temperature in a concentration-dependent fashion. Implantation into the lesion cavity after a
+stroke could hence provide a means to support endogenous repair mechanisms. Herein, we characterize
+the rheological properties of an ECM hydrogel composed of urinary bladder matrix (UBM) that influence
+its delivery and in vivo interaction with host tissue. There was a notable concentration-dependence in
+viscosity, stiffness, and elasticity; all characteristics important for minimally invasive intracerebral
+delivery. An efficient MRI-guided injection with drainage of fluid from the cavity is described to assess
+in situ hydrogel formation and ECM retention at different concentrations (0, 1, 2, 3, 4, and 8 mg/mL).
+Only ECM concentrations >3 mg/mL gelled within the stroke cavity. Lower concentrations were not
+retained within the cavity, but extensive permeation of the liquid phase ECM into the peri-infarct area
+was evident. The concentration of ECM hydrogel is hence an important factor affecting gelation,
+host-biomaterial interface, as well intra-lesion distribution.
+Statement of Significance
+Extracellular matrix (ECM) hydrogel promotes constructive tissue remodeling in many tissues. Minimally
+invasive delivery of such scaffold materials to the central nervous system (CNS) would require an injectable form that exists in fluid phase at room temperature, while forming hydrogels at body temperature in
+a concentration-dependent fashion. We here report the rheological characterization of an injectable ECM
+hydrogel and its concentration-dependent delivery into a lesion cavity formed after a stroke based on
+MRI-guidance. The concentration of ECM determined its retention within the cavity or permeation into
+tissue and hence influenced its interaction with the host brain. This study demonstrates the importance
+of understanding the structure-function relationship of biomaterials to guide particular clinical
+applications.
+Ó 2015 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+
+⇑ Corresponding author at: McGowan Institute for Regenerative Medicine,
+University of Pittsburgh, 3025 East Carson St, Pittsburgh, PA 15203, USA.
+E-mail address: modomm@upmc.edu (M. Modo).
+1
+Both authors contributed equally.
+http://dx.doi.org/10.1016/j.actbio.2015.08.040
+1742-7061/Ó 2015 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+
+1. Introduction
+Therapeutic options for stroke remain very limited [1]. Most
+pharmacological agents are administered systemically during the
+
+A.R. Massensini et al. / Acta Biomaterialia 27 (2015) 116–130
+
+acute phase to either resolve a thrombus or to provide
+neuroprotection. The focus of current therapy is the modulation
+of the remaining brain tissue response by systemic administration
+of agents or cells that putatively promote plasticity. In the
+absence of neuroprotection, cells in the infarct territory die, resulting in liquifactive necrosis and invading phagocytic cells that
+remove cellular debris and the surrounding tissue matrix [2]. A
+fluid-filled lesion cavity remains. A key challenge in the treatment
+of stroke is hence the removal of necrotic debris and access to the
+adjacent viable or potentially viable tissue.
+The advent of regenerative medicine affords potentially novel
+strategies for integration of endogenous or exogenous cells and/
+or therapeutic agents/materials into the damaged brain by intracerebral injection [3–5]. Studies have shown that injecting cells
+directly into the lesion cavity results in their migration into the
+existing parenchyma with poor survival [6]. These exogenously
+delivered cells by themselves do not replace lost tissue. To achieve
+retention of injected cells within the lesion cavity, it is essential to
+provide a permissive structural and functional microenvironmental niche [6–9]. Such niche support may be achieved by biomaterials specifically engineered to be compatible with neural tissue and
+amenable to delivery through a small gauge needle for intracerebral injections, with minimal damage to healthy tissue [1,4,10].
+Hydrogel forms of naturally occurring biomaterials composed of
+extracellular matrix (ECM) show in vitro chemoattraction and differentiation stimuli for neural stem cells [11–13]. ECM hydrogels
+are rapidly infiltrated by pan (CD68+) macrophages, which likely
+participate in hydrogel degradation [14]. Perhaps most importantly, ECM hydrogels have been shown to promote the M2 ‘‘constructive remodeling” macrophage phenotype, characterized as
+scavenging debris, promoting angiogenesis and recruiting cells
+involved in constructive tissue remodeling [15,16]. Therefore,
+ECM hydrogels may supply growth factors, mechanical properties,
+and/or signaling molecules to support delivered cells; or support
+surviving endogenous cells and obviate the need for exogenous
+cells. [5,17–19]. Rheological characterization of an ECM hydrogel
+intended for CNS applications is essential for an effective evaluation of delivery, safety and efficacy of this therapeutic strategy
+[20].
+The ECM concentration affects rheological properties and
+determines if it will form a hydrogel or remain in a liquid phase
+[21]. Without the formation of a gel phase in situ, the ECM will
+diffuse and not provide a structural support within the lesion
+cavity [22]. Additionally, the stiffness of hydrogel will influence
+cell invasion and phenotypic choice of neural progenitors
+[23,24]. Determining the rheological properties of ECM hydrogels is therefore important to establish the retention of scaffolding material within the lesion cavity and the associated host
+response. As lesion cavities caused by ischemic stroke may consist of a large volume and irregular shape, it is essential to
+ensure that administration is indeed into the tissue void rather
+than intraparenchymally, where this volume would cause tissue
+disruption and potentially increased intracerebral pressure
+[25,26]. The use of non-invasive imaging, such as magnetic resonance imaging (MRI), can guide the volume of injection, as well
+as its stereotactic location, to ensure the safety of this approach
+[27,28].
+The objective of the present study was to characterize the
+concentration-dependent rheological properties of an ECM
+hydrogel, specifically an ECM hydrogel composed of urinary
+bladder matrix (UBM)-ECM, for the intended clinical application
+of minimally invasive intracerebral injection. To assay the in situ
+gel formation based on the concentration-dependent properties
+of the ECM, we also describe an innovative neurosurgical approach
+for its delivery in the liquid phase into the stroke cavity using MRI
+guidance.
+
+117
+
+2. Methods
+2.1. Extracellular matrix (ECM)-based hydrogel
+The ECM material is composed of the basement membrane and
+tunica propria of porcine urinary bladder (Tissue Source, Inc.,
+Lafayette, IN). The material was prepared by mechanical delamination of the remaining luminal epithelium and subjacent layers,
+followed by decellularization by exposure to 0.1% peracetic acid
+in 4% ethanol (v/v; 120 min; 300 rpm) with agitation followed by
+a series of PBS and deionized water rinses [21]. Decellularization
+was confirmed using Hematoxylin & Eosin, 40 ,6-diamidino-2-phenylindole (DAPI) staining, agarose gel electrophoresis, and quantification of remnant DNA [29]. The remaining ECM was identified
+as urinary bladder matrix (UBM), and was then lyophilized,
+comminuted, solubilized with pepsin (1 mg/mL) in 0.01 N HCl
+and neutralized with 0.1 N NaOH with dilution to a desired concentration (1, 2, 3, 4, 8 mg/mL) in PBS [21]. A £ mg/mL condition
+consisting of only PBS served as a control.
+The final product was an injectable liquid at room temperature
+(21 °C). Concentration and intracerebral temperature determine
+the rate of hydrogel formation and the rheological and turbidimetric characteristics of the hydrogel [30,14] which were extensively
+characterized previously [21]. A concentration >3 mg/mL is
+required for the formation of hydrogel; below this concentration
+insufficient gelation is observed. Importantly, if the injectate is
+excessively diluted within the extracellular fluid (ECF), gelation
+kinetics and distribution within the lesion can be affected
+[22,31]. Being able to accurately determine the volume for injection, as well as being able to drain the ECF, is therefore essential
+to ensure a lesion-specific distribution and robust gelation within
+the cavity. The rheological properties of hydrogel are important
+to determine the biophysical interaction with the host tissue.
+2.2. ECM hydrogel rheology
+All rheological data was collected using a rheometer (AR2000,
+TA instruments, New Castle, DE) fitted with 40 mm parallel plate
+geometry, as previously described [21,30,14] and analyzed using
+the American Society for Testing and Materials (ASTM) standard
+F2900-11 (Guide for characterization of hydrogels used in regenerative medicine). Temperature was controlled within 0.1 °C using a
+Peltier plate. At 10 °C, a temperature at which the rate of gelation is
+negligible, the gel precursor was loaded onto the parallel plate
+rheometer. Sample evaporation was minimized using mineral oil
+to seal the edges of the sample-plate interface.
+A series of rheological tests were conducted in sequence for
+each sample. A creep test was performed to measure the steady
+shear viscosity of the gel precursor by applying a constant shear
+stress of 1 Pa. An oscillatory time sweep was performed to measure
+the gelation kinetics of the forming ECM hydrogel by rapidly raising the temperature to 37 °C (a temperature at which ECM gelation
+occurs) and applying a small 0.5% oscillatory strain at a frequency
+of 1 rad/s. After 40–60 min when the gelation was deemed complete, an oscillatory frequency sweep was performed to measure
+the complex viscosity (|g⁄|) over a frequency range (0.1–100 rad/
+s) by applying 0.5% oscillatory strain. Samples were evaluated in
+triplicate.
+2.3. Middle cerebral artery occlusion (MCAo)
+All animal procedures complied with the US Animals Welfare
+Act (2010) and were approved by the University of Pittsburgh
+Institutional Animal Care and Use Committee (IACUC). Male
+Sprague–Dawley rats (260 ± 15 g, Taconic Labs, USA) were
+
+118
+
+A.R. Massensini et al. / Acta Biomaterialia 27 (2015) 116–130
+
+maintained on a 12 h light/dark schedule, with food and water
+available ad libitum. For transient intraluminal right middle cerebral artery (MCA) occlusion, a rat model of stroke, a 5-0 silicon
+rubber-coated monofilament (diameter 0.12 mm, length 30 mm,
+tip coating at 0.35 mm for 5–6 mm, 503556PK10, Doccol, USA)
+was advanced to the ostium of the MCA in the circle of Willis under
+isoflurane (4% induction, 1% maintenance in 30% O2) anesthesia.
+The MCA was occluded for 70 min prior to reperfusion by retracting the filament to the common carotid bifurcation. After recovery
+from anesthesia, animals were assessed for forelimb flexion and
+contralateral circling with daily post-operative care and neurological assessment until they recovered pre-operative weight [32].
+2.4. Magnetic resonance imaging (MRI) and infarct volume calculation
+Twelve days after MCAo, rats were anesthetized with isoflurane
+(4% induction, 1% maintenance) to assess the presence, location
+and volume of tissue loss using a T2-weighted spin-echo MRI
+sequence (TR = 6000 ms, TE = 8 ms, 8 Averages, FOV 30  30 mm,
+128  128 matrix, 42 slices at 0.5 mm thickness) on a horizontal
+bore 9.4 T Varian scanner. Tissue volume loss was based on a
+hyperintense signal on T2-weighted images that were thresholded
+at 1 standard deviation above the mean of a rectangular region of
+interest (ROI) in the contralateral hemisphere, encompassing striatum, corpus callosum and neocortex [2,33]. Rats (n = 30) with
+lesion volume >40 mm3 (i.e. 40 lL) were selected for injections.
+The injection volume of biomaterial was equivalent to the lesion
+volume as determined by the hyperintense volume range on MR
+images (40–180 lL). A larger volume of material can be injected,
+as long as drainage of material from the cavity is sufficient.
+2.5. Stereotactic coordinates for injection and drainage sites
+Injection of biomaterials into the lesion cavity has mainly been
+achieved by administering a high concentration of injectate that is
+then diluted by the extracellular fluid (ECF) present within the cavity [7,11,34]. Although certain biomaterials that are composed of
+solid particles will distribute throughout the ECF [7], the distance
+between particles will vary depending on the volume dilution
+and too large a distance may negate their function as a structural
+support. Solubilized extracellular matrix (ECM) and other materials require a certain minimum concentration to form a hydrogel
+in situ [21], otherwise the material will merely diffuse into the tissue parenchyma, rather than being retained within the cavity
+[22,31] (Fig. 1A). Merely increasing the volume of injection is problematic, as this will lead to an increase in intracerebral pressure
+(ICP), compromising the remaining tissue. There is further a risk
+of biomaterial escaping the lesion cavity and, for instance, occluding ventricular space preventing normal flow of cerebrospinal fluid
+(Fig. 1B). In the brain, the trajectory of injection also needs to avoid
+damage to major anatomical structures and placement needs to be
+accurate to avoid damage to host tissue (Fig. 1C). Detailed neurosurgical planning, in combination with delivery of an appropriate
+concentration of biomaterial, is hence required to maximize the
+potential of biomaterial therapy for CNS repair [4].
+Intracerebral delivery of biomaterials can either be achieved by
+dilution of the material in the extracellular fluid (ECF) available in
+the tissue cavity or this fluid can be drained during injection and a
+complete replacement of the milieu can be achieved (Fig. 2A). To
+define 3-dimensional coordinates for stereotactic injection of biomaterials and drainage of ECF, MR images were compared to the
+rat brain atlas [35] (Fig. 2B). The MRI slice corresponding to Bregma
+was identified and based on slice thickness with the anterior and
+posterior limits of the tissue being determined [27]. For a dilution
+injection, the geometric center of the cavity was targeted, as previously described [27].
+
+For an injection–drainage approach, coordinates targeted the
+posterior third of the lesion with a ventral location of the needle
+for injection. In contrast, drainage was aimed at the anterior third
+of the cavity with a dorsal placement of the cannula to allow near
+complete drainage of displaced ECF. As the biomaterial injectate is
+denser than ECF, it will cause ECF displacement extracranially. Special consideration in choosing coordinates is given to avoid juxtaposition of injection and drainage (at least 1 mm apart),
+preventing additive tissue damage in overlying cortex and potential direct drainage of injectate. An additional consideration in
+choosing coordinates was a potential mechanical disturbance of
+the lesion edge through closeness of injection/drainage. Anterior–
+posterior coordinates were hence chosen based on the extent of
+the tissue cavity and measuring the distance of this MRI slice in
+relation to the Bregma slice (based on MRI slice thickness). Lateral
+coordinates were defined to be central to the lesion within the
+injection/drainage slice in relation to the midline for +/ coordinates. Ventral positioning on MRI scans were defined based on
+the distance of the target site in relation to the top of the
+neocortex.
+2.6. Implantation procedure
+Fourteen days post-MCAo, rats underwent the implantation
+procedure by placement into a stereotactic frame (Kopf, USA)
+under isoflurane anesthesia (1.5% in 30% O2) prior to drilling of
+burr holes at the appropriate coordinates (Fig. 2C) using a framemounted drill. The ECM was taken-up into a 250 ll Hamilton syringe with a 24 G beveled tip metal needle (Hamilton) mounted on
+the frame. The syringe/needle was advanced to the appropriate
+coordinates for biomaterial injection, whereas a 24 G cannula
+was placed in position to drain ECF. Needles/cannula were slowly
+lowered into brain tissue. Injection of biomaterial (;, 1, 2, 3, 4,
+8 mg/mL concentrations, n = 5 per condition) was controlled using
+a frame mounted injection pump (World Precision Instruments,
+USA) at a constant speed of 10 lL/min until the total volume
+(40–180 lL) was delivered (7–17 min). The displacement of ECF
+from the lesion was evident and could be observed emerging from
+the drainage cannula (Fig. 2D). For a no drainage condition, a single
+site of injection in the geometrical center of the lesion was applied
+(only 8 mg/mL concentration for comparison, n = 5). After the
+injection was complete, the needle and cannula were left in place
+for 5 min before being slowly removed from the brain with burr
+holes being filled with bone wax (Fisher) prior to suturing. LX4
+(Ferndale, containing 4% Lidocaine) was topically applied as an
+analgesic.
+2.7. Intracranial pressure measurement
+Injection of a large volume of biomaterial may cause an increase
+in intracranial pressure, which is known to have detrimental neurological effects [36]. A comparison of the injection–drainage technique with no drainage (both 8 mg/mL ECM) was hence
+undertaken by monitoring intracranial pressure (ICP) during injections. A pressure sensor (WPI) attached to a fiber optic measurement system (RJC Enterprises) was used to measure ICP in
+mmHg. Prior to measurements, the probe was calibrated to atmospheric pressure (=0) and allowed to stabilize. For ICP measurement, a burr hole was made on the contralateral side at
+coordinates equivalent to the injection site. The probe was slowly
+inserted into the contralateral hemisphere to a depth of 5 mm.
+Bone wax was then used to seal the burr hole around the probe.
+The injection/drainage needles were inserted and ICP was recorded
+at 15 s intervals throughout the injection. After injections were
+completed, the needles were left in place for 5 min with continued
+ICP measurement.
+
+A.R. Massensini et al. / Acta Biomaterialia 27 (2015) 116–130
+
+119
+
+Fig. 1. Considerations for the injection of biomaterials into a stroke cavity. A. Injection of an insufficient quantity or local concentration of an 2 mg/mL ECM preparation leads
+to a poor gelation within the cavity and hence does not afford a complete and homogenous coverage (2 weeks post-MCAo, 24 h post-injection). Although particles of ECM that
+formed accumulate at the border of damaged tissue (i), vast areas of host tissue and the cavity do not show any accumulation of ECM material (ii) indicating that
+concentration and volume of material is important to ensure proper coverage of the cavity. B. Trajectory for delivery through a needle requires careful planning based on
+in vivo non-invasive imaging. A trajectory for biomaterial delivery needs to avoid ventricular space, as it can lead to a puncture of the ventricular wall (yellow arrow) and the
+subsequent leakage of material into the ventricle. Such intraventricular leakage can lead to a decrease in biomaterial concentration in the cavity and an obstruction of
+cerebrospinal fluid (CSF) movement through the ventricle with potential damage to the choroid plexus. C. However, positioning of the injection tract to avoid the ventricle can
+damage critical neuroanatomical structures, such as the hippocampus, and lead to significant tissue tearing and backflow of biomaterial (i, red arrows). Placement of the
+cannula at the edge of the cavity can further damage already compromised tissue (white *), although it can deliver ECM material to the cavity. Nevertheless, an uneven
+distribution and heterogeneous concentration within the cavity (black *) can ensue with areas void of ECM containing extracellular fluid that has not been displaced (ii, white
+arrow). These examples indicate the need for appropriate neurosurgical planning of biomaterial delivery to ensure a homogenous and complete distribution of ECM
+throughout the stroke cavity (scale bars = 1 mm). (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+
+120
+
+A.R. Massensini et al. / Acta Biomaterialia 27 (2015) 116–130
+
+Fig. 2. Injection–drainage of biomaterials and extracellular fluid. A. Delivery of material to the lesion cavity can be achieved by injection of a concentrate to be diluted in the
+extracellular fluid (ECF). For this, typically an injection site at the center of mass of the cavity is targeted (dotted green line = lesion cavity) [7,27]. However, this delivery
+method can lead to variations in material concentration and especially in case of in situ gelation can produce areas void of biomaterial [11]. In contrast, the creation of a
+second burr hole allows displaced ECF to be drained while biomaterial is delivered. Placement of these ideally target the lower parts of the cavity for injection (to facilitate
+displacement) and crucially the drainage cannula needs to be positioned at the most dorsal part of the cavity to fully exploit the Archimedes principle of fluid displacement. B.
+For injection–drainage, T2-weighted MRI scans were used to calculate the volume of the lesion cavity (hyperintense area), as well as to define coordinates for injection and
+drainage (AP = Anterior–Posterior; ML = Medio-Lateral; DV = Dorso-Ventral). C. Based on these coordinates, Burr holes were drilled into the skull at the appropriate location in
+relation to Bregma. D. Injection of a liquid hydrogel composed of extracellular matrix (ECM) through a needle/syringe fixed to the stereotactic device allowed injection of a
+volume equal to the lesion volume. As the biomaterial was denser than extracellular fluid (ECF), its injection led to the displacement of ECF from the cavity through the
+drainage cannula. Gelation of the ECM occurred inside the cavity, allowing adaptation to the topology of the lesion (scale bars = 2.5 mm). (For interpretation of the references
+to colour in this figure legend, the reader is referred to the web version of this article.)
+
+A.R. Massensini et al. / Acta Biomaterialia 27 (2015) 116–130
+
+2.8. Midline shift effects of intracerebral injections
+
+3. Results
+
+A potential consequence of regional changes in intracranial
+pressure due to injection of a large volume of biomaterial is evident on morphological changes in tissue distribution. After stroke,
+it is known that there is a midline shift towards the lesion area [6].
+This shift is typically reflective of differential hemispheric volumes
+that in an acute setting reflect the effect of edema [2]. The same
+principle can be applied to volumetric effects of biomaterial
+injected into one hemisphere increasing local intracranial pressure
+that is dissipated by hemispheric volume changes and/or a midline
+shift. Hemispheric areas and diameter were hence measured (Supplementary Fig. 1A) using FIJI (NIH).
+
+3.1. Pre-gel viscosity and hydrogel stiffness is concentrationdependent
+
+2.9. Histological assessment
+To analyze the distribution of the ECM hydrogel within the
+lesion cavity, rats were transcardially perfused with 0.9% saline followed by 4% paraformaldehyde (in 0.2 M PBS) 1 day postimplantation to fix brain tissue prior to its removal from the skull.
+Brains were post-fixed in 4% paraformaldehyde for 24 h prior to
+being cryopreserved in 30% sucrose with sodium azide (Sigma) at
+4 °C. Histological sections (50 lm thickness) were cut on a cryostat
+(Leica) directly onto microscopic slides. Brain sections were
+washed 3  10 min with 0.01 M PBS, followed by 1 h permeabilization in PBS + 0.1% Triton X-100 (Sigma) at room temperature. Sections were then washed 3  10 min in PBS + 0.05% Triton X-100
+followed by one hour in blocking solution (PBS + 0.05% Triton
+X-100 + 10% Normal Goat Serum, NGS, Vector). Primary antibodies
+were then applied, consisting of pig-specific mouse anti-collagen I
+(1:250, Millipore, MAB3391), a non-specific rabbit anti-collagen I
+antibody (1:250, Abcam, AB34710), goat anti-collagen IV (1:50,
+Millipore, ab769), sheep anti-hyaluronic acid (1:100, Abcam,
+ab53842), chicken anti-laminin (1:200, Abcam, ab14055), mouse
+anti-chondroitin sulfate (1:200, Abcam, ab11570), a mouse antiGlial Fibrillary Acid Protein (GFAP, 1:3000, Sigma, G3893) and a
+goat anti-Iba1 (1:300; Abcam, ab5076) diluted in blocking solution
+(0.05% Triton X-100, 10% NGS in PBS) and incubated at 4 °C overnight. After rinsing of the primary antibodies (3  20 min PBS),
+appropriate secondary Alexa Fluor 488 and 555 antibodies (Life
+Technologies) were applied for 1.5 h prior to 3  5 min washes in
+PBS and being coverslipped with Vectashield for fluorescence containing DAPI (Vector Laboratories). Visualization of antibodies was
+performed on a fluorescence microscope (Axioimager M2, Zeiss)
+interfaced with a monochrome camera driven by Stereo Investigator image capture software (MBF Bioscience). To measure the
+degree (%) coverage of the cavity by ECM injection, ROIs were
+drawn in FIJI to delineate the lesion cavity (based on Iba1 reactivity
+of the lesion edge) and the ECM hydrogel (based on collagen I
+staining, Supplementary Fig. 1B).
+2.10. Statistical analyses
+Statistical analyses were performed in SPSS 17 for Mac (IBM).
+Specifically, independent t-tests were used to compare rheological
+conditions. A non-parametric Kruskall Wallis test was performed
+to compare extent coverage of the lesion cavity by the ECM hydrogel followed by Dunn’s post-hoc testing. A Pearson correlation
+coefficient was calculated between lesion volumes and ICP measurements. Statistical significance was set at a p value of <0.05.
+Graphs were drawn in Prism 6 (GraphPad) with data points representing the median and bars reflecting the value range. A post-hoc
+power analysis of the Kruskall Wallis was calculated in G*Power
+(version 3, University of Trier) for the amount of cavity coverage
+achieved by the ECM.
+
+121
+
+The rheological characteristics of the ECM hydrogel were determined before (10 °C) and after (37 °C) gelation was induced using a
+parallel plate rheometer. Preparations of less than 3 mg/mL did not
+exhibit a robust gelation and therefore did not afford a full rheological evaluation (data not shown). Before gelation, the viscosity of
+the 4 mg/mL ECM gel precursor was significantly (p = 0.001) lower
+(0.084 ± 0.008 Pa * s) than the 8 mg/mL ECM gel precursor
+(0.443 ± 0.062 Pa * s) (Fig. 3A). The storage modulus G0 and loss
+modulus G00 of the 4 and 8 mg/mL ECM gels changed sigmoidally
+over time after temperature was raised from 10 °C to 37 °C
+(Fig. 3B). At long times, the storage modulus at both concentrations
+far exceeded the loss modulus indicating substantially solid-like
+gels. The maximum storage modulus of the 8 mg/mL hydrogel
+(460.4 ± 62.5 Pa) was significantly (p 6 0.001) higher than the
+4 mg/mL hydrogel (76.6 ± 10.4 Pa), as was the maximum loss modulus (66.4 ± 9.3 Pa, 11.0 ± 1.5 Pa, p = 0.008) (Fig. 3C). Half the maximum storage modulus (‘‘50% gelation”) marks the sharp increase
+in the storage modulus curve, and time to 50% gelation did not differ significantly between the 4 mg/mL (3.2 ± 0.3 min) and 8 mg/mL
+(3.0 ± 0.5 min) groups (Fig. 3D). The fast gelation kinetics of the
+ECM hydrogel was further shown in that 15% of the final storage
+modulus was reached within 3–5 min for both gels (4 mg/mL in
+3.9 ± 0.5 min and 8 mg/mL in 4.4 ± 0.5 min), where final storage
+modulus is defined as the average storage modulus over the last
+10 min of the time sweep test. The frequency sweep of the ECM
+hydrogel is shown for 4 mg/mL (Fig. 3E) and 8 mg/mL (Fig. 3F).
+Both moduli are only weakly dependent on frequency, and therefore the complex viscosity varies almost inversely with frequency,
+further confirming the predominantly solid-like nature of the gel.
+Indeed, the storage and loss modulus of the 4 mg/mL hydrogel
+was significantly lower than the 8 mg/mL hydrogel (p 6 0.001)
+for the angular frequency range tested (0.1–100 rad/s). Both 4
+and 8 mg/mL hence produce stable hydrogels in the same amount
+of time, but differ in their gel precursor viscosity, as well as their
+substrate stiffness.
+
+3.2. Injection–drainage affords efficient delivery of ECM hydrogel
+The delivery of 8 mg/mL hydrogel to the stroke cavity using a single injection point (i.e. no drainage) resulted in a 67% increase in
+intracranial pressure (ICP, Supplementary Fig. 2A) with evidence
+of some material escaping the cranial vault past the needle used
+for injection. Using this no-drainage approach, it is hence difficult
+to control the exact concentration or volume of material being present within the cavity, as the injectate mixes with the fluid present
+in the cyst and it is not possible to control or monitor how much
+material seeps out. Injection with simultaneous drainage is hence
+proposed here as a superior method, where ICP only changed by
+10% with excessive fluid from the cavity being displaced by the denser injected biomaterial. Indeed, in this case, excess fluid was
+drained extracranially through the additional cannula, rather than
+an uncontrolled escape along the injection needle. Importantly, in
+the injection–drainage condition, there was a negative correlation
+(r = 0.98, p < .05) between lesion volume and change in ICP, i.e.
+the larger the volume of the lesion, the less change in ICP, due to a
+greater space for accommodating the hydrogel. The opposite trend
+was evident in the no drainage condition (r = 0.97, p = 0.07) with larger volume of injections leading to greater change in ICP. Although
+post-mortem (24 h) there was no significant midline shift (2–5%) in
+either condition, drainage resulted in 10% less hemispheric volume
+
+122
+
+A.R. Massensini et al. / Acta Biomaterialia 27 (2015) 116–130
+
+Fig. 3. Rheological characterization of ECM hydrogels. A. Viscosity of the ECM pre-gel at 10 °C was measured by applying a constant shear stress of 1 Pa. B. Representative
+curves of the ECM hydrogel gelation kinetics show the storage and loss modulus increase sigmoidally over time. Temperature is rapidly raised from 10 °C to 37 °C, and a small
+0.5% oscillatory strain at a frequency of 1 rad/s was applied. C. Maximum storage modulus and loss modulus of the ECM hydrogel after gelation was complete at 37 °C. D.
+Gelation time of the ECM hydrogels to ‘‘50% gelation”, or time to 50% the maximum storage modulus. E–F. Representative graphs of the storage modulus, loss modulus, and
+complex viscosity of the ECM hydrogels at 4 mg/mL (E) and 8 mg/mL (F) plotted over angular frequencies on a log–log scale, measured at 37 °C by applying a small 0.5%
+oscillatory strain. ⁄p 6 0.01 ⁄⁄p 6 0.001.
+
+shift compared to no drainage. The increase in ICP, as well as hemispheric volume shift, hence indicates that drainage reduces potentially adverse effects of intracerebral injections on brain tissue.
+3.3. Histological detection of ECM hydrogel
+A histologic visualization of the injected ECM material was used
+to investigate and validate the distribution and retention of material within the lesion cavity. As porcine ECM hydrogels contain a
+higher concentration of collagen I compared to brain tissue, a
+
+pig-specific mouse anti-collagen I antibody afforded the selective
+identification of the implanted hydrogel (Fig. 4A). In contrast, a
+non-specific rabbit anti-collagen I antibody detected both rat and
+pig collagen I. As ECM injection dramatically increased collagen I
+concentration, the exposure time used for image acquisition of
+the non-specific antibody can still selectively visualize the
+implanted materials (Fig. 4B). The non-specific rabbit anticollagen I reliably stained host collagen I, as indicated by its localization in the basement membrane of host blood vessels and its
+peri-infarct localization in MCAo + vehicle animals.
+
+A.R. Massensini et al. / Acta Biomaterialia 27 (2015) 116–130
+
+123
+
+Fig. 4. Detection of 8 mg/mL ECM hydrogel in the stroke cavity. A. The pig-specific collagen I antibody detects only the ECM hydrogel implanted into the stroke cavity,
+although there is some evidence of background autofluorescence and staining in damaged tissue. The non-specific collagen I antibody detects the implanted hydrogel with a
+very intense staining, but also stains host brain blood vessels as well as damaged tissue. The relatively high concentration of collagen I in the ECM hydrogel compared to the
+host brain is evidenced by the short exposure times required to acquire images. The core of the implant is detected equally by the pig-specific and the non-specific antibody,
+but there are differences in their staining pattern (i). Collagen I staining clearly allows a demarcation of the implant-host interface (ii). Only the non-specific collagen I
+antibody detects rat collagen present in the basement membrane of host blood vessels in intact tissue (iii). B. In a stroke brain injected with vehicle, there was no detection of
+pig-specific collagen I (only background fluorescence in the peri-infarct area). At the exposure time used for the ECM hydrogel (17 ms) there was no detection of any
+fluorescence of the non-specific antibody, but at a longer exposure time (200 ms), collagen I staining around the infarct cavity was evident. The pig-specific antibody can
+therefore be used to distinguish porcine-derived ECM implants versus rat host tissue with specific staining, but the ECM hydrogel can also be visualized macroscopically using
+the non-specific antibody by adjusting the exposure time for image acquisition (scale bars = 1 mm).
+
+ECM also contains a variety of other molecules that putatively
+could serve for detection purposes inside the brain (Fig. 5). ECM
+contains notably high levels of collagen IV, which is readily detecting the injected material, but is also highly expressed in glial scar
+
+tissue in the peri-infarct region. The same applies to chondroitin
+sulfate, which is extensively present in the damaged hemisphere.
+Laminin also detects the injected material, but detection is not sufficiently specific as peri-infarct regions undergoing angiogenesis
+
+124
+
+A.R. Massensini et al. / Acta Biomaterialia 27 (2015) 116–130
+
+Fig. 5. Detection of 8 mg/mL ECM hydrogel using ECM markers. ECM contains a variety of molecules that can be detected using immunohistochemistry. The higher
+concentrations of molecules compared to brain tissue afford its detection using different antibodies against collagen IV, hyaluronic acid, laminin and chondroitin sulfate. It is
+evident here that ECM molecules associated with glial scarring (collagen IV, chondroitin sulfate) and angiogenesis (laminin) are also highly expressed in the peri-infarct area
+and hence not ideal for a selective detection of ECM hydrogel. However, hyaluronic acid also emerged as a potential alternative marker to collagen I, both of which are
+abundantly present with the (UBM)-ECM preparations compared to brain tissue (scale bars = 500 lm).
+
+also express high levels. Although sensitivity is good for these
+markers, selectivity of ECM hydrogel visualization is poor. In
+contrast, hyaluronic acid (HA) contrasts sufficiently with host
+
+background and hence affords a specific macroscopic detection of
+the injected material akin to collagen I. Although HA is extensively
+present in brain tissue, the specificity of detection of the ECM
+
+A.R. Massensini et al. / Acta Biomaterialia 27 (2015) 116–130
+
+hydrogel here is based on the abundance of HA within the scaffold
+in comparison to native tissue.
+3.4. Reliability of ECM hydrogel delivery
+Using the injection–drainage approach, the delivery of ECM
+hydrogel (8 mg/mL) to the stroke-induced lesion cavity successfully resulted in an extensive distribution of the biomaterial (as
+indicated by collagen I staining) throughout the lesion, while conforming to the topology of tissue loss (Fig. 6A). There was a good
+correspondence between pre-implantation MRI and post-mortem
+immunohistochemistry (Fig. 6B), indicating that the neurosurgical
+planning of the delivery location, as well as the volume were
+appropriate.
+The formation of a hydrogel within the cavity at 8 mg/mL further indicates that an appropriate concentration of injectate was
+delivered throughout the lesion. Gelation typically resulted in the
+retention of ECM within the area of tissue loss, rather than permeation into the adjacent host brain tissue (Fig. 7A). Nevertheless, in
+small areas at the edge of the cavity, ECM material could be found
+in the host brain tissue where it gelled (Fig. 7A i). There was no evidence of additional glial scarring in these regions. It is also worth
+noting that small hydrogel accumulations were evident in a few
+edge regions, where the gel did not completely replace the liquefied necrotic debris. Although the hydrogel conformed to the lesion
+
+125
+
+topology, it is important to note that the 8 mg/mL ECM hydrogel
+was mostly distinct among the different ECM concentrations tested
+and did not invade adjacent brain tissue, with glial scarring being
+evident around most of the cavity. A small ‘‘bubble” without
+ECM hydrogel can occur (Fig. 7A ii) if the drainage point is not at
+the most dorsal part of the cavity. However, this approach is very
+reproducible across different lesion sizes and topology (Fig. 7B).
+Rheological and turbidimetric characteristics of the biomaterial
+will also influence intracerebral distribution. For instance, a faster
+and stiffer polymerization in the cavity can displace small tissue
+fragments to the periphery of the cavity or provide a sharply
+defined edge between ECM hydrogel and host tissue (Fig. 7C). Gelation properties defined by the concentration of the material therefore also define the interface with the host brain.
+3.5. Concentration-dependent retention of ECM within lesion cavity
+Using the injection–drainage method, it is possible to deliver a
+specific volume and concentration of ECM to the lesion cavity and
+determine the effect of these variables upon its distribution, interface with the host brain, as well as its retention within the cavity
+(Fig. 8A). Indeed, concentrations of <3 mg/mL did not form a robust
+enough gel within the lesion cavity to afford retention (Kruskall
+Wallis = 27.02; p < .001; 1  b = 0.87), but rather showed permeation of ECM into the adjacent host brain (Supplementary Fig. 2B).
+
+Fig. 6. Correspondence between pre-implant MRI and post-mortem distribution of ECM hydrogel in the stroke cavity. A. Coverage of the lesion using this approach is
+demonstrated by immunohistochemistry 24 h after injection. The lesion cavity is defined by glial scarring (GFAP), whereas the ECM hydrogel which contains high levels of
+collagen I can be detected using a collagen I antibody. It is remarkable that even within 24 h there is cell invasion into the material from the host (DAPI). B. An overlay of the
+fluorescent histology images with the pre-implantation MRI indicates that indeed a good coverage of the cavity has been achieved. Nevertheless, it is noteworthy that the
+material did not completely cover the hyperintense area on the MRI, as tissue remnants were present in this region (blue arrows). This subtle difference is not evident based
+on the histological assessment alone and indicates that further improvements in non-invasive imaging are required to better define microenvironments present within the
+infarct territory. However, if there is an overestimation of injection volume, the drainage of superfluous material will prevent a buildup in the cavity (scale bar = 2.5 mm). (For
+interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+
+126
+
+A.R. Massensini et al. / Acta Biomaterialia 27 (2015) 116–130
+
+Fig. 7. Anterior–posterior images covering the tissue cavity caused by middle cerebral artery occlusion. A. The ECM hydrogel (8 mg/mL), as detected by collagen I staining
+(green), is fairly equally distributed throughout the cavity, defined by the lack of cells (DAPI staining in blue). Glial scarring (glial fibrillary acid protein in red) around the
+lesion cavity is also evident. The yellow dashed line indicates the point of injection, whereas the red dashed line depicts the position of the drainage cannula. In some areas,
+especially anteriorly (i), some permeation of ECM hydrogel into the host brain was evident (yellow *), whereas in other areas (red *), small ‘‘particulates” of ECM were present
+within non- gelled areas of the cavity. A lack of hydrogel in some edge regions (white *) of the host-biomaterial interface was also evident indicating that some further
+optimization (e.g. speed of injection) of biomaterial distribution within the lesion can further improve coverage (ii). B. The described approach produces fairly consistent
+coverage of the cavity, as can be seen in a further 4 examples. C. Still, further challenges for intracerebral delivery are apparent. Notably, the fragile peri-infarct tissue can be
+impacted by large volume injections of a high concentration of material (white arrows), whereas a denser material could also create a ‘‘clump” of material, leaving voids
+between host and material (red arrows), while a glial scar is forming (yellow arrows). By focusing on the tissue cavity, the peri-infarct tissue that is severely damaged
+(white *), but not lost, is not receiving biomaterial (red *). These aspects further highlight the importance of determining appropriate concentrations and speed of delivery to
+potentially further improve the delivery of biomaterials to the damaged brain (scale bars = 2.5 mm). (For interpretation of the references to colour in this figure legend, the
+reader is referred to the web version of this article.)
+
+A.R. Massensini et al. / Acta Biomaterialia 27 (2015) 116–130
+
+127
+
+Fig. 8. Concentration-dependent retention of ECM hydrogel in the lesion cavity. A. ECM hydrogel injection will only be retained within the lesion cavity if sufficient collagen I
+is present to afford gelation. Using the injection–drainage approach, it is possible to inject accurate concentrations of ECM into the cavity and determine retention of the ECM
+hydrogel. A vehicle injection (0 mg/mL) of PBS indicated no collagen I-dependent detection (33 ms) of material inside the lesion cavity (as delineated by Iba1 staining for
+microglia) or the host brain. At 1 and 2 mg/mL ECM material mostly dissipated into the host brain, whereas at 3 mg/mL, ECM hydrogel was formed and retained within the
+cavity with some material gelling in the peri-infarct tissue. Higher than 3 mg/mL concentrations resulted in a gelation within the lesion cavity with little to no ECM hydrogel
+permeation into adjacent host tissue (scale bar = 5 mm). B. At 1 mg/mL ECM injection, the injected material was only visible in the peri-infarct area. The pattern of
+distribution suggests permeation from the cavity. However, it is likely that some material was still present within the cavity and was lost upon sectioning due to a lack of
+structure (i.e. no gelation) (scale bar = 1 mm). C. At 3 mg/mL, gelation within the cavity occurred and this material was retained during sectioning, but it is also evident that
+some injected ECM material diffused into the damaged peri-infarct tissue potentially through the glial scar. Based on signal intensity, it is also possible to see a clear
+difference in collagen I content between 1 and 3 mg/mL. It is therefore important to note that not only is there a difference in ‘‘inductive” material being delivered, but the
+structural (i.e. gelation) properties of the ECM are also concentration dependent (scale bar = 500 lm).
+
+Permeation of ECM into the peri-infarct tissue results in a uniform
+extracellular distribution akin to tissue characteristics, such as
+striosomes, but is not associated with the basement membranes
+of blood vessels (Fig. 8B). It is likely that some injected ECM
+
+material remained within the cavity, but this could not be
+determined by histologic methods. At 2 mg/mL, some small ECM
+accumulations within the cavity were evident (median 12; range
+3–26% coverage). At 3 mg/mL, permeation into the host brain, as
+
+128
+
+A.R. Massensini et al. / Acta Biomaterialia 27 (2015) 116–130
+
+well as retention within the cavity, were evident (Fig. 8C) with a
+more extensive coverage than the cavity (median 108; range
+98–117%). At concentrations >3 mg/mL gelation and retention
+within the cavity occurred with little to no permeation into the
+host brain with 4 mg/mL achieving a 92% coverage (range
+88–97%) and 8 mg/mL resulting in 89% of the cavity being filled
+with ECM (range 84–96%). The lower coverage of the 8 mg/mL is
+likely due to the formation of a more solid gel that did not interface
+as tightly with the brain tissue.
+
+4. Discussion
+The advent of cytocompatible and injectable biomaterials offers
+new opportunities to treat brain damage. However, access to the
+brain, as well as its rigid confinement within the skull [1,4], pose
+technical challenges to define an adequate in situ hydrogel formation based on the concentration-dependent rheological characteristics of ECM. The use of non-invasive imaging, such as MRI [28],
+ensures an efficient delivery of appropriate concentrations to assay
+gelation properties and their influence of ECM distribution in vivo.
+Herein, we describe the rheological characteristics of a urinary
+bladder matrix (UBM)-derived ECM hydrogel with the intended
+clinical application of minimally invasive intracerebral delivery
+and retention in stroke.
+UBM is composed of the urothelial basement membrane and
+the subjacent tunica propria [37]. The basal membrane is comprised mainly of collagen IV and laminin. The tunica propria is
+comprised of collagen (I, III, IV, VI, and XII), elastin, the glycosaminoglycan hyaluronic acid, proteoglycans (e.g., decorin) and
+glycoproteins (e.g., fibronectin, osteopontin) [38]. Other peptides
+that may interact with cells include matricryptic peptides, growth
+factors, and cytokines [39]. A hydrogel composed of porcine urinary bladder ECM has been shown to be chemotactic for neural
+progenitor cells in vitro and to promote neural progenitor cell differentiation [12,13,30]. Porcine, rather than rat, material was used
+in the present study, because porcine ECM is used clinically for
+soft-tissue reconstruction in patients and there is greater abundance of tissue to process. There is little risk of cross-species contamination due to the removal of cellular antigens, while ECM
+proteins are well conserved across species [40].
+It is noteworthy that ECM’s rheological characteristics are based
+on concentration, time, and temperature [21]. A high concentration
+of ECM here (>3 mg/mL) afforded a robust and efficient formation
+of hydrogel that was retained within the lesion and an 8 mg/mL
+concentration approximated the 500–1000 Pa elastic modulus of
+brain tissue [41–43]. These formulations are therefore desirable
+for delivery of agents without penetration of the host tissue
+[17,19], but their retention within the cavity could structurally
+support cell delivery or attract host cell invasion to recolonize
+areas where tissue has been lost [5,11,44]. Gradual degradation
+of the hydrogel and replacement by host tissue would be expected.
+For instance, in a rat abdominal wall defect model, these ECM
+hydrogels almost completely degraded by 35 days, as shown by
+histology [42]. A radiolabeled small intestinal submucosa (SIS)based ECM hydrogel in a dog model of urinary bladder repair further demonstrated that less than 10% of the starting material was
+present at 3 months post-surgery [14]. The mechanism by which
+ECM hydrogels promote constructive remodeling is by altering
+the default injury response [45–47] and by recruiting host tissuespecific stem/progenitor cells to the site of injury [48–50], eventually leading to the replacement of the injected material. However,
+the repair process, especially in the brain, remains poorly understood. Hence insufficient information is currently available to
+specifically engineer hydrogel degradation characteristics to match
+a particular repair time frame.
+
+Using different concentrations of ECM and a characterization of
+its biodegradation and cell infiltration response will help to
+improve our understanding of tissue repair. For instance, lowering
+the hydrogel ECM concentration (<3 mg/mL) might improve integration with the peri-infarct tissue and promote better interaction
+with host cells. If permeation of ECM hydrogel into the damaged
+peri-infarct proves to be of benefit, as with drug delivery, then concentrations of ECM that do not gel or show a protracted gelation
+time would be desirable to afford permeation into tissue. There
+is some evidence that permeation of ECM into damaged brain tissue can lead to behavioral improvements [22]. Indeed, a concentration of 3 mg/mL in the present study resulted in both a permeation
+of ECM into the peri-infarct areas, as well as gelation and retention
+within the cavity. Still, the length of time required for hydrogel
+structural support for cell invasion and subsequent de novo tissue
+formation is unknown. As hydrogel stiffness, as well as inductive
+properties, can affect cell invasion and phenotype [13,51,52], it is
+essential to further characterize the short-term and long-term biological properties of the ECM formulations after injection in the
+stroke-damaged brain.
+Although much effort is geared toward designing novel biomaterials or enhancing the biological effects of transplanted cells, little effort is devoted to the technical challenges associated with
+delivery of these therapeutics and its interaction with host tissue.
+Yet, there is ample evidence that biophysical considerations
+regarding delivery of therapeutics to the brain can dramatically
+influence their therapeutic effects [53]. Controlling cannula placement [54,55] and size [56,57], using an automated injection pump
+for consistent delivery [58,59], as well as MRI guidance [27], have
+provided greater control over factors that can influence the delivery of therapeutics to the brain. The tuning of the rheological properties of ECM hydrogel that potentially can separate the stiffness of
+the gel from its inductive payload will provide further opportunities for the refinement of the in situ structure–function relationships required for therapeutic success [39,60–62]. An efficient
+local injection at an appropriate concentration will also be essential for the delivery of biomaterials that serve as local drug/cell
+delivery vehicles [8,17,18].
+It was evident herein that the described approach mitigated
+potential adverse effects compared to injection of a large volume
+of a stiff material without drainage. However, the concentrationdependent effects presented here do only apply to ECM hydrogel,
+specifically the UBM hydrogel, with the presented rheological
+characteristics. ECM materials derived from other source tissues,
+or materials with different rheological properties will require similar in situ validation to determine their structure–function relationship that guides their interaction with the damaged host
+tissue.
+
+5. Conclusions
+Using the drainage–injection procedure, it will now be possible
+to better control the intra-cavity concentration of material and further optimize gelation parameters in situ in relation to the different biophysical and inductive properties of biomaterials. These
+steps are essential to provide a thorough preclinical evaluation of
+biomaterials, but also to define the technical challenges for clinical
+translation.
+
+Disclosure
+The authors have no personal financial or institutional interest in any of the drugs, materials, or devices described in this
+article.
+
+A.R. Massensini et al. / Acta Biomaterialia 27 (2015) 116–130
+
+Acknowledgments
+This study was funded by a seed grant from the Department of
+Health of the Commonwealth of Pennsylvania (4100061184) and
+the National Institute for Neurological Disease and Stroke and
+the National Institute for Biomedical Imaging and Bioengineering
+(R01EB016629). ARM was supported by a Fellowship from CAPES
+Foundation, Brazil. CJM and LTS were partially supported by a
+NIH-NHLBI training grant (T32-EB001026, 2T32-EB001026-11,
+respectively). TJK was supported by the National Science Foundation Graduate Research Fellowship (DGE-1247842). SFB and MM
+gratefully acknowledge support from Vertex Pharmaceuticals.
+SSV acknowledges partial support from NSF-CMMI (1434674).
+We thank Dr Hiro Fukuda and Alex Poplawsky with their assistance
+to measure intracranial pressure and Dr Wen Ling for setting up
+the MRI scanning.
+
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.actbio.2015.08.
+040.
+References
+[1] M. Modo, F. Ambrosio, R.M. Friedlander, S.F. Badylak, L.R. Wechsler,
+Bioengineering solutions for neural repair and recovery in stroke, Curr. Opin.
+Neurol. 26 (2013) 626–631.
+[2] M. Ashioti, J.S. Beech, A.S. Lowe, M.B. Hesselink, M. Modo, S.C. Williams, Multimodal characterisation of the neocortical clip model of focal cerebral
+ischaemia by MRI, behaviour and immunohistochemistry, Brain Res. 1145
+(2007) 177–189.
+[3] D. Kondziolka, G.K. Steinberg, S.B. Cullen, M. McGrogan, Evaluation of surgical
+techniques for neuronal cell transplantation used in patients with stroke, Cell
+Transplant. 13 (2004) 749–754.
+[4] F. Meng, M. Modo, S.F. Badylak, Biologic scaffold for CNS repair, Regen. Med. 9
+(2014) 367–383.
+[5] T.Y. Cheng, M.H. Chen, W.H. Chang, M.Y. Huang, T.W. Wang, Neural stem cells
+encapsulated in a functionalized self-assembling peptide hydrogel for brain
+tissue engineering, Biomaterials 34 (2013) 2005–2016.
+[6] M. Modo, R.P. Stroemer, E. Tang, S. Patel, H. Hodges, Effects of implantation site
+of stem cell grafts on behavioral recovery from stroke damage, Stroke; J.
+Cerebral Circulation 33 (2002) 2270–2278.
+[7] E. Bible, D.Y. Chau, M.R. Alexander, J. Price, K.M. Shakesheff, M. Modo, The
+support of neural stem cells transplanted into stroke-induced brain cavities by
+PLGA particles, Biomaterials 30 (2009) 2985–2994.
+[8] K. Jin, X. Mao, L. Xie, V. Galvan, B. Lai, Y. Wang, et al., Transplantation of human
+neural precursor cells in Matrigel scaffolding improves outcome from focal
+cerebral ischemia after delayed postischemic treatment in rats, J. Cerebral
+Blood Flow Metabolism: Off. J. Int. Soc. Cerebral Blood Flow Metabolism 30
+(2010) 534–544.
+[9] T. Osanai, S. Kuroda, H. Yasuda, Y. Chiba, K. Maruichi, M. Hokari, et al.,
+Noninvasive transplantation of bone marrow stromal cells for ischemic stroke:
+preliminary study with a thermoreversible gelation polymer hydrogel,
+Neurosurgery 66 (2010) 1140–1147. discussion 7.
+[10] J. Wang, W. Yang, H. Xie, Y. Song, Y. Li, L. Wang, Ischemic stroke and repair:
+current trends in research and tissue engineering treatments, Regen. Med. Res.
+2 (2014) 3.
+[11] E. Bible, F. Dell’Acqua, B. Solanky, A. Balducci, P.M. Crapo, S.F. Badylak, et al.,
+Non-invasive imaging of transplanted human neural stem cells and ECM
+scaffold remodeling in the stroke-damaged rat brain by (19)F- and diffusionMRI, Biomaterials 33 (2012) 2858–2871.
+[12] P.M. Crapo, C.J. Medberry, J.E. Reing, S. Tottey, Y. van der Merwe, K.E. Jones,
+et al., Biologic scaffolds composed of central nervous system extracellular
+matrix, Biomaterials 33 (2012) 3539–3547.
+[13] P.M. Crapo, S. Tottey, P.F. Slivka, S.F. Badylak, Effects of biologic scaffolds on
+human stem cells and implications for CNS tissue engineering, Tissue Eng. Part
+A 20 (2014) 313–323.
+[14] M.T. Wolf, K.A. Daly, E.P. Brennan-Pierce, S.A. Johnson, C.A. Carruthers, A.
+D’Amore, et al., A hydrogel derived from decellularized dermal extracellular
+matrix, Biomaterials 33 (2012) 7028–7038.
+[15] B.M. Sicari, J.L. Dziki, B.F. Siu, C.J. Medberry, C.L. Dearth, S.F. Badylak, The
+promotion of a constructive macrophage phenotype by solubilized
+extracellular matrix, Biomaterials 35 (2014) 8605–8612.
+[16] M.T. Wolf, C.A. Carruthers, C.L. Dearth, P.M. Crapo, A. Huber, O.A. Burnsed,
+et al., Polypropylene surgical mesh coated with extracellular matrix mitigates
+the host foreign body response, J. Biomed. Mater. Res. A 102 (2014) 234–246.
+
+129
+
+[17] M.J. Caicco, M.J. Cooke, Y. Wang, A. Tuladhar, C.M. Morshead, M.S. Shoichet, A
+hydrogel composite system for sustained epi-cortical delivery of Cyclosporin A
+to the brain for treatment of stroke, J. Control. Release: Off. J. Control. Release
+Soc. 166 (2013) 197–202.
+[18] D. Klose, M. Laprais, V. Leroux, F. Siepmann, B. Deprez, R. Bordet, et al.,
+Fenofibrate-loaded PLGA microparticles: effects on ischemic stroke, Eur. J.
+Pharma. Sci.: Off. J. Eur. Fed. Pharm. Sci. 37 (2009) 43–52.
+[19] D.F. Emerich, E. Silva, O. Ali, D. Mooney, W. Bell, S.J. Yu, et al., Injectable VEGF
+hydrogels produce near complete neurological and anatomical protection
+following cerebral ischemia in rats, Cell Transplant. 19 (2010) 1063–1071.
+[20] P.C. Georges, W.J. Miller, D.F. Meaney, E.S. Sawyer, P.A. Janmey, Matrices with
+compliance comparable to that of brain tissue select neuronal over glial
+growth in mixed cortical cultures, Biophys. J. 90 (2006) 3012–3018.
+[21] D.O. Freytes, J. Martin, S.S. Velankar, A.S. Lee, S.F. Badylak, Preparation and
+rheological characterization of a gel form of the porcine urinary bladder
+matrix, Biomaterials 29 (2008) 1630–1637.
+[22] L. Zhang, F. Zhang, Z. Weng, B.N. Brown, H. Yan, X.M. Ma, et al., Effect of an
+inductive hydrogel composed of urinary bladder matrix upon functional
+recovery following traumatic brain injury, Tissue Eng. Part A 19 (2013) 1909–
+1918.
+[23] K. Saha, A.J. Keung, E.F. Irwin, Y. Li, L. Little, D.V. Schaffer, et al., Substrate
+modulus directs neural stem cell behavior, Biophys. J. 95 (2008) 4426–4438.
+[24] N.D. Leipzig, M.S. Shoichet, The effect of substrate stiffness on adult neural
+stem cell behavior, Biomaterials 30 (2009) 6867–6878.
+[25] M.L. Brady, R. Raghavan, A. Alexander, K. Kubota, K. Sillay, M.E. Emborg,
+Pathways of infusate loss during convection-enhanced delivery into the
+putamen nucleus, Stereotact. Funct. Neurosurg. 91 (2013) 69–78.
+[26] F. Valles, M.S. Fiandaca, J. Bringas, P. Dickinson, R. LeCouteur, R. Higgins, et al.,
+Anatomic compression caused by high-volume convection-enhanced delivery
+to the brain, Neurosurgery 65 (2009) 579–585. discussion 85–86.
+[27] E. Bible, D.Y. Chau, M.R. Alexander, J. Price, K.M. Shakesheff, M. Modo,
+Attachment of stem cells to scaffold particles for intra-cerebral
+transplantation, Nat. Protoc. 4 (2009) 1440–1453.
+[28] A.V. Naumova, M. Modo, A. Moore, C.E. Murry, J.A. Frank, Clinical imaging in
+regenerative medicine, Nat. Biotechnol. 32 (2014) 804–818.
+[29] P.M. Crapo, T.W. Gilbert, S.F. Badylak, An overview of tissue and whole organ
+decellularization processes, Biomaterials 32 (2011) 3233–3243.
+[30] C.J. Medberry, P.M. Crapo, B.F. Siu, C.A. Carruthers, M.T. Wolf, S.P. Nagarkar,
+et al., Hydrogels derived from central nervous system extracellular matrix,
+Biomaterials 34 (2013) 1033–1040.
+[31] D. Lu, A. Mahmood, C. Qu, X. Hong, D. Kaplan, M. Chopp, Collagen scaffolds
+populated with human marrow stromal cells reduce lesion volume and
+improve functional outcome after traumatic brain injury, Neurosurgery 61
+(2007) 596–602. discussion-3.
+[32] M. Modo, R.P. Stroemer, E. Tang, T. Veizovic, P. Sowniski, H. Hodges,
+Neurological sequelae and long-term behavioural assessment of rats with
+transient middle cerebral artery occlusion, J. Neurosci. Methods 104 (2000)
+99–109.
+[33] M. Stille, E.J. Smith, W.R. Crum, M. Modo, 3D reconstruction of 2D fluorescence
+histology images and registration with in vivo MR images: application in a
+rodent stroke model, J. Neurosci. Methods 219 (2013) 27–40.
+[34] E. Bible, O. Qutachi, D.Y. Chau, M.R. Alexander, K.M. Shakesheff, M. Modo, Neovascularization of the stroke cavity by implantation of human neural stem
+cells on VEGF-releasing PLGA microparticles, Biomaterials 33 (2012) 7435–
+7446.
+[35] G. Paxinos, C. Watson, The Rat Brain in Stereotaxic Coordinates, sixth ed.,
+Elsevier, Amsterdam, NL, 2007.
+[36] L. Rangel-Castilla, S. Gopinath, C.S. Robertson, Management of intracranial
+hypertension, Neurol. Clin. 26 (2008) 521–541.
+[37] S.F. Badylak, The extracellular matrix as a biologic scaffold material,
+Biomaterials 28 (2007) 3587–3593.
+[38] K.J. Aitken, D.J. Bagli, The bladder extracellular matrix. Part I: architecture,
+development and disease, Nat. Rev. Urology 6 (2009) 596–611.
+[39] R. Londono, S.F. Badylak, Biologic scaffolds for regenerative medicine:
+mechanisms of in vivo remodeling, Ann. Biomed. Eng. 43 (2015) 577–592.
+[40] T.W. Gilbert, T.L. Sellaro, S.F. Badylak, Decellularization of tissues and organs,
+Biomaterials 27 (2006) 3675–3683.
+[41] Z. Taylor, K. Miller, Reassessment of brain elasticity for analysis of
+biomechanisms of hydrocephalus, J. Biomech. 37 (2004) 1263–1269.
+[42] A. Gefen, S.S. Margulies, Are in vivo and in situ brain tissues mechanically
+similar?, J Biomech. 37 (2004) 1339–1352.
+[43] E.R. Aurand, J. Wagner, C. Lanning, K.B. Bjugstad, Building biocompatible
+hydrogels for tissue engineering of the brain and spinal cord, J. Funct.
+Biomater. 3 (2012) 839–863.
+[44] K.I. Park, Y.D. Teng, E.Y. Snyder, The injured brain interacts reciprocally with
+neural stem cells supported by scaffolds to reconstitute lost tissue, Nat.
+Biotechnol. 20 (2002) 1111–1117.
+[45] S.F. Badylak, J.E. Valentin, A.K. Ravindra, G.P. McCabe, A.M. Stewart-Akers,
+Macrophage phenotype as a determinant of biologic scaffold remodeling,
+Tissue Eng. Part A 14 (2008) 1835–1842.
+[46] B.N. Brown, R. Londono, S. Tottey, L. Zhang, K.A. Kukla, M.T. Wolf, et al.,
+Macrophage phenotype as a predictor of constructive remodeling following
+the implantation of biologically derived surgical mesh materials, Acta
+Biomater. 8 (2012) 978–987.
+[47] B.N. Brown, J.E. Valentin, A.M. Stewart-Akers, G.P. McCabe, S.F. Badylak,
+Macrophage phenotype and remodeling outcomes in response to biologic
+
+130
+
+[48]
+
+[49]
+
+[50]
+
+[51]
+
+[52]
+
+[53]
+
+[54]
+
+A.R. Massensini et al. / Acta Biomaterialia 27 (2015) 116–130
+scaffolds with and without a cellular component, Biomaterials 30 (2009)
+1482–1491.
+V. Agrawal, B.N. Brown, A.J. Beattie, T.W. Gilbert, S.F. Badylak, Evidence of
+innervation following extracellular matrix scaffold-mediated remodelling of
+muscular tissues, J. Tissue Eng. Regen. Med. 3 (2009) 590–600.
+V. Agrawal, S.A. Johnson, J. Reing, L. Zhang, S. Tottey, G. Wang, et al.,
+Epimorphic regeneration approach to tissue replacement in adult mammals,
+Proc. Natl. Acad. Sci. U.S.A. 107 (2010) 3351–3355.
+V. Agrawal, S. Tottey, S.A. Johnson, J.M. Freund, B.F. Siu, S.F. Badylak,
+Recruitment of progenitor cells by an extracellular matrix cryptic peptide in
+a mouse model of digit amputation, Tissue Eng. Part A 17 (2011) 2435–2443.
+S. Tan, J.Y. Fang, Z. Yang, M.E. Nimni, B. Han, The synergetic effect of hydrogel
+stiffness and growth factor on osteogenic differentiation, Biomaterials 35
+(2014) 5294–5306.
+A.E. Wilkinson, L.J. Kobelt, N.D. Leipzig, Immobilized ECM molecules and the
+effects of concentration and surface type on the control of NSC differentiation,
+J. Biomed. Mater. Res., Part A 102 (2013) 3419–3428.
+N.H. Qureshi, K.S. Bankiewicz, D.N. Louis, F.H. Hochberg, E.A. Chiocca, G.R.
+Harsh, Multicolumn infusion of gene therapy cells into human brain tumors:
+technical report, Neurosurgery 46 (2000) 663–668. discussion 8–9.
+D. Yin, R.M. Richardson, M.S. Fiandaca, J. Bringas, J. Forsayeth, M.S. Berger,
+et al., Cannula placement for effective convection-enhanced delivery in the
+nonhuman primate thalamus and brainstem: implications for clinical delivery
+of therapeutics, J. Neurosurg. 113 (2010) 240–248.
+
+[55] D. Yin, J. Forsayeth, K.S. Bankiewicz, Optimized cannula design and placement
+for convection-enhanced delivery in rat striatum, J. Neurosci. Methods 187
+(2010) 46–51.
+[56] K. Agashi, D.Y. Chau, K.M. Shakesheff, The effect of delivery via narrow-bore
+needles on mesenchymal cells, Regen. Med. 4 (2009) 49–64.
+[57] D. Kondziolka, G.T. Gobbel, W. Fellows-Mayle, Y.F. Chang, M. Uram, Injection
+parameters affect cell viability and implant volumes in automated cell delivery
+for the brain, Cell Transplant. 20 (2011) 1901–1906.
+[58] A.I. Brooks, M.W. Halterman, C.A. Chadwick, B.L. Davidson, M. Haak-Frendscho,
+C. Radel, et al., Reproducible and efficient murine CNS gene delivery using a
+microprocessor-controlled injector, J. Neurosci. Methods 80 (1998) 137–147.
+[59] G.T. Gobbel, D. Kondziolka, W. Fellows-Mayle, M. Uram, Manual vs automated
+delivery of cells for transplantation: accuracy, reproducibility, and impact on
+viability, Neurosurgery 67 (2010) 1662–1668. discussion 8.
+[60] K.M. Chan, R.H. Li, J.W. Chapman, E.M. Trac, J.B. Kobler, S.M. Zeitels, et al.,
+Functionalizable hydrogel microparticles of tunable size and stiffness for softtissue filler applications, Acta Biomater. 10 (2014) 2563–2573.
+[61] R.S. Stowers, S.C. Allen, L.J. Suggs, Dynamic phototuning of 3D hydrogel
+stiffness, Proc Natl Acad Sci U S A 112 (2015) 1953–1958.
+[62] K. Ziv, H. Nuhn, Y. Ben-Haim, L.S. Sasportas, P.J. Kempen, T.P. Niedringhaus,
+et al., A tunable silk-alginate hydrogel scaffold for stem cell culture and
+transplantation, Biomaterials 35 (2014) 3736–3743.
+
+

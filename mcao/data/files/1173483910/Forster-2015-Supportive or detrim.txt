@@ -1,0 +1,1328 @@
+Purinergic Signalling (2015) 11:441–454
+DOI 10.1007/s11302-015-9471-6
+
+REVIEW ARTICLE
+
+Supportive or detrimental roles of P2Y receptors in brain
+pathology?—The two faces of P2Y receptors in stroke
+and neurodegeneration detected in neural cell and in animal
+model studies
+Daniel Förster 1 & Georg Reiser 1
+
+Received: 17 June 2015 / Accepted: 14 September 2015 / Published online: 25 September 2015
+# Springer Science+Business Media Dordrecht 2015
+
+Abstract This review describing the role of P2Y receptors in
+neuropathological conditions focuses on obvious differences
+between results demonstrating either a role in neuroprotection
+or in neurodegeneration, depending on in vitro and in vivo
+models. Such critical juxtaposition puts special emphasis on
+discussions of beneficial and detrimental effects of P2Y receptor agonists and antagonists in these models. The mechanisms
+reported to underlie the protection in vitro include increased
+expression of oxidoreductase genes, like carbonyl reductase
+and thioredoxin reductase; increased expression of inhibitor of
+apoptosis protein-2; extracellular signal-regulated kinase- and
+Akt-mediated antiapoptotic signaling; increased expression of
+Bcl-2 proteins, neurotrophins, neuropeptides, and growth factors; decreased Bax expression; non-amyloidogenic APP
+shedding; and increased neurite outgrowth in neuronal cells.
+Animal studies investigating the influence of P2Y receptors in
+middle cerebral artery occlusion (MCAO) models for stroke
+prove beneficial effects of P2Y receptor antagonists. In
+MCAO mice and rats, the application of broad-range P2 receptor antagonists decreased the infarct volume and improved
+neurological outcome. Moreover, antagonists of the P2Y1 receptor, one of the most abundant P2Y receptor subtypes in
+brain tissue, decreased neuronal loss and improved spatial
+memory in rats after traumatic brain injury (TBI). Currently
+
+* Georg Reiser
+georg.reiser@med.ovgu.de
+1
+
+Otto-von-Guericke-Universität Magdeburg, Medizinische Fakultät,
+Institut für Neurobiochemie (Institut für Inflammation und
+Neurodegeneration), Leipziger Straße 44,
+39120 Magdeburg, Germany
+
+available data show a discrepancy between in vitro and in vivo
+models concerning the benefits of P2Y receptor activation in
+pathological conditions. In vitro models demonstrate protection by P2Y receptor agonists, but in vivo P2Y receptor activation deteriorates the outcome after MCAO and controlled
+cortical impact brain injury, a TBI model. To broaden the
+scope of the review, we additionally discuss publications that
+demonstrate detrimental effects of P2Y receptor agonists
+in vitro and publications showing protective effects of agonists in vivo. All these studies help to better understand the
+significant role of P2Y receptors especially in stroke models
+and to develop pharmacological strategies for the treatment of
+stroke.
+Keywords Apoptosis . Astrocytes . Brain . Neurons .
+Neuroinflammation . Neuroprotection . MCAO . P2Y
+receptor
+
+Abbreviations
+2MeSADP 2-Methyl-thio-ADP
+AD
+Alzheimer’s disease
+ATPγS
+Adenosine 5′(γ-thio)triphosphate
+APP
+Amyloid precursor protein
+BBB
+Blood-brain barrier
+ERK
+Extracellular-signal-regulated kinase
+GFAP
+Glial fibrillary acidic protein
+HO-1
+Heme oxygenase-1
+MCAO
+Middle cerebral artery occlusion
+MCAT
+Middle cerebral artery transection
+MRI
+Magnetic resonance imaging
+NGF
+Nerve growth factor
+OGD
+Oxygen glucose deprivation
+
+442
+
+PPADS
+Nrf2
+PD
+PTP
+qEEG
+ROS
+SOD
+TBI
+TNFα
+TTC
+
+Purinergic Signalling (2015) 11:441–454
+
+Pyridoxalphosphate-6-azophenyl-2′,4′-disulfonic acid
+Nuclear factor (erythroid-derived 2)-like 2
+Parkinson’s disease
+Permeability transition pore
+Quantitative electroencephalography
+Reactive oxygen species
+Superoxidedismutase
+Traumatic brain injury
+Tumor necrosis factor α
+2,3,5-Triphenyltetrazolium chloride
+
+Introduction
+ATP was discovered many decades ago as the universal cellular energy reservoir for metabolism [1]. About in 1972, ATP
+was postulated to be a neurotransmitter in the so-called nonadrenergic-non-cholinergic neurotransmission [2]. With rapid
+development of molecular biological methods, purinergic receptors were cloned in the 1990s and subsequently characterized [3]. As of today, ATP is generally accepted as a transmitter in its own right and a cotransmitter. There are four P1
+receptors, seven P2X receptors, and eight P2Y receptors
+known in the human genome. P2X receptors are ion channels,
+which support fast synaptic transmission [4]. P1 receptors are
+G protein-coupled receptors activated by adenosine [5]. The
+P2Y receptors, on which this review concentrates, are G
+protein-coupled receptors involved mainly in long-term effects. P2Y1, P2Y2, P2Y4, and P2Y6 receptors activate phospholipase C and increase the cytosolic Ca2+ concentration.
+The P2Y11 receptor is coupled to Gs and Gq and raises the
+cAMP level and the Ca2+ concentration. P2Y12, P2Y13, and
+P2Y14 receptors inhibit the adenylyl cyclase and decrease the
+cAMP concentration. Prominent natural agonists of the P2Y1
+receptors are ADP and ATP. The human P2Y2 receptor is
+equally activated by ATP and UTP. The P2Y4 receptor has
+UTP as agonist, and the P2Y6 receptor prefers UDP over
+UTP. The human P2Y11 receptor is mainly activated by ATP.
+The human P2Y12 and P2Y13 receptors are both activated by
+ADP. Having ADP-glucose and ADP-galactose as natural agonist makes the human P2Y14 receptor outstanding (for reviews, see [6–9]. Chemical modifications to nucleotides were
+applied to increase their resistance to hydrolysis. A prominent
+example is adenosine 5′(γ-thio)triphosphate (ATPγS).
+Furthermore, subtype-selectivity was increased, like in
+2-methyl-thio-ADP (2MeSADP), which is a highly potent
+and selective P2Y1 receptor agonist. Intensive molecular analysis of the binding sites of the P2Y receptors led to the development of a set of non-nucleotide-based subtype-selective
+agonists and antagonists, which were used to analyze subtypespecific effects [10, 11]. The agonist preference of P2Y receptor subtypes may vary between species, as differences
+
+between humans, mice, and rats have been reported. Comparative analysis of the amino acid sequences of the P2Y receptor family revealed two phylogenetic subgroups. The first
+group consists of P2Y1, P2Y2, P2Y4, P2Y6, and P2Y11 receptors, and the second group consists of P2Y12, P2Y13, and
+P2Y14 receptors [12].
+Degradation of the nucleotide agonists of P2Y receptors
+after release occurs by ectonucleotidases, a group of enzymes
+consisting of several families widely distributed in human
+tissues. Ectonucleotidases, which regulate the activity of nucleotides by dephosphorylation [13], shape the purinergic signal. In human tissue, all eight subtypes of P2Y receptors are
+found with various functions. Pharmacologically important
+are P2Y1 and P2Y12 receptors, which are involved in platelet
+aggregation, and P2Y4 receptors, which mediate ion fluxes.
+Drugs activating the P2Y12 receptor are used for antithrombotic therapy and P2Y4 receptor agonists are used to
+treat the dry-eye disease [14, 15]. So far, only P2Y12 and
+P2Y4 receptor agonists are in clinical use. Besides that, other
+P2Y receptors are regarded as potential drug targets [16].
+In the human brain, P2Y1, P2Y6, P2Y11, P2Y12, and P2Y13
+receptors were found on the mRNA level [17]. Moreover, the
+immunohistochemical analysis showed a localization of the
+P2Y1 receptor in neuronal structures in the cerebral cortex,
+cerebellar cortex, caudate nucleus, putamen, globus pallidus,
+subthalamic nucleus, red nucleus, hippocampus, and midbrain
+[18]. Besides neuronal localization, also in astrocytes and oligodendrocytes of the white matter, the presence of P2Y1 receptors was shown by immunohistochemistry in rats [19].
+Additionally, upregulation of P2Y2 receptor mRNA expression in rat primary cortical neurons after stimulation with IL1β was demonstrated [20]. There is a wealth of data
+concerning the pharmacological relevance of P2Y receptors
+in stroke, or oxidative stress in neurodegenerative disease.
+The aim of this review is to evaluate effects mediated by
+P2Y receptors in vitro and in vivo, in order to understand the
+potential role of P2Y receptors as targets for neuroprotection.
+We analyze in detail the question of why conclusions derived
+from in vitro models are not fully consistent with conclusions
+obtained from in vivo models. We critically consider the possibilities for future clinical developments of P2Y receptortargeting drugs and treatment regimes.
+
+Apoptosis, oxidative stress, and microglia as targets
+for neuroprotection
+Neuroprotection includes pharmaceutical or physical procedures to avoid neuronal cell loss in neurodegenerative diseases, stroke, or traumatic brain injury (TBI). Neuroprotection
+further includes the protection of glial cells, which maintain
+and support the functionality and viability of neurons.
+
+Purinergic Signalling (2015) 11:441–454
+
+Cells may die by apoptosis or necrosis. Necrosis in brain
+occurs after traumatic injury or in the core of stroke tissue,
+where occlusions lead to stark limitation in supply of oxygen
+and glucose. Breakdown of ion gradients causes osmotic
+swelling and finally permeabilization of cells and subsequent
+inflammation [21–23]. Apoptosis leads to controlled degradation of cells and avoids further damage in the surrounding area
+by inflammation. Apoptosis is a hallmark of neurodegenerative diseases and also takes place in the penumbra surrounding
+the ischemic core in stroke.
+Many factors shift the cell fate between apoptosis or survival. A widespread approach for neuroprotection by pharmacological intervention prevents apoptosis. There are two pathways of apoptosis: the extrinsic and the intrinsic pathways
+with possible cross talk. The extrinsic pathway is mediated
+by cytokine receptors activated by tumor necrosis factor α
+(TNFα) leading to activation of caspase 8. The intrinsic pathway involves the permeabilization of the outer mitochondrial
+membrane and the release of pro-apoptotic factors, like cytochrome C, smac/Diablo, HtrA2, AIF, and Endo G, leading to
+the formation of the apoptosome and activation of caspase 9.
+The initiator caspases 8 and 9 activate the effector caspase 3,
+which cleaves its target proteins leading to degradation of the
+cytoskeleton and fragmentation of DNA [24–26]. Finally, the
+cell breaks apart into vesicles which are phagocytosed.
+Several factors lead to mitochondria permeabilization. The
+formation of the mitochondrial permeability transition pore
+(PTP) triggered by Ca2+ overload or reactive oxygen is well
+documented [27–30]. This might happen by excitotoxicity
+including excessive glutamate release from depolarized neurons or dead cells, which causes permanent activation of glutamate receptors and persistent increase in the cytosolic Ca2+
+concentration [31–33]. Pro-apoptotic proteins like Bak and
+Bax promote the permeabilization of the outer mitochondrial
+membrane and release pro-apoptotic factors from the mitochondrial intermembrane space. Anti-apoptotic proteins like
+Bcl-2, Bcl-w, and Bcl-XL inhibit the pro-apoptotic proteins
+and support survival [25].
+Oxidative stress, the overproduction of reactive oxygen
+species (ROS), is associated with neurodegenerative diseases
+and ischemic episodes. Mitochondria are regarded as a major
+source of ROS, especially complex I and complex III. ROS
+are side-products of redox reactions [34, 35].
+Especially in respiratory chain complexes of mitochondria, but also in oxidoreductases, electrons are partially
+transferred to oxygen instead of the regular substrate,
+leading to the formation of superoxide (O2·-). Superoxide
+dismutases (SODs) convert superoxide to hydrogen peroxide. Finally, hydrogen peroxide in turn is degraded to
+water and oxygen by glutathione peroxidase or catalases.
+In the presence of iron ions, hydrogen peroxide can be
+converted to highly toxic hydroxyl radicals (·OH) via
+the Fenton reaction [36].
+
+443
+
+Excessive ROS production leads to damage of proteins and
+nucleic acids. Oxidative stress is regarded as a factor contributing to inducement of the PTP and apoptosis [35, 37, 38].
+Cells have antioxidant tools to degrade ROS, including SOD,
+catalase, glutathione peroxidase, and thioredoxins [39–42]. In
+many cases, it is still under debate whether ROS are the cause
+or consequence of neurodegenerative diseases.
+A major pathological mechanism in neurodegenerative diseases that has gained much attention is the immune activation.
+The brain features a phenomenon called Bimmune privilege.^
+Here, specific immune cells called microglia are responsible
+for scavenging plaques and infectious agents. In contrast to
+other tissues, the blood-brain barrier (BBB) largely avoids the
+infiltration of T cells from capillaries. Moreover, astrocytes
+and neurons are able to suppress T cell activation and even
+induce apoptosis in T cells [43]. The reason for this Bimmune
+privilege^ in the brain is attributed to its sensitivity and restricted regenerative capacity compared to other tissues. However, the adaptive immune response plays a role in stroke or
+TBI, when BBB might become permeable for T cells [44].
+Neurons and astrocytes may upregulate toll-like receptors
+and release pro-inflammatory cytokines [45]. Consequently,
+there is a complex interplay of neurons, astrocytes, endothelial
+cells, microglia, and T cells.
+In the past years, an important role of P2Y receptors in
+microglia emerged. The activation of P2Y12 and P2Y1 receptors of resting microglia causes their migration along a concentration gradient of ATP/ADP towards the injury. Phagocytosis of injured cells is induced by P2Y6 receptors activated by
+UTP/UDP [46–48]. Considering this model, P2Y receptors
+became a pharmacological target for neuroinflammation.
+Reactive astrogliosis is important for the outcome after
+pathological conditions in the brain. ATP is one of many factors that induce reactive astrogliosis in the injured CNS. This
+involves proliferation, remodeling, and migration of astrocytes and finally the formation of a glial scar [49]. Theoretically, this will protect and support CNS tissue by formation of
+a barrier [50]. Otherwise possibly repair processes like axonal
+outgrowth are inhibited [51]. In neurodegenerative diseases,
+such as Alzheimer’ disease (AD), a chronic inflammatory
+response with persistent reactive astrogliosis might contribute
+to damage [52].
+Acute brain inflammation is the result of physical trauma,
+bacterial meningitis, or primary intracerebral hemorrhage. In
+this case, microglia and blood-derived immune cells respond
+by eliminating the invading pathogens, clearing foreign bodies, and then tissue repair and regeneration are initiated [53,
+54]. Chronic inflammation is considered as permanent activation of the immune response in the CNS responding to a range
+of pathological processes involving multiple cell types. Intensive research focuses on the aspects of chronic immune responses in AD, Parkinson’s disease (PD), and stroke in order
+to support survival and to avoid detrimental effects [55].
+
+444
+
+Taken together, the neuroprotective intervention includes
+all procedures which target pathways to avoid apoptosis,
+dampen the excessive Ca2+ entry, limit the inflammatory damage, and decrease oxidative stress, finally conserving the neuronal networks and their functionality as much as possible.
+
+Purinergic Signalling (2015) 11:441–454
+
+P2Y receptors, in primary neural cells and cell lines, mediate
+several beneficial effects preventing apoptosis and consequences of oxidative stress. Primary rat astrocytes, which
+were preincubated with ATP or 2MeSADP for at least 12 h,
+were protected against hydrogen peroxide-induced cytotoxicity. The protection was mediated via P2Y1 receptors as demonstrated by application of a specific P2Y1 receptor antagonist. Furthermore, functional protein biosynthesis, intracellular Ca2+ rise, and phospholipase C activity were necessary for
+this protective effect. Upregulation of oxidoreductase genes
+like carbonyl reductase, schlafen 4 (SHL4), an enzyme similar
+to superoxide dismutase 2, and thioredoxin reductase were
+found to be mediated by the P2Y1 receptor and responsible
+for the increased tolerance to hydrogen peroxide [56].
+Figure 1 schematically summarizes the protective pathways
+induced by nucleotides activating P2Y receptors in astrocytes
+
+and 1321N1 astrocytoma cells. In this scheme, pathway
+➀ presents the induction of antioxidant enzymes by
+P2Y1 receptors.
+Oxygen glucose deprivation (OGD) is a frequently used
+model to simulate stroke-like conditions in vitro and to analyze its outcome. Exposure to a short period of sublethal OGD
+was shown in rat astrocytes to increase the tolerance to lethal
+OGD. Immunohistochemical analysis revealed a transiently
+increased expression of P2Y1 and P2Y2 receptors after sublethal OGD. Blockade of ATP release by heptanol, a
+hemichannel antagonist, abolished the protective effect of
+the sublethal OGD. The pathway which provides ischemic
+tolerance by sublethal OGD involved the phosphorylation of
+extracellular-signal-regulated kinase (ERK). The protective
+effect was not observed in the presence of suramin, a broadrange P2 receptor antagonist, and MRS2179 (2′-Deoxy-N6methyladenosine 3′,5′-bisphosphate tetrasodium salt), an adenine nucleotide bisphospate-based P2Y1 receptor-specific antagonist [57].
+Figure 1, pathway ➁, illustrates that the activation of P2Y1
+receptors in primary astrocytes or the astrocyte-derived astrocytoma cell line 1321N1 favors survival by activation of ERK.
+The P2Y2 receptor was shown to inhibit trauma-induced
+apoptosis in 1321N1 astrocytoma cells. Characteristic hallmarks of cell death including DNA fragmentation and increased Bax/Bcl-2 gene expression were investigated after
+
+Fig. 1 Protective pathways induced by nucleotides activating P2Y
+receptors (P2YR) in astrocytes and 1321N1 astrocytoma cells. The
+P2Y1 receptor increases the expression of oxidoreductases to block
+oxidative stress ➀. Antiapoptotic proteins are upregulated via P2Y1,2
+receptors to block apoptosis ➁,➂. Activation of P2Y6 receptor and
+P2Y12 receptor leads to phosphorylation of ERK and inhibits the
+apoptotic cell death ➃,➄. P2Y receptors increase the cytosolic Ca2+
+
+concentration. Ca2+ induces activity of the tricarboxylic acid cycle
+which leads to increased amounts of ATP ➅. Oxidative stress is
+reduced by ATP which inhibits Fenton reaction and maintains
+antioxidant defense ➆. The respective references giving the background
+information for this scheme are given in the text. Here and in the other
+figures, hammerhead symbols/arrows signify stimulation/inhibition of a
+process, or activity or expression level, as explained in details
+
+Protective effects of P2Y receptors in vitro
+in astrocytes
+
+Purinergic Signalling (2015) 11:441–454
+
+traumatic injury. The trauma was caused in a model of transient deformation of a flexible membrane. Cells grown on this
+flexible membrane were stretched by applications of controlled gas pressure pulses in a standardized manner and thus
+underwent traumatic damage [58]. 1321N1 Astrocytoma cells
+lack endogenous P2 receptor and serve as a model for P2
+receptor-related signaling after transfection with specific P2
+receptors. In contrast to the wild-type cells, the P2Y 2
+receptor-transfected 1321N1 astrocytoma cells did not show
+DNA fragmentation or increased Bax/Bcl-2 gene expression
+after stretch injury. Already the basal nucleotide release was
+able to mediate this protective effect via P2Y2 receptors. Activation of ERK 1/2 and Akt in P2Y2 receptor-transfected
+1321N1 astrocytoma was shown after stretch injury by western blot analysis [59]. It was demonstrated earlier that the
+application of UTP to P2Y2 receptor-transfected 1321N1 astrocytoma cells activated pro-survival pathways, like upregulation of Bcl-2, Bcl-xl, neurotrophins, neuropeptides,
+growth factors, and the downregulation of Bax [60]. In
+this context, Fig. 1, pathway ➂, summarizes how we postulate that P2Y2 receptors can activate ERK, increase the
+amount of antiapoptotic proteins, and thereby inhibit
+apoptosis.
+A model for inducing the extrinsic pathway of apoptosis is
+based on the application of TNFα. The cytokine TNFα is
+secreted under proinflammatory conditions and may increase
+cell death in neurodegenerative diseases. The P2Y6 receptor
+subtype was shown to inhibit TNFα-induced apoptosis in
+1321N1 cells via PKC and phosphorylation of ERK, but without involvement of Akt [61]. We visualize in Fig. 1, pathway
+➃, the P2Y6 receptors activating the ERK and supporting
+survival via ERK.
+Another role for the P2Y6 receptor was demonstrated in
+microglia, astrocytes, and cortical slices from rats. Application
+of UDP increased the expression of monocyte chemotactic
+protein 1 and macrophage inflammatory protein-1α. The transcription factor nuclear factor of activated T cells was shown
+to be responsible for the P2Y6 receptor-induced change of the
+chemokine expression pattern [62]. Protective effects of
+monocyte chemotactic protein 1 in mixed cortical cultures
+from mice against NMDA-induced cytotoxicity have been
+reported [63]. In conclusion, the P2Y6 receptor provides a
+therapeutic target for protection by modulation of the chemokine expression.
+A protective role of the P2Y12 receptor was shown in
+1321N1 astrocytoma cells where it inhibited the TNFαinduced apoptosis by phosphorylation of ERK1/2 [64]. Pathway ➄ in Fig. 1 demonstrates the anti-apoptotic action of the
+P2Y12 receptor via ERK1/2.
+However, there are also reports of detrimental P2Y
+receptor-mediated effects in vitro. In 1321N1 astrocytoma
+cells expressing the P2Y 1 receptor, incubation with
+2MeSADP caused increased activity of caspase 3. The
+
+445
+
+increase of this apoptosis marker was mediated by the stressactivated protein kinase family [65].
+Besides the nucleotide-induced P2Y receptor-related protective effects, nucleotides might also act positively as chemical antioxidants. This process involves the chelation of iron
+ions by nucleotides, thereby inhibiting the Fenton reaction
+which produces highly toxic hydroxyl radicals from hydrogen
+peroxide. As shown in cell-free systems, nucleotide analogues
+concentration-dependently inhibit the Fenton reaction. Primary cortical neurons from rats were protected by nucleotide
+analogues from iron-induced oxidative stress [66]. The inhibition of the Fenton reaction is a pharmacological target to
+reduce oxidative stress. Generally, all P2Y receptors that raise
+intracellular Ca2+ induce the tricarboxylic acid cycle and increase the ATP production. An increased amount of ATP generally supports the maintenance of the ion homeostasis and the
+antioxidant defense, and inhibits the Fenton reaction. In Fig. 1,
+pathway ➅ shows how increased Ca2+ elevates the ATP level
+to inhibit the Fenton reaction. The paradigm of the Fenton
+reaction as a target for neuroprotection by pharmacologically
+designed nucleotides is given by pathway ➆ in Fig. 1.
+
+Protective effects of P2Y receptors in vitro in neurons
+Little is known about the possible protective effects of P2Y
+receptor activation in neurons. An indirect protection of neurons by astrocytes via purinergic signaling was described.
+Nucleotide-conditioned astrocytes may protect neurons
+against hydrogen peroxide via interleukin-6 release. In this
+study, the P2Y1 receptor-specific agonist 2MeSADP was
+used. The pathway of interleukin-6-mediated protection remains unsolved, but induction of antioxidative proteins has
+been suggested [67]. Figure 2 schematically summarizes the
+mechanisms by which P2Y receptor signaling in neurons
+counteracts oxidative stress. In this scheme, pathway ➀ shows
+the indirect protection of neurons via astrocytic P2Y 1
+receptors.
+A direct protective function of the P2Y2 receptor was demonstrated in mouse primary cortical neurons. Under inflammatory conditions, the P2Y2 receptor is upregulated by interleukin-1β. Microscopic imaging demonstrated that activation
+of the P2Y2 receptor in mouse primary cortical neurons by
+UTP increased neurite outgrowth. This effect was regulated
+by phosphorylation of the actin-depolymerizing factor cofilin.
+Neurite extension is regarded as a protective pathway, which
+maintains neuronal networks or even regenerates damaged
+tissue after stroke or in neurodegenerative diseases, like AD,
+PD, and multiple sclerosis [68]. Induction of neurite outgrowth by the P2Y2 receptor in neurons is illustrated in
+Fig. 2, pathway ➁.
+The balance between cell survival and cell death is critically regulated by trophic and apoptotic factors. Obstruction of
+
+446
+
+Fig. 2 P2Y receptor (P2YR) signaling in neurons counteracts oxidative
+stress and Alzheimer’s pathology. Astrocytes release interleukin-6 after
+P2Y1 receptor activation. Interleukin-6 protects neurons from oxidative
+stress by an unknown pathway involving the Il-6 receptor ➀. Activation
+of P2Y 2 receptors induces protective neurite outgrowth ➁. P2Y2
+receptors inhibit apoptosis via ERK ➂. P2Y 2 receptors induce
+ADAM10/17 activity to cleave APP to the soluble non amyloidogenic
+sAPP ➃. The P2Y13 receptor protects against oxidative stress by
+upregulation of HO-1 via Nrf-2 ➄. Activation of the P2Y13 receptor
+leads to activation of ERK and blocks apoptosis ➅
+
+brain vessels by blood clots causes OGD and depletion of
+trophic factors, which induces apoptosis. Cultured cells are
+starved of serum to mimic the condition of apoptosis induced
+by trophic factor deprivation. A role in apoptosis was suggested for the P2Y2 receptor in PC12 cells and dorsal root
+ganglion neurons. A period of 12 h of serum starvation in
+PC12 cells leads to DNA fragmentation and caspase 3 activation. These events are features of apoptosis, which were
+shown to be inhibited by treatment with both NGF (nerve
+growth factor) and the P2Y receptor agonist ATPγS.
+Silencing-RNA experiments to knock down the P2Y2 receptor
+revealed that the P2Y2 receptor subtype is responsible for the
+ATPγS-mediated protection. Application of inhibitors of
+ERK, U0126, and Akt, LY294002 showed that inhibition of
+apoptosis by ATPγS involved ERK and Akt, but not TrkA
+which is part of the NGF-mediated antiapoptotic signaling. In
+dorsal root ganglion neurons from wild-type but not from
+P2Y2−/− knockout mice, the P2Y receptor agonist ATPγS
+inhibited serum starvation-induced apoptosis [69]. Pathway
+
+Purinergic Signalling (2015) 11:441–454
+
+➂ in Fig. 2 represents the antiapoptotic action of P2Y2 receptors in neurons by activation of ERK and Akt.
+Ischemic conditions can be mimicked chemically by application of an inhibitor of complex IV, KCN, which leads to cell
+death. Such experiments were carried out with rat primary
+cortical neurons and showed that preincubation with ATP for
+3 to 8 h before the 3-h KCN treatment significantly increased
+the viability of the cells, when measured at 12 h after the
+insult. The application of the P2 receptor antagonist suramin
+blocked the protection from KCN treatment. Furthermore, the
+protection by ATP was absent in neurons from a mutant
+mouse model, which did not express the transcription cofactor
+LMO4. The incubation with ATP upregulated the expression
+of the inhibitor of apoptosis protein 2. Upregulation of LMO4
+was mediated by CREB and ERK [70].
+AD is a widespread neurodegenerative disease featuring increased amyloid β release and formation of senile
+plaques leading to gradual dementia. A possible role for
+P2Y2 receptors in the treatment of AD was first suggested, when in 1321N1 astrocytoma cells the activation
+of P2Y2 receptors was shown to increase the release of
+the non-toxic soluble amyloid precursor protein (sAPPα)
+[71]. Generally, the non-amyloidogenic cleavage of APP
+to the sAPPα is regarded as a potential mechanism to
+reduce the risk of AD. The idea was pursued, when rat
+primary cortical neurons were treated with interleukin-1β,
+a proinflammatory cytokine that caused an increase in
+P2Y2 receptor mRNA expression. Treatment of rat primary cortical neurons with UTP led to increased sAPPα
+secretion by the α-secretase ADAM10/17, which was
+not dependent on Gq/11 activity [20]. In a later work,
+which was also carried out in N2A cells, α-secretase activity was shown to be increased by the P2Y2 receptor
+[72]. The TgCRND8 mouse model of AD, which was
+used in [73], studies animals containing Swedish and Indiana mutations in the APP gene leading to AD pathology. The work showed increased expression of the P2Y2
+receptor mRNA in the brain of TgCRND8 animals within
+10 and 25 weeks of age compared to littermate controls.
+TgCRND8 mice with heterozygous or homozygous deletion of the P2Y2 receptor had a survival time after birth of
+less than 4 and 12 weeks, respectively. Additionally, heterozygous deletion of the P2Y2 receptor in TgCRND8
+mice increased the amyloid β plaque load and decreased
+the expression of the microglial marker CD11b. This
+study strongly indicates a neuroprotective role of the
+P2Y2 receptor in the removal of amyloid β plaques via
+microglial cells [73].
+Besides the avoidance of amyloid β deposit formation,
+the clearance of amyloid β deposits by microglia could
+significantly contribute to protection in AD. Treatment of
+primary mouse microglia with oligomeric and fibrillar
+amyloid β solutions caused ATP release and increased
+
+Purinergic Signalling (2015) 11:441–454
+
+P2Y2 receptor expression. Activation of the P2Y2 receptor
+with ATP or UTP increased amyloid β uptake of
+microglial cells from wild-type mice but not from P2Y2
+receptor−/− mice. UTP also enhanced the amyloid β degradation in wild-type mice [74]. The possible involvement
+of the P2Y2 receptor in preventing the AD pathology is
+included in Fig. 2 as pathway ➃.
+A protective role was proposed for the P2Y13 receptor in cerebellar granule neurons. Incubation with
+2MeSADP, an ADP analogue and agonist of P2Y receptors, induced the expression of the cytoprotective protein heme oxygenase-1 (HO-1). The transcription factor
+nuclear factor (erythroid-derived 2)-like 2 (Nrf2) was
+critical for the activation of HO-1. Preincubation with
+2MeSADP attenuated the hydrogen peroxide-induced
+cytotoxicity, but protection did not occur in the presence
+of MRS2211 (2-[(2-chloro-5-nitrophenyl)azo]-5hydroxy-6-methyl-3-[(phosphonooxy)methyl]-4
+pyridinecarboxaldehyde disodium salt), which is a specific non-nucleotide P2Y13 receptor antagonist. These
+results suggest that the P2Y 13 receptor is useful to
+counteract oxidative stress in neurons [75]. Antioxidant
+signaling in neurons by P2Y13 receptors via Nrf2 and
+HO-1 is presented in Fig. 2, pathway ➄. Another protective action of the P2Y13 receptor in neurons was
+shown in cerebellar granule neurons from rats. Cells
+were treated with 2MeSADP for 2 h before addition
+of excitotoxic glutamate (100 μM). Significant protection was observed by live/dead staining and shown to
+be mediated by phosphorylation of Erk1/2. This
+antiapoptotic action of the P2Y13 receptor in neurons
+is depicted in Fig. 2 in pathway ➅ [76].
+In mixed neuronal/glial cultures, it was shown that
+lipopolysaccharide- or lipoteichoic acid-induced neuronal loss
+was prevented by MRS2578 (1-(3-isothiocyanatophenyl)3-[4-[(3 isothiocyanatophenyl)carbamothioylamino]
+butyl]thiourea), a P2Y6 receptor antagonist or by apyrase,
+which degrades natural P2Y receptor agonists. Treatment with
+the P2Y6 receptor agonist induced phagocytosis of neurons.
+The viability of the cultures was assessed by propidium iodide
+staining and, moreover, morphological changes were determined [77]. In this study, protection of neurons by P2Y receptor antagonism has been found. Protection occurs by inhibition of microglial P2Y6 receptor-mediated phagocytosis of
+neurons, but not by activation of neuronal P2Y receptors.
+The neuroprotective potential of microglial P2Y12 receptors was also investigated [78]. Increased neurotoxicity after OGD in neurons-astrocytes cocultures by addition of microglia was mitigated by P2Y12 receptor
+knockdown [78]. Neuronal viability was determined by
+detection of microtubule-associated protein-2. This study
+strongly suggests a role of microglial P2Y12 receptors in
+neuroprotection.
+
+447
+
+Protective effects of P2Y receptors in vivo in animal
+models of stroke and traumatic brain injury
+In vivo experiments provide the opportunity to test whether
+agents have protective effects in the context of the whole
+organism to better understand diseases and find treatments
+for human diseases. By genetic engineering, mice or rats are
+generated that feature the pathophysiology of neurodegenerative diseases, like AD or PD. Animals may also be exposed to
+standardized procedures to mimic stroke or TBI. Present research concerning P2Y receptors in pathophysiology in animal models focuses on stroke and TBI. Stroke is a major cause
+of death in the modern civilization, but its clinical treatment is
+largely restricted to thrombolysis by plasminogen activator.
+Yet there is no neuroprotective pharmaceutical intervention
+which precludes the neurodegeneration after stroke. This urgent need induced intensive research in this field.
+A very well-established animal model of stroke is the middle cerebral artery occlusion (MCAO) usually accomplished
+with mice or rats. Different MCAO models differ by duration
+of interrupting the blood flow, ranging from transient to permanent or the method of introducing the occlusion. The latter
+can be caused by the vasoconstrictive peptide endothelin-1,
+clot injection, surgical filaments, or transection followed by
+electrocauterization or ligation.
+Several studies investigated the role of P2 receptors in
+MCAO models. The influence of suramin, a general P2 receptor antagonist, on the infarct size was analyzed in mice subjected to focal cerebral ischemia [79]. In this model, focal
+brain ischemia was induced by middle cerebral artery transection (MCAT) and bilateral occlusion of the common carotid
+arteries. Six hours after ischemia, the neurological status was
+measured by motor tests and the infarct volume was analyzed
+by microtubule-associated protein 2 immunostaining. The rats
+which received 30 min before MCAT an intravenous injection
+of suramin (100 mg/kg) showed an improved neurological
+score and a decreased infarct volume. The estimated end concentration in the brain after 100 mg/kg intravenous injection
+of suramin is 10 μM. At a concentration of 10 μM, mainly
+P2X receptors but not P2Y receptors are inhibited, and the
+blockade of P2X receptors may inhibit excessive intracellular
+Ca2+ rise leading to apoptosis. At higher concentrations, that
+are >100 μM, interaction of suramin with P2Y receptors is
+possible. Interestingly, the group of animals pretreated with
+250 mg/kg did not show a decreased infarct volume. This loss
+of protection could be due to inhibition of beneficially acting
+P2Y receptors at this concentration. The study investigated the
+outcome with mice at 6 h after onset of MCAT, which is a
+relatively short term [79].
+Another study investigated the long-term effects of
+pyridoxalphosphate-6-azophenyl-2′,4′-disulfonic acid
+(PPADS) on recovery from MCAO in mice [80]. The MCAO
+was caused by electrocauterization of the middle cerebral
+
+448
+
+Purinergic Signalling (2015) 11:441–454
+
+artery. PPADS was administered with an implanted osmotic
+pump 15 min prior to the MCAO and until day 7 after the
+injury. After MCAO, the clinical outcome was investigated by
+behavioral tests, magnetic resonance imaging (MRI), quantitative electroencephalography (qEEG), and histological analysis at different days until the maximum of 28 days after
+MCAO. The functional recovery of the PPADS-treated group
+compared to the control group was improved as monitored by
+qEEG. Mice treated with PPADS showed improved motor
+abilities in rotarod and beam walk tests after MCAO. Investigation of the infarct volume by MRI showed significant reduction in the PPADS-treated animals compared to the control
+group from day 1 until day 7, but not after 28 days. Generally,
+the study suggests that early inhibition of P2 receptors could
+be beneficial for the motoric and functional recovery after
+stroke [80].
+The exact mechanism how broad range P2Y receptor antagonists, like suramin or PPADS, reduce infarct size and improve motor and functional recovery is unknown. Figure 3
+summarizes the frequently proposed mechanisms of protection. In pathway ➀, inhibition of P2Y receptors on astrocytes
+could reduce the glutamate release and thereby decrease the
+excitotoxic cell death of neurons. In pathway ➁, inhibition of
+P2Y receptors could reduce the TNFα release from astrocytes
+avoiding the extrinsic pathway of apoptosis in neurons. Ca2+induced ATP release from astrocytes which exacerbates the
+aforementioned toxic effects could be blocked by general
+P2Y receptor agonists in pathway ➂.
+It has been described that increased intracellular Ca2+ in
+astrocytes leads to release of proinflammatory cytokines, glutamate, and ATP that exacerbates the release by further stimulation of intracellular Ca2+ rise [81–86]. Especially under
+
+pathological conditions, this contributes to cellular damage,
+as can be seen in the model systems.
+Another hypothesis concerning the mechanism of protection in MCAO models could be the inhibition of P2Y receptors in microglia. Activation followed by migration and
+phagocytosis of target cells by microglia is controlled by
+P2Y12 and P2Y6 receptors. ATP and ADP leak from cells to
+activate the P2Y12 receptors on microglia and the ensuing
+P2Y12 receptor activity contributes to shift of cellular phenotype and migration towards the damaged cells. Phagocytosis
+of damaged cells is stimulated by UDP activating the P2Y6
+receptors on microglia. Microglial expression of the P2Y12
+receptor is decreased and expression of the P2Y6 receptor is
+increased in this process [46, 87, 88]. This immunological
+response is necessary for the restoration of tissue integrity.
+However, viable or salvageable cells may become victims of
+phagocytosis exacerbating damage under pathological condition. This might explain the reduced infarct volume after
+MCAO in P2Y receptor antagonist-treated animals.
+Protective effects of P2Y receptor antagonist on microglia
+in animal models are illustrated in the summary in Fig. 4.
+Indeed, a few studies prove the neuroprotective potential of
+microglial P2Y6 and P2Y12 receptors in animal models.
+Microglial P2Y6 receptor-related protection was observed
+in vivo when rats showed decreased neuronal loss as a response to lipopolysaccharide injection into the striatum by
+application of the P2Y6 receptor antagonist MRS2578. Neuronal loss was determined with confocal microscopy by immunohistochemical staining of sections using NeuN antibodies [77]. Another study focused on the function of the
+microglial P2Y12 receptors during ischemia [78]. Here, ischemia was induced by bilateral carotid artery occlusion. P2Y12
+
+Fig. 3 Neuroprotection by P2Y receptor (P2YR) antagonists in animal
+models—hypothesized signaling pathways. P2Y receptor antagonists
+inhibit release of glutamate, proinflammatory cytokines, and ATP, and
+thereby block apoptosis. Astrocytes release glutamate ➀,
+
+proinflammatory cytokines ➁, and ATP ➂ after P2Y1/P2Y2 receptors
+activation. Glutamate and ATP contribute via glutamate receptors and
+P2Y1/P2Y2 receptors to further increase of cytosolic Ca2+ concentration
+in neurons. Ca2+ overload leads to apoptosis in neurons ➃
+
+Purinergic Signalling (2015) 11:441–454
+
+Fig. 4 P2Y receptor (P2YR) receptors antagonists acting on microglia in
+animal models—hypothetical mechanisms of action. ATP activates
+P2Y12 and P2Y1 receptors on microglia cells and contributes to cellular
+activation. Activated micoglia release TNFα, which might cause
+apoptosis in neurons and astrocytes by the extrinsic pathway. After
+binding of UDP, the P2Y6 receptors cause activated microglia to initiate
+phagocytosis. There is a homeostatic balance between detrimental
+phagocytosis of potentially salvageable astrocytes and neurons and
+beneficial removal of apoptotic debris. Activation of microglia and
+execution of phagocytosis could be inhibited by P2Y receptor antagonists
+
+receptor expression knockdown mice or animals treated with
+the P2Y12 receptor antagonist clopidogrel suffered less neuronal injury by bilateral carotid artery occlusion [78].
+A P2Y1 receptor-specific study was performed with P2Y1
+receptor knockout (KO) mice focusing on cognitive functions
+and the neuroinflammatory response after MCAO [89]. Here,
+transient MCAO was induced by insertion of a nylon filament
+with an infarction time of 45 min. One week after MCAO, a
+contextual fear conditioning test was performed with wildtype and P2Y1 receptor KO mice. The wild-type mice showed
+significantly reduced cognitive ability after MCAO compared
+to the sham-operated wild-type group, whereas the P2Y1 receptor KO mice showed no decline after MCAO compared to
+the sham-operated P2Y1 receptor KO mice group. There was
+no difference in the sensory motor deficits after MCAO between wild-type and P2Y1 receptor KO mice compared to
+respective sham-operated control group. Improved cognitive
+outcome in wild-type mice after MCAO could be achieved by
+application of a P2Y 1 receptor-specific antagonist
+MRS2500 (4-[2-iodo-6-(methylamino)-9H-purin-9-yl]2-(phosphonooxy)bicyclo[3.1.0]hexane-1-methanol
+dihydrogen phosphate ester tetraammonium salt). Further neuroinflammatory cellular change of the hippocampus was analyzed by immunohistochemical staining.
+Brain sections were stained with labeled antibodies to
+mark activated astrocytes (anti-GFAP) and activated microglia (anti-Iba1). Only in the CA2/3 region, the glial
+fibrillary acidic protein (GFAP) expression in P2Y1 receptor KO MCAO mice was suppressed significantly as
+compared to the sham-operated control group. However,
+
+449
+
+in all hippocampal regions, the expression of Iba1 was
+significantly reduced in the P2Y1 receptor KO MCAO
+mice at 3 weeks and 2 months after MCAO [89].
+Besides permanent MCAO models, the transient MCAO
+model provides a tool to investigate transient ischemic events,
+which resemble the clinical pathogenesis from stroke development to thrombolysis. The influence of P2Y1 receptor agonists and antagonists on the outcome of transient MCAO in
+mice was investigated [90]. Here, the carotid artery of mice
+was reversibly occluded by insertion of a nylon monofilament
+for 30 or 60 min. The infarct size was determined by 2,3,5triphenyltetrazolium (TTC) staining at 72 h after transient
+MCAO. TTC is converted by the activity of mitochondrial
+dehydrogenases and therefore changes color. The application
+of the methanocarba ring-based P2Y 1 receptor agonist
+MRS2365 ([[(1R,2R,3S,4R,5S)-4-[6-amino-2-(methylthio)9H-purin-9-yl]-2,3-dihydroxybicyclo[3.1.0]hex-1-yl]methyl]
+diphosphoric acid mono ester trisodium salt) increased the
+infarct volume in the mice exposed to 30 min transient
+MCAO, but not in the mice exposed to 60 min transient
+MCAO. The P2Y1 receptor antagonist MRS 2179 decreased
+the infarct volume, when it was applied in 3 pulses with 12 h
+intervals. MRS2179 was more effective in decreasing the infarct volume, when it was applied at 0, 12, and 24 h after
+transient MCAO as compared to the later applications at 36,
+48, and 60 h after transient MCAO. The motor function of the
+mice was assessed by rotarod test which records the latency to
+fall from a rotarod. The mice treated with MRS 2179 showed
+improved motoric function compared to the untreated mice, as
+demonstrated by increased latencies to fall in the rotarod test.
+Immunostaining with Iba1 and OX42, a microglial marker,
+showed lower intensity in the group treated with MRS 2179
+implicating that microglial activation and/or macrophage accumulation was inhibited. The investigations of the involved
+pathways showed that MRS2179 lowered the amount of pRelA, a subunit of NFκB, and that the inhibition of NFκB
+with ammonium pyrolidine dithiocarbamate mimicked the effects of MRS2179 concerning the infarct size and motor functions after stroke. Taken together, this study suggests that
+P2Y1 receptor activation by MRS2365 initiates the NFκB
+pathway enhancing the inflammatory response and increasing
+the infarct size after stroke. Blocking the P2Y1 receptor by
+MRS2179 attenuates the inflammatory response and decreases the infarct size [90].
+The mechanism of protection by P2Y1 receptor-specific
+antagonists in MCAO models is unknown. Possible hypotheses are similar to those explaining the protective effects of
+broad range P2Y receptor antagonist, which we discussed
+above in Fig. 3. These effects on the inflammatory response
+cannot be explained by inhibition of P2Y6 and P2Y12 receptors on microglia, but by induction of release of TNFα and
+glutamate from astrocytes. TNFα is a proinflammatory cytokine which might contribute to enhanced inflammatory
+
+450
+
+responses and cell death. Glutamate release exacerbates
+excitotoxicity and leads to degeneration of neurons.
+A stroke model different from MCAO uses the injection of
+Rose Bengal into the mice and the illumination of arteries on
+the cortical surface with a green laser at 543 nm causing the
+formation of clots in these vessels [91]. Here, the infarct size
+was evaluated with three different methods. The fluorescently
+labeled CD40 antibody was injected 2, 3, or 4 days after
+photo-thrombotic clotting and in vivo images were recorded.
+CD40 is a protein from the TNF receptor family and an important marker for necrosis during ischemia. TTC staining
+was performed on brain sections of mice at days 1 and 5 after
+photo-thrombotic clotting. Transgenic mice expressing GFPGFAP were used for experiments. The infarction border was
+visualized by confocal imaging as absence of GFP fluorescence at day 1 or 2 after stroke. This also allows monitoring
+the degree of swelling in astrocytes. All methods showed that
+a tail vein injection of 2MeSADP (0.1 ml, 100 μM) significantly reduced the infarct size after stroke and decreased the
+swelling of astrocytes in the border area of the ischemic core.
+Application of Ruthenium 360, which is a specific blocker of
+mitochondrial Ca2+ uptake, inhibited the 2MeSADP-mediated
+protective effect. The protection by 2MeSADP is attributed to
+the increase of intracellular Ca2+ and stimulation of the mitochondrial matrix dehydrogenases. The enhanced mitochondrial metabolism helps to maintain the ion homeostasis and
+avoids swelling and cell death in astrocytes. An important
+characteristic of the Rose Bengal photo-thrombosis model is
+that it produces much smaller ischemic volumes in comparison to MCAO models. The former resemble silent strokes.
+The results from the Rose Bengal photo-thrombosis model
+are extraordinary as it represents the only in vivo stroke model
+that demonstrates benefits of P2Y receptor activation [91].
+The Rose Bengal photo-thrombosis model was also applied to transgenic mice expressing yellow fluorescent protein
+in neurons and green fluorescent protein in astrocytes [92].
+Confocal imaging at 24 h after photo-thrombosis revealed that
+both infarct size and neuronal loss were reduced by injection
+of 2MeSADP directly after onset of photo-thrombosis. Investigation of dendrites showed beading at 3 h after onset of
+photo-thrombosis. Beading is a morphological hallmark of
+early ischemic damage. Injection of 2MeSADP at 3 h after
+photo-thrombosis could reverse beading of dendrites within
+3 h. Mitochondrial polarization during ischemia was estimated
+by tetra-methyl rhodamine methyl ester staining. This method
+showed that depolarization that occurred after 3 h of ischemia
+could be reversed by injection of 2MeSADP. Mitochondrial
+repolarization after photo-thrombosis did not occur in inositol-(1,4,5) trisphosphate receptor-type2 knockout mice [92].
+These results underline that P2Y receptors and the inositol
+trisphosphate-Ca2+ signaling pathway might play an important role in neuroprotection in mild strokes. This study underlines the significance of the photo-thrombosis model in
+
+Purinergic Signalling (2015) 11:441–454
+
+demonstrating beneficial effects of P2Y receptor agonists.
+The interpretation of these exceptional findings will be given
+in the context of our conclusions below.
+Similar to stroke, the TBI after accidents is a common
+cause of death and disability. A study investigated the role
+of P2 receptor antagonists in TBI [93]. A controlled cortical
+impact was applied to the head of mice with a pneumatic
+impactor. MRS2179, a P2Y1 receptor antagonist, was administered with an osmotic minipump, which was implanted
+3 days prior to the controlled cortical impact. At days 3 or 7
+after the controlled cortical impact, hippocampal slices of the
+CA3 region were investigated with cresyl violet staining to
+determine the neuronal loss. Groups treated with MRS2179
+showed significantly reduced neuronal loss after controlled
+cortical impact. In the same study, cognitive functions were
+tested in the Morris water maze at 3 or 7 days after controlled
+cortical impact. The Morris water maze uses a pool with turbid
+water which has a safe platform close to the surface. Marks on
+the wall of the pool allow orientation. Swim speed and latency
+time are recorded for mice to find the safe platform, after
+learning its position. Animals treated with MRS2179 showed
+reduced latency but similar peak swim speed compared to the
+control group. This reduced latency may be attributed to improved cognition in the MRS2179-treated group of animals.
+The mechanism of protection is unclear, but reduced release of
+glutamate may inhibit excitotoxicity. Blocking hippocampal
+P2Y1 receptors might lead to an enhancement of synaptic
+signaling which might trigger pro-survival pathways and antioxidant mechanism [93].
+The hypothesized mechanisms of protection in TBI models
+are quite similar to mechanism of protection discussed for the
+MCAO models, as presented above in Fig. 3.
+
+Conclusions and future perspectives
+There seems to be a conflict concerning reports describing a
+protective role of P2Y receptors either in in vitro or in vivo
+brain damage models. This includes models for oxidative
+stress, apoptosis, TBI, and MCAO. P2Y receptor activation
+in vitro is protective by antioxidant and antiapoptotic actions.
+Improved outcome in models of MCAO and TBI after P2Y
+receptor blocking has been observed in in vivo studies. This
+appears to be contradictory, but one has to keep in mind that
+those cellular models and animal models differ strongly
+from a methodological point of view. Cellular models
+are well suitable for investigation of pathways connected to receptors, mRNA, and protein levels or the influence of toxic agents. However, their significance for
+description of the complex interplay of events during
+diseases in a whole organism is limited.
+In contrast to cellular models, animal models imply
+crosstalk of different cell types, including astrocytes, neurons,
+
+Purinergic Signalling (2015) 11:441–454
+
+and microglia. The role of microglia and blood-derived immune cells during neuroinflammation is completely absent in
+cellular models, but contributes crucially to the pathogenesis
+of neurodegenerative disease, stroke, and TBI.
+Microglial P2Y6 and P2Y12 receptors were shown to be
+targets for neuroprotection in vivo and in neural/microglial
+mixed cultures. Medication with P2Y6 and P2Y12 receptor
+antagonists to avoid phagocytosis of salvageable cells is a
+promising pharmaceutical application for stroke and also for
+neurodegenerative diseases displaying chronic inflammation.
+Application of specific synthetic P2Y6 and P2Y12 receptor
+agonists or antagonists might help to induce beneficial
+immunomodulation.
+Another important factor which distinguishes in vitro
+models from the in vivo MCAO models concerning P2Y receptors is that the cells in vitro are often preincubated with
+nucleotides and have sufficient amounts of oxygen and substrates during that period. This enables adaptation mechanisms like upregulation of antioxidant enzymes and
+antiapoptotic proteins. The MCAO model provides no opportunity for such adaptation because treatment takes place after
+MCAO and oxygen and substrates are instantaneously limited. Here, treatment with P2Y receptor agonists worsens the
+outcome by increased cytosolic Ca2+ concentration, enhanced
+glutamate release, and exacerbated neuroinflammation.
+This design of the in vivo studies in which preincubation
+protocols are not tested resembles the clinical practice. In this
+context, the study using the photo-thrombosis-induced infarct
+model seems to support the idea that adaptation requires oxygen and substrates. This is the only study which shows that
+P2Y receptor agonists improve the outcome in a stroke model.
+The study uses a model resembling a silent stroke with small
+infarct volume and less pronounced limitation of oxygen and
+substrates. Also early application of 2MeSADP was more
+beneficial than application after a 24-h delay. Generally, the
+photo-thrombosis-induced infarct model leaves a time window for adaptation mechanisms that are enhanced by P2Y
+receptor activation. The inflammation process is less severe
+and the amount of salvageable brain tissue is higher as compared to MCAO models. This suggests that the application of
+P2Y1 receptor agonists in mild cases of stroke could improve
+the outcome.
+The studies using a MCAO model prove beneficial effects
+of P2Y receptor antagonists and harmful effects of P2Y1 receptor agonists concerning the size of the infarct and the motor
+abilities. These studies suggest that during MCAO the P2Y1
+receptor enhances the inflammatory response and increases
+the infarct size in the brain during the first days after the
+incident. A pronounced and instant limitation of oxygen and
+substrates in the MCAO model leads to massive cell death and
+release of nucleotides, which makes further P2Y receptor agonist treatment ineffective. However, the longest period of
+time between MCAO and determination of the infarct size
+
+451
+
+was 28 days after MCAO. At 28 days after MCAO, there
+was no difference between the untreated and the P2Y receptor
+antagonist-treated group. To draw further conclusions for clinical use, it is necessary to investigate the long-term outcome of
+stroke models using P2Y receptor agonists or antagonists beyond 28 days after MCAO.
+Yet, in the P2Y receptor family, only the P2Y1 receptor was
+specifically targeted for investigations in the context of stroke.
+Other P2Y receptor subtypes could also be considered as potential drug targets. A pretreatment regime shows protective
+effects in cellular models. It would be interesting to investigate
+a pretreatment regime with P2Y receptor agonists in a MCAO
+model. The currently available data suggest that after severe
+stroke or TBI, a treatment with P2Y1 receptor antagonist may
+improve the outcome, whereas during mild stroke a treatment
+with P2Y1 receptor agonists might be beneficial. Treatment of
+risk groups with P2Y receptor agonists as preventive measure
+against stroke should be investigated. For pharmacological
+use, the design of P2Y receptor agonists and antagonists,
+which specifically target the brain by passing the BBB, is
+necessary. The potential pharmaceuticals have to be chemically stable to provide sufficient bioavailability. Negative interference with other P2Y receptor-dependent processes, like
+blood coagulation, has to be ruled out. P2Y receptors need
+to be specifically targeted.
+Interaction of P2Y receptors with other types of P2Y
+receptors or membrane proteins needs to be considered in
+this process. It is also noteworthy to mention that both in
+primary cell cultures and in vivo models, respectively,
+different subtypes of P2Y receptors are expressed. Finally,
+P2Y receptors may form homo- or heterooligomers with
+each other or interact with other receptors in neurons and
+glia cells [94]. We have previously reported heterooligomerization of P2Y 11 receptors specifically with
+P2Y1 receptors that controls the internalization and ligand
+selectivity of the P2Y11 receptor [95, 96]. In addition,
+adenosine A1 receptors and P2Y 1 receptors form
+multimeric complexes in astrocytes [97]. Additionally interactions with P2XRs were reported in primary rat cerebellar astrocytes [98]. From that point of view even if one
+P2Y receptor subtype might be predominantly responsible
+for the observed effects, the contribution of other P2Y
+receptor subtypes or interaction partners has to be
+clarified.
+Our analysis and conclusions will certainly motivate substantial further research concerning the role of purinergic signaling during stroke and neurodegenerative conditions based
+on the design of specific P2Y receptor ligands for pharmaceutical use.
+
+Acknowledgments The work in the corresponding author’ laboratory
+was supported by Deutsche Forschungsgemeinschaft (RE 563).
+
+452
+
+Purinergic Signalling (2015) 11:441–454
+
+References
+1.
+2.
+3.
+4.
+5.
+
+6.
+7.
+8.
+9.
+10.
+
+11.
+12.
+
+13.
+
+14.
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+22.
+23.
+
+Lipmann F (1948) Biosynthetic mechanisms. Harvey Lect 44:99–
+123
+Burnstock G (1972) Purinergic nerves. Pharmacol Rev 24:509–81
+von Kügelgen I, Wetter A (2000) Molecular pharmacology of P2Yreceptors. Naunyn Schmiedebergs Arch Pharmacol 362:310–23
+Khakh BS (2001) Molecular physiology of P2X receptors and ATP
+signalling at synapses. Nat Rev Neurosci 2:165–74
+Stone T W, Ceruti S, Abbracchio M P (2009). Adenosine receptors
+and neurological disease: neuroprotection and neurodegeneration.
+Handb Exp Pharmacol, 535–87
+Burnstock G (2014) Purinergic signalling: from discovery to current developments. Exp Physiol 99:16–34
+von Kügelgen I (2006) Pharmacological profiles of cloned mammalian P2Y-receptor subtypes. Pharmacol Ther 110:415–32
+Illes P, Ribeiro JA (2004) Neuronal P2 receptors of the central
+nervous system. Curr Top Med Chem 4:831–8
+Burnstock G (2009) Purinergic signalling: past, present and future.
+Braz J Med Biol Res 42:3–8
+Felix RA, Martin S, Pinion S, Crawford DJ (2012) Development of
+a comprehensive set of P2 receptor pharmacological research compounds. Purinergic Signal 8:101–12
+Jacobson KA, Boeynaems JM (2010) P2Y nucleotide receptors:
+promise of therapeutic applications. Drug Discov Today 15:570–8
+Abbracchio MP, Boeynaems JM, Barnard EA, Boyer JL, Kennedy
+C, Miras-Portugal MT, King BF, Gachet C, Jacobson KA, Weisman
+GA, Burnstock G (2003) Characterization of the UDP-glucose receptor (re-named here the P2Y14 receptor) adds diversity to the P2Y
+receptor family. Trends Pharmacol Sci 24:52–5
+Langer D, Hammer K, Koszalka P, Schrader J, Robson S,
+Zimmermann H (2008) Distribution of ectonucleotidases in the
+rodent brain revisited. Cell Tissue Res 334:199–217
+Dorsam RT, Kunapuli SP (2004) Central role of the P2Y12 receptor
+in platelet activation. J Clin Invest 113:340–5
+Guzman-Aranguez A, Santano C, Martin-Gil A, Fonseca B, Pintor
+J (2013) Nucleotides in the eye: focus on functional aspects and
+therapeutic perspectives. J Pharmacol Exp Ther 345:331–41
+Burnstock G, Krügel U, Abbracchio MP, Illes P (2011) Purinergic
+signalling: from normal behaviour to pathological brain function.
+Prog Neurobiol 95:229–74
+Moore DJ, Chambers JK, Wahlin JP, Tan KB, Moore GB, Jenkins
+O, Emson PC, Murdock PR (2001) Expression pattern of human
+P2Y receptor subtypes: a quantitative reverse transcriptionpolymerase chain reaction study. Biochim Biophys Acta 1521:
+107–19
+Moore D, Chambers J, Waldvogel H, Faull R, Emson P (2000)
+Regional and cellular distribution of the P2Y1 purinergic receptor
+in the human brain: striking neuronal localisation. J Comp Neurol
+421:374–84
+Moran-Jimenez MJ, Matute C (2000) Immunohistochemical localization of the P2Y1 purinergic receptor in neurons and glial cells of
+the central nervous system. Brain Res Mol Brain Res 78:50–8
+Kong Q, Peterson TS, Baker O, Stanley E, Camden J, Seye CI, Erb
+L, Simonyi A, Wood WG, Sun GY, Weisman GA (2009)
+Interleukin-1β enhances nucleotide-induced and α-secretasedependent amyloid precursor protein processing in rat primary cortical neurons via up-regulation of the P2Y2 receptor. J Neurochem
+109:1300–10
+Moskowitz MA, Lo EH, Iadecola C (2010) The science of stroke:
+mechanisms in search of treatments. Neuron 67:181–98
+Fisher M (2006) The ischemic penumbra: a new opportunity for
+neuroprotection. Cerebrovasc Dis 21(Suppl 2):64–70
+Ginsberg MD (2008) Neuroprotection for ischemic stroke: past,
+present and future. Neuropharmacol 55:363–89
+
+24.
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+32.
+
+33.
+34.
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+43.
+44.
+45.
+
+46.
+
+Ferrer I (2006) Apoptosis: future targets for neuroprotective strategies. Cerebrovasc Dis 21(Suppl 2):9–20
+Pradelli LA, Beneteau M, Ricci JE (2010) Mitochondrial control of
+caspase-dependent and -independent cell death. Cell Mol Life Sci
+67:1589–97
+Rami A, Bechmann I, Stehle JH (2008) Exploiting endogenous
+anti-apoptotic proteins for novel therapeutic strategies in cerebral
+ischemia. Prog Neurobiol 85:273–96
+Lemasters JJ, Theruvath TP, Zhong Z, Nieminen AL (2009)
+Mitochondrial calcium and the permeability transition in cell death.
+Biochim Biophys Acta 1787:1395–401
+Rasola A, Bernardi P (2007) The mitochondrial permeability transition pore and its involvement in cell death and in disease pathogenesis. Apoptosis 12:815–33
+Zorov DB, Juhaszova M, Yaniv Y, Nuss HB, Wang S, Sollott SJ
+(2009) Regulation and pharmacology of the mitochondrial permeability transition pore. Cardiovasc Res 83:213–25
+Azarashvili T, Baburina Y, Grachev D, Krestinina O, Evtodienko Y,
+Stricker R, Reiser G (2011) Calcium-induced permeability transition in rat brain mitochondria is promoted by carbenoxolone
+through targeting connexin43. Am J Physiol Cell Physiol 300:
+C707–20
+Doyle KP, Simon RP, Stenzel-Poore MP (2008) Mechanisms of
+ischemic brain damage. Neuropharmacol 55:310–8
+Lai TW, Zhang S, Wang YT (2014) Excitotoxicity and stroke: identifying novel targets for neuroprotection. Prog Neurobiol 115:157–
+88
+Szydlowska K, Tymianski M (2010) Calcium, ischemia and
+excitotoxicity. Cell Calcium 47:122–9
+Murphy MP (2009) How mitochondria produce reactive oxygen
+species. Biochem J 417:1–13
+Kowaltowski AJ, de Souza-Pinto NC, Castilho RF, Vercesi AE
+(2009) Mitochondria and reactive oxygen species. Free Radic
+Biol Med 47:333–43
+Rachmilovich-Calis S, Masarwa A, Meyerstein N, Meyerstein D
+(2011) The effect of pyrophosphate, tripolyphosphate and ATP on
+the rate of the Fenton reaction. J Inorg Biochem 105:669–74
+Panov A, Dikalov S, Shalbuyeva N, Hemendinger R, Greenamyre
+JT, Rosenfeld J (2007) Species- and tissue-specific relationships
+between mitochondrial permeability transition and generation of
+ROS in brain and liver mitochondria of rats and mice. Am J
+Physiol Cell Physiol 292:C708–18
+Federico A, Cardaioli E, Da Pozzo P, Formichi P, Gallus GN, Radi
+E (2012) Mitochondria, oxidative stress and neurodegeneration. J
+Neurol Sci 322:254–62
+Conrad M, Schick J, Angeli JP (2013) Glutathione and thioredoxin
+dependent systems in neurodegenerative disease: what can be
+learned from reverse genetics in mice. Neurochem Int 62:738–49
+Johnson WM, Wilson-Delfosse AL, Mieyal JJ (2012)
+Dysregulation of glutathione homeostasis in neurodegenerative
+diseases. Nutrients 4:1399–440
+Ghosh N, Ghosh R, Mandal SC (2011) Antioxidant protection: a
+promising therapeutic intervention in neurodegenerative disease.
+Free Radic Res 45:888–905
+Dringen R, Pawlowski PG, Hirrlinger J (2005) Peroxide detoxification by brain cells. J Neurosci Res 79:157–65
+Amor S, Puentes F, Baker D, van der Valk P (2010) Inflammation in
+neurodegenerative diseases. Immunology 129:154–69
+Jin R, Yang G, Li G (2010) Inflammatory mechanisms in ischemic
+stroke: role of inflammatory cells. J Leukoc Biol 87:779–89
+Tian L, Rauvala H, Gahmberg CG (2009) Neuronal regulation of
+immune responses in the central nervous system. Trends Immunol
+30:91–9
+Koizumi S, Ohsawa K, Inoue K, Kohsaka S (2013) Purinergic
+receptors in microglia: functional modal shifts of microglia mediated by P2 and P1 receptors. Glia 61:47–54
+
+Purinergic Signalling (2015) 11:441–454
+47.
+
+48.
+
+49.
+50.
+
+51.
+
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+64.
+
+65.
+
+66.
+
+Quintas C, Fraga S, Goncalves J, Queiroz G (2011) P2Y receptors
+on astrocytes and microglia mediate opposite effects in astroglial
+proliferation. Purinergic Signal 7:251–63
+De Simone R, Niturad CE, De Nuccio C, Ajmone-Cat MA,
+Visentin S, Minghetti L (2010) TGF-β and LPS modulate ADPinduced migration of microglial cells through P2Y1 and P2Y12
+receptor expression. J Neurochem 115:450–9
+Sofroniew MV (2009) Molecular dissection of reactive astrogliosis
+and glial scar formation. Trends Neurosci 32:638–47
+Kimelberg HK, Nedergaard M (2010) Functions of astrocytes and
+their potential as therapeutic targets. Neurother J Am Soc Exp
+NeuroTher 7:338–53
+Neary JT, Rathbone MP, Cattabeni F, Abbracchio MP, Burnstock G
+(1996) Trophic actions of extracellular nucleotides and nucleosides
+on glial and neuronal cells. Trends Neurosci 19:13–8
+Fuller S, Münch G, Steele M (2009) Activated astrocytes: a therapeutic target in Alzheimer’s disease? Expert Rev Neurother 9:
+1585–94
+Zhou Y, Wang Y, Wang J, Anne Stetler R, Yang QW (2014)
+Inflammation in intracerebral hemorrhage: from mechanisms to
+clinical translation. Prog Neurobiol 115:25–44
+Jarrott B, Williams S J (2015). Chronic brain inflammation: the
+neurochemical basis for drugs to reduce inflammation.
+Neurochem Res
+Magrone T, Marzulli G, Jirillo E (2012) Immunopathogenesis of
+neurodegenerative diseases: current therapeutic models of neuroprotection with special reference to natural products. Curr Pharm
+Des 18:34–42
+Shinozaki Y, Koizumi S, Ishida S, Sawada J, Ohno Y, Inoue K
+(2005) Cytoprotection against oxidative stress-induced damage of
+astrocytes by extracellular ATP via P2Y1 receptors. Glia 49:288–
+300
+Iwabuchi S, Kawahara K (2009) Possible involvement of extracellular ATP-P2Y purinoceptor signaling in ischemia-induced tolerance of astrocytes in culture. Neurochem Res 34:1542–54
+Ellis EF, McKinney JS, Willoughby KA, Liang S, Povlishock JT
+(1995) A new model for rapid stretch-induced injury of cells in
+culture: characterization of the model using astrocytes. J
+Neurotrauma 12:325–39
+Burgos M, Neary JT, Gonzalez FA (2007) P2Y2 nucleotide receptors inhibit trauma-induced death of astrocytic cells. J Neurochem
+103:1785–800
+Chorna NE, Santiago-Perez LI, Erb L, Seye CI, Neary JT, Sun GY,
+Weisman GA, Gonzalez FA (2004) P2Y receptors activate neuroprotective mechanisms in astrocytic cells. J Neurochem 91:119–32
+Kim SG, Gao ZG, Soltysiak KA, Chang TS, Brodie C, Jacobson
+KA (2003) P2Y6 nucleotide receptor activates PKC to protect
+1321N1 astrocytoma cells against tumor necrosis factor-induced
+apoptosis. Cell Mol Neurobiol 23:401–18
+Kim B, Jeong HK, Kim JH, Lee SY, Jou I, Joe EH (2011) Uridine
+5′-diphosphate induces chemokine expression in microglia and astrocytes through activation of the P2Y6 receptor. J Immunol 186:
+3701–9
+Bruno V, Copani A, Besong G, Scoto G, Nicoletti F (2000)
+Neuroprotective activity of chemokines against N-methyl-D-aspartate or β-amyloid-induced toxicity in culture. Eur J Pharmacol 399:
+117–21
+Mamedova LK, Gao ZG, Jacobson KA (2006) Regulation of death
+and survival in astrocytes by ADP activating P2Y1 and P2Y12 receptors. Biochem Pharmacol 72:1031–41
+Sellers LA, Simon J, Lundahl TS, Cousens DJ, Humphrey PP,
+Barnard EA (2001) Adenosine nucleotides acting at the human
+P2Y1 receptor stimulate mitogen-activated protein kinases and induce apoptosis. J Biol Chem 276:16379–90
+Azran S, Förster D, Danino O, Nadel Y, Reiser G, Fischer B (2013)
+Highly efficient biocompatible neuroprotectants with dual activity
+
+453
+
+67.
+
+68.
+
+69.
+
+70.
+
+71.
+
+72.
+
+73.
+
+74.
+
+75.
+
+76.
+
+77.
+
+78.
+
+79.
+
+80.
+
+81.
+
+82.
+
+83.
+
+as antioxidants and P2Y receptor agonists. J Med Chem 56:4938–
+52
+Fujita T, Tozaki-Saitoh H, Inoue K (2009) P2Y1 receptor signaling
+enhances neuroprotection by astrocytes against oxidative stress via
+IL-6 release in hippocampal cultures. Glia 57:244–57
+Peterson TS, Thebeau CN, Ajit D, Camden JM, Woods LT, Wood
+WG, Petris MJ, Sun GY, Erb L, Weisman GA (2013) Up-regulation
+and activation of the P2Y2 nucleotide receptor mediate neurite extension in IL-1β-treated mouse primary cortical neurons. J
+Neurochem 125:885–96
+Arthur DB, Georgi S, Akassoglou K, Insel PA (2006) Inhibition of
+apoptosis by P2Y2 receptor activation: novel pathways for neuronal
+survival. J Neurosci 26:3798–804
+Chen HH, Schock SC, Xu J, Safarpour F, Thompson CS, Stewart
+AF (2007) Extracellular ATP-dependent upregulation of the transcription cofactor LMO4 promotes neuron survival from hypoxia.
+Exp Cell Res 313:3106–16
+Camden JM, Schrader AM, Camden RE, Gonzalez FA, Erb L, Seye
+CI, Weisman GA (2005) P2Y2 nucleotide receptors enhance αsecretase-dependent amyloid precursor protein processing. J Biol
+Chem 280:18696–702
+Leon-Otegui M, Gomez-Villafuertes R, Diaz-Hernandez JI, DiazHernandez M, Miras-Portugal MT, Gualix J (2011) Opposite effects
+of P2X7 and P2Y2 nucleotide receptors on α-secretase-dependent
+APP processing in Neuro-2a cells. FEBS Lett 585:2255–62
+Ajit D, Woods LT, Camden JM, Thebeau CN, El-Sayed FG,
+Greeson GW, Erb L, Petris MJ, Miller DC, Sun GY, Weisman
+GA (2014) Loss of P2Y2 nucleotide receptors enhances early pathology in the TgCRND8 mouse model of Alzheimer’s disease.
+Mol Neurobiol 49:1031–42
+Kim HJ, Ajit D, Peterson TS, Wang Y, Camden JM, Gibson Wood
+W, Sun GY, Erb L, Petris M, Weisman GA (2012) Nucleotides
+released from Aβ1–42-treated microglial cells increase cell migration and Aβ1–42 uptake through P2Y2 receptor activation. J
+Neurochem 121:228–38
+Espada S, Ortega F, Molina-Jijon E, Rojo AI, Perez-Sen R,
+Pedraza-Chaverri J, Miras-Portugal MT, Cuadrado A (2010) The
+purinergic P2Y13 receptor activates the Nrf2/HO-1 axis and protects against oxidative stress-induced neuronal death. Free Radic
+Biol Med 49:416–26
+Ortega F, Perez-Sen R, Delicado EG, Teresa Miras-Portugal M
+(2011) ERK1/2 activation is involved in the neuroprotective action
+of P2Y13 and P2X7 receptors against glutamate excitotoxicity in
+cerebellar granule neurons. Neuropharmacol 61:1210–21
+Neher JJ, Neniskyte U, Hornik T, Brown GC (2014) Inhibition of
+UDP/P2Y6 purinergic signaling prevents phagocytosis of viable
+neurons by activated microglia in vitro and in vivo. Glia 62:
+1463–75
+Webster CM, Hokari M, McManus A, Tang XN, Ma H, Kacimi R,
+Yenari MA (2013) Microglial P2Y12 deficiency/inhibition protects
+against brain ischemia. PLoS ONE 8, e70927
+Kharlamov A, Jones SC, Kim DK (2002) Suramin reduces infarct
+volume in a model of focal brain ischemia in rats. Exp Brain Res
+147:353–9
+Lämmer AB, Beck A, Grummich B, Förschler A, Krügel T, Kahn
+T, Schneider D, Illes P, Franke H, Krügel U (2011) The P2 receptor
+antagonist PPADS supports recovery from experimental stroke
+in vivo. PLoS ONE 6, e19983
+Bowser DN, Khakh BS (2007) Vesicular ATP is the predominant
+cause of intercellular calcium waves in astrocytes. J Gen Physiol
+129:485–91
+Franke H, Verkhratsky A, Burnstock G, Illes P (2012)
+Pathophysiology of astroglial purinergic signalling. Purinergic
+Signal 8:629–57
+Lecca D, Ceruti S, Fumagalli M, Abbracchio MP (2012) Purinergic
+trophic signalling in glial cells: functional effects and modulation of
+
+454
+cell proliferation, differentiation, and death. Purinergic Signal 8:
+539–57
+84. Majumder P, Trujillo CA, Lopes CG, Resende RR, Gomes KN,
+Yuahasi KK, Britto LR, Ulrich H (2007) New insights into
+purinergic receptor signaling in neuronal differentiation, neuroprotection, and brain disorders. Purinergic Signal 3:317–31
+85. Orellana JA, Stehberg J (2014) Hemichannels: new roles in
+astroglial function. Front Physiol 5:193
+86. Singh S, Swarnkar S, Goswami P, Nath C (2011) Astrocytes and
+microglia: responses to neuropathological conditions. Int J
+Neurosci 121:589–97
+87. Tozaki-Saitoh H, Tsuda M, Inoue K (2010) Purinergic regulation of
+microglia. Nihon Yakurigaku Zasshi 136:93–7
+88. Inoue K (2007) UDP facilitates microglial phagocytosis through
+P2Y6 receptors. Cell Adhes Migr 1:131–2
+89. Chin Y, Kishi M, Sekino M, Nakajo F, Abe Y, Terazono Y, Hiroyuki
+O, Kato F, Koizumi S, Gachet C, Hisatsune T (2013) Involvement
+of glial P2Y1 receptors in cognitive deficit after focal cerebral stroke
+in a rodent model. J Neuroinflammation 10:95
+90. Kuboyama K, Harada H, Tozaki-Saitoh H, Tsuda M, Ushijima K,
+Inoue K (2011) Astrocytic P2Y1 receptor is involved in the regulation of cytokine/chemokine transcription and cerebral damage in a
+rat model of cerebral ischemia. J Cereb Blood Flow Metab 31:
+1930–41
+91. Zheng W, Watts LT, Holstein DM, Prajapati SI, Keller C, Grass EH,
+Walter CA, Lechleiter JD (2010) Purinergic receptor stimulation
+reduces cytotoxic edema and brain infarcts in mouse induced by
+photothrombosis by energizing glial mitochondria. PLoS ONE 5,
+e14401
+
+Purinergic Signalling (2015) 11:441–454
+92.
+
+Zheng W, Talley Watts L, Holstein DM, Wewer J, Lechleiter JD
+(2013) P2Y1R-initiated, IP3R-dependent stimulation of astrocyte
+mitochondrial metabolism reduces and partially reverses ischemic
+neuronal damage in mouse. J Cereb Blood Flow Metab 33:600–11
+93. Choo AM, Miller WJ, Chen YC, Nibley P, Patel TP, Goletiani C,
+Morrison B 3rd, Kutzing MK, Firestein BL, Sul JY, Haydon PG,
+Meaney DF (2013) Antagonism of purinergic signalling improves
+recovery from traumatic brain injury. Brain 136:65–80
+94. Fischer W, Krügel U (2007) P2Y receptors: focus on structural,
+pharmacological and functional aspects in the brain. Curr Med
+Chem 14:2429–55
+95. Ecke D, Hanck T, Tulapurkar ME, Schafer R, Kassack M, Stricker
+R, Reiser G (2008) Hetero-oligomerization of the P2Y11 receptor
+with the P2Y1 receptor controls the internalization and ligand selectivity of the P2Y11 receptor. Biochem J 409:107–16
+96. Haas M, Shaaban A, Reiser G (2014) Alanine-(87)-threonine polymorphism impairs signaling and internalization of the human P2Y11
+receptor, when co-expressed with the P2Y1 receptor. J Neurochem
+129:602–13
+97. Tonazzini I, Trincavelli ML, Montali M, Martini C (2008)
+Regulation of A1 adenosine receptor functioning induced by
+P2Y1 purinergic receptor activation in human astroglial cells. J
+Neurosci Res 86:2857–66
+98. Carrasquero LM, Delicado EG, Sanchez-Ruiloba L, Iglesias T,
+Miras-Portugal MT (2010) Mechanisms of protein kinase D activation in response to P2Y2 and P2X7 receptors in primary astrocytes.
+Glia 58:984–95
+
+

@@ -1,0 +1,796 @@
+Brain, Behavior, and Immunity 49 (2015) 75–85
+
+Contents lists available at ScienceDirect
+
+Brain, Behavior, and Immunity
+journal homepage: www.elsevier.com/locate/ybrbi
+
+MicroRNA let-7c-5p protects against cerebral ischemia injury via
+mechanisms involving the inhibition of microglia activation
+Jingshu Ni a,1, Xiaoyu Wang a,1, Shuangshuang Chen a, Huihui Liu d, Yun Wang a, Xingshun Xu c,d,
+Jian Cheng c,d, Jia Jia a,⇑, Xuechu Zhen a,b,⇑
+a
+
+Jiangsu Key Laboratory of Translational Research and Therapy for Neuro-Psycho-Diseases and College of Pharmaceutical Sciences, Soochow University, Suzhou, Jiangsu 215021, China
+College of Pharmaceutical Sciences and the Collaborative Innovation Center for Brain Science, Soochow University, Suzhou, China
+Institute of Neuroscience, Soochow University, Suzhou, China
+d
+The Second Afﬁliated Hospital of Soochow University, Soochow University, Suzhou, China
+b
+c
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 29 January 2015
+Received in revised form 4 April 2015
+Accepted 20 April 2015
+Available online 29 April 2015
+Keywords:
+MicroRNA
+Let-7c-5p
+Ischemic stroke
+Microglia
+
+a b s t r a c t
+The present study was designed to reveal the potential role of let-7c-5p, a highly conserved miRNA in
+stroke. We found that the content of let-7c-5p was signiﬁcantly decreased in the plasma of patients with
+ischemic stroke as well as in experimental animals. Moreover, we also observed a signiﬁcant decrease of
+let-7c-5p in ipsilateral cortex and striatum in mice that were subjected to middle cerebral artery occlusion (MCAO) at 24 h reperfusion. Overexpression of let-7c-5p via ICV injection decreased the infarction
+volume and attenuated the neurological deﬁcits, and most interestingly, inhibited microglial activation.
+To further explore the mechanism, we checked let-7c-5p expression in BV2 cells and primary microglia in
+an OGD condition and in LPS-induced microglial activation. The results indicated that decreased let-7c-5p
+was evidenced in the activated microglia. Overexpression of let-7c-5p in BV2 cells remarkably inhibited
+the microglial activation. The inhibition of microglial activation by overexpression of let-7c-5p was also
+observed in mice with experimental stroke, which is in line with the decreased infarction volume and
+improved neurological deﬁcits. We identiﬁed that let-7c-5p directly targeted to the 30 -untranslated
+region of the caspase 3 mRNA to reduce caspase 3 levels, which may underline the miRNA – modulated
+microglial activity. The present study revealed that suppression of microglia activation by let-7c-5p overexpression may be involved in the protection effects of ischemic damage.
+The mechanism may include the miRNA-mediated caspase 3 pathway.
+Ó 2015 Elsevier Inc. All rights reserved.
+
+1. Introduction
+MicroRNAs (miRNAs) are a class of small non-coding RNAs that
+bind to the 30 untranslated regions of target mRNAs to induce transcript degradation and/or inhibit translation (Tan et al., 2009).
+miRNAs play important roles in various pathophysiology processes
+(Eacker et al., 2009; Sorensen et al., 2014). Let-7c is one of the most
+abundant and highly conserved miRNAs (Lagos-Quintana et al.,
+2002). Previous research on let-7c has primarily focused on functions and roles in cancer. It has been shown that let-7c inhibits
+cancer cell survival by regulating cell proliferation (Bjorner et al.,
+⇑ Corresponding authors at: Department of Pharmacology, College of Pharmaceutical Sciences, Soochow University, Suzhou, Jiangsu 215021, China. Tel.: +86 512
+65881160; fax: +86 512 65880369 (J. Jia). Tel./fax: +86 512 65880369 (X. Zhen).
+E-mail addresses: jiajia@suda.edu.cn (J. Jia), zhenxuechu@suda.edu.cn (X. Zhen).
+1
+Authors contributed equally to this work.
+http://dx.doi.org/10.1016/j.bbi.2015.04.014
+0889-1591/Ó 2015 Elsevier Inc. All rights reserved.
+
+2014) and apoptosis (Zhan et al., 2013). Recent studies suggest that
+let-7c is an important regulator of macrophage polarization. The
+overexpression of let-7c in GM-BMM (M1 macrophages) decreases
+the expression of M1 phenotype signature genes including iNOS,
+TNF-a and IL-6, and the inhibition of let-7c in M-BMM (M2 macrophages) contributes to M1 polarization (Banerjee et al., 2013).
+Ischemic stroke is one of the leading causes of death and disability globally (Goldstein et al., 2001; Wang and Shuaib, 2002)
+and represents a major public health problem. Enormous efforts
+have been made to elucidate the pathological mechanisms that
+underlie ischemic brain injury and to identify targets for stroke
+therapies. To these ends, the targeting of stroke-induced neuroinﬂammation is emerging as an attractive strategy for stroke treatment (Ceulemans et al., 2010; Seifert and Pennypacker, 2014;
+Taylor and Sansing, 2013). After ischemic stroke, an inﬂammatory
+response that involves the activation of the resident brain microglia is initiated within a few hours (Denes et al., 2007) and persists
+
+76
+
+J. Ni et al. / Brain, Behavior, and Immunity 49 (2015) 75–85
+
+for months. A variety of pro-inﬂammatory mediators, including
+cytokines and chemokines, are present in the ischemic brain following stroke. On one hand, these mediators exacerbate neuron
+damage, on the other hand, they over-activate microglia and thus
+lead to a vicious circle (Wang and Shuaib, 2002). Recent studies
+have revealed that post-stroke neuroinﬂammation is a key determinant of acute outcomes and long-term prognoses (McColl
+et al., 2009; Pan et al., 2014). The suppression of microglial activation following stroke can reduce brain injury and therefore represents an attractive therapeutic strategy for stroke (Pena-Philip
+pides et al., 2014; Yilmaz and Granger, 2008). Emerging evidence
+suggests that miRNAs are altered in the rodent brain and human
+plasma following cerebral ischemia. However, the contributions
+of miRNAs to post-stroke neuroinﬂammation remain to be elucidated. Based on the previous ﬁnding that let-7c exerts robust
+effects on macrophage-mediated inﬂammation, in the present
+study, we investigated whether microRNA let-7c-5p, which is a
+member of let-7c family, affects ischemic brain injury by altering
+microglia-mediated post-stroke neuroinﬂammation.
+2. Materials and methods
+2.1. Blood samples from acute stroke patients
+Eight male patients (50–70 years of age) diagnosed with acute
+cerebral infarction according to clinical information and
+MRI/Head CT analysis were enrolled in the Department of
+Neurology of the Afﬁliated Second Hospital of Suzhou University
+from January to June 2014. All patients with a National Institutes
+of Health Stroke Scale score of 5–15 were examined within 48 h
+after the event happened. An equal number of age-matched
+healthy individuals were enrolled as control groups. Everyone
+involved in this experiment was able to understand and approved
+the informed consent. Blood was collected from each patient for
+assessment.
+2.2. Experimental animals
+Male CD-1 mice weighing 25–30 g were purchased from SLAC
+Laboratory Animals (Shanghai, China). The mice were housed
+under a ﬁxed circadian rhythm with free access to food and water.
+All the animals used in these experiments were under the guidance
+of NIH for the Care and Use of Laboratory Animals. All the experiments were approved by Institute animal welfare committee of
+Soochow University. Enormous efforts have been made to minimize animal suffering and to reduce the number of animals used
+in the experiments.
+
+2.4. Behavioral test
+Three independent behavioral tests (Rotarod, Corner and mNSS
+tests) were performed to assess the neurological deﬁcits following
+MCAO. As indicated in animal experimental design (Fig. 2A), 3 days
+after intracerebroventricular injection, the animals were trained
+for 2 days, 1 day prior to the MCAO, ﬁrst behavioral test were monitored, the tests continue to perform 1–4 days after MCAO model.
+Brieﬂy, the modiﬁed neurological severity scores (mNSS) was
+graded on a scale of 0–18, and mice that were unable to perform
+the test or lacked the tested reﬂexes were awarded a score, the
+details can be found in Supplemental Table 1. The higher score
+the mice awarded, the more serious the lesion is. In the corner test,
+the mice were forced to enter a corner made of two cardboard
+pieces with an angle of 30°. Both sides of the vibrissae were stimulated when the mice entered deep into the corner, which caused
+the mice to rear and turn back to the open end. The MCAO mice
+preferentially turned toward the impaired side, and non-ischemic
+mice exhibited no left or right preference. The numbers of left
+and right turns over ten trials were recorded. The more numbers
+of right turns, the more serious the lesion is. In the rotarod test,
+the mice were placed onto a rotarod that increased in speed from
+5 to 40 rpm. The trial ended when the mouse fell off the device, and
+the time that the mouse remained on the rotarod was recorded.
+The shorter time of the mice remained on rotarod, the more serious
+the lesion is. More details about these behavioral tests can be
+found in previous publication of our group (Jin et al., 2014).
+2.5. Let-7c-5p mimics, control mimics and intracerebroventricular
+injection
+The let-7c-5p mimics and control mimics were prepared by
+GenePharma (Shanghai, China) with the following sequences:
+let-7c-5p (50 –30 ), sense: UGAGGUAGUAGGUUGUAUGGUU, antisense: CCAUACAACCUACUACCUCAUU; and control mimic (50 –30 )
+sense: UUCUCCGAACGUGUCACGUTT, antisense: ACGUGACACGUU
+CGGAGAATT. The in vivo transfection was performed according
+to the method described as follows: The stereotaxic coordinates
+were 0.5 mm posterior and 1.0 mm lateral to bregma and 2.5–
+3.0 mm ventral to the surface of the skull. The control and
+let-7c-5p mimics (2.5 lg/2.5 ll) were added to 1.25 ll of
+Entranster TM in vivo transfection reagent (Engreen, Beijing,
+China) (Tan et al., 2014). The solution was mixed gently, left for
+15 min and then injected intracerebroventricularly (i.c.v.) using a
+micro syringe (Hamilton, Nevada, USA) under the guidance of the
+stereotaxic instrument (RWD Life Science).
+2.6. Oxygen-glucose deprivation (OGD) neuron-conditioned medium
+preparation
+
+2.3. Animal model of focal cerebral ischemia
+Cerebral ischemia was induced by reversible middle cerebral
+artery occlusion (MCAO) via an intraluminal suture technique, as
+previously described (Pena-Philippides et al., 2014). Brieﬂy, in this
+technique, isoﬂurane was used to anesthetize the mice, and their
+body temperatures were sustained at 37.0 ± 0.5 with warming
+pads. Blood ﬂow was monitored with a laser Doppler probe that
+was afﬁxed to the skull. The right common carotid and external
+and internal carotid arteries were exposed to insert a
+silicon-coated nylon monoﬁlament with a heat-blunted tip (diameter 0.22 ± 0.02 mm). The tip of the ﬁlament was advanced to reach
+the origin of the middle cerebral artery as indicated by a numerical
+reading measured by laser Doppler ﬂowmetry (<30% of the baseline). The surgical site was sutured when the entire operation
+was completed. To initiate reperfusion, the ﬁlament was withdrawn one hour after the surgery.
+
+Primary cultured cerebral cortical neurons were exposed to
+OGD for 2.5 h in OGD buffer (NaCl: 4.09 g; KCl: 186.5 mg; CaCl2:
+111 mg; HEPES: 2.38 g; Glycine: 1.125 g. Dissolved in 500 ml double distilled water), the OGD buffer was replaced with neurobasal
+medium when OGD is over and the supernatants were collected
+after 24 h of reperfusion (OGD neuron CM). Supernatants from
+non-OGD cultured neurons were collected as negative controls
+(No-OGD neuron CM).
+2.7. Cell culture, let-7c-5p mimic transfection and OGD
+Primary mouse microglia was derived from the cerebral cortices
+of the 1–2 days old ICR mice. Mouse primary neurons were obtained
+from the cortices of fetuses at GD 18. In brief, mixed glial cultures
+were prepared from the cerebral cortices of 1–2 days old ICR mice;
+the cortices were chopped and dissociated by mechanical disruption
+
+J. Ni et al. / Brain, Behavior, and Immunity 49 (2015) 75–85
+
+using a nylon mesh. After ﬁltrating with 70 lm sieve, the dissociated
+cells were seeded in poly-D-lysine-coated ﬂasks or plates, and cultured at 37 °C in a 5% CO2 incubator. For primary microglia cultivation, the culture medium were replaced every 3 days with
+DMEM/F12 supplemented with 10% FBS. Fourteen days later, the
+microglia was isolated from the mixed glial cells by shaking the
+ﬂasks in a table concentrator at 200 rpm for 4 h at 37 °C. The purities
+of the cultured microglia exceeded 95% as determined by CD11b
+immunostaining (data not shown). For primary neuron cultivation,
+the culture medium was replaced with neurobasal supplemented
+with 2% B27 after incubation with DMEM/F12 supplemented with
+10% FBS for 6 h. The culture medium was half replaced every 2 days.
+The murine BV2 microglial cells were cultured in high-glucose
+DMEM with 10% (v/v) heat-inactivated fetal bovine serum,
+100 U/ml penicillin, and 100 mg/ml streptomycin. The cells were
+cultured at 37 °C in a 5% CO2/air environment. Let-7c-5p mimics
+(100 nmol/L) or control mimics were transfected into the BV2 cells
+for 48 h using RNAiMAX (GenePharma) according to the manufacturer’s protocol.
+2.8. Histological assessments of the brain damage following MCAO
+24 h and 96 h after MCAO, we evaluated the infarct volumes
+with triphenyl-2,3,4-tetrazolium-chloride (TTC) histology. Six days
+after injection of let-7c-5p mimic or the control mimic, the MCAO
+model was performed. After 24 and 96 h of reperfusion, the brains
+were cut into four 2-mm-thick slices and subsequently incubated
+in saline containing 1% TTC (Sigma, St. Louis, MO) at 37 °C for
+10 min. Next, the slices were ﬁxed in PB buffer containing 10%
+formaldehyde for 24 h and then scanned, and digital image analysis software (Sigma Scan Pro, Jandel, San Rafael, CA) was used to
+analyze the infarct sizes across all of the slices.
+2.9. Immunohistochemistry
+24 or 96 h after MCAO, the mice were anesthetized and ﬁrst
+perfused with saline followed by ﬁxation with buffered
+paraformaldehyde (4%). The brains were removed and post-ﬁxed
+in 4% paraformaldehyde; the paraformaldehyde was then removed
+and replaced with 30% sucrose solution overnight. A cryostat was
+used to cut the ischemic lesion (+1.18 to 0.10 mm from bregma)
+into 16-lm-thick coronal sections for immunoﬂuorescence staining. The slices were blocked with PBS containing 3% BSA, 10% goat
+serum and 0.3% Triton-X 100. Next, the slices were incubated with
+the following primary antibodies overnight at 4 °C: goat anti-Iba1
+(Abcam, Cambridge, UK), and rabbit anti-NeuN (Millipore,
+Billerica, USA), rabbit anti-MAP2 (Sigma–Aldrich, St. Louis, USA).
+Next, the slices were washed with 0.01 M PBST for 3 times and
+then incubated in a 1:400 dilution of Alexa Fluor 488-labeled goat
+anti-rabbit antibody (Molecular Probes Inc., Eugene, OR, USA) for
+2 h at room temperature and washed with 0.01 M PBST. Then,
+the slices were stained with 0.2 lg/ml hoechst staining solution
+(Molecular Probes) for 30 min at 37 °C and then washed. The quantiﬁcation of the immunostaining was performed as follows. Brieﬂy,
+every 10th section was collected for quantiﬁcation for a total of 4
+sections, and four pre-assigned ﬁelds from each section were used
+for analysis with Image J. The data are presented as the mean ﬂuorescence intensity of Iba1 positive cells of the analyzed tissue.
+2.10. Isolation of RNA and quantitative real-time PCR
+RT-PCR was performed to detect the let-7c-5p levels in the
+plasma of the normal controls and stroke patients and the plasma
+and brain tissues of the MCAO mice. Total miRNA was isolated
+using mirVana™ miRNA Isolation Kits (Ambion, America), and
+miRNA reverse transcription was performed with TaqMan
+
+77
+
+MicroRNA Reverse transcription Kits (AB, America). The expressions of the matured mouse miRNAs were determined with a
+stem-loop real-time PCR system using TaqMan Universal Master
+Mix II, no UNG (AB, America). Regarding the analyses of the
+mRNA levels of iNOS, TNF-a, IL-6 and COX-2, the RNAs were isolated with Trizol (Invitrogen, America), and 1 lg of RNA was
+reverse-transcribed into cDNA using High-Capacity cDNA Reverse
+Transcription Kits (AB, America). The cDNAs were ampliﬁed using
+the following speciﬁc primers: iNOS, forward primer: 50 -CAGGAG
+GAGAGAGATCCGATTTA-30 , reverse primer: 50 -GCATTAGCATGGAA
+GCAAAGA-30 ; TNF-a, forward primer: 50 -CATCTTCTCAAAATTCGA
+GTGACAA-30 , reverse primer: 50 -TGGGAGTAGACAAGGTACAACC
+C-30 ; COX-2, forward primer: 50 -CAGGCTGAACTTCGAAACA-30 ,
+reverse primer: 50 -GCTCACGAGGCCACTGATACCTA-30 ; IL-6, forward primer: 50 -GCAATGGCAATTCTGATTGTATG-30 , reverse primer: 50 -AAGGACTCTGGCTTTGTCTTTCT-30 ; 18S, forward primer:
+50 -GTAACCCGTTGAACCCCATT-30 , reverse primer: 50 -CCATCCAATC
+GGTAGTAGCG-30 . Quantitative real-time PCR was performed using
+SYBR Premix II. The expressions of the target genes were normalized to 18S and quantiﬁed relative to the expression in the control
+groups. The 2DDCT formula was used for the calculations of the
+relative quantiﬁcations.
+2.11. Western blot analysis
+BV2 cells were transfected with let-7c-5p mimic or scrambled
+negative control for 48 h, the cells were then treated, respectively,
+with LPS (200 ng/ml), OGD, CM (conditioned medium from OGD
+neuron culture) for 24 h. After washes with PBS for 3 times, the
+cells were lysed in triple-detergent lysis buffer. Protein concentrations were determined with protein assay kits (Bio-Rad, Hercules,
+CA). Sixty micrograms of protein from each sample were separated
+by SDS-polyacrylamide gel electrophoresis (8%) and transferred
+onto polyvinylidene diﬂuoride membranes or nitrocellulose membranes (Millipore, Bedford, MA, USA). Five percent skim milk was
+used to block the membranes for 2 h. The membranes were subsequently incubated with the following primary antibodies: polyclonal rabbit anti-mouse iNOS (Abcam, NT); polyclonal rabbit
+anti-mouse COX-2 (Santa Cruz Biotechnology); monoclonal
+anti-rabbit caspase-3 (Cell Signaling); and monoclonal
+anti-a-tubulin mouse ascites ﬂuid (Sigma). The membranes were
+then incubated with secondary antibodies (Sigma–Aldrich). The
+protein bands were visualized with a ChemiScope 3300 Mini
+(CLINX, Shanghai, China).
+2.12. Enzyme-linked immunosorbent assay
+To measure TNF-a and IL-6 in the ischemic brain and supernatant from cultured BV2 cells. Ipsilateral and contralateral cortices collected from MCAO or sham-operated mice were
+prepared, each sample was homogenized by ultrasonic wave in
+RIPA buffer supplemented with a protease inhibitor mixture
+(Roche, Mannheim, Germany). The homogenates were centrifuged
+at 12,000 rpm for 20 min at 4 °C, and the supernatants were collected. BCA protein assay kit (Tiangen, Beijing, China) was used
+to measure the protein concentration of the supernatant from tissue and cultured cells for normalization. TNF-a and IL-6 were measured with commercial ELISA kits (Boster Biosciences Co., Wuhan,
+China) according to the manufacturer’s instructions. Microplate
+Reader (Inﬁnite M200 PRO, Tecan, Switzerland) was used to assess
+the OD value.
+2.13. Luciferase activity assay
+The constructs that cloned into a 79 bp fragment from the
+30 -UTR of the caspase 3 gene (containing the potential
+
+78
+
+J. Ni et al. / Brain, Behavior, and Immunity 49 (2015) 75–85
+
+let-7c-5p-targeting site at 117–196) and the mutated 30 -UTR of the
+seed region of the let-7c-5p binding site were synthesized by
+GenePharma. HEK-293 cells (2  104/well) were seeded into
+24-well plates and cotransfected with 0.5 lg of the luciferase
+reporter gene construct and 1 ll miRNA mimic (50 lM) using
+Lipofectamine 2000 (Invitrogen). After 48 h, the Fireﬂy and
+Renilla luciferase signals were determined using the
+dual-luciferase reporter assay system (Promega) following the
+manufacturer’s instructions. Fireﬂy luciferase activity was normalized to Renilla luciferase activity for each transfected well. Three
+independent experiments were performed in triplicate.
+2.14. Statistical analyses
+One-way ANOVAs followed by Bonferroni tests were utilized for
+multiple-group comparisons. The Student’s t test was used for
+comparisons between two groups. A P value < 0.05 was considered
+statistically signiﬁcant.
+3. Results
+3.1. Let-7c-5p was decreased in the patients with ischemic stroke and
+in the mice following experimental stroke
+We measured the circulating levels of let-7c-5p in the ischemic
+stroke patients and the healthy controls with qRT-PCR. Compared
+to the healthy controls, the let-7c-5p levels were markedly reduced
+in the plasma from the patients with acute ischemic stroke
+(Fig. 1A). Consistently, the mice that were subjected to MCAO also
+exhibited signiﬁcantly lower plasma levels of let-7c-5p after 6 and
+24 h reperfusion compared to the mice that received the sham
+operations (Fig. 1B). Moreover, at 24 h after reperfusion, the
+let-7c-5p levels in the ipsilateral cortices and striatum were also
+
+remarkably reduced compared to the let-7c-5p levels in the contralateral hemispheres of the MCAO mice and compared to the
+levels in the corresponding regions of the sham-operated mice
+(Fig. 1C and D). These results suggest that the expressions of
+let-7c-5p were signiﬁcantly decreased in the plasma, cortex and
+striatum following cerebral ischemia.
+3.2. Overexpression of let-7c-5p protects against ischemic brain injury
+in the mouse MCAO model
+To investigate the effects of let-7c-5p following MCAO, we
+over-expressed let-7c-5p by ICV injection of the let-7c-5p mimic.
+Scrambled mimics that did not target any miRNA were injected
+as a control. 6 days after the injections, we used RT-PCR to conﬁrm
+that let-7c-5p was overexpressed in the cortices and striatum of
+the mice that receiving the let-7c-5p mimic compared to the mice
+that received the scrambled mimic (Fig. 2B). The mice that received
+the let-7c-5p mimic and those that received the control mimic
+were subjected to 1 h of MCAO at 6 days after the injections.
+After 1 day of reperfusion, the mice that received the let-7c-5p
+mimic exhibited signiﬁcantly smaller infarct volumes in the cortex,
+striatum and ipsilateral hemisphere than did the mice that
+received the scrambled mimic (Fig. 2C). Moreover, three behavioral
+tests were performed to monitor the functional deﬁcits over the
+ﬁrst 4 days following MCAO. The mNSS results revealed that the
+let-7c-5p mimic-treated group achieved lower scores than did
+the control mimic-treated groups (Fig. 2D). The let-7c-5p
+mimic-treated group also performed better in the corner and
+rotarod tests (Fig. 2E and F). We also examined the effects of
+let-7c-5p over-expression on infarct damage at 4 days following
+MCAO with TTC histology. As shown in Fig. 2C, mice receiving
+let-7c-5p mimics displayed smaller infarct volumes than that of
+mice receiving NC mimics. We further performed MAP2 and
+
+Fig. 1. Let-7c-5p levels were decreased in patients with acute stroke and ischemic reperfusion mice. (A) Let-7c-5p levels in the plasma of patients with acute stroke and
+health individuals as detected with RT-PCR. (B) Let-7c-5p levels in the plasma of mice at 1 h of ischemia following 6 and 24 h reperfusion. (C) Let-7c-5p levels in the cortices of
+the sham-operated group and the ipsilateral and contralateral hemispheres of mice at 1 h of ischemia following 24 h reperfusion. (D) Let-7c-5p levels in the striatum of the
+sham-operated group and the ipsilateral and contralateral hemispheres of mice at 1 h of ischemia following 24 h reperfusion. The values are represented as the mean ± the
+SEM of 8 patients (A) or 5 mice (B–D) per group. *P < 0.05 vs. the contralateral hemisphere of the MCAO mice, **P < 0.01, ***P < 0.001 vs. the control or sham group or the
+contralateral hemisphere of the MCAO mice.
+
+J. Ni et al. / Brain, Behavior, and Immunity 49 (2015) 75–85
+
+79
+
+Fig. 2. Intracerebroventricular injection of let-7c-5p reduced ischemic/reperfusion brain injury and neurological deﬁcits. (A) The ﬂowchart of animal experiment. (B) Let-7c5p levels in the cortex and striatum 6 days after let-7c-5p mimic injection (n = 5 per group). (C) Effects of pre-treatment with let-7c-5p mimic on cerebral infarction volumes
+calculated with 2,3,5-triphenyltetrazolium chloride staining at 1 day (n = 12 per group) and 4 days reperfusion (n = 8 per group). (D) The modiﬁed neurological severity scores
+(mNSSs) were signiﬁcantly lower in the let-7c-5p mimic-treated mice than the control mimic-treated mice at 1–4 days after MCAO (n = 10 per group). (E) Pre-treatment with
+let-7c-5p mimic improved the sensorimotor asymmetric abnormalities of the MCAO mice in the corner test (n = 10 per group). (F) The time that let-7c-5p mimic-treated
+group remained on the rotarod was remarkably longer than that of the control mimic-treated group (n = 10 per group). CTX: cortex; CP: striatum; HEMI: hemisphere;
+CORRCET, hemisphere infarction corrected for edema. The values are presented as the mean ± the SEM for each group, *P < 0.05, **P < 0.01 vs. NC mimic group.
+
+NeuN staining to assess brain infarct damage following MCAO
+(Dawson and Hallenbeck, 1996; Kim et al., 2015). The results qualitatively showed that let-7c-5p over-expression remarkably
+increased both MAP 2 and NeuN positive cells in the ischemic brain
+at 4 days following MCAO (Supplemental Fig. 1 and 2).
+3.3. Overexpression of let-7c-5p inhibits neuroinﬂammation in the
+ischemic brain following MCAO
+Following cerebral ischemia, the expressions of various proinﬂammatory cytokines are tremendously increased in the ischemic
+brain. To investigate the effects of let-7c-5p on neuroinﬂammation,
+we used qPCR to evaluate the expressions of proinﬂammatory
+
+cytokine mRNAs in the ischemic cortex. The overexpression of
+let-7c-5p resulted in signiﬁcant inhibitions of the expressions of
+IL-6, COX-2, TNF and iNOS mRNAs in the cortical penumbra compared to the mice that were injected with the scrambled NC mimic
+(Fig. 3A). By using Western blot and ELISA approaches, we further
+conﬁrmed that the ischemic induction of iNOS, TNF-a and IL-6 in
+the ischemic cortex was attenuated by the overexpression of
+let-7c-5p (Fig. 3B). Paralleled to these results, immunoﬂuorescence
+analysis also showed that MCAO robustly activated the microglia
+in the ipsilateral cortex, as evidenced by the remarkably enhanced
+immunoﬂuorescence intensity of Iba 1 staining, which was significantly attenuated in the ipsilateral cortices of the mice treated
+with the let-7c-5p mimic (Fig. 3C). Taken together, these results
+
+80
+
+J. Ni et al. / Brain, Behavior, and Immunity 49 (2015) 75–85
+
+Fig. 3. Overexpression of let-7c-5p inhibited ischemia/reperfusion induced microglial activation and neuron death. (A) Let-7c-5p overexpression inhibited the iNOS, COX-2,
+TNF-a and IL-6 mRNA levels in the ischemic penumbra. (B) Let-7c-5p overexpression inhibited the iNOS, TNF-a and IL-6 protein levels in the ischemic penumbra. (C)
+Immunohistochemistry with IBa1 and NeuN antibodies revealed reduced microglial activation (green) and increased number of neuron (red) in the let-7c-5p mimic group
+compared to the NC mimic group. Statistical analyze of microglial mean ﬂuorescent intensity was conducted by Image J. The values are presented as the means ± the SEMs of
+5 mice per group. **P < 0.01 vs. the ischemic hemisphere of the MCAO mice pre-treated with NC mimic. (For interpretation of the references to color in this ﬁgure legend, the
+reader is referred to the web version of this article.)
+
+suggest that the protection conferred by let-7c-5p overexpression
+was likely mediated by the inhibition on post-ischemic
+neuroinﬂammation.
+3.4. Expression of let-7c-5p was reduced in the activated microglia
+Following cerebral ischemia, resident microglia and peripheral
+macrophages are rapidly activated and mobilized to the injury site
+to mediate neuroinﬂammation in part by producing and secreting
+various inﬂammatory mediators. Therefore, we used cultured
+microglia to investigate the effects of let-7c-5p on microglia-m
+ediated neuroinﬂammation in vitro. Lipopolysaccharide (LPS), the
+major component of the walls of gram-negative bacteria, is a
+well-established activator of microglia/macrophages (Tao et al.,
+2014; Xu et al., 2015). We treated the BV2 microglial cell line
+and mouse primary microglia with LPS (200 ng/ml). Compared to
+the vehicle treatment, both the BV2 cells and the primary microglia
+exhibited a signiﬁcant decrease in let-7c-5p expression in response
+to LPS stimulation at 24 h post-treatment (Fig. 4E and F). To better
+
+mimic in vivo ischemia, we further examined let-7c-5p expression
+in BV2 cells and primary microglia in an OGD condition, which is a
+well-established cellular ischemia model. It has been reported that
+microglia are activated by conditioned media collected from
+OGD-treated primary neuronal cultures. Thus, we treated BV2 cells
+and primary neurons with conditioned media collected from
+OGD-treated primary neuronal cultures. After 24 h of incubation,
+the expression of let-7c-5p was remarkably reduced in the BV2
+cells and primary microglia compared to the levels observed in
+the control microglia that were not treated with conditioned media
+and compared to the cells that were treated with conditioned
+media collected from neuronal cultures that were not subjected
+to OGD (Fig. 4C and D). The BV2 cells and primary microglia were
+further directly exposed to 3 h of OGD. At 24 h after reoxygenation,
+let-7c-5p expression was reduced in the OGD-treated primary
+microglia and BV2 cells compared to the control BV2 and primary
+microglia that did not undergo OGD treatment (Fig. 4A and B).
+Collectively, these results indicate that let-7c-5p expression was
+decreased following microglial activation induced by three
+
+J. Ni et al. / Brain, Behavior, and Immunity 49 (2015) 75–85
+
+81
+
+Fig. 4. Activated primary microglia and BV2 cells expressed decreased let-7c-5p. (A) The let-7c-5p levels in the primary microglia that were exposed to oxygen-glucose
+deprivation (OGD) for 3 h following reperfusion for 24 h. (B) The let-7c-5p levels in the BV2 microglia that was exposed to oxygen-glucose deprivation (OGD) for 3 h following
+reperfusion for 24 h. (C) The Let-7c-5p levels in the primary microglia that was exposed to supernatant from the primary neurons that were exposed to OGD for 2.5 h
+following 24 h of reperfusion. (D) The let-7c-5p levels in the BV2 microglia that was exposed to supernatant that was collected from primary neurons that were exposed to
+OGD for 2.5 h following 24 h of reperfusion. (E) The let-7c-5p levels in the primary microglia that was treated with lipopolysaccharide (LPS). (F) The let-7c-5p levels in BV2
+microglia that was treated with LPS. The values are presented as the means ± the SEMs from at least 3 independent experiments. **P < 0.01 vs. the control or the no-OGD CMtreated groups, *P < 0.05 vs. the control groups.
+
+different stimuli, including two stimuli that closely mimicked cerebral ischemia in vitro. These results imply that the reduction in
+let-7c-5p expression was not stimulus-speciﬁc but was likely a
+universal aspect of microglial activation. Thus, reduced let-7c-5p
+expression might contribute to microglia-mediated neuroinﬂa
+mmation.
+3.5. Overexpression of let-7c-5p suppresses the expressions of proinﬂammatory mediators in activated microglia
+To investigate whether the reduced expression of let-7c-5p following microglial activation plays an important role in
+microglia-mediated neuroinﬂammation, we transfected BV2 cells
+with let-7c-5p mimic or scrambled NC mimic. The BV2 cells displayed about 692.8 ± 160.2 (95% credit interval 1369 to 15.09)
+times of let-7c-5p expression compared to the control cells that
+were transfected with NC. 48 h after transfection, then the BV2
+cells were activated with LPS. Compared to the cells that underwent scrambled mimic transfection, the LPS-induced expressions
+of the mRNAs of the pro-inﬂammatory mediators (iNOS, COX-2,
+TNF-a and IL-6) in the BV2 cells were signiﬁcantly inhibited by
+let-7c-5p overexpression (Fig. 5A). At the protein level, we further
+conﬁrmed that let-7c-5p overexpression attenuated LPS-induced
+iNOS, COX-2, TNF-a and IL-6 expression (Fig. 6A and B).
+We next investigated whether let-7c-5p overexpression suppressed microglia-mediated neuroinﬂammation following OGD
+treatment. BV2 cells transfected with let-7c-5p or scrambled
+mimic were incubated in conditioned medium collected from neuronal cultures that were or were not subjected to OGD 48 h after
+transfection. Consistent with previous reports, we also observed
+that the condition medium collected from the OGD-treated neuronal cultures remarkably activated the BV2 microglia as evidenced by the induction of the expressions of the mRNAs of
+various proinﬂammatory mediators (i.e. iNOS, COX-2, TNF-a and
+IL-6) in the cells that were treated with the OGD-conditioned medium compared to the control cells that were not treated with
+
+conditioned medium and the cells that were incubated with condition medium collected from non-OGD-treated neurons. The
+expressions of pro-inﬂammatory mRNAs that were induced by
+OGD-conditioned medium were signiﬁcantly attenuated by the
+let-7c-5p mimic but not the scrambled mimic (Fig. 5B). At the protein level, Western blot and ELISA results further conﬁrmed that
+the OGD-conditioned medium induced iNOS, COX-2, TNF-a and
+IL-6 expression, and these expressions were inhibited by
+let-7c-5p overexpression (Fig. 6C and D).
+Finally, BV2 microglia was directly subjected to 3 h of OGD 24 h
+after transfection with miRNA mimics. Enhanced expressions of
+iNOS, COX-2, TNF-a and IL-6 mRNAs were observed 24 h after
+re-oxygenation, which suggests that the OGD activated the microglia in vitro. As expected, the overexpression of let-7c-5p mimic
+but not the scrambled mimic suppressed the expressions of the
+iNOS, COX-2, TNF-a and IL-6 mRNAs that were induced by OGD
+(Fig. 5C). Moreover, Western blot conﬁrmed that let-7c-5p overexpression inhibited these protein expressions induced by OGD
+(Fig. 6E and F).
+3.6. Let-7c-5p reduced caspase 3 expression in the microglia by
+targeting the 30 UTR of caspase 3
+In general, miRNAs act as post-transcriptional regulators of
+gene expression by targeting the 30 UTR regions of target mRNAs
+(Olde Loohuis et al., 2012). Thus, we investigated the potential
+gene targets of let-7c-5p using TargetScan. Among all of the predicted targets, caspase 3 was chosen as a candidate because previous research has shown that caspase 3 is involved in the control of
+microglial activation (Burguillos et al., 2011). To determine
+whether let-7c-5p targeted caspase 3, we transfected BV2 cells
+with let-7c-5p mimic or scramble mimic. As shown in
+Fig. 7A and B, the overexpression of the let-7c but not the scramble
+mimic diminished the mRNA and protein expressions of caspase 3.
+Using TargetScan, we identiﬁed a binding site in the 30 UTR of
+the caspase 3 mRNA that was potentially targeted by let-7c-5p
+
+82
+
+J. Ni et al. / Brain, Behavior, and Immunity 49 (2015) 75–85
+
+Fig. 5. Overexpression of let-7c-5p suppressed the expression of the pro-inﬂammatory mediators in activated microglia. (A) Let-7c-5p overexpression inhibited mRNA
+expression of iNOS, COX-2, TNF-a and IL-6 in LPS-treated BV2 microglia. (B) Let-7c-5p overexpression inhibited mRNA expression of the iNOS, COX-2, TNF-a and IL-6 induced
+by OGD-conditioned neuronal medium in BV2 microglia. (C) Let-7c-5p overexpression inhibited OGD-enhanced mRNA expression of iNOS, COX-2, TNF-a and IL-6 detected
+qPCR in BV2 microglia. The values are presented as the means ± the SEMs from at least 3 independent experiments. **P < 0.01 vs. NC mimic group.
+
+(Fig. 7C). To obtain further direct evidence that caspase 3 is a target
+of let-7c-5p, the 30 UTR of caspase 3, which contains nucleotides
+that are complementary to let-7c-5p (nucleotides 153–160 of the
+caspase 3 30 UTR) was cloned into the PGL3-promoter vector (WT)
+in which the 30 UTR of caspase 3 was placed downstream of a luciferase reporter gene. We further mutated three nucleotides in this
+seed-region of the 30 UTR of caspase 3 that were complementary to
+let-7c-5p. The mutant 30 UTR was cloned into the same site of the
+PGL3-promoter vector. Plasmids containing the wild-type or
+mutant caspase 3 30 UTR were co-transfected into HEK 293 cells
+with the let-7c-5p mimic. As shown in Fig. 7D, let-7c-5p overexpression downregulated the luciferase activity in the HEK 293 cells
+that were transfected with the plasmids containing the wild-type
+30 UTR of caspase 3. Finally, we examined whether let-7c-5p inhibited microglial activation by targeting caspase 3 in the BV2 cells. As
+shown in Fig. 7E, both pro-caspase 3 and cleaved caspase 3 levels
+were inhibited by let-7c-5p overexpression but not by scramble
+NC overexpression in the LPS-treated BV2 cells. These results indicate that let-7c-5p reduced caspase 3 expression in the microglia
+by targeting this binding site in the 30 UTR of caspase 3.
+
+4. Discussion
+The present study presented two important ﬁndings. First, we
+showed that the levels of the let-7c-5p miRNA were decreased in
+the plasma of patients with ischemic stroke and in the plasma
+
+and brains of mice following experimental stroke. Furthermore,
+we showed that overexpression of let-7c-5p in the brain not only
+signiﬁcantly reduced brain infarct damage but also improved the
+functional deﬁcits following cerebral ischemia, suggesting that
+let-7c-5p is a promising candidate for the treatment of ischemic
+stroke. Secondly, the overexpression of let-7c-5p inhibited
+microglia-mediated neuroinﬂammation in both the in vivo and
+in vitro ischemic models and attenuated caspase 3 expression in
+the microglia. These results imply that the protective effects of
+let-7c-5p following cerebral ischemia are likely mediated by the
+inhibition of microglial activation via translational repression of
+caspase 3.
+Quantitative PCR revealed that the let-7c-5p level was
+decreased in the plasma of patients with ischemic stroke within
+24 h. Consistent with this clinical ﬁnding, we detected decreased
+expression levels of let-7c-5p in the plasma of mice during the
+acute phase following MCAO, a well-established rodent ischemic
+stroke model. Moreover, we observed that let-7c-5p expression
+levels were also remarkably reduced in the ischemic cortex and
+striatum. To the best of our knowledge, our results from both
+human stroke patients and animal models of stroke suggested,
+for the ﬁrst time, that let-7c-5p likely contributes to stroke pathogenesis. To test the hypothesis that overexpressing let-7c-5p represents as a novel therapeutic strategy for ischemic stroke,
+let-7c-5p mimic was administered via ICV injection. As expected,
+the let-7c-5p mimic signiﬁcantly attenuated cerebral ischemic
+injury, as evidenced by the markedly decreased infarct volumes
+
+J. Ni et al. / Brain, Behavior, and Immunity 49 (2015) 75–85
+
+83
+
+Fig. 6. Overexpression of let-7c-5p suppressed the protein level of the pro-inﬂammatory mediators that are induced by activated microglia. (A) Let-7c-5p overexpression
+inhibited LPS-induced protein expression of iNOS and COX-2 in BV2 microglia detected with Western blot. (B) Let-7c-5p overexpression inhibited LPS-induced protein
+expression of TNF-a and IL-6 detected with ELISA. (C) Western blot results showed that let-7c-5p overexpression inhibited the protein expression of iNOS and COX-2 in BV2
+microglia induced by OGD-conditioned neuronal medium. (D) ELISA results showed that let-7c-5p overexpression inhibited protein expression of the TNF-a and IL-6 induced
+by OGD-conditioned neuronal medium. (E) Western blot results showed that let-7c-5p overexpression inhibited OGD-enhanced protein expression of iNOS and COX-2 in the
+BV2 microglia. (F) ELISA results showed that let-7c-5p overexpression inhibited OGD enhanced protein expression of the TNF-a and IL-6 protein. The values are presented as
+the means ± the SEMs from at least 3 independent experiments. *P < 0.05 vs. NC mimic group **P < 0.01 vs. NC mimic group.
+
+in and improved performance of the mice treated with the
+let-7c-5p mimic at 24 h and 4 days after MCAO. Taken together,
+our results indicate that stroke-induced let-7c-5p reductions contribute to ischemic brain injury and that the overexpression of
+let-7c-5p is a novel strategy for stroke treatment.
+Cerebral ischemia and reperfusion trigger microglial activation,
+which leads to proinﬂammatory responses and thus essentially
+contributes to secondary brain ischemic injury. Therefore,
+post-ischemic neuroinﬂammation is thought to be a good target
+for stroke therapies. Given the fact that let-7c-5p plays an important role in the regulation of macrophage-mediated inﬂammation
+(Banerjee et al., 2013), we investigated the effect of let-7c-5p on
+microglia-mediated
+neuroinﬂammation
+following
+cerebral
+ischemia/reperfusion. First, in the in vivo mouse MCAO model,
+we observed that let-7c-5p overexpression signiﬁcantly
+
+suppressed neuroinﬂammation in the ischemic brain as evidenced
+by the fact that let-7c-5p overexpression decreased microglial Iba1
+staining and attenuated the MCAO-enhanced expression of several
+pro-inﬂammatory mediators. Moreover, by using primarily cultured microglia and the BV2 microglial cell line, we further investigated whether let-7c-5p expression was reduced in activated
+microglia and whether the overexpression of let-7c-5p attenuated
+microglia-mediated neuroinﬂammation. To this end, three different paradigms were applied to activated microglia in vitro; i.e.,
+LPS stimulation, direct OGD stimulation and stimulation with
+OGD-conditioned neuronal buffer. Speciﬁcally, the latter two
+in vitro models have been used to mimic the in vivo activation of
+microglia following cerebral ischemia (Hu et al., 2012; Li et al.,
+2013). In accordance with the in vivo results, let-7c-5p levels were
+remarkably decreased in the activated microglia, and let-7c-5p
+
+84
+
+J. Ni et al. / Brain, Behavior, and Immunity 49 (2015) 75–85
+
+Fig. 7. Overexpression of let-7c-5p inhibited microglial activation via the direct targeting the Caspase 3 30 UTR. (A) Let-7c-5p overexpression inhibited the mRNA expression
+of caspase 3 in the BV2 microglia. (B) Let-7c-5p overexpression inhibited the protein levels of caspase 3 in BV2 microglia. (C) Schema of the WT and the MUT caspase 3 30 UTR
+reporter vectors indicating the interaction sites between let-7c and the 30 UTR of caspase 3. (D) Dual luciferase assay of the HEK293 cells overexpressing let-7c-5p and
+cotransfected with the reporter vectors containing the caspase 3 wildtype or mutant type 30 UTR. The Renilla luciferase activity was normalized to the Fireﬂy luciferase
+activity. (E) Let-7c-5p overexpression decreased the pro-caspase 3 and cleaved caspase 3 levels in the LPS-treated BV2 cells. The data are shown as the relative luciferase
+activities of the two groups based on three independent experiments. **P < 0.01 vs. the control or NC mimic group.
+
+overexpression blunted the activation-induced production of
+proinﬂammatory mediators. The results were validated in primary
+microglia and BV2 cells that were activated by LPS, OGD or
+OGD-conditioned neuronal medium. Thus, microglial activat
+ion-induced reduction in let-7c-5p expression and the contribution
+of let-7c-5p to microglia-mediated neuroinﬂammation were independent of the activation model. Taken together, our results from
+both in vivo and in vitro experimental stroke models suggest that
+the inhibition of microglial activation and the related inﬂammatory response is likely a mechanism that underlies the protective
+effect of let-7c-5p following cerebral ischemia.
+It is well accepted that miRNAs act through post-transcriptional
+mechanisms to regulate gene expression by targeting the 30 UTR
+regions of the target mRNAs. We used TargetScan to identify caspase 3 as the target gene of let-7c-5p. Experimentally, the overexpression of let-7c-5p signiﬁcantly decreased the mRNA and protein
+levels of caspase 3 in the BV2 microglia. Moreover, the results from
+the luciferase reporter gene assay suggested that let-7c-5p targeted the 30 UTR region of caspase 3 to decrease the mRNA levels
+of the target gene. Taken together, these results suggest that caspase 3 is the target gene whose expression is regulated by
+let-7c-5p.
+Currently, the mechanisms underlying the inhibitory effects of
+let-7c-5p on post-ischemic neuroinﬂammation remain unclear.
+
+The Let-7 miRNAs are initially identiﬁed from the study of developmental timing in Caenorhabditis elegans (Rougvie, 2001). Then,
+let-7 miRNAs are predicted or have been conﬁrmed experimentally
+in a wide range of species, including human and mouse. Recently,
+several reports showed that let-7c-5p promoted alternative activation (M2 polarization) while inhibited proinﬂammatory (M1) activation of macrophages of macrophages (Banerjee et al., 2013;
+Zhang et al., 2015), indicating that let-7c-5p is an important mediator regulating inﬂammation. Moreover, several downstream
+mediators, such as p21-activated kinase 1 and the transcriptional
+factor C/EBP, have been implicated in let-7c-5p effects on macrophage polarization.
+In this study, we provided experimental evidence that caspase 3
+is the target gene whose expression in microglia was
+down-regulated by let-7c-5p. Caspase 3 is well recognized as the
+key protease in apoptosis (Boland et al., 2013). Interestingly, accumulating evidence suggests that caspase 3 is an important regulator of microglia/macrophage inﬂammation independent of its role
+in apoptosis. For instance, caspase 3 is activated and contribute to
+microglia-mediated neuroinﬂammation in several neurodegenerative disease models (Burguillos et al., 2011). Moreover,
+pan-caspase inhibitors suppress neuroinﬂammation following
+cerebral ischemia (Fricker et al., 2013; Kim and Li, 2013). Caspase
+3 has also been reported to be activated in microglia polarized to
+
+J. Ni et al. / Brain, Behavior, and Immunity 49 (2015) 75–85
+
+the M1 phenotype. Knockdown of caspase 3 inhibits M1 polarization of microglia through the protein kinase c (Burguillos et al.,
+2011). Thus, caspase 3 is a critical mediator that promotes M1
+polarization of microglia. We observed that the expression of caspase 3 in microglia was down-regulated by let-7c-5p, suggesting
+that let-7c-5p inhibited microglia-mediated neuroinﬂammation
+post ischemia by suppressing caspase 3 expression. Further
+research is needed to explore how let-7c-5p inhibit
+stroke-related neuroinﬂammation by targeting caspase-3.
+In conclusion, the present study showed that let-7c-5p expression was reduced following stroke and that overexpression of
+let-7c-5p protected the brain from ischemic damage by inhibiting
+post-stroke microglial activation possibly via a mechanism that
+involved the regulation of caspase 3 expression. Moreover, our
+study suggests that the use of let-7c-5p as miRNA-based stroke
+therapy is an interesting prospect.
+Conﬂicts of interest
+The authors declare no conﬂict interest.
+Acknowledgments
+This work was ﬁnancially supported by grants from the
+National Science Foundation of China (81130023, 81373382,
+81371278, 81471336) and the National Basic Research Plan (973)
+of the Ministry of Science and Technology of China
+(2011CB504403). Additionally, support from the Priority
+Academic Program Development of the Jiangsu Higher Education
+Institutes (PAPD) and the Jiangsu key laboratory grant
+(BM2013003) is appreciated.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.bbi.2015.04.014.
+References
+Banerjee, S., Xie, N., Cui, H., Tan, Z., Yang, S., Icyuz, M., Abraham, E., Liu, G., 2013.
+MicroRNA let-7c regulates macrophage polarization. J. Immunol. 190, 6542–
+6549.
+Bjorner, S., Fitzpatrick, P.A., Li, Y., Allred, C., Howell, A., Ringberg, A., Olsson, H.,
+Miller, C.J., Axelson, H., Landberg, G., 2014. Epithelial and stromal microRNA
+signatures of columnar cell hyperplasia linking Let-7c to precancerous and
+cancerous breast cancer cell proliferation. PLoS One 9, e105099.
+Boland, K., Flanagan, L., Prehn, J.H., 2013. Paracrine control of tissue regeneration
+and cell proliferation by Caspase-3. Cell Death Dis. 4, e725.
+Burguillos, M.A., Deierborg, T., Kavanagh, E., Persson, A., Hajji, N., Garcia-Quintanilla,
+A., Cano, J., Brundin, P., Englund, E., Venero, J.L., Joseph, B., 2011. Caspase
+signalling controls microglia activation and neurotoxicity. Nature 472, 319–
+324.
+Ceulemans, A.G., Zgavc, T., Kooijman, R., Hachimi-Idrissi, S., Sarre, S., Michotte, Y.,
+2010. The dual role of the neuroinﬂammatory response after ischemic stroke:
+modulatory effects of hypothermia. J. Neuroinﬂammation 7.
+Dawson, D.A., Hallenbeck, J.M., 1996. Acute focal ischemia-induced alterations in
+MAP2 immunostaining: description of temporal changes and utilization as a
+marker for volumetric assessment of acute brain injury. J. Cereb. Blood Flow
+Metab. 16, 170–174.
+Denes, A., Vidyasagar, R., Feng, J., Narvainen, J., McColl, B.W., Kauppinen, R.A., Allan,
+S.M., 2007. Proliferating resident microglia after focal cerebral ischaemia in
+mice. J. Cereb. Blood Flow Metab. 27, 1941–1953.
+
+85
+
+Eacker, S.M., Dawson, T.M., Dawson, V.L., 2009. Understanding microRNAs in
+neurodegeneration. Nat. Rev. Neurosci. 10, 837–841.
+Fricker, M., Vilalta, A., Tolkovsky, A.M., Brown, G.C., 2013. Caspase inhibitors protect
+neurons by enabling selective necroptosis of inﬂamed microglia. J. Biol. Chem.
+288, 9145–9152.
+Goldstein, L.B., Adams, R., Becker, K., Furberg, C.D., Gorelick, P.B., Hademenos, G.,
+Hill, M., Howard, G., Howard, V.J., Jacobs, B., Levine, S.R., Mosca, L., Sacco, R.L.,
+Sherman, D.G., Wolf, P.A., del Zoppo, G.J., 2001. Primary prevention of ischemic
+stroke: a statement for healthcare professionals from the Stroke Council of the
+American Heart Association. Stroke 32, 280–299.
+Hu, X.M., Li, P.Y., Guo, Y.L., Wang, H.Y., Leak, R.K., Chen, S.E., Gao, Y.Q., Chen, J., 2012.
+Microglia/macrophage polarization dynamics reveal novel mechanism of injury
+expansion after focal cerebral ischemia. Stroke 43, 3063–U3474.
+Jin, Q., Cheng, J., Liu, Y., Wu, J., Wang, X.Y., Wei, S.W., Zhou, X.M., Qin, Z.H., Jia, J.,
+Zhen, X.C., 2014. Improvement of functional recovery by chronic metformin
+treatment is associated with enhanced alternative activation of
+microglia/macrophages and increased angiogenesis and neurogenesis
+following experimental stroke. Brain Behav. Immun. 40, 131–142.
+Kim, S.J., Li, J.R., 2013. Caspase blockade induces RIP3-mediated programmed
+necrosis in Toll-like receptor-activated microglia. Cell Death Dis. 4.
+Kim, M.J., Cho, J.H., Cho, J.H., Park, J.H., Ahn, J.H., Tae, H.J., Cho, G.S., Yan, B.C., Hwang,
+I.K., Lee, C.H., Bae, E.J., Won, M.H., Lee, J.C., 2015. Impact of hyperthermia before
+and during ischemia-reperfusion on neuronal damage and gliosis in the gerbil
+hippocampus induced by transient cerebral ischemia. J. Neurol. Sci. 348, 101–
+110.
+Lagos-Quintana, M., Rauhut, R., Yalcin, A., Meyer, J., Lendeckel, W., Tuschl, T., 2002.
+Identiﬁcation of tissue-speciﬁc microRNAs from mouse. Curr. Biol. 12, 735–739.
+Li, J., Zhang, S.Y., Lu, M.R., Chen, Z.B., Chen, C., Han, L.J., Zhang, M.J., Xu, Y., 2013.
+Hydroxysafﬂor yellow A suppresses inﬂammatory responses of BV2 microglia
+after oxygen-glucose deprivation. Neurosci. Lett. 535, 51–56.
+McColl, B.W., Allan, S.M., Rothwell, N.J., 2009. Systemic infection, inﬂammation and
+acute ischemic stroke. Neuroscience 158, 1049–1061.
+Olde Loohuis, N.F., Kos, A., Martens, G.J., Van Bokhoven, H., Nadif Kasri, N., Aschraﬁ,
+A., 2012. MicroRNA networks direct neuronal development and plasticity. Cell.
+Mol. Life Sci. 69, 89–102.
+Pan, J., Palmateer, J., Schallert, T., Hart, M., Pandya, A., Vandenbark, A.A., Offner, H.,
+Hurn, P.D., 2014. Novel humanized recombinant T cell receptor ligands protect
+the female brain after experimental stroke. Transl. Stroke Res. 5, 577–585.
+Pena-Philippides, J.C., Yang, Y., Bragina, O., Hagberg, S., Nemoto, E., Roitbak, T., 2014.
+Effect of pulsed electromagnetic ﬁeld (PEMF) on infarct size and inﬂammation
+after cerebral ischemia in mice. Transl. Stroke Res. 5, 491–500.
+Rougvie, A.E., 2001. Control of developmental timing in animals. Nat. Rev. Genet. 2,
+690–701.
+Seifert, H.A., Pennypacker, K.R., 2014. Molecular and cellular immune responses to
+ischemic brain injury. Transl. Stroke Res. 5, 543–553.
+Sorensen, S.S., Nygaard, A.B., Nielsen, M.Y., Jensen, K., Christensen, T., 2014. MiRNA
+expression proﬁles in cerebrospinal ﬂuid and blood of patients with acute
+ischemic stroke. Transl. Stroke Res. 5, 711–718.
+Tan, K.S., Armugam, A., Sepramaniam, S., Lim, K.Y., Setyowati, K.D., Wang, C.W.,
+Jeyaseelan, K., 2009. Expression proﬁle of MicroRNAs in young stroke patients.
+PLoS One 4, e7689.
+Tan, M.S., Yu, J.T., Jiang, T., Zhu, X.C., Guan, H.S., Tan, L., 2014. IL12/23 p40 inhibition
+ameliorates Alzheimer’s disease-associated neuropathology and spatial
+memory in SAMP8 mice. J. Alzheimer’s Dis. 38, 633–646.
+Tao, L., Zhang, F., Hao, L., Wu, J., Jia, J., Liu, J.Y., Zheng, L.T., Zhen, X., 2014. 1-Otigloyl-1-O-deacetyl-nimbolinin B inhibits LPS-stimulated inﬂammatory
+responses by suppressing NF-kappaB and JNK activation in microglia cells. J.
+Pharm. Sci. 125, 364–374.
+Taylor, R.A., Sansing, L.H., 2013. Microglial responses after ischemic stroke and
+intracerebral hemorrhage. Clin. Dev. Immunol.
+Wang, C.X., Shuaib, A., 2002. Involvement of inﬂammatory cytokines in central
+nervous system injury. Prog. Neurobiol. 67, 161–172.
+Xu, Z., Wu, J., Zheng, J., Ma, H., Zhang, H., Zhen, X., Zheng, L.T., Zhang, X., 2015.
+Design, synthesis and evaluation of a series of non-steroidal anti-inﬂammatory
+drug
+conjugates
+as
+novel
+neuroinﬂammatory
+inhibitors.
+Int.
+Immunopharmacol. 25, 528–537.
+Yilmaz, G., Granger, D.N., 2008. Cell adhesion molecules and ischemic stroke.
+Neurol. Res. 30, 783–793.
+Zhan, M., Qu, Q., Wang, G., Zhou, H., 2013. Let-7c sensitizes acquired cisplatinresistant A549 cells by targeting ABCC2 and Bcl-XL. Pharmazie 68, 955–961.
+Zhang, W., Liu, H., Liu, W., Liu, Y., Xu, J., 2015. Polycomb-mediated loss of microRNA
+let-7c determines inﬂammatory macrophage polarization via PAK1-dependent
+NF-kappaB pathway. Cell Death Differ. 22, 287–297.
+
+

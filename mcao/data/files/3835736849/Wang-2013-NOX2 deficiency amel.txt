@@ -1,0 +1,758 @@
+Free Radical Biology and Medicine 65 (2013) 942–951
+
+Contents lists available at ScienceDirect
+
+Free Radical Biology and Medicine
+journal homepage: www.elsevier.com/locate/freeradbiomed
+
+Original contribution
+
+NOX2 deﬁciency ameliorates cerebral injury through reduction
+of complexin II-mediated glutamate excitotoxicity in experimental stroke
+Ziying Wang a, Xinbing Wei a, Kang Liu a, Xiumei Zhang a, Fan Yang a, Hongyu Zhang b,
+Yeteng He c, Tianfeng Zhu a, Fengli Li a, Weichen Shi a, Yan Zhang a, Huiyan Xu a,
+Jiang Liu a, Fan Yi a,n
+a
+
+Department of Pharmacology, School of Medicine, Shandong University, Jinan, Shandong 250012, China
+Department of Geriatrics, Qilu Hospital, Shandong University, Jinan, Shandong 250012, China
+c
+Department of Orthopedics, Shandong Provincial Qianfoshan Hospital, Shandong University, Jinan, Shandong 250014, China
+b
+
+art ic l e i nf o
+
+a b s t r a c t
+
+Article history:
+Received 29 June 2013
+Received in revised form
+12 August 2013
+Accepted 15 August 2013
+Available online 24 August 2013
+
+Although NADPH oxidase (NOX)-mediated oxidative stress is considered one of the major mechanisms
+triggering the pathogenic actions of ischemic stroke and very recent studies have indicated that NADPH
+oxidase is a major source of reactive oxygen species (ROS) production controlling glutamate release, how
+neuronal NADPH oxidase activation is coupled to glutamate release is not well understood. Therefore, in
+this study, we used an in vivo transient middle cerebral artery occlusion model and in vitro primary cell
+cultures to test whether complexins, the regulators of soluble N-ethylmaleimide-sensitive factor
+attachment protein receptor (SNARE) complexes necessary for vesicle fusion, are associated with
+NOX2-derived ROS and contribute to glutamate-mediated excitotoxicity in ischemic stroke. In this study,
+we ﬁrst identiﬁed the upregulation of complexin II in the ischemic brain and evaluated its potential role
+in ischemic stroke showing that gene silencing of complexin II ameliorated cerebral injury as evidenced
+by reduced infarction volume, neurological deﬁcit, and neuron necrosis accompanied by decreased
+glutamate levels, consistent with the results from NOX2  /  mice with ischemic stroke. We further
+demonstrated that complexin II expression was mediated by NOX2 in primary cultured neurons
+subjected to oxygen–glucose deprivation (OGD) and contributed to OGD-induced glutamate release
+and neuron necrosis via SNARE signaling. Taken together, these ﬁndings for the ﬁrst time provide
+evidence that complexin II is a central target molecule that links NADPH oxidase-derived ROS to
+glutamate-mediated neuronal excitotoxicity in ischemic stroke.
+& 2013 Elsevier Inc. All rights reserved.
+
+Keywords:
+NADPH oxidase
+Complexin
+SNARE complex
+Cerebral ischemia injury
+Free radicals
+
+Stroke is one of the most common pathologies and the second
+leading cause of death in the world. Although considerable clinical
+and animal model studies have implicated several mechanisms as
+being involved in the pathogenesis of ischemic stroke, oxidative
+stress is considered one of the major mechanisms triggering
+the pathogenic actions of ischemic stroke [1,2]. In stroke,
+ischemia-induced oxygen and nutrient deﬁciency leads to cellular
+energy failure and neuronal damage. Moreover, rapid restoration
+enhances the level of tissue oxygenation and accounts for a second
+burst of reactive oxygen species (ROS)1 generation, resulting in
+
+Abbreviations: HE, Hematoxylin and eosin; HPLC, High-performance liquid
+chromatography; LV, Lentivirus; MCAO, Middle cerebral artery occlusion; NOX,
+NADPH oxidase; O2  , Superoxide; OGD, Oxygen–glucose deprivation; ROS, Reactive oxygen species; SNARE, Soluble N-ethylmaleimide-sensitive factor attachment
+protein receptor; SNAP25, Soluble N-ethylmaleimide-sensitive factor attachment
+protein-25; TTC, 2,3,5-triphenyltetrazolium chloride; WT, Wild type
+n
+Corresponding author. Fax: þ86 0531 88382616.
+E-mail address: fanyi@sdu.edu.cn (F. Yi).
+0891-5849/$ - see front matter & 2013 Elsevier Inc. All rights reserved.
+http://dx.doi.org/10.1016/j.freeradbiomed.2013.08.166
+
+reperfusion injury [3]. Although multiple enzymes contribute to
+oxidative stress in various tissues or cells, recent studies have
+demonstrated that NADPH oxidase is a major superoxide (O2  )producing enzyme in several types of cells in the brain, such as
+neurons, astrocytes, and microglia, under pathophysiological conditions [2]. NADPH oxidase, originally found on leukocytes, consists of membrane subunits p22phox and gp91phox and cytoplasmic
+subunits p47phox, p40phox, p67phox, and Rac GTPase. In the past few
+years, a family of gp91phox-like proteins, termed NOX proteins, was
+also discovered in mammals, denominated NOX1 to NOX5, dual
+oxidase (DUOX) 1, and DUOX2 [4]. Although several NOX homologs are expressed in neuronal tissue and NOXs have been
+documented to be involved in the pathogenesis of stroke [5],
+current data provide evidence for NOX2 as the most important
+NADPH oxidase mediating cerebral injury [6]. Mice with genetic
+NOX2 ablation had smaller infarcts than wild-type (WT) littermates [7,8] and less blood–brain barrier damage in experimental
+stroke [9]. The contributory role of NOX2 to the inﬂammatory
+response accompanying stroke has been conﬁrmed in recent
+
+Z. Wang et al. / Free Radical Biology and Medicine 65 (2013) 942–951
+
+studies by the observation that mice deﬁcient in NOX2 had
+decreased levels of proinﬂammatory mediators [10]. Recent studies have also implicated glucose as an important NOX substrate
+leading to reperfusion injury and suggested that NOX inhibition
+can improve the detrimental effects of hyperglycemia in stroke [11].
+Other studies have observed that NOX inhibition ameliorates
+complications of thrombolytic therapy by reducing blood–brain
+barrier disruption, edema formation, and hemorrhage [5,12].
+Preclinical trials using antioxidant treatments to scavenge ROS
+failed to demonstrate efﬁcacy against oxidative stress exacerbated
+by reperfusion. Antioxidants may interfere with the physiological
+functions of ROS or may not reach the crucial target proteins of
+ROS-induced cerebral injury. Therefore, achieving therapeutic
+efﬁcacy in ischemic stroke is one of the biggest challenges in
+translational neurobiology.
+Glutamate-induced excitotoxicity has been recognized to play
+an important role in the pathogenesis of ischemic stroke [13,14].
+Physiologically, glutamate is released at presynaptic terminals by
+fusion of neurotransmitter-containing vesicles with the presynaptic plasma membrane, a process known as SNARE (soluble
+N-ethylmaleimide-sensitive factor attachment protein receptor)
+protein-dependent synaptic vesicle exocytosis [15,16]. Synaptic
+vesicle fusion is driven by assembly of trans-SNARE complexes
+from the membrane proteins, and some speciﬁc proteins have
+been identiﬁed that are responsible for the regulation of SNAREmediated fusion. Among them, complexins are key regulators of
+synaptic exocytosis for neurotransmitter release [17,18]. Studies
+have indicated that complexin binds in an antiparallel α-helical
+conformation to the groove between synaptobrevin and syntaxin
+and stabilizes the interface between these two SNAREs that bears
+the repulsive forces between the apposed membranes [19]. Complexins consist of four members (complexins I–IV) with approximately 120 residues that are evolutionarily conserved in all
+animals and play critical roles in the control of fast synchronous
+neurotransmitter release. Complexins I and II are highly expressed
+in the brain, complexin III is most strongly expressed in the retina
+and much less in the brain, and complexin IV is detectable only in
+the retina [20,21]. However, whether complexins are involved in
+the pathogenesis of ischemic stroke is unclear. Given that ROS can
+modulate speciﬁc synaptic neurotransmission in the brain [22,23]
+and excitatory amino acid release and free radical formation may
+cooperate in the genesis of ischemia-induced neuronal damage
+[24], the present study was designed to investigate whether the
+regulation of complexins is associated with NADPH oxidasederived ROS and contributes to glutamate-mediated excitotoxicity
+in ischemic stroke.
+
+Materials and methods
+Animals
+NOX2  /  mice were purchased from The Jackson Laboratory
+(Bar Harbor, ME, USA). All protocols were approved by the
+Institutional Animal Care and Use Committee of Shandong University and conducted in accordance with the U.S. National
+Institutes of Health Guide for the Care and Use of Laboratory
+Animals.
+Model for transient focal cerebral ischemia
+Transient middle cerebral artery occlusion (MCAO) was
+induced in 12-week-old male NOX2  /  and WT mice as described
+[25,26]. After 2 h of MCAO, the suture was carefully removed to
+restore blood ﬂow. During and after the surgery, rectal temperature was controlled with a homeothermic blanket and kept at
+
+943
+
+37 1C until the complete recovery of the animal from the anesthesia.
+After 24 h of reperfusion, the animals were anesthetized and then
+decapitated. The sham groups were subjected to the same procedure
+except for the occlusion of the MCA.
+Neurological function assessment and infarct volume
+Stroke outcomes were assessed at 24 h after reperfusion using
+2,3,5-triphenyltetrazolium chloride (TTC; Sigma, St. Louis, MO,
+USA) staining and a ﬁve-tiered neurological scoring system as
+described previously [25].
+Morphological examinations
+The ﬁxed brains were parafﬁn-embedded, and sections were
+prepared and stained with hematoxylin and eosin (HE) or 0.1% (w/
+v) cresyl violet (Sigma) to determine the neural morphology in the
+cerebral cortex and hippocampus as described [27].
+Primary cell cultures and treatments
+Primary cortical neuron and astrocyte cultures were performed
+as described previously [25,28]. Cells were subjected to the model
+of oxygen–glucose deprivation (OGD) (1 h of OGD followed by 24 h
+of reoxygenation) as described [29].
+Recombinant lentivirus infection and stereotaxic injection in the brain
+Recombinant lentivirus vectors harboring a short-hairpin RNA
+(shRNA) sequence targeting NOX2 (LV-shRNA-NOX2) or complexin
+II (LV-shRNA-complexin II) were produced by GenePharma Co. Ltd
+(Shanghai, China) at a titer of 109 transfection units/ml. The DNA
+target sequence for shRNA to complexin II (5′-GAAGAGCGCAAGGCCAAACAT-3′) was designed based on the core sequence of
+mouse complexin II cDNA (Accession No. NM_009946.2); the
+target sequence for shRNA to NOX2 (5′-GAGTGGTGTGTGAATGCCAGA-3′) was designed based on the core sequence of mouse NOX2
+cDNA (Accession No. NM_007807.4). Neurons were infected with
+lentivirus at day 6 in vitro at a multiplicity of infection of 20 in
+complete medium containing Polybrene (5 μg/ml) and then subjected to OGD 4 days after infection (day 10 in vitro) as described
+previously [30].
+For in vivo gene silencing of complexin II, cortical injection of
+LV-shRNA-complexin II or scramble was carried out by using
+a stereotaxic instrument as described [31,32]. Each mouse
+was subjected to three cortical injections as follows: point 1,
+0.3 mm anterior to bregma, 3 mm lateral, 2 mm deep; point 2,
+0.8 mm posterior to bregma, 3 mm lateral, 2 mm deep; point 3,
+1.9 mm posterior to bregma, 3 mm lateral, 2 mm deep. All the
+target points were in the right cortex within the MCAO territory.
+The lentivirus suspension (0.7 μl) was injected at each point using
+a 10-μl Hamilton syringe at a rate of 0.2 μl per minute, with an
+additional 10 min wait before the needle was removed. Two weeks
+after injection of lentivirus, the mice were subjected to MCAO as
+described above.
+Glutamate content measurements
+Glutamate concentration in mouse brain homogenates or cell
+supernatants was determined by high-performance liquid chromatography (HPLC) using ODSC18 chromatographic columns (4.5 
+150 mm, 5 μm, Varian, USA) in an HPLC system with a 2475 multiﬂuorescence detector (Waters, USA). The procedure was followed
+as in previous studies [33]. β-Mercaptoethanol (Fluck, Switzerland),
+O-phthalaldehyde (Sigma), and L-glutamic acid standard (Sigma)
+were used in this study.
+
+944
+
+Z. Wang et al. / Free Radical Biology and Medicine 65 (2013) 942–951
+
+RNA extraction and real-time RT-PCR
+Total RNA was isolated from the brain or cells and mRNA levels
+were analyzed by real-time RT-PCR using a Bio-Rad iCycler system
+(Bio-Rad, Hercules, CA, USA) [25]. The speciﬁc primers for target
+gene and housekeeping gene sequences are shown in Table 1.
+Western blot analysis
+Total cellular homogenate preparation and Western blot analysis were performed as described previously [34]. Antibodies to
+complexins I, II, and III were from ProteinTech Group (Chicago, IL,
+USA); antibodies to NOX2 and syntaxin were from Abcam (Cambridge, MA, USA). To document the loading controls, the membrane was reprobed with a primary antibody against the
+housekeeping protein β-actin (ProteinTech Group).
+Immunohistochemistry and immunoﬂuorescence
+Immunohistochemistry and immunoﬂuorescent staining were
+performed as previously described [35]. Images were obtained by
+confocal laser-scanning microscopy using an LSM780 laser scanning
+confocal microscope (Carl Zeiss, Germany) equipped with a PlanApochromat 63  /1.4 objective. Images were assembled in the Adobe
+Photoshop 7.0 software package.
+Measurement of NADPH oxidase activity
+NADPH oxidase activity was determined by measurement of
+O2  production in brain or cell homogenates. Fluorescence
+spectrometry for O2  production was performed by using a
+modiﬁed dihydroethidium (Invitrogen) ﬂuorescence spectrometric
+assay as described previously [25].
+
+shows that the infarction volume at 24 h after reperfusion was
+signiﬁcantly reduced in NOX2  / mice (19.3873.02%) compared
+with WT mice (35.2573.36%), which was consistent with the
+decreased neurological deﬁcit score (Fig. 1B). Furthermore, HE
+staining was used to show morphological features of injured neurons
+(Fig. 1C) and cresyl violet staining was used to examine the surviving
+neurons (Fig. 1D) in ischemia-evoked neuronal injury. We found that
+cerebral ischemia induced severe neuron necrosis, with shrunken
+cytoplasm, pyknotic nucleus, and reduction of Nissl substance, which
+was improved by NOX2 deﬁciency. Collectively, these results implicated the lack of NOX2 in reduced cerebral injury during ischemia.
+NOX2 deﬁciency reduced glutamate release and complexin I and II
+expression in ischemic stroke
+To explore the role of NOX2 in neuronal excitotoxicity, we
+measured the glutamate content in ischemic cerebral cortex homogenates. Consistent with previous studies [33], glutamate levels were
+not signiﬁcantly different between WT and NOX2  / mice under
+nonischemic (normal and sham-operated) conditions. However, NOX2
+deﬁciency signiﬁcantly decreased the enhanced glutamate levels after
+cerebral ischemia/reperfusion (Fig. 2A), indicating that NOX2mediated glutamate release is activated under ischemic conditions.
+We further found that both complexin I and complexin II levels were
+signiﬁcantly increased in the brain from ischemic mice by real-time
+RT-PCR (Fig. 2B) and Western blot (Fig. 2C) analyses, which were
+markedly attenuated by NOX2 deﬁciency. However, the expression of
+complexin III showed no signiﬁcant change. Our immunohistochemical studies also conﬁrmed the increased levels of complexin I and
+Table 2
+Comparison of physiological variables.
+WT mice
+
+NOX2  /  mice
+
+Statistics
+
+Before MCAO
+Heart rate (beats/min)
+Arterial blood pH
+SpO2 (%)
+Temperature (1C)
+Glucose (mg/dl)
+
+448.13 74.72
+7.36 70.10
+95.3570.47
+36.6770.15
+214.11 75.22
+
+452.26 76.77
+7.39 70.07
+93.2470.52
+36.5 70.08
+212.13 74.13
+
+Data are expressed as means 7 SE. The signiﬁcance of the
+differences in mean values between and within multiple groups
+was examined by one-way ANOVA followed by Duncan's multiple
+range test. Po 0.05 was considered statistically signiﬁcant.
+
+During MCAO
+Heart rate (beats/min)
+Arterial blood pH
+SpO2 (%)
+Temperature (1C)
+Glucose (mg/dl)
+
+450.17 73.89
+7.40 70.21
+93.92 70.66
+36.22 70.20
+226.13 712.20
+
+447.21 75.38
+7.51 70.16
+94.43 70.58
+36.59 70.19
+219.51 77.98
+
+After MCAO
+Heart rate (beats/min)
+Arterial blood pH
+SpO2 (%)
+Temperature (1C)
+Glucose (mg/dl)
+
+450.79 714.01
+7.39 70.31
+94.84 70.77
+36.38 70.41
+201.22 717.88
+
+456.57 79.19
+7.46 70.51
+94.03 70.91
+36.26 70.37
+205.27 714.33
+
+Flow cytometry
+Cell death was determined by propidium iodide–annexin V
+staining as described previously [36].
+
+Results
+NOX2 deﬁciency ameliorated stroke outcomes
+To conﬁrm that the ischemic insult was equivalent among all
+groups, relevant physiological parameters were assessed before and
+during MCAO. As shown in Table 2, physiological variables were not
+signiﬁcantly different between WT and NOX2  / mice before MCAO,
+during MCAO, or at 24 h after reperfusion. In Fig. 1A, TTC staining
+
+Relevant physiological parameters were assessed before, during and after middle
+cerebral artery occlusion (MCAO). The physiological variables were not signiﬁcantly
+different between NOX2  /  mice and WT mice before MCAO, during MCAO, or at
+24 h after reperfusion, conﬁrming that the ischemic insult was equivalent among
+all groups. Values are means 7 SEM. SpO2, oxygen saturation.
+
+Table 1
+Primer pairs for target genes used for real-time RT-PCR in this study.
+Gene
+
+Accession No.
+
+Forward
+
+Reverse
+
+Complexin I
+Complexin II
+Complexin III
+NOX2
+GAPDH
+
+NM_007756.3
+NM_009946.2
+NM_146223.3
+NM_007807.4
+NM_008084.2
+
+CCTGAGGAACCAAGCCATCA
+CCAGCCAGGAGTGCTGAAT
+GAATCTCATGTAGCTCAGGC
+TGTGGCTGTGATAAGCAGGA
+AGGTCATCCCAGAGCTGAACG
+
+CTGCTCCCAACATCCCTTGT
+CGGAGGAGGATGGGTTACTT
+ACATAGTGTTGCTGCACATCT
+TCCCACTAACATCACCACCT
+CACCCTGTTGCTGTAGCCGTAT
+
+Z. Wang et al. / Free Radical Biology and Medicine 65 (2013) 942–951
+
+945
+
+Fig. 1. NOX2 deﬁciency ameliorated stroke outcomes. (A) Representative photographs of 2,3,5-triphenyltetrazolium chloride (TTC) staining (top) and calculated infarct
+volume showing cerebral infarction volume at 24 h of reperfusion after middle cerebral artery occlusion (MCAO) in wild-type (WT) and NOX2  /  mice. (B) Neurological
+deﬁcit scores in WT and NOX2  /  mice after cerebral ischemia reperfusion. (C) Representative photomicrographs of HE staining in hippocampus and cerebral cortex after
+ischemia/reperfusion. (D) Representative photomicrographs of cresyl violet staining in hippocampus and cerebral cortex. *P o 0.05 vs WT sham-operated mice, #P o 0.05 vs
+WT ischemic mice (n¼ 8).
+
+complexin II in the ischemic hemisphere (Fig. 2D). Moreover, we
+observed that complexin I was expressed only in neurons and
+complexin II was expressed in both neurons and astrocytes (Fig. 2E).
+The upregulation of complexin II in neurons (Fig. 2F) and astrocytes
+(data not shown) was further conﬁrmed in ischemic stroke by
+immunoﬂuorescence analysis. Considering that both neurons and
+astrocytes are responsible for glutamate release [37], we investigated
+mainly the regulatory mechanisms and functions of complexin II in
+ischemic stroke.
+Gene silencing of complexin II ameliorated cerebral injury
+in ischemic stroke
+To address the role of complexin II in glutamate-mediated
+neuronal injury in ischemic stroke in vivo, we infused LV-shRNAcomplexin II into the right cortex of mice by stereotaxic injection.
+Two weeks later, we induced ischemia in the right hemisphere by
+MCAO and tested neurological outcome and infarct size at 24 h after
+reperfusion. Fig. 3A shows the gene silencing efﬁciency of
+
+complexin II in the right cortex of mice by stereotaxic injection.
+We found that LV-shRNA-complexin II treatment signiﬁcantly
+decreased infarct size (Fig. 3B) and neurological deﬁcit (Fig. 3C),
+indicating an amelioration of ischemic injury. Moreover, the cerebral ischemia induced glutamate increase was markedly attenuated
+by knockdown of complexin II (Fig. 3D). Although SNARE complex
+proteins spontaneously assemble into a very stable ternary complex, which resists dissociation when dissolved in SDS, the ternary
+SNARE complex is heat sensitive, and high-order oligomers can be
+separated by SDS–PAGE under boiling conditions [38,39]. Therefore,
+as shown in Fig. 3E, we observed that total syntaxin as deﬁned by
+the levels of monomeric syntaxin ( 35 kDa) seen in boiled SDSextracted homogenates remained constant, but SNARE complex
+formation ( 70 kDa) was signiﬁcantly increased in the brain
+homogenates from ischemic mice, which was attenuated by complexin II knockdown as evidenced by the amounts of SNARE
+complex in samples without prior heating. Taken together, these
+data provide direct evidence for the contribution of complexin II to
+SNARE-mediated glutamate release in cerebral ischemia injury.
+
+946
+
+Z. Wang et al. / Free Radical Biology and Medicine 65 (2013) 942–951
+
+Fig. 2. NOX2 deﬁciency reduced glutamate release and complexin I and II expression in ischemic stroke. (A) Representative ﬂuorescence HPLC chromatograms and
+summarized data showing the glutamate levels in the brain from the various groups of mice. (B) Real-time RT-PCR analysis of mRNA levels of complexins I–III in the ischemic
+area of the brain. (C) Representative Western blot gels and summarized data showing protein levels of complexins I–III in the ischemic area of the brain.
+(D) Immunohistochemistry for complexin I and complexin II at 24 h of reperfusion after MCAO in the ischemic brain. (E) Representative Western blot gels showing the
+protein expression of complexins I and II in the selected brain cells. (F) Upregulation of complexin II expression after cerebral ischemia/reperfusion in neurons by
+immunoﬂuorescence analysis. *Po 0.05 vs WT sham-operated mice, #Po 0.05 vs WT ischemic mice (n ¼8).
+
+Complexin II expression was mediated by NOX2 in primary
+cultured neurons and astrocytes subjected to OGD
+In an in vitro study, primary cultured cortical neurons and
+astrocytes subjected to OGD were employed. Consistent with the
+increased NADPH oxidase activity (Fig. 4A) and NOX2 expression
+(Fig. 4B), OGD signiﬁcantly induced complexin II expression in
+neurons (Fig. 4C). To further investigate the role of NOX2 on the
+regulation of complexin II, NOX2 gene silencing was used in this
+study. Our results showed that knockdown of NOX2 (Fig. 4D and E)
+signiﬁcantly blocked OGD-induced complexin II expression (Fig. 4F),
+indicating the contribution of NOX2 to the regulation of complexin
+
+II in neurons. Similar results were also found in astrocytes (data not
+shown).
+
+NOX2-mediated complexin II expression contributed to OGD-induced
+glutamate release and neuron necrosis
+To further investigate the role of complexin II in glutamatemediated neuronal injury in vitro, a lentivirus vector harboring
+shRNA targeting complexin II was used in this study. Our studies
+showed that silencing of complexin II expression by LV-shRNAcomplexin II infection (Fig. 5A) blocked OGD-induced glutamate
+
+Z. Wang et al. / Free Radical Biology and Medicine 65 (2013) 942–951
+
+947
+
+Fig. 3. Gene silencing of complexin II ameliorated cerebral ischemia/reperfusion injury. (A) Representative Western blot gel documents and summarized data showing the
+efﬁciency of gene silencing of complexin II by LV-shRNA-complexin II infection into the right cerebral cortex of mice by stereotaxic injection. (B) Representative photographs
+of TTC staining (top) and calculated infarct volume showing increased cerebral volume at 24 h of reperfusion after MCAO in the various groups of mice. (C) Neurological
+deﬁcit score. (D) Summarized data showing glutamate levels in the brain. (E) Representative Western blot gels of soluble N-ethylmaleimide-sensitive factor attachment
+protein receptor complex proteins shows they form oligomers migrating at  70 kDa and monomeric syntaxin at  35 kDa detected by antibody to syntaxin in the samples
+incubated at 37 1C or boiled. *Po 0.05 vs scramble sham-operated mice, #Po 0.05 vs scramble ischemic mice (n ¼8).
+
+release (Fig. 5B) and neuron necrosis (Fig. 5C), which was consistent with the results from NOX2 knockdown.
+
+Discussion
+In this study, we identiﬁed for the ﬁrst time the upregulation
+of complexin II in the ischemic brain and evaluated its potential
+role in ischemic stroke, showing that gene silencing of complexin
+II ameliorated cerebral injury. We further demonstrated that
+
+NOX2-mediated complexin II signaling contributed to glutamate
+excitotoxicity in ischemic stroke (Fig. 6).
+As an important excitatory neurotransmitter, glutamate is
+physiologically released at presynaptic terminals by a process
+known as SNARE-dependent synaptic vesicle exocytosis [40] and
+plays a pivotal role in acute neurological disorders including
+stroke, trauma, and neurodegenerative disease [41]. Increased glutamate levels during cerebral ischemia with excessive neurological
+stimulation cause the glutamate-induced neuronal excitotoxicity,
+leading to activation of many cellular signaling cascades [42],
+
+948
+
+Z. Wang et al. / Free Radical Biology and Medicine 65 (2013) 942–951
+
+Fig. 4. Complexin II expression was mediated by NOX2 in primary cultured neurons subjected to oxygen–glucose deprivation (OGD). (A) Summarized data showing NADPH
+oxidase activity in neuron cells cultured following the OGD model. (B) Representative Western blot and summarized data showing NOX2 protein levels in neuron cells
+cultured following the OGD model. (C) Representative Western blot and summarized data showing the expression of complexin II in neuron cells cultured following the OGD
+model. (D) Summarized data showing relative NOX2 mRNA levels by LV-shRNA-NOX2 infection. (E) Representative Western blot and summarized data showing relative
+NOX2 protein levels by LV-shRNA-NOX2 infection. (F) Representative Western blot and summarized data showing that knockdown of NOX2 signiﬁcantly blocked OGDinduced complexin II expression. *P o0.05 vs control (A–E) or scramble-control (F) group, #Po 0.05 vs scramble OGD group (n¼ 6).
+
+ultimately resulting in cerebral injury. Pharmacological targeting of
+glutamatergic pathways may help design a new approach to developing therapeutic strategies for the treatment of ischemic stroke.
+However, there are currently no pharmacological interventions
+targeting glutamate receptor blockers capable of providing signiﬁcant neuroprotection in the clinical setting of cerebral ischemia or
+
+injury. Therefore, efforts have been made to attach glutamate in
+earlier stages by inhibition of synthesis or release.
+Although very recent studies have indicated that NADPH
+oxidase is a major source of ROS production controlling glutamate
+release and associated behavioral alterations after acute ketamine
+exposure [33], how neuronal NADPH oxidase activation is coupled
+
+Z. Wang et al. / Free Radical Biology and Medicine 65 (2013) 942–951
+
+949
+
+Fig. 5. NOX2-mediated complexin II expression contributed to OGD-induced glutamate release and neuron necrosis. (A) Representative Western blot and summarized data
+showing relative complexin II protein levels by LV-shRNA-complexin II infection. (B) Summarized data showing glutamate levels by HPLC analysis. (C) Summarized data
+showing neuron necrosis by ﬂow cytometric analysis. *P o 0.05 vs control (A) or scramble control (B and C) group, #Po 0.05 vs scramble OGD group (n ¼6).
+
+Fig. 6. Schematic representation of NOX2-mediated glutamate excitotoxicity via
+complexin II/SNARE signaling pathways after cerebral ischemia. ROS, reactive oxygen
+species; SNARE, soluble N-ethylmaleimide-sensitive factor attachment protein receptor; SNAP25, soluble N-ethylmaleimide-sensitive factor attachment protein-25;
+VAMP2, vesicle-associated membrane protein 2.
+
+to glutamate release is not well understood. In this study, one of
+the most important ﬁndings is that we discovered the role of
+complexin II in NADPH oxidase-mediated glutamate release and
+consequent glutamate-induced neuronal excitotoxicity in ischemic
+stroke. Complexins are important SNARE-modulating proteins that
+bind reversibly to the SNARE complex consisting of the vesicle
+protein synaptobrevin and the plasma membrane proteins syntaxin and SNAP25, thereby become part of the synaptic release
+apparatus, which makes vesicles fuse with the plasma membrane
+[43]. Recent studies have indicated that inhibition of the SNARE
+pathway attenuated damage after stroke [44,45]. Evidence has also
+shown that complexins are anchored on the SNARE complex and
+then activate and clamp SNARE complexes to regulate neurotransmitter release [17,46]. Genetic elimination of complexins from
+mammalian neurons causes a strong reduction in evoked neurotransmitter release, and altered complexin expression levels with
+consequent deﬁcits in synaptic transmission were suggested to
+contribute to the pathogenesis of Huntington disease, Parkinson
+
+disease, Alzheimer disease, and traumatic brain injury [47]. However, it remains unclear whether complexins are associated with
+cerebral ischemia injury. In this study, we found that cerebral
+ischemia caused a signiﬁcant increase in complexin I and II
+expression in the damaged cerebral cortex accompanied by
+enhanced glutamate release and neuronal damage, which was
+attenuated by NOX2 deﬁciency, indicating the role of NOX2 in the
+regulation of complexins in ischemic stroke. Further results
+showed that complexin I was expressed only in neurons and
+complexin II was expressed in both neurons and astrocytes.
+Although neurons are far more susceptible to ischemic damage
+than neighboring astrocytes and the main victims suffering from
+glutamate-induced neurotoxic injury, astrocytes can also release
+vesicles that contain glutamate, which has a variety of actions on
+neurons, many of them relevant to ischemic brain damage [37]. In
+addition, it has been reported that complexin I is predominantly
+detected in axosomatic terminals, which are presumed to be
+inhibitory γ-aminobutyric acidergic, whereas complexin II is
+selectively enriched in axospinal and axodendritic presynaptic
+terminals, which are mostly excitatory glutamatergic [48]. Therefore, considering that complexin II is expressed in both neurons
+and astrocytes and is mainly localized in excitatory synapses [49],
+we focused on the role of complexin II in ischemic stroke in this
+study. To examine whether gene silencing of complexin II protects
+against cerebral ischemia injury, we generated a lentiviral vector
+harboring shRNA targeting complexin II and infused it into the
+cortex of mice before induction of ischemia by MCAO and found
+that LV-shRNA-complexin II treatment signiﬁcantly ameliorated
+ischemic cerebral injury as evidenced by decreased infarct size,
+neurological deﬁcit score, glutamate release, and SNARE complex
+formation, supporting the role of complexin II in the pathogenesis
+of ischemic stroke.
+To further conﬁrm the contribution of NADPH oxidase–complexin II signaling to the regulation of glutamate-induced
+
+950
+
+Z. Wang et al. / Free Radical Biology and Medicine 65 (2013) 942–951
+
+neurotoxic injury, primary cortical neuronal cultures were performed in this study. In vitro, we found that the expression of
+NOX2 and NADPH oxidase activity were dramatically increased by
+OGD. The expression of complexin II was signiﬁcantly increased
+together with glutamate release, which was attenuated by NOX2
+knockdown. These results add further evidence to support the
+essential role of complexin II in mediating NOX2-induced glutamate release in ischemic stroke. It should be noted that the
+present study did not further explore the regulatory mechanisms
+of complexin II expression by NADPH oxidase activity; further
+studies need to address this issue.
+Taken together, these ﬁndings for the ﬁrst time provide
+evidence that complexin II, as a central target molecule, links
+NADPH oxidase-derived ROS to glutamate-mediated neuronal
+excitotoxicity in ischemic stroke. Pharmacological targeting of
+NOX2-mediated glutamate signaling pathways via complexin II
+at multiple levels may help design a new approach to developing
+therapeutic strategies for prevention of deterioration of cerebral
+function and for the treatment of acute neurological disorders
+including stroke, trauma, or other neurodegenerative diseases.
+
+Acknowledgments
+This study was supported by grants from the National 973 Basic
+Research Program of China (2012CB517700), the National Natural
+Science Foundation of China (81070918, 81070572, and 81170772),
+the Shandong Natural Science Fund for Distinguished Young
+Scholars to F. Yi (JQ201121), the Foundation for the Program for
+New Century Excellent Talents in University to F. Yi (NCET-110311), the Key Technologies Research and Development Program
+of Shandong Province (2010GSF10249), the China Postdoctoral
+Science Foundation (2012M521345), the Shandong Province Postdoctoral Innovation Foundation (201202009), the Shandong Natural Science Foundation (ZR2012HM032), and the Independent
+Innovation Foundation of Shandong University (IIFSDU2012TS119).
+
+References
+[1] Kahles, T.; Brandes, R. P. NADPH oxidases as therapeutic targets in ischemic
+stroke. Cell. Mol. Life Sci. 69:2345–2363; 2012.
+[2] Chen, H.; Yoshioka, H.; Kim, G. S.; Jung, J. E.; Okami, N.; Sakata, H.; Maier, C.
+M.; Narasimhan, P.; Goeders, C. E.; Chan, P. H. Oxidative stress in ischemic
+brain damage: mechanisms of cell death and potential molecular targets for
+neuroprotection. Antioxid. Redox Signaling 14:1505–1517; 2011.
+[3] Radermacher, K. A.; Wingler, K.; Langhauser, F.; Altenhofer, S.; Kleikers, P.;
+Hermans, J. J.; Hrabe de Angelis, M.; Kleinschnitz, C.; Schmidt, H. H.
+Neuroprotection after stroke by targeting NOX4 as a source of oxidative stress.
+Antioxid. Redox Signaling 18:1418–1427; 2013.
+[4] Bedard, K.; Krause, K. H. The NOX family of ROS-generating NADPH oxidases:
+physiology and pathophysiology. Physiol. Rev. 87:245–313; 2007.
+[5] Tang, X. N.; Cairns, B.; Kim, J. Y.; Yenari, M. A. NADPH oxidase in stroke and
+cerebrovascular disease. Neurol. Res. 34:338–345; 2012.
+[6] Kahles, T.; Brandes, R. P. Which NADPH oxidase isoform is relevant for
+ischemic stroke? The case for nox 2 Antioxid. Redox Signaling 18:1400–1417;
+2013.
+[7] Cairns, B.; Kim, J. Y.; Tang, X. N.; Yenari, M. A. NOX inhibitors as a therapeutic
+strategy for stroke and neurodegenerative disease. Curr. Drug Targets 13:
+199–206; 2012.
+[8] Chen, H.; Song, Y. S.; Chan, P. H. Inhibition of NADPH oxidase is neuroprotective after ischemia–reperfusion. J. Cereb. Blood Flow Metab. 29:1262–1272;
+2009.
+[9] Kahles, T.; Luedike, P.; Endres, M.; Galla, H. J.; Steinmetz, H.; Busse, R.;
+Neumann-Haefelin, T.; Brandes, R. P. NADPH oxidase plays a central role in
+blood–brain barrier damage in experimental stroke. Stroke 38:3000–3006;
+2007.
+[10] Chen, H.; Kim, G. S.; Okami, N.; Narasimhan, P.; Chan, P. H. NADPH oxidase is
+involved in post-ischemic brain inﬂammation. Neurobiol. Dis. 42:341–348;
+2011.
+[11] Suh, S. W.; Shin, B. S.; Ma, H.; Van Hoecke, M.; Brennan, A. M.; Yenari, M. A.;
+Swanson, R. A. Glucose and NADPH oxidase drive neuronal superoxide
+formation in stroke. Ann. Neurol. 64:654–663; 2008.
+
+[12] Won, S. J.; Tang, X. N.; Suh, S. W.; Yenari, M. A.; Swanson, R. A. Hyperglycemia
+promotes tissue plasminogen activator-induced hemorrhage by increasing
+superoxide production. Ann. Neurol. 70:583–590; 2011.
+[13] Castillo, J.; Davalos, A.; Noya, M. Progression of ischaemic stroke and
+excitotoxic aminoacids. Lancet 349:79–83; 1997.
+[14] Sodero, A. O.; Vriens, J.; Ghosh, D.; Stegner, D.; Brachet, A.; Pallotto, M.;
+Sassoe-Pognetto, M.; Brouwers, J. F.; Helms, J. B.; Nieswandt, B.; Voets, T.;
+Dotti, C. G. Cholesterol loss during glutamate-mediated excitotoxicity. EMBO J.
+31:1764–1773; 2012.
+[15] Bezzi, P.; Gundersen, V.; Galbete, J. L.; Seifert, G.; Steinhauser, C.; Pilati, E.;
+Volterra, A. Astrocytes contain a vesicular compartment that is competent for
+regulated exocytosis of glutamate. Nat. Neurosci. 7:613–620; 2004.
+[16] Jahn, R.; Scheller, R. H. SNAREs—engines for membrane fusion. Nat. Rev. Mol.
+Cell Biol. 7:631–643; 2006.
+[17] Maximov, A.; Tang, J.; Yang, X.; Pang, Z. P.; Sudhof, T. C. Complexin controls the
+force transfer from SNARE complexes to membranes in fusion. Science
+323:516–521; 2009.
+[18] Reim, K.; Mansour, M.; Varoqueaux, F.; McMahon, H. T.; Sudhof, T. C.; Brose,
+N.; Rosenmund, C. Complexins regulate a late step in Ca2 þ -dependent
+neurotransmitter release. Cell 104:71–81; 2001.
+[19] Chen, X.; Tomchick, D. R.; Kovrigin, E.; Arac, D.; Machius, M.; Sudhof, T. C.;
+Rizo, J. Three-dimensional structure of the complexin/SNARE complex. Neuron
+33:397–409; 2002.
+[20] McMahon, H. T.; Missler, M.; Li, C.; Sudhof, T. C. Complexins: cytosolic proteins
+that regulate SNAP receptor function. Cell 83:111–119; 1995.
+[21] Reim, K.; Wegmeyer, H.; Brandstatter, J. H.; Xue, M.; Rosenmund, C.; Dresbach,
+T.; Hofmann, K.; Brose, N. Structurally and functionally unique complexins at
+retinal ribbon synapses. J. Cell Biol. 169:669–680; 2005.
+[22] Avshalumov, M. V.; Chen, B. T.; Marshall, S. P.; Pena, D. M.; Rice, M. E.
+Glutamate-dependent inhibition of dopamine release in striatum is
+mediated by a new diffusible messenger, H2O2. J. Neurosci. 23:2744–2750;
+2003.
+[23] Kishida, K. T.; Klann, E. Sources and targets of reactive oxygen species in
+synaptic plasticity and memory. Antioxid. Redox Signaling 9:233–244; 2007.
+[24] Pellegrini-Giampietro, D. E.; Cherici, G.; Alesiani, M.; Carla, V.; Moroni, F.
+Excitatory amino acid release and free radical formation may cooperate in the
+genesis of ischemia-induced neuronal damage. J. Neurosci. 10:1035–1041;
+1990.
+[25] Zhang, Y.; Wei, X.; Liu, L.; Liu, S.; Wang, Z.; Zhang, B.; Fan, B.; Yang, F.; Huang,
+S.; Jiang, F.; Chen, Y. H.; Yi, F. TIPE2, a novel regulator of immunity, protects
+against experimental stroke. J. Biol. Chem. 287:32546–32555; 2012.
+[26] Bahmani, P.; Schellenberger, E.; Klohs, J.; Steinbrink, J.; Cordell, R.; Zille, M.;
+Muller, J.; Harhausen, D.; Hofstra, L.; Reutelingsperger, C.; Farr, T. D.; Dirnagl,
+U.; Wunder, A. Visualization of cell death in mice with focal cerebral ischemia
+using ﬂuorescent annexin A5, propidium iodide, and TUNEL staining. J. Cereb.
+Blood Flow Metab. 31:1311–1320; 2011.
+[27] Zhang, Y.; Xing, S.; Zhang, J.; Li, J.; Li, C.; Pei, Z.; Zeng, J. Reduction of betaamyloid deposits by gamma-secretase inhibitor is associated with the
+attenuation of secondary damage in the ipsilateral thalamus and sensory
+functional improvement after focal cortical infarction in hypertensive rats. J.
+Cereb. Blood Flow Metab 31:572–579; 2011.
+[28] Bae, O. N.; Rajanikant, K.; Min, J.; Smith, J.; Baek, S. H.; Serfozo, K.; Hejabian, S.;
+Lee, K. Y.; Kassab, M.; Majid, A. Lymphocyte cell kinase activation mediates
+neuroprotection during ischemic preconditioning. J. Neurosci. 32:7278–7286;
+2012.
+[29] Zhang, Y.; Su, P.; Liang, P.; Liu, T.; Liu, X.; Liu, X. Y.; Zhang, B.; Han, T.; Zhu, Y. B.;
+Yin, D. M.; Li, J.; Zhou, Z.; Wang, K. W.; Wang, Y. The DREAM protein negatively
+regulates the NMDA receptor through interaction with the NR1 subunit. J.
+Neurosci. 30:7575–7586; 2010.
+[30] Cheng, J.; Uchida, M.; Zhang, W.; Grafe, M. R.; Herson, P. S.; Hurn, P. D. Role of
+salt-induced kinase 1 in androgen neuroprotection against cerebral ischemia.
+J. Cereb. Blood Flow Metab. 31:339–350; 2011.
+[31] Zhou, L.; Li, F.; Xu, H. B.; Luo, C. X.; Wu, H. Y.; Zhu, M. M.; Lu, W.; Ji, X.; Zhou, Q.
+G.; Zhu, D. Y. Treatment of cerebral ischemia by disrupting ischemia-induced
+interaction of nNOS with PSD-95. Nat. Med 16:1439–1443; 2010.
+[32] Suh, Y. H.; Terashima, A.; Petralia, R. S.; Wenthold, R. J.; Isaac, J. T.; Roche, K.
+W.; Roche, P. A. A neuronal role for SNAP-23 in postsynaptic glutamate
+receptor trafﬁcking. Nat. Neurosci. 13:338–343; 2010.
+[33] Sorce, S.; Schiavone, S.; Tucci, P.; Colaianna, M.; Jaquet, V.; Cuomo, V.;
+Dubois-Dauphin, M.; Trabace, L.; Krause, K. H. The NADPH oxidase NOX2
+controls glutamate release: a novel mechanism involved in psychosis-like
+ketamine responses. J. Neurosci. 30:11317–11325; 2010.
+[34] Yi, F.; Zhang, A. Y.; Janscha, J. L.; Li, P. L.; Zou, A. P. Homocysteine activates
+NADH/NADPH oxidase through ceramide-stimulated Rac GTPase activity in rat
+mesangial cells. Kidney Int. 66:1977–1987; 2004.
+[35] Yi, F.; Jin, S.; Zhang, F.; Xia, M.; Bao, J. X.; Hu, J.; Poklis, J. L.; Li, P. L. Formation of
+lipid raft redox signalling platforms in glomerular endothelial cells: an early
+event of homocysteine-induced glomerular injury. J. Cell. Mol. Med. 13:
+3303–3314; 2009.
+[36] Candolﬁ, M.; Yagiz, K.; Foulad, D.; Alzadeh, G. E.; Tesarfreund, M.; Muhammad,
+A. K.; Puntel, M.; Kroeger, K. M.; Liu, C.; Lee, S.; Curtin, J. F.; King, G. D.; Lerner,
+J.; Sato, K.; Mineharu, Y.; Xiong, W.; Lowenstein, P. R.; Castro, M. G. Release of
+HMGB1 in response to proapoptotic glioma killing strategies: efﬁcacy and
+neurotoxicity. Clin. Cancer Res. 15:4401–4414; 2009.
+[37] Rossi, D. J.; Brady, J. D.; Mohr, C. Astrocyte metabolism and signaling during
+brain ischemia. Nat. Neurosci. 10:1377–1386; 2007.
+
+Z. Wang et al. / Free Radical Biology and Medicine 65 (2013) 942–951
+
+[38] Hayashi, T.; McMahon, H.; Yamasaki, S.; Binz, T.; Hata, Y.; Sudhof, T. C.;
+Niemann, H. Synaptic vesicle membrane fusion complex: action of clostridial
+neurotoxins on assembly. EMBO J. 13:5051–5061; 1994.
+[39] Asuni, A. A.; Cunningham, C.; Vigneswaran, P.; Perry, V. H.; O'Connor, V.
+Unaltered SNARE complex formation in an in vivo model of prion disease.
+Brain Res. 1233:1–7; 2008.
+[40] Rizo, J.; Rosenmund, C. Synaptic vesicle fusion. Nat. Struct. Mol. Biol. 15:
+665–674; 2008.
+[41] Kostandy, B. B. The role of glutamate in neuronal ischemic injury: the role of
+spark in ﬁre. Neurol. Sci 33:223–237; 2012.
+[42] Arundine, M.; Tymianski, M. Molecular mechanisms of glutamate-dependent
+neurodegeneration in ischemia and traumatic brain injury. Cell. Mol. Life Sci.
+61:657–668; 2004.
+[43] Neher, E. Complexin: does it deserve its name? Neuron 68:803–806; 2010.
+[44] Hines, D. J.; Haydon, P. G. Inhibition of a SNARE-sensitive pathway in
+astrocytes attenuates damage following stroke. J. Neurosci. 33:4234–4240;
+2013.
+
+951
+
+[45] Kagiyama, T.; Glushakov, A. V.; Sumners, C.; Roose, B.; Dennis, D. M.; Phillips,
+M. I.; Ozcan, M. S.; Seubert, C. N.; Martynyuk, A. E. Neuroprotective action of
+halogenated derivatives of L-phenylalanine. Stroke 35:1192–1196; 2004.
+[46] Xue, M.; Stradomska, A.; Chen, H.; Brose, N.; Zhang, W.; Rosenmund, C.; Reim,
+K. Complexins facilitate neurotransmitter release at excitatory and inhibitory
+synapses in mammalian central nervous system. Proc. Natl. Acad. Sci. USA
+105:7875–7880; 2008.
+[47] Brose, N. Altered complexin expression in psychiatric and neurological
+disorders: cause or consequence? Mol. Cells 25:7–19; 2008.
+[48] Eastwood, S. L.; Burnet, P. W.; Harrison, P. J. Expression of complexin I and II
+mRNAs and their regulation by antipsychotic drugs in the rat forebrain.
+Synapse 36:167–177; 2000.
+[49] Yamada, M.; Saisu, H.; Ishizuka, T.; Takahashi, H.; Abe, T. Immunohistochemical distribution of the two isoforms of synaphin/complexin involved in
+neurotransmitter release: localization at the distinct central nervous system
+regions and synaptic types. Neuroscience 93:7–18; 1999.
+
+

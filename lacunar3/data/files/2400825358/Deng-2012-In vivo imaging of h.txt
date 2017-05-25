@@ -1,0 +1,1204 @@
+﻿In vivo imaging of hemodynamics and
+oxygen metabolism in acute focal
+cerebral ischemic rats with laser speckle
+imaging and functional photoacoustic
+microscopy
+Zilin Deng
+Zhen Wang
+Xiaoquan Yang
+Qingming Luo
+Hui Gong
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24225/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+(8.0.0.2542,925226680 PDF Extractor SDK TRIAL)
+[Link]
+http://dx.doi.org/10.1117/1.JBO.17.8.081415
+[Link]
+http://dx.doi.org/10.1117/1.JBO.17.8.081415
+[Link]
+http://dx.doi.org/10.1117/1.JBO.17.8.081415
+[Link]
+http://dx.doi.org/10.1117/1.JBO.17.8.081415
+[Link]
+http://dx.doi.org/10.1117/1.JBO.17.8.081415
+[Link]
+http://dx.doi.org/10.1117/1.JBO.17.8.081415
+In vivo imaging of hemodynamics and oxygen metabolism
+in acute focal cerebral ischemic rats with laser speckle
+imaging and functional photoacoustic microscopy
+Zilin Deng,a,b* Zhen Wang,a,b* Xiaoquan Yang,a,b Qingming Luo,a,b and Hui Gonga,b
+aWuhan National Laboratory for Optoelectronics-Huazhong University of Science and Technology, Britton Chance Center for Biomedical Photonics,
+1037 Luoyu Road, Wuhan 430074, China
+bHuazhong University of Science and Technology, Key Laboratory of Biomedical Photonics of Ministry of Education, 1037 Luoyu Road, Wuhan
+430074, China
+Abstract. Stroke is a devastating disease. The changes in cerebral hemodynamics and oxygen metabolism associated
+with stroke play an important role in pathophysiology study. But the changes were difficult to describe with a
+single imaging modality. Here the changes in cerebral blood flow (CBF), cerebral blood volume (CBV), and oxygen
+saturation (SO
+2
+) were yielded with laser speckle imaging (LSI) and photoacoustic microscopy (PAM) during and
+after 3-h acute focal ischemic rats. These hemodynamic measures were further synthesized to deduce the changes
+in oxygen extraction fraction (OEF). The results indicate that all the hemodynamics except CBV had rapid declines
+within 40-min occlusion of middle cerebral artery (MCAO). CBV in arteries and veins first increased to the maximum
+value of112.4236.69% and130.5831.01% by 15 min MCAO; then all the hemodynamics had a persistent
+reduction with small fluctuations during the ischemic. When ischemia lasted for 3 h, CBF in arteries, veins
+decreased to 1714.65%, 24.5220.66%, respectively, CBV dropped to 6218.56% and 5918.48%. And
+the absolute SO
+2
+decreased by40.5222.42%and54.2411.77%. After 180-min MCAO, the changes in hemodynamics
+and oxygen metabolism were also quantified. The study suggested that combining LSI and PAM provides
+an attractive approach for stroke detection in small animal studies.©2012 Society of Photo-Optical Instrumentation Engineers (SPIE).
+[DOI: 10.1117/1.JBO.17.8.081415]
+Keywords: ischemia; photoacoustic microscopy; laser speckle imaging.
+Paper 11700SS received Nov. 29, 2011; revised manuscript received Jun. 21, 2012; accepted for publication Jul. 3, 2012; published
+online Jul. 24, 2012.
+1 Introduction
+Stroke is the leading cause of adult disability and the third most
+common cause of death worldwide.1–3 For a noncommunicable
+disease, it is already and will continue to be the most challenging
+disease of increasing socioeconomic importance in aging populations.
+Among all types of stroke, ischemic stroke attributable
+to large-artery ischemia (most often middle cerebral artery,
+MCA) is the most common type and constitutes more than
+80% of all strokes.1,3,4 Since there are rich nutrients and oxygen
+existing in the blood, the changes in cerebral hemodynamics and
+oxygen metabolism responsible for the local neuronal activities
+in ischemia often manifest blood flow supply, tissue oxygen
+consumption, and tissue viability.5–8 Also, the hemodynamic
+changes are key elements of ischemic pathopysiology, which
+can be depicted with imaging.9
+Current well-established imaging modalities that have been
+adopted to study focal cerebral ischemia include computed
+tomography (CT), magnetic resonance imaging (MRI) and positron
+emission tomography (PET).1,3,10–13 They are all able to
+image cerebral blood volume (CBV) and cerebral blood flow
+(CBF) at different time point after stroke. However, CT is unable
+to image the oxygen saturation (SO
+2
+) in vessels even with
+contrast agent. MRI is only sensitive to deoxyhemoglobin
+(HbR). PET lacks sufficient spatial resolution and requires
+the intravenous administration of exogenous radioactive isotopes
+, which are inconvenient for continuous study in stroke.
+Optical imaging with high spatiotemporal resolution offers
+unique advantages and broad prospects for evaluating stroke
+physiology in endogenous contrast.14–16It has greatly facilitated
+the monitoring of changes in cerebral hemodynamics.5
+Up to the present, numerous different embodiments of optical
+imaging have been used to investigate the changes in cerebral
+hemodynamics after ischemia. Near-infrared spectroscopy
+(NIRS) could be adopted to identify the intermittent and spontaneous
+peri-infarct depolarizations (PID) during focal cerebral
+ischemia in rats.17 Multispectral optical imaging (MSOI) was
+demonstrated to map the changes in relative oxyhemoglobin
+(HbO) and relative HbR in forepaw stimulation in rat focal cerebral
+ischemia.18 Based on diffuse optical tomography (DOT),
+CBF, CBV, SO2, and oxygen extraction fraction (OEF) were
+captured after 1 h occlusion of middle cerebral artery (MCAO)
+and reperfusion in rats.8 To yield high-resolution spatiotemporal
+maps of CBF and oxygen metabolism in focal cerebral
+ischemia simultaneously, laser speckle imaging (LSI) and MSOI
+had been used in combination.19 Although the previous investigations
+clearly visualized the physiological changes following
+focal cerebral ischemia, significant challenges remained. Among
+these imaging techniques, NIRS and DOT both lack sufficient
+*These authors contributed equally to this work.
+Address all correspondence to: Hui Gong, Wuhan National Laboratory for Optoelectronics-Huazhong
+University of Science and Technology, Britton Chance
+Center for Biomedical Photonics, 1037 Luoyu Road, Wuhan 430074, China.Tel:
++86 027-87792933; Fax: +86 027-87792934; E-mail:huigong@mail.hust.edu.cn 0091-3286/2012/$25.00 © 2012 SPIE
+Journal of Biomedical Optics 081415-1 August 2012 • Vol. 17(8)
+Journal of Biomedical Optics 17(8), 081415 (August 2012)
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24225/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+(EVALUATION PDF Extractor SDK 8.0.0.2542.573854789)
+spatial resolution to be effective for microvascular imaging.
+MSOI is a two-dimensional (2-D) imaging modality to image
+the average changes in cerebral hemodynamics of the regional
+cortical tissue and vasculature. Moreover, the baseline of optical
+properties and hemoglobin concentration should be first
+assumed.19–21 In a stroke, nerve cell viability and function are
+generally relevant to the hemodynamic signatures and oxygen
+consumption.8,22,23 It is difficult to monitor the changes in the
+aforementioned parameters with a single imaging modality.
+Therefore there is an intense interest in developing a new
+approach to accurately assess hemodynamic and metabolic
+changes from different vessels of the brain with high spatiotemporal
+resolution and eventually obtain a more comprehensive
+understanding of stroke.
+LSI is a full-field optical technique to image blood flow
+changes in vivo. Without scanning, 2-D distribution of CBF
+can be obtained with high spatial and temporal resolution.24,25
+Up to now, LSI has been demonstrated to be highly effective at
+measurement of CBF in the studies of ischemia,26,27 cortical
+spreading depression (CSD) and other experimental paradigms.28–30 Photoacoustic imaging, combining the high contrast
+of optics and low scattering of ultrasound, is a fast growing imaging
+modality, which is capable of multi-scale imaging.5,31–34
+Based on photoacoustic imaging, three-dimensional (3-D)
+neurovasculature can be mapped in endogenous contrast with
+high spatial resolution. Recently, dark-field photoacoustic
+microscopy (PAM) as a promising tool was widely used to
+assess changes in blood-oxygenation dynamics within the
+mouse brain,35,36 hemoglobin SO
+2
+variations in single vessels,37
+brain hemodynamic changes during rat forepaw electrical stimulation
+and so on.38–40
+To reveal the complicated changes in cerebral hemodynamics
+and oxygen metabolism in stroke, CBF, CBV, SO
+2
+, and OEF in
+two groups of rats were first recorded during 3-h acute focal
+ischemia with LSI and PAM, respectively. Then CBF, CBV,
+SO
+2
+in single vessels and the index of oxygen metabolism
+were imaged before, and after 180-min MCAO in six rats
+with these two imaging techniques together. The statistical analysis
+was also performed, and then the results were compared
+with other investigation.
+2 Materials and Methods
+2.1 Experimental Setups
+The detailed description of the LSI is provided elsewhere.24,41
+As shown in Fig. 1(a), laser from laser diode with power of
+30 mW, wavelength of 660 nm was used to illuminate the rat
+cortex at about 30-deg incidence. The speckle pattern generated
+by the scattered laser and modulated by motion of the red blood
+cells was acquired through a stereomicroscope (Z16 APO,
+Leica, Germany) attached to a charge-coupled device (CCD)
+camera (QE 270XS, PCO Pixelfly, Germany) with 20-ms exposure
+time and 2×2 binning. The aperture diaphragm and variable
+attenuator were well controlled to ensure the average
+speckle size to be about two pixels. To achieve high spatial resolution
+, the laser speckle temporal contrast analysis (LSTCA)
+was adopted to calculate the speckle contrast according to
+the following formula:25
+C
+t
+ðx; yÞ¼ 
+ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+1
+N−1
+P
+N
+n¼1
+ðIx;yðnÞ− ¯ I
+x;y
+Þ2
+q
+¯ I
+x;y
+; (1)
+where I
+x;y
+ðnÞ represents the intensity at pixel ðx; yÞ in the n’th
+raw speckle image. N describes the total number of frames and
+¯ I
+x;y
+indicates the average intensity at pixelðx; yÞover the totalN
+images. In our study, every frame of the speckle contrast image
+was acquired by analyzing the 100 consecutive raw speckle
+images with LSTCA based on GPU. So, it took 2 s to acquire
+the first CBF image and the time equivalent of the subsequent
+images is 20 ms. The speckle contrast image was then used to
+calculate the image of inverse correlation time values (ICT, arbitrary
+units) with a simplified approximation (T∕τ
+c
+≈ 1∕C2,
+T ≫ τ
+c
+), where T was the exposure time of the CCD and τ
+c
+indicated the correlation time.25 Here the ICT image was
+employed as the indicator of the CBF parameter and stored
+in a computer for further statistical analysis. Before the ischemic
+study, LSI was first used to image a group of sham MCAO rats
+with different geometrical position of optical elements and
+imaging target. This demonstrated that LSI can be adopted to
+compute the baseline of CBF.
+PAM used for the rat brain imaging [Fig. 1(b)] was made in
+accordance with previous reports.42,43 A tunable dye laser
+(Cobra-stretch, Newport, USA) pumped by a Q-switched Nd:
+YAG laser (Surelite I-30, Continuum, USA) was adopted to
+induce photoacoustic signals. 6.5-ns laser light was firstly delivered
+through an optical fiber to the 3-D scanner. The energy of
+each laser pulse was detected by a photodiode connected with an
+oscilloscope for calibration. Then the beam was expanded and
+focused into the tissue with a ring-shaped area of illumination.
+The generated ultrasound was collected by a transducer with
+the focal region overlapping the optical focus. In the PAM
+used here, the ultrasonic detector has a center frequency of
+50 MHz and a 70% nominal bandwidth. This enables the system
+to exhibit lateral and axial resolutions of 45 and 15 μm at the
+focus, respectively. At each location of the ultrasonic transducer,
+a depth-resolved photoacoustic wave can be recorded. If a 2-D
+raster scanning was implemented, the volumetric images of the
+Fig. 1 Experimental setup of the imaging systems. (a) LSI; (b) PAM.
+Journal of Biomedical Optics 081415-2 August 2012 • Vol. 17(8)
+Deng et al.: In vivo imaging of hemodynamics and oxygen metabolism in acute focal cerebral ischemic rats:::
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24225/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+(8.0.0.2542.993010826 PDF Extractor SDK TRIAL VERSIOn)
+rat brain were acquired. Here, a step size of 30 μm was used. In
+our following experiments, the functional imaging was performed
+using three wavelengths: 576 nm, an HbO dominant
+wavelength, 584 nm, an isosbestic point of oxy- and deoxyhemoglobin
+and 592 nm, a HbR dominant wavelength. Once
+the volumetric images were achieved, the maps of CBV can
+be acquired from the maximum amplitude projection (MAP)
+at 584 nm. Combining the resulting set of three-wavelength
+images, SO
+2
+in individual vessels could be calculated.37 In
+the aforementioned three wavelengths, HbR and HbO are considered
+to be the dominant absorbing compounds in the blood.
+Thus the pressure rise P generated by the blood at each wavelength
+(λ
+i
+) can be expressed as:
+Pðλ
+i
+Þ¼ Γfε
+HbR
+ðλ
+i
+Þ½HbRþ ε
+HbO
+ðλ
+i
+Þ½HbOgFðλ
+i
+Þ; (2)
+whereΓ is the Grüneisen coefficient and Fðλ
+i
+Þ is the local light
+fluence (J∕cm2). ε
+HbR
+ðλ
+i
+Þ and ε
+HbO
+ðλ
+i
+Þ represent the known
+molar extinction coefficients in cm−1M−1 of HbR and HbO,
+respectively. [HbR] and [HbO] describe the concentrations of
+the corresponding hemoglobin. With energy calibration and fluence
+compensation, the wavelength-independent optical fluence
+is achieved. The least-squares fitting gives the solution as:
+
+½HbR
+½HbO
+
+¼ ð MT
+MÞ−1MTPK; (3)
+where
+M ¼
+2
+4
+ε
+HbR
+ðλ
+1
+Þ ε
+HbO
+ðλ
+1
+Þ
+ε
+HbR
+ðλ
+2
+Þ ε
+HbO
+ðλ
+2
+Þ
+ε
+HbR
+ðλ
+3
+Þ ε
+HbO
+ðλ
+3
+Þ
+3
+5;
+P ¼
+2
+4
+Pðλ
+1
+Þ
+Pðλ
+2
+Þ
+Pðλ
+3
+Þ
+3
+5
+and K is a constant related to the system. Therefore, the SO
+2
+at
+each location can be calculated as:
+SO
+2
+¼
+½HbO
+½HbOþ ½HbR
+: (4)
+2.2 Animal Preparation
+Specific pathogen-free rats were purchased from Wuhan University
+Center for Animal Experiment. Adult male Sprague-Dawley
+(SD) rats (280 to 350 g) used in the experiments were fasted
+except for water overnight. The rats were anesthetized with a
+mixture of 0.2 g∕kg a-chloralose and 1g∕kg urethane administered
+intraperitoneally. Each anesthetized rat was placed on the
+stereotaxic head holder, and the scalp and muscle were pulled
+aside. A craniotomy of approximately 4×6mm 2 size centered
+about 4.2-mm posterior and 3.1-mm lateral to Bregma, overlying
+the right parietal cortex was performed for each animal with
+a high-speed drill under constant saline cooling. The dura was
+kept intact. During the surgical operation, the body temperature
+of the rat was kept constant at 370.5°C with a heating pad.
+Then each rat was allowed to recover for at least 1 h. The physiological
+parameters were monitored and maintained within
+normal limits during the study. All animal experiments in the
+research were conducted by the Committee for the Care and
+Use of Laboratory Animal at Huazhong University of Science
+and Technology.
+2.3 Focal Cerebral Ischemia
+The intraluminal suture occlusion of the middle cerebral artery
+was adopted to induce the acute focal ischemia.1 After general
+surgical preparation and 1-h rest, the rat was turned to the supine
+position. The right common carotid artery (CCA) was carefully
+isolated from the soft tissues gently and ligated with a cotton
+thread. A poly-L-lysine-coated filament with diameter of
+0.28 mm and a rounded tip of about 0.380.02 mm was
+inserted through the external carotid artery into the internal carotid
+artery to occlude the MCA until the marker was completely
+inserted. In order to obtain the acute ischemic stroke, bilateral
+CCA was also ligated. Then the midline neck incision was
+sewed using surgical suture and some warm water was applied
+to the incision to prevent drying. Focal ischemia was confirmed
+for each rat with histologic analyses. Twelve hours after the
+occlusion, the animals were sacrificed and their brains removed
+from the cranium were stained with 2% 2,3,5-triphenyltetrazolium
+chloride (TTC) at 37°C for 30 min.8At last, the dorsal sides
+of the stained sections were imaged with a camera.
+2.4 Hemodynamic Parameters and Oxygen
+Metabolism Monitored During 3-H Acute
+Focal Ischemia in Rats
+Twenty male SD rats were divided into two different experiments
+for dynamic functional changes. During 3-h acute
+focal ischemia, one group (n ¼ 10) was used for CBF monitored
+with LSI and the other (n ¼ 10) was used for CBV, SO
+2
+, and
+OEF monitored with PAM. All the control hemodynamic
+parameters were acquired after 60 min surgical operation.
+In the first experiment, LSI was adopted for mapping the
+2-D distribution of CBF changes during ischemia as shown in
+Fig. 2(a). The baseline images were assessed 30 min before the
+acute focal ischemia. Immediately after the occlusion, the animal
+was placed on the animal holder and transferred to the system
+for data acquisition. However, it took about 15 min before
+the data collection started. So post-injury imaging was started
+approximately 15 min after MCAO. During 3-h ischemia, the
+changes in CBF were saved with time interval of 5 min. After
+180 min of collecting ischemic distribution of CBF, each rat
+was allowed to recover on a heating pad.
+Fig. 2 The schematic designed for the monitoring of the changes in
+hemodynamics. (a) LSI and PAM used for the CBF and CBV, SO
+2
+and OEF monitoring within 180 min MCAO; (b) the study of the
+changes in hemodynamics and oxygen metabolism before and after
+3-h MCAO with both LSI and PAM.
+Journal of Biomedical Optics 081415-3 August 2012 • Vol. 17(8)
+Deng et al.: In vivo imaging of hemodynamics and oxygen metabolism in acute focal cerebral ischemic rats:::
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24225/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+(WITH PDF Extractor SDK TRIAL VERSION)
+PAM was used to image the changes in CBV, SO
+2
+, and OEF
+in the other investigation. In this experiment, the control study
+was also carried out half an hour before ischemia. In order to
+confirm a successful occlusion, the distributions of CBF before
+occlusion and after 3-h ischemia were also imaged in the same
+rat, as shown in Fig.2(a). To obtain the changes in CBVandSO
+2
+at the same time point with CBF monitored aforementioned,
+PAM was used for ischemic images 15 min after ischemia.
+Since the pulse repetition rate of the laser, which we used limits
+the current imaging speed in C-scan, a specific cross-section was
+chosen for dynamic functional images during ischemia with
+5-min time interval. The selected cross-section was then repeatedly
+imaged at the aforementioned three wavelengths. After
+180 min of occlusion, a 2-D scanning was also performed to
+indicate the monitored cross-section at 584 nm.
+2.5 Changes in CBF, CBV, SO
+2
+and OEF After 3-H
+Acute Focal Ischemic Rats
+Six male SD rats were used for the static study of changes in
+CBF, CBV, SO
+2
+, and OEF with both LSI and PAM after 3-h
+acute focal ischemia. After each rat recovered for 1 h from
+the surgical operation, the baseline CBF, CBV, and SO
+2
+were
+collected respectively as normal control. The schematic of
+study design is presented in Fig. 2(b). Thirty minutes after
+the control study, the acute focal ischemia in rats was induced.
+The changes of the ischemic CBF, CBV, and SO
+2
+were then
+acquired after 180 min of the occlusion.
+2.6 Data Analysis
+To investigate the relative changes in CBF at different vascular
+components, arteries and veins were identified by visual inspection
+through a microscopy and manually chosen corresponding
+to the regions in the images of CBF. Relative changes in CBF
+within the artery and vein were recorded over time as percent
+change of preischemic baseline. Thus each rat served as its
+own control. This process was done in each research here and
+the statistical analysis expressed as meanstandard error of
+mean (SEM) was then performed on a group dataset.
+The same arteries and veins were investigated in photoacoustic
+imaging in the static study of changes in physiological
+parameters and oxygen metabolism after 3-h acute focal ischemia
+in rats. Compared with the images of CBF, the arteries
+and veins obtained by integrating over the full width at halfmaximum
+of the vessels were identified in the MAP at
+584 nm both before and after ischemia, respectively. The relative
+changes in CBV at each time were expressed as percent change
+from its baseline. Since it had been demonstrated the capability
+of PAM to image quantitatively static SO
+2
+in single vessels, the
+decrease of SO
+2
+both in artery and vein was expressed as absolute
+value from the control. The same process here was
+performed in all the experiments. The only difference which
+exists here is that in the dynamic functional images with PAM,
+the cross-section of artery and vein were mainly determined
+from the static SO
+2
+image before and after ischemia and the distribution
+of CBF was only used as a reference. The data from
+PAM was then used to calculate OEF:8,44
+OEF ¼ ð S
+a
+O
+2
+−S
+v
+O
+2
+Þ∕S
+a
+O
+2
+; (5)
+where S
+a
+O
+2
+, S
+v
+O
+2
+were the SO
+2
+in artery and vein investigated.
+3 Results
+3.1 Hemodynamic Parameters and Oxygen
+Metabolism Monitored During 3-H Acute
+Focal Ischemia in Rats
+A representative experiment for the continuous imaging and
+densely sampled longitudinal study in CBF during 3-h ischemia
+can be seen in Fig.3. The qualitative maps of changes in CBF at
+isolated time points during occlusion are shown in Fig. 3(a).
+Immediately after occlusion, there is an abrupt decrease in
+CBF in the region close to the anteriority and far from midline,
+which is approximately marked by the dotted line box in Fig.3(a)
+−0 min. However, a slight increase exists in CBF in the region
+indicated by the dotted line circle and far from the anteriority
+and close to the midline [Fig. 3(a) −0 min to 40 min].
+The MCAO produces the drop in CBF. However, the collateralization
+that occurs through the circle of Willis and leptomeningeal
+collaterals elevates the CBF in the region 2 [Fig. 3(a)
+−0 min].9,45,46 With increasing degrees of ischemia, CBF in
+the whole imaging window dropped and the ischemic infarct
+area was also increasing, especially in the region close to the
+anteriority and far from midline following a well-described progression
+in tissue infarction induced by MCAO.47 These observations
+are consistent with some previous investigations.7,29,48
+Fig. 3 CBF changes during 3-h ischemia. (a) The maps of the changes in
+CBF during 180 min MCAO of a typical experiment. The marked region
+by the dotted line box in Fig. 3(a) −0 min is depicted in Fig. 3(a)
+−0 min-m, where two vascular compartments indicated by solid
+squares and labeled with “a” and “v” were drawn for further statistical
+analysis. a, artery; v, vein; A, anterior; M, median. Scale bar: 1 mm.
+(b) The average time courses of the changes in CBF in arteries and veins.
+Journal of Biomedical Optics 081415-4 August 2012 • Vol. 17(8)
+Deng et al.: In vivo imaging of hemodynamics and oxygen metabolism in acute focal cerebral ischemic rats:::
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24225/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+(EVALUATION PDF Extractor SDK 8.0.0.2542.454367181)
+The time courses of the relative changes in CBF for arteries
+and veins as depicted by “a”and “v ”[Fig.3(a)−0 min -m] can
+be found in Fig. 3(b), correspondingly. CBF exhibited a drastic
+reduction to 5525.2% of the control values both in arteries
+and veins just after 15-min occlusion and then it continued
+to decline slowly during the period of arterial occlusion.
+After 3-h MCAO, the CBF in arteries and veins dropped to17
+14.65% and 24.5220.66% of its baseline, respectively.
+Figure 4 displays a representative experiment for a rat
+monitored with PAM during 3-h acute focal ischemic stroke in
+MAPs. Compared with Fig. 4(a) and 4(b), the photoacoustic
+signal intensity decreased slightly in the whole imaging window.
+To perform the dynamic functional monitoring, a cross-section
+illustrated by the black dashed line in Fig. 4(b) was selected for
+repeatedly imaging.
+Since 584 nm is an isosbestic absorption wavelength of
+hemoglobin, the photoacoustic signal is directly proportional
+to the total amount of hemoglobin (HbT) and the reduction
+of photoacoustic signal strength indicated that CBV changes
+in the vessels in the selected B-scan dropped in Fig. 4(c). At 
+592 nm, the molar extinction coefficient of HbR is greater
+than that of HbO. Based on the decrease in photoacoustic signals
+at 584 nm and increase at 592 nm, it is apparent that SO
+2
+in the
+vessels monitored declined as shown in Fig.4(d). From Fig.4(c)
+and 4(d), some structural changes existed in the first minutes in
+both images. After acute ischemia, the physiological state of the
+animals may fluctuate in a certain range to cause the recording
+unstabilized. In contrast with Fig. 4(c), there are several major
+fluctuations in photoacoustic signals in Fig. 4(d). These abrupt
+changes in photoacoustic signals are presumable to be induced
+by the spontaneous and repetitive PID. In the previous investigation
+, vasodilation induced by CSD caused the increase of
+arterial diameter.49,50 However, the small changes in diameter
+can be hardly distinguished by our current acoustic-resolution
+PAM. CSD also led the increase of SO
+2
+, which was produced
+by an increase in HbO concentration and a decrease in HbR
+concentration.49 These results were consistent with ours.
+The time traces of changes in CBV, SO
+2
+for two vascular
+components indicated by red and black arrows [Fig. 4(a), 4(b),
+and4(c)] are plotted in Fig.5. There is an overshoot by 12.42
+36.69% and 30.5831.01% in CBV for arteries and veins
+observed at 15 min following MCAO [Fig. 5(a)]. Thereafter,
+the CBV in the two selected vessels had a persistent reduction
+with small fluctuations and dropped to 6218.56% and 59
+18.48% of the control values after 180-min ischemia. This can
+be explained as follows. After ischemia, the vasodilation of
+resistance arterioles and veins which is known as autoregulation
+can increase the CBV to maintain the normal or slight decrease
+in CBF initially. However, when autoregulation is impaired,
+CBF and CBV will both decrease with further ischemia.51,52
+Also, the hypercapnia is possible to cause the elevation of
+CBV just after the ischemia.8
+The large changes in CBV during the first 40-min ischemia
+[Fig.5(a)] lead to the relatively large reduction ofSO
+2
+in arteries
+and veins existed in Fig.5(b). It can also be referred to Fig.3(b)
+where CBF has a relatively large decrease during the same time
+period. Then CBF and CBV both decline with a small slope and
+SO
+2
+reaches a relatively stable level with small fluctuations. For
+CBF and CBV both decline in ischemia, oxygen uptake rate
+should be improved to maintain the metabolism. After 3-h
+Fig. 4 Imaging results from the 3-h acute ischemic rats with PAM. (a)
+and (b) represent the distribution of CBV before and after ischemia at
+584 nm. The vasculatures indicated by red and black arrows are artery
+and vein used to analysis, as well as in Fig.4(c). A, anterior; M, median.
+Scalebar: 1 mm. The black dashed line in (b) illustrates the cross-section
+selected for repeatedly imaging in dynamic functional monitoring.
+(c) and (d) depict the projections of the chosen cross-section with
+B-scans acquired at 584 and 592 nm from 15 to 180 min post-ischemia.
+Fig. 5 The average time courses of the changes in HbT (a), SO
+2
+(b) at
+the two different vascular compartments and OEF (c) during 180-min
+MCAO.
+Journal of Biomedical Optics 081415-5 August 2012 • Vol. 17(8)
+Deng et al.: In vivo imaging of hemodynamics and oxygen metabolism in acute focal cerebral ischemic rats:::
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24225/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+(EVAL PDF Extractor SDK 8.0.0.2542-267095427)
+occlusion, the reduction of SO
+2
+in arteries and veins reached
+40.5222.42% and 54.2411.77% from their preischemic
+values and remained at this levels. Under these conditions,
+OEF increases from 0.180.06 to 0.560.34 [Fig. 5(c)].
+3.2 Changes in CBF, CBV, SO
+2
+, and OEF after 3-H
+Acute Focal Ischemic Rats
+Figure 6 illustrates the representative status of CBF and CBV
+before and after ischemia in the static study of changes in physiological
+parameters. From Fig.6(a)and6(b), it is apparent that
+as a result of 180-min MCAO, the CBF decreases seriously,
+especially in the regions close to the anteriority. This is because
+the MCAO used in these investigation produce early ischemic
+cell death in striatum to delayed infarction in the overlying frontal
+cortex following a well-described progression.47 Compared
+with Fig. 6(c) and 6(d), CBV decreases significantly and a
+majority of microvessels disappear in the region far from the
+midline. This may be explained as follows. After the occlusion
+of the main artery, hypoperfusion of downstream microvasculature
+was induced. Although collateralization that occurs
+through the circle of Willis and leptomeningeal collaterals, there
+is still a serious shortage of hemoglobin.9,45 During the increase
+of ischemic time, brain microvascular beds are likely to be
+most vulnerable and haemorrhagic transformation (HT) will
+occur.53,54 With damage of brain microvessels, the blood-brain
+barrier will be caused disruption leading to the extravasation of
+blood.55 All involved issues contribute to the CBV decreases so
+significantly that some vessels disappeared after 3-h ischemia.
+The statistical changes in CBF, CBV, SO
+2
+in arteries and
+veins and OEF after 3-h acute focal ischemic stroke are indicated
+in Fig. 7. After the occlusion of 180 min, CBF in arteries
+and veins decrease to 17.7312.38% and 13.9413.78%
+owing to the hypoperfusion of downstream microvasculature
+and the corresponding CBV reduce to55.8321.05%,58.98
+24.58%, respectively [Fig. 7(a)]. The absolute SO
+2
+in arteries
+and veins decrease by 41.2619.04%, 51.8510.09% compared
+with baseline conditions as seen in Fig. 7(b). The reduction
+in hemodynamic parameters is consistent with a stagnation
+and deoxygenation of blood in the vasculature after ischemia.
+For the decrease in CBF, CBV, and SO
+2
+, OEF increases from
+00.220.08 to 0.460.31 in response to the changes. It is
+clear that CBF decreases most seriously after the occlusion.
+In the situation that CBF, CBV, and SO
+2
+decrease, oxygen
+uptake rate must be improved to maintain the cerebral oxygen
+metabolism.52 Compared with the preischemia, the conversion
+efficiency of HbO to HbR was increased after ischemia, which
+caused the more decrease in SO
+2
+in vein.
+4 Discussion and Conclusion
+In this pilot study, LSI and PAM were employed to yield the
+changes in CBF and PAM parameters including CBV, SO
+2
+,
+and OEF in response to acute ischemic injury in rat brains.
+With these techniques, the physiological parameters and oxygen
+metabolism parameters were able to separated and quantified.
+Compared with other investigation, a good agreement exists.
+Combining the investigation that CBV and OEF both increase
+to response the acute ischemia, two compensatory mechanism
+were established: autoregulation and increased OEF. The study
+suggests that combining LSI and PAM can provide an attractive
+approach for quantitative imaging of CBF and oxygen metabolism
+in the determination of the mechanism of stroke and
+detection.
+Comparing with Fig. 4(c) and 4(d), several major fluctuations
+existed in photoacoustic signal at 592 nm, where there
+were nearly no changes at 584 nm. These discrepancies were
+maybe caused by PID in ischemia. At 584 nm, photoacoustic
+signals are only sensitive to CBV associated with the vessel
+diameter. Some previous researches suggested CSD induced
+the small increase of arterial diameter, where veins showed
+no obvious change in diameter.49,50 As our current acousticresolution
+PAM only had lateral resolution of 45 μm at focus,
+the small changes in diameter can be hardly discerned. So there
+were no obvious changes in Fig. 4(c), compared with some
+major fluctuations in photoacoustic signals in Fig. 4(d). CSD
+Fig. 6 Maps of changes in relative CBF and CBV after 3-h acute
+ischemic rats. (a) and (c) are the distribution of CBF and CBV before
+3-h MCAO, where the vessels indicated by the solid line box marked
+with 1 and 2 show the artery and vein chosen for statistical analysis;
+(b) and (d) illustrate the distribution of CBF and CBV after 3-h MCAO;
+Scalebar: 1 mm. (e) Brain stained after MCAO procedure. The region
+marked by the solid box shows the approximate area of optical imaging.
+A, anterior; M, median.
+Fig. 7 Quantitative analysis of the relative changes in hemodynamics
+and oxygen metabolism after 180-min MCAO; (a) is the statistical relative
+changes in CBF and HbT at the two different vascular compartments
+; (b) the absolute decrease in SO
+2
+in artery and vein; (c) the
+changes in OEF.
+Journal of Biomedical Optics 081415-6 August 2012 • Vol. 17(8)
+Deng et al.: In vivo imaging of hemodynamics and oxygen metabolism in acute focal cerebral ischemic rats:::
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24225/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+( 8.0.0.2542.686251464 PDF Extractor SDK EVAL VERSION)
+was also accompanied by an increase in HbO concentration and
+a decrease in HbR concentration, which led the increase of
+SO
+2
+.49 In Fig. 4(d), the decrease in photoacoustic signals in
+the several major fluctuations indicated the decrease in HbR
+concentration, for photoacoustic signal is more sensitive to
+the concentration of HbR at 592 nm. Certainly, the spontaneous
+and repetitive PID induced by ischemia were also reported by
+others.17,56
+By comparing the results of hemodynamics measured in static
+study and dynamic monitor with 180-min acute ischemic
+rats, only a small difference exists. We now discuss the results
+with the previous investigations.
+4.1 CBF and CBV
+Our results show that CBF in arteries, veins decreases to
+34.1312.39%, 39.6510.83% after 60 min ischemia and
+1714.65%, 24.5220.66% after 3-h MCAO. Correspondingly
+, CBV in arteries, veins reduces to 74.6326.05%,
+76.9326.73% after 1-h MCAO and 6218.56%, 59
+18.48% of the control values after 180-min ischemia. Some
+groups have also reported the decrease in CBF and CBV.
+Jones et al. introduced that CBF dropped to less than 40% in
+the ischemic penumbra and 25% in the ischemic core after 1-h
+acute ischemia. Simultaneously, CBV decreased to less than
+75% in the ischemic penumbra and 60% in the ischemic
+core.7 There have been DOT studies in rats that have shown
+CBF reduced to ≈424% in response to 55 min MCAO.8
+A study with MRI in gerbils has shown regions with CBF
+dropped to 5217%, 3618% of the baseline have decrease
+in CBV to 9117%, 7221% related to the control values.57
+Using LSI, Shin et al. observed that CBF dropped to less than
+40% of the baseline after 60 min ischemia.48 Also, Abookasis
+et al. used spatially modulated near-infrared illumination to
+demonstrate that there was a reduction about 235.4% in
+CBV after 45-min acute ischemia.20 There is a good similarity
+between our results and the investigation of other groups.
+Based on our results, CBV in arteries and veins increases to
+the maximum value of 112.4236.69% and 130.5831.01%
+by 15-min MCAO. The increase in CBV in response to ischemia
+has been a consistent finding in other experimental studies of
+ischemia. Caramia et al. reported a CBV increase about 50%
+after 20-min MCAO.51 In the study on patients with subacute
+cerebral infarction, an increase in CBV was also demonstrated.58
+However, the CBF had a persistent reduction with small fluctuations
+during the entire ischemic period. The changes that CBV
+varied independently of CBF were also investigated by others.
+After ischemia, CBF will drop immediately. To maintain the
+CBF and metabolism, cerebral circulation will dilate to increase
+the CBV, a reflex known as autoregulatory.52 In the autoregulatory
+range, there is no or slight decrease in CBF. When its
+upper limit is exceeded, CBF will decrease rapidly.
+4.2 SO
+2
+In the investigation, the absolute SO
+2
+in arteries and veins
+decreases by 41.2619.04%, 51.8510.09% after 3 h ischemia.
+It is clear the reduction in SO
+2
+in vein is greater. This is
+because the OEF must increase to maintain tissue function
+and oxygen metabolism when the autoregulatory capacity is
+exhausted during the ischemia.52 The conversion efficiency of
+HbO to HbR was increased after ischemia which caused more
+decrease in SO
+2
+in vein. There are some other reports about the
+decrease inSO
+2
+after ischemia. In the study from Culver et al. an
+ischemic region with the averageSO
+2
+decrease by114%was
+visualized.8 With spatially modulated near-infrared illumination
+, a 212.2% decrease in cerebral tissue SO
+2
+was recorded
+following 45-min cerebral ischemia.20 Optical-resolution PAM
+was already applied to study ischemic stroke in a mouse
+model.44 During ischemia, the average SO
+2
+in artery and vein
+dropped by 10% and 34%, respectively. There are significant
+differences among these results. This may be due to the use
+of different optical imaging modalities. It is important to note
+that MSOI is only able to image the average changes in cerebral
+hemodynamics of the regional cortical tissue and vasculature,
+whereas PAM adopted in this investigation can map the 3-D
+neurovasculature with high spatial resolution.
+4.3 OEF
+For the decrease in CBF, CBV, and SO
+2
+, OEF increases from
+0.180.06 to 0.560.34. In PET studies in a cat MCAO preparation
+, there is an increase about 120% to 200% in OEF.59
+With DOT, a 1396% increase in OEF was observed after
+about 1-h MCAO.8 It should be noted that OEF calculated in
+this investigation was based on single pial artery and single
+pial vein of cerebral vasculature. This may cause some quantative
+errors when compared with other studies. Furthermore, we
+did not monitor the some of the systemic physiology parameters,
+such as blood gases, blood pressure, and glucose concentration.
+The absence of these parameters may affect the baseline of CBF,
+SO
+2
+, and OEF. However, the trend of CBF, SO
+2
+, and OEF are
+still comparable with these previous studies.
+Overall, the trends and observation at different time points
+in this investigation agree well with similar results using other
+imaging techniques. Some discrepancies exist, and they are
+conducted in different imaging embodiments, different animal
+models, and different ischemic duration. Also, different analysis
+regions and different physiological parameters during the
+imaging may affect the results.
+4.4 Others
+It should be noted that LSTCA rather than laser speckle spatial
+contrast analysis (LSSCA) was employed to image the CBF
+changes during ischemia with LSI. The traditional LSSCA,
+based on calculation in the spatial domain with a spatial window,
+has low spatial resolution and statistical accuracy, impeding the
+applications in individual small vessels. However, LSTCA can
+compute the speckle contrast images with the original high
+spatial resolution, which makes it appropriate in applications on
+mapping CBF changes in single vessels. With different laser
+speckle contrast analysis methods, there may be a discrepancy
+existed in the study.
+In PAM, to obtain the cerebral blood vessels with high spatial
+resolution, the skull was removed and the commercial ultrasound
+coupling gel was applied to the tissue surface to reduce
+the attenuation of the ultrasound signal. However, the coupling
+gel may affect the physiological environment of the brain.
+Therefore, carefully selection of coupling gel must be made.
+And the effect of coupling gel is desired to be investigated.
+This issue can also be solved by introduction of noncontact
+detection of ultrasound, which does not need any coupling
+agent. Since the current imaging speed is 30 A-line/s and mainly
+limited by the pulse repetition rate of laser pulse, only vascular
+segments in a specific chosen cross-section were monitored for
+Journal of Biomedical Optics 081415-7 August 2012 • Vol. 17(8)
+Deng et al.: In vivo imaging of hemodynamics and oxygen metabolism in acute focal cerebral ischemic rats:::
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24225/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+(TRIAL PDF Extractor SDK 8.0.0.2542-1875935429)
+[Link]
+http://dx.doi.org/10.1016/j.pbb.2007.04.015
+[Link]
+http://dx.doi.org/10.1016/S0166-2236(99)01401-0
+[Link]
+http://dx.doi.org/10.1038/sj.bjp.0707530
+[Link]
+http://dx.doi.org/10.1016/S1474-4422(06)70545-2
+[Link]
+http://dx.doi.org/10.1117/1.3281673
+[Link]
+http://dx.doi.org/10.1364/OL.28.000028
+[Link]
+http://dx.doi.org/10.1097/01.WCB.0000076703.71231.BB
+[Link]
+http://dx.doi.org/10.1097/01.WCB.0000076703.71231.BB
+[Link]
+http://dx.doi.org/10.1002/ana.v66:5
+[Link]
+http://dx.doi.org/10.1002/ana.v66:5
+[Link]
+http://dx.doi.org/10.1111/ijs.2011.6.issue-4
+[Link]
+http://dx.doi.org/10.1038/sj.jcbfm.9600132
+[Link]
+http://dx.doi.org/10.1007/BF02985612
+[Link]
+http://dx.doi.org/10.1117/1.3505016
+[Link]
+http://dx.doi.org/10.1146/annurev.physiol.66.082602.095217
+[Link]
+http://dx.doi.org/10.1016/S0166-2236(03)00070-5
+[Link]
+http://dx.doi.org/10.1038/nmeth.1483
+[Link]
+http://dx.doi.org/10.1097/00004647-199709000-00004
+[Link]
+http://dx.doi.org/10.1097/00004647-199709000-00004
+[Link]
+http://dx.doi.org/10.1117/1.2950312
+[Link]
+http://dx.doi.org/10.1117/1.3116709
+[Link]
+http://dx.doi.org/10.1093/brain/awm071
+[Link]
+http://dx.doi.org/10.3389/fnene.2010.00010
+[Link]
+http://dx.doi.org/10.1152/physrev.00049.2005
+[Link]
+http://dx.doi.org/10.1117/1.3290804
+[Link]
+http://dx.doi.org/10.1364/OE.16.014321
+[Link]
+http://dx.doi.org/10.1097/01.WCB.0000122745.72175.D5
+[Link]
+http://dx.doi.org/10.1097/01.WCB.0000122745.72175.D5
+[Link]
+http://dx.doi.org/10.1038/jcbfm.2009.185
+[Link]
+http://dx.doi.org/10.1038/jcbfm.2009.185
+[Link]
+http://dx.doi.org/10.1038/nm0202-136
+[Link]
+http://dx.doi.org/10.1097/00004647-200103000-00002
+[Link]
+http://dx.doi.org/10.1016/j.mvr.2004.04.003
+[Link]
+http://dx.doi.org/10.1063/1.2195024
+[Link]
+http://dx.doi.org/10.1118/1.3013698
+[Link]
+http://dx.doi.org/10.1038/nphoton.2009.157
+[Link]
+http://dx.doi.org/10.1038/nbt839
+[Link]
+http://dx.doi.org/10.1117/1.3095799
+[Link]
+http://dx.doi.org/10.1364/OL.30.000625
+[Link]
+http://dx.doi.org/10.1063/1.2435697
+[Link]
+http://dx.doi.org/10.1063/1.2435697
+[Link]
+http://dx.doi.org/10.1117/1.3594785
+[Link]
+http://dx.doi.org/10.1117/1.3594786
+[Link]
+http://dx.doi.org/10.1038/nbt1220
+[Link]
+http://dx.doi.org/10.1117/1.3041710
+[Link]
+http://dx.doi.org/10.3788/COL
+[Link]
+http://dx.doi.org/10.1063/1.3585828
+[Link]
+http://dx.doi.org/10.1117/12.874366
+[Link]
+http://dx.doi.org/10.1212/01.wnl.0000341766.59028.9d
+[Link]
+http://dx.doi.org/10.1161/STROKEAHA.110.584151
+[Link]
+http://dx.doi.org/10.1602/neurorx.2.3.396
+dynamic functional imaging during periods of arterial occlusion.
+With the imaging speed accelerated, a satisfactory C-scan should
+be performed at each time point. Limitation also existed regarding
+the employed MCAO models. It takes about 15 min to make
+the model and adjust the imaging system to start data collection.
+In fact, the changes in hemodynamics and oxygen metabolism
+during the first few minutes are the key elements for ischemia
+early diagnosis and treatment. These will be solved in our
+next work.
+Acknowledgments
+This work was supported by Science Fund for Creative Research
+Group of China (Grant No. 61121004), National Natural
+Science Foundation of China (Grant No. 81171067,
+61078072), and the Specific International Scientific Cooperation
+(Grant No. 2010DFR30820).
+References
+1. A. Durukan and T. Tatlisumak, “Acute ischemic stroke: overview of
+major experimental rodent models, pathophysiology, and therapy
+of focal cerebral ischemia,” Pharmacol. Biochem. Behav. 87(1),
+179–197 (2007).
+2. U. Dirnagl, C. Iadecola, and M. A. Moskowitz, “Pathobiology of ischaemic
+stroke: an integrated view,”Trends. Neurosci.22(9), 391–397 (1999).
+3. R. R. Moustafa and J. C. Baron, “Pathophysiology of ischaemic stroke:
+insights from imaging, and implications for therapy and drug discovery
+,” Br. J. Pharmacol. 153(S1), S44–S54 (2008).
+4. K. W. Muir et al., “Imaging of acute stroke,” Lancet. Neurol. 5(9),
+755–768 (2006).
+5. S. Hu and L. V. Wang, “Photoacoustic imaging and characterization
+of the microvasculature,” J. Biomed. Opt. 15(1), 011101 (2010).
+6. J. K.-J. Li, Dynamics of the Vascular System, World Scientific,
+Singapore (2004).
+7. A. K. Dunn et al., “Simultaneous imaging of total cerebral hemoglobin
+concentration, oxygenation, and blood flow during functional activation
+,” Opt. Lett. 28(1), 28–30 (2003).
+8. J. P. Culver et al., “Diffuse optical tomography of cerebral blood flow,
+oxygenation, and metabolism in rat during focal ischemia,” J. Cereb.
+Blood. Flow. Metab. 23(8), 911–924 (2003).
+9. D. S. Liebeskind, “Imaging the future of stroke: I. ischemia,” Ann.
+Neurol. 66(5), 574–590 (2009).
+10. D. D. McLeod et al., “Establishing a rodent stroke perfusion computed
+tomography model,” Int. J. Stroke 6(4), 284–289 (2011).
+11. Q. Shen et al., “Functional, perfusion and diffusion MRI of acute
+focal ischemic brain injury,” J. Cereb. Blood. Flow. Metab. 25(10),
+1265–1279 (2005).
+12. M. Ibaraki et al., “PET measurements of CBF, OEF, and CMRO
+2
+without
+arterial sampling in hyperacute ischemic stroke: method and error
+analysis,” Ann. Nucl. Med. 18(1), 35–44 (2004).
+13. L. F. Yu et al.,“Spectral Doppler optical coherence tomography imaging
+of localized ischemic stroke in a mouse model,” J. Biomed. Opt. 15(6),
+066006 (2010).
+14. C. M. Niell and S. J. Smith, “Live optical imaging of nervous system
+development,” Ann. Rev. Physiol. 66, 771–798 (2004).
+15. N. Pouratian et al., “Shedding light on brain mapping: advances in
+human optical imaging,” Trends. Neurosci. 26(5), 277–282 (2003).
+16. V. Ntziachristos, “Going deeper than microscopy: the optical imaging
+frontier in biology,” Nat. Methods 7(8), 603–614 (2010).
+17. T. Wolf et al., “Noninvasive near infrared spectroscopy monitoring of
+regional cerebral blood oxygenation changes during peri-infarct depolarizations
+in focal cerebral ischemia in the rat,” J. Cereb. Blood. Flow.
+Metab. 17(9), 950–954 (1997).
+18. J. Luckl et al., “The biological effect of contralateral forepaw stimulation
+in rat focal cerebral ischemia: a multispectral optical imaging
+study,” Front. Neuroenergetics 2(19), 1–9 (2010).
+19. P. B. Jones et al., “Simultaneous multispectral reflectance imaging and
+laser speckle flowmetry of cerebral blood flow and oxygen metabolism
+in focal cerebral ischemia,” J. Biomed. Opt. 13(4), 044007 (2008).
+20. D. Abookasis et al., “Imaging cortical absorption, scattering, and hemodynamic
+response during ischemic stroke using spatially modulated
+near-infrared illumination,” J. Biomed. Opt. 14(2), 024033 (2009).
+21. H. K. Shin et al., “Normobaric hyperoxia improves cerebral blood flow
+and oxygenation, and inhibits peri-infarct depolarizations in experimental
+focal ischaemia,” Brain 130(6), 1631–1642 (2007).
+22. S. Hu and L. V. Wang, “Neurovascular photoacoustic tomography,”
+Front. Neuroenergetics 2(10), 1–7 (2010).
+23. P. G. Haydon and G. Carmignoto, “Astrocyte control of synaptic transmission
+and neurovascular coupling,” Physiol. Rev. 86(3), 1009–1031
+(2006).
+24. J. Qiu et al., “Spatiotemporal laser speckle contrast analysis for blood
+flow imaging with maximized speckle contrast,” J. Biomed. Opt. 15(1),
+016003 (2010).
+25. S. Liu, P. Li, and Q. Luo, “Fast blood flow visualization of highresolution
+laser speckle imaging data using graphics processing unit,”
+Opt. Express 16(19), 14321–14329 (2008).
+26. C. Ayata et al., “Laser speckle flowmetry for the study of cerebrovascular
+physiology in normal and ischemic mouse cortex,” J. Cereb.
+Blood. Flow. Metab. 24(7), 744–755 (2004).
+27. Q. Guo, G. Wang, and S. Namura, “Fenofibrate improves cerebral blood
+flow after middle cerebral artery occlusion in mice,” J. Cereb. Blood.
+Flow. Metab. 30(1), 70–78 (2010).
+28. H. Bolay et al., “Intrinsic brain activity triggers trigeminal meningeal
+afferents in a migraine model,” Nat. Med. 8(2), 136–142 (2002).
+29. A. K. Dunn et al., “Dynamic imaging of cerebral blood flow using laser
+speckle,” J. Cereb. Blood. Flow. Metab. 21(3), 195–201 (2001).
+30. B. Choi, N. M. Kang, and J. S. Nelson,“Laser speckle imaging for monitoring
+blood flow dynamics in the in vivo rodent dorsal skin fold
+model,” Microvasc. Res. 68(2), 143–146 (2004).
+31. M. H. Xu and L. H. V. Wang, “Photoacoustic imaging in biomedicine,”
+Rev. Sci. Instrum. 77(4), 041101 (2006).
+32. L. V. Wang, “Prospects of photoacoustic tomography,” Med. Phys.
+35(12), 5758–5767 (2008).
+33. L. V. Wang, “Multiscale photoacoustic microscopy and computed
+tomography,” Nat. Photonics 3, 503–509 (2009).
+34. X. D. Wang et al., “Noninvasive laser-induced photoacoustic tomography
+for structural and functional in vivo imaging of the brain,”
+Nat. Biotechnol. 21(7), 803–806 (2003).
+35. E. W. Stein, K. Maslov, and L. H. V. Wang, “Noninvasive, in vivo imaging
+of blood-oxygenation dynamics within the mouse brain using
+photoacoustic microscopy,” J. Biomed. Opt. 14(2), 020502 (2009).
+36. K. Maslov, G. Stoica, and L. H. V. Wang, “In vivo dark-field reflectionmode
+photoacoustic microscopy,” Opt. Lett. 30(6), 625–627 (2005).
+37. H. F. Zhang et al., “Imaging of hemoglobin oxygen saturation variations
+in single vessels in vivo using photoacoustic microscopy,” Appl. Phys.
+Lett. 90(5) 053901 (2007).
+38. V. Tsytsarev et al., “Photoacoustic microscopy of microvascular
+responses to cortical electrical stimulation,” J. Biomed. Opt. 16(7),
+076002 (2011).
+39. J. J. Yao et al., “Label-free oxygen-metabolic photoacoustic microscopy
+in vivo,” J. Biomed. Opt. 16(7), 076003 (2011).
+40. H. F. Zhang et al., “Functional photoacoustic microscopy for highresolution
+and noninvasive in vivo imaging,” Nat. Biotechnol. 24(7),
+848–851 (2006).
+41. Z. Wang et al., “Acute hyperglycemia compromises cerebral blood flow
+following cortical spreading depression in rats monitored by laser
+speckle imaging,” J. Biomed. Opt. 13(6), 064023 (2008).
+42. X. Q. Yang et al., “High-resolution photoacoustic microscope for rat
+brain imaging in vivo,” Chin. Opt. Lett. 8(6), 609–611 (2010).
+43. Z. L. Deng et al.,“Two-dimensional synthetic-aperture focusing technique
+in photoacoustic microscopy,” J. Appl. Phys. 109(10), 104701 (2011).
+44. S. Hu et al., “Optical-resolution photoacoustic microscopy of ischemic
+stroke,” Proc. SPIE 7899, 789906 (2011).
+45. R. Khatri et al., “Leptomeningeal collateral response and extent of
+ischemic penumbra in patients with acute middle cerebral artery occlusion
+,” Neurology 72(11), A156–A156 (2009).
+46. B. K. Menon et al., “Does presence of vascular risk factors and elapsed
+time from stroke onset affect leptomeningeal collateral (LMC) recruitment
+in acute ischemic stroke?,” Stroke 41(7), E483–E483 (2010).
+47. S. T. Carmichael, “Rodent models of focal stroke: size, mechanism, and
+purpose,” NeuroRx 2(3), 396–409 (2005).
+Journal of Biomedical Optics 081415-8 August 2012 • Vol. 17(8)
+Deng et al.: In vivo imaging of hemodynamics and oxygen metabolism in acute focal cerebral ischemic rats:::
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24225/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+(8.0.0.2542.918135747 PDF Extractor SDK TRIAL VERSIOn)
+[Link]
+http://dx.doi.org/10.1038/sj.jcbfm.9600252
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2011.05.040
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2010.02.055
+[Link]
+http://dx.doi.org/10.1016/S0730-725X(97)00243-9
+[Link]
+http://dx.doi.org/10.1093/brain/awf047
+[Link]
+http://dx.doi.org/10.1136/pgmj.2007.067058
+[Link]
+http://dx.doi.org/10.1097/00004647-199611000-00036
+[Link]
+http://dx.doi.org/10.1136/jnnp.65.1.1
+[Link]
+http://dx.doi.org/10.1002/jnr.v87:5
+[Link]
+http://dx.doi.org/10.1097/00004647-200009000-00009
+[Link]
+http://dx.doi.org/10.1002/jmri.1880070311
+[Link]
+http://dx.doi.org/10.1097/00004647-199704000-00004
+[Link]
+http://dx.doi.org/10.1097/00004647-199704000-00004
+48. H. K. Shin et al., “Vasoconstrictive neurovascular coupling during
+focal ischemic depolarizations,” J. Cereb. Blood. Flow. Metab. 26(8),
+1018–1030 (2006).
+49. X. L. Sun et al., “Simultaneous monitoring of intracellular pH changes
+and hemodynamic response during cortical spreading depression by
+fluorescence-corrected multimodal optical imaging,” Neuroimage
+57(3), 873–884 (2011).
+50. E. Farkas, F. Bari, and T. P. Obrenovitch, “Multi-modal imaging of
+anoxic depolarization and hemodynamic changes induced by cardiac
+arrest in the rat cerebral cortex,” Neuroimage 51(2), 734–742 (2010).
+51. F. Caramia et al., “Mismatch between cerebral blood volume and
+flow index during transient focal ischemia studied with MRI and
+Gd-BOPTA,” Magn. Reson. Imaging. 16(2), 97–103 (1998).
+52. C. P. Derdeyn et al., “Variability of cerebral blood volume and oxygen
+extraction: stages of cerebral haemodynamic impairment revisited,”
+Brain 125, 595–607 (2002).
+53. B. R. Thanvi, S. Treadwell, and T. Robinson, “Haemorrhagic transformation
+in acute ischaemic stroke following thrombolysis therapy: classification
+, pathogenesis and risk factors,” Postgrad. Med. J. 84(993),
+361–367 (2008).
+54. G. F. Hamann, Y. Okada, and G. J. del Zoppo, “Hemorrhagic transformation
+and microvascular integrity during focal cerebral ischemia/
+reperfusion,” J. Cereb. Blood. Flow. Metab. 16(6), 1373–1378 (1996).
+55. G. J. del Zoppo, R. Von Kummer, and G. F. Hamann, “Ischaemic
+damage of brain microvessels: inherent risks for thrombolytic treatment
+in stroke,” J. Neurol. Neurosurg. Psychiatry. 65(1), 1–9 (1998).
+56. J. Luckl et al., “Characterization of periinfarct flow transients with laser
+speckle and Doppler after middle cerebral artery occlusion in the rat,”
+J. Neurosci. Res. 87(5), 1219–1229 (2009).
+57. G. Zaharchuk et al., “Is all perfusion-weighted magnetic resonance
+imaging for stroke equal? The temporal evolution of multiple hemodynamic
+parameters after focal ischemia in rats correlated with evidence
+of infarction,”J. Cereb. Blood. Flow. Metab. 20(9), 1341–1351 (2000).
+58. C. Tsuchida et al., “Evaluation of peri-infarcted hypoperfusion with
+T2*-weighted dynamic MRI,” Jmri-J. Magn. Reson. Im. 7(3), 518–522
+(1997).
+59. W. D. Heiss et al., “Repeat positron emission tomographic studies in
+transient middle cerebral artery occlusion in cats: residual perfusion
+and efficacy of postischemic reperfusion,” J. Cereb. Blood. Flow.
+Metab. 17(4), 388–400 (1997).
+Journal of Biomedical Optics 081415-9 August 2012 • Vol. 17(8)
+Deng et al.: In vivo imaging of hemodynamics and oxygen metabolism in acute focal cerebral ischemic rats:::
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24225/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+( 8.0.0.2542.566763856 PDF Extractor SDK EVAL VERSION)
+

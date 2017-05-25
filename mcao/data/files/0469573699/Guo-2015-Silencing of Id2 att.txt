@@ -1,0 +1,698 @@
+Behavioural Brain Research 292 (2015) 528–536
+
+Contents lists available at ScienceDirect
+
+Behavioural Brain Research
+journal homepage: www.elsevier.com/locate/bbr
+
+Research report
+
+Silencing of Id2 attenuates hypoxia/ischemia-induced neuronal injury
+via inhibition of neuronal apoptosis
+Liemei Guo a,1 , Xi Yang a,1 , Xinjian Lin b , Yingying Lin a , Lin Shen a , Quanmin Nie a , Li Ren c ,
+Qinhua Guo a , Shuanglin Que d,∗∗ , Yongming Qiu a,∗
+a
+
+Department of Neurosurgery, Renji Hospital, School of Medicine, Shanghai Jiaotong University, Shanghai, China
+Department of Medicine and UC San Diego Moores Cancer Center, University of California-San Diego, CA, United States
+c
+Department of Neurosurgery, Shanghai Pudong Hospital, Fudan University Pudong Medical Center, Shanghai, China
+d
+Department of Neurosurgery, Longyan First Hospital afﬁliated to Fujian Medical University, Fujian Province, China
+b
+
+h i g h l i g h t s
+•
+•
+•
+•
+•
+
+Knockdown of Id2 attenuated H/I-induced neuronal apoptosis.
+Overexpression of Id2 increased H/I-induced neuronal apoptosis.
+Silencing of Id2 attenuated H/I induced neuronal injury in a rat model of MCAO.
+Id2 modulating neuronal apoptosis might involve an interaction with Rb and E2F1.
+Id2 knockdown could induce G0/G1 cell cycle arrest in CoCl2 -treated B35 cells.
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 23 December 2014
+Received in revised form 3 July 2015
+Accepted 5 July 2015
+Available online 14 July 2015
+Keywords:
+Id2
+Hypoxia
+Ischemia
+siRNA
+Neuronal apoptosis
+Neuronal injury
+
+a b s t r a c t
+Cerebral ischemic stroke has long been recognized as a prevalent and serious neurological disease
+that was associated with high mortality and morbidity. However, the current therapeutic protocols
+remain suboptimal with major mechanisms underlying stroke urgently warranted. Inhibitor of DNA
+binding/differentiation 2 (Id2) is found to be up-regulated in neuronal cells following hypoxia/ischemia
+(H/I). This study was aimed to investigate whether knockdown of Id2 in neuronal cells could protect
+them from hypoxic and ischemic injury both in vitro and in vivo. Flow cytometric analysis was employed
+to assess neuronal apoptosis in CoCl2 -treated neuroblastoma B35 cells engineered to overexpress or
+knockdown Id2 expression. In vivo knockdown of Id2 was performed in Sprague-Dawley rats by a single intracerebroventricular injection of Cy3-labeled and cholesterol-modiﬁed Id2-siRNA. We found that
+knockdown of Id2 attenuated H/I-induced neuronal apoptosis in vitro while overexpression of Id2 produced an opposite effect. In a rat model of middle cerebral artery occlusion (MCAO), in vivo knockdown
+of Id2 signiﬁcantly improved neurological deﬁcits, reduced the volume of ischemic infarction and diminished the neuronal apoptosis in the penumbra area. Double immunoﬂuorescence staining showed less
+co-localization of retinoblastoma tumor suppressor protein (Rb)-Id2 but greater co-localization of RbE2F1 in the penumbra area. Cell cycle assay further demonstrated that Id2 knockdown induced G0/G1
+cell cycle arrest in CoCl2 -treated B35 cells. The present data support the implication of Id2 in the modulation of H/I-induced neuronal apoptosis and may provide a potential therapeutic option to protect brain
+tissues from ischemic injury by inhibition of its expression.
+© 2015 Elsevier B.V. All rights reserved.
+
+Abbreviations:
+DMEM, Dulbecco’s modiﬁed Eagles’s medium; H/I,
+hypoxia/ischemia; Id2, inhibitor of DNA binding/differentiation 2; MCAO, middle
+cerebral artery occlusion; Rb, retinoblastoma tumor suppressor protein; TTC,
+2,3,7,-triphenyltetrazolium chloride.
+∗ Corresponding author. Fax: +86 21 68383748.
+∗∗ Corresponding author.
+E-mail addresses: 157223552@qq.com (S. Que), qiuzhoub@hotmail.com
+(Y. Qiu).
+1
+They contributed equally to this work.
+http://dx.doi.org/10.1016/j.bbr.2015.07.018
+0166-4328/© 2015 Elsevier B.V. All rights reserved.
+
+1. Introduction
+Cerebral ischemic stroke has long been recognized as a prevalent and serious neurological disease that was associated with
+high mortality and morbidity [1]. The pathophysiology of ischemic
+stroke is complicated and multifactorial. Although signiﬁcant
+advances over the past two decades have been made with
+respect to treatment with thrombolytics, anticoagulant therapy,
+
+L. Guo et al. / Behavioural Brain Research 292 (2015) 528–536
+
+carotid endarterectomy, neuroprotective agents, etc., the current
+therapeutic protocols remain suboptimal and frustrating [2–4].
+Therefore, the search for critical mechanisms behind stroke pathophysiology and identiﬁcation of novel molecular targets for more
+effective therapy are still urgently sought.
+Accumulating evidence has suggested that neuronal apoptosis
+plays an important role in cell loss following acute ischemic damage
+through activation of various signaling pathways including p53 [5],
+JNK [6], c-jun [7], p38 [8], CDK-5 [9]. However, the precise mechanism that could trigger activation of apoptotic pathway in the
+injured brain is yet to be fully elucidated [10,11]. Inhibitor of DNA
+binding/differentiation 2 (Id2) belongs to the Id protein family that
+functions as transcriptional modulator [12]. During neuronal development, Id2 could counteract the retinoblastoma tumor suppressor
+protein (pRb) in the neuronal differentiation probably by scavenging its downstream E-box HLH proteins [13]. Further studies in
+transgenic models showed that Id2 might be inactivated by pRb and
+acts as its downstream effector [14]. Conversely, overexpression
+of Id2 in precursors of cortical neurons resulted in differentiation
+failure and cell death while coexpression of pRb neutralized this
+effect [15]. While pRb could interact with a wide variety of proteins,
+the cell cycle-related transcription factor E2F1 is the best known
+target of pRb. In quiescent cells such as neurons, hypophosphorylated pRb binds to E2F1 and inhibits its transcriptional activity
+[16]. In contrast, when cells undergo G1–S phase transition, pRb
+becomes hyperphosphorylated. A large body of work has indicated
+that Rb hyperphosphorylation results in the release and activation
+of E2F1 [17,18]. The E2F1 transcription factor execute various cellular function including control of cell proliferation and apoptosis
+[19,20].
+A direct evidence supporting a role of Id2 in regulation of
+neuronal cell death that Id2 is an inducible gene in response to
+apoptosis of cerebellar granule neurons induced by serum and
+potassium, and targeted deletion of the Id2 gene in neurons protects against apoptosis [21]. Our recent work demonstrated that
+Id2 was up-regulated in neuronal cells following hypoxia/ischemia
+(H/I) [22]. In the present study, we aimed to investigate whether
+knockdown of Id2 in neuronal cells could protect them from
+hypoxic and ischemic injury both in vitro and in vivo.
+2. Materials and methods
+2.1. Cell culture
+The rat neuroblastoma B35 cell line (ATCC, CRL-2754) has
+been proved to be an appropriate cell model for investigation of
+H/I-induced neuronal injury [22,23]. The B35 cells were cultured
+in Dulbecco’s modiﬁed Eagles’s medium (DMEM) (Boster) supplemented with 10% heat-inactivated fetal bovine serum (Gibco,
+Carlsbad, CA, USA) at 37 ◦ C in a humidiﬁed atomsphere with 5%
+CO2 .
+2.2. Id2-siRNA and transfections
+Based on the sequence of Id2 mRNA, three chemically synthetic siRNAs were made from RiboBio (Guangzhou, China).
+siRNA1: sense strand, GAAGGUGACCAAGAUGGAAAUdTdT;
+antisense strand, AUUUCCAUCUUGGUCACCUUCdTdT; siRNA2:
+sense
+strand,
+CAUGAACGACUGCUACUCCdTdT;
+antisense
+strand, GGAGUAGCAGUCGUUCAUGdTdT; siRNA3: sense strand,
+CUUCUGAGCUUAUGUCGAAdTdT; antisense strand, UUCGACAUAAGCUCAGAAGdTdT; siRNA scrambled control: sense strand,
+UUCUCCGAACGUGUCACGUtt; antisense strand, ACGUGACACGUUCGGAGAAtt. B35 cells were plated in 24-well plates one day
+before transfection, and then transfected with the siRNA separately
+
+529
+
+using TransPass R1 transfection reagent (NEB, USA) according to
+the manufacturer’s instructions [24].
+The 5 and 3 end of the antisense strand was labeled with Fluorophore Cy3 and modiﬁed with cholesterol respectively (RiboBio,
+Guangzhou, China). siRNA containing the mismatched sequence of
+Id2 mRNA (misRNA for Id2) was used as a negative control. misRNA: sense strand, UUCUCCGAACGUGUCACGUtt; antisense strand:
+ACGUGACACGUUCGGAGAAtt.
+2.3. Construction of Id2-expressinglentiviral vector and lentivirus
+transduction
+A full-length rat Id2 cDNA was subcloned into pGMLV-PB1-1
+and sequence veriﬁed. The empty vector was used as negative control. To produce lentivirus, LentiX-293T cells (Clontech)
+were co-transfected with the Id2 cDNA-containing vector pGMLVPB1-Id2 and lentiviral packaging genes contained in Lenti-XHTX
+Packaging Mix using the Xfect transfection reagent (Clontech). The
+resulting lentiviruses were concentrated to a titer of 108 /ml and
+used to transduce B35 cells.
+2.4. Hypoxia-mimetic by CoCl2 and ﬂow cytometric analysis
+Cells were treated with 250 ␮M CoCl2 for 12 h and analyzed by
+ﬂow cytometry to tract membane and nuclear events suggestive
+of apoptosis as previous studies [23]. A two-color analysis of FITClabeled binding and propidium iodide (PI) uptake was performed
+using the Annexin V-FITC Apoptosis Detection Kit (Beyotime).
+2.5. Animals and surgery
+Sprague-Dawley rats weighing 250–300 g were obtained from
+the Experimental Animal Center of Renji Hospital, School of
+Medicine, Shanghai Jiaotong University. The animal study was
+approved by the institutional Ethics Committee for Animal Experimentation and conducted in compliance with the Guidelines for
+Animal Experimentation of this institution. All the experiments
+were carried out in accordance with the EU directive 2010/63/EU
+on the protection of animals used for scientiﬁc purposes.
+The animals were randomly divided into the following groups
+(n = 8 for each group): siRNA group (Id2-siRNA intraventricular
+injection), misRNA group (misRNA intraventricular injection), NaCl
+group (0.9% NaCl intraventricular injection) and NS group (normal
+control, without intraventricular injection). Rats anesthetized with
+i.p. injection of 50 mg/kg pentobarbital were placed in a stereotaxic
+instrument (ASI Company, USA). A 28-gauge stainless steel injection cannula was paved into the right lateral ventricle as previously
+described [25]. Then the rats received a single injection of Id2-siRNA
+or misRNA or 0.9% NaCl at a rate of 0.5 ␮l/min using a micorinfusion
+pump and a 10 ␮l microsyringe. Once the infusion was done, the
+cannula remained in place for 5 min, then withdrawn at a rate of
+1 mm/min. One day after the injection, all the rats were performed
+with the operation of middle cerebral artery occlusion (MCAO).
+The surgical operation for MCAO was performed as previously
+reported [22]. Brieﬂy, a 3-0 monoﬁlament nylon suture (Beijing
+Shadong Industrial Corp., China) was introduced into the right
+internal carotid artery via the external carotid artery until a slight
+resistance was encountered. The suture was left in place for 90 min
+and removed to facilitate reperfusion.
+2.6. Assessment of neurological deﬁcits
+The scales from 0 to 4 were utilized to evaluate the effects of
+MCAO on neurological behavior at 24 h and 72 h after the treatment [26,27]. The neurological deﬁcit testing was performed by
+
+530
+
+L. Guo et al. / Behavioural Brain Research 292 (2015) 528–536
+
+two observers individually who were blinded to the assignments
+of four groups.
+
+Reagents (GE Healthcare, USA). ␤-actin served as loading control.
+
+2.7. Cortex tissue collection and sectioning
+
+2.11. TUNEL assay
+
+At different times after MCAO administration, the animals
+were anesthetized by i.p. injection of sodium pentobarbital at
+100 mg/kg. For Id2 mRNA and protein expression, the rats were
+perfused transcardially with 4 ◦ C normal saline, and the brain
+regions that corresponded to the ischemic core and penumbra were dissected on ice according to a previous method [22].
+For TUNEL staining and immunostaining, the rats were perfused transcardially with 4% paraformaldehyde (PFA, pH 7.4)
+following 4 ◦ C normal saline. Upon removal, the brains were
+post-ﬁxed in 4% PFA and immediately cryoprotected in 20 and
+30% sucrose solution sequentially. A series of coronal sections
+(25 ␮m) were made between −1.80 and −4.80 mm bregma levels.
+Every ﬁfth section totaling 24 sections was used for the staining.
+
+Apoptosis was evaluated on the sections of the cerebral cortices of penumbra area mounted on slides using the Roche TUNEL
+staining kit (Penzberg, Germany) following the manufacturer’s
+instructions. The TUNEL-positive cells were counted in ﬁve randomized areas per rat brain and expressed as the number of
+positively stained cells per square millimeter.
+
+2.8. Infarct volume measurement
+72 h after MCAO, the rat brain tissues were collected and the
+frontal end was sliced and immersed in 2% solution of 2,3,7,triphenyltetrazolium chloride (TTC) (Sigma Inc., Louis, MO, USA)
+for 30 min at 37 ◦ C. Since an infarct tissue does not stain owing
+to the loss of mitochondrial enzyme activity and a normal tissue will be stained red by TTC, the infarction area that appears
+white and hemisphere area of each section could be distinguished
+and quantiﬁed by an image analysis system (OlympusImaging ProPlus, Silver Spring, MD, USA). The infarct volume was calculated by
+dividing infarct area of the ipsilateral hemisphere by total hemisphere.
+2.9. Quantitative real-time PCR
+Total RNA in the cerebral cortices of penumbra area or
+cultured cells was extracted using TRIzol reagent (Invitrogen, Carlsbad, CA) and further puriﬁed with an RNA Micro
+Kit (Qiagen, Valencia, CA, USA). The following PCR reaction conditions were used when performed in a lightcycler PCR detection system (Roche Diagnostics Ltd., Shanghai,
+China): 10 min at 95 ◦ C, 40 cycles of 10 s at 95 ◦ C, 15 s at
+60 ◦ C, and 20 s at 72 ◦ C. The forward and reverse primer
+sequences were as follows: 5 -GGACAGAACCAAACGTCCAG-3 and
+5 -TAAGCTCAGAAGGGAATTCAGAC-3 (for ampliﬁcation of Id2),
+5 -ATCACTGCCACTCAGAAG-3 and 5 -AAGTCACAGGAGACAACC-3
+(for ampliﬁcation of GAPDH). The GAPDH gene was used as a reference gene, and relative mRNA expression levels were calculated
+using the standard 2−Ct method.
+2.10. Western blot analysis
+The concentration of protein isolated from the cerebral cortices of the penumbra area or cultured cellswas determined
+by a protein assay kit (Bio-Rad, Hercules, CA). 100 ␮g of proteins was run on 4–20% Tris–Glycine gels and transferred to
+polyvinylidene diﬂuoride membrane (Millipore, Billerica, MA).
+The transferred membrane was probed overnight at 4 ◦ C with
+speciﬁc primary antibodies (anti-Id2, 1:200 dilution, Santa Cruz
+Biotechnology; anti-Bax, 1:1000 dilution, Cell signaling technology; anti-␤-actin, 1:50,000 dilution, Sigma–Aldrich, St. Louis,
+MO) followed by horseradish peroxidase (HRP)-conjugated goat
+anti-rabbit or goat anti-mouse secondary antibodies (1:2500 dilution, Promega, Madison, WI, USA). Immunoreactive bands were
+visualized with Amersham ECL Plus Western Blotting Detection
+
+2.12. Immunoﬂuorescent staining
+For double immunoﬂuorescent staining of NeuN and Id2-siRNA,
+the sections were ﬁrst probed with a mouse anti-NeuN monoclonal antibody (1:50 dilution) at 37 ◦ C for 1 h, and then with
+an Alexa Fluor 488 goat anti-mouse IgG (1:200 dilution) at 37 ◦ C
+for 30 min. For dual staining of Rb and Id2, the sections were
+incubated with a mouse anti-Rb monoclonal antibody (1:50 dilution) and a rabbit anti-Id2 monoclonal antibody (1:50 dilution)
+at 37 ◦ C for 1 h, and subsequently with an Alexa Fluor 555 donkey anti-mouse IgG (1:1000 dilution) and an Alexa Fluor 488
+donkey anti-rabbit IgG at 37 ◦ C for 30 min. As for Rb and E2F1
+double staining, a mouse anti-Rb monoclonal antibody (1:50 dilution) and a rabbit anti-E2F1 monoclonal antibody (1:50 dilution)
+was used and followed by an Alexa Fluor 555 donkey anti-mouse
+IgG (1:1000 dilution) and an Alexa Fluor 488 donkey anti-rabbit
+IgG.
+After the double staining, sections were examined under a Leica
+ﬂuorescence microscope (Leica, DM 5000B; Germany). The ﬂuorescently stained cells in the cerebral cortices of penumbra area were
+counted from ﬁve randomized ﬁled per rat brain and expressed as
+the number of stained cells per square millimeter.
+2.13. Cell cycle assay
+The cells in B35 group, B35-misRNA group and B35-siRNA group
+were ﬁrst treated with CoCl2 for 12 h, except the cells in Naïve
+control group, and then were trypsinized and collected by centrifugation. After that, the cells were ﬁxed by 70% ethanol for 48 h at
+4 ◦ C, rehydrated by ice-code PBS, and stained by PI/RNase medium
+containing 1 mg/ml RNase and 50 ␮g/ml propidium iodide. Cells
+were then socrted by ﬂuorescence-activated cell sorter scan (FACS)
+according to manufacturer’s instruction (Becton Dickinson, USA).
+The percentage of cells in each cell cycle phase was analyzed by an
+ELITE software (Phoenix Flow Systems, USA).
+2.14. Statistical analysis
+The statistical analysis was performed using SPSS software
+(Version 13.0, SPSS Inc., Chicago, IL). Data were presented as
+means ± standard deviation and the difference as analyzed by oneway ANOVA followed by Bonferroni’s post hoc test. A P-value less
+than 0.05 was considered statistically signiﬁcant.
+3. Results
+3.1. Id2 mediated hypoxia-induced apoptosis of neuronal cells
+To determine whether Id2 played a role in hypoxia-induced
+neuronal damage, we assessed the effect of knocking down or overexpression of Id2 in neuroblastoma B35 cells on hypoxia-induced
+apoptotic cell death. Three siRNAs designed to target different
+regions of Id2 mRNA were tested for their knockdown efﬁciency.
+
+L. Guo et al. / Behavioural Brain Research 292 (2015) 528–536
+
+531
+
+Fig. 1. Effect of Id2 on neuronal apoptosis under hypoxia induced by CoCl2 . (A) Quantitative real-time PCR analysis of Id2 mRNA levels in B35 cells transiently transfected with
+Id2-misRNA, Id2-siRNA1, Id2-siRNA2 or Id2-siRNA3. (B) Western blot analysis of Id2 protein levels in B35 cells transfected with misRNA or Id2-siRNA2 or not. (C) Western
+blot analysis of Id2 protein levels in B35 cells infected with lentiviruses expressing empty vector or rat full-length Id2 or not. (D) Flow cytometric analysis of apoptosis in
+the CoCl2 -treated cells in one representative experiment. (E) The histogram summarized the results of three independent experiments expressed as the mean percentages
+of apoptotic cells ± SD. *P < 0.001.
+
+As shown in Fig. 1A, siRNA2 was most effective in suppressing Id2 mRNA expression as revealed by quantitative real-time
+PCR analysis and therefore was chosen for all subsequent experiments. Western blot analysis showed that Id2 protein level was
+also substantially reduced in the siRNA2 transfected B35 cells
+(B35/siRNA-Id2) as compared to B35/misRNA, the parental B35
+cells transfected with a negative control siRNA with mismatched
+sequence of Id2 mRNA that showed no effect on Id2 protein expression (Fig. 1B). Fig. 1C showed that the level of Id2 protein was
+signiﬁcantly higher in the Id2-overexpressing B35 cells (B35/Id2)
+than that in the empty vector-transfected control cells (B35/EV).
+Annexin-V-FITC/PI double labeling ﬂow cytometry was then used
+to measure and quantify apoptotic cell death in the cells exposed to
+CoCl2 , a well-known hypoxia-mimetic agent that creates and mimics a hypoxic microenvironment [28]. As shown in Fig. 1D and 1E,
+knockdown of Id2 substantially protected the B35/siRNA-Id2 cells
+from CoCl2 -induced apoptosis (average apoptosis rate 19.5 ± 1.2%
+versus 5.3 ± 0.5% in B35/misRNA cells, P < 0.001) whereas, overexpression of Id2 signiﬁcantly increased the apoptotic rate in
+B35/Id2 cells relative to the control B35/EV cells (39.5 ± 3.5% versus
+19.3 ± 1.6%, P < 0.001) following the treatment with CoCl2 . These
+results indicated that Id2 might be involved importantly in one or
+more pro-apoptotic mechanisms that potentiated the toxicity of
+the hypoixa inducer CoCl2 .
+
+3.2. siRNA-mediated silencing of Id2 in the brain tissues of MCAO
+rats
+Given the observation that Id2 appeared to modulate hypoxiainduced neuronal apoptosis in vitro, we were curious as to whether
+Id2 would also have an effect on neurons suffering from ischemic
+strokeas mimicked in MCAO model. To this end, in vivo knockdown
+of Id2 in brain tissues was performed by injecting Cy3-labeld Id2siRNA2 into the left side of the lateral ventricle in Sprague-Dawley
+rats, and siRNA incorporation at a cortical region (Fig. 2A) was analyzed at 24 h, 72 h and 120 h after the injection. As shown in Fig. 2B,
+Cy3-labeled Id2-siRNA (red staining) could be detected abundantly
+at the cortical region 24 h post injection and disappeared at 120 h
+after injection. To identify the types of cells into which Cy3-labeled
+Id2-siRNA2 was incorporated, we also stained for neuronal marker
+NeuN in the same cortical region of the brain section and found
+that there was a signiﬁcant co-localization between Id2-siRNA2 and
+NeuN, indicating that a large portion of Id2-siRNA2 distributed in
+the cortical region was within neuronal cells.
+To conﬁrm effectiveness of the delivered Id2-siRNA in knocking
+down Id2 expression, the cortex of penumbra area was subjected
+to quantitative real-time PCR analysis and Western blot analysis
+for Id2 mRNA and protein expression (Fig. 2C–E). Id2 mRNA and
+protein level were found to be much lower in the siRNA group, com-
+
+532
+
+L. Guo et al. / Behavioural Brain Research 292 (2015) 528–536
+
+Fig. 2. siRNA-mediated knockdown of Id2 in the brain tissues of rats with MCAO. (A) Schematic depicting the delivery of Id2-siRNA to the brain by intraventricular injection
+and the cortical region of penumbra area to be analyzed (square inset). (B) Fluorescent images showed the staining for NeuN (green) and Cy3-labeled Id2-siRNA or misRNA
+(red) in the cortical region at 72 h after the siRNA injection in NaCl, misRNA and siRNA group. (C) Quantitative real-time PCR analysis of Id2 mRNA levels in the cortical region
+of the penumbra area at 24 h and 72 h after MCAO preceded by intraventricular injection of 0.9% NaCl, misRNA or Id2-siRNA or not. (D) Representative Western blot showing
+the expression of Id2 proteinin the cortical region of the penumbra area at 24 h and 72 h after MCAO preceded by intraventricular injection of 0.9% NaCl, misRNA or Id2-siRNA
+or not. (E) The histogram summarized the results of 3 independent experiments expressed as the fold change relative to that in the NS group after normalization to ␤-actin.
+*P < 0.001. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+pared to other groups (P < 0.001, respectively), while no discernible
+difference in Id2 mRNA and protein levels was noted among NS
+group, NaCl group and misRNA group (P = 0.156).
+3.3. Knockdown of Id2 increased tolerance to ischemic brain
+injury
+Having demonstrated that the in vivo knockdown of Id2 can
+be achieved by a single intracerebroventricular injection of the
+siRNA, we next investigated whether knockdown of Id2 expression
+could offer neuronal protection against ischemic damage following
+MCAO. As shown in Fig. 3A, based on neurological scores, application of MCAO caused a marked neurological deﬁcit in the groups
+intraventricularly injected with NaCl or Id2-misRNA. In contrast,
+a signiﬁcant reduction of neurological deﬁcit was observed in the
+Id2-siRNA injected rats as compared to NS group or NaCl group
+or misRNA group (P < 0.001, respectively). Consistent with the
+improved neurological function, there was a signiﬁcant reduction
+in the infarct volume in rats injected with Id2-siRNA2 compared
+
+with NS group or NaCl group or misRNA group at 72 h post MCAO
+(P < 0.001, respectively) (Fig. 3B and C). Therefore, we suggested
+Id2 knockdown afforded protection on the brain tissues against
+ischemic injury.
+3.4. Knockdown of Id2 ameliorated neuronal apoptosis, abolished
+Rb-Id2 association and enhanced Rb-E2F1 colocalization in the
+penumbra area of the rats with MCAO
+Following an ischemic event, apoptosis could occur in the
+peripheral neurons of the penumbra area with less severe ischemia
+in contrast to necrotic cell death in the central ischemic core zone
+[2]. To determine whether the lesser extent of ischemic brain injury
+from Id2 knockdown was also attributable to less induction of
+neuronal apoptosis, we assessed the frequency of apoptotic neurons in the penumbra area by TUNEL assay at 72 h post MCAO. As
+shown in Fig. 4A, there was a signiﬁcant decrease in the number of
+TUNEL-positive cells in the Id2-siRNA group compared to NS group
+or NaCl group or misRNA group (P < 0.001, respectively). In addi-
+
+L. Guo et al. / Behavioural Brain Research 292 (2015) 528–536
+
+533
+
+Fig. 3. Knockdown of Id2 alleviated ischemic brain injury in the rats with MCAO.(A) Evaluation of neurological deﬁcits in the MCAO rats of NS, NaCl, misRNA and siRNA group
+based on the neurological scores. (B) Gross examination of the brain tissues in rats of NS, NaCl, misRNA and siRNA group 72 h after MCAO. (C) Measurements of infarction
+volume by TTC stainingat 72 h post MCAO expressed as the ratio of infarction volume to normal. *P < 0.001, n = 8.
+
+tion, expression of the pro-apoptotic protein Bax was signiﬁcantly
+reduced in the neuronal cells of the penumbra area from Id2-siRNA
+injected rats at 24 h or 72 h post MCAO (P < 0.001, respectively)
+(Fig. 4B). These results indicated that inhibition of Id2 was able
+to restrain ischemia-induced neuronal apoptosis in the penumbra
+area, which might salvage neurons in the penumbra from further
+ischemic damage. Since a major component of the apoptotic mechanism in neurons subjected to a variety of insults involves Rb/E2F
+pathway [29], we next sought to determine if Id2 was associated
+with Rb and E2F1 in modulation of the neuronal apoptosis induced
+by the ischemic injury. Double immunoﬂuorescence staining was
+used to investigate the co-localization of Rb-Id2 and Rb-E2F1 in
+neuronal cells of the penumbra area at 72 h post MCAO (Fig. 4C and
+D). Quantiﬁcation of the staining revealed that the number of Rb
+and Id2 double positive cells in the penumbra area of Id2-siRNA
+group was signiﬁcantly less than the NaCl group (91.3 ± 7.6/mm2
+versus 190.4 ± 8.6/mm2 , P < 0.001) whereas, the number of cells
+positively stained with both Rb and E2F1 in the penumbra area
+of siRNA group was greater than the NaCl group (220.1 ± 9.0/mm2
+versus 137.3 ± 6.5/mm2 , P < 0.001). Therefore, suppression of Id2
+appeared to diminish the association between Rb and Id2 but
+enhance the colocalization of Rb with E2F1 in the penumbra area
+of the rats with MCAO.
+
+3.5. Knockdown of Id2 induced cell cycle arrest
+We then investigated whether knockdown of Id2 had an effect
+on cell cycle transition in CoCl2 -treated B35 cells. Cell cycle assay
+showed that, in Naïve control group and B35-siRNA group, signiﬁcant higher number of cells was in G0/G1 stage as well as
+signiﬁcantly lower number of cells in S stage, as compared to B35
+group and B35-misRNA group (Fig. 5, P < 0.001). There was no signiﬁcant difference in the numbers of cells in G2/M stages among
+
+four groups. Thus, our results demonstrated that Id2 knockdown
+induced G0/G1 cell cycle arrest in CoCl2 -treated B35 cells.
+
+4. Discussion
+Our prior work demonstrated that hypoxia/ischemia (H/I) upregulated Id2 expression in the neuronal cells led to an increase in
+the H/I induced neuronal apoptosis [22]. The results of the current
+studies provided further evidence that neuronal apoptosis induced
+by ischemic stroke required participation of Id2. Knockdown of Id2
+attenuated neuronal apoptosis while Id2 over-expression produced
+the opposite effects. Loss of Id2 signiﬁcantly improved the neurological deﬁcits, and reduced ischemic infarction as well as neuronal
+apoptosis in the penumbra area of rats with MCAO. Mechanistically,
+the neuronal apoptosis modulated by Id2 might involve an interaction with cell cycle regulators Rb and E2F1, and knockdown of Id2
+could induce G0/G1 cell cycle arrest.
+As RNA interference is a speciﬁc post-transcriptional regulatory
+pathway that can result in gene silencing, it has become a widely
+used method for gene function study and a novel therapeutic tool
+to target disease genes [30]. In the central nervous system, topical injection of naked siRNA has been proved effective in silencing
+genes of interest while its efﬁcacy is limited to the immediate area
+surrounding the injection site [31]. Intracerebroventricular injection of siRNAs conjugated to a lipid-based reagent has been shown
+promising, however, this approach raised concerns about lipidrelated toxicity and immune response [32]. In the present study,
+Id2-siRNA was a new type of naked siRNA modiﬁed with cholesterol to help transport across cellular barriers and labeled with Cy3
+for facilitation of incorporation study. We were able to demonstrate
+that such Id2-siRNA could successfully incorporate into neuronal
+cells and induce robust silencing of the targeted gene both in vitro
+and in vivo. Therefore, Id2-siRNA and the like with cholesterol mod-
+
+534
+
+L. Guo et al. / Behavioural Brain Research 292 (2015) 528–536
+
+Fig. 4. Effect of Id2 knockdown on neuronal apoptosis and interaction with Rb/E2F1 pathway. (A) TUNEL staining performed on the brain tissues in the penumbra area at
+72 h post MCAO to evaluate the neuronal apoptosis. The histogram is quantiﬁcation of the apoptotic cells in the brain tissues. Five visual ﬁelds were randomly selectedand
+data was presented as average number of TUNEL-positive cells (Arrows indicated with yellowish brown staining) per mm2 of ﬁeld. Values are mean ± SD. (B) Representative
+Western blot showing the expression of Bax proteinin the brain tissue of the penumbra area at 24 h and 72 h post MCAO. The histogram summarized the results of three
+independent experiments expressed as the fold change relative to that in the NS group after normalization to ␤-actin. (C) Immunoﬂuorescence staining of Rb and Id2 on
+neuronal cells of the penumbra area at 72 h post MCAO. The histogram is quantiﬁcation of the Rb, Id2 or both positive cells in the brain tissues. Five visual ﬁelds were randomly
+selectedand data was presented as average number of positive cells per mm2 of ﬁeld.Values are mean ± SD. (D) Immunoﬂuorescence staining of Rb and E2F1 on neuronal
+cells of the penumbra area at 72 h post MCAO. The histogram is quantiﬁcation of the Rb, E2F1 or both positive cells in the brain tissues. Five visual ﬁelds were randomly
+selected and data was presented as average number of positive cells per mm2 of ﬁeld.Values are mean ± SD. *P < 0.001.
+
+iﬁcation might have considerable potential as an experimental tool
+for neuron-selective delivery of siRNA.
+Upon Id2 knockdown we observed an improved neurological
+deﬁcitin the rats with MCAO and a reduction in ischemic infarction
+volume as well as a decrease of neuronal apoptosis in the penumbra area. Along with the in vitro data showing that knockdown of
+Id2 mitigated hypoxia-induced neuronal apoptosis while overexpression of Id2 promoted the apoptosis, it was conceivable that
+Id2 participated essentially in one or more pro-apoptotic mechanisms in neuronal cells and inhibition of it might provide a novel
+therapeutic strategy to protect brain tissues from ischemic damage.
+The precise molecular mechanisms underlying the neuroprotective effects afforded by Id2 knockdown in this experimental
+system remained to be fully explored and elucidated. Generally,
+Id proteins function in the control of differentiation and cell pro-
+
+liferation by HLH-mediated heterodimerization with basic HLH
+transcription factors [33,34]. However, non-HLH targets of Id proteins were also reported. For instance, Id2-induced apoptosis in
+myeloid progenitors and osteosarcoma cells was shown independent of HLH-mediated dimerization, and the capability of Id2 in
+promoting cell death relied on its N-terminal region and was related
+to the increased expression of a pro-apoptotic gene, Bax [35].
+In line with this, we found that knockdown of Id2 reduced the
+expression of Bax protein in the affected neurons, suggesting that
+Id2-induced neuronal apoptosis involved Bax protein that might
+augment the apoptotic cell death. Since Id2 was known to bind to
+the Rb protein [14] which is an important regulator of cell cycle
+and apoptosis [16,36], and our results further demonstrated that
+knockdown of Id2 could induce G0/G1 cell cycle arrest, we speculated that Id2-enhanced neuronal apoptosis induced by ischemia
+
+L. Guo et al. / Behavioural Brain Research 292 (2015) 528–536
+
+535
+
+Fig. 5. Knockdown of Id2 induced cell cycle arrest. Cell cycle assay was conducted to investigate the percentage of cells in each cell cycle phase for Naïve control group (A),
+B35 group (B), B35-misRNA group (C) and B35-siRNA group (D). The stacked vertical Bar (E) showed that, in Naïve control group and B35-siRNA group, signiﬁcant higher
+number of cells was in G0/G1 stage as well as signiﬁcantly lower number of cells in S stage, as compared to B35 group and B35-misRNA group, and there was no signiﬁcant
+difference in the numbers of cells in G2/M stages among four groups. *P < 0.001.
+
+might be mediated through the Rb pathway. In proliferating cells,
+Rb protein functions as a checkpoint during G1/S phase transition. Rb is non-phosphorylated normally in its latent stage, and
+generally believed to halt cell cycle progression through binding
+to the transcription factor E2F1. In response to mitogenic stimulation, active cyclinD/CDK4/6 complexes phosphorylate Rb which
+consequently releases from E2F1, leading to de-repression of E2F1
+and transactivation of E2F1-targetedand apoptosis-related genes
+such as p53 and Bax [29,37]. Recent studies have indicated that
+Rb and other cell-cycle regulating proteins played critical roles
+in neuronal apoptotic pathways in ischemia/reperfusion induced
+neuronal damage [38–40]. Moreover, ischemia-induced expression
+of cell cycle-associated proteins in neurons was likely to be able to
+magnify their function in the apoptosis rather than in the cell cycle
+itself [41,42]. In the present study, we showed that knockdown of
+Id2 diminished its association with Rb but enhanced the colocalization of Rb and E2F1 in the neurons of penumbra area of the ischemic
+rat brain. Since Rb is an atypical target of Id [14,43], we postulated
+that suppression of Id2 might result in hypophosphorylation of Rb
+in the neuronal cells and augmented E2F1-dependent proliferation
+leading to less apoptotic cell death in the penumbra area. Further
+studies are clearly warranted to explore possible mechanisms that
+govern these processes at more molecular levels and in more depth.
+However, a limitation of our present study is the exploitation
+of an immortalized tumor cell line in vitro: the rat neuroblastoma
+B35 cell line (ATCC, CRL-2754) to investigate H/I-induced neuronal
+injury [22,23]. Despite the fact that a series of papers made use of
+this cell line to simulate H/I-induced injurious effects in vitro, its distinction from primarily cultured neurons might potentially produce
+biases in demonstration of biological or pathological alterations of
+neural cells under H/I stress. Therefore, it would be suggested that
+
+in the future primary neural cell culture from rats, or preferentially
+humans should be considered in the study of H/I-induced neuronal
+damage at the cellular level.
+Another limitation of the experiment design is the absence of
+interpretation of potential confounding effects of microglia and
+other glia cells in response to intraventricular injection of Id2 siRNA
+in vivo. Consequently, it seems that our future experiments should
+take these effects into consideration through designing relevant
+conﬁrmation assays of glia cell functions in order to elicit a more
+credible result in the illustration of Id2 function in H/I-induced neuronal injuries. That being the case, since neuronal cells account for
+the main function of the central nervous system in mammals, it
+is plausible to assume that Id2-mediated neuronal function modiﬁcations carry more weight than any other type of cells either in
+humans or in rats.
+In summary, we found that knockdown of Id2 in neuronal cells
+could protect them from hypoxic and ischemic injury both in vitro
+and in vivo, which indicated the modulation of Id2 in H/I-induced
+neuronal apoptosis. As Id2 silencing is feasible for clinical application (via intraventricular injection, lumbar puncture, etc) using RNA
+interference, it might also provide a potential therapeutic option to
+protect brain tissues from ischemic injury.
+Conﬂict of interest
+The authors declare no conﬂict of interest.
+Acknowledgments
+This work was supported by grants from the Shanghai Science
+and Technology Research Program (no. 13XD1402600) and the
+
+536
+
+L. Guo et al. / Behavioural Brain Research 292 (2015) 528–536
+
+National Natural Science Foundation of China (no. 81171168) as
+well as from the State Key Laboratory of Oncogenes and Related
+Genes (no. 90-14-01).
+References
+[1] W.N. Kernan, B. Ovbiagele, H.R. Black, D.M. Bravata, M.I. Chimowitz, M.D.
+Ezekowitz, et al., Guidelines for the prevention of stroke in patients with
+stroke and transient ischemic attack: a guideline for healthcare professionals
+from the American Heart Association/American Stroke Association, Stroke 45
+(2014) 2160–2236.
+[2] P. Deb, S. Sharma, K.M. Hassan, Pathophysiologic mechanisms of acute
+ischemic stroke: an overview with emphasis on therapeutic signiﬁcance
+beyond thrombolysis, Pathophysiology 17 (2010) 197–218.
+[3] L.P. Liu, L.K. Wong, D.Z. Wang, Z.R. Miao, Current status of endovascular
+procedures in management of ischemic stroke in China, CNS Neurosci. Ther.
+20 (2014) 483–484.
+[4] M. Ebinger, B. Winter, M. Wendt, J.E. Weber, C. Waldschmidt, M. Rozanski,
+et al., Effect of the use of ambulance-based thrombolysis on time to
+thrombolysis in acute ischemic stroke: a randomized clinical trial, JAMA 311
+(2014) 1622–1631.
+[5] M. Mihara, S. Erster, A. Zaika, O. Petrenko, T. Chittenden, P. Pancoska, et al.,
+p53 has a direct apoptogenic role at the mitochondria, Mol. Cell 11 (2003)
+577–590.
+[6] S. Gupta, D. Campbell, B. Derijard, R.J. Davis, Transcription factor ATF2
+regulation by the JNK signal transduction pathway, Science 267 (1995)
+389–393.
+[7] T. Hayashi, K. Sakai, C. Sasaki, W.R. Zhang, H. Warita, K. Abe, c-Jun N-terminal
+kinase (JNK) and JNK interacting protein response in rat brain after transient
+middle cerebral artery occlusion, Neurosci. Lett. 284 (2000).
+[8] F.C. Barone, A.A. Parsons, Therapeutic potential of anti-inﬂammatory drugs in
+focal stroke, Expert Opin. Invest. Drugs 9 (2000) 2281–2306.
+[9] S.L. Green, K.S. Kulp, R. Vulliet, Cyclin-dependent protein kinase 5 activity
+increases in rat brain following ischemia, Neurochem. Int. 31 (1997)
+617–623.
+[10] Y. Sun, H. Gui, Q. Li, Z.M. Luo, M.J. Zheng, J.L. Duan, et al., MicroRNA-124
+protects neurons against apoptosis in cerebral ischemic stroke, CNS Neurosci.
+Ther. 19 (2013) 813–819.
+[11] C.H. Chen, Z. Jiang, J.H. Yan, L. Yang, K. Wang, Y.Y. Chen, et al., The involvement
+of programmed cell death 5 (PDCD5) in the regulation of apoptosis in cerebral
+ischemia/reperfusion injury, CNS Neurosci. Ther. 19 (2013) 566–576.
+[12] R. Benezra, R.L. Davis, D. Lockshon, D.L. Turner, H. Weintraub, The protein Id:
+a negative regulator of helix-loop-helix DNA binding proteins, Cell 61 (1990)
+49–59.
+[13] A. Iavarone, P. Garg, A. Lasorella, J. Hsu, M.A. Israel, The helix-loop-helix
+protein Id-2 enhances cell proliferation and binds to the retinoblastoma
+protein, Genes Dev. 8 (1994) 1270–1284.
+[14] A. Lasorella, M. Noseda, M. Beyna, Y. Yokota, A. Iavarone, Id2 is a
+retinoblastoma protein target and mediates signalling by Myc oncoproteins,
+Nature 407 (2000) 592–598.
+[15] J.G. Toma, H. El-Bizri, F. Barnabe-Heider, R. Aloyz, F.D. Miller, Evidence that
+helix-loop-helix proteins collaborate with retinoblastoma tumor suppressor
+protein to regulate cortical neurogenesis, J. Neurosci. 20 (2000) 7648–7656.
+[16] D.S. Park, E.J. Morris, R. Bremner, E. Keramaris, J. Padmanabhan, M.
+Rosenbaum, et al., Involvement of retinoblastoma family members and
+E2F/DP complexes in the death of neurons evoked by DNA damage, J.
+Neurosci. 20 (2000) 3104–3114.
+[17] S.P. Chellappan, S. Hiebert, M. Mudryj, J.M. Horowitz, J.R. Nevins, The E2F
+transcription factor is a cellular target for the RB protein, Cell 65 (1991)
+1053–1061.
+[18] I. Suzuki-Takahashi, M. Kitagawa, M. Saijo, H. Higashi, H. Ogino, H.
+Matsumoto, et al., The interactions of E2F with pRB and with p107 are
+regulated via the phosphorylation of pRB and p107 by a cyclin-dependent
+kinase, Oncogene 10 (1995) 1691–1698.
+[19] X.Q. Qin, D.M. Livingston, W.G. Kaelin Jr., P.D. Adams, Deregulated
+transcription factor E2F-1 expression leads to S-phase entry and
+p53-mediated apoptosis, Proc. Natl. Acad. Sci. U. S. A. 91 (1994) 10918–10922.
+
+[20] S.W. Hiebert, G. Packham, D.K. Strom, R. Haffner, M. Oren, G. Zambetti, et al.,
+E2F-1:DP-1 induces p53 and overrides survival factors to trigger apoptosis,
+Mol. Cell. Biol. 15 (1995) 6864–6874.
+[21] M. Gleichmann, G. Buchheim, H. El-Bizri, Y. Yokota, T. Klockgether, S. Kugler,
+et al., Identiﬁcation of inhibitor-of-differentiation 2 (Id2) as a modulator of
+neuronal apoptosis, J. Neurochem. 80 (2002) 755–762.
+[22] L. Guo, J. Lan, Y. Lin, P. Guo, Q. Nie, Q. Mao, et al., Hypoxia/ischemia
+up-regulates Id2 expression in neuronal cells in vivo and in vitro, Neurosci.
+Lett. 554 (2013) 88–93.
+[23] Y.F. Yang, Z. Chen, S.L. Hu, J. Hu, B. Li, J.T. Li, et al., Interleukin-1 receptor
+associated kinases-1/4 inhibition protects against acute
+hypoxia/ischemia-induced neuronal injury in vivo and in vitro, Neuroscience
+196 (2011) 25–34.
+[24] V. Rosslenbroich, L. Dai, S.L. Baader, A.A. Noegel, V. Gieselmann, J. Kappler,
+Collapsin response mediator protein-4 regulates F-actin bundling, Exp. Cell
+Res. 310 (2005) 434–444.
+[25] H. Nakajima, T. Kubo, Y. Semi, M. Itakura, M. Kuwamura, T. Izawa, et al., A
+rapid, targeted, neuron-selective, in vivo knockdown following a single
+intracerebroventricular injection of a novel chemically modiﬁed siRNA in the
+adult rat brain, J. Biotechnol. 157 (2012) 326–333.
+[26] J. Zhang, Y. Wang, P. Zhu, X. Wang, M. Lv, H. Feng, siRNA-mediated silence of
+protease-activated receptor-1 minimizes ischemic injury of cerebral cortex
+through HSP70 and MAP2, J. Neurol. Sci. 320 (2012) 6–11.
+[27] E.Z. Longa, P.R. Weinstein, S. Carlson, R. Cummins, Reversible middle cerebral
+artery occlusion without craniectomy in rats, Stroke 20 (1989) 84–91.
+[28] M. Guo, L.P. Song, Y. Jiang, W. Liu, Y. Yu, G.Q. Chen, Hypoxia-mimetic agents
+desferrioxamine and cobalt chloride induce leukemic cell apoptosis through
+different hypoxia-inducible factor-1alpha independent mechanisms,
+Apoptosis 11 (2006) 67–77.
+[29] D.X. Liu, L.A. Greene, Regulation of neuronal survival and death by
+E2F-dependent gene repression and derepression, Neuron 32 (2001) 425–438.
+[30] Y. Deng, C.C. Wang, K.W. Choy, Q. Du, J. Chen, Q. Wang, et al., Therapeutic
+potentials of gene silencing by RNA interference: principles, challenges, and
+new strategies, Gene 538 (2014) 217–227.
+[31] C. Manrique, V. Compan, C. Rosselet, S.G. Duﬂo, Speciﬁc knock-down of
+GAD67 in the striatum using naked small interfering RNAs, J. Biotechnol. 142
+(2009) 185–192.
+[32] D.R. Thakker, F. Natt, D. Husken, H. van der Putten, R. Maier, D. Hoyer, et al.,
+siRNA-mediated knockdown of the serotonin transporter in the adult mouse
+brain, Mol. Psychiatry 10 (2005) 782–789, 714.
+[33] X.H. Sun, N.G. Copeland, N.A. Jenkins, D. Baltimore, Id proteins Id1 and Id2
+selectively inhibit DNA binding by one class of helix-loop-helix proteins, Mol.
+Cell. Biol. 11 (1991) 5603–5611.
+[34] J.D. Norton, ID helix-loop-helix proteins in cell growth, differentiation and
+tumorigenesis, J. Cell Sci. 113 (Pt 22) (2000) 3897–3905.
+[35] M. Florio, M.C. Hernandez, H. Yang, H.K. Shu, J.L. Cleveland, M.A. Israel, Id2
+promotes apoptosis by a novel mechanism independent of dimerization to
+basic helix-loop-helix factors, Mol. Cell. Biol. 18 (1998) 5435–5444.
+[36] K.R. Byrnes, A.I. Faden, Role of cell cycle proteins in CNS injury, Neurochem.
+Res. 32 (2007) 1799–1807.
+[37] J.W. Harbour, D.C. Dean, The Rb/E2F pathway: expanding roles and emerging
+paradigms, Genes Dev. 14 (2000) 2393–2409.
+[38] Y. Wen, S. Yang, R. Liu, J.W. Simpkins, Cell-cycle regulators are involved in
+transient cerebral ischemia induced neuronal apoptosis in female rats, FEBS
+Lett. 579 (2005) 4591–4599.
+[39] Y. Yu, Q.G. Ren, Z.H. Zhang, K. Zhou, Z.Y. Yu, X. Luo, et al., Phospho-Rb
+mediating cell cycle reentry induces early apoptosis following oxygen-glucose
+deprivation in rat cortical neurons, Neurochem. Res. 37 (2012) 503–511.
+[40] C.Y. Kuan, A.J. Schloemer, A. Lu, K.A. Burns, W.L. Weng, M.T. Williams, et al.,
+Hypoxia-ischemia induces DNA synthesis without cell proliferation in dying
+neurons in adult rodent brain, J. Neurosci. 24 (2004) 10763–10772.
+[41] J. Padmanabhan, D.S. Park, L.A. Greene, M.L. Shelanski, Role of cell cycle
+regulatory proteins in cerebellar granule neuron apoptosis, J. Neurosci. 19
+(1999) 8747–8756.
+[42] D.S. Park, E.J. Morris, J. Padmanabhan, M.L. Shelanski, H.M. Geller, L.A. Greene,
+Cyclin-dependent kinases participate in death of neurons evoked by
+DNA-damaging agents, J. Cell Biol. 143 (1998) 457–467.
+[43] Y. Yokota, S. Mori, Role of Id family proteins in growth control, J. Cell. Physiol.
+190 (2002) 21–28.
+
+

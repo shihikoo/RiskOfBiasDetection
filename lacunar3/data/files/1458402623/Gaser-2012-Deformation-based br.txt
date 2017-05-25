@@ -1,0 +1,766 @@
+﻿[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2012.06.066
+[Link]
+mailto:christian.gaser@uni-jena.de
+[Link]
+mailto:silvio.schmidt@med.uni-jena.de
+[Link]
+mailto:Martin.Metzler@uni-jena.de
+[Link]
+mailto:karl-heinz.Herrmann@med.uni-jena.de
+[Link]
+mailto:Ines.Krumbein@med.uni-jena.de
+[Link]
+mailto:Juergen.Reichenbach@med.uni-jena.de
+[Link]
+mailto:Otto.Witte@med.uni-jena.de
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2012.06.066
+[Link]
+http://www.sciencedirect.com/science/journal/10538119
+Deformation-based brain morphometry in rats
+Christian Gaser a,b,⁎,1, Silvio Schmidt a,1, Martin Metzler a, Karl-Heinz Herrmann c, Ines Krumbein c,
+Jürgen R. Reichenbach c, Otto W. Witte a
+a Hans Berger Clinic for Neurology, Jena University Hospital, Erlanger Allee 101, 07747 Jena, Germany
+b Department of Psychiatry, Jena University Hospital, Jahnstrasse 3, 07743 Jena, Germany
+c Medical Physics Group, Department of Diagnostic and Interventional Radiology I, Jena University Hospital, Philosophenweg 3, 07743 Jena, Germany
+a b s t r a c t a r t i c l e  i n f o 
+Article history:
+Accepted 28 June 2012
+Available online 6 July 2012
+Keywords:
+Brain
+Magnetic resonance imaging (MRI)
+Rat
+Deformations-based morphometry (DBM)
+Registration
+Magnetic resonance imaging (MRI)-based morphometry provides in vivo evidence for macro-structural plasticity of
+the brain. Experiments on small animals using automated morphometric methods usually require expensive measurements
+with ultra-highfield dedicated animal MRI systems. Here, we developed a novel deformation-based
+morphometry (DBM) tool for automated analyses of rat brain images measured on a 3-Tesla clinical whole
+body scanner with appropriate coils. A landmark-based transformation of our customized reference brain into
+thecoordinatesofthewidelyusedratbrainatlasfromPaxinosandWatson(PaxinosAtlas)guaranteesthecomparability
+of results to other studies. For cross-sectional data, we warped images onto the reference brain using the
+low-dimensional nonlinear registration implemented in the MATLAB software package SPM8. For the analysis of
+longitudinal data sets, we chose high-dimensional registrations of all images of one data set to the first baseline
+image which facilitate the identification of more subtle structural changes. Because all deformations were finally
+used to transform the data into the space of the Paxinos Atlas, Jacobian determinants could be used to estimate
+absolute local volumes of predefined regions-of-interest. Pilot experiments were performed to analyze brain
+structural changes due to aging or photothrombotically-induced cortical stroke. The results support the utility
+of DBM based on commonly available clinical whole-body scanners for highly sensitive morphometric studies
+on rats.
+© 2012 Elsevier Inc. All rights reserved.
+Introduction
+Recent magnetic resonance imaging (MRI)-based morphometric
+studies in humans have shown that changes of the brain's morphology
+correlate with behavioral abilities, learning, diseases and age (for
+review see: Fields, 2011; Mietchen and Gaser, 2009; Raz and Rodrigue,
+2006). Findings from this field of research have provided new and
+surprising insights into how the brain reorganizes under native and
+pathological conditions, and may be highly relevant for the improvement
+of therapeutic interventions for aging- or disease-induced disabilities.
+However, the cellular mechanisms underlying macro-structural plasticity
+in the human brain are largely unknown because their investigation
+would require post-mortem or biopsy tissue samples. To bridge this gap,
+the transfer of human study designs to animal experiments is urgently
+required.
+Morphometry of animal brain magnetic resonance (MR) images is
+not straightforward regardless of whether the analysis strategy is
+region-of-interest (ROI) based or ROI independent. The ROI-based
+manual outlining of individual brain structures enables the estimation
+of absolute volumes but requires well-reasoned and time-consuming
+area demarcation, and the outlining protocols may not be compatible
+between different laboratories (Foldi et al., 2010; Hasegawa et al.,
+2010; Henke et al., 2008; Nagel et al., 2004; Sawiak et al., 2009a;
+Schubert et al., 2008, 2009). Unfortunately, manual approaches fail if
+the volumes of selected structures differ partially by small amounts.
+The detection of such diffuse and spatially distributed volume changes
+over the whole brain requires more sensitive and preferably automated
+methods. For this purpose, two MR image intensity-based techniques
+have been developed enabling the quantitative estimation of structural
+changes. Voxel-based morphometry (VBM) is based on automatic
+segmentation of the brain in gray matter, white matter and ventricles,
+and therefore requires high contrast between tissue borders. In small rodents
+, which are largely preferred for animal experiments on mammals,
+this is only achievable using ultra-high field MRI systems (preferably
+>9 T) (Li et al., 2009) or unfeasibly long acquisition times (Sawiak et
+al., 2009b). In contrast to VBM, deformation-based morphometry
+(DBM) detects structural differences independent of sharp tissue borders
+by analysis of deformations needed to match one brain onto a reference
+brain by nonlinear registration (Ashburner et al., 1998; Gaser et al.,
+NeuroImage 63 (2012) 47–53
+⁎ Corresponding author at: Department of Psychiatry, Jena University Hospital,
+Jahnstrasse 3, 07747 Jena, Germany. Fax: +49 3641 934755.
+E-mail addresses: christian.gaser@uni-jena.de (C. Gaser),
+silvio.schmidt@med.uni-jena.de (S. Schmidt), Martin.Metzler@uni-jena.de
+(M. Metzler), karl-heinz.Herrmann@med.uni-jena.de (K.-H. Herrmann),
+Ines.Krumbein@med.uni-jena.de (I. Krumbein),
+Juergen.Reichenbach@med.uni-jena.de (J.R. Reichenbach),
+Otto.Witte@med.uni-jena.de (O.W. Witte).
+1 Both authors contributed equally.
+1053-8119/$ – see front matter © 2012 Elsevier Inc. All rights reserved.
+doi:10.1016/j.neuroimage.2012.06.066
+Contents lists available at SciVerse ScienceDirect
+NeuroImage
+journal homepage: www.elsevier.com/locate/ynimg
+( 8.0.0.2542.1162997128 PDF Extractor SDK EVALUATION)
+1999). Therefore, DBM might be preferable for morphometry of brain
+structures with lower contrast between different tissues.
+Thefirst aim of the present study was to establish a DBM tool for rat
+brainsmeasured on a 3-Tesla clinical whole body scanner, whereby–by
+using appropriate coils–we are able to generate images with adequate
+spatial resolution and tissue contrast in short measurement times
+(Herrmann et al., 2011). Although DBM was established for mice measured
+on ultra-high field animal MRI systems (Badea et al., 2010;
+Carroll et al., 2011; Lau et al., 2008; Lerch et al., 2008; Maheswaran et
+al., 2009; Mercer et al., 2009; Nieman et al., 2007; Seminowicz et al.,
+2009; Spring et al., 2010; Verma et al., 2005; Yu et al., 2011; Zhang et
+al., 2010),the use of clinical scanners for animal studies holds important
+advantages. First, well-established optimized clinical protocols with
+sequences that sometimes do not have corresponding counterparts
+on animal scanners in combination with the lower field strengths
+with all their benefits on T1 and T2 relaxation times bring the experiments
+closer to human imaging. Secondly, the large bore size facilitates
+easier access to the animal and provides more space for equipment
+necessary for anesthesia supply or animalfixation (Herrmann et al.,
+2011). Finally, for most researchers, clinical scanners are more easily
+available than expensive ultra-highfield animal MRI systems. The second
+aim of the study was to implement the advantages of both the ROI-based
+strategy to estimate absolute volumes and the ROI-independent strategy
+of qualitative brain morphology to analyze diffuse volume changes which
+works within the standardized coordinates of the Paxinos Atlas.
+For DBM, we adopted a tool that we have previously developed for
+use with human data (Gaser et al., 2001). A customized rat reference
+brain was created and landmark-based transformed into the space of
+the Paxinos Atlas with predefined ROIs. The transformation of deformations
+into the space of the Paxinos Atlas enables the estimation of
+absolute local volumes. In a pilot study, we analyzed whole brain and
+cortical volumes of young adult (3 months) and aged (26 months)
+male rats in a cross-sectional design and validated the approach by
+comparing the automatically generated data with results of manual
+volume estimation. For the detection of more subtle volume changes,
+we pair-wisely registered longitudinally acquired images of one data
+set to the first baseline image. The intra-pair deformations are then
+transformed into the space of the Paxinos Atlas using normalization parameters
+obtained with the baseline image. We tested this approach on
+animals with photothrombotically-induced cortical stroke and found a
+pattern of progressive volume changes in remote non-lesion areas
+which correlated with recent histologic, physiologic and behavioral
+findings. To the best of our knowledge, this is the first report demonstrating
+high sensitivity of DBM in combination with rats measured on
+a clinical whole body scanner. This novel DBM tool could facilitate the
+analyses of macro-structural brain plasticity undertaken by other research
+groups.
+Materials and methods
+The experiments were performed with male Han–Wist rats in adherence
+with local government requirements and according to approved
+guidelines. To compare the macro-structure of young adult and aged
+brains in a cross-sectional design, MRI was performed on one group of
+3-month-old rats (n=10) and on a second group of 26-month-old rats
+(n=15). For longitudinal analysis ofstroke-induced brain tissue shrinkage
+,five consecutive MRI measurements were performed on a group
+of young adult rats, respectively, one week before (baseline measurement
+) as well as one, two, four and eight weeks following cortical
+photothrombotic lesion induction (lesioned: n=8; controls: n=8;
+age at lesion induction: 3 months).
+Photothrombotic lesion
+Photothrombotic lesions including the primary and secondary
+motor cortex (M1, M2) as well as parts of the primary somatosensory
+cortex of the fore- and hindlimbs (S1FL, S1HL) were induced as described
+previously (Schmidtetal.,2011 ). In brief, rats were anesthetized
+with isoflurane (2.5% in oxygen), the skin above the skull was
+incised and afiber-optic bundle (aperture: 3.0 mm; light source: Schott
+KL1500) waspositioned 0.5 mmanterior to bregma and 3.7 mmlateral
+to midline. During thefirst minute of illumination (whole illumination
+time: 20 min), the photosensitive dye rose bengal (Aldrich Chemie,
+1.3 mg/100 mg bodyweight) was injected through the tail vein. Body
+temperature was controlled rectally and held constant at 37 °C.
+After illumination, the wounds were sutured and animals were placed
+in a warm environment for approximately 30 min before returning to
+home cages with free access to food and water. Control animals received
+the same procedure without injection of the photosensitive dye.
+MRI acquisition protocols
+Rat brain MRI was performed on a clinical 3 T whole body scanner
+(Magnetom TIM Trio, Siemens Medical Solutions, Erlangen, Germany) as
+previously described (Herrmann et al., 2011). For cross-sectional analysis
+of age-specific brain volume changes, a two -module multi-functional
+8-channel surface coil (CPC coil, Noras MRI products GmbH, Höchberg,
+Germany) was used. Measurements for longitudinal analysis of
+stroke-induced brain volume changes were performed using a dedicated
+rat head coil with a linearly polarized Litz coil volume resonator design
+(Doty Scientific Inc., Columbia, SC, USA). Anesthesia of freely breathing
+animals was provided by isoflurane (1.7% in oxygen, 1.5 l/min).
+T2-weighted images were obtained using a 3D SPACE (Sampling Perfection
+with Application-Optimized Contrasts Using Different Flip Angle
+Evolutions) sequence (Siemens Healthcare, Erlangen, Germany) with
+an isotropic resolution of 0.33 mm3 (matrix 192×130×96, FoV
+64×43×32 mm, bandwidth 145 Hz/px, T
+E
+/T
+R
+=352 ms/2500 ms, flip
+angle mode‘T2var’, echo spacing of 10.7 ms, turbo factor of 67 and Partial
+Fourier of 7/8 in both phase encode directions). While the CPC coil
+measurements were performed using three repetitions each consisting
+of two averages with a total acquisition time T
+A
+=42 min, the improved
+signal-to-noise ratio (SNR) performance of the Doty coil enabled a protocol
+with two repetitions (one average) with T
+A
+=14 min.
+Generation of the reference brain
+Because we obtained our T2-weighted images on a clinical 3 T
+scanner, these images might differ in tissue contrast, spatial resolution
+and SNR from data acquired on high field scanners. Thus, we could
+not use any existing rat reference brain and the creation of a customized
+reference brain was mandatory. We used 176 rats (69 Rcc–Wist, 107
+Han–Wist, age range 3–6 months, mean age 3.64 months) to create a
+customized reference brain.We used two different ratstrainsto provide
+a mixed template for future studies that can be used for both Rcc–Wist
+as well as Han–Wist rats. Another reason to use two strains was to have
+a large, representative number of rats that are used to create the template.
+However, the differences between both strains might be rather
+small because both are substrains from Wistar rats.
+The generation of this initial reference brain involved the following
+steps:
+1. Selection of one representative rat brain as reference for initial affine
+spatial transformation using 12 parameters (Fig. 1A)
+2. Manual drawing of a brain mask to exclude non-brain regions from
+spatial transformation
+3. Affine transformation of all brains to the brain from step 1 (Fig. 1A)
+4. Calculation of the average of the affine transformed brains to be
+subsequently used as new reference brain
+5. Nonlinear spatial transformation of all brains to the new reference
+image from step 4
+6. Calculation of average of nonlinearly transformed brains to create
+a new reference brain (Fig. 1B)
+48 C. Gaser et al. / NeuroImage 63 (2012) 47–53
+(PDF Extractor SDK TRIAL VERSION)
+[Link]
+http://www.bic.mni.mcgill.ca/ServicesSoftware/MINC
+[Link]
+http://www.bic.mni.mcgill.ca/ServicesSoftware/MINC
+[Link]
+image of Fig. 1
+As nonlinear transformation we used the default spatial normalization
+implemented in the MATLAB software package SPM8 with the following
+parameters: spatial cut-off 1.5 mm; 24 iterations; regularization of registration
+0.1; voxel size for writing 0.2×0.2×0.2 mm3; image and template
+smoothing with FWHM of 0.8 mm; template weighting with the
+manually defined brain mask. For affine as well as nonlinear transformation
+a Gauss–Newton optimization was used with least-squares as
+similarity metric.
+This initial reference brain represents the average of 176 brains
+while providing reasonable spatial details due to the use of a nonlinear
+spatial transformation. However, the reference space is now primarily
+defined by the first selected reference brain and is not comparable to
+other atlases. In order to provide a standardized reference atlas, we
+made use of the Paxinos Atlas, which is also available as single slice images
+in JPEG format (Paxinos and Watson, 2005). This atlas is widely
+used and guarantees standardization and comparability of results. In
+order to use the Paxinos Atlas, we applied the following procedure:
+1. Thresholding and morphological erosion of Paxinos Atlas image slices
+by one pixel to enlarge borders between regions and provide clear delineation
+between regions (e.g. regions should be unconnected after
+erosion)
+2. Manual filling of regions slice-by-slice with predefined intensity
+values for each hemisphere to differentiate between regions
+(Fig. 2B)
+3. Morphological dilation of edited slices by one pixel to refill borders
+between regions (Fig. 2C)
+4. Filling existing gaps between thicker slices with duplicates
+5. Combination of all processed slices to a 3D volume with final
+in-plane resolution of 0.025 mm and a slice thickness of 0.12 mm
+Because of the time-consuming and demanding nature of the task,
+not all regions of the original Paxinos Atlas were used and manually
+filled. However, all regions in the cortical band were covered, while
+most of the smaller regions around the midline were not used because
+of their small size.
+In order to transform the initial reference brain into the space of the
+Paxinos Atlas, we applied a landmark-based thin-plate spline warping
+(Bookstein, 1989). First, we manually defined 118 corresponding landmarks
+in both images. Secondly, a thin-plate spline warping was applied
+to nonlinearly transform the reference brain into the space of
+the Paxinos Atlas using the Minc-software Register (http://www.bic.
+mni.mcgill.ca/ServicesSoftware/MINC).
+After thisfinal nonlinear registration, the initial reference brain is
+transformed into the space of the Paxinos Atlas and can now be used
+as standard reference brain for all rat brains. Finally, the location of
+the bregma ±0 in coronal slices was set as origin.
+DBM
+In order to analyze rat brain structure, we used a DBM approach that
+we have previously developed for use with human brain data. DBM is a
+useful technique to detect structural differences over the entire brain
+since it analyzes positional differences between every voxel and a reference
+brain. The idea is to use a nonlinear registration to deform one
+brain onto a reference brain. After this registration, the morphological
+differences between both brains are minimized and the deformations
+now encode information about these differences. The Jacobian determinant
+can be finally used to calculate local volume changes at every
+voxel. Our DBM approach was validated in an earlier study by comparing
+the deformationfields and its Jacobian determinant with manually
+traced ventricular volumes (Gaser et al., 2001).
+The accuracy (how detailed will a DBM approach work) mainly
+depends on the dimensionality of the nonlinear registration that is
+used to deform the brains. We used two nonlinear registration techniques
+that differ in terms of dimensionality to provide appropriate
+approaches for cross-sectional as well as for longitudinal data. For
+cross-sectional data, we applied the low-dimensional nonlinear registration
+that is also used in SPM8 as the default registration to spatially
+normalize data to a reference brain (Ashburner and Friston, 1999).
+We modified the parameters to work with the deviating dimensions
+of rat brains with the settings that were described in Generation of
+the reference brainsection: spatial cut-off 1.5 mm; 24 iterations; regularization
+of registration 0.1; voxel size for writing 0.2×0.2×0.2 mm3;
+image and template smoothing with FWHM of 0.8 mm; template
+weighting with the manually defined brain mask.
+For longitudinal data, more subtle changes are expected. Therefore,
+we chose a high-dimensional registration with more detailed deformations
+(Ashburner et al., 1999). This registration allows the identification
+of more subtle structures with greater precision. A prerequisite for longitudinal
+data is that all images of one data set are rigidly registered to
+the first baseline image. After this positional correction, the pair-wise
+deformations are obtained between all subsequent images of one data
+set to its baseline. Finally, all intra-pair deformations are nonlinearly
+transformed to the Paxinos Atlas using the normalization parameters
+obtained with the baseline image.
+Finally, the Jacobian determinant of the deformations can be used
+to calculate local volume changes. Because all deformations were
+transformed to the Paxinos Atlas, this atlas can also be used to estimate
+local volumes of predefined ROIs. That means that for all regions
+Fig. 2. Paxinos Atlas. (A) One arbitrary slice from the Paxinos Atlas that is provided as single image for each slice. (B) After thresholding and morphological erosion, borders are
+enlarged and remaining regions are filled with predefined intensity values. (C) The final Paxinos Atlas is obtained after the borders have been filled with morphological dilation.
+Fig. 1.Creation of reference brain. (A) One representative rat brain was selected as reference
+for initial affine transformation. A manually drawn brain mask (to exclude
+non-brain regions from spatial transformation) is overlaid in red colors. (B) The
+mean image of all nonlinearly transformed images is calculated to create a new reference
+brain. (C) This image shows the reference brain after transformation into the coordinates
+of the Paxinos Atlas.
+49 C. Gaser et al. / NeuroImage 63 (2012) 47–53
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.1380699545)
+[Link]
+image of Fig. 3
+defined in our Paxinos Atlas, region-wise volume changes can be estimated
+and analyzed.
+Cavalieri volume estimation
+To validate our rat DBM approach, we performed a manual Cavalieri
+volume estimation on MR images of 10 young adult (3 months) and 15
+aged (26 months) rats using the Image J software. By using a 1750 μm
+size counting frame for the whole brain and a 840 μmsizecounting
+frame for the left or right whole cortex, between 948 and 1161 grid
+points from 27 to 30 coronal sections (block advance: 900 μm) and between
+488 and 608 grid points from 16 to 19 coronal sections were
+counted for the whole brain and the whole cortex, respectively, which
+provided coefficient of error estimates ofb0.1.
+Statistical analysis
+Voxel-wise analysis of volume changes over time was performed
+within SPM8 with a repeated measure ANOVA. Only results exceeding
+a threshold of pb0.001 (corrected for multiple comparisons using
+family-wise error [FWE]) were reported. Results were overlaid onto
+the average of all normalized anatomical images. We applied a t-test
+to investigate an interaction between time and group by testing for a
+volume decrease between the first and last time point in the lesion
+group compared to the control group. Region-wise analysis was
+obtained using SPSS at a threshold of pb0.05.
+Results
+Cross-sectional analysis
+To validate our DBM approach, we determined the volume of
+young adult and aged rat brains using the cross-sectional design. As
+shown in Table 1 and Fig. 3, whole brains of 26-month-old rats
+(3058±22 mm3, n=15) were approximately 12% larger than brains
+of 3-month-old rats (2741±34 mm3, n=10, pb0.05) and showed a
+slight asymmetry in favor of the right hemisphere (pb0.05). The cerebral
+cortex was chosen as the model structure to illustrate regional analysis.
+Aged rats showed bi-hemispherically increased cortical volumes of
+around 6% (~20 mm3) compared to young adult rats, with the same
+asymmetry as found for the whole brain (pb0.05). Separation into
+iso- and allocortex (allocortex exclusively constituting the hippocampus),
+representing phylogenetically new and old parts of the cortex, respectively
+, revealed that the volume increases as well as the asymmetry
+resulted mainly from the growth of phylogenetically old allocortical
+structures. However, cortical volume normalized to the whole brain
+volume demonstrated that the percent amount of cortical tissue was
+decreased in aged animals for both iso- and allocortical regions.
+To test the reliability of our DBM approach, we compared the automatically
+determined volumes with results from manual volumetry
+determined using Cavalieri estimation. Linear regression analysis of
+both whole brain data (r=0.98; pb0.0001) and regional data of left
+and right cortices (r=0.92; pb0.0001) showed highly significant
+values (Fig. 4).
+Longitudinal analysis
+The longitudinal tool enables us to analyze more subtle and diffuse
+volume changes that are not restricted to predefined regions. Here, we
+screened brains to find areas with tissue shrinkage after righthemispheric
+cortical lesioning. The lesion damaged the motor cortex
+(M1, M2) and parts of the fore- and hindlimb primary somatosensory
+cortex (S1FL, S1HL). At a threshold of pb0.001 (FWE corrected), both
+hemispheres showed progressive regional tissue shrinkage (Table 2).
+Table 1
+Volume of selected structures of young adult and aged rat brains.
+Brain region Absolute volume [mm3] Normalized volume [%]
+Young Aged Young Aged
+Whole brain 2741±34 3058±22 100 100
+Left Right Left Right Left Right Left Right
+Whole hemisphere 1361±18 1380±17 1513±11 1545±12
+Whole cortex 334±5 342±5 353±3 361±3 12.18±0.08 12.47±0.08 11.55±0.08 11.80±0.07
+Isocortex 182±4 182±3 188±2 188±2 5.54±0.05 5.82±0.05 5.40±0.04 5.65±0.04
+Allocortex 152±2 159±2 165±1 173±2 6.63±0.06 6.65±0.06 6.15±0.05 6.14±0.05
+Fig. 3.Age effects. Brain volume of young adult (3 months) and aged (26 months) rats
+determined by cross-sectional DBM analysis in absolute values and for cortical substructures
+additionally normalized to the whole brain volume in percent amounts.
+Aged rats showed larger whole brains (A) and cortices (B) compared to young adults
+and a slight asymmetry in favor of the right hemisphere. The larger cortices of aged
+rats did not result from isocortical (C) but mainly from the growth of phylogenetically
+old allocortical substructures (D). In contrast to absolute volumes, the percent amount
+of cortical tissue was decreased in aged animals for both iso- and allocortical regions.
+Significant differences are indicated by asterisks (mean±SEM, pb0.05, unpaired
+Student's t-test).
+50 C. Gaser et al. / NeuroImage 63 (2012) 47–53
+(DEMO PDF Extractor SDK 8.0.0.2542-1073940183)
+[Link]
+image of Fig. 4
+[Link]
+image of Fig. 5
+Parts of the corpus callosum, the hippocampus, the temporal association
+cortex, the olfactory tubercle, the insular cortex and anterior parts of the
+basal ganglia were affected ipsilesionally, whereas more posterior areas
+of the basal ganglia were affected bilaterally.
+Fig. 5illustrates an example of the time-course of volume changes in
+the ipsilesional hippocampus. Following initial swelling, progressive
+tissue shrinkage was found in caudal parts of the hippocampus. The
+volume decreased most strongly between 7 and 14 days following
+lesion induction and this shrinkage was preserved up to the end of
+the investigation period on day 56. In contrast, the control animals
+exhibited a steady volume increase throughout the investigation period,
+attributed to the continuous growth of the young adult rodent brain.
+Discussion
+We present here a novel general DBM approach applicable to rat
+brain MR images acquired from standard clinical 3 T scanners. This
+tool allows automatic detection of diffuse and spatially distributed subtle
+volume changes in cross-sectional as well as longitudinal designs. In
+order to enable standardization and comparability of the results, data
+are transformed into the Paxinos Atlas reference space (Paxinos and
+Watson, 2005). This atlas also permits estimations of absolute volumes
+in ROIs that are defined for this atlas.
+Fig. 4. Validation with Cavalieri method. The correlations between volumes derived
+from automated cross-sectional DBM analysis and manual Cavalieri volume estimation
+for whole brain (A) and whole cortex (B) show highly significant values.
+Fig. 5.Time-course of stroke-induced volume changes in the ipsilesional hippocampus.
+(A) Representative coronal sections between bregma−5.4 and−6.5 showing affected
+hippocampal areas remote to the cortical lesion that were found to decrease between
+the first and last time point in the lesion group. The time-courses for the lesion and
+the control group are illustrated using boxplots, where data between 1.5 and 3 times
+the interquartile range are indicated by a red “+”. The box indicates the 25th and
+75th percentile, while the red linerelates to themedian. (B) Inlesioned animals, following
+initial swelling,wefoundprogressivetissueshrinkagewhich was preserved upto 56 days.
+(C) Control animals exhibited increasing volume during the same time period.
+Table 2
+Areas affected by tissue shrinkage after a cortical infarct in young adult animals.
+Brain region Side Coordinates T-Score Cluster (Voxel)
+Corpus callosum R 3 −1 −4 9.43 48
+Hippocampus R 4 −8 −4 9.12 79
+Caudate putamen R 2 −1 −6 8.43 60
+Caudate putamen L −6 −3 −6 7.65 56
+Caudate putamen R 5 −3 −5 7.60 65
+Temporal association cortex R 6 −8 −4 7.52 57
+Olfactory tubercle R 3 1 −8 7.50 35
+Insular cortex R 6 −4 −7 7.29 43
+Repeated measure ANOVA at a threshold of pb0.001 (FWE corrected); t-test for volume
+decrease between thefirst and last time point in the lesion group compared to the control
+group.
+51 C. Gaser et al. / NeuroImage 63 (2012) 47–53
+(TRIAL PDF Extractor SDK 8.0.0.2542-1792764649)
+To the best of our knowledge, our presented approach is the first
+that is capable of analyzing rodent data acquired on a standard clinical
+scanner in an automatic manner. Because dedicated ultra-highfield
+animal MRI systems are expensive and not easily accessible for
+many research groups, the use of a standard clinical scanner offers
+many potential applications. One major limitation of the lower field
+strength, however, is the smaller SNR of the data. Using smaller coils
+and optimized sequences, the SNR can be increased by up to a factor
+of 3, which allows acquisition of data with reasonable image quality
+(Herrmann et al., 2011). Furthermore, the lower SNR can be partially
+compensated by application of a DBM technique that does not require
+large image contrasts between tissues compared to VBM methods that
+rely on segmentation.
+The use of a reference atlas is a prerequisite to automatically analyze
+imaging data. The transformation to an atlas enables standardization
+and comparability to other studies. We have used the Paxinos Atlas,
+which is the most common atlas for rats and provides many predefined
+ROIs. Here, we automated ROI-based morphometry by normalization of
+brain MR images to the Paxinos reference space that contains the definition
+of structural borders. By inverting the normalization parameters,
+prior defined area-borders of the reference space were transferred onto
+each rat brain. This approach benefits from the resolution of normalization
+algorithms and therefore exceeds the general accuracy of manual
+approaches, particularly in areas with lower image contrast. This
+ROI-based approach has previously been validated by comparing the
+deformation fields and its Jacobian determinant with manually traced
+ventricular volumes (Gaser et al., 2001).
+In order to validate our approach we have used manual Cavalieri
+volume estimation and were able to demonstrate a good agreement
+between these manually derived values and our automatically estimated
+volumes. However, for future applications registration accuracy might be
+further increased by the use of advanced template creation approaches
+that also provide an unbiased average template brain (Kovacevic et al.,
+2005).ForourcurrenttemplatewehaveuseddifferentWistarratsto
+provide a mixed template that can be used for both Rcc-Wist and
+Han–Wist rats. The use of Wistar rats might induce bias in the creation
+of our template. However, the rats used here are both sub-strains from
+Wistar rats and the differences between these sub-strains should be
+rather small. In the future, advanced techniques might help in creating
+unbiased templates (Ashburner, 2007; Kovacevic et al., 2005)tocover
+also further strains (Nie et al., in press).
+In our cross-sectional study, we found a 12% increase in brain volume
+in aged rats when compared to younger animals, confirming results of
+previous MRI-based studies which in a manual (Delatour et al., 2006;
+Oberg et al., 2008; von Kienlin et al., 2005) or automatic manner
+(Maheswaran et al., 2009) also determined a linearly increasing volume
+of the rodent brain during lifespan. In contrast to humans, continuous
+brain growth in rodents is facilitated by simultaneous expansion of the
+neurocranium (Sandner et al., 2010). Furthermore, we confirmed results
+of histological studies that showed rat brain asymmetry (Diamond et al.,
+1975; Galaburda et al., 1986; Kolb et al., 1982; Rosen et al., 1991, 1993).
+This anatomic asymmetry is suggested to be an expression of lateralized
+function (Denenberg, 1983; Rogers, 2006; Sherman and Galaburda,
+1984) and can be modulated by practice (Diamond et al., 1987;
+Dowling et al., 1982). Collectively, the results from our cross-sectional
+analysis revealed an age-dependent pattern with macro-structural
+changes of the rat brain, which strongly suggests that ontological
+features of rodent brain growth should be considered in animal
+models of age-dependent neurological diseases in humans.
+To clarify the causal link between brain structure and behavior,
+longitudinal measurements are necessary. It has been shown that
+memorizing for an examination (Draganski et al., 2006) or learning
+a sensomotory skill is accompanied by temporal transient gray matter
+expansions in young (Draganski et al., 2004) and aged people (Boyke
+et al., 2008). These changes peak during the initial 7 days of the learning
+phase and regress during continued training (Driemeyer et al., 2008).
+Such a time-course favors rapidly adjusting neuronal systems like spine
+and synapse turnover as the underlying mechanisms for learninginduced
+gray matter increases (Trachtenberg et al., 2002). Finally,
+MRI-based morphometry revealed that both functional plasticity and a
+structural form of macroscopic brain plasticity are important in processing
+of information in dynamic networks according to novel informational
+demands and learning. Longitudinal functional measurements indicate
+that the functional system involved in recovery may display a great
+inter-individual variability (Dong et al., 2006; Koski et al., 2004).
+However, findings based on functional measurements are limited to
+specific networks activated by the task performed during the experiment.
+Structural measurements as employed here allow a more global
+view and might help to predict gains of specific rehabilitation strategies
+(Lindenberg et al., 2010; Schaechter et al., 2009; Schiemanck et al.,
+2008; Stinear et al., 2007).
+Using our longitudinal approach, we analyzed rat brains for secondary
+volume changes that were induced by a lesion affecting M1, M2 as well as
+parts of the S1FL and S1HL cortex. We found a pattern of progressive
+tissue shrinkage in remote areas that were not primarily affected by the
+infarct. Most significantly, for gray matter we found time-dependent
+changes in the ipsilateral hippocampus. Changes initially started with
+swelling followed by secondary shrinkage of the tissue. It remains
+unclear which physiological changes are responsible for the volume
+alterations in the hippocampus and to what extent this influences
+the improvement of forelimb function after a stroke incident. However,
+the hippocampal formation appears to be involved in the compensation
+of impaired functions as well as learning of new strategies to cope with
+the functional deficit (Chozick, 1983).
+The major future challenge is tounderstand the cellular mechanisms
+linking macroscopic plasticity measured with MRI in healthy and diseased
+brains with behavioral consequences. Our approach provides a
+versatile and valuable tool for research on brain morphology using
+rats – currently the best animal model for studying the sensory-motor
+system (Cenci et al., 2002) – in combination with a standard clinical
+3 T scanner.
+Acknowledgments
+This work was supported by BMBF grants 01EV0709, 01GZ0709,
+01EO1002 and 0315581B.
+We thank Noras MRI products GmbH and Siemens Health Care
+Sector for their support, and the mechanical workshop of the Friedrich
+Schiller University Jena for its help in creating various animal head
+holders.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at http://
+dx.doi.org/10.1016/j.neuroimage.2012.06.066.
+References
+Ashburner, J., 2007. A fast diffeomorphic image registration algorithm. NeuroImage 38,
+95–113.
+Ashburner, J., Friston, K.J., 1999. Nonlinear spatial normalization using basis functions.
+Hum. Brain Mapp. 7, 254–266.
+Ashburner, J., Hutton, C., Frackowiak, R., Johnsrude, I., Price, C., Friston, K., 1998. Identifying
+global anatomical differences: deformation-based morphometry. Hum. Brain Mapp. 6,
+348–357.
+Ashburner, J., Andersson, J.L., Friston, K.J., 1999. High-dimensional image registration
+using symmetric priors. NeuroImage 9, 619–628.
+Badea, A., Johnson, G.A., Jankowsky, J.L., 2010. Remote sites of structural atrophy predict
+later amyloid formation in a mouse model of Alzheimer's disease. NeuroImage 50,
+416–427.
+Bookstein,F.L.,1989.Principalwarps:th in-plate splines and the decomposition of
+deformations. IEEE Trans. Pattern Anal. Mach. Intell. 11, 567–585.
+Boyke, J., Driemeyer, J., Gaser, C., Buchel, C., May, A., 2008. Training-induced brain
+structure changes in the elderly. J. Neurosci. 28, 7031–7035.
+52 C. Gaser et al. / NeuroImage 63 (2012) 47–53
+( 8.0.0.2542.50255173 PDF Extractor SDK EVAL VERSION)
+Carroll, J.B., Lerch, J.P., Franciosi, S., Spreeuw, A., Bissada, N., Henkelman, R.M., Hayden,
+M.R.,2011. Natural history of disease in the YAC128 mouse reveals a discrete signature
+of pathology in Huntington Disease. Neurobiol. Dis. 43 (1), 257–265.
+Cenci, M.A., Whishaw, I.Q., Schallert, T., 2002. Animal models of neurological deficits:
+how relevant is the rat? Nat. Rev. Neurosci. 3, 574–579.
+Chozick, B.S., 1983. The behavioral effects of lesions of the hippocampus: a review. Int.
+J. Neurosci. 22, 63–80.
+Delatour, B., Guegan, M., Volk, A., Dhenain, M., 2006. In vivo MRI and histological evaluation
+of brain atrophy in APP/PS1 transgenic mice. Neurobiol. Aging 27, 835–847.
+Denenberg, V.H., 1983. Lateralization of function in rats. Am. J. Physiol. 245,
+R505–R509.
+Diamond, M.C., Johnson, R.E., Ingham, C.A., 1975. Morphological changes in the young,
+adult and aging rate cerebral cortex, hippocampus, and diencephalon. Behav. Biol.
+14, 163–174.
+Diamond,M.C.,Greer,E.R.,York,A.,Lewis,D.,Barton,T.,Lin,J.,1987.Ratcorticalmorphology
+following crowded-enriched living conditions. Exp. Neurol. 96, 241–247.
+Dong, Y., Dobkin, B.H., Cen, S.Y., Wu, A.D., Winstein, C.J., 2006. Motor cortex activation
+during treatment may predict therapeutic gains in paretic hand function after
+stroke. Stroke 37, 1552–1555.
+Dowling, G.A., Diamond, M.C., Murphy Jr., G.M., Johnson, R.E., 1982. A morphological
+study of male rat cerebral cortical asymmetry. Exp. Neurol. 75, 51–67.
+Draganski, B., Gaser, C., Busch, V., Schuierer, G., Bogdahn, U., May, A., 2004.
+Neuroplasticity: changes in grey matter induced by training. Nature 427, 311–312.
+Draganski, B., Gaser, C., Kempermann, G., Kuhn, H.G., Winkler, J., Buchel, C., May, A.,
+2006. Temporal and spatial dynamics of brain structure changes during extensive
+learning. J. Neurosci. 26, 6314–6317.
+Driemeyer, J., Boyke, J., Gaser, C., Buchel, C., May, A., 2008. Changes in gray matter induced
+by learning—revisited. PLoS One 3, e2669.
+Fields, R.D., 2011. Imaging learning: the search for a memory trace. Neuroscientist 17,
+185–196.
+Foldi, C.J., Eyles, D.W., McGrath, J.J., Burne, T.H., 2010. Advanced paternal age is associated
+with alterations in discrete behavioural domains and cortical neuroanatomy of
+C57BL/6J mice. Eur. J. Neurosci. 31, 556–564.
+Galaburda, A.M., Aboitiz, F., Rosen, G.D., Sherman, G.F., 1986. Histological asymmetry in the
+primary visual cortex of the rat: implications for mechanisms of cerebral asymmetry.
+Cortex 22, 151–160.
+Gaser, C., Volz, H.P., Kiebel, S., Riehemann, S., Sauer, H., 1999. Detecting structural changes
+in whole brain based on nonlinear deformations—application to schizophrenia
+research. NeuroImage 10, 107–113.
+Gaser, C., Nenadic, I., Buchsbaum, B.R., Hazlett, E.A., Buchsbaum, M.S., 2001.
+Deformation-based morphometry and its relation to conventional volumetry of
+brain lateral ventricles in MRI. NeuroImage 13, 1140–1145.
+Hasegawa, M., Kida, I., Wada, H., 2010. A volumetric analysis of the brain and hippocampus
+of rats rendered perinatal hypothyroid. Neurosci. Lett. 479, 240–244.
+Henke, D., Bottcher, P., Doherr, M.G., Oechtering, G., Flegel, T., 2008. Computer-assisted
+magnetic resonance imaging brain morphometry in American Staffordshire Terriers
+with cerebellar cortical degeneration. J. Vet. Intern. Med. 22, 969–975.
+Herrmann, K.H., Schmidt, S., Kretz, A., Haenold, R., Krumbein, I., Metzler, M., Gaser, C.,
+Witte, O.W., Reichenbach, J.R., 2011. Possibilities and limitations for high resolution
+small animal MRI on a clinical whole-body 3T scanner. MAGMA 25 (3), 233–244.
+Kolb, B., Sutherland, R.J., Nonneman, A.J., Whishaw, I.Q., 1982. Asymmetry in the cerebral
+hemispheres of the rat, mouse, rabbit, and cat: the right hemisphere is larger. Exp.
+Neurol. 78, 348–359.
+Koski, L., Mernar, T.J., Dobkin, B.H., 2004. Immediate and long-term changes in
+corticomotor output in response to rehabilitation: correlation with functional improvements
+in chronic stroke. Neurorehabil. Neural Repair 18, 230–249.
+Kovacevic, N., Henderson, J.T., Chan, E., Lifshitz, N., Bishop, J., Evans, A.C., Henkelman,
+R.M., Chen, X.J., 2005. A three-dimensional MRI atlas of the mouse brain with estimates
+of the average and variability. Cereb. Cortex 15, 639–645.
+Lau, J.C., Lerch, J.P., Sled, J.G., Henkelman, R.M., Evans, A.C., Bedell, B.J., 2008. Longitudinal
+neuroanatomical changes determined by deformation-based morphometry in a
+mouse model of Alzheimer's disease. NeuroImage 42, 19–27.
+Lerch, J.P., Carroll, J.B., Dorr, A., Spring, S., Evans, A.C., Hayden, M.R., Sled, J.G.,
+Henkelman, R.M., 2008. Cortical thickness measured from MRI in the YAC128
+mouse model of Huntington's disease. NeuroImage 41, 243–251.
+Li, Q., Cheung, C., Wei, R., Hui, E.S., Feldon, J., Meyer, U., Chung, S., Chua, S.E., Sham, P.C.,
+Wu, E.X., McAlonan, G.M., 2009. Prenatal immune challenge is an environmental
+risk factor for brain and behavior change relevant to schizophrenia: evidence
+from MRI in a mouse model. PLoS One 4, e6354.
+Lindenberg, R., Renga, V., Zhu, L.L., Betzler, F., Alsop, D., Schlaug, G., 2010. Structural integrity
+of corticospinal motor fibers predicts motor impairment in chronic stroke.
+Neurology 74, 280–287.
+Maheswaran, S., Barjat, H., Rueckert, D., Bate, S.T., Howlett, D.R., Tilling, L., Smart, S.C.,
+Pohlmann, A., Richardson, J.C., Hartkens, T., et al., 2009. Longitudinal regional
+brain volume changes quantified in normal aging and Alzheimer's APP x PS1
+mice using MRI. Brain Res. 1270, 19–32.
+Mercer, R.E., Kwolek, E.M., Bischof, J.M., van Eede, M., Henkelman, R.M., Wevrick, R.,
+2009. Regionally reduced brain volume, altered serotonin neurochemistry, and abnormal
+behavior in mice null for the circadian rhythm output gene Magel2. Am. J.
+Med. Genet. B Neuropsychiatr. Genet. 150B, 1085–1099.
+Mietchen, D., Gaser, C., 2009. Computational morphometry for detecting changes in
+brain structure due to development, aging, learning, disease and evolution. Front
+Neuroinformatics 3, 25.
+Nagel, S., Wagner, S., Koziol, J., Kluge, B., Heiland, S., 2004. Volumetric evaluation of the
+ischemic lesion size with serial MRI in a transient MCAO model of the rat: comparison
+of DWI and T1WI. Brain Res. Brain Res. Protoc. 12, 172–179.
+Nie, B., Chen, K., Zhao, S., Liu, J., Gu, X., Yao, Q., Hui, J., Zhang, Z., Teng, G., Zhao, C., Shan,
+B., in press. A rat brain MRI template with digital stereotaxic atlas offine anatomical
+delineations in paxinos space and its automated application in voxel-wise analysis.
+Hum. Brain Mapp.http://www.ncbi.nlm.nih.gov/pubmed/22287270
+Nieman, B.J., Lerch, J.P., Bock, N.A., Chen, X.J., Sled, J.G., Henkelman, R.M., 2007. Mouse
+behavioral mutants have neuroimaging abnormalities. Hum. Brain Mapp. 28,
+567–575.
+Oberg, J., Spenger, C., Wang, F.H., Andersson, A., Westman, E., Skoglund, P., Sunnemark,
+D., Norinder, U., Klason, T., Wahlund, L.O., Lindberg, M., 2008. Age related changes
+in brain metabolites observed by 1H MRS in APP/PS1 mice. Neurobiol. Aging 29,
+1423–1433.
+Paxinos, G., Watson, C., 2005. The Rat Brain in Stereotaxic Coordinates, 5th edn. Academic
+Press, San Diego.
+Raz, N., Rodrigue, K.M., 2006. Differential aging of the brain: patterns, cognitive correlates
+and modifiers. Neurosci. Biobehav. Rev. 30, 730–748.
+Rogers, L.J., 2006. Factors influencing development of lateralization. Cortex 42, 107–109.
+Rosen, G.D., Sherman, G.F., Galaburda, A.M., 1991. Ontogenesis of neocortical asymmetry:
+a [3H]thymidine study. Neuroscience 41, 779–790.
+Rosen, G.D., Sherman, G.F., Galaburda, A.M., 1993. Neuronal subtypes and anatomic
+asymmetry: changes in neuronal number and cell-packing density. Neuroscience
+56, 833–839.
+Sandner, G., Angst, M.J., Guiberteau, T., Guignard, B., Brasse, D., 2010. MRI and X-ray
+scanning images of the brain of 3-, 6- and 9-month-old rats with bilateral neonatal
+ventral hippocampus lesions. NeuroImage 53, 44–50.
+Sawiak, S.J., Wood, N.I., Williams, G.B., Morton, A.J., Carpenter, T.A., 2009a. Use of magnetic
+resonance imaging for anatomical phenotyping of the R6/2 mouse model of
+Huntington's disease. Neurobiol. Dis. 33, 12–19.
+Sawiak, S.J., Wood, N.I., Williams, G.B., Morton, A.J., Carpenter, T.A., 2009b. Voxel-based
+morphometry in the R6/2 transgenic mouse reveals differences between genotypes
+not seen with manual 2D morphometry. Neurobiol. Dis. 33, 20–27.
+Schaechter, J.D., Fricker, Z.P., Perdue, K.L., Helmer, K.G., Vangel, M.G., Greve, D.N.,
+Makris, N., 2009. Microstructural status of ipsilesional and contralesional
+corticospinal tract correlates with motor skill in chronic stroke patients. Hum.
+Brain Mapp. 30, 3461–3474.
+Schiemanck, S.K., Kwakkel, G., Post, M.W., Kappelle, L.J., Prevo, A.J., 2008. Impact of internal
+capsule lesions on outcome of motor hand function at one year post-stroke.
+J. Rehabil. Med. 40, 96–101.
+Schmidt, S., Bruehl, C., Frahm, C., Redecker, C., Witte, O.W., 2011. Age dependence of
+excitatory-inhibitory balance following stroke. Neurobiol. Aging 33 (7), 1356–1363.
+Schubert, M.I., Kalisch, R., Sotiropoulos, I., Catania, C., Sousa, N., Almeida, O.F., Auer, D.P.,
+2008. Effects of altered corticosteroid milieu on rat hippocampal neurochemistry
+and structure—an in vivo magnetic resonance spectroscopy and imaging study. J.
+Psychiatr. Res. 42, 902–912.
+Schubert, M.I., Porkess, M.V., Dashdorj, N., Fone, K.C., Auer, D.P., 2009. Effects of social
+isolation rearing on the limbic brain: a combined behavioral and magnetic resonance
+imaging volumetry study in rats. Neuroscience 159, 21–30.
+Seminowicz, D.A., Laferriere, A.L., Millecamps, M., Yu, J.S., Coderre, T.J., Bushnell, M.C.,
+2009. MRI structural brain changes associated with sensory and emotional function
+in a rat model of long-term neuropathic pain. NeuroImage 47, 1007–1014.
+Sherman, G.F., Galaburda, A.M., 1984. Neocortical asymmetry and open-field behavior
+in the rat. Exp. Neurol. 86, 473–482.
+Spring, S., Lerch, J.P., Wetzel, M.K., Evans, A.C., Henkelman, R.M., 2010. Cerebral
+asymmetries in 12-week-old C57Bl/6J mice measured by magnetic resonance imaging.
+NeuroImage 50, 409–415.
+Stinear, C.M., Barber, P.A., Smale, P.R., Coxon, J.P., Fleming, M.K., Byblow, W.D., 2007.
+Functional potential in chronic stroke patients depends on corticospinal tract integrity.
+Brain 130, 170–180.
+Trachtenberg, J.T., Chen, B.E., Knott, G.W., Feng, G., Sanes, J.R., Welker, E., Svoboda, K.,
+2002. Long-term in vivo imaging of experience-dependent synaptic plasticity in
+adult cortex. Nature 420, 788–794.
+Verma, R., Mori, S., Shen, D., Yarowsky, P., Zhang, J., Davatzikos, C., 2005. Spatiotemporal
+maturation patterns of murine brain quantified by diffusion tensor MRI and
+deformation-based morphometry. Proc. Natl. Acad. Sci. U. S. A. 102, 6978–6983.
+von Kienlin, M., Kunnecke, B., Metzger, F., Steiner, G., Richards, J.G., Ozmen, L., Jacobsen,
+H., Loetscher, H., 2005. Altered metabolic profile in the frontal cortex of PS2APP
+transgenic mice, monitored throughout their life span. Neurobiol. Dis. 18, 32–39.
+Yu, X., Nieman, B.J., Sudarov, A., Szulc, K.U., Abdollahian, D.J., Bhatia, N., Lalwani, A.K.,
+Joyner, A.L., Turnbull, D.H., 2011. Morphological and functional midbrain phenotypes
+in Fibroblast Growth Factor 17 mutant mice detected by Mn-enhanced MRI. NeuroImage
+56 (3), 1251–1258.
+Zhang, J., Peng, Q., Li, Q., Jahanshad, N., Hou, Z., Jiang, M., Masuda, N., Langbehn, D.R.,
+Miller, M.I., Mori, S., et al., 2010. Longitudinal characterization of brain atrophy of
+a Huntington's disease mouse model by automated morphological analyses of
+magnetic resonance images. NeuroImage 49, 2340–2351.
+53 C. Gaser et al. / NeuroImage 63 (2012) 47–53
+(8.0.0.2542.282139456 PDF Extractor SDK TRIAL VERSIOn)
+

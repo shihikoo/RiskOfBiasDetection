@@ -1,0 +1,631 @@
+Acta Pharmacologica Sinica (2015) 36: 1043–1052
+© 2015 CPS and SIMM All rights reserved 1671-4083/15
+www.nature.com/aps
+
+Original Article
+
+Protease Omi cleaving Hax-1 protein contributes
+to OGD/R-induced mitochondrial damage in
+neuroblastoma N2a cells and cerebral injury in
+MCAO mice
+Jia-yuan WU, Mei LI, Li-juan CAO, Mei-ling SUN, Dong CHEN, Hai-gang REN, Qin XIA, Zhou-teng TAO, Zheng-hong QIN,
+Qing-song HU*, Guang-hui WANG*
+Laboratory of Molecular Neuropathology, Jiangsu Key Laboratory of Translational Research and Therapy for Neuro-Psycho-Diseases
+and College of Pharmaceutical Sciences, Soochow University, Suzhou 215021, China
+Aim: In the penumbra after focal cerebral ischemia, an increase of protease Omi is linked to a decrease of Hs1-associated protein X-1
+(Hax-1), a protein belonging to the Bcl-2 family. In this study we investigated the mechanisms underlying the regulation of Hax-1 by
+protease Omi in cerebral ischemia/reperfusion (I/R) injury.
+Methods: Mouse neuroblastoma N2a cells were subjected to oxygen-glucose deprivation and reoxygenation (OGD/R); cell viability was
+assessed with MTT assay. Mice underwent 2-h middle cerebral artery occlusion (MCAO) and reperfusion, and the infarct volume was
+determined with TTC staining. The expression of Omi and Hax-1 was detected using immunoblot and immunofluorescence assays. The
+mitochondrial membrane potential was measured using TMRM staining.
+Results: In the brains of MCAO mice, the protein level of Omi was significantly increased, while the protein level of Hax-1 was
+decreased. Similar changes were observed in OGD/R-treated N2a cells, but the mRNA level of Hax-1 was not changed. Furthermore,
+in OGD/R-treated N2a cells, knockdown of Omi significantly increased Hax-1 protein level. Immunofluorescence assay showed that
+Omi and Hax-1 were co-localized in mitochondria of N2a cells. OGD/R caused marked mitochondrial damage and apoptosis in N2a
+cells, while inhibition of Omi protease activity with UCF-101 (10 μmol/L) or overexpression of Hax-1 could restore the mitochondrial
+membrane potential and attenuate cell apoptosis. Moreover, pretreatment of MCAO mice with UCF-101 (7.15 mg/kg, ip) could restore
+Hax-1 expression, inhibit caspase activation, and significantly reduce the infarct volume.
+Conclusion: Protease Omi impairs mitochondrial function by cleaving Hax-1, which induces apoptosis in OGD/R-treated N2a cells and
+causes I/R injury in MCAO mice.
+Keywords: brain ischemia; MCAO mice; oxygen-glucose deprivation; neuroblastoma N2a cells; Omi; Hax-1; UCF-101; mitochondria;
+apoptosis
+Acta Pharmacologica Sinica (2015) 36: 1043–1052; doi: 10.1038/aps.2015.50; published online 24 Aug 2015
+
+Introduction
+
+Ischemic stroke is one of the most common causes of longterm adult disability and the principal cause of death worldwide. It is known that global ischemia is caused by cardiac
+arrest, which leads to a reduced cerebral blood flow throughout the brain, whereas focal ischemia is caused by an embolic
+occlusion of the middle cerebral artery, resulting in a reduction of blood flow in a specific brain region[1]. Multiple events
+* To whom correspondence should be addressed.
+E-mail wanggh@suda.edu.cn (Guang-hui WANG);
+qshu@suda.edu.cn (Qing-song HU)
+Received 2015-03-09 Accepted 2015-05-04
+
+are known to be involved in neuronal death after ischemia,
+including excitotoxicity[2, 3], oxidative stress[4], inflammation[5, 6],
+necrosis and apoptosis[7]. Apoptosis plays a critical role in
+ischemic brain injury[7]. As previously reported, apoptotic
+changes of neurons in the early stage of focal cerebral ischemia
+are presented in the ischemic core, including the condensation
+of nuclei and the activation of caspases, before they undergo
+necrosis[8]. In the ischemic penumbra, the rim of the ischemic
+core, neurons undergo both caspase-dependent and -independent apoptosis, which contributes to a delayed neuronal
+death[9].
+Mitochondria are the cellular organelles that play critical
+roles in the apoptotic pathway in ischemic injury[10]. As previ-
+
+npg
+
+www.nature.com/aps
+Wu JY et al
+
+npg
+1044
+
+ously reported, cerebral ischemia/reperfusion (I/R) generates
+free radicals, mainly released by mitochondria, resulting in an
+oxidative stress in neurons[11]. Overproduction of reactive oxygen species (ROS) by mitochondria causes damage of proteins
+and lipids, which impairs mitochondrial function and leads to
+an increase of mitochondrial membrane permeability[12]. As a
+result, the permeabilized mitochondria release cytochrome c,
+activating caspases and leading to apoptotic cell death after
+I/R[13].
+The serine protease Omi/HtrA2 is a mammalian homolog of the bacterial heat-inducible protease HtrA/DegP and
+DegS [14]. Under physiological conditions, Omi is mainly
+localized in mitochondria and plays an important role in the
+maintenance of mitochondrial homeostasis[15]. Mutations that
+cause loss of Omi protease activity are usually associated with
+neurodegeneration such as Parkinson’s disease[16]. Omi is a
+protease that is able to cleave its substrates involved in both
+normal function and disease[17]. Upon apoptotic stimuli, Omi
+is released from the mitochondria into the cytosol and cleaves
+its substrates, such as inhibitor of apoptosis proteins (IAPs),
+thereby inducing apoptosis[18]. In an ischemic brain, Omi is
+involved in neuronal injury after I/R[19]. Once Omi is released
+from damaged mitochondria into the cytosol, the cytosolic
+substrates of Omi, including anti-apoptotic protein XIAP, are
+cleaved, thus causing apoptosis following focal cerebral I/R[20].
+Although the functions of Omi in apoptosis are extensively
+documented, the functions of Omi in mitochondria under
+physiological and pathological conditions are still unclear.
+Because Omi is a mitochondrial protein, the identification
+of its role in mitochondrial damage after I/R will help to
+provide an understanding of its function under pathological
+conditions. It was reported that an inhibition of Omi protease activity by UCF-101 shows protective effects on neurons
+after I/R[21]. Interestingly, in the penumbra after focal cerebral
+ischemia, an increase of Omi corresponds to a decrease of the
+mitochondrial protein Hax-1 (Hs1-associated protein X-1),
+a protein belonging to the Bcl-2 family[22], suggesting a link
+between these two proteins in ischemic injury. However, the
+underlying mechanism of how Omi regulates Hax-1 after I/R
+is still largely unknown.
+In this study, we show that Omi processes specificity for
+the mitochondrial anti-apoptotic protein Hax-1, thus causing
+mitochondrial damage and dysfunction and eventually stimulating cerebral ischemic neuronal cell death after I/R.
+
+Materials and methods
+
+Animal experiments
+Male ICR mice, 25–30 g, were purchased from SLACCAL Lab
+Animal Ltd (Shanghai, China). For the middle cerebral artery
+occlusion (MCAO) surgery[23], mice were anesthetized with an
+intraperitoneal injection of 1% pentobarbital sodium. Then,
+the cerebral focal ischemia was produced by intra-luminal
+occlusion of the right MCA using a silicone coated nylon (6-0)
+monofilament (Doccol Corporation, Redlands, CA, USA). Two
+hours later, the occluding filament was withdrawn to allow
+blood reperfusion. Cerebral blood flow was monitored (LDF,
+Acta Pharmacologica Sinica
+
+ML191 Laser Doppler Blood Flow Meter, Australia) and only
+those mice with a 90% of blood flow reduction during MCAO
+and a 85%–95% recovery of blood flow during reperfusion
+were used for further experiments. A homoeothermic heating blanket was used to maintain the core body temperature
+at 37 °C during the I/R operation. Mice in the sham group
+underwent identical operations except for the insertion of a
+filament. In the UCF-101 (Calbiochem, Darmstadt, Germany)
+treatment group, mice were given an intraperitoneal injection
+of vehicle or UCF-101 (7.15 mg/kg). Two hours after injection,
+the mice were subjected to MACO. All animals were used in
+accordance with the institutional guidelines for animal care
+and use outlined in a protocol that was approved by the Ethical Committee of Soochow University.
+Cell culture and oxygen glucose deprivation/reoxygenation (OGD/R)
+injury
+Mouse neuroblastoma (N2a) cells were maintained in Dulbecco’s modified Eagle’s medium (DMEM) containing 10%
+fetal bovine serum with 100 μg/mL penicillin and 100 μg/mL
+streptomycin. To model OGD/R injury in N2a cells, the cells
+were incubated in glucose-free DMEM and saturated with
+5% CO2/95% N2 for 4 h. After OGD exposure, the cells were
+subjected to reoxygenation with DMEM containing glucose in
+normoxia for 24 h.  For the MG132, bafilomycin A1 and UCF101 treatments, cells were treated with MG132 (10 μmol/L),
+bafilomycin A1 (1 μmol/L) or UCF-101 (10 μmol/L) for 12 h
+while being reoxygenated. Control cells were cultured in
+DMEM containing glucose in normoxia. Cells with or without
+treatment were subjected to immunofluorescent staining or
+immunoblot analyses.
+RNA extraction and real-time quantitative RT-PCR
+Total RNA was isolated from normoxia or OGD/R treated
+N2a cells with TRIzol reagent (Invitrogen, Carlsbad, CA,
+USA). cDNA was obtained using a reverse transcription
+reagent kit (Takara, Otsu, Shiga, Japan). Quantitative PCR
+(qPCR) was performed with Power SYBR Green PCR Master
+Mix (Applied Biosystems, Warrington, Cheshire, UK) and the
+products were detected using an Applied Biosystems 7500
+Real Time PCR System. The sequences of qPCR primers used
+for mRNA quantification were as follows: 5’-AGCCCTGGCTATATCCGACA-3’ and 5’-GAGGTCCAGGAAAGCCGAAA-3’ for mouse Hax-1 and 5’-TGTGTCCGTCGTGGATCTGA-3’ and 5’-TTGCTGTTGAAGTCGCAGGAG-3’ for
+mouse GAPDH. Relative genomic expression was calculated
+by the 2-ΔΔCt method.
+Cell viability assay
+Cell viability was assessed with a MTT assay. N2a cells
+overexpressing Hax-1 or treated with UCF-101 were incubated with 0.5 mg/mL 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) at 37 °C for 2 h. Then,
+150 μL of dimethylsulfoxide was added to stop the reaction.
+The absorbance was measured at 570 nm to determine cell
+viability.
+
+www.chinaphar.com
+Wu JY et al
+
+npg
+1045
+
+Infarct volume measurement
+Brain infarct volume was determined 24 h after reperfusion.
+Mice were euthanized, and each brain was cut into five coronal slices (2-mm thick) with a brain-cutting matrix. The slices
+were stained with 1% TTC at 37 °C for 30 min in the dark.
+Normal tissues were stained (red) and infarct tissues were not
+stained (white). The slices were mounted to dry paper and
+photographed with a scanner. The percentage of the infarct
+volume was quantified using Image-Proplus software, which
+calculated the ratio of infarct volumes to the total contralateral
+hemispheric volume. The ratios were multiplied by 100.
+Plasmids
+The Hax-1 related constructs were generated as previously
+described[24]. Briefly, full length Hax-1 cDNA was amplified
+from a human fetal brain library (Invitrogen) with the primers
+5’-GCGAATTCACCATGAGCCTCTTTGATCTCTTC-3’ and
+5’-ATGTCGACATCCGGGACCGGAACCAACGTCCC-3’,
+and inserted into a pEGFP-N1 (Clontech, Mountain View, CA,
+USA) vector at the Hind III and Sal I sites.
+RNA interference
+The oligonucleotide target sequences to Omi (si-Omi) or
+the negative control siRNA (si-NC) have been previously
+described[17, 25]. The oligonucleotides were transfected with
+RNAiMAX (Invitrogen) following the manufacturer’s instructions.
+Immunoblot analysis and antibodies
+Cells or tissue homogenates of ischemic or control brain hemispheres were lysed in 1× SDS lysis buffer (25 mmol/L TrisHCl, pH 7.6, 150 mmol/L NaCl, 1% NP-40, and 1% sodium
+deoxycholate) in the presence of a protease inhibitor cocktail
+(Roche, Mannheim, Germany). Approximately 20 μg of cell
+lysate was separated by SDS-PAGE and transferred onto a
+PVDF membrane (Millipore, Billerica, MA, USA). Immunoblot analyses were performed with the following primary
+antibodies: anti-Hax-1 (Thermo Fisher Scientific, Waltham,
+MA, USA), anti-Omi (R&D Systems, Minneapolis, MN, USA
+or prepared by our laboratory), anti-Tom20 (Santa Cruz Biotechnology, Santa Cruz, CA, USA), anti-GFP (Santa Cruz Biotechnology), anti-cleaved caspase-3 (Asp175, Cell Signaling
+Technology, Danvers, MA, USA). The secondary antibodies,
+sheep anti-mouse or anti-rabbit IgG-HRP, were from Thermo
+Fisher Scientific. The proteins were visualized using an ECL
+detection kit (Thermo Fisher Scientific).
+Immunofluorescence
+Cells were fixed with 4% paraformaldehyde in PBS for 5 min
+at room temperature, washed with PBS three times and permeabilized in 0.25% Triton X-100 in PBS for 3 min. Thirty
+minutes after pre-blocking with 0.5% fetal bovine serum, cells
+were incubated with anti-Omi, anti-GFP or anti-Tom20 antibody for 6 h, followed by an incubation with rhodamine (red)or FITC (green)-conjugated secondary antibody (Invitrogen,
+Carlsbad, CA, USA) for 2 h. The cells were then stained with
+
+DAPI (Sigma, St Louis, MO, USA) for 2 min. Finally, the cells
+were observed using an inverted IX71 microscope system
+(Olympus, Tokyo, Japan).
+Hoechst staining assays
+N2a cells overexpressing Hax-1 or treated with UCF-101 were
+incubated with Hoechst 33342 for 5 min and then washed with
+PBS. The cells were observed using an inverted IX71 microscope system (Olympus, Tokyo, Japan).
+Mitochondrial membrane potential measurement
+To measure the mitochondrial membrane potential (∆Ψm),
+cells were incubated with 100 nmol/L tetramethylrhodamine
+methyl ester (TMRM) in PBS for 15 min at 37 °C. TMRM is
+readily sequestered by normal mitochondria, but its fluorescence is rapidly lost when ∆Ψm is lost. After incubation, the
+cells were washed once with PBS and then resuspended in
+PBS. Finally, the cells were observed with an inverted IX71
+microscope system (Olympus, Tokyo, Japan).
+Statistical analysis
+Densitometric analyses of immunoblots from three independent experiments were performed using Photoshop 7.0
+(Adobe, San Jose, CA, USA). The data were analyzed using
+Origin 6.0 (Originlab, Northampton, MA, USA). Quantitative
+data are presented as the mean±SEM. Statistical significance
+was assessed via one-way ANOVA and the criterion of significance was set at P<0.05.
+
+Results
+
+Cleavage of Hax-1 by Omi after ischemia/reperfusion
+Previous studies have shown that Omi levels increased and
+Hax-1 levels decreased in the penumbra after I/R [22]. To
+explore how Omi regulates Hax-1 after I/R, we first examined the protein levels of Omi and Hax-1 in the penumbra of
+MCAO mouse brains 24 h after I/R. Consistent with the previous findings[22], protein levels of Omi were increased (Figure
+1A), while Hax-1 levels were decreased (Figure 1B). In addition, although Hax-1 protein levels were decreased in cells
+exposed to OGD/R (Figure 1C), transcription of Hax-1 was
+not altered (Figure 1D), suggesting a post-translational process
+of Hax-1. As we previously found that Omi cleaves Hax-1[24]
+and that Hax-1 is degraded by the ubiquitin-proteasome pathway after apoptotic stimulation[26], we performed experiments
+using a cellular OGD/R model to address how Omi regulates
+Hax-1 after I/R. In N2a cells that were exposed to OGD/R, an
+increase of Omi and a decrease of Hax-1 were observed, however, Hax-1 protein levels were dramatically increased after
+Omi was knocked down (Figure 1E), suggesting that Omi possibly processes Hax-1. We further examined the Hax-1 levels
+in OGD/R cells with or without the administration of the proteasomal inhibitor MG132 or the lysosomal inhibitor bafilomycin A1 (BafA1) to differentiate Hax-1 degradation pathways.
+MG132 or BafA1 did not block the degradation of Hax-1 (Figure 1F), further supporting that Hax-1 is processed by Omi but
+not degraded by the proteasomal or lysosomal pathway.
+Acta Pharmacologica Sinica
+
+www.nature.com/aps
+Wu JY et al
+
+npg
+1046
+
+Involvement of Hax-1 in the protective effects against OGD/
+R-induced neuronal injury
+As Hax-1 is an anti-apoptotic protein belonging to Bcl-2
+family, we questioned whether a decrease of Hax-1 level is
+associated with cell death induced by OGD/R. Therefore,
+we overexpressed EGFP alone or EGFP-tagged Hax-1 and
+evaluated cell viability after OGD/R. Significant cell death
+
+was observed in EGFP alone transfected cells after OGD/R;
+however, overexpression of EGFP-Hax-1 significantly blocked
+OGD/R-induced cell death (Figure 2A).
+We have shown that there is a correlation between Omi
+and Hax-1 levels (Figure 1). We questioned whether
+OGD/R-induced cell death mediated by the regulation of
+Hax-1 is associated with the increase of Omi and Omi protease
+
+Figure 1. Omi processes Hax-1 after I/R in vivo and OGD/R in vitro. (A and B) Immunoblot analyses were performed to show Omi (A) and
+Hax-1 (B) protein levels in the penumbra after I/R. ICR mice (n=3) were subjected to a middle cerebral artery occlusion (MCAO) for 2 h,
+followed by 24 h of reperfusion. The bottom panels show the band intensity of Omi or Hax-1 relative to that of tubulin (A) or GAPDH (B),
+respectively. (C) Immunoblot analyses were performed to show Hax-1 protein levels in N2a cells that were exposed to OGD for 4 h, followed by
+12 h of reoxygenation. The bottom panel shows the band intensity of Hax-1 relative to that of GAPDH. (D) Real-time quantitative PCR was
+performed to examine Hax-1 mRNA levels in N2a cells that were subjected to OGD for 4 h, followed by 12 h of reoxygenation. The Hax-1
+mRNA levels were quantified and normalized to GAPDH. (E) Immunoblot analyses were performed to show Hax-1 levels in OGD/R N2a
+cells in which Omi was knocked down. N2a cells were subjected to OGD for 4 h, followed by 12 h of reoxygenation. The bottom panel
+shows the band intensity of Hax-1 relative to that of GAPDH. (F) Immunoblot analyses were performed to show Hax-1 levels in OGD/R N2a cells that were
+treated with MG132 (10 μmol/L) and bafilomycin A1 (1 μmol/L). The bottom panel shows the band intensity of Hax-1 relative to that of GAPDH. Values are
+the mean±SEM from three independent experiments. aP>0.05, bP<0.05, one-way ANOVA.
+Acta Pharmacologica Sinica
+
+www.chinaphar.com
+Wu JY et al
+
+npg
+1047
+
+activity. We treated the OGD/R cells with UCF-101, an Omi
+protease inhibitor, and examined cell viability after OGD/R.
+In cells exposed to OGD/R, there was a decrease of cell viability and Hax-1 protein levels along with an increase of Omi
+levels; however, inhibition of Omi protease activity by UCF101 greatly restored cell viability and Hax-1 levels after OGD/R
+(Figure 2B).
+Maintenance of mitochondrial integrity by Hax-1 in OGD/R cells
+Mitochondria are important cellular organelles that are
+involved in neuronal cell death after I/R by releasing cytochrome c [13]. Because Hax-1 is decreased in OGD/R cells
+as well as in the brains after I/R (Figure 1), we questioned
+whether the increase of Omi and the decrease of Hax-1 are
+associated with mitochondrial damage in OGD/R cells. Omi
+and Hax-1 both localize to mitochondria, as shown by colocalization with mitochondrial protein Tom20 (Figure 3A
+and 3B). In normoxic cells, inhibition of Omi protease activ-
+
+ity by UCF-101 did not affect the mitochondrial membrane
+potential (Figure 3C). In OGD/R cells, there was a significant
+decrease of mitochondrial membrane potential, indicated
+by TMRM staining (Figure 3C). However, administration of
+UCF-101 significantly restored the mitochondrial membrane
+potential (Figure 3C). Moreover, overexpression of Hax-1
+also restored the mitochondrial membrane potential in OGD/R
+cells, showing a similar effect as UCF-101 treatment (Figure
+3D). These data suggest that an inhibition of Omi protease
+activity or overexpression of Hax-1 is able to maintain mitochondrial integrity against OGD/R injury. Next, we examined
+whether an inhibition of Omi protease activity or overexpression of Hax-1 protects OGD/R cells against apoptosis. After
+OGD/R, a majority of the cells presented condensed nuclei
+(Figure 4A and 4B), whereas, only a small portion of OGD/R
+cells presented apoptotic features after administration of
+UCF-101 (Figure 4A). Additionally, overexpression of Hax-1
+significantly alleviated apoptotic changes induced by OGD/R
+
+Figure 2. Inhibition of Omi protease activity or overexpression of Hax-1 protects N2a cells against OGD/R-induced cell death. (A) MTT assays were
+performed to show N2a cell viability after OGD/R. N2a cells were transfected with EGFP or EGFP-Hax-1 for 48 h and then subjected to OGD/R, followed
+by 12 h of reoxygenation. Immunoblot analyses were performed to show the levels of Hax-1 and Omi. (B) MTT assays were performed to show N2a
+cell viability after OGD/R and UCF-101 treatment. The N2a cells were subjected to OGD for 4 h and then treated with UCF-101 (10 μmol/L), followed by
+reoxygenation for 12 h. Immunoblot analysis was performed to show the levels of Hax-1 and Omi. Values are the mean±SEM from three independent
+experiments. bP<0.05, one-way ANOVA.
+Acta Pharmacologica Sinica
+
+www.nature.com/aps
+Wu JY et al
+
+npg
+1048
+
+Figure 3. Inhibition of Omi protease activity or overexpression of Hax-1 restores mitochondrial membrane potential damaged by OGD/R.
+Immunofluorescent assays indicate that both Omi (A) and Hax-1 (B) are localized to the mitochondria. Tom20 serves as a mitochondrial protein marker.
+Scale bar, 10 μm. Green, Omi, EGFP or EGFP-Hax-1; red, Tom20; blue, DAPI. (C) Mitochondrial membrane potential assays were performed to show
+the effects of an inhibition of Omi protease activity. N2a cells were subjected to OGD for 4 h and then treated with UCF-101 (10 μmol/L), followed
+by reoxygenation for 12 h. The cells were then stained with TMRM to show mitochondrial membrane potential. Scale bar, 10 μm. (D) Mitochondrial
+membrane potential assays were performed to show the effects of Hax-1 overexpression. N2a cells were transfected with EGFP or EGFP-Hax-1 for
+48 h and then subjected to OGD for 4 h, followed by reoxygenation for another 12 h. The cells were then stained with TMRM to show mitochondrial
+membrane potential. Scale bar, 10 μm.
+
+Acta Pharmacologica Sinica
+
+www.chinaphar.com
+Wu JY et al
+
+npg
+1049
+
+(Figure 4B). Consistent with the morphological data (Figure
+4A and 4B), administration of UCF-101 (Figure 4C, left panel)
+or overexpression of Hax-1 (Figure 4C, right panel) in OGD/R
+
+cells decreased the levels of cleaved caspase-3. These data
+further suggest that Hax-1 protects OGD/R cells against apoptosis.
+
+Figure 4. Inhibition of Omi protease activity or overexpression of Hax-1 protects OGD/R cells against apoptosis. (A) Hoechst staining was performed to
+show the effect of inhibition of Omi protease activity on apoptosis after OGD/R. N2a cells were subjected to OGD/R as in Figure 3C. Scale bar, 10 μm.
+(B) EGFP/Hoechst double staining was performed to show the effects of Hax-1 overexpression on apoptosis after OGD/R. N2a cells were subjected to
+OGD/R as in Figure 3D. Scale bar, 10 μm. (C) Immunoblot analyses were performed to show that inhibition of Omi protease activity or overexpression
+of Hax-1 decreases the level of cleaved caspase-3 in OGD/R cells.
+Acta Pharmacologica Sinica
+
+www.nature.com/aps
+Wu JY et al
+
+npg
+1050
+
+Protective effects in MCAO mice by UCF-101
+We have shown that the anti-apoptotic effects on OGD/R cells
+were caused by an inhibition of Omi protease activity or overexpression of Hax-1 (Figure 3 and 4). Next, we questioned
+whether inhibition of Omi could protect neurons against apoptosis and neurons in MCAO mice to survive. To answer it, we
+examined Hax-1 expression in the penumbra after I/R. As
+shown in Figure 5A, Hax-1 levels in the penumbra were dramatically decreased after I/R, but were significantly restored
+by treatment with UCF-101. We then examined the cleavage
+of caspase-3. The cleavage of caspase-3 was increased in the
+penumbra after I/R but was blocked after an administration
+of UCF-101 (Figure 5B). Thus, these data strongly suggest
+that UCF-101 inhibits Omi activity to decrease the processing of Hax-1, leading to an inhibition of caspase-3 activation
+in MCAO animals. Finally, we examined whether inhibition
+of Omi had an effect on neuronal survival. Using TTC staining, we evaluated the infarct volume of MCAO mice treated
+with vehicle or UCF-101 24 h after I/R. In comparison to the
+sham group, MCAO mice with vehicle treatment presented an
+average infarct volume of approximately 27% (27.22%±0.83%);
+however, the average infarct volume in MCAO mice treated
+with UCF-101 decreased to approximately 17% (17.31%±1.44%)
+
+(Figure 5C), suggesting a protective effect of UCF-101.
+
+Discussion
+
+Although multiple factors are involved in neuronal cell death
+after I/R, mitochondria-mediated apoptosis is one of the
+intrinsic pathways critical for ischemic injury[27]. Mitochondria
+are cellular organelles essential for many functions including oxidative phosphorylation, calcium homeostasis, ROS
+management and apoptosis[28]. Depletion of energy stores by
+I/R leads to a loss of membrane potential and a depolarization of neurons, which activate Ca2+ channels, resulting in an
+elevation of free cytosolic Ca2+[29]. The depletion of energy
+and elevation of Ca2+ promote the production of ROS, further
+impairing mitochondria after I/R[30]. In addition, increased
+Ca2+ stimulates calpain to cleave Bid to form tBid that binds to
+pro-apoptotic proteins such as Bax, Bad, and Bak after I/R[31].
+The formation of tBid heterodimers with other pro-apoptotic
+protein opens the mitochondrial permeability transition pore
+(mPTP) and releases cytochrome c, thereby activating caspases, leading to apoptosis in the ischemic brain[32, 33].
+The Bcl-2 protein family includes both anti-apoptotic (such
+as Bcl-2 and Bcl-xL) and pro-apoptotic proteins (such as Bax,
+Bad and Bak). Bcl-2 and Bcl-xL can form heterodimers with
+
+Figure 5. Protective effects in MCAO mice by UCF-101. (A) Immunoblot analyses were performed to show Hax-1 protein levels in the penumbra after I/R.
+ICR mice (n=3) were given an intraperitoneal injection of vehicle or UCF-101 (7.15 mg/kg). Two hours after injection the mice were subjected to I/R.
+The bottom panel shows the band intensity of Hax-1 relative to that of GAPDH. Values are the mean±SEM from three independent experiments.
+b
+P<0.05, one-way ANOVA. (B) Immunoblot analyses were performed to show the level of cleaved caspase-3 in the penumbra after I/R. ICR mice (n=3)
+were given an intraperitoneal injection of vehicle or UCF-101 (7.15 mg/kg). Two hours after injection the mice were subjected to I/R. (C) The infarct
+volume of MCAO/R mice with or without UCF-101 treatment. ICR mice (n=3) were given an intraperitoneal injection of vehicle or UCF-101 (7.15 mg/kg).
+Two hours after injection the mice were subjected to MCAO/R. Twenty-four hours after MCAO/R the mice were euthanized and the mouse slices were
+stained with TTC. The bottom panel shows the infarct volumes. bP<0.05, one-way ANOVA.
+Acta Pharmacologica Sinica
+
+www.chinaphar.com
+Wu JY et al
+
+npg
+1051
+
+pro-apoptotic protein to protect mitochondria against apoptotic stimulation by ischemia[7, 34]. Overexpression of Bcl-2[35]
+or systemic delivery of Bcl-xL[36] blocks apoptosis inducing
+factor (AIF) translocation, prevents caspase activation and
+protects neurons after ischemia. Hax-1 is a mitochondrial
+protein belonging to Bcl-2 family. It was reported that Hax-1
+interacts with caspase-9 to repress caspase-9 activation in
+myocytes[37], suggesting an anti-apoptotic effect. Importantly,
+Hax-1 is critical for the regulation of mitochondrial membrane
+potential during apoptosis[38, 39]. Peripheral blood neutrophils
+derived from Hax-1-deficient patients displayed an abnormal
+mitochondrial membrane potential and stem cells from these
+patients showed a rapid loss of mitochondrial membrane
+potential during apoptosis[40]. Most interestingly, restoration
+of Hax-1 levels in myeloid progenitor cells from Hax-1-deficient patients by retroviral gene manipulation delays the loss
+of mitochondrial membrane potential, making them have similar properties as the controls[40]. These studies suggest a role
+of Hax-1 in the regulation of mitochondrial membrane potential. In our study, we found that Hax-1 is processed by Omi
+after OGD/R or I/R. N2a cells after OGD/R showed apoptotic changes with a loss of mitochondrial membrane potential. Inhibition of Omi activity or an overexpression of Hax-1
+restored mitochondrial membrane potential and protected
+cells from apoptosis. Moreover, inhibition of Omi’s protease
+activity in MCAO mice increased Hax-1 levels and decreases
+the infarct volume. Thus, our data suggest that Hax-1 levels
+are critical for maintaining mitochondrial membrane potential
+to protect neurons against apoptosis after I/R.
+The levels of Omi and Hax-1 are inversely altered after
+I/R[22] and both are localized to mitochondria. In our study,
+we demonstrate that Omi processes Hax-1 after OGD/R or
+I/R to induce apoptosis. Blocking Omi enzyme activity, similar to Hax-1 overexpression, significantly inhibits caspase-3
+and protects neurons against OGD/R or I/R-induced injury.
+Thus, we propose that after I/R, Omi first affects proteins on
+mitochondria before it is released to cytosol to cleave cytosolic
+substrates.
+In summary, our findings reveal a role of Omi in ischemia/
+reperfusion-induced apoptosis by its functioning on mitochondria to process the mitochondrial anti-apoptotic protein Hax-1.
+
+Acknowledgements
+
+This work was supported in part by the National Natural Science Foundation of China (No 31330030 and 31300887), the
+National High-tech Research and Development Program of
+China 973-projects (2012CB947602), Natural Science Foundation of Jiangsu Province (BK20130299), and a project funded
+by the Priority Academic Program Development of Jiangsu
+Higher Education Institutions.
+
+Author contribution
+
+Qing-song HU and Guang-hui WANG designed the experiments; Jia-yuan WU and Qing-song HU performed main parts
+of the experiments; Mei LI, Li-juan CAO, Dong CHEN, Haigang REN, Qin XIA, Zhou-teng TAO and Mei-ling SUN per-
+
+formed parts of the experiments; Qing-song HU, Zheng-hong
+QIN, and Guang-hui WANG analyzed the data; Qing-song
+HU and Guang-hui WANG wrote the manuscript.
+
+References
+
+1	 Krafft PR, Bailey EL, Lekic T, Rolland WB, Altay O, Tang J, et al.
+Etiology of stroke and choice of models. Int J Stroke 2012; 7: 398–
+406.
+2	 Connolly NM, Dussmann H, Anilkumar U, Huber HJ, Prehn JH. Singlecell imaging of bioenergetic responses to neuronal excitotoxicity and
+oxygen and glucose deprivation. J Neurosci 2014; 34: 10192–205.
+3	 Liu XQ, Sheng R, Qin ZH. The neuroprotective mechanism of brain
+ischemic preconditioning. Acta Pharmacol Sin 2009; 30: 1071–80.
+4	 Li L, Zhu K, Liu Y, Wu X, Wu J, Zhao Y, et al. Targeting thioredoxin-1
+with siRNA exacerbates oxidative stress injur y after cerebral
+ischemia/reperfusion in rats. Neuroscience 2015; 284: 815–23.
+5	 Benakis C, Garcia-Bonilla L, Iadecola C, Anrather J. The role of
+microglia and myeloid immune cells in acute cerebral ischemia. Front
+Cell Neurosci 2014; 8: 461.
+6	 Clausen B, Degn M, Martin N, Couch Y, Karimi L, Ormhoj M, et al.
+Systemically administered anti-TNF therapy ameliorates functional
+outcomes after focal cerebral ischemia. J Neuroinflammation 2014;
+11: 203.
+7	 Anilkumar U, Prehn JH. Anti-apoptotic BCL-2 family proteins in acute
+neural injury. Front Cell Neurosci 2014; 8: 281.
+8	 Benchoua A, Guegan C, Couriaud C, Hosseini H, Sampaio N, Morin D,
+et al. Specific caspase pathways are activated in the two stages of
+cerebral infarction. J Neurosci 2001; 21: 7127–34.
+9	 Ferrer I. Apoptosis: future targets for neuroprotective strategies.
+Cerebrovasc Dis 2006; 21 Suppl 2: 9–20.
+10	 Zuo W, Zhang S, Xia CY, Guo XF, He WB, Chen NH. Mitochondria auto­
+phagy is induced after hypoxic/ischemic stress in a Drp1 dependent
+manner: the role of inhibition of Drp1 in ischemic brain damage.
+Neuropharmacology 2014; 86: 103–15.
+11	 Nita DA, Nita V, Spulber S, Moldovan M, Popa DP, Zagrean AM, et al.
+Oxidative damage following cerebral ischemia depends on reperfusion
+— a biochemical study in rat. J Cell Mol Med 2001; 5: 163–70.
+12	 Yuan J, Yankner BA. Apoptosis in the nervous system. Nature 2000;
+407: 802–9.
+13	 Cao G, Minami M, Pei W, Yan C, Chen D, O’Horo C, et al. Intracellular
+Bax translocation after transient cerebral ischemia: implications for
+a role of the mitochondrial apoptotic signaling pathway in ischemic
+neuronal death. J Cereb Blood Flow Metab 2001; 21: 321–33.
+14	 Vande Walle L, Lamkanfi M, Vandenabeele P. The mitochondrial
+serine protease HtrA2/Omi: an overview. Cell Death Differ 2008; 15:
+453–60.
+15	 Radke S, Chander H, Schafer P, Meiss G, Kruger R, Schulz JB, et
+al. Mitochondrial protein quality control by the proteasome involves
+ubiquitination and the protease Omi. J Biol Chem 2008; 283:
+12681–5.
+16	 Strauss KM, Martins LM, Plun-Favreau H, Marx FP, Kautzmann S, Berg
+D, et al. Loss of function mutations in the gene encoding Omi/HtrA2
+in Parkinson’s disease. Hum Mol Genet 2005; 14: 2099–111.
+17	 Hu Q, Li B, Xu R, Chen D, Mu C, Fei E, et al. The protease Omi cleaves
+the mitogen-activated protein kinase kinase MEK1 to inhibit microglial
+activation. Sci Signal 2012; 5: ra61.
+18	 Suzuki Y, Imai Y, Nakayama H, Takahashi K, Takio K, Takahashi R.
+A serine protease, HtrA2, is released from the mitochondria and
+interacts with XIAP, inducing cell death. Mol Cell 2001; 8: 613–21.
+19	 Yoshioka H, Katsu M, Sakata H, Okami N, Wakai T, Kinouchi H, et al.
+Acta Pharmacologica Sinica
+
+www.nature.com/aps
+Wu JY et al
+
+npg
+1052
+
+The role of PARL and HtrA2 in striatal neuronal injury after transient
+global cerebral ischemia. J Cereb Blood Flow Metab 2013; 33:
+1658–65.
+20	 Althaus J, Siegelin MD, Dehghani F, Cilenti L, Zervos AS, Rami A.
+The serine protease Omi/HtrA2 is involved in XIAP cleavage and in
+neuronal cell death following focal cerebral ischemia/reperfusion.
+Neurochem Int 2007; 50: 172–80.
+21	 Su D, Su Z, Wang J, Yang S, Ma J. UCF-101, a novel Omi/HtrA2
+inhibitor, protects against cerebral ischemia/reperfusion injury in rats.
+Anat Rec (Hoboken) 2009; 292: 854–61.
+22	 Rami A, Langhagen A. Specific alterations of the HtrA2/HAX-1 ratio in
+the penumbra upon focal cerebral ischemia in mice. Neurochem Res
+2012; 37: 548–56.
+23	 Sheng R, Zhang LS, Han R, Gao B, Liu XQ, Qin ZH. Combined
+prostaglandin E1 and lithium exert potent neuroprotection in a rat
+model of cerebral ischemia. Acta Pharmacol Sin 2011; 32: 303–10.
+24	 Li B, Hu Q, Wang H, Man N, Ren H, Wen L, et al. Omi/HtrA2 is a
+positive regulator of autophagy that facilitates the degradation of
+mutant proteins involved in neurodegenerative diseases. Cell Death
+Differ 2010; 17: 1773–84.
+25	 Ma Q, Hu QS, Xu RJ, Zhen XC, Wang GH. Protease omi facilitates
+neurite outgrowth in mouse neuroblastoma N2a cells by cleaving transcription factor E2F1. Acta Pharmacol Sin 2015; 36: 966–75.
+26	 Li B, Hu Q, Xu R, Ren H, Fei E, Chen D, et al. Hax-1 is rapidly degraded
+by the proteasome dependent on its PEST sequence. BMC Cell Biol
+2012; 13: 20.
+27	 Nakka VP, Gusain A, Mehta SL, Raghubir R. Molecular mechanisms
+of apoptosis in cerebral ischemia: multiple neuroprotective
+opportunities. Mol Neurobiol 2008; 37: 7–38.
+28	 Tait SW, Green DR. Mitochondria and cell signalling. J Cell Sci 2012;
+125: 807–15.
+29	 Lo EH, Dalkara T, Moskowitz MA. Mechanisms, challenges and
+opportunities in stroke. Nat Rev Neurosci 2003; 4: 399–415.
+30	 Mergenthaler P, Dirnagl U, Meisel A. Pathophysiology of stroke:
+lessons from animal models. Metab Brain Dis 2004; 19: 151–67.
+31	 Plesnila N, Zinkel S, Amin-Hanjani S, Qiu J, Korsmeyer SJ, Moskowitz
+MA. Function of BID — a molecule of the bcl-2 family — in ischemic
+
+Acta Pharmacologica Sinica
+
+cell death in the brain. Eur Surg Res 2002; 34: 37–41.
+32	 Fan YY, Shen Z, He P, Jiang L, Hou WW, Shen Y, et al. A novel
+neuroprotective strategy for ischemic stroke: transient mild acidosis
+treatment by CO2 inhalation at reperfusion. J Cereb Blood Flow Metab
+2014; 34: 275–83.
+33	 Saito A, Hayashi T, Okuno S, Ferrand-Drake M, Chan PH. Over­
+expression of copper/zinc superoxide dismutase in transgenic mice
+protects against neuronal cell death after transient focal ischemia
+by blocking activation of the Bad cell death signaling pathway. J
+Neurosci 2003; 23: 1710–8.
+34	 Gibson ME, Han BH, Choi J, Knudson CM, Korsmeyer SJ, Parsadanian
+M, et al. BAX contributes to apoptotic-like death following neonatal
+hypoxia-ischemia: evidence for distinct apoptosis pathways. Mol Med
+2001; 7: 644–55.
+35	 Zhao H, Yenari MA, Cheng D, Barreto-Chang OL, Sapolsky RM,
+Steinberg GK. Bcl-2 transfection via herpes simplex virus blocks
+apoptosis-inducing factor translocation after focal ischemia in the rat.
+J Cereb Blood Flow Metab 2004; 24: 681–92.
+36	 Yin W, Cao G, Johnnides MJ, Signore AP, Luo Y, Hickey RW, et al.
+TAT-mediated delivery of Bcl-xL protein is neuroprotective against
+neonatal hypoxic-ischemic brain injury via inhibition of caspases and
+AIF. Neurobiol Dis 2006; 21: 358–71.
+37	 Han Y, Chen YS, Liu Z, Bodyak N, Rigor D, Bisping E, et al.
+Overexpression of HAX-1 protects cardiac myocytes from apoptosis
+through caspase-9 inhibition. Circ Res 2006; 99: 415–23.
+38	 Cilenti L, Soundarapandian MM, Kyriazis GA, Stratico V, Singh S,
+Gupta S, et al. Regulation of HAX-1 anti-apoptotic protein by Omi/
+HtrA2 protease during cell death. J Biol Chem 2004; 279: 50295–
+301.
+39	 Sharp TV, Wang HW, Koumi A, Hollyman D, Endo Y, Ye H, et al. K15
+protein of Kaposi's sarcoma-associated herpesvirus is latently
+expressed and binds to HAX-1, a protein with antiapoptotic function. J
+Virol 2002; 76: 802–16.
+40	 Klein C, Grudzien M, Appaswamy G, Germeshausen M, Sandrock
+I, Schaffer AA, et al. HAX1 deficiency causes autosomal recessive
+severe congenital neutropenia (Kostmann disease). Nat Genet 2007;
+39: 86–92.
+
+

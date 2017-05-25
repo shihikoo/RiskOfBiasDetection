@@ -1,0 +1,673 @@
+Acta Pharmacologica Sinica (2015) 36: 748–757
+© 2015 CPS and SIMM All rights reserved 1671-4083/15
+www.nature.com/aps
+
+npg
+
+Original Article
+
+DanHong injection dose-dependently varies amino
+acid metabolites and metabolic pathways in the
+treatment of rats with cerebral ischemia
+Zhi-li GUO1, 2, Yan ZHU1, 3, 4, Xiao-tao SU4, Jun LIU1, Qian-xu YANG5, Jing-yi NAN4, Bu-chang ZHAO4, Ying-ying ZHANG1,
+Ya-nan YU1, Bing LI1, Hong-bin XIAO5, *, Zhong WANG1, *
+1
+
+Institute of Basic Research in Clinical Medicine, China Academy of Chinese Medical Sciences, Beijing 100700, China; 2Jiaxing
+Traditional Chinese Medicine Affiliated Hospital of Zhejiang Chinese Medical University, Jiaxing 314000, China; 3Beijing Electric Power
+Hospital, Capital Medical University, Beijing 100073, China; 4Xi’an Buchang Pharmaceutical Co, Ltd, Xi’an 712000, China; 5Dalian
+Institute of Chemical Physics, Chinese Academy of Sciences, Dalian 116023, China
+Aim: To determine how the relative amino acid contents and metabolic pathways regulate the pharmacological phenotypes in rats with
+cerebral ischemia after treatment with varying doses of DanHong injection (DHI).
+Methods: Adult male rats underwent middle cerebral artery occlusion (MCAO), and were injected with DHI (DH-1: 1 mL/kg; DH-2:
+2.5 mL/kg; DH-3: 5 mL/kg, and DH-4: 10 mL/kg, iv) daily for 3 d. The neurological deficit score, body weights and infarct volume
+were assessed. Serum levels of 20 free amino acids were determined using HPLC, and the values were transformed through the
+quantitative analysis of the amino acids in the serum metabolic spectrum. Multivariate statistical analysis methods (PCA and PLS-DA)
+and web-based metabolomics tools (MetPa and MetaboAnalyst) were used to analyze the biological data sets for the amino acids.
+Results: Administration of DHI dose-dependently decreased cerebral infarct volume, and ameliorated neurological deficits. A total of
+5, 6, 7 and 7 non-overlapping metabolites were identified in the DH-1, DH-2, DH-3, and DH-4 groups, respectively. Eight metabolites
+were shared between the DHI groups and the vehicle group. In addition, the serum levels of glutamic acid, aspartic acid and serine
+increased with increasing DHI dose. A total of 3, 2, 2 and 5 non-overlapping metabolic pathways were identified in the DH-1, DH-2,
+DH-3 and DH-4 groups, respectively, and glycine, serine, threonine and histidine metabolism were identified as overlapping pathways
+among the 4 dose groups.
+Conclusion: Overlapping and non-overlapping amino acid metabolites and metabolic pathways are associated with the dose-dependent
+neuroprotective effect of DHI.
+Keywords: DanHong injection; traditional Chinese medicine; cerebral ischemia; amino acid metabolomics; metabolic pathways
+Acta Pharmacologica Sinica (2015) 36: 748–757; doi: 10.1038/aps.2014.167; published online 4 May 2015
+
+Introduction
+
+DanHong injection (DHI), a Chinese Materia Medica standardized product extracted from Radix Salviae miltiorrhizae and
+Flos Carthami tinctorii, has been effective for the treatment of
+cerebral ischemia and other cardiovascular diseases in China
+for several years[1]. The main bioactive constituents of DHI are
+salvianic acid A and B, protocatechuic aldehyde and rosmarinic acid (Figure S1). Previous studies have shown that DHI
+exhibited diverse pharmacological effects, including protection against vascular endothelium injury[2, 3], improvements
+* To whom correspondence should be addressed.
+E-mail hbxiaodicp@126.com (Hong-bin XIAO)
+zhonw@sina.com (Zhong WANG)
+Received 2014-08-05 Accepted 2014-12-08
+
+in atherosclerosis and microcirculation[4], and neuroprotective
+effects[5]. It has also been suggested that DHI might have a
+dose-dependent protective effect on promoting angiogenesis
+and mesenteric microcirculation in acute hypoxia[6, 7]. In addition, an experimental study indicated that DHI had a concentration-response relationship in promoting angiogenesis
+potentially via the increased expression of vascular endothelial growth factor (VEGF)[8]. However, concentration-response
+studies on DHI in the treatment of cerebral ischemia are lacking.
+The potential methods for studying the dose-effect relationship of traditional Chinese medicine (TCM) drugs include
+orthogonal design, uniform design, pharmacokinetics, serum
+pharmacology, and serum metabolomics [9, 10]. The emerging field of metabolomics provides a promising approach
+
+www.chinaphar.com
+Guo ZL et al
+
+npg
+749
+
+to explore the potential mechanisms of diverse diseases and
+assess the therapeutic effects of drugs[11, 12]. Metabolomics has
+previously been applied to investigate the efficacy of TCM
+treatment. For example, a study on the changes in metabolism
+under different doses of Xiao-Yao powder demonstrated that
+the metabolic patterns in the high-dose group were more similar to the healthy control group than other dose groups[11].
+In addition, a metabolomics study on the dose-effect of
+Heart Soft Capsule found dose-dependent changes in the
+levels of several potentially important biomarkers[13]. Metabolomics has also been applied to assess the efficacy and quality
+control of DHI[14]. However, the mechanism underlying the
+concentration-response relationship of DHI at the metabolomics level remains unclear. The aim of the present study was
+to examine the effects of DHI on metabolic pathways and the
+generation of new metabolites in the treatment of cerebral
+ischemia.
+It has been shown that the development of cerebral ischemia
+is closely associated with the metabolic spectral migration of
+amino acids[15]. Amino acid metabolomics is an important
+part of metabolomics research[16], and the results of a previous
+study suggested that Chinese medicine could relieve stroke
+rats suffering from ischemia/reperfusion (I/R) injury by ameliorating defects in amino acid metabolism[17]. Therefore, in
+the present study, we examined how the relative amino acid
+contents and metabolic pathways regulate the pharmacological phenotypes observed after treatment with varying doses of
+DHI.
+
+Materials and methods
+
+Sample acquisition and preprocessing
+The protocols used in the present study were approved by the
+national legislations of China as well as local guidelines, in
+accordance with the ethical principles of animal use and care.
+Experimental drugs
+DHI original fluid (intermediate concentrate; batch number:
+120 705) was applied. The dilution ratio (original fluid:water)
+of the DHI was 1:2 or 1:3 (v:v). The DHI was prepared by
+decocting 250 g of safflower and 750 g of Salvia miltiorrhiza
+twice, following by filtration, pooling, and concentration. The
+final filtrate was collected, and diluted with water to a final
+injection volumn of 1000 mL.
+The quality control was performed using high performance
+liquid chromatography (HPLC) fingerprinting (Figure S1), and
+each batch of DHI was manufactured strictly in accordance
+with the standards of “good manufacturing practice” (Figure
+S2).
+Experimental animals
+A total of 39 adult male Sprague-Dawley rats, weighing
+200±20 g, were purchased from the Experimental Animal
+Center, Academy of Military Medical Sciences, Beijing, China.
+All animals were housed in cages and maintained under
+standard conditions (24±1 °C, 45%±15% relative humidity).
+The rats were divided into the 6 groups: vehicle group, sham
+
+group and 4 DHI dose groups (DH1, 1 mL/kg, iv qd; DH2, 2.5
+mL/kg, iv qd; DH3, 5 mL/kg, iv qd; and DH4, 10 mL/kg, iv
+qd). The drug was administered daily for 3 days.
+Preparation of the middle cerebral artery occlusion (MCAO)
+model
+The Longa bolt wire method[18] was applied with slight modifications. Briefly, the rats were anesthetized with 10% chloral
+hydrate (4 mL/kg, ip) and fixed in the supine position. Subsequently, the skin of each rat was disinfected on a sterile towel.
+MCAO was performed as previously described[18]. Rectal
+temperature was monitored and maintained at 37 °C using
+a heating blanket. The right common, external, and internal
+carotid arteries were isolated. The tip of a nylon suture was
+rounded through heating on a flame, and subsequently the
+suture was advanced from the external carotid artery (ECA)
+into the lumen of the internal carotid artery to obstruct the
+origin of the middle cerebral artery (MCA). At 1 h after
+MCAO, reperfusion was performed through the removal of
+the suture. MCAO rats were evaluated for neurological damage as previously described[18]. The average depth of filament
+insertion was 18.5±0.5 mm away from the bifurcation. Then,
+the exposed vessels were carefully ligated to prevent bleeding,
+and the incision was aseptically closed. The rectal temperature of the rats was maintained at 37±0.5 °C using a temperature-regulated heating pad. After revival from anesthesia, the
+animals were returned to the cages and maintained at room
+temperature (24±1 °C).
+The rats in the sham group were treated in the same manner
+as the MCAO rats without ischemia. The sham group received
+an incision on the neck to separate the neck blood vessels and
+branches, without artery ligation.
+In the vehicle group, MCAO rats received 0.9% NaCl
+(1 mL/kg). The animals were euthanized through decapitation at 72 h after modeling.
+The weight and neurological deficit score were measured in
+all rats. The neurological deficit scoring system, based on the
+Bederson[19] and Garcia score[20], used a scale from 0 to 4: (0) no
+observable deficit; (1) decreased forelimb resistance to a lateral
+push; (2) forelimb flexion; (3) circling behavior in addition to
+the former symptoms; and (4) deficiency in spontaneous walking. When no deficit was observed at 60 min after occlusion,
+the animal was excluded from further study. After treatment
+for 3 d, the rats were sacrificed for triphenyl tetrazolium chloride solution (TTC) staining, cerebral infarct volume calculation and biochemical analysis.
+Calculation of the cerebral infarct volume
+The rats in each group were sacrificed through rapid decapitation under deep anesthesia with 10% chloral hydrate at
+1 h after treatment injection. The rat brain was immediately
+removed and placed at -20 °C for 10 min, followed by slicing
+into five 2-mm-thick consecutive coronal sections, staining
+with 2% TTC at 37 °C for 30 min in the dark, and fixing with
+4% polyformaldehyde solution at 4 °C for 24 h. The slices were
+photographed using a digital camera and analyzed using an
+Acta Pharmacologica Sinica
+
+www.nature.com/aps
+Guo ZL et al
+
+npg
+750
+
+image processing system (AlphaEaseFC 4.0, Alpha Innotech,
+San Leandro, CA, USA) (Figure 1B). We measured the infarct
+volume for each brain slice using an image analysis Luxex-F
+instrument and calculated the infarct volume according to the
+formula V=t(A1+A2+...+An)–(A1+An)t/2, where t indicates
+the slice thickness and A indicates the infarct size.
+HPLC sample treatment
+After precise measurement of the 100-µL serum samples collected from the abdominal aorta of the sacrificed rats at 1 h
+after the last treatment injection, 800 µL of pure water and 100
+µL of internal standard (IS) solution (norvaline 250 ng/mL)
+were added. After blending, 200 µL of the supernatant was
+collected, and subsequently 800 µL of 85% methanol was
+added. After eddy mixing for 5 min, incubation for 1 h at 4 °C,
+and centrifugation at 12 000 rounds/min for 10 min, 200 µL of
+the supernatant fluid was collected and filtered using a 0.22µm microfiltration membrane to generate clear liquid. The
+filtrate was subsequently packed into a liquid vial for examination using an online derivative HPLC-fluorescence detector
+(HPLC-FLD).
+Instruments and reagents
+The experiments were conducted at the Dalian Institute of
+Chemical Physics, Chinese Academy of Sciences. An Agilent
+1200 HPLC system equipped with variable wavelength fluorescence detector (Agilent Technologies, Santa Clara, CA USA)
+was used.
+The following amino acid reference substances were used
+(in order of the peaks): aspartic acid, glutamic acid, asparagine, serine, histidine, glycine, alanine, citrulline, threonine,
+arginine, taurine, tyrosine, valine, methionine, tryptophan,
+phenylalanine, isoleucine, ornithine, leucine, and lysine (IS is
+norvaline).
+The following derivatization reagents were used: o-phthaldialdehyde (OPA), 3-mercaptoethanol (3-MPA) (Accustandard
+Company, New Haven, Connecticut, USA); chromatographic
+pure acetonitrile and methanol; and Milli-Q low organic matter ultrapure water (Millipore Company, Boston, Massachusetts, USA).
+Online derivatization
+For online derivatization, 1 mL of OPA reserve liquid (10
+mg/mL) was mixed with 1 mL of borate buffer (pH 10.2) and
+100 µL of 3-MPA. This mixture was filtered through a 0.22-µm
+filter and subsequently stored at 4 °C in the dark. Derivatization was performed using the Agilent 1200 automatic sampler
+online system (Agilent Technologies).
+Metabolic profiling
+HPLC-FLD analysis
+The following chromatographic conditions were used: room
+temperature set at 5 °C; Hypersil c18 reversed phase chromatographic column (250 mm×4.6 mm, 5 µm, Dalian Elite Analytical Instruments Co, Ltd, Dalian, China); mobile phase A liquid
+
+Acta Pharmacologica Sinica
+
+(10 mmol/L Na2HPO4-Na2B4O7 buffer, pH 7.95); and mobile
+phase B liquid (acetonitrile:methanol:water at a volume ratio
+of 45:45:10). The gradient elution conditions included mobile
+phase B for 6 min, increasing from 5% to 17.2% and 6–35 min,
+increasing from 17.2% to 52%.
+The fluorescence detection wavelength was 338 nm (spectral
+bandwidth 10 nm), and the reference wavelength was 390 nm
+(spectral bandwidth 10 nm). The sample quantity was 5 µL[21].
+Validation of assay method
+Using 20 standard amino acid solutions, we evaluated the reliability of the serum sample pretreatment, amino acid derivatives and separation methods. The R values with peak area
+and concentration of the linear correlation coefficient were
+between 0.9215–0.9995; the coefficient of retention time and
+peak area were 0.09%–0.28% and 0.8%–0.28%, respectively; the
+average recovery rate was 85.2%–103.6%; and the coefficients
+of intra-day and inter-day variation were <7.5%.
+Data and pathways analysis
+The data obtained from commercial assay kits are presented
+as the mean±standard deviation (SD). Statistical significance
+was assessed using Student’s t-test. SPSS analysis of variance
+between the groups was performed to analyze the changes
+in neurological deficit score, brain index, and body weight
+in each group. Single-factor analysis of variance of multiple
+comparison (Q inspection) was used to examine the differences within groups.
+The multivariate statistical analyses, PCA and PLS-DA, were
+employed to process the HPLC-FLD data to reveal the influential ions responsible for separations between sample classes[22].
+To detect the common metabolites in the biological function of whole information and channel transduction, we first
+observed the relevant metabolites according to the Human
+Metabolome Database (HMDB) or Kyoto Encyclopedia of
+Genes and Genomes (KEGG) ID number and subsequently
+imported MetPa bioinformatics software (http://metpa.
+metabolomics.ca) using an Excel format. MetPa and MetaboAnalyst[23] software was used to identify network pathways.
+This software was based on high-quality KEGG metabolic
+pathways as the backend knowledgebase to identify the most
+relevant pathways involved in the conditions under study[23].
+Using these approaches, the amino acids in the 36 serum
+samples were quantitatively analyzed for further metabolomics study.
+
+Results
+
+Dose-effect relationship of DHI
+After treatment for 3 d, a concentration-response relationship
+was observed between the infarct volume and DHI dosage
+among the 4 dose groups, indicating that DHI could reduce
+cerebral ischemia in a dose-dependent manner. The cerebral
+infarct volume gradually decreased with increasing DHI
+dose, reflecting a negative correlation (Figure 1A). The TTC
+images showed the effects of DHI on infarct volume in MCAO
+
+www.chinaphar.com
+Guo ZL et al
+
+npg
+751
+
+rats (Figure 1B). The infarct areas of sham, vehicle and some
+DHI treatment group were analyzed through TTC staining.
+Representative TCC-stained brain sections were obtained at
+72 h after MCAO. Compared with the vehicle group, all DHI
+dose groups (DH1, 2, 3, and 4) increased the body weight and
+reduced the cerebral infarct volume (significantly in DH4),
+brain index (brain weight to body weight) and neurological
+deficit score (Figure 1C–1E) (P<0.05). Therefore, DHI had a
+dose-dependent therapeutic effect against cerebral ischemia.
+Multivariate statistical analysis of the amino acid metabolites
+HPLC-FLD metabolic profiling of serum samples
+Typical HPLC-FLD total metabolism chromatograms are
+shown in Figure S3. The endogenous metabolites were identified through comparison with the corresponding standards
+according to the retention times. In total, 20 metabolites were
+identified in the serum profile.
+PCA analysis
+PCA, the most commonly used algorithm in metabolomics
+studies, was used to process the HPLC-FLD data. The resulting data were displayed as “score plots,” representing the
+distribution of samples in the multivariate space. In the present study, a 2D and 3D-PCA score plot was initially obtained
+from the HPLC-FLD data of the 6 groups. As shown in the
+PCA score plots (Figure 2A and 2B), the rats in the lowest
+dose groups obtained better separation, far from those of the
+vehicle group, compared with the other 3 dose groups.
+Using PCA analysis, we detected a clear separation in the
+metabolic profiling: the X-axis represented the score of principal component 1 (PC1), accounting for 15.5827% of the total
+variance, while the Y-axis indicated the score of PC2, accounting for 11.9811% of the total variance (R2X=0.857; Q2=0.614)
+(Figure 2C). Thus, we assumed that the PCA model demonstrated the development phase of intervention dosagebased cerebral ischemia treatment. The relative amount of the
+20 amino acids in the 4 dose groups was outlined using the
+NIPALS scoring diagram, and we observed that the levels of
+glutamic acid, aspartic acid, and serine increased with increasing dilution of the DHI (Figure 2D).
+PLS analysis and variable importance of projection (VIP) stati­
+stics
+The loadings plot indicated that the most influential ions, farthest away from the main cluster, were responsible for the separation between samples classes, showing the greatest influence in the PCA score plots. VIP statistics and loadings plots
+were used to identify biomarker ions. A total of 5, 6, 7 and 7
+metabolites were identified in each of the 4 dose groups (Figure 3A–3D). From these treatment groups, 15 variables were
+screened out based on the variable importance of projection
+value >0 compared with the vehicle group (Figure 4A–4D).
+Compared with the vehicle group, 8 overlapping metabolites
+were shared among the 4 dose groups. Figure 5 also shows
+that the serum levels of glutamic acid, aspartic acid and serine
+increased with increasing DHI dose.
+
+Effect of different doses of DHI on serum amino acid metabolic
+pathways
+The detailed results from the pathway analysis are shown in
+Table 1, and the changing amino acid metabolic pathways
+compared with the vehicle and sham groups are illustrated
+in Figure S4. The channel number and properties of the
+pathways, such as the name of the related pathways, the hits
+number and the impact value, were changed in response
+to drug intervention according to MetPa and MetaboAnalyst. Compared with the vehicle group, 3, 2, 2 and 5 nonoverlapping metabolic pathways were observed in each of the
+4 dose groups; and glycine, serine, threonine metabolism and
+histidine metabolism were identified as overlapping pathways
+among the 4 dose groups.
+
+Discussion
+
+We performed an HPLC-based metabolomics study in rats
+with cerebral ischemia to identify the dose-dependent metabolic mechanism of DHI. The relationship between DHI doses
+and amino acid relative peak area values showed that the
+serum levels of aspartic acid, glutamic acid, and serine gradually changed with increasing dose.
+DH4 had the largest number of variables with a VIP value
+>1 (6 variables), and the hits number (number of participating amino acid pathways) and impact value calculated from
+pathway topology analysis were also increased compared
+with the other dose groups, potentially associated with the
+dose variation. Serine, as a principal variable with a VIP value
+invariably greater than 3, is a nonessential amino acid derived
+from glycine, and serine is highly concentrated in all cell
+membranes. Compared with other amino acids, muscle tissue
+contains a low-average concentration of serine[24]. Serine and
+the products of serine metabolism are not only essential for
+cell proliferation, but are also necessary for specific functions
+in the central nervous system[25].
+The overlapping and non-overlapping pathways among different DHI dose groups might provide information concerning the assembly mechanism of pathway variations. Glycine,
+serine, threonine and histidine metabolism were identified as
+the common pathways among the 4 dose groups.
+As shown in Table 1, the serine metabolic pathway had the
+biggest impact value among all other pathways, indicating a
+leading role for this amino acid in the metabolic mechanism of
+DH in the treatment of cerebral ischemia. Serine metabolism
+pathway might be associated with the incidence of cerebral
+ischemia[4]. Glycine is involved in the production of DNA,
+phospholipids and collagen and the release of energy in the
+body. Glycine levels are effectively measured in plasma in
+both normal patients and individuals with inborn errors of
+glycine metabolism[26]. A wide range of symptoms, from mental and physical retardation to poor intellectual functioning,
+emotional instability, tremor, ataxia and psychosis, hallmark
+elevated blood histidine[27, 28].
+Based on the analysis of the available data, the occurrence
+and development of cerebral ischemia involves several abnormal structures and malfunctions[29], indicating that cerebral
+Acta Pharmacologica Sinica
+
+www.nature.com/aps
+Guo ZL et al
+
+npg
+752
+
+Figure 1. Dose-effect relationship of DHI in the treatment of cerebral ischemia. (A) The effect of DHI on cerebral infarct volume. (B) The TTC staining
+results of the rat brains in different treatment groups. The rats from each group were decapitated at 24 h after surgery. The 2-mm spacing line coronal
+brain slices were incubated in a 2% TTC solution in the dark at 37 °C for 30 min. The TTC images showed the effects of DHI for I/R injury on infarct
+volume in MCAO rats. The infarct areas of the sham, vehicle and DHI treatment groups (the two DH1 and DH4 images were randomly selected from all
+treatment groups, 1 mL/kg, iv qd and 10 mL/kg, iv qd, respectively) were analyzed through TTC staining. Representative TCC-stained brain sections
+obtained at 72 h after MCAO. NO #1–#5 represent the 5 slices of the brain from frontal to occipital. (C–E) Changes in the body weight, neurological
+deficit score, and brain index in each group (analysis of variance). Mean±SD, n=6 for vehicle and each of DHI group, and n=9 for sham group. bP<0.05
+compared with vehicle.
+
+Acta Pharmacologica Sinica
+
+www.chinaphar.com
+Guo ZL et al
+
+npg
+753
+
+Figure 2. Analysis of the metabolic patterns in rat serum using HPLC-FLD and the effect of DHI on the serum metabolism and MCAO. (A, B) NIPLS2D and 3D score plot of the DHI treatment groups compared with vehicle group ( nonlinear iterative partial least squares analysis). (C) The overall
+metabolism spectrum for the 20 amino acids in the 4 dose groups in the NIPALS scoring diagram. (D) Quantitative relationship between the relative
+peak area values for the amino acids and the DHI doses groups compared with the sham and vehicle groups.
+Acta Pharmacologica Sinica
+
+www.nature.com/aps
+Guo ZL et al
+
+npg
+754
+
+Figure 3. PLS (partial least-squares) loading plot using the NIPALS algorithm.
+
+Table 1. Results of variables screening and related metabolic pathways.
+Variable weights and trends
+compared with vehicle	
+
+Groups
+Vehicle-Sham
+
+Glutamicacid↓, Asparagine↑, Serine↑, Glycine↓,
+Threonine↓, Taurine↑, Tyrosine↓, Valine↓,
+Ornithine↑, Leucine↓
+
+Vehicle-DH1
+
+Serine↑, Glyine↓, Alanine↑, Glutamic acid↓,
+Histidine↓
+
+Vehicle-DH2
+
+Serine↑, Glutamic acid↓, Aspartic acid↓, Glyine↑,
+Histidine↓, Alanine↓
+Serine↑, Alanine↑, Arginine↑, Glutamic acid↓,
+Lysine↑, Glyine↓, Histidine
+Serine↑, Glyine↑, Glutamic acid↓,
+Arginine↑,
+Aspartic acid↓,
+Alanine↓,
+Histidine↑
+
+Vehicle-DH3
+Vehicle-DH4
+
+Related metabolic pathways
+Glycine, serine and threonine metabolism
+Taurine and hypotaurine metabolism
+D-Glutamine and D-glutamate metabolism
+Arginine and proline metabolism
+Glycine, serine and threonine metabolism
+Alanine, aspartate andglutamatemetabolim
+Histidine metabolism
+Glycine, serine and threonine metabolism
+Histidine metabolism
+Glycine, serine and threonine metabolism
+Histidine metabolism
+Glycine, serine and threonine metabolism
+Arginine and proline metabolism
+Histidine metabolism
+Alanine,aspartate andglutamatemetabolim
+Aminoacyl-tRNA biosynthesis
+
+Hits
+
+Impact (↓)
+
+3
+1
+1
+1
+2
+1
+1
+1
+1
+2
+1
+2
+2
+1
+2
+4
+
+0.42039
+0.33094
+0.3262
+0.12956
+0.32378
+0.20703
+0.13988
+0.32378
+0.13988
+0.6884
+0.24194
+0.50732
+0.40000
+0.24194
+0.14979
+0.12903
+
+The change tendency of corresponding variables compared with the vehicle group. “↑” and “↓” represent the compound is up or down-regulated. And
+the properties of the pathways, such as the name of the related metabolic pathways, the hits number and the impact value are listed. Since we are
+testing many pathways at the same time, the hits value is the actually matched number from the user uploaded data; and the impact value is the
+pathway impact value calculated from pathway topology analysis in particular.
+
+ischemia is a typical multi-pathway and multi-system complex
+disease, which is not induced via a single abnormal pathway
+or the abnormal expression of a single system[30]. The results
+of the present study indicated that the dose-response relationship of DHI might be associated with glycine, serine, threoActa Pharmacologica Sinica
+
+nine, and histidine metabolism; however, further studies are
+required to quantitatively confirm this relationship.
+The highlights of this study are summarized as follows:
+(1) A negative correlation between the DHI dosage and cerebral infarct volume was observed. (2) A total of 5, 6, 7 and 7
+
+www.chinaphar.com
+Guo ZL et al
+
+npg
+755
+
+Figure 4. The variable importance of the projection of the variables. The colored boxes on the right indicate the relative concentrations of the
+corresponding metabolite. (Univariate analysis, including t-test, ANOVA, and linear regression).
+
+non-overlapping metabolites were identified in the 4 dose
+groups. (3) A total of 3, 2, 2 and 5 non-overlapping metabolic
+pathways were identified in each of the 4 dose groups. (4)
+Glycine, serine, threonine and histidine metabolism pathways
+overlapped among the 4 dose groups. These findings reveal
+the dose-dependent neuroprotective effect of a drug through
+overlapping and non-overlapping metabolites and metabolic
+pathways, and demonstrate that metabolomics might be a
+novel approach to explore the systematic pharmacological
+mechanism of reversing complex diseases.
+
+Acknowledgements
+
+This research was funded by the Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian, China.
+
+Buchang Pharmaceutical provided the drugs used in this
+study. However, the funder played no role in the study
+design, data collection and analysis, decision to publish, or
+preparation of the manuscript. The researchers are all independent from the funder. This study was part of the National
+Project of New Drug R&D (2011ZX09304).
+
+Author contribution
+
+Zhong WANG and Hong-bin XIAO conceived and designed
+the experiments; Zhi-li GUO and Yan ZHU performed the
+experiments; Qian-xu YANG, Bing LI, Ya-nan YU, and Yingying ZHANG analyzed the data; Xiao-tao SU, Jing-yi NAN,
+Qian-xu YANG, and Ying-ying ZHANG contributed reagents/
+materials/analysis tools; Zhi-li GUO wrote the paper; Jun LIU
+Acta Pharmacologica Sinica
+
+www.nature.com/aps
+Guo ZL et al
+
+npg
+756
+
+Figure 5. Serine, glutamic acid and aspartic acid show potential
+concentration-response relationships within the 8 common metabolites of
+the 4 dose groups .
+
+reviewed and edited the manuscript. All authors read and
+approved the manuscript.
+
+Supplementary information
+
+Supplementary information is available at Acta Pharmacologica Sinica’s website.
+
+References
+
+1	 Sun M, Zhang JJ, Shan JZ, Zhang H, Jin CY, Xu S, et al. Clinical
+observation of Danhong Injection (herbal TCM product from Radix
+Salviae miltiorrhizae and Flos Carthami tinctorii) in the treatment of
+traumatic intracranial hematoma. Phytomedicine 2009; 16: 683–9.
+2	 Gao X, Zheng X, Li Z, Zhou Y, Sun H, Zhang L, et al. Metabonomic
+study on chronic unpredictable mild stress and intervention effects
+of Xiaoyaosan in rats using gas chromatography coupled with mass
+spectrometry. J Ethnopharmacol 2011; 137: 690–9.
+3	 Zhi XW, Su XM, Feng WY, Zhang HM. Effect and mechanism of DH
+injection on isolated mesenteric arterial rings in rats. Zhong guo
+Zhong Yao Za Zhi 2012; 37: 2607–11.
+4	 Jung JY, Lee HS, Kang DG, Kim NS, Cha MH, Bang OS, et al. 1H-NMRbased metabolomics study of cerebral infarction. Stroke 2011; 42:
+1282–8.
+5	 He Y, Wan H, Du Y, Bie X, Zhao T, Fu W, et al. Protective effect of
+Danhong injection on cerebral ischemia-reperfusion injury in rats. J
+Ethnopharmacol 2012; 144: 387–94.
+6	 Guan Y, Yin Y, Zhu YR, Guo C, Wei G, Duan JL, et al. Dissection of
+mechanisms of a Chinese medicinal formula: danhong injection
+therapy for myocardial ischemia/reperfusion injury in vivo and in vitro.
+Evid Based Complement Alternat Med 2013; 2013: 972370.
+7	 Liu H, Wang S, Sun A, Huang D, Wang W, Zhang C, et al. Danhong
+inhibits oxidized low-density lipoprotein-induced immune maturation
+of dentritic cells via a peroxisome proliferator activated receptor
+gamma-mediated pathway. J Pharmacol Sci 2012; 119: 1–9.
+8	 Luo HM, Lu HD, Yu SC. The experimental research of Dan hong
+injection effect on promoting angiogenesisand the concentrationresponse relationship. Chin J Integr Med Cardio-Cerebrovasc Dis
+2007; 5: 504–7.
+9	 Ma XJ, Yin SJ, Jin JC, Wu CF, Huang Y, Shi DZ. Synergistic protection
+Acta Pharmacologica Sinica
+
+of DH injection and ischemic post conditioning on myocardial
+reperfusion injury in minipigs. Chin J Integr Med 2010; 16: 531–6.
+10	 Liu JR, Jensen-Kondering UR, Zhou JJ, Sun F, Feng XY, Shen XL, et
+al. Transient filament occlusion of the middle cerebral artery in rats:
+does the reperfusion method matter 24 hours after perfusion? BMC
+Neurosci 2012; 13: 154.
+11	 Dai Y, Li Z, Xue L, Dou C, Zhou Y, Zhang L, et al. Metabolomics study
+on the anti-depression effect of xiaoyaosan on rat model of chronic
+unpredictable mild stress. J Ethnopharmacol 2010; 128: 482–9.
+12	 Yang Q, Shi X, Wang Y, Wang W, He H, Lu X, et al. Urinary meta­
+bo­n omic study of lung cancer by a fully automatic hyphenated
+hydrophilic interaction/RPLC-MS system. J Sep Sci 2010; 33: 1495–
+503.
+13	 Zhao X, Zhang Y, Meng X, Yin P, Deng C, Chen J, et al. Effect of a
+traditional Chinese medicine preparation Xindi soft capsule on rat
+model of acute blood stasis: a urinary metabonomics study based
+on liquid chromatography-mass spectrometry. J Chromatogr B Analyt
+Technol Biomed Life Sci 2008; 873: 151–8.
+14	 Liu X, Wu Z, Yang K, Ding H, Wu Y. Quantitative analysis combined
+with chromatographic fingerprint for comprehensive evaluation of
+Danhong injection using HPLC-DAD. J Pharm Biomed Anal 2013; 76:
+70–4.
+15	 Cheung BMY, Li C. Diabetes and hypertension: is there a common
+metabolic pathway? Curr Atheroscler Rep 2012; 14: 160–6.
+16	 Mäkinen VP, Soininen P, Forsblom C, Parkkonen M, Ingman P, Kaski K,
+et al. 1H NMR metabonomics approach to the disease continuum of
+diabetic complications and premature death. Mol Syst Biol 2008; 4:
+167.
+17	 Wang PR, Wang JS, Yang MH, Kong LY. Neuroprotective effects of
+Huang-Lian-Jie-Du-Decoction on ischemic stroke rats revealed by
+1
+H NMR metabolomics approach. J Pharm Biomed Anal 2014; 88:
+106–16.
+18	 Longa EZ, Weinstein PR, Carlson S, Cummins R. Reversible middle
+cerebral-artery occlusion without craniectomy in rats. Stroke 1989;
+20: 84–91.
+19	 Bederson JB, Pitts LH, Tsuji M, Nishimura MC, Davis RL, Bartkowski
+H. Rat middle cerebral-artery occlusion-evaluation of the model and
+development of a neurologic examination. Stroke 1986; 17: 472–6.
+20	 Garcia JH, Wagner S, Liu KF, Hu XJ. Neurological deficit and extent of
+neuronal necrosis attributable to middle cerebral-artery occlusion in
+rats-statistical validation. Stroke 1995; 26: 627–34.
+21	 Han XF, Huang YH, Wang LX. Plasma amino acid metabolism spectral
+correlation studies associated with diabetes. Chin J Anal Chem 2010;
+5: 697–701.
+22	 Wang-Sattler R, Yu Z, Herder C, Messias AC, Floegel A, He Y, et al.
+Novel biomarkers for pre-diabetes identified by metabolomics. Mol
+Syst Biol 2012; 8: 615.
+23	 Wang X, Wang H, Zhang A, Lu X, Sun H, Dong H, et al. Metabolomics
+study on the toxicity of aconite root and its processed products using
+ultraperformance liquid-chromatography/electrospray-ionization
+synapt high-definition mass spectrometry coupled with pattern
+recognition approach and ingenuity pathways analysis. J Proteome
+Res 2012; 11: 1284–301.
+24	 Cynober LA. Plasma amino acid levels with a note on membrane
+transport: characteristics, regulation, and metabolic significance.
+Nutrition 2002; 18: 761–6.
+25	 Furuya S, Watanabe M. Novel neuroglial and glioglial relationships
+mediated by L-serine metabolism. Arch Histol Cytol 2003; 66: 109–
+21.
+26	 Christie GR, Ford D, Howard A, Clark MA, Hirst BH. Glycine supply
+to human enterocytes mediated by high-affinity basolateral GLYT1.
+
+www.chinaphar.com
+Guo ZL et al
+
+npg
+757
+
+Gastroenterology 2001; 120: 439–48.
+27	 Gerber DA. Low free serum histidine concentration in rheumatoid
+arthritis. A measure of disease activity. J Clin Invest 1975; 55:
+1164–73.
+28	 Hemler RJ, Hoogeveen JH, Kraaier V, Van Huffelen AC, Wieneke GH,
+Hijman R, et al. A pharmacological model of cerebral ischemia. The
+effects of indomethacin on cerebral blood flow velocity, quantitative
+EEG and cognitive functions. Methods Find Exp Clin Pharmacol 1990;
+12: 641–3.
+
+29	 Zhang A, Sun H, Dou S, Sun W, Wu X, Wang P, et al. Metabolomics
+study on the hepatoprotective effect of scoparone using ultraperformance liquid chromatography/electrospray ionization quadruple
+time-of-flight mass spectrometry. Analyst 2013; 138: 353–61.
+30	 Feng Z, Sun X, Yang J, Hao D, Du L, Wang H, et al. Metabonomics
+analysis of urine and plasma from rats given long-term and lowdose dimethoate by ultra-performance liquid chromatography-mass
+spectrometry. Chem Biol Interact 2012; 199: 143–53.
+
+Acta Pharmacologica Sinica
+
+

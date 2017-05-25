@@ -1,0 +1,854 @@
+The Journal of Neuroscience, February 4, 2015 • 35(5):2101–2111 • 2101
+
+Neurobiology of Disease
+
+Augmentation of M-Type (KCNQ) Potassium Channels as a
+Novel Strategy to Reduce Stroke-Induced Brain Injury
+Sonya M. Bierbower,1 Frank S. Choveau,1 James D. Lechleiter,2 and Mark S. Shapiro1
+Departments of 1Physiology and 2Cellular and Structural Biology, University of Texas Health Science Center, San Antonio, Texas 78229
+
+Cerebral ischemic stroke is a worldwide cause of mortality/morbidity and thus an important focus of research to decrease the severity of
+brain injury. Therapeutic options for acute stroke are still limited. In neurons throughout the brain, “M-type” K ⫹ currents, underlain by
+KCNQ subunits 2–5, play dominant roles in control over excitability, and are thus implicated in myriad neurological and psychiatric
+disorders. Although KCNQ channel openers, such as retigabine, have emerged as anti-epilepsy drugs, their effects on ischemic injury
+remain unknown. Here, we investigated the protective effects of M-channel openers on stroke-induced brain injury in mouse photothrombotic and middle cerebral artery occlusion (MCAo) models. Both photothrombosis and MCAo led to rapid, predictable, and
+consistently sized necrotic brain lesions, inflammatory responses, and behavioral deficits. Administration of three distinct M-channel
+openers at 0 – 6 h after ischemic injury significantly decreased brain infarct size and inflammation, and prevented neurological dysfunction, although they were more effective when administered 0 –3 h poststroke. Thus, we show beneficial effects against stroke-induced
+brain injury and neuronal death through pharmacological regulation of ion channels that control neuronal excitability.
+Key words: ischemia; motor deficits; pathological disease; potassium channel; stroke
+
+Introduction
+Cerebrovascular stroke is a leading cause of adult disability (Sidney et al., 2013), with few current options to improve neurological outcomes. Recent advances suggest that stroke is a potentially
+treatable disease, leading to interest in developing novel neuroprotective therapeutics. KCNQ2–5 K ⫹ channels underlie neuronal M-currents, which are found ubiquitously in the nervous
+system. M-channels are important regulators of neuronal excitability since they stabilize the resting membrane potential, influence neuronal subthreshold excitability, and regulate spike
+generation (for a review, see Delmas and Brown, 2005). The inhibition of M-channels is thus excitatory, whereas their greater
+activation has an antiexcitatory, silencing effect. For example, the
+depression of M-currents turns single-spiking sympathetic neurons into tonically firing cells (Wang and McKinnon, 1995) and
+greatly induces spontaneous firing of hippocampal neurons
+Received Sept. 10, 2014; revised Nov. 3, 2014; accepted Dec. 15, 2014.
+Author contributions: S.M.B., J.D.L., and M.S.S. designed research; S.M.B. performed research; S.M.B., F.S.C.,
+J.D.L., and M.S.S. contributed unpublished reagents/analytic tools; S.M.B. and F.S.C. analyzed data; S.M.B. and
+M.S.S. wrote the paper.
+This research was supported by National Institutes of Health (NIH) National Research Service Award
+1F32NS079148-01 and NIH Training Grant T32-HL-07446-29 (2010 –2012) awarded to S.M.B; NIH Grants R01-AG007218 to J.D.L.; and NIH National Institute of Neurological Disorders and Stroke Grants R01-NS-43394 and R01-NS065138 to M.S.S. We thank Pamela Reed for expert technical assistance. We also thank Shane Sprague and the
+Department of Neurosurgery Research Core for their assistance with the middle cerebral artery occlusion experiments.
+This paper is in memory of Dr. Herbert Shapiro, late father of M.S.S., who passed away of stroke-related complications in 2012.
+The authors declare no competing financial interests.
+Correspondence should be addressed to Dr. Mark S. Shapiro, Department of Physiology/Neuroscience Program,
+University of Texas Health Science Center, 8403 Floyd Curl Drive, MS 7756, San Antonio, TX 78229. E-mail:
+shapirom@uthscsa.edu.
+DOI:10.1523/JNEUROSCI.3805-14.2015
+Copyright © 2015 the authors 0270-6474/15/352101-11$15.00/0
+
+(Lawrence et al., 2006). The critical effect of M-channels on neuronal excitability is underscored by epileptic seizures caused by
+inherited mutations, or transgenic suppression, of functional
+KCNQ2 and KCNQ3 channels in humans or mice, respectively
+(Biervert et al., 1998; Singh et al., 1998, 2008; Peters et al., 2005).
+In accordance with this, retigabine (RTG), which enhances
+M-channels by shifting their voltage dependence to more hyperpolarized membrane potentials, has emerged as a novel anticonvulsant drug (Main et al., 2000; Rundfeldt and Netzer, 2000;
+Wickenden et al., 2000; Miceli et al., 2008).
+The most common form of stroke, acute ischemic stroke, produces a core area of damaged tissue close to an occluded blood
+vessel, which is surrounded by a penumbra of tissue at risk because of low vascular perfusion. These neurons die as a result of
+neurotoxic biochemical cascades initiated by reduced energy
+stores, failure of the Na ⫹/K ⫹ pump, excess release of excitatory
+amino acids, and elevated [Ca 2⫹]I levels, resulting in neuronal
+hyperexcitability. Furthermore, excessive production of reactive
+oxygen species (ROS), such as superoxide free radicals and hydrogen peroxide (H2O2), play critical roles in ischemic injury and
+damage, especially in the penumbral zone (Yamato et al., 2003;
+Cheng et al., 2004; Sugawara et al., 2004). Intriguingly, M-current
+is augmented by ROS such as H2O2 (Boscia et al., 2006; Gamper
+and Shapiro, 2006), perhaps representing a homeostatic neurobiological mechanism against cytotoxicity.
+Previous work showed RTG and its predecessor, flupertine, to
+be neuroprotective during an oxygen/glucose deprivation model
+in organotypic hippocampal slices (Boscia et al., 2006; Gamper
+and Shapiro, 2006). Whereas that work was exciting, it represents
+an “in vitro” system that may not be the case in a living animal.
+Thus, we used two in vivo mouse stroke models. We discovered a
+cytoprotective role of M-channels during and after ischemic
+
+Bierbower et al. • M-Channels Protect Brain after Ischemic Stroke
+
+2102 • J. Neurosci., February 4, 2015 • 35(5):2101–2111
+
+stroke, as well as the therapeutic possibility of M-channel openers
+against stroke-induced neurological deficits. We show that
+M-channel openers exert in vivo neuroprotective actions, which
+are most likely due to decreases in ischemia-induced hyperexcitability. We further demonstrate that these neuroprotective actions have a critical “therapeutic window” of drug delivery,
+making it a viable acute therapeutic target for the treatment of
+ischemic stroke. Finally, M-channel openers also largely prevented the stroke-induced impairment of motor function, thus
+limiting behavioral motor deficits.
+
+Materials and Methods
+Animals
+Male C57BL/6 white albino mice (⬃25 g) were used in our experiments,
+given the known significant variation due to gender on stroke outcome in
+rodents. All animals were used, and none were eliminated once experiments had started, with only three deaths occurring after surgery. The
+mice were randomly allocated to receive drug treatment or vehicle and
+underwent stroke induction. Previous experiments indicated that the
+variability in infarct size was minimal and thus the power calculation,
+used by Zhao et al. (2006), showed that a minimum of eight animals per
+group were required to detect with 80% power and an ␣ of 0.05. The age
+of the mice ranged from 4 to 6 months and were obtained from Charles
+River Laboratories. Mice colonies were bred and housed at the University
+of Texas Health Science Center at San Antonio animal facilities under
+standard conditions on a 12 h light/dark cycle with food and water available ad libitum. Animal procedures were performed in accordance with
+the Institutional Animal Care and Use Committee at the University of
+Texas Health Science Center at San Antonio, and were in compliance
+with the National Institutes of Health Guide for Care and Use of Laboratory Animals.
+
+Surgical procedures
+Focal ischemia by photothrombosis. Mice were initially anesthetized using
+3% isoflurane with 100% oxygen and maintained at 1.5% isoflurane,
+which was administered through a nosecone. The depth of anesthesia was
+carefully monitored and regulated according to vital signs, pinch withdrawal, and eye blinks. Body temperature was maintained at 37°C by a
+feedback-controlled heating pad (T/Pump, Gaymar Industries). Their
+scalp was shaved and incised down the midline, and the scalp was exposed and cleaned. A stainless steel ring, which was attached to a stereotaxic frame, was glued (VetBond, 3M) to the scalp. A small portion of the
+skull, overlaying the somatosensory cortex, was thinned (between ⬃1
+and ⬃3 mm from bregma, and 2– 4 mm lateral) using a variable-speed
+electric drill (Fine Science Tools), and was further thinned using a surgical blade to a final thickness of ⬃50 ␮m to create the thin-skull cranial
+window.
+A solution containing 2.5 mM KCl, 1.25 mM NaH2PO4, 2 mM MgCl2,
+10 mM glucose, and 26 mM NaHCO3, pH 7.4, was maintained on the
+cortical surface. After a cranial window was made, mice were transferred
+to the microscope stage and used for induction of a photothrombosis.
+After thrombosis, the stainless steel ring was carefully removed from the
+skull and the scalp was sutured (6 – 0 silk suture, Ethicon).
+Cortical infarcts designed to mimic a human transient ischemic attack
+(TIA) were produced by transcranial illumination of focused laser light
+onto the surface of the brain of mice tail-vein injected with the photosensitive dye, Rose Bengal (RB). The photochemical reaction of RB activates a tissue factor that triggers an intrinsic coagulation cascade,
+producing an ischemic lesion that is pathologically relevant to clinical
+stroke. Mice were given a 0.1 ml tail-vein injection of sterilized RB
+(Sigma) in aCSF at 20 mg/ml. Arteries were identified by the direction of
+blood flow and were followed downstream to locate arterioles. Arterioles
+of 20 –30 mm were targeted and exposed to light from a 561-nm laser
+through a 0.8 numerical aperture, 40⫻ water-immersion objective
+(Nikon) until clot formation and/or after 20 min of light exposure. Mice
+were sutured and allowed to recover in an incubator before being returned to their home cages. Drugs were delivered through the tail vein at
+different time intervals.
+
+Focal ischemia by middle cerebral artery occlusion and drug delivery.
+Infarcts were induced using a temporary left common carotid artery/
+middle cerebral artery occlusion (MCAo). The intraluminal monofilament model of middle cerebral artery occlusion involves the insertion of
+a surgical filament into the external carotid artery and the threading of
+the filament forward into the flow, with subsequent brain infarction in
+the MCA perfused area. The suture is removed after 1 h, and reperfusion
+is achieved resulting in transient MCAo. Core body temperature was
+maintained at 37°C by a heating pad (T/Pump, Gaymar Industries) during ischemia and the first hour of reperfusion. Mice were sutured and
+allowed to recover in an incubator before being returned to their home
+cages. Drugs were delivered through the tail vein at different time
+intervals.
+
+Neuronal lesion evaluation and quantification following stroke
+The infarct area after photothrombotic and MCAo stroke models was
+determined by 2,3,5-triphenyltetrazoluim chloride (TTC) at staining
+24 h or 5 d poststroke. Infarct quantification was made by tracing the
+infarct zone of a high-contrast image of slices directly scanned with a
+high-resolution flatbed scanner (Scanjet G4050, Hewlett-Packard). To
+ensure that the same ischemic and normal areas of the brain were available, the same relative slice was used for each brain, and only those brains
+that had infarcts extending throughout the thickness of the slice and into
+a consecutive slice were included in the study, although only one slice was
+used for analysis. All scans were made at 4500 dpi with no color correction or image enhancement. Infarct area calculations (in square millimeters) were conservative in that only a clearly defined absence of TTCstained areas were considered the necrotic core area, and “pink” or more
+compromised areas were designated as healthy tissue for the purpose of
+analysis. Each slice was measured on the caudal and rostral sides three
+times each, and an average area of necrotic death for the slice was calculated using ImageJ software and mosaicJ plug-in. Any areas not clearly
+considered part of the necrotic core were measured and subtracted from
+the average area to ensure a conservative approach to the measurement of
+the necrotic core (found only in the MCAo model). Mice were killed by
+cervical dislocation, and their brains were removed and then placed in
+ice-cold HBSS for 3 min. The brain was subsequently transferred to a
+precision brain slicer, sliced into 1 mm sections, and immersed in 2%
+TTC for 5 min at 37°C. The sections were fixed in 10% buffered formaldehyde solution overnight at 4°C. TTC is a colorless dye that stains
+healthy brain tissue red when reduced by the mitochondrial enzyme
+succinyl dehydrogenase (Bederson et al., 1986). The absence of staining
+in necrotic tissue is then used to determine the area of a brain infarction.
+TTC staining is a postmortem basic standard in the field and served as
+our basic assessment tool for measuring infarct size.
+
+Statistical analysis
+All data were analyzed using ImageJ and Systat SigmaPlot version 12.5
+software. Quantitative data were expressed as the mean ⫾ SEM. Statistical comparisons were performed by one-way ANOVA followed by pairwise multiple-comparison Holm–Sidak test. Differences with p ⬍ 0.05
+were considered to be significant.
+
+Reagents and drug delivery
+In control experiments, neither laser illumination nor Rose Bengal injection (20 mg/ml; Sigma-Aldrich) itself led to clot formation. RTG (10.5
+mg/kg; AdooQ Bioscience) was coinjected with Rose Bengal into the tail
+vein at the time of stroke or at designated varying time points. NH29
+(10.0 mg/kg; from Bernard Attali, Tel Aviv University, Tel Aviv, Israel) or
+QO-58 (0.01 mg/kg; from Hailin Zhang, Hebei Medical University, Hebei, People’s Republic of China) were coinjected with RB into the tail vein
+at the time of stroke or at designated varying time points. The M-channel
+blocker XE991 (3.0 mg/kg; Tocris Bioscience) was also coinjected with
+RTG and/or RB at the time of the stroke. RTG administered after stroke
+was dissolved in aCSF.
+
+SDS-PAGE and Western blotting
+Brain tissue samples removed 24 h poststroke were flash frozen and
+stored at ⫺80°C until all samples were collected. Samples were homogenized in PBS, and supernatants were collected for 12.5% SDS-PAGE.
+
+Bierbower et al. • M-Channels Protect Brain after Ischemic Stroke
+
+Five microliters of the homogenized sample was loaded into each well
+used. The sample was prepared from taking a 1 ⫻ 1 mm square of tissue
+from the penumbral area of the brain slice. Each slice generated two
+samples, and, with three mice per experimental condition, there were
+therefore a total of six samples. A loading control dose of ␤-actin was
+used to ensure that the same amount of protein was used for all treatment
+conditions in the Western blot, and the data for CD40L were normalized
+to ␤-actin for quantitative measures. The standard BCA protein assay
+could not be used since it uses a color development reaction for analysis
+and our brain slices were stained with TTC to locate the stroke core and
+penumbral areas. Gels were run at 150 V for 90 min and then transferred
+to nitrocellulose transfer paper for 45 min at 35 mA. The nitrocellulose
+membrane was labeled by a monoclonal anti-CD40 primary antibody
+(1:1000; Abcam) overnight at 4°C after three washes with TBS-T. Then
+membranes were incubated in goat anti-mouse secondary antibody (1:
+2000; Sigma) for 45 min at room temperature in 5% nonfat milk dissolved in TBS-T, followed by enhanced chemiluminescence (GE
+Healthcare). Blots were then washed in TBS-T and put into monoclonal
+primary antibody ␤-actin (1:1000; Sigma) and mouse secondary antibody (1:2000; Sigma) for 45 min at room temperature in 5% nonfat milk
+dissolved in TBS-T. A total of 96 mice were used with 3 mice used per
+experiment.
+
+Neurological deficit behavior assessment
+Behavioral tests were performed only on photothrombotic mice due to
+profoundly severe motor impairment in MCAo stroked mice. All tests
+were performed in a soundproof room with a neutral environment in a
+blinded study. The animals were tested 24 h postoperatively.
+In the balance beam test (Stanley et al., 2005), mice were trained on a
+balance beam (104 cm long ⫻ 1.3 cm wide ⫻ 54.5 cm high) by placing
+each mouse on the balance beam at one end and requiring it to traverse
+the beam three times in one direction before any surgical experiments
+were performed to obtain optimal performance (see Fig. 5B). If the
+mouse stopped midway on the beam, it was gently nudged on its
+haunches to reinitiate movement during the training phase. Once the
+mouse made three complete trips across the beam in a single direction,
+three consecutive trials were recorded and scored for behavior. The total
+number of foot slips was counted from digital recordings for each trial
+and then averaged across the three trials for each mouse. For recording, a
+camera was positioned at a slight ventral angle so that all four limbs could
+be simultaneously recorded. First, each balance beam test was performed, and then the ladder dexterity test.
+In the ladder dexterity test (Metz and Whishaw, 2002), a horizontal
+ladder rung walking test apparatus (1 m long ⫻ 3 mm wide ⫻ 19 cm
+high) was placed 30 cm above the ground, and the rungs were placed 2 cm
+apart from each other (see Fig. 5C). Mice were trained on the ladder by
+placing each mouse at one end and requiring them to traverse the ladder
+three times in one direction. As described for the balance beam, a mouse
+that stopped was gently nudged to reinitiate movement. Once the mouse
+made three complete trips during the training phase, three consecutive
+trials were recorded and scored for the total number of foot slips, stumbles, and/or falls, which were counted from digital recordings for each
+trial, and then averaged across the three trials for each mouse. A camera
+was positioned at a perpendicular angle to capture foot slips through the
+ladder rungs (see Fig. 5B, red arrow). Experimental groups consisted of
+the following: (1) controls (no surgery), (2) sham surgery (skull thinning
+and RB injection, but no irradiation), (3) stroke (with RB injection only),
+(4) stroke with RTG, (5) stroke with XE991, (6) stroke with NH29, (7)
+stroke with QO-58, and (8) stroke with RTG plus XE991 coinjection (see
+Fig. 5A). For cohorts 2– 8, each mouse was tested before undergoing the
+stroke (or sham stroke). Thus, in addition to the control cohorts for the
+experimental animals, each mouse served as its own control.
+
+Results
+M-channel openers decrease acute transient cerebral infarcts
+in mice
+The first aim of our study was to investigate the neural protective
+efficacy of M-channel openers against ischemic injury. In those
+experiments, we tested the effects of M-channel openers RTG,
+
+J. Neurosci., February 4, 2015 • 35(5):2101–2111 • 2103
+
+NH29, and QO-58, as well as the blocker XE991, on infarct size in
+the parietal cortex. All M-channel openers were administered as
+single doses, applied at concentrations previously used in other
+studies, and predicted to exert a maximal effect on the channels.
+Thus, we used a pharmacological approach, which is also more
+directly relevant to the clinic. We mostly used the photothrombotic stroke model, which may correlate with TIAs often seen in
+humans. This is a minimally invasive technique and, thus, was
+our primary in vivo model. In brief, an acute cerebral infarction
+was induced in a small region in the mouse parietal cortex by
+occluding a blood vessel using the photosensitive dye RB and
+laser-induced photothrombosis. The skull of the mouse was
+thinned and irradiated with green laser light (561 nm) for ⬃10
+min after tail vein injection of RB. When RB is excited, singlet
+oxygen molecules that locally damage the blood vessel walls are
+formed, which ultimately triggers a thrombosis (Watson et al.,
+1985). We used this paradigm to visualize RB-induced cerebral
+infarctions. In the photothrombotic stroke model, the infarct size
+evolves such that maximal cell death effect is ultimately reached
+by 1–2 d after stroke (Braun et al., 1996; Zheng et al., 2010). Given
+that RTG can readily cross the blood– brain barrier, free concentrations in the brain are assumed to be those of plasma concentrations. The M-channel drugs used here are assumed to cross the
+stroke-induced breakdown of the blood– brain barrier, a disruption that has been shown by earlier studies focused on astrocytes
+(Longa et al., 1989; Zheng et al., 2010).
+Figure 1 illustrates the effect of M-channel openers and the
+blocker XE991 on the lesion sizes of brains removed 24 h after
+photothrombotic stroke. M-channel openers administered at the
+time of stroke significantly reduced the infarct size (RTG: 1.08 ⫾
+0.03 mm 2, p ⫽ 0.001, n ⫽ 8); NH29: 0.98 ⫾ 0.13 mm 2, p ⫽ 0.001,
+n ⫽ 5; and QO-58: 0.98 ⫾ 0.24 mm 2, p ⫽ 0.001, n ⫽ 5), compared with the stroke control group (2.00 ⫾ 0.03 mm 2, n ⫽ 5).
+On the other hand, the administration of XE991 significantly
+enhanced lesion size (3.93 ⫾ 0.32 mm 2, p ⬍ 0.001, n ⫽ 6). Coadministration of RTG plus XE991 resulted in a lesion size that
+was larger than that of controls (3.93 ⫾ 0.21 mm 2, p ⬍ 0.001, n ⫽
+6), indicating that the effect of RTG was due to effects on
+M-channels. Additionally, NH29 and QO-58 had effects that
+were indistinguishable from those of RTG, suggesting that upregulation of M-channels by openers, regardless of the compound, results in reductions in the infarction area induced by
+stroke. Thus, simultaneous administration of M-channel openers at the onset of ischemia significantly reduced the infarct area
+induced by the photothrombotic stroke.
+M-channel openers decrease MCAos in mice
+To further investigate the neuroprotective effects of M-channel
+openers on lesion size after more severe cerebrovascular events,
+we used the catastrophic stroke model, MCAo, which is known
+for severe debilitating effects and large areas of cell death. MCAo
+is the most frequently used model in translational stroke research
+involving catastrophic events resulting in cell death of almost a
+full hemisphere (Longa et al., 1989). As indicated in Figure 2, all
+three M-channel openers significantly decreased infarct volume
+after 60 min of occlusion and then reperfusion with brains removed 24 h poststroke. Infarct size was significantly reduced in
+conditions of stroke plus RTG administration (11.7 ⫾ 0.4 mm 2,
+p ⬍ 0.001, n ⫽ 6), stroke plus NH29 administration (11.0 ⫾ 0.2
+mm 2, p ⬍ 0.001, n ⫽ 6), and stroke plus QO-58 administration
+(11.6 ⫾ 0.3 mm 2, p ⬍ 0.001, n ⫽ 6), compared with the RB-only
+control group (16.6 ⫾ 0.2 mm 2, n ⫽ 5). In summary, using the
+
+2104 • J. Neurosci., February 4, 2015 • 35(5):2101–2111
+
+Bierbower et al. • M-Channels Protect Brain after Ischemic Stroke
+
+Figure 1. M-channel openers decrease acute transient cerebral infarcts in mice. A, Brains were removed 24 h poststroke and stained for live mitochondria at the time of sacrifice, using TTC
+staining. Necrotic tissue is identified in each panel (dashed rectangles) as the absence of red staining, indicating non-metabolically active mitochondria at the time of sacrifice. B, Bars show the
+average lesion area for stroke control, stroke plus retigabine-treated, stroke plus NH29-treated, stroke plus QO-58-treated, stroke plus XE991-treated and stroke plus RTG plus XE991-treated animals.
+Means are calculated from at least five mice for each point. All drugs were injected into the tail vein at the time of the stroke. ***p ⬍ 0.001.
+
+Figure 2. M-channel openers decrease middle cerebral artery occlusion infarcts. A, Images of brains removed and sliced 24 h poststroke and TTC stained from stroke mice, or from those stroked
+and injected with RTG, NH29, or QO-58 into the tail vein at the time of the stroke. B, Quantification of lesion size in the MCAo model, with reperfusion after 60 min. Bars show summarized data. N ⫽
+8 mice. ***p ⬍ 0.001.
+
+more catastrophic MCAo stroke model, we also showed a significant decrease in necrotic lesion size with the administration of
+RTG via the tail vein during reperfusion after a 60 min occlusion,
+as well as by administration of the structurally distinct compounds NH29 and QO-58. Thus, increasing the opening of
+M-channels results in significant decreases in lesion size after
+either a modest or a catastrophic ischemic event. We focused all
+further experiments on one channel opener, RTG. The advantage
+of using RTG in our studies is that it is available in the clinic in the
+U.S. under the trade name ezogabine and, thus, is probably most
+directly clinically relevant.
+
+Therapeutic time window of effectiveness for
+M-channel openers
+The possible clinical relevance of retigabine treatment was investigated by evaluating normalized infarct size following both photothrombotic and MCAo models at 1, 3, or 6 h poststroke, with
+brains removed at 24 h poststroke (Fig. 3). Figure 3A shows TTCstained brain slices obtained after either the photothrombotic
+(Fig. 3A, top) or the MCAo model (Fig. 3A, bottom). In strokeonly animals, significantly larger infarctions developed when
+compared with M-channel opener-treated animals or when RTG
+administration was delayed for up to 3 h. Delayed administration
+
+Bierbower et al. • M-Channels Protect Brain after Ischemic Stroke
+
+J. Neurosci., February 4, 2015 • 35(5):2101–2111 • 2105
+
+Figure 3. Therapeutic time window of effectiveness for M-channel openers. A, Brains were removed 24 h poststroke and stained for live mitochondria at the time of sacrifice, using TTC staining.
+Necrotic tissue is identified in each panel (dashed rectangles) as the absence of red staining, indicating non-metabolically active mitochondria at the time of sacrifice. B, Bars show the average lesion
+area for photothrombotic stroke, stroke plus retigabine treatment after 1 h, stroke plus retigabine treatment after 3 h, and stroke plus retigabine treatment after 6 h. C, Bars show the average lesion
+area for MCAo stroke, stroke plus retigabine treatment after 1 h, stroke plus retigabine treatment after 3 h, and stroke plus retigabine treatment after 6 h. Means are calculated from at least five mice
+for each point. D, All drugs were injected into the tail vein at various times after the stroke, as indicated by the arrows. *p ⬍ 0.05, ***p ⬍ 0.001.
+
+of RTG up to 3 h resulted in the same significant reduction in
+lesion size response as if it were given at the time of stroke for both
+stroke models (Fig. 3 B, C). For the photothrombotic stroke, infarct size was significantly reduced in stroke plus RTG administration at 1 h (0.99 ⫾ 0.07 mm 2, p ⬍ 0.001, n ⫽ 5), stroke plus
+RTG administration at 3 h (0.96 ⫾ 0.08 mm 2, p ⬍ 0.001, n ⫽ 5),
+and stroke plus RTG administration at 6 h (1.65 ⫾ 0.15 mm 2, p ⫽
+0.014, n ⫽ 5), when compared with the control group (2.0 ⫾ 0.1
+mm 2, n ⫽ 8). For the MCAo stroke, the infarct size was significantly reduced in stroke plus RTG administration at 1 h (11.1 ⫾
+0.7 mm 2, p ⬍ 0.001, n ⫽ 5), stroke plus RTG administration at
+3 h (11.3 ⫾ 0.5 mm 2, p ⬍ 0.001, n ⫽ 5), and stroke plus RTG
+administration at 6 h (15.5 ⫾ 0.2 mm 2, p ⫽ 0.008, n ⫽ 6), when
+compared with controls (16.6 ⫾ 0.6 mm 2, n ⫽ 6). For both stroke
+models, RTG administered 6 h after the stroke had reduced efficacy compared with RTG administered at 0, 1, or 3 h poststroke,
+but still significantly less than control animals, indicating a critical time window closer to 3 h than 6 h. These results suggest that
+the impact of RTG on lesion size and brain injury is dependent on
+the time of administration. Up to 6 h poststroke, M-channel
+openers were neuroprotective for cells in the penumbra region,
+whose viability would otherwise be metabolically compromised
+and thus would mostly likely not survive.
+Photothrombotic clot stability
+To test how long after the stroke onset the protective mechanism
+of RTG could be observed, experiments were performed to directly measure the size of photothrombotic lesions in brain slices
+after 1 and 5 d poststroke (Fig. 4). Consistent with previous experiments shown in this study, we found that RTG administered
+immediately after the photothrombosis resulted in significantly
+reduced brain infarcts (RTG: 0.93 ⫾ 0.13 mm, p ⬍ 0.001, n ⫽ 5)
+when compared with controls (stroke: 2.04 ⫾ 0.11 mm, n ⫽ 5)
+and that the reduction in infarct area was still significant in ani-
+
+mals 5 d after photothrombosis (stroke: 2.44 ⫾ 0.34 mm, n ⫽ 5;
+RTG: 0.92 ⫾ 0.07 mm, n ⫽ 5; p ⬍ 0.001). Furthermore, the
+infarct size was shown to significantly increase from day 1 to day
+5 in controls ( p ⫽ 0.008), whereas the infarct size after stroke plus
+RTG administration did not significantly change ( p ⫽ 0.485)
+over the same time frame. Thus, the clot is stable over time, and
+the effect of RTG on lesion size when administered in the therapeutic window shows consistent results.
+M-channel opener retigabine modulates CD40L as a cell
+injury marker for brain infarcts
+CD40 is a 45–50 kDa membrane protein of the tumor necrosis
+factor receptor family, which is important in cellular signaling,
+and is an early important contributor to tissue necrosis during
+acute ischemic infarction, with activation playing a key role in the
+inflammatory response. Various immune cells including B lymphocytes, T cells, monocytes, macrophages, and activated platelets have the capability to express CD40, in addition to many
+other cell types (Pamukcu et al., 2011). CD40 interaction with its
+ligand CD40L has been shown to be involved in inflammation
+and thrombosis, as well as to play a crucial role in cellular and
+humoral immune responses (Schönbeck et al., 1997). Additionally, CD40 expression can be induced by different proinflammatory stimuli such as IL-1, IL-3, and IL-4, as well as other factors.
+They usually appear on the cell surface within 6 –12 h and remain
+for 24 –72 h. The role of CD40-CD40L appears to be to induce
+endothelial cells to secrete chemokines and express adhesion
+molecules at the site of injury, and to recruit leukocytes. In Figure
+5, we analyzed Western blots of brain tissue lysates exposed to
+anti-CD40 antibodies to measure the amount of CD40L after the
+photothrombotic stroke for stroke-only and RTG-treated mice.
+Brains were removed 24 h poststroke. We predicted that strokeonly mice would have markedly increased levels of CD40Lexpressing cells compared with control mice, and that this would
+correlate with our histological data.
+
+2106 • J. Neurosci., February 4, 2015 • 35(5):2101–2111
+
+Bierbower et al. • M-Channels Protect Brain after Ischemic Stroke
+
+Figure 4. Photothrombotic clots remain after 5 d. A, Images of brains removed and stained with TTC at 5 d or 24 h poststroke from stroke-only mice or from mice stroked and injected with RTG
+into the tail vein at the time of stroke. B, Bars show the average size of lesions at 1 and 5 d after the photothrombotic stroke. Means are calculated from five mice for each time point. *p ⬍ 0.05,
+***p ⬍ 0.001. NS, Not significant.
+
+Figure 5A shows Western blot expression of CD40L in which
+we can detect clear CD40L-reactive bands at ⬃45 kDa. No
+CD40L was detectable in the nonstroked control mice or the
+contralateral hemisphere of stroked mice, compared with the
+ipsilateral hemisphere of stroke-only and RTG-treated photothrombotically stroked mice. Furthermore, the blot visually
+shows that untreated mice had an increased amount of CD40L,
+compared with RTG-treated mice for all time points. Quantitative analysis of the band intensity shown in Figure 5B shows that
+at 24 h after stroke the amount of CD40L was significantly decreased when RTG is administered during the therapeutic window of 0 h ( p ⬍ 0.001, n ⫽ 6) and 3 h ( p ⬍ 0.001, n ⫽ 6), but was
+not significant at 6 h after stroke ( p ⫽ 0.58, n ⫽ 6). Additionally,
+when RTG was administered during the 0 – 6 h therapeutic window and levels were sampled periodically over 5 d, there was a
+significant difference over time in the CD40L levels when compared with stroke-only animals at the same time points. Quantitative analysis of CD40L band intensity in Figure 5C shows that at
+1 d ( p ⬍ 0.001, n ⫽ 6), 3 d ( p ⬍ 0.001, n ⫽ 6), and 5 d ( p ⬍ 0.001,
+n ⫽ 6) poststroke the amount of CD40L was significantly reduced
+when compared with untreated animals at the same time points.
+Thus, pharmacological M-current enhancement ameliorates the
+inflammatory response that is central to brain injury after a
+stroke.
+M-channel openers improves poststroke motor function
+in mice
+With clear evidence of the efficacy of M-channel openers to reduce infarct size and to moderate the inflammatory response
+following strokes, we next probed for corresponding efficacy in
+reducing or preventing deficits in motor coordination commonly
+experienced after a stroke (Brima et al., 2013). As well accepted
+assays for motor coordination, we used the balance beam and
+ladder dexterity assays. Since MCAo is a commonly used model
+of catastrophic stroke, we attempted to look for a behavioral
+deficit after an MCAo event. However, due to the severe nature of
+the stroke outcome and the resulting complete inability of the
+
+mouse to perform the tasks on the balance beam and ladder
+dexterity tests, we did not use MCAo-stroked mice in behavioral
+assays. In many cases, these mice could not traverse the balance
+beam without falling off or scale the ladder in the ladder dexterity
+test without falling through; consequently, further testing after
+MCAo strokes was stopped, and we focused on the photothrombotic stroke model for behavioral testing (Fig. 6). This model has
+been shown to produce both motor and cognitive impairments in
+many other studies (Brima et al., 2013). Casual observation of the
+mice after lesion induction did not reveal any profound behavioral differences. They appeared to be unimpaired in their movements and readily ate after a few hours when placed back into
+their original cages. Behavioral testing consisted of watching for
+foot slips, defined as mis-steps, on behavioral apparatuses. Figure
+6A–C outlines the mouse groups involved in our behavioral testing and shows images of mice performing these two tests.
+Balance beam test
+To ensure that none of the M-channel openers, or RB, affect
+motor coordination on the balance beam test, we first assayed for
+behavioral effects before stroke experimentation. We found that
+RB only ( p ⫽ 0.504, n ⫽ 10), RTG ( p ⫽ 0.961, n ⫽ 11), NH29
+( p ⫽ 0.975, n ⫽ 6), or QO-58 ( p ⫽ 0.972, n ⫽ 6) did not show any
+significant difference in behavior, compared with controls. However, mice that were administered either XE991 ( p ⬍ 0.001, n ⫽
+8) or XE991 plus RTG ( p ⬍ 0.001, n ⫽ 10) showed a significant
+increase in the average number of mis-steps compared with the
+control group, suggesting that hyperexcitability induced by
+M-channel blockade itself affects motor coordination.
+Next, we examined the effect of drugs on behavioral responses
+using the balance beam test after photothrombotic stroke (Fig.
+6D). In comparing control mice (no operation or drugs, n ⫽ 16)
+with sham mice (operation only, n ⫽ 10), we found no statistical
+difference in behavior ( p ⫽ 0.91). However, the stroked mice
+displayed much slower progress on the balance beam, with significantly more mis-steps (RB-injection only: p ⬍ 0.001, n ⫽ 8;
+Movie 1). Remarkably, stroked mice that were administered
+
+Bierbower et al. • M-Channels Protect Brain after Ischemic Stroke
+
+J. Neurosci., February 4, 2015 • 35(5):2101–2111 • 2107
+
+Figure 5. The M-channel opener retigabine modulates CD40L as a cell injury marker. A, Western blotting analysis with anti-CD40 was performed to quantify levels of CD40L in infarct plus
+penumbra compared with normal contralateral hemispheres. CD40L was used to visualize the ischemic injury response with drug delivery at time points 0, 3, and 6 h poststroke (analysis conducted
+24 h after drug delivery), as well as on days 1, 3, and 5 (with drug administered at 0 h). The relative expression of CD40L protein was determined by normalization to ␤-actin. Western blots are
+representative of multiple independent experiments. N ⫽ 6. B, Quantitative analysis of CD40 protein normalized to ␤-actin shows significant differences when RTG was administered during the
+therapeutic window. C, Quantitative analysis of CD40 protein normalized to ␤-actin of RTG given at 0 h with sampling of CD40L over 5 d shows a significant decrease with RTG administration and
+significant changes over time. Line graphs show the relative expression of CD40 protein. The most relevant statistically significant differences are shown between ipsilateral–no drug and
+ipsilateral–retigabine time points. All drugs were injected into the tail vein at various designated time points. Data are presented as the mean ⫾ SEM. *p ⬍ 0.05, **p ⬍ 0.01, ***p ⬍ 0.0001.
+
+three different M-channel openers showed no significant differences in behavior, compared with the sham controls (stroke plus
+RTG administration: p ⫽ 0.43, n ⫽ 6; stroke plus NH29 administration: p ⫽ 0.72, n ⫽ 6; and stroke plus QO-58 administration:
+p ⫽ 0.69, n ⫽ 6), and thus performed significantly better than
+stroked mice not administered any of the M-channel openers
+(stroke plus RTG administration: p ⬍ 0.001, n ⫽ 6; stroke plus
+NH29 administration: p ⬍ 0.001, n ⫽ 6; stroke plus QO-58 administration: p ⬍ 0.001, n ⫽ 6). Indeed, for all three openers, the
+performance of the mice on the balance beam was indistinguishable from the controls or shams. Conversely, mice that had undergone stroke plus XE991 administration ( p ⬍ 0.001, n ⫽ 6) and
+stroke plus XE991 plus RTG administration ( p ⬍ 0.001, n ⫽ 10)
+performed very poorly on the balance beam test (Fig. 6D), with
+much greater numbers of mis-steps, stumbles, and long hesitations, consistent with fear-like responses (Movie 1).
+Ladder dexterity test
+To ensure that none of the M-channel openers, or RB, affect
+motor coordination on the ladder dexterity test, we first assayed
+for behavioral effects before stroke experimentation. We found
+that RB only ( p ⫽ 0.504, n ⫽ 10), RTG ( p ⫽ 0.961, n ⫽ 11),
+
+NH29 ( p ⫽ 0.975, n ⫽ 6), or QO-58 ( p ⫽ 0.972, n ⫽ 6) did not
+show any significant differences in behavior, compared with controls. However, mice administered either XE991 ( p ⬍ 0.001, n ⫽
+8) or XE991 plus RTG ( p ⬍ 0.001, n ⫽ 10) showed a significant
+increase in the average number of mis-steps compared with the
+control group, suggesting that hyperexcitability induced by
+M-channel blockade affects motor coordination.
+The findings for the ladder dexterity test were similar to those
+seen for the balance beam test after photothrombotic stroke (Fig.
+6E). Again, we compared control mice (no drugs, n ⫽ 16) to
+sham mice (operation only, n ⫽ 10) and found no statistical
+difference in behavior ( p ⫽ 0.98). However, the stroked mice
+displayed much slower progress on the balance beam, with significantly more mis-steps, compared with sham controls (RB only: p ⬍
+0.001, n ⫽ 8). Remarkably, mice with stroke plus RTG administration ( p ⫽ 0.99, n ⫽ 6), stroke plus NH29 administration ( p ⫽
+0.99, n ⫽ 6), and stroke plus QO-58 administration ( p ⫽ 0.99,
+n ⫽ 6) again displayed no significant deficits in behavior, compared with the sham controls (Movie 2). Thus, the administration of all three M-channel openers at the time of the stroke
+completely prevented deficits in motor coordination resulting
+from photothrombotic strokes, and those mice showed a signif-
+
+2108 • J. Neurosci., February 4, 2015 • 35(5):2101–2111
+
+Bierbower et al. • M-Channels Protect Brain after Ischemic Stroke
+
+Figure 6. M-channelopenerspreservepoststrokemotorfunction.A,Experimentalparadigmandcohortsofmicetobetested.Foreachtest,thecohortswerecontrols(nosurgery);shamsurgery;strokeonly
+(nodrugadministration);strokewithRTG,NH29,QO-58,andXE991administration;orstrokewithRTGplusXE991administration.B,Imageofamouseonthebalancebeam,withazoomedviewintheinset.C,
+Imageofamouseontheladderdexteritytest,withazoomedviewfromaboveintheinset.Anexampleofamis-stepisindicatedbytheredarrow.D,Summaryofbehavioraldataforthebalancebeamtestresults
+ofmicetowhichdrugswereadministered.E,Summaryofbehavioraldatafortheladderdexteritytestresultsofmicetowhichdrugswereadministered.Thenumbersofmicetestedisgivenwithineachbar.The
+numberofmis-stepsisdramaticallyincreasedinthemicethatwerenotgivenanM-channelopenerorwerecoinjectedwithRTGplusXE991inbothbehavioralmodels.***p⬍0.001forshamandstrokecomparisons.
+
+Movie 1. Enhancement of neuroprotection in stroked mice correlated with the preservation of
+motor functions to prestroke levels on the balance beam behavioral test. The multimedia file shows
+movement and foot slips for examples of mice from each cohort that traversed the balance beam.
+
+icant decrease in the average number of mis-steps, compared
+with stroke-only mice (stroke plus RTG administration mice: p ⬍
+0.001, n ⫽ 6; stroke plus NH29 administration mice: p ⬍ 0.001,
+n ⫽ 6; and stroke plus QO-58 administration mice: p ⬍ 0.001,
+n ⫽ 6). Conversely, the motor coordination displayed on the
+
+Movie 2. Enhancement of neuroprotection in stroked mice correlated with the preservation of
+motorfunctionstoprestrokelevelsontheladderdexteritytest.Themultimediafileshowsmovement
+andfootslipsforexamplesofmicefromeachcohortthattraversedtheladderintheladderdexteritytest.
+
+ladder dexterity test of stroked mice given the M-channel blocker
+(either with or without RTG) was, again, much worse than that of
+the sham controls (stroke plus XE991 administration mice: p ⬍
+0.001, n ⫽ 6; stroke plus XE991 plus RTG administration mice:
+
+Bierbower et al. • M-Channels Protect Brain after Ischemic Stroke
+
+p ⬍ 0.001, n ⫽ 10; Movie 2). Again, such mice exhibited much
+greater numbers of mis-steps, stumbles, and long hesitations,
+which is consistent with fear-like responses. Thus, we obtained
+the stunning result that M-channel openers wholly ablate deficits
+in motor coordination produced by the moderate strokes induced in the photothrombotic model, and that this efficacy is
+very likely due to specific actions of the drugs on M-channels.
+
+Discussion
+We show that the augmentation of M-channel activity after experimental stroke in mice results in both histologically and functionally neuroprotective outcomes. An obvious improvement
+was shown in M-channel opener-treated mice in the reduction of
+brain injury and functional impairment. The enhanced protection was less effective when the M-channel openers were used
+outside a clearly defined critical period of time (the “therapeutic
+window”) and was prevented by M-channel blockade. The in vivo
+neuroprotective effects are likely caused by decreased excitotoxicity, which is known to heavily contribute to ischemic cell death.
+Our working model assumes that by decreasing the excitability
+of, or “silencing,” neurons, we can rescue neurons in the penumbral region that are metabolically compromised but not yet damaged beyond repair. Furthermore, we established that enhanced
+neuroprotection correlates with in vivo administration of
+M-channel openers in models of both transient ischemic attacks
+and more catastrophic strokes. Finally, the enhancement of neuroprotection in stroked mice correlated with complete preservation of motor function. Since lesion size was consistent in the
+photothrombotic model, our behavioral test results support our
+histological findings.
+Other pharmacological interventions specifically targeting
+neurons in the brain have failed to demonstrate efficacy in the
+clinic for decades. These include drugs targeting the AMPA and
+NMDA types of glutamate receptors; Na ⫹, K ⫹, and Ca 2⫹ channels; and GABAA receptor agonists, with most of the failures due
+to lack of specificity, unacceptable side effects, or lack of efficacy
+in human brain (Donnan et al., 2008). Given the parallel molecular events occurring from seizures and vascular brain injuries,
+others have previously hypothesized that antiepileptic drugs to be
+efficacious against stroke-induced morbidity as well; however, all
+those drugs targeting excitatory ion channels or GABAA receptors have proven to be of marginal use (Calabresi et al., 2003).
+Interestingly, hyperexcitability underlies not only the pathophysiology of epileptic seizures, but also of chronic pain (Abogadie et
+al., 2002), and M-current openers are under investigation as an
+antinociception therapy as well (Miceli et al., 2008; Fleckenstein
+et al., 2013).
+Despite having different structures, the compounds RTG,
+NH29, and QO-58 all had similar effects. The effects of RTG were
+blocked when RTG plus XE991 were coadministered, suggesting
+that the effects of RTG are mediated by specific actions on
+M-channels. Furthermore, doses of RTG at 10 mg/kg (⬃0.05 ␮M)
+are within known effective ranges and under the maximally tolerated dose achieved in humans at 20 mg/kg/d (⬃0.1 ␮M;
+Gunthorpe et al., 2012). We note that the administration of
+XE991 alone at the time of the stroke resulted in an exacerbated
+lesion size and behavioral deficits, which is consistent with XE991
+causing hyperexcitability (Zaczek et al., 1998) and with proper
+M-channel function being critical to neuronal survival. This is
+important, because M current is famously depressed by stimulation of Gq/11-coupled receptors, with its namesake muscarinic
+(M1) receptors being the most classic. Thus, we predict that cholinergic input to brain regions, such as the hippocampus (which
+
+J. Neurosci., February 4, 2015 • 35(5):2101–2111 • 2109
+
+is also the primary locus of temporal lobe seizures), that are
+known to have strong acetylcholine (ACh) release (Cobb and
+Davies, 2005; Lawrence et al., 2006) will exacerbate strokeinduced damage via closure of M-channels. Moreover, such cholinergic tone also stimulates excitatory ionotropic nicotinic ACh
+receptors, adding to excitotoxicity. It will be interesting to know
+whether cholinergic antagonists can have neuroprotective efficacy via these mechanisms.
+It is widely accepted that a disruption of GABAergic synaptic
+transmission plays a pivotal role in neuronal hyperexcitability
+and, specifically, that a decrease of inhibitory responses contributes to the generation of ischemic insults (Pentón-Rol et al.,
+2011). Additionally, other studies (Zhou et al., 2008) have suggested that neuroprotection can occur from increased activity of
+GABA receptors that inhibits NMDA receptor-mediated nitric
+oxide (NO) production by neuronal NO synthase during ischemia. Furthermore, NO was shown to inhibit M-current in
+small-diameter trigeminal ganglion neurons, ultimately increasing excitability (Ooi et al., 2013). In the last few years, the role of
+excitatory amino acids in ischemic brain injury has become well
+established (McCulloch and Iversen, 1991). Glutamate is the
+most common excitatory neurotransmitter in the CNS and has
+been shown to be released excessively during ischemia (Guyot et
+al., 2001). Cerebral ischemia correlates with a rapid increase in
+extracellular glutamate, regardless of the primary cause of the
+ischemic insult, initiating a sequence of neurochemical events
+resulting in neuronal death.
+The idea that the augmentation of K ⫹ channels in the brain
+could be neuroprotective during strokes has precedent. The compound BMS-204352 targeted Ca 2⫹-sensitive maxi-K and KCNQ
+channels with the rationale of preventing pathological hyperexcitability of ischemic neurons, causing high levels of intracellular
+Ca 2⫹, but that strategy was ultimately unsuccessful (Gribkoff et
+al., 2001). However, that research provided the valuable insight
+that drugs causing excessive activation of K ⫹ channels may have
+deleterious effects as well significant differences in effects at various dosing levels. Other K ⫹ channels tested in mice using this
+strategy have included the “two-pore, leak” (TASK, TRAAK) and
+KATP-gated (Kir6; Sun and Feng, 2013) types. For the two-pore
+types, inhibition or gene deletion of TASK1 channels, which are
+also enhanced by reactive oxygen species, increased the severity of
+MCAo strokes (Meuth et al., 2009), whereas gene deletion of
+TRAAK decreased the severity (Laigle et al., 2012). A neuroprotective role for Kir6 channels that are opened by depletion of ATP
+is logical; however, results suggesting that blockade of these channels by glibenclamide (Simard et al., 2009) actually improves
+poststroke outcomes in rats and the severe cross talk with those
+channels in the heart cast doubt on the utility of this target. A
+thorough study from the Clapham laboratory (Wu et al., 2012)
+highlighted voltage-gated proton channels (Hv1) as contributing
+to stroke-induced brain injury via participation in NADPH
+oxidase-mediated ROS production, and novel Hv1 therapeutics
+would indeed be interesting to test. Importantly, in none of these
+studies were results from modest stroke models, corresponding
+with the ischemic events commonly experienced in people, evaluated, as we do here. KCNQ1, KCNQ4, and KCNQ5 are expressed in vascular smooth muscle, and have been shown to be
+potent potential targets against vasoconstriction (Mackie et al.,
+2008), including cerebral vasospasm (Mani et al., 2013). Finally,
+the same photothrombotic stroke model as used in this study was
+used to implicate astrocyte metabolism in providing protection
+against brain injury (Zheng et al., 2010, 2013), and combinatorial
+
+2110 • J. Neurosci., February 4, 2015 • 35(5):2101–2111
+
+therapy targeting neurons and astrocytes simultaneously is predicted to be powerfully efficacious in both animals and people.
+Early work used a baboon model to show that after the onset
+of focal ischemia, measurements of electrical activity uncovered
+electrically silent regions, such as the penumbra, that were dysfunctional, but metabolically were not yet dead (Astrup et al.,
+1977). Thus, the challenge becomes to either restore adequate
+blood flow quickly after vessel occlusion or to protect viable tissue from mechanisms that lead to cell and brain tissue death.
+Importantly, although neurological dysfunction occurs immediately seconds to minutes after ischemic insult, the progression of
+ischemic injury and cell death continues in stages from minutes
+to days. Within the ischemic penumbra, multiple mechanisms
+have been identified over the past few decades that lead to irreversibly damaged brain tissue. Early restoration of blood flow by
+breakdown of the clot is known to decrease ischemic injury and
+this is done through the only Food and Drug Administrationapproved treatment, tissue plasminogen activator (tPA). However, tPA is only used in ⬍10% of patients and not at all after ⬃4
+h, since it has been shown to increase the risk of hemorrhage into
+the ischemic tissue. Furthermore, tPA may have other risks such
+as injury to the blood– brain barrier, activation of matrix metalloproteinases (Wang et al., 2003), and increased excitotoxicity in
+some experimental models (Nicole et al., 2001). Thus, combination therapies that ameliorate these effects may extend the therapeutic window of tPA while also mitigating the untoward
+effects. In the case of limited blood supply, ischemic cell death
+cannot be equated with limited ATP availability only, but rather
+tissue death develops as a result of numerous biochemical and
+cellular events that further stress the already compromised tissue
+(for a review, see Lo, 2008).
+More than 20 years of research has focused on discovering and
+developing neuroprotective agents that might intervene in the
+ischemic cascade. Thus far, no protective agent has been shown to
+improve outcome in phase III clinical trials, but newer approaches continue to be investigated. Importantly, relatively few
+drugs have been shown to be neuroprotective (decrease infarction), and in fact many are known to cause acute brain edema and
+hemorrhagic transformation of the infarct. VEGF has been
+shown to aid in recovery (Sun et al., 2003), and purinergic agonists (Zheng et al., 2010) targeting astrocytes have shown rapid
+effects. Here, we show a viable option for protection of neuronal
+tissue without the additional insults to the already compromised
+brain and suggest that neuroprotection through specific openers
+of M-type potassium channels does not activate a global potassium channel response that worsens the chaotic poststroke environment. M-channel openers have the potential to reduce brain
+injury after modest and severe cerebrovascular events, and to
+preserve poststroke motor function, making them strong candidates to be tested for treatment of stroke in the clinic.
+
+References
+Abogadie FC, Bron R, Marsh SJ, Drew LJ, Haley JE, Buckley NJ, Brown DA,
+Delmas P (2002) Adenovirus-mediated G␣q-protein antisense transfer
+in neurons replicates G␣q gene knockout strategies. Neuropharmacology
+42:950 –957. CrossRef Medline
+Astrup J, Symon L, Branston NM, Lassen NA (1977) Cortical evoked potential and extracellular K⫹ and H⫹ at critical levels of brain ischemia.
+Stroke 8:51–57. CrossRef Medline
+Bederson JB, Pitts LH, Germano SM, Nishimura MC, Davis RL, Bartkowski
+HM (1986) Evaluation of 2,3,5-triphenyltetrazolium chloride as a stain
+for detection and quantification of experimental cerebral infarction in
+rats. Stroke 17:1304 –1308. CrossRef Medline
+Biervert C, Schroeder BC, Kubisch C, Berkovic SF, Propping P, Jentsch TJ,
+
+Bierbower et al. • M-Channels Protect Brain after Ischemic Stroke
+Steinlein OK (1998) A potassium channel mutation in neonatal human
+epilepsy. Science 279:403– 406. CrossRef Medline
+Boscia F, Annunziato L, Taglialatela M (2006) Retigabine and flupirtine exert neuroprotective actions in organotypic hippocampal cultures. Neuropharmacology 51:283–294. CrossRef Medline
+Braun JS, Jander S, Schroeter M, Witte OW, Stoll G (1996) Spatiotemporal
+relationship of apoptotic cell death to lymphomonocytic infiltration in
+photochemically induced focal ischemia of the rat cerebral cortex. Acta
+Neuropathol 92:255–263. CrossRef Medline
+Brima T, Mikulecká A, Otáhal J (2013) Impacts of perinatal induced photothrombotic stroke on sensorimotor performance in adult rats. Physiol Res
+62:85–94. Medline
+Calabresi P, Cupini LM, Centonze D, Pisani F, Bernardi G (2003) Antiepileptic drugs as a possible neuroprotective strategy in brain ischemia. Ann
+Neurol 53:693–702. CrossRef Medline
+Cheng YD, Al-Khoury L, Zivin JA (2004) Neuroprotection for ischemic
+stroke: two decades of success and failure. NeuroRx 1:36 – 45. CrossRef
+Medline
+Cobb SR, Davies CH (2005) Cholinergic modulation of hippocampal cells
+and circuits. J Physiol 562:81– 88. CrossRef Medline
+Delmas P, Brown DA (2005) Pathways modulating neural KCNQ/M (Kv7)
+potassium channels. Nat Rev Neurosci 6:850 – 862. CrossRef Medline
+Donnan GA, Fisher M, Macleod M, Davis SM (2008) Stroke. Lancet 371:
+1612–1623. CrossRef Medline
+Fleckenstein J, Sittl R, Averbeck B, Lang PM, Irnich D, Carr RW (2013)
+Activation of axonal Kv7 channels in human peripheral nerve by flupirtine but not placebo—therapeutic potential for peripheral neuropathies:
+results of a randomised controlled trial. J Transl Med 11:34. CrossRef
+Medline
+Gamper N, Shapiro MS (2006) Exogenous expression of proteins in neurons using the biolistic particle delivery system. Methods Mol Biol 337:
+27–38. CrossRef Medline
+Gribkoff VK, Starrett JE Jr, Dworetzky SI, Hewawasam P, Boissard CG, Cook
+DA, Frantz SW, Heman K, Hibbard JR, Huston K, Johnson G, Krishnan
+BS, Kinney GG, Lombardo LA, Meanwell NA, Molinoff PB, Myers RA,
+Moon SL, Ortiz A, Pajor L, et al. (2001) Targeting acute ischemic stroke
+with a calcium-sensitive opener of maxi-K potassium channels. Nat Med
+7:471– 477. CrossRef Medline
+Gunthorpe MJ, Large CH, Sankar R (2012) The mechanism of action of
+retigabine (ezogabine), a first-in-class K⫹ channel opener for the treatment of epilepsy. Epilepsia 53:412– 424. CrossRef Medline
+Guyot LL, Diaz FG, O’Regan MH, McLeod S, Park H, Phillis JW (2001)
+Real-time measurement of glutamate release from the ischemic penumbra of the rat cerebral cortex using a focal middle cerebral artery occlusion
+model. Neurosci Lett 299:37– 40. CrossRef Medline
+Laigle C, Confort-Gouny S, Le Fur Y, Cozzone PJ, Viola A (2012) Deletion
+of TRAAK potassium channel affects brain metabolism and protects
+against ischemia. PLoS One 7:e53266. CrossRef Medline
+Lawrence JJ, Saraga F, Churchill JF, Statland JM, Travis KE, Skinner FK,
+McBain CJ (2006) Somatodendritic Kv7/KCNQ/M channels control interspike interval in hippocampal interneurons. J Neurosci 26:12325–
+12338. CrossRef Medline
+Lo EH (2008) Experimental models, neurovascular mechanisms and translational issues in stroke research. Br J Pharmacol 153 [Suppl 1]:S396 –
+S405. CrossRef
+Longa EZ, Weinstein PR, Carlson S, Cummins R (1989) Reversible middle
+cerebral artery occlusion without craniectomy in rats. Stroke 20:84 –91.
+CrossRef Medline
+Mackie AR, Brueggemann LI, Henderson KK, Shiels AJ, Cribbs LL, Scrogin
+KE, Byron KL (2008) Vascular KCNQ potassium channels as novel targets for the control of mesenteric artery constriction by vasopressin, based
+on studies in single cells, pressurized arteries, and in vivo measurements
+of mesenteric vascular resistance. J Pharmacol Exp Ther 325:475– 483.
+CrossRef Medline
+Main MJ, Cryan JE, Dupere JR, Cox B, Clare JJ, Burbidge SA (2000) Modulation of KCNQ2/3 potassium channels by the novel anticonvulsant
+retigabine. Mol Pharmacol 58:253–262. CrossRef Medline
+Mani BK, O’Dowd J, Kumar L, Brueggemann LI, Ross M, Byron KL (2013)
+Vascular KCNQ (Kv7) potassium channels as common signaling intermediates and therapeutic targets in cerebral vasospasm. J Cardiovasc
+Pharmacol 61:51– 62. CrossRef Medline
+McCulloch J, Iversen LL (1991) Autoradiographic assessment of the effects
+
+Bierbower et al. • M-Channels Protect Brain after Ischemic Stroke
+of N-methyl-D-aspartate (NMDA) receptor antagonists in vivo. Neurochem Res 16:951–963. CrossRef Medline
+Metz GA, Whishaw IQ (2002) Cortical and subcortical lesions impair
+skilled walking in the ladder rung walking test: a new task to evaluate foreand hindlimb stepping, placing, and co-ordination. J Neurosci Methods
+115:169 –179. CrossRef Medline
+Meuth SG, Kleinschnitz C, Broicher T, Austinat M, Braeuninger S, Bittner S,
+Fischer S, Bayliss DA, Budde T, Stoll G, Wiendl H (2009) The neuroprotective impact of the leak potassium channel TASK1 on stroke development in mice. Neurobiol Dis 33:1–11. CrossRef Medline
+Miceli F, Soldovieri MV, Martire M, Taglialatela M (2008) Molecular pharmacology and therapeutic potential of neuronal Kv7-modulating drugs.
+Curr Opin Pharmacol 8:65–74. CrossRef Medline
+Nicole O, Docagne F, Ali C, Margaill I, Carmeliet P, MacKenzie ET, Vivien D,
+Buisson A (2001) The proteolytic activity of tissue-plasminogen activator enhances NMDA receptor-mediated signaling. Nat Med 7:59 – 64.
+CrossRef Medline
+Ooi L, Gigout S, Pettinger L, Gamper N (2013) Triple cysteine module
+within M-type K ⫹ channels mediates reciprocal channel modulation by
+nitric oxide and reactive oxygen species. J Neurosci 33:6041– 6046.
+CrossRef Medline
+Pamukcu B, Lip GY, Snezhitskiy V, Shantsila E (2011) The CD40-CD40L
+system in cardiovascular disease. Ann Med 43:331–340. CrossRef Medline
+Pentón-Rol G, Marín-Prida J, Pardo-Andreu G, Martínez-Sánchez G, AcostaMedina EF, Valdivia-Acosta A, Lagumersindez-Denis N, Rodríguez-Jiménez E,
+Llópiz-Arzuaga A, López-Saura PA, Guillén-Nieto G, Pentón-Arias E (2011)
+C-Phycocyanin is neuroprotective against global cerebral ischemia/reperfusion
+injury in gerbils. Brain Res Bull 86:42–52. CrossRef Medline
+Peters HC, Hu H, Pongs O, Storm JF, Isbrandt D (2005) Conditional transgenic suppression of M channels in mouse brain reveals functions in
+neuronal excitability, resonance and behavior. Nat Neurosci 8:51– 60.
+CrossRef Medline
+Rundfeldt C, Netzer R (2000) Investigations into the mechanism of action
+of the new anticonvulsant retigabine. Interaction with GABAergic and
+glutamatergic neurotransmission and with voltage gated ion channels.
+Arzneimittelforschung 50:1063–1070. CrossRef Medline
+Schönbeck U, Mach F, Bonnefoy JY, Loppnow H, Flad HD, Libby P (1997)
+Ligation of CD40 activates interleukin 1beta-converting enzyme
+(caspase-1) activity in vascular smooth muscle and endothelial cells and
+promotes elaboration of active interleukin 1beta. J Biol Chem 272:19569 –
+19574. CrossRef Medline
+Sidney S, Rosamond WD, Howard VJ, Luepker RV (2013) The “heart disease
+and stroke statistics—2013 update” and the need for a national cardiovascular surveillance system. Circulation 127:21–23. CrossRef Medline
+Simard JM, Yurovsky V, Tsymbalyuk N, Melnichenko L, Ivanova S, Gerzanich V (2009) Protective effect of delayed treatment with low-dose glibenclamide in three models of ischemic stroke. Stroke 40:604 – 609.
+CrossRef Medline
+Singh NA, Charlier C, Stauffer D, DuPont BR, Leach RJ, Melis R, Ronen GM,
+Bjerre I, Quattlebaum T, Murphy JV, McHarg ML, Gagnon D, Rosales
+TO, Peiffer A, Anderson VE, Leppert M (1998) A novel potassium channel gene, KCNQ2, is mutated in an inherited epilepsy of newborns. Nat
+Genet 18:25–29. CrossRef Medline
+Singh NA, Otto JF, Dahle EJ, Pappas C, Leslie JD, Vilaythong A, Noebels JL,
+White HS, Wilcox KS, Leppert MF (2008) Mouse models of human
+KCNQ2 and KCNQ3 mutations for benign familial neonatal convulsions
+
+J. Neurosci., February 4, 2015 • 35(5):2101–2111 • 2111
+show seizures and neuronal plasticity without synaptic reorganization.
+J Physiol 586:3405–3423. CrossRef Medline
+Stanley JL, Lincoln RJ, Brown TA, McDonald LM, Dawson GR, Reynolds DS
+(2005) The mouse beam walking assay offers improved sensitivity over
+the mouse rotarod in determining motor coordination deficits induced
+by benzodiazepines. J Psychopharmacol 19:221–227. CrossRef Medline
+Sugawara T, Fujimura M, Noshita N, Kim GW, Saito A, Hayashi T,
+Narasimhan P, Maier CM, Chan PH (2004) Neuronal death/survival
+signaling pathways in cerebral ischemia. NeuroRx 1:17–25. CrossRef
+Medline
+Sun HS, Feng ZP (2013) Neuroprotective role of ATP-sensitive potassium
+channels in cerebral ischemia. Acta Pharmacol Sin 34:24 –32. CrossRef
+Medline
+Sun Y, Jin K, Xie L, Childs J, Mao XO, Logvinova A, Greenberg DA (2003)
+VEGF-induced neuroprotection, neurogenesis, and angiogenesis after focal cerebral ischemia. J Clin Invest 111:1843–1851. CrossRef Medline
+Wang HS, McKinnon D (1995) Potassium currents in rat prevertebral and
+paravertebral sympathetic neurones: control of firing properties. J Physiol
+485:319 –335. CrossRef Medline
+Wang X, Lee SR, Arai K, Lee SR, Tsuji K, Rebeck GW, Lo EH (2003) Lipoprotein receptor-mediated induction of matrix metalloproteinase by tissue plasminogen activator. Nat Med 9:1313–1317. CrossRef Medline
+Watson BD, Dietrich WD, Busto R, Wachtel MS, Ginsberg MD (1985) Induction of reproducible brain infarction by photochemically initiated
+thrombosis. Ann Neurol 17:497–504. CrossRef Medline
+Wickenden AD, Yu W, Zou A, Jegla T, Wagoner PK (2000) Retigabine, a
+novel anti-convulsant, enhances activation of KCNQ2/Q3 potassium
+channels. Mol Pharmacol 58:591– 600. CrossRef Medline
+Wu LJ, Wu G, Akhavan Sharif MR, Baker A, Jia Y, Fahey FH, Luo HR, Feener
+EP, Clapham DE (2012) The voltage-gated proton channel Hv1 enhances brain damage from ischemic stroke. Nat Neurosci 15:565–573.
+CrossRef Medline
+Yamato M, Egashira T, Utsumi H (2003) Application of in vivo ESR spectroscopy to measurement of cerebrovascular ROS generation in stroke.
+Free Radic Biol Med 35:1619 –1631. CrossRef Medline
+Zaczek R, Chorvat RJ, Saye JA, Pierdomenico ME, Maciag CM, Logue AR, Fisher BN,
+Rominger DH, Earl RA (1998) Two new potent neurotransmitter release enhancers, 10,10-bis(4- pyridinylmethyl)-9(10H)-anthracenone and 10,10-bis(2fluoro-4- pyridinylmethyl)-9(10H)-anthracenone: comparison to linopirdine.
+J Pharmacol Exp Ther 285:724–730. Medline
+Zhao J, Kobori N, Aronowski J, Dash PK (2006) Sulforaphane reduces infarct volume following focal cerebral ischemia in rodents. Neurosci Lett
+393:108 –112. CrossRef Medline
+Zheng W, Watts LT, Holstein DM, Prajapati SI, Keller C, Grass EH, Walter
+CA, Lechleiter JD (2010) Purinergic receptor stimulation reduces cytotoxic edema and brain infarcts in mouse induced by photothrombosis by
+energizing glial mitochondria. PLoS One 5:e14401. CrossRef Medline
+Zheng W, Talley Watts L, Holstein DM, Wewer J, Lechleiter JD (2013)
+P2Y1R-initiated, IP3R-dependent stimulation of astrocyte mitochondrial
+metabolism reduces and partially reverses ischemic neuronal damage in
+mouse. J Cereb Blood Flow Metab 33:600 – 611. CrossRef Medline
+Zhou C, Li C, Yu HM, Zhang F, Han D, Zhang GY (2008) Neuroprotection
+of gamma-aminobutyric acid receptor agonists via enhancing neuronal
+nitric oxide synthase (Ser847) phosphorylation through increased neuronal nitric oxide synthase and PSD95 interaction and inhibited protein
+phosphatase activity in cerebral ischemia. J Neurosci Res 86:2973–2983.
+CrossRef Medline
+
+

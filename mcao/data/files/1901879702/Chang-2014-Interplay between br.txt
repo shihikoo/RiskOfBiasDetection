@@ -1,0 +1,914 @@
+Neurobiology of Disease 71 (2014) 292–304
+
+Contents lists available at ScienceDirect
+
+Neurobiology of Disease
+journal homepage: www.elsevier.com/locate/ynbdi
+
+Interplay between brain stem angiotensins and monocyte
+chemoattractant protein-1 as a novel mechanism for pressor
+response after ischemic stroke
+Alice Y.W. Chang a,b,c,d,⁎,1, Faith C.H. Li a, Chi-Wei Huang d,e, Julie C.C. Wu a, Kuang-Yu Dai a, Chang-Han Chen a,
+Shau-Hsuan Li f, Chia-Hao Su a, Re-Wen Wu g
+a
+
+Center for Translational Research in Biomedical Sciences, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung, Taiwan, ROC
+Department of Physiology, National Cheng Kung University, Tainan, Taiwan, ROC
+c
+Department of Pharmacology, Kaohsiung Medical University, Kaohsiung, Taiwan, ROC
+d
+Department of Biological Science, National Sun Yat-sen University, Kaohsiung, Taiwan, ROC
+e
+Department of Neurology, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung, Taiwan, ROC
+f
+Department of Hematology and Oncology, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung, Taiwan, ROC
+g
+Department of Orthopedics, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung, Taiwan, ROC
+b
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 4 January 2014
+Revised 3 July 2014
+Accepted 2 August 2014
+Available online 12 August 2014
+Keywords:
+Ischemic stroke
+Middle cerebral artery occlusion
+Pressor response after stroke
+Angiotensin isoforms and receptors
+Monocyte chemoattractant protein-1
+Neuroinﬂammation
+Aliskiren
+Rostral ventrolateral medulla
+
+a b s t r a c t
+Pressor response after stroke commonly leads to early death or susceptibility to stroke recurrence, and detailed
+mechanisms are still lacking. We assessed the hypothesis that the renin–angiotensin system contributes to pressor
+response after stroke by differential modulation of the pro-inﬂammatory chemokine monocyte chemoattractant
+protein-1 (MCP-1) in the rostral ventrolateral medulla (RVLM), a key brain stem site that maintains blood pressure. We also investigated the beneﬁcial effects of a novel renin inhibitor, aliskiren, against stroke-elicited pressor
+response. Experiments were performed in male adult Sprague–Dawley rats. Stroke induced by middle cerebral artery occlusion elicited signiﬁcant pressor response, accompanied by activation of angiotensin II (Ang II)/type I receptor (AT1R) and AT2R signaling, depression of Ang-(1–7)/MasR and Ang IV/AT4R cascade, alongside
+augmentation of MCP-1/C–C chemokine receptor 2 (CCR2) signaling and neuroinﬂammation in the RVLM.
+Stroke-elicited pressor response was signiﬁcantly blunted by antagonism of AT1R, AT2R or MCP-1/CCR2 signaling,
+and eliminated by applying Ang-(1–7) or Ang IV into the RVLM. Furthermore, stroke-activated MCP-1/CCR2 signaling was enhanced by AT1R and AT2R activation, and depressed by Ang-(1–7)/MasR and Ang IV/AT4R cascade.
+Aliskiren inhibited stroke-elicited pressor response via downregulating MCP-1/CCR2 activity and reduced neuroinﬂammation in the RVLM; these effects were potentiated by Ang-(1–7) or Ang IV. We conclude that whereas Ang
+II/AT1R or Ang II/AT2R signaling in the brain stem enhances, Ang-(1–7)/MasR or Ang IV/AT4R antagonizes pressor
+response after stroke by differential modulations of MCP-1 in the RVLM. Furthermore, combined administration of
+aliskiren and Ang-(1–7) or Ang IV into the brain stem provides more effective amelioration of stroked-induced
+pressor response.
+© 2014 Elsevier Inc. All rights reserved.
+
+Abbreviations: ACE, angiotensin converting enzyme; aCSF, artiﬁcial cerebrospinal ﬂuid; Ang II, angiotensin II; Ang IV, angiotensin IV; Ang-(1–7), angiotensin-(1–7); APN, aminopeptidase N; ARBs, angiotensin receptor blockers; AT1R, angiotensin II type I receptor; AT2R, angiotensin II type II receptor; AT4R, angiotensin II type IV receptor; ATRs, angiotensin receptors;
+BBB, blood–brain barrier; BP, blood pressure; CCL2, chemokine (C–C motif) ligand 2; CCR2, C–C chemokine receptor 2; CSF, cerebrospinal ﬂuid; DBP, diastolic blood pressure; GFAP, glial
+ﬁbrillary acidic protein; HR, heart rate; i.c.v., intracerebroventricular; ICU, intensive care unit; MasR, Mas receptor; MBP, mean blood pressure; MCAO, middle cerebral artery occlusion;
+MCP-1, chemokine monocyte chemoattractant protein-1; mNSS, modiﬁed neurological severity score; MRI, magnetic resonance imaging; NeuN, neuron speciﬁc nuclear protein; RAS,
+renin–angiotensin system; RVLM, rostral ventrolateral medulla; SBP, systolic blood pressure; TTC, 2,3,5-triphenyltetrazolium chloride.
+⁎ Corresponding author at: Center for Translational Research in Biomedical Sciences, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung 833, Taiwan, ROC. Fax: +886 7
+7317123x8569.
+E-mail addresses: aywchang@mail.ncku.edu.tw, aliceywchang@gmail.com (A.Y.W. Chang).
+Available online on ScienceDirect (www.sciencedirect.com).
+1
+Present address: Department of Physiology, National Cheng Kung University, Tainan 701, Taiwan, ROC. Fax: +886 6 2362780.
+
+http://dx.doi.org/10.1016/j.nbd.2014.08.005
+0969-9961/© 2014 Elsevier Inc. All rights reserved.
+
+A.Y.W. Chang et al. / Neurobiology of Disease 71 (2014) 292–304
+
+Introduction
+Stroke is a major global health problem because it is the second leading cause of death worldwide (Donnan et al., 2008). Pressor response
+after stroke is observed in 60–75% patients (Potter et al., 2005) and is a
+common complication that leads to poor outcome, including early death
+in hospital, neurological deﬁciency at discharge (Zhang et al., 2011) and
+susceptibility to recurrent stroke (Geeganage et al., 2011). At present,
+the causes, effects and optimal management of pressor response immediately after stroke remain a hotly debated and sometimes controversial
+issue (Lattanzi et al., 2013; Sykora et al., 2010). Further delineation of
+the pathophysiological mechanisms of pressor response after stroke that
+leads to effective therapeutic management is therefore warranted.
+The rostral ventrolateral medulla (RVLM), where sympathetic
+premotor neurons in the brain stem are located, is responsible for maintaining sympathetic vasomotor tone and stable blood pressure; pharmacological or electrical activation of the RVLM elicits pressor
+response (Spyer, 1994). Clinically, vascular compression of the RVLM
+is identiﬁed in 26.8% of acute ischemic stroke patients who manifested
+greater blood pressure variability that is related to poorer prognosis
+(Aoki et al., 2011). Furthermore, rats in a middle cerebral artery occlusion (MCAO) stroke model (Marks et al., 2001; Mogi et al., 2006) exhibit
+disturbed cardiovascular responses because of altered neurotransmission in the ventrolateral medulla (Ally et al., 2002). MCAO also augmented Fos-like immunoreactivity in medullary neurons (Wu and
+Ling, 1998). It follows that the RVLM may participate in pressor response after stroke and is a suitable target for mechanistic delineation.
+The condition of up to one-third of stroke patients worsens after hospital admission, and the management of pressor response after stroke is
+still controversial (Lattanzi et al., 2013; Sykora et al., 2010). Early systemic application of angiotensin receptor blockers (ARBs) reportedly prevents pressor response after stroke (Lüders, 2007) and reduces severity
+(Lee et al., 2012). Other studies, however, indicate that careful blood
+pressure lowering treatment with ARBs does not improve the neurological outcomes of patients with stroke (Rhoney and Moser, 2011; Sandset
+et al., 2011). Whereas angiotensin II (Ang II), the principal effector molecule of the central renin–angiotensin system (RAS), induces tonic
+sympathoexcitatory and pressor response by acting on Ang II type 1 receptors (AT1R) in the RVLM (Chan et al., 2007, 2010), a decrease of
+AT1R in the RVLM mediates hypotension induced by lipopolysaccharide
+administration (Chan et al., 2003). Recent work (Jiang et al., 2012; Faure
+et al., 2006) further showed that angiotensin-(1–7) (Ang-(1–7)) and angiotensin IV (Ang IV), two metabolites when Ang II is degraded respectively by angiotensin converting enzyme (ACE) 2 or aminopeptidase N
+(APN) (McKinley et al., 2003), play a protective role during stroke by reducing the infarct volume and subsequent neurological deﬁcits (Faure
+et al., 2006; Mecca et al., 2011). Considering the importance of the central
+RAS in blood pressure homeostasis, a systematic evaluation of the roles
+of Ang-(1–7) and Ang IV and their respective receptor subtypes, Mas receptor (MasR) and AT4R, in addition to Ang II and the classical AT1R and
+AT2R, in the RVLM in stroke-induced pressor response is therefore of
+interest.
+Monocyte chemoattractant protein-1 (MCP-1), also named chemokine (C–C motif) ligand 2 (CCL2), is a pro-inﬂammatory chemokine
+that exhibits potent chemoattractant activity for monocyte/macrophage
+inﬁltration to the injured area, of which triggers an intense inﬂammatory reaction and contributes to worsen stroke brain injury indicated by
+increased infarct size and impaired neurological outcome (Iadecola
+and Alexander, 2001). Moreover, MCP-1 contributes to inﬂammatory
+reactions during stroke via an action on C–C chemokine receptor 2
+(CCR2) (Losy and Zaremba, 2001; Jiang et al., 2008); clinical studies indicated that polymorphism of MCP-1 gene is associated with the susceptibility to stroke (Buraczynska et al., 2010). Elevation of MCP-1 is
+observed in cerebrospinal ﬂuid (CSF) (Losy and Zaremba, 2001) or in
+circulation (Arakelyan et al., 2005) of stroke patients and in brain of
+rats after MCAO (Jiang et al., 2008). In addition, the level of MCP-1
+
+293
+
+mRNA and MCP-1 concentration in plasma is signiﬁcantly higher in hypertensive patients (Sardo et al., 2008). Of note is that Ang II induces
+AT1R-mediated upregulation of MCP-1 or CCR-2, and secretion of
+MCP-1 in ventricular cardiomyocytes (Omura et al., 2004) or human
+U937 monocytic cells (Ko et al., 2007). It follows that brain stem MCP1 may underlie RAS-mediated pressor response after stroke.
+Aliskiren, an orally active, non-peptide renin inhibitor, is an antihypertensive agent that blocks renin, the ﬁrst and rate-limiting enzymatic
+step of angiotensin synthesis (Sawhney, 2010). Intracerebroventricular
+(i.c.v.) infusion of aliskiren markedly inhibits the increase in Ang II levels
+in rat CSF and blood pressure (BP) elicited by i.c.v. infusion of renin
+(Huang et al., 2012). Furthermore, pretreatment with systemic application of aliskiren reduces the expression of inﬂammatory marker genes
+in the cerebral ischemic core after MCAO (Schmerbach et al., 2010). Because of the controversy surrounding the efﬁcacy of ARBs against pressor response after stroke, whether aliskiren-mediated reduction of
+inﬂammatory response presents itself as an alternative therapeutic
+strategy warrants further delineation.
+Employing a MCAO stroke model, the present study was undertaken
+to assess the hypothesis that Ang II, Ang-(1–7) or Ang IV, and AT1R,
+AT2R, MasR or AT4R, contribute to pressor response after stroke by differential modulations of pro-inﬂammatory MCP-1 in the RVLM. We also
+investigated the relationship between these cellular mechanisms and
+the beneﬁcial effects of aliskiren.
+Materials and methods
+All experimental procedures carried out in this study have been performed in accordance with the National Institutes of Health Guide for
+the Care and Use of Laboratory Animals, approved by the Institutional
+Animal Care and Use Committee of the Kaohsiung Chang Gung Memorial Hospital, and were in compliance with the guidelines for care and
+handling of animals set forth by that Committee.
+Animals
+Adult male Sprague–Dawley rats (285–337 g, n = 219) purchased
+from the Experimental Animal Center of the National Science Council,
+Taiwan, Republic of China were used. Animals were housed in groups
+of 2–3 in individually ventilated cages in an AAALAC Internationalaccredited Center for Laboratory Animals, with free access to rat chow
+and water. All efforts were made to minimize animal suffering and to reduce the number of animals used.
+Blood pressure and heart rate measurement
+Systolic and diastolic blood pressure (SBP and DBP), mean BP (MBP)
+and heart rate (HR) of conscious rats were measured between 0900 and
+1200 h, using a non-invasive tail cuff plethysmography (Visitech Systems, Apex, NC, USA). Averages of 10 inﬂation/deﬂation cycles were
+conducted to obtain MBP.
+MCAO stroke model
+Transient MCAO was induced by intraluminal vascular occlusion as
+described previously (Marks et al., 2001; Mogi et al., 2006; Ally et al.,
+2002; Wu and Ling, 1998). Brieﬂy, the left MCA in rats anesthetized
+with 2–3% isoﬂurane was effectively occluded by a silicon-coated 4-0monoﬁlament (Doccol, Sharon, MA, USA) for 120 min, followed by reperfusion. Successful establishment of experimental stroke was conﬁrmed
+on day 1 after MCAO by magnetic resonance imaging (MRI) and staining
+with 2,3,5-triphenyltetrazolium chloride (TTC; Sigma). Speciﬁcally, the
+presence of edema was determined by high resolution T2 images obtained from a 9.4 T Animal MR scanner (Biospec 94/20, Bruker, Ettlingen,
+Germany). For TTC staining, rats deeply anesthetized with pentobarbital
+sodium were perfused intracardially with warm saline that contains
+
+294
+
+A.Y.W. Chang et al. / Neurobiology of Disease 71 (2014) 292–304
+
+Table 1
+Mean (MBP), systolic (SBP) or diastolic (DBP) blood pressure, heart rate (HR), bodyweight and modiﬁed neurological severity score (mNSS) in rats before, and on days 1, 3 and 7 after
+receiving 120 min of middle cerebral artery occlusion (MCAO).
+Basal
+MBP
+(mmHg)
+SBP
+(mmHg)
+DBP
+(mmHg)
+HR
+(bpm)
+Body weight
+(g)
+mNSS
+
+Sham
+MCAO
+Sham
+MCAO
+Sham
+MCAO
+Sham
+MCAO
+Sham
+MCAO
+Sham
+MCAO
+
+127.22
+125.45
+146.04
+145.15
+114.41
+114.02
+362.76
+368.24
+244.75
+246.97
+0
+0
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+4.04
+1.67
+3.79
+1.62
+4.30
+1.86
+2.52
+1.08
+12.06
+4.29
+
+Day 1
+
+Day 3
+
+Day 7
+
+133.35 ± 4.24
+161.51 ± 2.35*
+147.57 ± 3.43
+180.40 ± 2.13*
+119.06 ± 5.25
+151.96 ± 2.70*
+365.55 ± 3.30
+391.56 ± 2.18*
+247.50 ± 9.58
+231.42 ± 5.00*
+0
+10.80 ± 1.80*
+
+134.26 ± 3.96
+144.74 ± 5.33*
+147.12 ± 4.02
+163.07 ± 3.29*
+108.38 ± 6.07
+135.71 ± 4.40
+373.48 ± 2.50
+407.49 ± 3.54*
+247.30 ± 4.21
+225.45 ± 10.81*
+0
+9.25 ± 2.5*
+
+134.86 ± 5.97
+134.06 ± 5.03
+147.34 ± 7.06
+143.56 ± 5.01
+121.97 ± 6.62
+124.57 ± 5.99
+380.30 ± 2.99
+419.30 ± 4.96*
+247.30 ± 4.21
+241.64 ± 8.49
+0
+6.0 ± 1.1*
+
+Values are mean ± SEM. *P b 0.001 versus Sham control group in the post hoc Scheffé multiple-range test.
+bpm, beat per minute.
+
+0.15 mg/ml heparin to remove erythrocytes, which might interfere with
+results. To determine infarct volume, the brain was cut into 2-mm slices
+and reacted with 2% TTC for 10 min to reveal the infarct area in white.
+
+experiments, RVLM tissue samples were collected on day 3 or 7 after
+MCAO following the same procedures.
+Determination of mRNA levels
+
+Evaluation of neurological functions after stroke
+Two technicians blinded to the experimental groups determined
+stroke-induced neurological deﬁcits of the rats based on the modiﬁed
+neurological severity score (mNSS). The averaged scores graded independently on a scale of 0–14 (normal score, 0; maximal deﬁcit score,
+14) were used as our ﬁnal results.
+
+We used a RT2 proﬁler PCR array (SABiosciencesTM , Frederick,
+MD, USA) to determine global changes of 84 hypertension-related
+genes in the RVLM (see Supplementary Table S2 for detailed information). The mRNA levels of genes of interest and gadph control
+were further quantiﬁed by real-time PCR analysis (see Supplementary Table S3 for list of primers).
+Measurement of protein concentration
+
+Microinjection or systemic administration of test agents
+Microinjection bilaterally of test agents into the RVLM (stereotaxic
+coordinates: 4.5–5 mm posterior to lambda, 1.8–2.1 mm lateral to midline and 8.1–8.4 mm below the dorsal surface of cerebellum), each at a
+volume of 50 nl, was carried out stereotaxically and consecutively via a
+glass micropipette connected to a 0.5-μl Hamilton (Reno, NV, USA)
+microsyringe. Test agents used (see Supplementary Table S1 for their
+pharmacological effects) included aliskiren (MedChemexpress, Shanghai, China), candesartan cilexetil (Carbosynth, Compton, Berkshire UK),
+PD123319 (Tocris, Washington, DC, USA), A779 (American Peptide, Sunnyvale, CA, USA), antiserum against AT4R (Cell Signaling, Danvers, MA,
+USA), Ang II (Sigma, St. Louis, MO, USA), Ang-(1–7) (Enzo Life Sciences,
+Plymouth Meeting, PA, USA), Ang IV (Bachem, Bubendorf,
+Switzerland), bindarit (Selleckchem, Houston, TX, USA), BMS CCR2 22
+(Santa Cruz Biotechnology, Dallas, Texas, USA) and propagermanium
+(Sigma). Systemic administration of valsartan (Sigma) was given via
+the intraperitoneal route. All test agents were dissolved in artiﬁcial cerebrospinal ﬂuid (aCSF), with the exception of aliskiren, candesartan,
+bindarit or valsartan, which was prepared with 0.2–10% DMSO. Tests
+agents and their solvents (vehicle control) were given 120 min after
+MCAO. The effective doses used were adopted from previous reports
+that used those test agents for the same purpose as in this study, and
+were adjusted and determined in pilot study. To avoid the confounding
+effects of drug interactions, each animal received only one pharmacological treatment.
+Collection of tissue samples
+We routinely collected tissue samples for biochemical evaluations
+one day after MCAO or in sham-control animals. Animals were ﬁrst
+deeply anesthetized to receive transcardiac perfusion with warm saline,
+and RVLM tissues were immediately obtained by micropunch. In some
+
+The protein concentration in cell lysate from the RVLM was determined by commercial ELISA kits, coupled with spectrophotometry.
+Kits for angiotensinogen (Shanghai BlueGene Biotech, Shanghai,
+China), Ang II (Biovendor, Brno, Czech Republic), Ang-(1–7) (Shanghai
+BlueGene Biotech), APN (Cusabio, Wuhan, Hubei, China), MCP-1
+(eBiosciences, San Diego, CA, USA), and CCR2 (Cusabio) were used.
+Western blot analysis
+Western blot analysis for AT1R, AT2R, MasR, AT4R, c-Fos, glial ﬁbrillary acidic protein (GFAP), OX-42 or β-actin was carried out on proteins
+extracted from the RVLM. Rabbit polyclonal antisera against AT1R (EMD
+Millipore Corporation, Billerica, MA, USA), AT2R (EMD Millipore Corporation), MasR (Biorbyt, Cambridge, Cambridgeshire, UK), AT4R (Cell Signaling) or c-Fos (EMD Millipore Corporation) and a mouse monoclonal
+antiserum against GFAP (Life Technologies, Gaithersburg, MD, USA),
+OX-42 (AbD Serotec, Kidlington, Oxford, UK) or β-actin (Chemicon, Temecula, CA, USA) were used as the primary antiserum, and horseradish
+peroxidase-conjugated donkey anti-rabbit IgG (GE Healthcare, Uppsala,
+Sweden) for AT1R, AT2R, MasR or AT4R or sheep anti-mouse IgG
+(Amersham Biosciences) for β-actin was used as the secondary
+antiserum.
+Double immunoﬂuorescence and confocal microscopy
+We employed double immunoﬂuorescence staining coupled with
+laser scanning confocal microscopy to localize AT1R, AT2R, MasR,
+AT4R, CCR2 or c-Fos in RVLM neurons and GFAP or OX-42 in RVLM
+glia, using rabbit polyclonal antisera (Santa Cruz Biotechnology) against
+AT1R (EMD Millipore Corporation), AT2R (EMD Millipore Corporation),
+MasR (Biorbyt), AT4R (Cell Signaling), CCR2 (Santa Cruz Biotechnology)
+or c-Fos (Santa Cruz Biotechnology) and a mouse monoclonal antiserum
+
+A.Y.W. Chang et al. / Neurobiology of Disease 71 (2014) 292–304
+
+295
+
+A
+
+B
+
+C
+
+Fig. 1. Stroke differentially elicits mRNA expressions, protein amounts and protein expressions in the rostral ventrolateral medulla (RVLM) on days 1 (D1), 3 (D3) and 7 (D7) after middle
+cerebral artery occlusion (MCAO). A: Temporal changes of mRNA levels of angiotensin type 1a receptor (agtr1a), agtr1b, agtr2, mas1, agtr4 variant 1 (agtr4-v1), agtr4-v2, chemokine (C–C
+motif) ligand 2 (ccl2) and C–C chemokine receptor 2 (ccr2). B: Temporal changes of concentration of angiotensin II (Ang II), angiotensinogen (ATG), angiotensin-(1–7) (Ang-(1–7)), or
+angiotensin IV (Ang IV; experimentally determined by its synthesis enzyme aminopeptidase N), MCP-1, or C–C chemokine receptor 2 (CCR2). C: The representative or quantitative protein
+expressions of Ang type 1 receptor (AT1R), AT2R, Mas receptor (MasR) or AT4R. Values are mean ± SEM of triplicate analyses from 4 to 6 animals per experimental group and are presented in folds (A and C) or concentration (B) relative to sham-control (SC) group. *P b 0.05 versus SC group in the post hoc Scheffé multiple-range test.
+
+against a speciﬁc neuron marker, neuron-speciﬁc nuclear protein
+(NeuN; EMD Millipore), GFAP (Life Technologies) or OX-42 (AbD
+Serotec). The secondary antisera (Molecular Probes, Eugene, OR,
+USA) used included a goat anti-rabbit IgG conjugated with Alexa
+Fluor 488 for AT1R, AT2R, MasR, AT4R, CCR2 or c-Fos, and a goat
+anti-mouse IgG conjugated with Alexa Fluor 568 for NeuN, GFAP or
+OX-42. Tissues similarly processed but omitting the primary antisera
+served as our negative controls. Immunoreactivity was viewed under
+a Fluorview FV10i laser scanning confocal microscope (Olympus,
+Tokyo, Japan).
+
+Histology
+In some animals in which biochemical analyses were not performed,
+the brain stem was removed at the end of the physiological experiment
+and processed for histological veriﬁcation of the microinjection sites.
+Statistical analysis
+All values are expressed as mean ± SEM. The averaged value of MBP,
+SBP, DBP and HR, the concentration, mRNA or protein expression of
+
+296
+
+A.Y.W. Chang et al. / Neurobiology of Disease 71 (2014) 292–304
+
+interest in the RVLM, body weight or mNSS prior to or after stroke was
+used for statistical analysis. One-way or two-way ANOVA with repeated
+measures was used, as appropriate, to assess group means. This was
+
+A
+
+followed by the Dunnett or Scheffé multiple-range test for post hoc assessment of individual means. P b 0.05 was considered to be statistically
+signiﬁcant.
+
+C
+
+B
+
+D
+
+Fig. 2. Stroke-induced brain damage and distribution of angiotensin receptors (ATRs) and CCR2 in RVLM neurons and correlation between angiotensin isoforms and pressor response after
+stroke. A and B: Representative MRI images (A) and TTC staining (B) conﬁrming brain infarct on day one after MCAO. C: Representative laser scanning confocal microscopic images showing cells in the RVLM that were immunoreactive to a neuronal marker, neuron-speciﬁc nuclear protein (NeuN; red ﬂuorescence) and additionally stained positively for AT1R, AT2R, MasR,
+AT4R or CCR2 (green ﬂuorescence) in sham-control (SC) or MCAO group one day after stroke. Note that the position of individual nucleus is denoted by #, + or *. These results are typical of
+4 animals from each experimental group. Scale bar, 6 μm. D: Linear regression analysis of the correlation between concentration of Ang II, MCP-1, Ang-(1–7) or Ang IV in the RVLM and
+changes of mean blood pressure relative to baseline (ΔMBP) in SC and MCAO groups. Dotted lines denote 95% conﬁdence intervals, and r2 denotes coefﬁcient of correlation.
+
+A.Y.W. Chang et al. / Neurobiology of Disease 71 (2014) 292–304
+
+A
+
+B
+
+297
+
+C
+
+Fig. 3. Differential participation of ATRs or MCP-1/CCR2 signaling in RVLM in pressor response and tachycardia after stroke. Changes in mean (ΔMBP), systolic (ΔSBP) or diastolic (ΔDBP)
+blood pressure or heart rate (ΔHR) relative to baseline in rats that received pretreatment by microinjection bilaterally into the RVLM of (A) candesartan (Cand; 5 nmol, AT1R antagonist);
+PD123319 (PD; 5 nmol; AT2R antagonist); Ang II (10 nmol); A779 (500 pmol, MasR antagonist); Ang-(1–7) (200 pmol), antiserum against AT4R (AT4R AS; 1:20), Ang IV (1 nmol) or
+(C) bindarit (Bin; 10 nmol, MCP-1 synthesis inhibitor), BMS CCR2 22 (BMS; 10 pmol, CCR2 antagonist), propagermanium (Prop; 10 pmol, CCR2 antagonist) or vehicle control (Veh),
+or (B) intraperitoneal administration of valsartan (Val; 5 or 25 mg/kg; peripheral AT1R antagonist) or saline, 120 min after MCAO. Values are mean ± SEM, n = 5–7 animals per experimental group. *P b 0.05 versus SC group, and +P b 0.05 versus Veh (Saline) + MCAO group in the post hoc Scheffé multiple-range test.
+
+Results
+Pressor response after MCAO
+One hundred and twenty minutes of MCAO followed by reperfusion elicited a signiﬁcant elevation of MBP, SBP or DBP measured
+by the tail cuff plethysmography, alongside increases of neurological
+deﬁcits and decreases in body weight. All these events peaked on day
+1 after stroke and progressively returned to baseline over 7 days
+(Table 1); the augmented HR sustained 7 days.
+Differential activation of the RAS in RVLM
+Results from a hypertensive RT-PCR array, which proﬁles 84
+key genes that regulate constriction and dilation of blood vessels
+(Supplementary Fig. S1), revealed that the transcript level of 57
+genes in the RVLM was upregulated one day after stroke, and 27
+
+genes were downregulated. Of note is that the mRNA level of a
+majority of the RAS family, including Ang II receptor type 1a
+(atgr1a), atgr1b, atgr2, angiotensin converting enzyme (ace),
+ace2, and renin (ren), was signiﬁcantly upregulated (Supplementary Fig. S1). Therefore, angiotensin isoforms and receptor subtypes
+in the RVLM after stroke were targeted in our subsequent
+experiments.
+Time-course analysis by RT-PCR, ELISA or Western blot showed
+that the augmented mRNA level of agtr1a, agtr1b or agtr2
+(Fig. 1A), protein concentration of Ang II (Fig. 1B), and protein expression of AT1R or AT2R (Fig. 1C) in the RVLM peaked on day 1
+after stroke. Likewise, whereas the mRNA level of mas1, agtr4 variant 1 (agtr4-v1) or agtr4-v2 exhibited a signiﬁcant increase on
+days 3 and 7 (Fig. 1A), the decrease in concentration of Ang-(1–
+7) and Ang IV (Fig. 1B) or protein expression of MasR and AT4R
+(Fig. 1C) also peaked on post-stroke day 1. Since the most significant pressor response after stroke and changes in RAS mRNA and
+
+298
+
+A.Y.W. Chang et al. / Neurobiology of Disease 71 (2014) 292–304
+
+A
+
+B
+
+C
+
+Fig. 4. Differential modulation of MCP-1 and CCR2 concentration by ATRs in RVLM after stroke. Changes of MCP-1 and CCR2 concentration in the RVLM of stroked rats that received pretreatments with (A) Cand, PD, combination of Cand and PD, Ang II, (B) A779, AT4R AS, combination of A779 and AT4R AS, Ang-(1–7), Ang IV, or (C) Bin, BMS, Prop or Veh, 120 min after
+MCAO. Values are mean ± SEM, n = 5–7 animals per experimental group. *P b 0.05 versus SC group, and +P b 0.05 versus Veh + MCAO group in the post hoc Scheffé multiple-range test.
+
+protein expressions in the RVLM also occurred one day after
+stroke, we have focused our mechanistic investigations on this
+time-point.
+
+cross the blood–brain barrier (BBB), did not signiﬁcantly affect the
+stroke-induced increase in MBP, SBP, DBP or HR (Fig. 3B).
+
+Differential activation of angiotensin receptors (ATRs) in RVLM neurons
+after stroke
+
+Activation of Ang-(1–7)/MasR or Ang IV/AT4R signaling in RVLM
+antagonizes pressor response after stroke
+
+We conﬁrmed that brain damage occurred on day 1 after stroke by
+the presence of brain edema in T2-weighted MRI (Fig. 2A) or by the increase in infarct volume in TTC staining (Fig. 2B). Double immunoﬂuorescence staining coupled with laser scanning confocal microscopy
+revealed that the differential changes in ATRs observed in our biochemical experiments indeed occurred in RVLM neurons. Cells in the RVLM
+that stained positively with the neuronal marker NeuN showed enhanced immunoreactivity of AT1R and AT2R, and reduced immunoreactivity of MasR and AT4R one day after stroke (Fig. 2C).
+
+Linear regression analysis also showed that the increase in MBP
+after stroke was signiﬁcantly and negatively correlated to the concentration of Ang-(1–7) (r2 = 0.82) and Ang IV (r 2 = 0.95)
+(Fig. 2D) in the RVLM. Furthermore, pretreatment with Ang-(1–7)
+(200 pmol) or Ang IV (1 nmol) signiﬁcantly antagonized or reversed
+the stroke-induced increase in MBP, SBP and DBP (Fig. 3A); whereas
+A779 (MasR antagonist; 500 pmol) and AT4R antiserum (1:20) were
+ineffective. The stroke-induced elevation in HR was blunted by Ang(1–7), unaffected by Ang IV and potentiated by A779 and AT4R antiserum (Fig. 3A).
+
+Activation of AT1R or AT2R signaling in RVLM promotes pressor response
+after stroke
+MCP-1 in RVLM contributes to pressor response after stroke
+Linear regression analysis showed that the increase in MBP after
+stroke was signiﬁcantly (r2 = 0.88) and positively correlated to the
+concentration of Ang II (Fig. 2D) in the RVLM. In addition, pretreatment with microinjection bilaterally of candesartan (AT1R antagonist; 5 nmol) or PD123319 (AT2R antagonist; 5 nmol) into the
+RVLM 120 min after MCAO signiﬁcantly blunted the strokeinduced increase in MBP, SBP and DBP (Fig. 3A); stroke-elicited elevation in HR was antagonized by candesartan and potentiated by
+PD123319 (Fig. 3A). Furthermore, those hemodynamic parameters
+were potentiated by Ang II (10 nmol) (Fig. 3A). Of note is that intraperitoneal administration of valsartan (5 or 25 mg/kg), an AT1R antagonist that acts only on peripheral AT1R because of its inability to
+
+The mRNA level of ccl2 (Fig. 1A) and concentration of the proinﬂammatory MCP-1 (a common name for CCL2) (Fig. 1B) in the
+RVLM also underwent an increase that is signiﬁcantly (r2 = 0.81) and
+positively correlated with the augmented MBP after stroke (Fig. 2D).
+Both the mRNA (Fig. 1A) and protein levels (Fig. 1B) of CCR2 in the
+RVLM, and CCR2-immunoreactivity in RVLM neurons (Fig. 2C)
+remained unaltered. In addition, the stroke-induced increase in MBP,
+SBP, DBP or HR was signiﬁcantly antagonized by microinjection into
+the bilateral RVLM of bindarit (MCP-1 synthesis inhibitor; 10 nmol),
+BMS CCR2 22 (CCR2 antagonist; 10 pmol) or propagermanium (CCR2
+antagonist; 10 pmol) (Fig. 3C).
+
+A.Y.W. Chang et al. / Neurobiology of Disease 71 (2014) 292–304
+
+Stroke-activated MCP-1 in RVLM is differentially modulated by AT1R or
+AT2R and Ang-(1–7)/MasR or Ang IV/AT4R signaling
+The stroked-induced elevation of MCP-1 in the RVLM was blunted by
+pretreatment with candesartan, PD123319, combination of candesartan
+and PD123319, Ang-(1–7), Ang IV or bindarit, but not by A779, AT4R antiserum, combination of A779 and AT4R antiserum, BMS CCR2 22 or
+propagermanium (Fig. 4A). Furthermore, whereas Ang II potentiated
+the stroke-induced augmentation of MCP-1 and elevation of CCR2 concentration in the RVLM, PD123319 or combination of PD123313 and
+candesartan signiﬁcantly reduced CCR2 concentration (Fig. 4B). Other
+pretreatments were ineffective against CCR2 concentration in RVLM.
+Dual effects of aliskiren on changes of angiotensin isoforms and MCP-1 in
+RVLM and pressor response after stroke
+Microinjection bilaterally of the renin inhibitor aliskiren (1 nmol)
+into the RVLM signiﬁcantly blunted the elevation of Ang II and
+
+A
+
+B
+
+299
+
+exacerbated the reduction of Ang-(1–7) or Ang IV induced by stroke
+in the RVLM (Fig. 5A). Aliskiren also blunted the stroke-induced augmentation of MCP-1 and reduced CCR2 concentration (Fig. 5B), accompanied by an amelioration of the increase in MBP, SBP, DBP or HR. As a
+control, the concentration of angiotensinogen in the RVLM was not affected by stroke or pretreatments with aliskiren (Fig. 5A), candesartan,
+PD123319, A779 or AT4R antiserum (Fig. 6). Likewise, those pharmacological treatments did not change Ang II, Ang-(1–7) or Ang IV concentration in the RVLM after stroke (Fig. 6).
+Aliskiren exerts beneﬁcial effects against neuronal activation and
+inﬂammation in RVLM after stroke
+At the cellular level, pretreatment with aliskiren (1 nmol) produced
+signiﬁcant antagonism of stroke-induced neuronal activation in the
+RVLM, which was indicated by reducing the increase in c-Fos immunoreactivity (c-Fos-IR) in RVLM neurons. Aliskiren similarly reduced the
+activation of astrocytes and microglia, two cellular markers of
+
+C
+
+Fig. 5. Effects of aliskiren (AK) on concentration of angiotensins in RVLM after stroke and combination of AK and Ang-(1–7) or Ang IV produces efﬁcacious antagonism of pressor response
+and tachycardia after stroke. Changes (A) in concentration of Ang II, ATG, Ang-(1–7) or Ang IV in the RVLM of stroked rats that received pretreatments with AK (1 nmol; renin inhibitor) or
+Veh, 120 min after MCAO. Changes (B) in MBP, SBP, DBP or HR relative to baseline and changes (C) of MCP-1 and CCR2 concentrations in the RVLM of rats that received pretreatments of AK
+(1 nmol), combination of AK (0.5 nmol) and Ang-(1–7) (100 pmol) or Ang IV (0.5 nmol), or Veh, 120 min after MCAO. Values are mean ± SEM, n = 5–7 animals per experimental group.
+*P b 0.05 versus SC group, and +P b 0.05 versus Veh + MCAO group in the post hoc Scheffé multiple-range test.
+
+300
+
+A.Y.W. Chang et al. / Neurobiology of Disease 71 (2014) 292–304
+
+Fig. 6. Effects of Cand, PD, A779 or AT4R antiserum on concentration of Ang II, Ang-(1–7),
+Ang IV or ATG in RVLM after stroke. Changes in concentration of Ang II, ATG, Ang-(1–7) or
+Ang IV in the RVLM of stroked rats that received pretreatments with Cand, PD, A779, AT4R
+antiserum or Veh, 120 min after MCAO. Values are mean ± SEM, n = 5–7 animals per experimental group. *P b 0.05 versus SC group in the post hoc Scheffé multiple-range test.
+
+inﬂammation, as demonstrated by a decrease of the elevated GFAP-IR or
+OX-42-IR in the RVLM after stroke (Fig. 7). Comparable ﬁndings were
+obtained from Western blot analysis (Fig. 7). Aliskiren pretreatment signiﬁcantly blunted stroked-induced augmentation of protein expression
+of c-Fos, GFAP and OX-42 in the RVLM (Fig. 7).
+Combination of aliskiren and Ang-(1–7) or Ang IV exerts beneﬁcial effects
+against pressor response after stroke
+Combined pretreatment with only half of the doses of aliskiren
+(0.5 nmol) and Ang-(1–7) (100 pmol) or Ang IV (0.5 nmol) produced
+signiﬁcant antagonism of the stroke-induced increase in MBP, SBP,
+DBP or HR, to a degree that was comparable to or more than that elicited
+by those test agents when delivered alone at full dose (cf. Fig. 3). Similar
+ﬁndings were obtained for the changes in MCP-1 concentration in the
+RVLM (Figs. 4 and 5).
+Discussion
+Pressor response after stroke predisposes early death, more severe
+neurological deﬁcit and frequent recurrence of stroke. An effective therapeutic strategy is still controversial, possibly because the key mechanisms are still unidentiﬁed. The present study was undertaken to ﬁll
+this void. Based on a MCAO model that mimics clinically focal transient
+ischemic stroke, in conjunction with a neural substrate that is intimately
+related to brain stem cardiovascular regulation but is not part of the cerebral ischemic core or penumbra, we demonstrated that upregulation
+of Ang II, followed by activation of AT1R and AT2R that leads to inﬂammation indicated by an elevation of MCP-1 concentration and activation
+of CCR2 accounts for the pressor response and tachycardia after stroke.
+This process is exacerbated by the concurrent reduction of Ang-(1–7) or
+Ang IV in the RVLM, which normally elicits depressor response by activating MasR or AT4R, leading to the downregulation of the MCP-1/CCR2
+signaling pathway (Fig. 8). At the cellular level, we further showed that
+these cardiovascular responses may result from activation of RVLM neurons and neuroinﬂammation because of activation of astrocytes and microglia in the RVLM (Fig. 8). We also showed that aliskiren, a novel renin
+inhibitor, antagonizes stroke-induced pressor response by decreasing
+Ang II and downregulating AT1R and AT2R, leading to an overall net
+
+suppression of MCP-1/CCR2 signaling, elevated neuronal activation
+and neuroinﬂammation (Fig. 8). Finally, we showed that combined application of aliskiren and Ang-(1–7) or Ang IV is more efﬁcacious in
+preventing stroke-induced pressor response and tachycardia. Our results suggested that targeting on angiotensins (Ang II, Ang-(1–7) and
+Ang IV) and the pro-inﬂammatory chemokine MCP-1 in the brain
+stem rather than cerebral ischemic core or penumbra might be an alternative therapeutic strategy to reduce the pressor response after stroke.
+Pharmacological manipulation of the RAS, targeting the penumbra
+area, has been reported (Min et al., 2014) to improve the outcome of
+stroke by amelioration of ischemic brain damage. On the other hand,
+this is the ﬁrst time when participation of brain stem mechanisms in
+stroke-induced elevation of BP and HR is revealed, engaging the welldocumented (Sandset et al., 2011; Chan et al., 2007, 2010) pressor and
+tachycardiac effects of Ang II signaling in the RVLM, rather than in the
+cerebral ischemic core or penumbra. Ang II-enhanced BBB permeability
+and infarct volume are signiﬁcantly blunted in AT1aR−/− mice (Nagai
+et al., 2011), and pretreatment with ARBs telmisartan (Kobayashi
+et al., 2009) or candesartan (Saad et al., 2010) reduces cerebral infarct
+volume and improves neurobehavioral dysfunction in rat models of
+MCAO. However, the remedial efﬁcacy of systemic administration of
+ARBs on stroke-induced pressor response is still controversial. We are
+aware that BBB integrity could be compromised after stroke and one
+would expect that, under the experimental conditions of the present
+study, the peripherally acting ARB, valsartan, should have at least partial
+access to the brain. Our observation that systemic administration of
+valsartan was ineffective in preventing MCAO-induced transient increase in BP is commensurate with the ineffective therapeutic treatment of clinical ARBs to acute stroke-induced hypertension (Lattanzi
+et al., 2013; Sykora et al., 2010). Considering that MCAO-treated animals
+and stroked patients are both prone to damaged BBB, the possibility that
+valsartan may exert a direct brain effect in our model is deemed minimal. Our results further indicated that stroke-induced pressor response
+is executed by an upregulation of Ang II, AT1R and AT2R at mRNA and/
+or protein level in the RVLM. It follows that ARBs targeted speciﬁcally
+both AT1R and AT2R in the brain stem are more promising against
+stroke-induced pressor response. Nevertheless, those ﬁndings are
+seemingly at variance with the contemporary view (Luoh and Chan,
+2001) that AT2R in the brain counteracts AT1R-mediated hypertension.
+We noted, however, that Du et al. (2013) reported recently that application of the AT2R antagonist PD123319 into the RVLM increases BP only
+in control rats but not during stress-induced hypertension. As such, it is
+not unreasonable to stipulate that both AT1R and AT2R signaling in the
+RVLM are involved in the pressor response after stroke. More importantly, the demonstration of a critical role for AT2R at the RVLM in
+stroke-induced pressor response suggested that an alternative explanation for the controversial effect of contemporary ARBs is that these
+agents are directed only against AT1R but not AT2R.
+The physiological and pathological functions of Ang-(1–7)/MasR
+and Ang IV/AT4R signaling have attracted recent attention (McKinley
+et al., 2003). With reference to stroke, MasR activation by i.c.v. infusion
+of Ang-(1–7) (Mecca et al., 2011) or AT4R activation by internal carotid
+infusion of Ang IV (Faure et al., 2006) is protective against mortality,
+neurological deﬁcit and cerebral infarct size after acute cerebral ischemia. Mechanistically, the present study revealed a reduction of Ang(1–7), MasR, Ang IV and AT4R level in the RVLM on day 1 after MCAO
+that is concurrent with the activation of AT1R and AT2R signaling. It follows that the resultant decrease in the capacity to lower BP and HR in
+effect exacerbates stroke-induced pressor response and tachycardia.
+However, the inability of pretreatment with A779 and AT4R antiserum
+to affect pressor response and tachycardia after stroke implies that
+MasR or AT4R at the RVLM must be activated by Ang-(1–7) or Ang IV
+to exert its depressive effects on BP and HR.
+The present study also implicated an important role for inﬂammation at the RVLM in stroke-induced pressor response. The proinﬂammatory chemokine MCP-1 and its receptor CCR2 play an
+
+A.Y.W. Chang et al. / Neurobiology of Disease 71 (2014) 292–304
+
+A
+
+301
+
+B
+
+C
+
+D
+
+E
+
+F
+
+Fig. 7. Effects of AK against stroke-induced neuronal activation and neuroinﬂammation in the RVLM. A: Representative laser scanning confocal microscopic images showing cells in the
+RVLM that were immunoreactive to a activation of astrocyte and microglia stained positively by GFAP and OX-42 in SC or MCAO group one day after stroke. Scale bar, 200 μm. B and
+C: Representative laser scanning confocal microscopic images showing cells in the RVLM that were immunoreactive to a neuronal activation (B) double-stained positively by c-Fos and
+NeuN or to a neuroinﬂammation (C) stained by GFAP or OX-42 in sham control (SC), aCSF + MCAO (MCAO) or aliskiren + MCAO (AK + MCAO) group one day after stroke. Scale bar,
+10 μm. Note the position of individual nucleus of neuron or glia is denoted by + or white arrow. D–F: Effects of AK produce efﬁcacious antagonism of the protein expressions of c-Fos
+(D), GFAP (E) and OX-42 (F) in SC, aCSF + MCAO, AK + MCAO or AK alone group one day after stroke. Values are mean ± SEM of triplicate analyses from 3 to 6 animals per experimental
+group and are presented in folds relative to SC group. *P b 0.05 versus SC group, and +P b 0.05 versus vehicle (aCSF) + MCAO group in the post hoc Scheffé multiple-range test.
+
+302
+
+A.Y.W. Chang et al. / Neurobiology of Disease 71 (2014) 292–304
+
+Fig. 8. Schematic illustration of signaling pathways and cellular responses in RVLM that are
+differentially involved in eliciting pressor response and tachycardia after stroke. Activation
+of AT1R and AT2R by the augmented Ang II concentration in the RVLM after stroke promotes pressor response and tachycardia by upregulation of the MCP-1/CCR2 signaling
+pathway. This process is exacerbated by the concurrent reduction in Ang-(1–7) and Ang
+IV, both of which downregulate the MCP-1/CCR2 signaling pathway via MasR and AT4R
+in the RVLM. At the cellular level, elevation of BP and HR may result from activation of
+RVLM neurons and neuroinﬂammation because of activation of astrocytes and microglia
+in the RVLM. Inhibition of renin in the RVLM by aliskiren reduces the concentration of primarily Ang II and secondarily Ang-(1–7) and Ang IV, with an overall net suppressive effect
+on the MCP-1/CCR2 signaling. In addition, aliskiren may reduce activation of neurons, astrocytes and microglia in the RVLM. It follows that combined treatment with aliskiren and
+Ang-(1–7) or Ang IV provides more effective amelioration of stroked-induced pressor response and tachycardia. ACE1, angiotensin converting enzyme 1; ACE2, angiotensin
+converting enzyme 2; Ang-(1–7), angiotensin-(1–7); Ang I, angiotensin I; Ang II, angiotensin II; Ang IV, angiotensin IV; APN, aminopeptidase N; AT1R, angiotensin type 1 receptor; AT2R, angiotensin type 2 receptor; AT4R, angiotensin type 4 receptor; BP, blood
+pressure; CCR2, C–C chemokine receptor 2; HR, heart rate; MasR, Mas receptor; MCP-1,
+monocyte chemoattractant protein-1; RVLM, rostral ventrolateral medulla. Solid line arrows denote activation, and dashed line arrows denote depression.
+
+important role in inﬂammatory responses following cerebral ischemia
+(Tsukuda et al., 2011), and MCP-1/CCR2 signaling mediates macrophage
+recruitment and neutrophil inﬁltration to the injury site, resulting in an
+increase of infarct volume and brain damage (Schilling et al., 2009).
+Thus, an intriguing ﬁnding of the present study is that in addition to
+the infarct area, there is an increase in concentration of MCP-1, accompanied by inﬂammation in the brain stem RVLM that is responsible for
+the pressor response after stroke. This notion is commensurate with a
+newly emerged concept proposes that inﬂammatory responses underlie
+Ang II-mediated hypertension (Pan et al., 2009). Our results demonstrated that augmentation of the pro-inﬂammatory mediator MCP-1
+and subsequent activation of CCR2 in the RVLM underlie the pressor response induced by AT1R and AT2R signaling after stroke. Another intriguing ﬁnding in the present study is that the depressor effects of
+Ang-(1–7)/MasR or Ang IV/AT4R in the RVLM after stroke, which antagonizes the pressor response induced after AT1R and AT2R activation, are
+exerted by depressing the MCP-1/CCR2 signaling. Inhibition of proinﬂammatory cytokines in the cerebral cortex, accompanied by a reduction of the infarct area, is induced by Ang-(1–7) administration and
+MasR activation (Regenhardt et al., 2013).
+Our results suggest that aliskiren (a renin inhibitor) presents itself as a promising agent to reduce pressor response after stroke.
+Renin is the ﬁrst and rate-limiting enzyme for the production primarily of Ang II, and secondarily of Ang-(1–7) and Ang IV
+(Schroten et al., 2012). In aliskiren-treated animals, the serum levels
+of Ang II and Ang-(1–7) are reduced (Rusai et al., 2011). We found
+that, in addition to inhibiting renin, aliskiren affects a reduction of
+pressor response after stroke via an anti-inﬂammatory action by
+decreasing MCP-1 level and inhibiting the activation of neuron, microglia and astrocyte in the RVLM. Aliskiren depresses MCP-1 concentration in serum of hypertensive peritoneal dialysis patients
+
+(Makówka et al., 2012) or in gentamicin-treated kidney and human
+proximal tubular epithelial cell HK-2 lines (Bae et al., 2013; Singh
+et al., 2013); and inhibits glial activation in white matter in a
+mouse model of chronic cerebral hypoperfusion (Dong et al., 2011).
+O'Brien et al. (2007) reported that combination of lower doses
+of aliskiren and MasR agonist AVE 0991, diuretics, angiotensinconverting enzyme inhibitor or ARB signiﬁcantly reduces experimental hypertension in deoxycorticosterone acetate-treated rats or
+provides better end-organ protection in patients with mild-tomoderate hypertension. We also observed that combined treatment
+with half doses of aliskiren and Ang-(1–7) or Ang IV produced significant antagonism of the stroke-induced increase in BP and HR to a
+degree that was comparable to or more than that elicited by those
+test agents when delivered alone at full dose, with an overall net suppressive effect on the MCP-1/CCR2 signaling. It follows that combined treatment with aliskiren and Ang-(1–7) or Ang IV provides
+more effective amelioration of stroked-induced pressor response
+and tachycardia.
+Conclusions
+Based on results obtained from a MCAO model of transient focal ischemic stroke, we concluded that AT1R- and AT2R-mediated activation
+of MCP-1/CCR2 signaling induced by an elevated level of Ang II in the
+RVLM, a critical brain stem neural substrate for the maintenance of
+blood pressure, accompanied by concurrent reduction in Ang-(1–7),
+MasR, Ang IV or AT4R expressions, account for the pressor response observed after stroke. We further showed that the novel renin inhibitor
+aliskiren antagonizes the stroked-induced pressor response by reducing
+Ang II, Ang-(1–7) and Ang IV levels, with an overall net suppression of
+MCP-1/CCR2 signaling and an inhibition of neuroinﬂammation in the
+RVLM. Finally, we showed that combined application of aliskiren and
+Ang-(1–7) or Ang IV is more efﬁcacious in ameliorating strokeinduced pressor response and tachycardia.
+Perspectives
+For obvious reasons, timely and effective management of pressor response is beneﬁcial to patients presented to the intensive care unit
+(ICU) after stroke. However, the remedial efﬁcacy of systemic administration of ARBs on stroke-induced pressor response is still controversial.
+By providing further insights into the cellular and molecular mechanisms that underlie pressor response and tachycardia after stroke, our
+present ﬁndings offer several new directions for future therapeutic developments. We demonstrated that both AT1R and AT2R signaling in
+the brain stem, particularly the RVLM, are engaged in the pressor response after stroke. This demonstration offers a reasonable explanation
+for the controversy surrounding the efﬁcacy of currently available ARBs
+that are based on peripheral AT1R antagonism. More importantly, it implicates that targeting both AT1R and AT2R may hold more promise
+against stroke-induced pressor response. Our results also suggested
+that therapy using aliskiren, alone or in combination with Ang-(1–7)
+or Ang IV, offers a new remedial direction. Finally, anti-inﬂammation
+by MCP-1 antagonism, particularly in conjunction with the two abovementioned directions, is another vista for the development of effective
+therapeutic management against stroke-induced pressor response.
+One primary requirement, however, for these strategies to be operative
+is that the new therapeutic agents must cross the BBB if the ultimate target is the ATRs or MCP-1 in the RVLM.
+Acknowledgments
+We thank Che-Wei Lin, Tian-Li Chen, Ya-Hsin Hsieh, Guan-Ling
+Lin, and Cheng-Bang Jian for taking care of the animals used in the
+experiments.
+
+A.Y.W. Chang et al. / Neurobiology of Disease 71 (2014) 292–304
+
+Sources of Funding
+This work was supported by research grant CMRPG8B1241
+(A.Y.W. Chang) from the Chang Gung Medical Foundation, Taiwan,
+Republic of China.
+Disclosures
+None.
+
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at http://dx.
+doi.org/10.1016/j.nbd.2014.08.005.
+
+References
+Ally, A., Nauli, S.M., Maher, T.J., 2002. Cardiovascular responses and neurotransmission in
+the ventrolateral medulla during skeletal muscle contraction following transient
+middle cerebral artery occlusion and reperfusion. Brain Res. 952, 176–187.
+Aoki, S., Ohtsuki, T., Hosomi, N., Sueda, Y., Kono, T., Yamawaki, T., Matsumoto, M., 2011.
+Blood pressure variability and prognosis in acute ischemic stroke with vascular compression on the rostral ventrolateral medulla (RVLM). Hypertens. Res. 34, 617–622.
+Arakelyan, A., Petrkova, J., Hermanova, Z., Boyajyan, A., Lukl, J., Petrek, M., 2005. Serum
+levels of the MCP-1 chemokine in patients with ischemic stroke and myocardial infarction. Mediat. Inﬂamm. 2005, 175–179.
+Bae, E.H., Kim, I.J., Joo, S.Y., Kim, E.Y., Choi, J.S., Kim, C.S., Ma, S.K., Lee, J., Kim, S.W., 2013.
+Renoprotective effects of the direct renin inhibitor aliskiren on gentamicin-induced
+nephrotoxicity in rats. J. Renin Angiotensin Aldosterone Syst. http://dx.doi.org/10.
+1177/1470320312474853.
+Buraczynska, K., Luchowski, P., Wojczal, J., Ksiazek, A., Stelmasiak, Z., 2010. Monocyte
+chemoattractant protein (MCP-1) A-2518G gene polymorphism in stroke patients
+with different comorbidities. Clin. Biochem. 43, 1421–1426.
+Chan, J.Y.H.,Wang, L.L.,Ou, C.C.,Chan, S.H.H., 2003. Downregulation of angiotensin subtype
+1 receptor in rostral ventrolateral medulla during endotoxemia. Hypertension 42,
+103–109.
+Chan, S.H.H., Wang, L.L., Tseng, H.L., Chan, J.Y.H., 2007. Upregulation of AT1 receptor gene
+on activation of protein kinase Cbeta/nicotinamide adenine dinucleotide diphosphate
+oxidase/ERK1/2/c-fos signaling cascade mediates long-term pressor effect of angiotensin II in rostral ventrolateral medulla. J. Hypertens. 25, 1845–1861.
+Chan, S.H.H.,Wu, C.W.,Chang, A.Y.W.,Hsu, K.S.,Chan, J.Y.H., 2010. Transcriptional upregulation of brain-derived neurotrophic factor in rostral ventrolateral medulla by angiotensin II: signiﬁcance in superoxide homeostasis and neural regulation of arterial
+pressure. Circ. Res. 107, 1127–1139.
+Dong, Y.F.,Kataoka, K.,Toyama, K.,Sueta, D.,Koibuchi, N.,Yamamoto, E.,Yata, K.,Tomimoto,
+H., Ogawa, H., Kim-Mitsuyama, S., 2011. Attenuation of brain damage and cognitive
+impairment by direct renin inhibition in mice with chronic cerebral hypoperfusion.
+Hypertension 58, 635–642.
+Donnan, G.A., Fisher, M., Macleod, M., Davis, S.M., 2008. Stroke. Lancet 371, 1612–1623.
+Du, D., Chen, J., Liu, M., Zhu, M., Jing, H., Fang, J., Shen, L., Zhu, D., Yu, J., Wang, J., 2013. The
+effects of angiotensin II and angiotensin-(1–7) in the rostral ventrolateral medulla
+of rats on stress-induced hypertension. PLoS One 8, e70976.
+Faure, S.,Chapot, R.,Tallet, D.,Javellaud, J.,Achard, J.M.,Oudart, N., 2006. Cerebroprotective
+effect of angiotensin IV in experimental ischemic stroke in the rat mediated by
+AT(4) receptors. J. Physiol. Pharmacol. 57, 329–342.
+Geeganage, C., Tracy, M., England, T., Sare, G., Moulin, T., Woimant, F., Christensen, H., De
+Deyn, P.P.,Leys, D., O'Neill, D.,Ringelstein, E.B.,Bath, P.M., 2011. Relationship between
+baseline blood pressure parameters (including mean pressure, pulse pressure, and
+variability) and early outcome after stroke: data from the Tinzaparin in Acute Ischaemic Stroke Trial (TAIST). Stroke 42, 491–493.
+Huang, B.S., White, R.A., Bi, L., Leenen, F.H., 2012. Central infusion of aliskiren prevents
+sympathetic hyperactivity and hypertension in Dahl salt-sensitive rats on high salt
+intake. Am. J. Physiol. Regul. Integr. Comp. Physiol. 302, R825–R832.
+Iadecola, C.,Alexander, M., 2001. Cerebral ischemia and inﬂammation. Curr. Opin. Neurol.
+14, 89–94.
+Jiang, L., Newman, M., Saporta, S., Chen, N., Sanberg, C., Sanberg, P.R., Willing, A.E., 2008.
+MIP-1alpha and MCP-1 induce migration of human umbilical cord blood cells in
+models of stroke. Curr. Neurovasc. Res. 5, 118–124.
+Jiang, T., Gao, L., Guo, J., Lu, J., Wang, Y., Zhang, Y., 2012. Suppressing inﬂammation by
+inhibiting the NF-κB pathway contributes to the neuroprotective effect of
+angiotensin-(1–7) in rats with permanent cerebral ischaemia. Br. J. Pharmacol. 167,
+1520–1532.
+Ko, Y.J., Lee, J.S., Park, B.C., Shin, H.M., Kim, J.A., 2007. Inhibitory effects of Zoagumhwan
+water extract and berberine on angiotensin II-induced monocyte chemoattractant
+protein (MCP)-1 expression and monocyte adhesion to endothelial cells. Vasc.
+Pharmacol. 47, 189–196.
+Kobayashi, T.,Kawamata, T.,Shibata, N.,Okada, Y.,Kobayashi, M.,Hori, T., 2009. Angiotensin II
+type 1 receptor blocker telmisartan reduces cerebral infarct volume and peri-infarct cytosolic phospholipase A(2) level in experimental stroke. J. Neurotrauma 26, 2355–2364.
+
+303
+
+Lattanzi, S., Silvestrini, M.,Provinciali, L., 2013. Elevated blood pressure in the acute phase
+of stroke and the role of angiotensin receptor blockers. Int. J. Hypertens. 2013,
+e941783.
+Lee, M.,Saver, J.L.,Hong, K.S.,Hao, Q.,Chow, J.,Ovbiagele, B., 2012. Renin–angiotensin system
+modulators modestly reduce vascular risk in persons with prior stroke. Stroke 43,
+113–119.
+Losy, J., Zaremba, J., 2001. Monocyte chemoattractant protein-1 is increased in the cerebrospinal ﬂuid of patients with ischemic stroke. Stroke 32, 2695–2696.
+Lüders, S., 2007. Drug therapy for the secondary prevention of stroke in hypertensive patients: current issues and options. Drugs 67, 955–963.
+Luoh, S.H.,Chan, S.H.H., 2001. Inhibition of baroreﬂex by angiotensin II via Fos expression
+in nucleus tractus solitarii of the rat. Hypertension 38, 130–135.
+Makówka, A., Olejniczak-Fortak, M., Nowicki, M., 2012. A comparison of the antihypertensive and anti-inﬂammatory effects of aliskiren and ramipril add-on therapy in peritoneal dialysis patients—a pilot open label study. Kidney Blood Press.
+Res. 36, 18–25.
+Marks, L.,Carswell, H.V.,Peters, E.E.,Graham, D.I.,Patterson, J.,Dominiczak, A.F.,Macrae, I.M.,
+2001. Characterization of the microglial response to cerebral ischemia in the strokeprone spontaneously hypertensive rat. Hypertension 38, 116–122.
+McKinley, M.J.,Albiston, A.L.,Allen, A.M.,Mathai, M.L.,May, C.N.,McAllen, R.M.,Oldﬁeld, B.J.,
+Mendelsohn, F.A., Chai, S.Y., 2003. The brain renin–angiotensin system: location and
+physiological roles. Int. J. Biochem. Cell Biol. 35, 901–918.
+Mecca, A.P., Regenhardt, R.W., O'Connor, T.E., Joseph, J.P., Raizada, M.K., Katovich, M.J.,
+Sumners, C., 2011. Cerebroprotection by angiotensin-(1–7) in endothelin-1-induced
+ischaemic stroke. Exp. Physiol. 96, 1084–1096.
+Min, L.J., Mogi, M., Tsukuda, K., Jing, F., Ohshima, K., Nakaoka, H., Kan-No, H., Wang, X.L.,
+Chisaka, T., Bai, H.Y., Iwanami, J., Horiuchi, M., 2014. Direct stimulation of angiotensin
+II type 2 receptor initiated after stroke ameliorates ischemic brain damage. Am. J.
+Hypertens. http://dx.doi.org/10.1093/ajh/hpu015.
+Mogi, M.,Li, J.M.,Iwanami, J.,Min, L.J.,Tsukuda, K.,Iwai, M.,Horiuchi, M., 2006. Angiotensin
+II type-2 receptor stimulation prevents neural damage by transcriptional activation of
+methyl methanesulfonate sensitive 2. Hypertension 48, 141–148.
+Nagai, M.,Terao, S., Vital, S.A., Rodrigues, S.F.,Yilmaz, G., Granger, D.N., 2011. Role of blood
+cell-associated angiotensin II type 1 receptors in the cerebral microvascular response
+to ischemic stroke during angiotensin-induced hypertension. Exp. Transl. Stroke
+Med. 3, 15–23.
+O'Brien, E., Barton, J., Nussberger, J., Mulcahy, D., Jensen, C., Dicker, P., Stanton, A., 2007.
+Aliskiren reduces blood pressure and suppresses plasma renin activity in combination with a thiazide diuretic, an angiotensin-converting enzyme inhibitor, or an angiotensin receptor blocker. Hypertension 49, 276–284.
+Omura, T.,Yoshiyama, M.,Kim, S.,Matsumoto, R.,Nakamura, Y.,Izumi, Y.,Ichijo, H.,Sudo, T.,
+Akioka, K.,Iwao, H.,Takeuchi, K.,Yoshikawa, J., 2004. Involvement of apoptosis signalregulating kinase-1 on Ang II-induced monocyte chemoattractant protein-1 expression. Arterioscler. Thromb. Vasc. Biol. 24, 270–275.
+Pan, Q., Yang, X.H., Cheng, Y.X., 2009. Angiotensin II stimulates MCP-1 production in rat
+glomerular endothelial cells via NAD(P)H oxidase-dependent nuclear factor-kappa
+B signaling. Braz. J. Med. Biol. Res. 42, 531–536.
+Potter, J., Robinson, T., Ford, G., James, M., Jenkins, D., Mistri, A., Bulpitt, C., Drummond, A.,
+Jagger, C., Knight, J., Markus, H., Beevers, G., Dewey, M., Lees, K., Moore, A., Paul, S.,
+2005. CHHIPS (Controlling Hypertension and Hypotension Immediately PostStroke) Pilot Trial: rationale and design. J. Hypertens. 23, 649–655.
+Regenhardt, R.W., Desland, F., Mecca, A.P., Pioquinto, D.J., Afzal, A., Mocco, J., Sumners, C.,
+2013. Anti-inﬂammatory effects of angiotensin-(1–7) in ischemic stroke. Neuropharmacology 71, 154–163.
+Rhoney, D.H.,Moser, L.R., 2011. Angiotensin receptor blockers following acute stroke. Expert. Rev. Cardiovasc. Ther. 9, 691–696.
+Rusai, K., Schmaderer, C., Hermans, J.J., Lutz, J., Heemann, U., Baumann, M., 2011. Direct
+renin inhibition in a rat model of chronic allograft injury. Transplantation 92,
+999–1004.
+Saad, M.A., Abbas, A.M., Boshra, V., Elkhateeb, M., El Aal, I.A., 2010. Effect of angiotensin II
+type 1 receptor blocker, candesartan, and beta 1 adrenoceptor blocker, atenolol, on
+brain damage in ischemic stroke. Acta Physiol. Hung. 97, 159–171.
+Sandset, E.C., Bath, P.M., Boysen, G., Jatuzis, D., Kõrv, J., Lüders, S., Murray, G.D., Richter, P.S.,
+Roine, R.O., Terént, A., Thijs, V., Berge, E., 2011. The angiotensin-receptor blocker
+candesartan for treatment of acute stroke (SCAST): a randomised, placebocontrolled, double-blind trial. Lancet 377, 741–750.
+Sardo, M.A.,Campo, S.,Mandrafﬁno, G.,Saitta, C.,Bonaiuto, A.,Castaldo, M.,Cinquegrani, M.,
+Pizzimenti, G.,Saitta, A., 2008. Tissue factor and monocyte chemoattractant protein-1
+expression in hypertensive individuals with normal or increased carotid intimamedia wall thickness. Clin. Chem. 54, 814–823.
+Sawhney, J.P., 2010. First orally active DRI aliskiren—a new prospect in management of
+hypertension and beyond. Indian Heart J. 62, 49–56.
+Schilling, M.,Strecker, J.K.,Schäbitz, W.R.,Ringelstein, E.B.,Kiefer, R., 2009. Effects of monocyte chemoattractant protein 1 on blood-borne cell recruitment after transient focal
+cerebral ischemia in mice. Neuroscience 161, 806–812.
+Schmerbach, K.,Pfab, T.,Zhao, Y.,Culman, J.,Mueller, S.,Villringer, A.,Muller, D.N.,Hocher, B.,
+Unger, T., Thoene-Reineke, C., 2010. Effects of aliskiren on stroke in rats expressing
+human renin and angiotensinogen genes. PLoS One 5, e15052.
+Schroten, N.F.,Gaillard, C.A.,van Veldhuisen, D.J.,Szymanski, M.K.,Hillege, H.L.,de Boer, R.A.,
+2012. New roles for renin and prorenin in heart failure and cardiorenal crosstalk.
+Heart Fail. Rev. 17, 191–201.
+Singh, Y., Singh, K., Sharma, P.L., 2013. Effect of combination of renin inhibitor and Masreceptor agonist in DOCA-salt-induced hypertension in rats. Mol. Cell. Biochem.
+373, 189–194.
+Spyer, K.M., 1994. Annual review prize lecture. Central nervous mechanisms contributing
+to cardiovascular control. J. Physiol. 474, 1–19.
+
+304
+
+A.Y.W. Chang et al. / Neurobiology of Disease 71 (2014) 292–304
+
+Sykora, M.,Diedler, J.,Poli, S.,Rupp, A.,Turcani, P.,Steiner, T., 2010. Blood pressure course in
+acute stroke relates to baroreﬂex dysfunction. Cerebrovasc. Dis. 30, 172–179.
+Tsukuda, K.,Mogi, M.,Iwanami, J.,Min, L.J.,Jing, F.,Oshima, K.,Horiuchi, M., 2011. Irbesartan
+attenuates ischemic brain damage by inhibition of MCP-1/CCR2 signaling pathway
+beyond AT receptor blockade. Biochem. Biophys. Res. Commun. 409, 275–279.
+
+Wu, Y.P., Ling, E.A., 1998. Induction of Fos-like immunoreactivity in the hypothalamic,
+medullary and thoracic spinal cord neurons following middle cerebral artery occlusion in rats. Neurosci. Res. 30, 145–153.
+Zhang, J.,Peng, Y.,Fan, H.,Chen, M.,Xu, T.,Zhang, Y., 2011. Blood pressure and early clinical
+outcome among acute ischemic stroke patients. Can. J. Neurol. Sci. 38, 225–229.
+
+

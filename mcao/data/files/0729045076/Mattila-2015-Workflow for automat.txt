@@ -1,0 +1,584 @@
+Microvascular Research 97 (2015) 19–24
+
+Contents lists available at ScienceDirect
+
+Microvascular Research
+journal homepage: www.elsevier.com/locate/ymvre
+
+Short Communication
+
+Workﬂow for automated quantiﬁcation of cerebromicrovascular
+gelatinase activity
+Olli S. Mattila a,⁎,1, Ville Rantanen b,1, Jani Saksi a, Daniel Strbian c, Tero Pikkarainen a,
+Sampsa Hautaniemi b, Perttu J. Lindsberg a,c
+a
+b
+c
+
+Research Programs Unit, Molecular Neurology, and Department of Clinical Neurosciences, University of Helsinki, Helsinki, Finland
+Research Programs Unit, Genome-Scale Biology, Institute of Biomedicine, Biochemistry and Developmental Biology, University of Helsinki, Finland
+Department of Neurology, Helsinki University Central Hospital, Finland
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Accepted 6 August 2014
+Available online 19 September 2014
+Keywords:
+Bioinformatics
+Automated analysis
+Image analysis
+Gelatinases
+Experimental stroke
+
+a b s t r a c t
+The gelatinase enzymes, matrix metalloproteinases -2 and -9, are central mediators of blood–brain barrier
+disruption, actively studied in experimental models of neurological disease. Staining with in situ zymography
+(ISZ) allows visualization of gelatinase activity directly in brain tissue sections. However, quantifying
+microvascular gelatinase activity from ISZ-images is challenging and time consuming, as surrounding cell types
+often show signiﬁcant confounding activity. We describe validation and performance of a workﬂow for
+automated image analysis of cerebromicrovascular gelatinase activity, now released for open-access use. In
+comparison to manual analysis, the automated workﬂow showed superior accuracy, was faster to execute and
+allows for more detailed analysis of heterogeneity in the microvasculature. We further suggest recommendations
+for quantifying and reporting this type of activity in experimental studies, focusing on ischemic stroke.
+© 2014 Elsevier Inc. All rights reserved.
+
+Introduction
+Matrix metalloproteinase enzymes (MMPs) are zinc-dependent
+endopeptidases with central physiological proteolytic functions
+(Rosenberg, 2009). The gelatinase enzymes, MMPs -2 and -9, are
+capable of degrading vascular basal lamina, and participate in microvascular events such as angiogenesis, leukocyte inﬁltration and ischemia/
+reperfusion injury. In the cerebral microvasculature, gelatinase enzymes
+are central mediators of blood–brain barrier disruption in pathologies
+such as ischemic stroke, cerebral hemorrhage and infections, and
+remain a focus of active investigation (Rosenberg, 2009).
+Enzymatic activity of gelatinases is regulated at several levels,
+including expression, secretion, activation, and inhibition (by Tissue
+inhibitors of metalloproteinases, TIMPs) (Ra and Parks, 2007). Because
+of this, traditional methods like western blot and immunohistochemistry are largely insufﬁcient in determining the genuine local activity of
+gelatinases. Likewise, gel zymography does not give spatial information,
+and may not always represent true gelatinase activity, as natural
+inhibitors are dissociated from gelatinases by SDS-treatment
+
+⁎ Corresponding author at: Research Programs Unit, Molecular Neurology, Biomedicum
+Helsinki, Haartmaninkatu 8, 00290 Helsinki, Finland.
+E-mail address: olli.s.mattila@helsinki.ﬁ (O.S. Mattila).
+1
+Equal contribution.
+
+http://dx.doi.org/10.1016/j.mvr.2014.08.009
+0026-2862/© 2014 Elsevier Inc. All rights reserved.
+
+(Vandooren et al., 2013). These limitations were addressed by in situ
+zymography (ISZ), in which ﬂuorescently overlabeled gelatin is applied
+directly on tissue sections. Active gelatinases fragment gelatin, leading
+to dequenching of ﬂuorescence in gelatin fragments, and a local
+ﬂuorescent signal that correlates with in situ gelatinase activity
+(Vandooren et al., 2013).
+Previously, we set out to determine differences in cerebromicrovascular
+gelatinase activity between treatment groups in an experimental stroke
+study (Mattila et al., 2011). Using ISZ, we quickly found that quantiﬁcation of microvascular gelatinase activity using traditional manual
+image-analysis was time-consuming, and that in brain tissue, other
+active cellular structures confounded precise selection of active microvascular structures, especially perpendicularly cut microvessels. Here,
+we describe the validation and performance of our workﬂow for quantiﬁcation of microvascular gelatinase activity, including staining and
+visualization of ISZ, and novel software for automated image-analysis
+(which we have now made freely available for download at: http://
+anduril.org/pub/anima/ISZ_activity/). Our main ﬁnding is that automated image analysis has superior accuracy and speed compared to manual
+analysis in this speciﬁc setting of cerebromicrovascular research, and
+allows for more detailed investigation of microvascular gelatinase
+activity. We further suggest methods to unify quantiﬁcation and
+reporting of changes in microvascular gelatinase activity in experimental studies. Most importantly, automated analysis is preferable, and
+selection of “gelatinase active” microvessels should be based on deﬁned
+levels of ISZ brightness.
+
+20
+
+O.S. Mattila et al. / Microvascular Research 97 (2015) 19–24
+
+Methods
+Animal model of focal cerebral ischemia
+The experimental procedure has been described previously (Strbian
+et al., 2006). Brieﬂy, adult male Wistar rats (n = 5), weighing 290–
+340 g, were anesthetized with ketamine (i.p., 50 mg/kg, Ketalar,
+Parke-Davis, Detroit, MI, USA) and medetomidine (s.c., 0.5 mg/kg,
+Domitor, Orion, Espoo, Finland). Focal ipsilateral cerebral ischemia
+was induced with the suture MCAO model. After 1 h of ischemia
+and 3 h of reperfusion animals were sacriﬁced with pentobarbital
+(60 mg/kg, Mebunat, Orion) and transcardially perfused with ice-cold
+saline. Infarction was conﬁrmed with 2,3,5 triphenyltetrazolium chloride
+staining as described previously (Strbian et al., 2006). A representative
+1 mm coronal brain section was embedded in Tissue-tek (Sakura
+Finetek Inc., Tokyo, Japan), snap-frozen with liquid nitrogen and
+stored at − 80 °C. 8 µm thick sections were prepared for staining.
+All experiments were approved by local authorities (ELLA animal
+experiment board, Finland), and conducted in accordance with The
+Finnish Act on Animal Experimentation (62/2006).
+
+In situ zymography and immunohistochemistry
+For ISZ the brain sections were air-dried for 5 min at room
+temperature and washed with phosphate-buffered saline (PBS) for
+5 min. DQ-gelatin (0.1 mg/ml, EnzChek® gelatinase/collagenase assay
+kit, Invitrogen, Carlsbad, CA, USA) was applied on the sections and
+incubated in a humid chamber for 2 h at 37 °C. Sections were then
+rinsed in PBS and dH2O. Control sections were incubated with gelatinase
+inhibitors Ilomastate (500 mM, GM6001, Millipore) or TIMP-1 (500 nM,
+R&D Biosystems) for 1 h before and during DQ-gelatin incubation, and
+reduced ISZ-activity was seen.
+
+After ISZ, sections were stained for detection of neurons (Neuronal
+Nucleus, NeuN), astrocytes (Glial Fibrillary Acidic Protein, GFAP) or
+endothelial cells (von Willebrand Factor, vWF). Primary antibodies
+used were: NeuN (A60 Chemicon, 0.5 μg/mL, 1 h), GFAP (G-A-5
+Sigma-Aldrich, 1/1000, 1 h) and vWF (rabbit polyclonal Abcam,
+19.5 μg/mL, o/n). Alexaﬂuor 594 secondary antibodies were used
+(anti-mouse 10 μg/mL or anti-rabbit 5 μg/mL, 30 min, Invitrogen).
+Control sections incubated with nonspeciﬁc mouse IgG1 (Dako) or
+rabbit IgG (Vector labs) in equivalent concentrations showed no
+speciﬁc immunostaining. We mounted sections with Prolong Gold
+(Invitrogen).
+Digital imaging
+Imaging was performed using an Axioplan 2 epiﬂuorescent microscope (Carl Zeiss, Hallbergmoos, Germany) with a 20×-objective. Five
+region of interest (ROI) images were acquired from predeﬁned sites
+(three cortical and two subcortical) from both hemispheres with an
+AxioCam camera, (1300 × 1030 pixels) and Axiovision software
+(v3.0.6, Carl Zeiss). Image sets were acquired using constant exposure
+times for all samples, and using the Zeiss Vision Image (ZVI) ﬁle format.
+A sample image is shown in Fig. 1. For a schematic procedure of sample
+preparation and imaging see Fig. 2a.
+Automated high-throughput image analysis
+We created a novel automated analysis workﬂow (Fig. 2b) for
+analyzing microvascular gelatinase activity, which was implemented
+using the Anduril workﬂow framework (Ovaska et al., 2010). The
+pipeline utilizes Mathworks MATLAB and CRAN R and can be installed
+on any modern Ubuntu operating system, and is now available for
+free download in the public domain (http://anduril.org/pub/anima/
+ISZ_activity/).
+
+Ipsilateral hemisphere
+
+ISZ
+
+vWF
+
+Merge + segmentaon
+
+vWF
+
+Merge + segmentaon
+
+Contralateral hemisphere
+
+ISZ
+
+Fig. 1. Microvascular gelatinase activity in the ipsilateral and contralateral brain hemispheres after 1 h of ischemia and 3 h of reperfusion. ISZ, vWF and merged images are shown, together
+with segmentation from the automated analysis workﬂow. Although some longitudinally cut vessels are noticeable in the ISZ image, active perpendicularly cut vessels can only be identiﬁed using the vWF image as reference (white arrows). Only weak microvascular activity was seen in the contralateral hemispheres. The ISZ and imaging protocols were optimized for
+microvascular analysis. Scale bars = 50 μm.
+
+O.S. Mattila et al. / Microvascular Research 97 (2015) 19–24
+
+A
+
+21
+
+For comparison, active microvessels were counted manually from
+the same images using only the ISZ channel. Only longitudinally cut
+microvessels could be identiﬁed reliably. Counting was performed
+blinded to sample identity. To validate segmentation of the automated
+workﬂow, we compared results with manually outlining all
+microvessels from the vWF-channels of the image set (n = 49). The
+compared object selections were classiﬁed into two groups based on
+location. Matched objects were found in both analyses. Non-matched
+objects either matched but at a distance greater than 60 pixels, they
+were not found by the automated analysis, or they were found only by
+the automated analysis.
+Statistics
+
+B
+
+Data are described as mean ± SD. A standard Student's unpaired
+t-test was used to compare analysis results between brain hemispheres.
+A 2-tailed p-value of b0.05 was considered signiﬁcant. Analyses were
+performed using CRAN R and SPSS v.21.
+Results
+Automated analysis improves accuracy of quantifying cerebromicrovascular
+gelatinase activity in experimental ischemic stroke
+To demonstrate performance of our automated workﬂow we
+compared ISZ-positive microvessels between the ischemic and healthy
+hemispheres of Wistar rats that underwent transient focal ischemia.
+Manual counting revealed an increased number of ISZ-positive
+longitudinally cut microvessels in the ischemic hemispheres, 23.8 ±
+9.55 vessels vs. 9.8 ± 5.4 contralaterally (p = 0.021, Fig. 3A).
+The automated analysis, taking into account all vWF-positive
+microvessels, found a greater difference between hemispheres, with
+35.9 ± 9.0% of highly active vessels ipsilaterally vs. 11.8 ± 11.3%
+contralaterally (p = 0.007, Fig. 3B). In addition, mean microvascular
+ISZ brightness values were signiﬁcantly different between hemispheres:
+1.31 ± 0.06 compared to 1.12 ± 0.12 (p = 0.02, Fig. 3B).
+Accuracy and speed of analysis
+
+Fig. 2. Structure of the workﬂow including (A) sample preparation, staining procedures
+and imaging, followed by (B) automated computerized image analysis. Margination refers
+to counting vessel brightness as fold change from background. Grouping information is
+combined to the results after analysis so that statistical tests and graph plotting can be
+performed.
+
+The workﬂow reads native format image ﬁles using the LOCI
+BioFormats [http://www.loci.wisc.edu/software/bio-formats] library
+and extracts the ISZ and vWF channels. The vWF signal is subjected to
+local background subtraction, and thresholded with Otsu's method
+(Otsu, 1975). Large and small objects formed by image noise are ﬁltered
+out with area restrictions (40 to 9200 pixel2). The thresholded vWF
+mask image is used to deﬁne microvascular objects and their intensity
+features are extracted from the ISZ channel. Two mean values are
+extracted for data normalization; the intensities of the object and a
+20-pixel-wide ring surrounding it. The relative brightness of each object
+is then deﬁned as fold-change from immediate background using these
+values.
+Highly active microvessels were deﬁned as having a relative
+brightness of one SD higher than the mean microvascular activity of
+the contralateral hemisphere, and results are expressed as percent of
+highly active vessels per hemisphere. The workﬂow output ﬁles include
+visualizations of segmentation, also overlaid on original vWF and ISZ
+channels, and data analysis with graphs and statistical tests. One outlier
+image was removed due to unsuccessful staining and segmentation of
+the vWF channel which left 49 images for analysis.
+
+In vWF images, 86% of all the manually outlined objects (n = 5269)
+matched with automatically segmented objects. During manual
+selection, lengthwise cut microvessels were often selected as single
+objects although they showed uneven staining. However, automated
+analysis selected only the true areas of vWF-staining, fragmenting the
+object and leading to smaller, more accurate, areas of selection. These
+differences in the accuracy of outlining led to a 68% smaller total
+area of selection compared to manual outlining. The widths of the
+automatically segmented objects correspond with known microvessel
+diameters.
+Automated analysis of 49 ISZ + vWF-images took a total of 12 min
+(approx. 15 s/image) with a 2.5 GHz Intel Xeon computer, including
+all statistics and plot generation. In our experience manual counting
+takes 1–2 min per image, depending on rater experience.
+Automated quantiﬁcation enables detailed evaluation of microvessel
+populations
+We found that detailed measurements of microvascular properties
+such as gelatinase activity and vessel morphology were not practical
+to execute during manual analysis. As a solution for this, we modiﬁed
+our workﬂow to register and report individual measurements of all
+automatically selected vascular objects (n = 5292). Detailed analysis
+of the distribution of microvascular gelatinase activities showed a
+clear rightward shift and wider spread in activity histograms of the
+ipsilateral hemispheres (Fig. 3C). This demonstrated that ischemia
+induced microvascular gelatinase activation is heterogeneous.
+
+22
+
+O.S. Mattila et al. / Microvascular Research 97 (2015) 19–24
+
+A Manual counng
+
+B Automated image analysis
+p=0.007
+
+35
+30
+25
+20
+15
+10
+
+P
+
+5
+
+C
+
+0
+
+Ipsi
+
+Contra
+
+1.4
+
+50
+40
+30
+20
+10
+0
+
+Ipsi
+
+D
+
+80 Ipsi
+
+Contra
+
+400
+
+1.3
+1.2
+1.1
+1
+
+Ipsi Contra
+
+Ipsi
+
+<7,5 μm
+7,5 – 15 μm
+>15 μm
+
+300
+
+Number of vessels
+
+Number of vessels
+
+60
+40
+20
+0
+80 Contra
+60
+40
+20
+0
+
+p=0.02
+
+Mean ISZ acvity of vessels
+
+40
+
+Percent highly acve vessels
+
+ve vessels per 5 images
+
+p=0.021
+
+200
+100
+0
+400
+
+Contra
+
+300
+200
+100
+
+.5
+
+1.0
+
+1.5
+
+2.0
+
+ISZ acvity of vessels
+
+0
+
+.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+ISZ acvity of vessels
+
+Fig. 3. Results of (A) manual and (B) automated image analyses of microvascular gelatinase activity (n = 5 animals). Importantly, manual counting from ISZ images only allowed
+identiﬁcation of longitudinally cut microvessels, limiting measurements to a small fraction of the microvasculature. In comparison, automated analysis identiﬁed 108 ± 36 microvessels
+per image. Consequently, automated analysis showed a statistically more signiﬁcant difference between hemisphere in the percent of highly active vessels (p = 0.007). Automated
+analysis also allowed measurement of ISZ brightness, which correlates with increased gelatinase activity. (C) Histograms of microvascular gelatinase activity in the ipsi- and contralateral
+hemispheres of an exemplary animal demonstrate a shift in activities induced by experimental stroke. Microvessels classiﬁed as highly active are shown in dark gray. Automated
+combining of morphological measurements with ISZ activities enables detailed analysis of different vessel classes. (D) Activity histograms of all ipsilateral and all contralateral microvessels
+demonstrate vessels classes of different widths show equal distributions of gelatinase activity after experimental stroke (total of n = 5292 analyzed microvessels from 5 animals).
+
+Automated combining of morphological measurements to vessel ISZ
+activities allowed further itemized analysis of gelatinase activation. We
+divided vascular objects into three size classes based on vessel width
+(b7.5 μm, 7.5–15 μm, and N15 μm), measured as the minor axis of an
+ellipsoid ﬁtted around the outlined object. In a combined analysis of
+all ipsilateral and all contralateral vessels, these three size classes
+showed equal distributions of gelatinase activities (Fig. 3D).
+Discussion
+Molecular staining techniques are a central approach in microvascular
+research. Traditionally quantiﬁcation of these samples has relied on
+manual evaluation, with parameters created separately for each individual situation. Problematically, the manual approach is arduous for the
+researcher, involves variation between observers, and complicates
+comparison of results between studies. Automated image analysis
+presents as a convenient tool for solving these challenges, and together
+with automated microscopy techniques can facilitate high-throughput
+analysis of large sample-sets (Dragunow, 2008).
+Activation of gelatinase enzymes (MMP-2/MMP-9) is a central
+culminating pathway driving blood–brain barrier destruction in
+ischemic stroke and several other neuropathologies. Consequently the
+majority of studies investigating microvascular gelatinase activity have
+centered on brain tissue. ISZ is a powerful tool in this setting, as it
+demonstrates true gelatinase activity in the micromilieu of pro-forms
+and gelatinase inhibitors. As a drawback, activation of other cell types
+interferes with interpretation, and perpendicularly cut microvessels
+can be considerably hard to identify without double staining with
+
+vascular markers. Furthermore, it is difﬁcult to consistently deﬁne
+what level of brightness entails counting a microvessel as “gelatinase
+active”, leading to possible variation and compromised accuracy.
+Earlier studies have used various methodologies for quantifying
+microvascular ISZ activity. In studies by Sehba et al., microvascular
+gelatinase activity was evaluated in rats after subarachnoid hemorrhage
+using staining for ISZ and Collagen IV, with positive vessels counted
+either manually or with Iplab software (Friedrich et al., 2011; Sehba
+et al., 2004, 2007). Wang & Tsirka counted ISZ positive microvessels in
+a mouse model of ICH manually, but don't specify whether quantiﬁcation was performed from double stained sections (Wang and Tsirka,
+2005). Lee et al. performed the analysis manually from ISZ and CD-31
+stained sections in a mouse model of VEGF-induced angiogenesis (Lee
+et al., 2009). Finally, Louboutin et al. performed the analysis in a HIV-1
+gp120-induced injury model using Image Pro Plus, but don't specify
+use of double stained sections, or parameters for counting (Louboutin
+et al., 2010). Surprisingly, none of these earlier studies describe what
+level of ISZ-brightness deﬁnes an activated microvessel, although the
+microvasculature is always heterogeneous, with a wide range of
+activities (Fig. 3C).
+Here, we describe the validation and performance of our workﬂow
+for automated quantiﬁcation of microvascular gelatinase activation,
+which addresses earlier limitations in reporting the intensity of
+gelatinase activation and deﬁning a vessel as “gelatinase active”.
+Compared with earlier approaches, the workﬂow takes into account
+brightness of the microvascular objects, allowing the user to report
+the intensity of gelatinase activation, and deﬁne what level of ISZ
+brightness represents an active microvessel. Importantly, compared to
+
+O.S. Mattila et al. / Microvascular Research 97 (2015) 19–24
+
+manual counting the workﬂow is both rapid and exact, and is always
+consistent between samples. The workﬂow has now been made
+available for free download in the public domain (http://anduril.org/
+pub/anima/ISZ_activity/), allows customization of the analysis, and
+can also be used together with other cellular markers (Fig. 4). The
+workﬂow takes into account a superior number of individual
+microvascular objects, increasing the statistical power of the analysis,
+and allowing also for detailed comparison of discrete tissue areas or
+selected microvascular populations if needed. Of note, in this type of
+analysis it is vital to use consistent parameters in staining and imaging
+of all samples to allow for reliable comparison of vessel brightness.
+The incubation time of ISZ should also be separately optimized for
+each sample set to prevent saturation of the microvascular ISZ
+signal in samples with high gelatinase activity. Finally, the workﬂow
+generates visualization images that are a veriﬁable record of
+microvessel selection.
+In conclusion, we suggest the following guidelines for quantifying
+microvascular gelatinase activity in future experimental studies:
+1) Quantiﬁcation should be performed with automated computerized
+methodology to ensure consistent target selection parameters, and
+to save resources; time, manpower and even animals.
+2) Quantiﬁcation should be performed from tissue sections double
+stained with ISZ and an endothelial marker, to ensure capture of
+the whole microvasculature.
+3) The analysis should include measurements of ISZ brightness together
+with suitable normalization, so that the level of microvascular
+gelatinase activation can be compared between studies.
+
+A
+
+vWF B
+
+D
+
+GFAP
+
+G
+
+NeuN H
+
+E
+
+23
+
+4) Sufﬁcient detail in describing the methodology and parameters of
+quantiﬁcation is needed for independent replication of results by
+other researchers.
+Disclosures
+No disclosures.
+Author contributions
+O.S.M. performed staining procedures, participated in creating the
+image analysis software, performed validation of the software and
+drafted the manuscript. V.R. created the image analysis software and
+performed its validation. D.S. performed the animal experiments. J.S.
+and T.P. optimized the ISZ staining methods. All authors contributed
+to planning the study, and edited and reviewed the manuscript for
+important intellectual content.
+Acknowledgments
+This work has been funded by the Helsinki Biomedical Graduate
+School, The Academy of Finland, the Sigrid Jusélius Foundation, the
+Paavo Nurmi Foundation, the Aarne Koskelo Foundation, the Maire
+Taponen Foundation, The Helsinki University Central Hospital (EVO
+funds) and the EU FP7 project FLUODIAMON (grant agreement no.
+201837). We also thank the Biomedicum Imaging Unit Core Facility at
+Faculty of Medicine, University of Helsinki for the use of their
+instruments, as well as excellent support and advice. Aysan Durukan,
+
+C
+
+F
+
+I
+
+Fig. 4. Automated image analysis can also be utilized to measure ISZ activity of other cerebral cell types. Cellular marker channels, segmentation results and merged ISZ + marker channels
+are shown for microvessels (vWF, A–C), astrocytes (GFAP, D–F) and neurons (NeuN, G–I).
+
+24
+
+O.S. Mattila et al. / Microvascular Research 97 (2015) 19–24
+
+Taru Puhakka and Nancy Lim are thanked for their skillful technical
+assistance.
+
+References
+Dragunow, M., 2008. High-content analysis in neuroscience. Nat. Rev. Neurosci. 9,
+779–788.
+Friedrich, V., Flores, R., Muller, A., Bi, W., Peerschke, E.I., Sehba, F.A., 2011. Reduction of
+neutrophil activity decreases early microvascular injury after subarachnoid haemorrhage. J. Neuroinﬂammation 8, 103.
+Lee, C.Z., Xue, Z., Hao, Q., Yang, G.-Y., Young, W.L., 2009. Nitric oxide in vascular endothelial growth factor-induced focal angiogenesis and matrix metalloproteinase-9 activity
+in the mouse brain. Stroke 40, 2879–2881.
+Louboutin, J.-P., Agrawal, L., Reyes, B.A.S., Van Bockstaele, E.J., Strayer, D.S., 2010. HIV-1
+gp120-induced injury to the blood–brain barrier: role of metalloproteinases 2 and
+9 and relationship to oxidative stress. J. Neuropathol. Exp. Neurol. 69, 801–816.
+Mattila, O.S., Strbian, D., Saksi, J., Pikkarainen, T.O., Rantanen, V., Tatlisumak, T., Lindsberg,
+P.J., 2011. Cerebral mast cells mediate blood–brain barrier disruption in acute
+experimental ischemic stroke through perivascular gelatinase activation. Stroke 42,
+3600–3605.
+Otsu, N., 1975. A threshold selection method from gray-level histograms. Automatica. 9,
+62–66.
+
+Ovaska, K., Laakso, M., Haapa-Paananen, S., Louhimo, R., Chen, P., Aittomäki, V., Valo, E.,
+Núñez-Fontarnau, J., Rantanen, V., Karinen, S., Nousiainen, K., Lahesmaa-Korpinen,
+A.-M., Miettinen, M., Saarinen, L., Kohonen, P., Wu, J., Westermarck, J., Hautaniemi,
+S., 2010. Large-scale data integration framework provides a comprehensive view on
+glioblastoma multiforme. Genome Med. 2, 65.
+Ra, H.-J., Parks, W.C., 2007. Control of matrix metalloproteinase catalytic activity. Matrix
+Biol. 26, 587–596.
+Rosenberg, G.A., 2009. Matrix metalloproteinases and their multiple roles in neurodegenerative diseases. Lancet Neurol. 8, 205–216.
+Sehba, F.A., Mostafa, G., Knopman, J., Friedrich, V., Bederson, J.B., 2004. Acute alterations in
+microvascular basal lamina after subarachnoid hemorrhage. J. Neurosurg. 101,
+633–640.
+Sehba, F.A., Friedrich, V., Makonnen, G., Bederson, J.B., 2007. Acute cerebral vascular injury
+after subarachnoid hemorrhage and its prevention by administration of a nitric oxide
+donor. J. Neurosurg. 106, 321–329.
+Strbian, D., Karjalainen-Lindsberg, M.-L., Tatlisumak, T., Lindsberg, P.J., 2006. Cerebral
+mast cells regulate early ischemic brain swelling and neutrophil accumulation. J.
+Cereb. Blood Flow Metab. 26, 605–612.
+Vandooren, J., Geurts, N., Martens, E., Van den Steen, P.E., Opdenakker, G., 2013.
+Zymography methods for visualizing hydrolytic enzymes. Nat. Methods 10,
+211–220.
+Wang, J., Tsirka, S.E., 2005. Neuroprotection by inhibition of matrix metalloproteinases in
+a mouse model of intracerebral haemorrhage. Brain 128, 1622–1633.
+
+

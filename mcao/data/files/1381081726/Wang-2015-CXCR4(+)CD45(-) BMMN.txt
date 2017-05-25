@@ -1,0 +1,944 @@
+Brain, Behavior, and Immunity 45 (2015) 98–108
+
+Contents lists available at ScienceDirect
+
+Brain, Behavior, and Immunity
+journal homepage: www.elsevier.com/locate/ybrbi
+
+CXCR4+CD45 BMMNC subpopulation is superior to unfractionated
+BMMNCs for protection after ischemic stroke in mice
+Jianping Wang a,⇑,1, Xi Liu a,1, Hong Lu b, Chao Jiang a,c, Xiaobing Cui a, Lie Yu a, Xiaojie Fu a, Qian Li c,
+Jian Wang c,⇑
+a
+b
+c
+
+Department of Neurology, The Fifth Afﬁliated Hospital of Zhengzhou University, Zhengzhou, Henan 450052, China
+Department of Neurology, The First Afﬁliated Hospital of Zhengzhou University, Zhengzhou, Henan 450000, China
+Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 24 September 2014
+Received in revised form 5 December 2014
+Accepted 10 December 2014
+Available online 16 December 2014
+Keywords:
+Bone marrow mononuclear cell
+Cell therapy
+CXCR4
+Ischemic stroke
+Pluripotency
+
+a b s t r a c t
+Cell-based therapy is considered to be a promising therapeutic strategy for stroke treatment. Although
+unfractionated bone marrow mononuclear cells (BMMNCs) have been tried in both preclinical and clinical trials, the effective subpopulations need to be identiﬁed. In this study, we used ﬂuorescence-activated cell sorting to harvest the CXCR4+CD45+ and CXCR4+CD45 BMMNC subpopulations from
+transgenic mice that express enhanced green ﬂuorescent protein. We then allogeneically grafted unfractionated BMMNCs or a subpopulation into mice subjected to transient middle cerebral artery occlusion
+(tMCAO) and compared the effects on stroke outcomes. We found that CXCR4+CD45 BMMNCs, but
+not CXCR4+CD45+ BMMNCs, more effectively reduced infarction volume and neurologic deﬁcits than
+did unfractionated BMMNCs. Brain tissue from the ischemic hemisphere of mice treated with CXCR4+CD45 BMMNCs had higher levels of vascular endothelial growth factor and lower levels of TNF-a than
+did tissue from mice treated with unfractionated BMMNCs. In contrast, CXCR4+CD45+ BMMNCs showed
+an increase in TNF-a. Additionally, CXCR4+CD45+ and CXCR4+CD45 populations exhibited more robust
+migration into the lesion areas and were better able to express cell-speciﬁc markers of different linages
+than were the unfractionated BMMNCs. Endothelial and astrocyte cell markers did not colocalize with
+eGFP+ cells in the brains of tMCAO mice that received CXCR4+CD45+ BMMNCs. In vitro, the CXCR4+CD45
+BMMNCs expressed signiﬁcantly more Oct-4 and Nanog mRNA than did the unfractionated BMMNCs.
+However, we did not detect gene expression of these two pluripotent markers in CXCR4+CD45+ BMMNCs.
+Taken together, our study shows for the ﬁrst time that the CXCR4+CD45 BMMNC subpopulation is superior to unfractionated BMMNCs in ameliorating cerebral damage in a mouse model of tMCAO and could
+represent a new therapeutic approach for stroke treatment.
+Ó 2014 Elsevier Inc. All rights reserved.
+
+1. Introduction
+Cell transplantation-based regenerative therapy provides us
+with a promising approach for stroke treatment (Bliss et al.,
+2010; Burns and Steinberg, 2011; Liu et al., 2014a; Misra et al.,
+2012). Compared with other cell sources, bone marrow
+
+Abbreviations: BMMNC, bone marrow mononuclear cell; tMCAO, transient
+middle cerebral artery occlusion; FACS, ﬂuorescence-activated cell sorting; HSC,
+hematopoietic stem cell; EPC, endothelial progenitor cell; MSC, mesenchymal stem
+cell; TCSC, tissue-committed stem cell; CXCR4, C–X–C chemokine receptor type 4;
+SDF-1, stromal cell-derived factor 1; eGFP, enhanced green ﬂuorescent protein.
+⇑ Corresponding authors. Tel.: +86 371 68322417; fax: +86 371 66965783
+(J. Wang). Tel.: +1 443 287 5490; fax: +1 410 502 5177 (J. Wang).
+E-mail addresses: wjpwfy666@126.com (J. Wang), jwang79@jhmi.edu (J. Wang).
+1
+These authors contributed equally to this work.
+http://dx.doi.org/10.1016/j.bbi.2014.12.015
+0889-1591/Ó 2014 Elsevier Inc. All rights reserved.
+
+mononuclear cells (BMMNCs) have attracted the interest of many
+researchers because their use avoids ethical concerns, and they
+are easy to obtain and purify. They can be harvested allogeneically
+or autologously from bone marrow within hours, no cell culture
+procedures are needed, and they can be administered immediately
+into the recipient through various routes. Over the past decade,
+evidence from preclinical studies has shown that grafting BMMNCs
+after cerebral ischemia provides substantial therapeutic effects
+(Boltze et al., 2011; Fujita et al., 2010; Hess and Hill, 2011;
+Mendez-Otero et al., 2007; Prasad et al., 2012). Despite progress
+in this ﬁeld, the detailed mechanism through which BMMNCs exert
+their protective effects in cerebral ischemia remains elusive.
+BMMNCs harbor a heterogeneous population that contains
+mature and immature cells in the myeloid and lymphoid lineages,
+such as mesenchymal stem cells (MSCs), hematopoietic stem cells
+
+J. Wang et al. / Brain, Behavior, and Immunity 45 (2015) 98–108
+
+(HSCs), and endothelial progenitor cells (EPCs) (Arnous et al., 2012;
+Civin and Gore, 1993; Crosby et al., 2000; Dominici et al., 2006;
+Savitz, 2013). In reality, BMMNCs harvested from bone marrow
+by density centrifugation contain very few stem cells (2% to 4%
+HSCs/EPCs and 0.01% MSCs) (Malliaras and Marban, 2011). Bone
+marrow-derived stromal cells, or MSCs, are currently a promising
+cell source in stroke therapy. MSCs are capable of self-renewal
+and can differentiate into various cell linages, including cartilage,
+bone, adipose, hepatocytes, and neurons (Duenas et al., 2014;
+Pittenger et al., 1999; Prockop, 1997). It has been reported that
+human MSCs can migrate into the rat brain and acquire a neuronal
+phenotype in vivo (Azizi et al., 1998). More importantly, MSCs
+function as a ‘‘cytokine and trophic factors factory’’ that supports
+other cell types (Caplan and Dennis, 2006). Despite the advantages
+of MSCs, obtaining sufﬁcient quantities requires cell culture. Therefore, autologous MSCs cannot be obtained in the acute stage after
+stroke, limiting their application.
+Most investigators who have studied the use of cell transplantation for cerebral ischemia have used mixed BMMNCs. However, the
+migration and beneﬁcial effects of BMMNCs require the cell surface
+expression of CXCR4. Many studies have documented that
+BMMNCs expressing this marker undergo rapid mobilization during cerebral ischemia in response to the chemokine gradient
+formed by stromal cell-derived factor-1 (SDF-1), which is secreted
+in the ischemic penumbra, especially by astrocytes and endothelial
+cells (Hill et al., 2004; Wang et al., 2012). Compared with CXCR4
+BMMNCs, CXCR4+ BMMNCs exhibit greater migratory capacity and
+are more effective at improving neovascularization, releasing trophic factors, and facilitating tissue repair after acute ischemia
+(Seeger et al., 2009). In addition, the tissue-committed stem cell
+(TCSC), a population of non-adherent CXCR4+ cells, express mRNA
+for various markers of progenitor cells and can circulate into
+peripheral tissues, where they contribute to regeneration after tissue damage (Kucia et al., 2005, 2007; Ratajczak et al., 2004, 2007).
+It has been reported that hypoxia upregulates the expression of
+CXCR4 in ischemic regions (Tang et al., 2009). In addition, CXCR4
+knockout donor cells have signiﬁcantly less survival potential than
+do wild-type donor cells in the recipient brain (Shichinohe et al.,
+2007). These ﬁndings suggest that the optimum cells for stroke
+therapy should be CXCR4+.
+The vast majority of BMMNC populations contain committed
+HSCs, which maintain all blood lineages, including erythrocytes,
+platelets, monocytes, granulocytes, and lymphocytes (Civin and
+Gore, 1993). HSCs have been shown to mobilize from bone marrow
+to peripheral blood circulation during stroke, and the concentration of HSCs in blood correlates with neurofunctional improvements in patients after stroke (Taguchi et al., 2009). It has been
+reported that allogeneic grafting of HSCs reduced post-ischemic
+inﬂammation and improved outcome in a mouse stroke model
+(Schwarting et al., 2008). Furthermore, HSCs were shown to transdifferentiate across tissue-lineage boundaries into various terminal
+cell types, including non-HSC (Jang et al., 2004; Krause et al., 2001;
+Orlic et al., 2003), microglia, and macroglia cells (Eglitis and Mezey,
+1997). However, the transdifferentiation of HSCs has been debated
+vigorously (Fukuda and Fujita, 2005; Murry et al., 2004; Wagers
+et al., 2002). Possible explanations, such as cell fusion (Terada
+et al., 2002; Ying et al., 2002) and epigenetic changes in recipient
+tissues (Hochedlinger and Jaenisch, 2003; Jaenisch, 2002), are not
+fully able to explain the mechanisms of HSC transdifferentiation.
+It has been reported that the CXCR4 receptor is widely expressed
+on both HSCs and TCSCs. CD45, a cell surface marker uniquely
+expressed on HSCs (Thomas, 1989), can be used to separate CXCR4+
+BMMNCs into a CXCR4+CD45+ subpopulation enriched in HSCs and
+a CXCR4+CD45 subpopulation highly enriched in non-hematopoietic TCSCs (Kucia et al., 2005). To the best of our knowledge, no
+
+99
+
+report has described the effects of CXCR4+CD45+ and CXCR4+CD45
+BMMNCs on outcome of ischemic stroke.
+In this study, we examined whether one subpopulation of
+BMMNCs provides better protection after ischemic stroke than
+unfractionated BMMNCs. We found that CXCR4+CD45 BMMNCs
+are superior to both CXCR4+CD45+ BMMNCs and unfractionated
+BMMNCs for improving stroke outcomes.
+2. Materials and methods
+2.1. Transient middle cerebral artery occlusion (tMCAO) and
+experimental groups
+All studies were carried out in accordance with the guidelines
+for animal research and approved by the Institutional Animal Care
+and Use Committee at Zhengzhou University. All efforts were made
+to minimize animal suffering and reduce the number of animals
+used. Adult male C57BL/6J mice (stock number, J000664; weight,
+25–30 g; 10–12 weeks old; Animal Center of Nanjing University
+School of Medicine, Nanjing, China) were housed at room temperature with a 12-h light/dark cycle in a pathogen-free environment
+and were given free access to food and water throughout the study.
+One technician performed all surgical procedures and was blinded
+to animal group assignment. Cerebral infarction was induced by
+tMCAO as previously described with slight modiﬁcations (Longa
+et al., 1989). Brieﬂy, anesthesia was maintained with 1.5% halothane in air and was delivered via a snout mask. Body temperature
+was maintained at 37 °C throughout the surgical procedure with a
+heating pad. The right common carotid artery, external carotid
+artery (ECA), and internal carotid artery (ICA) were exposed
+through a ventral midline incision. A round-tip, silicone-coated
+6-0 nylon ﬁlament was gently inserted into the lumen of the ICA
+to the opening of the middle cerebral artery (MCA). The length of
+the ﬁlament was approximately 12 ± 2 mm and determined
+according to the weight of each mouse. Successful MCAO was
+deﬁned as a decrease in cerebral blood ﬂow (CBF) of more than
+80% compared with that of the contralateral hemisphere, as measured by laser-Doppler ﬂowmetry (Moor Instruments, Devon,
+UK). For the sham operation, mice underwent the same procedure,
+with the only difference being that the ﬁlaments did not occlude
+the MCA and were withdrawn from the ICA immediately. After
+90 min of MCAO, the ﬁlaments were withdrawn into the stump
+of the ECA to initiate blood ﬂow reperfusion. After surgery, an
+investigator blinded to group assignment allocated the tMCAO animals into one of four treatment groups: vehicle, unfractionated
+BMMNCs, CXCR4+CD45+ BMMNCs, and CXCR4+CD45 BMMNCs.
+The sham-operated animals received the same allocation and
+treatments.
+2.2. Donor BMMNC isolation
+Pathogen-free eGFP transgenic mice (C57BL/6J-Tg (CAG-eGFP);
+5–6 weeks old, purchased from Nanjing Biomedical Research Institute of Nanjing University, Nanjing, China) were used as cell
+donors. This mouse strain carries an eGFP-expressing gene controlled by chicken b-actin promoter in all tissues. The mice were
+euthanized by CO2 inhalation, and bone marrow was ﬂushed from
+medullary cavities of the humeri, femora, and tibiae. After the bone
+marrow was subjected to 1.084 g/mL Ficoll-Paque PREMIUM (GE
+Healthcare Bio-Sciences, Uppsala, Sweden) density centrifugation,
+the buffy coat layer was aspirated and resuspended in 100 mM
+phosphate-buffered saline (PBS, pH7.4). The viability of the isolated BMMNCs was assessed by trypan blue (Sigma–Aldrich, St.
+Louis, MO, USA) resistance staining. Approximately 1.2  108
+
+100
+
+J. Wang et al. / Brain, Behavior, and Immunity 45 (2015) 98–108
+
+unfractionated BMMNCs were obtained per eGFP transgenic
+mouse. The harvested BMMNCs from each donor were pooled
+together for the following experiments.
+2.3. SDF-1–induced BMMNC migration assay
+We performed the transwell migration assay to preclude the
+possibility that the antibody used in FACS may hinder the binding
+between SDF-1 and its receptor CXCR4 (Seeger et al., 2009). Brieﬂy,
+1  106 freshly isolated BMMNCs and BMMNCs incubated with PEconjugated rat anti-mouse CXCR4 antibody (clone: 2B11, BD
+PharMingen, San Diego, CA, USA) at 4 °C for 1 h were resuspended
+in 250 lL X-VIVO 15 medium (Lonza, Walkersville, MD, USA) and
+seeded in the upper chambers (8-lm pore size, Millipore). The
+chambers were placed in a 24-well cell culture plate with 500 lL
+X-VIVO 15 medium. Recombinant mouse SDF-1b (Sigma–Aldrich)
+was added into the lower chamber at a ﬁnal concentration of
+100 ng/mL. The cells were placed at 37 °C in a 5% CO2 incubator
+for 24 h. Cells that migrated to the lower chamber were counted.
+Experiments were replicated in triplicate, and the average number
+was recorded per mouse.
+2.4. BMMNC subpopulation isolation and purity identiﬁcation
+The Beckman MoFlo Astrios high-performance, live-cell sorting
+system (Beckman Coulter, Brea, CA, USA) was used to isolate the
+subpopulations of BMMNCs. After being ﬁltered through a 500mesh nylon screener, BMMNCs (1  108 cells/mL) were incubated
+with saturating concentrations of antibodies in PBS supplemented
+with 5% bovine serum albumin on ice for 45 min. We used the following antibodies: PE-conjugated rat anti-mouse CXCR4 (clone
+2B11, BD PharMingen) and APC-conjugated rat anti-mouse CD45
+(clone: 30-F11, BD PharMingen). Samples also were incubated in
+corresponding isotype controls as PE- or APC-conjugated rat IgG2b,
+j. After two washes with PBS, the BMMNCs were resuspended in
+cell-sorting medium at a concentration of 1  107 cells/mL. We
+used a slow sorting strategy to guarantee the accuracy of the target
+cell populations. The sorted fractions were immediately analyzed
+by the same gating strategy for purity check; approximately
+2000 events were acquired for the purity check. The whole sorting
+procedure was accomplished within 3 h.
+2.5. Cell administration
+Cells harvested by FACS were immediately administered to the
+recipient mice. We used the intravenous route because it does not
+differ signiﬁcantly from intra-arterial delivery (Yang et al., 2013),
+and it appears to be more effective than local delivery for longterm protection (Willing et al., 2003). The harvested cells were
+washed, resuspended in 300 lL of PBS, and delivered via tail vein
+injection 24 h after tMCAO at a dosage of 3  107 cells/kg (Savitz,
+2013; Yang et al., 2013, 2011). Sham-operated mice received the
+same cell dosage, and the vehicle-treated group received an equal
+volume of PBS.
+2.6. Infarction volume determination
+Infarction volume was determined on day 7 after the tMCAO.
+After each mouse was euthanized, the brain was carefully
+removed, placed in a mouse brain matrix slicer (Stoelting Instruments, Wood Dale, IL, USA), and coronally sectioned into ﬁve 2mm-thick slices from the frontal pole to the cerebellum. The brain
+slices were quickly immersed into 1% 2,3,5-triphenyltetrazolium
+chloride (TTC; Sigma–Aldrich) for 30 min at 37 °C and ﬁxed in 4%
+paraformaldehyde in PBS overnight. We measured the area of damaged parenchyma (unstained tissue) on the posterior surface of
+
+each slice using ImageJ software (NIH, Bethesda, MD, USA). Total
+infarct volumes were determined as described previously (Jiang
+et al., 2013). Brieﬂy, in each brain slice, infarcted area was measured by subtracting the intact area of the ipsilateral hemisphere
+from the total area of the contralateral hemisphere to correct for
+brain swelling. Total infarct volume was calculated by linear integration of the corrected lesion areas. The infarct volume percentage was calculated by the equation: total infarct volume/
+contralateral hemispheric volume  100%.
+2.7. Neurologic function analysis
+A battery of neurologic function tests was performed on days 1,
+7, and 14 after tMCAO (n = 12 mice/group). An investigator blinded
+to treatment group used the modiﬁed neurologic severity score
+(mNSS) to evaluate functional outcome according to previously
+published data (Chen et al., 2005; Cui et al., 2013; Schaar et al.,
+2010). The battery included tests of neurologic motor function,
+gait, balance, and reﬂex. For the motor function tests, mice were
+held up by their tails so that they could move freely. We recorded
+ﬂexion of the four limbs and head movements in the vertical axis
+within 30 s. Gait was analyzed by placing the mice on a ﬂat surface
+and observing the walk; inability to walk straight, circling or falling
+down to the paretic side was recorded. Balance function was tested
+by placing the mice on a round slim beam, recording whether they
+could grasp or hug the beam, counting the number of limbs that
+fell from the beam, and recording the time until they fell from
+the beam. For the reﬂex tests, a head shake when the auditory
+meatus was touched indicated a positive pinna reﬂex, and an eye
+blink when the cornea was touched lightly with cotton indicated
+a positive corneal reﬂex. The score was graded on a scale from 0
+to 14 (where 0 represents normal and 14 represents maximal deficit). Each evaluation was performed in triplicate, and a mean score
+was recorded.
+2.8. Western blot analysis
+We used Western blot analysis to examine the expression levels
+of vascular endothelial growth factor (VEGF) and TNF-a in brain on
+day 3 after cell transplantation (n = 6 mice/group). Brain tissue
+from the infarcted hemisphere was removed and homogenized in
+RIPA-Doc buffer (50 mM Tris–HCl, 150 mM NaCl, 1% Triton X100, 1% deoxycholate, and 0.1% SDS, supplemented with protease
+inhibitors). Protein concentration was determined by the Bradford
+protein assay. Equal amounts of total protein were separated on
+10–12% glycine gel and transferred onto polyvinylidenediﬂuoride
+membranes. The membranes were blocked in 5% non-fat dry milk
+in PBS with Tween-20 (PBST) and incubated with rabbit anti-VEGF
+polyclonal antibody (1:200 dilution) or rabbit anti-TNF-a polyclonal antibody (1:200, Santa Cruz Biotechnology, Dallas, TX,
+USA) at 4 °C overnight. b-actin expression was detected by its antibody AC-15 (1:10,000, Sigma–Aldrich) and served as an internal
+control. After being washed in PBST, the membranes were incubated in horseradish peroxidase-conjugated goat anti-rabbit secondary antibody at room temperature for 1 h and then reacted
+with enhanced chemiluminescence substrate (Pierce, Rockford, IL,
+USA). The results of chemiluminescence were visualized and captured by an imaging system (ClinX Science Instruments, Shanghai,
+China). Target protein band intensity was normalized by b-actin
+and quantiﬁed by ImageJ software. Independent experiments were
+repeated in triplicate.
+2.9. Histology and immunoﬂuorescence
+We examined the eGFP-positive cells in the brain at various
+time points after transplantation. To investigate the plasticity of
+
+J. Wang et al. / Brain, Behavior, and Immunity 45 (2015) 98–108
+
+the grafted cells, we allowed the mice to survive until day 21 after
+tMCAO or sham operation (6 mice per group). Mice that died
+before the designated time were excluded from this experiment.
+Mice were deeply anesthetized by intraperitoneal injection of
+350 mg/kg chloral hydrate and then perfused transcardially with
+PBS followed by 4% paraformaldehyde (PFA) in PBS. Brains were
+removed, post-ﬁxed in 4% PFA, and dehydrated in PBS containing
+various concentrations of sucrose for 24 h at 4 °C before being
+embedded in O.C.T. medium (Sakura Finetek, USA). Brains were
+then sliced coronally into 15-lm-thick sections at 20 °C on a
+cryotome (Leica Instruments, Heidelberg, Baden-Wurttemberg,
+Germany). Five consecutive adjacent sections were obtained from
+every tenth section cut from the center of the lesion (bregma
+1 mm to +1 mm) (Cui et al., 2013). Sections were ﬁxed in cold
+methanol for 5 min, incubated in PBS with 0.1% Triton X-100 for
+15 min, and then blocked in 5% BSA solution for 30 min at room
+temperature. Finally, they were incubated with primary antibodies
+at 4 °C overnight. A chicken anti-GFP antibody (1:1000, Life Technology, San Diego, CA, USA) was used to label the grafted eGFPpositive cells. Glial ﬁbrillary acidic protein (GFAP), an astrocytespeciﬁc marker, was detected by rabbit polyclonal IgG anti-GFAP
+(1:300, Santa Cruz Biotechnology). CD31, an endothelial cell marker, was detected by rabbit polyclonal IgG anti-CD31 (1:100, Santa
+Cruz Biotechnology). After being washed three times with PBST,
+the sections were incubated in Alexa Fluor 488-conjugated goat
+anti-chicken (1:1000, Life Technology) or Alexa Fluor 555-conjugated goat anti-rabbit (1:1000, Life Technology) secondary antibody at room temperature for 1 h. Negative control sections
+received the same immunostaining procedures, but the primary
+antibodies were omitted. The sections were mounted in mounting
+reagent (Santa Cruz Biotechnology) with DAPI and visualized on
+the AxioScope epiﬂuorescence microscope (Carl Zeiss, Oberkochen,
+Germany). Eight ﬁelds per section within the cortex and striatum
+from the ischemic boundary zone were used for quantiﬁcation.
+All eGFP+ cells in each ﬁeld were counted to obtain the percentage
+of grafted cells that colocalized with cell type-speciﬁc markers
+(GFAP or CD31).
+
+2.10. Semiquantitative RT-PCR
+To investigate the pluripotency in each cell population, we analyzed the gene expression of early embryonic transcription factors
+Octamer-4 (Oct-4) and Nanog in different cell populations. Cells
+were sorted by ﬂow cytometry, and total RNA was extracted from
+cells by using TRI reagent (Sigma–Aldrich). Each cell type was
+pooled from ﬁve donor mice. To prevent genomic DNA contamination, we added DNaseI (Life Technology) to the products and conﬁrmed the harvested RNA on an agarose gel. Using equal amounts
+of RNA, we synthesized the ﬁrst-strand cDNA with the ThermoScript RT-PCR System (Life Technology) according to the manufacturer’s instructions. Platinum Taq DNA polymerase (Life
+Technology) was used to amplify the newly synthesized cDNA
+templates in a 20-lL reaction. A 160-bp fragment of mouse Oct-4
+gene was ampliﬁed with the forward primer: 50 -TAGGTGAGCC
+GTCTTTCCAC-30 and reverse primer: 50 -GCTTAGCCA GGTTCGAGGAT-30 . A 106-bp fragment of mouse Nanog gene was ampliﬁed
+with the forward primer: 50 -TTGCTTA CAAGGGTCTGCTACT-30 and
+reverse primer: 50 -ACTGGTA GAAGAATCAGGGCT-30 . A 123-bp
+fragment of the mouse glyceraldehyde 3-phosphate dehydrogenase (GAPDH) gene was ampliﬁed by forward primer: 50 AGGTCGGTGTGAACGGATTTG-30 and reverse primer: 50 -TGTAGACCATGTAGTTGAGGTCA-30 . The PCR products were resolved on 1.5–
+2.0% agarose gels to conﬁrm that sizes were correct. Images were
+captured and analyzed by a Gel Doc EZ gel image analysis system
+(Bio-Rad, Hercules, CA, USA).
+
+101
+
+2.11. Statistical analysis
+Mice that did not have at least 80% decrease in CBF, had an
+mNSS score <5 or >13 points on day 1 after tMCAO, or did not survive for a sufﬁcient time were excluded from the ﬁnal data analysis. All data were expressed as means ± SD. SPSS13.0 software was
+used to analyze the data. Parametric tests were used for data that
+met assumptions for normality and equal variance. Student’s t-test
+was used to analyze differences for two unpaired samples. Oneway analysis of variance (ANOVA) followed by post hoc analysis
+was used for multiple comparisons. p < 0.05 was considered statistically signiﬁcant.
+3. Results
+During this study, the mortality was 1.4% (1/72) in the sham
+groups, 25.0% (6/24) in the vehicle-treated tMCAO group, 21.7%
+(13/60) in the unfractionated BMMNC-treated tMCAO group,
+23.3% (14/60) in the CXCR4+CD45+ BMMNC-treated group, and
+20.0% (12/60) in the CXCR4+CD45 BMMNC-treated group. In addition, three mice died from the MCAO procedure, and two mice died
+from anesthesia.
+3.1. CXCR4 antibody can be used for CXCR4+ cell isolation
+CXCR4 is a receptor of SDF-1 that is expressed on the surface of
+BMMNCs. It is essential for migration of BMMNCs in vivo after
+engraftment. To conﬁrm that the antibody used for FACS did not
+hinder the functional activity of CXCR4 and CXCR4/SDF-1 binding,
+we compared the migration capacity of freshly isolated BMMNCs
+and BMMNCs pre-incubated with PE-conjugated rat anti-mouse
+CXCR4 antibody (clone: 2B11). After 24 h, migration did not differ
+between the two groups (p > 0.05; Supplementary Fig. 1). This
+result suggested that the epitope that this antibody recognizes is
+not the binding domain of CXCR4; hence, this antibody can be used
+in FACS sorting for CXCR4+ cells.
+3.2. Purity of CXCR4+CD45+ and CXCR4+CD45 BMMNC
+subpopulations
+Freshly isolated BMMNCs from eGFP mice were stained for designated antibodies and isotype controls and sorted by FACS. The
+four quadrants gated for different BMMNC subpopulations were
+set according to the BMMNCs dual-labeled and mono-labeled with
+antibodies and/or isotype controls. The initial proportion of
+CXCR4+CD45, CXCR4+CD45+, CXCR4CD45, and CXCR4CD45+
+populations in the presorted BMMNCs were 1.3 ± 0.5%, 5.8 ± 0.9%,
+9.4 ± 1.7%, and 82.2 ± 3.2%, respectively (n = 6 mice). The purity of
+the harvested CXCR4+CD45+ cells was 90.5 ± 2.1% and that of the
+CXCR4+CD45 cells was 91.2 ± 2.4% (n = 6 mice, Supplementary
+Fig. 2).
+3.3. CXCR4+CD45 BMMNCs reduce infarct volume and
+neurobehavioral deﬁcits better than unfractionated BMMNCs
+Fig. 1A shows representative TTC staining of brain slices from
+sham, vehicle-, and cell-treated tMCAO groups. The corrected
+infarction volumes of mice treated with vehicle, unfractionated
+BMMNCs, CXCR4+CD45+ BMMNCs, and CXCR4+CD45 BMMNCs
+were 70.2 ± 4.6%, 57.5 ± 7.2%, 64.8 ± 7.8%, and 45.2 ± 4.7%, respectively (n = 6/group, Fig. 1B). Consistent with previously published
+data (Jiang et al., 2013; Wang et al., 2013), BMMNC treatment
+reduced the infarction volume compared with vehicle treatment
+(F = 18.21, p = 0.002). Moreover, the infarction volume of mice
+treated with CXCR4+CD45 BMMNCs was smaller than that of mice
+
+102
+
+J. Wang et al. / Brain, Behavior, and Immunity 45 (2015) 98–108
+
+Fig. 1. CXCR4+CD45 BMMNCs reduce infarct volume and neurologic deﬁcits in mice after tMCAO. (A) A representative panel of brain slices stained by TTC on day 7 after
+tMCAO illustrates the infarction volume in mice treated with different cell populations; areas of infarct are white. (B) Corrected infarction volume was calculated as a
+percentage of the contralateral area. The infarction volume of the CXCR4+CD45 BMMNC-treated group was signiﬁcantly less than that of the unfractionated BMMNC-treated
+group. n = 6 mice/group; ⁄⁄p < 0.01 vs. vehicle; ##p < 0.01 vs. unfractionated BMMNCs; one-way ANOVA followed by LSD analysis. (C) Modiﬁed neurologic severity scores of
+mice at 1, 7, and 14 days after tMCAO. n = 12 mice/group; ⁄⁄p < 0.01 vs. vehicle; ##p < 0.01, ###p < 0.001 vs. unfractionated BMMNCs by one-way ANOVA followed by LSD
+analysis.
+
+treated with unfractionated BMMNCs (p = 0.003, Fig. 1B). We
+observed no difference between mice that received CXCR4+CD45+
+BMMNCs and those that received vehicle (p = 0.150, Fig. 1B). These
+data suggest that CXCR4+CD45 BMMNCs, but not CXCR4+CD45+
+BMMNCs, can ameliorate infarction volume better than unfractionated BMMNCs.
+Evaluations of mice by mNSS showed that neurologic deﬁcits
+reached a peak on day 1 after tMCAO and did not differ signiﬁcantly among the four groups at that time (n = 12/group, F = 0.41,
+p = 0.75; Fig. 1C). However, on days 7 and 14 after tMCAO, quantiﬁcation analysis indicated signiﬁcant differences among the
+tMCAO groups (F = 18.47, p < 0.001 on day 7 and F = 30.92,
+p < 0.001 on day 14). Mice treated with unfractionated BMMNCs
+or CXCR4+CD45 BMMNCs had signiﬁcantly lower deﬁcit scores
+than did vehicle-treated mice on days 7 and 14. Consistent with
+our infarction volume analysis, the CXCR4+CD45 BMMNC-treated
+group also exhibited a lower score than did the unfractionated
+BMMNC-treated group (day 7, p < 0.001; day 14, p < 0.01). However, CXCR4+CD45+ BMMNC treatment did not reduce the neurologic deﬁcits (day 7, p = 0.51; day 14, p = 0.86 compared to
+vehicle treatment). These data suggest that grafting of CXCR4+CD45 BMMNCs is superior to grafting of unfractionated BMMNCs
+for reducing neurologic deﬁcits.
+3.4. Effect of different cell grafts on the expression of VEGF and TNF-a
+in brain after tMCAO
+Bone marrow-derived cells provide neuroprotection by modulating growth factors and cytokines such as VEGF and TNF-a
+
+(Brenneman et al., 2010; Chen et al., 2003; Fujita et al., 2010). To
+compare the angiotrophic capacity and anti-inﬂammatory properties of unfractionated, CXCR4+CD45+, and CXCR4+CD45 BMMNCs
+after stroke, we investigated VEGF and TNF-a levels in the ischemic
+hemisphere of mice after tMCAO (Fig. 2A). Quantiﬁcation indicated
+that TNF-a expression was signiﬁcantly reduced by CXCR4+CD45
+BMMNC treatment (p < 0.05) and increased by CXCR4+CD45+
+BMMNC treatment (n = 6/group, p < 0.01, Fig. 2B). Additionally,
+treatment with unfractionated BMMNCs increased VEGF level
+compared to that in the vehicle-treated group (n = 6/group,
+p < 0.01, Fig. 2C). This effect was enhanced by CXCR4+CD45
+BMMNC treatment (n = 6/group, p < 0.01, vs. unfractionated
+BMMNC treatment, Fig. 2C). However, there was no signiﬁcant difference between vehicle-treated and CXCR4+CD45+ BMMNC-treated groups (n = 6/group, p = 0.989, Fig. 2C). These data suggest
+that CXCR4+CD45 BMMNCs may provide neuroprotection by
+modulating angiogenesis and anti-inﬂammatory effects and that
+HSC-enriched CXCR4+CD45+ BMMNCs may secrete proinﬂammatory cytokines such as TNF-a. In sham-operated groups, no cell
+treatment altered the expression levels of VEGF and TNF-a (Supplementary Fig. 3).
+3.5. CXCR4+ BMMNCs migrate into the infarct area more robustly than
+do unfractionated BMMNCs
+Grafted cells must be able to migrate to the ischemic brain to be
+effective after stroke. Therefore, we examined the distribution of
+eGFP+ cells in the brain of tMCAO mice at various time points after
+transplantation (Fig. 3C). At 1 h after transplantation, no eGFP+
+
+J. Wang et al. / Brain, Behavior, and Immunity 45 (2015) 98–108
+
+103
+
+Fig. 2. CXCR4+CD45 BMMNC transplantation modulates the expression of TNF-a and VEGF in the ischemic brain of tMCAO mice. (A) Western blot analysis of TNF-a, VEGF,
+and b-actin on day 3 after tMCAO. (B) Quantiﬁcation of band densities shows that TNF-a level was signiﬁcantly reduced by CXCR4+CD45 BMMNC transplantation but
+increased by CXCR4+CD45+ BMMNC transplantation (n = 6 mice/group; ⁄p < 0.05, ⁄⁄p < 0.01 vs. vehicle; one-way ANOVA followed by LSD test). (C) VEGF expression was
+signiﬁcantly increased by unfractionated BMMNCs and CXCR4+CD45 BMMNCs (n = 6 mice/group; ⁄⁄p < 0.01 vs. vehicle; ##p < 0.01 vs. unfractionated BMMNCs; one-way
+ANOVA followed by LSD test).
+
+cells had inﬁltrated into the ischemic brain. At 6 h after transplantation, most of the unfractionated BMMNCs were still trapped in
+blood vessels, but CXCR4+ BMMNCs had begun to migrate into
+the brain parenchyma in the ischemic hemisphere. The grafted
+eGFP+ cells in the brain were round or irregular in shape, with a
+single nucleus and a high nucleus/plasma ratio. Quantiﬁcation of
+the eGFP+ cells indicated that the number increased in a timedependent manner during the ﬁrst 3 days after transplantation
+and decreased signiﬁcantly by day 21. The number of CXCR4+CD45 BMMNCs and CXCR4+CD45+ BMMNCs in the ischemic brain
+was greater than that of the unfractionated BMMNCs at 6, 12, 24,
+and 72 h and 21 days after transplantation (n = 6 mice/group,
+p < 0.001 at 6 and 72 h, p < 0.01 at 12 h, 24 h, and 21 days,
+Fig. 3D); migration of eGFP+CXCR4+CD45 BMMNCs and eGFP+CXCR4+CD45+ BMMNCs did not differ at any time point (all
+p > 0.05, Fig. 3D). These data suggest that the CXCR4+ BMMNCs
+migrate into the infarct area more actively than do unfractionated
+BMMNCs. We did not observe eGFP+ cells in any BMMNC-treated
+sham group on day 3 after cell transplantation (Supplementary
+Fig. 4).
+
+3.7. mRNA levels of pluripotency markers are higher in CXCR4+CD45
+BMMNCs than in unfractionated BMMNCs in vitro
+We examined mRNA expression levels of the transcription factors Oct-4 and Nanog in unfractionated, CXCR4+CD45+, and
+CXCR4+CD45 BMMNCs. Our data indicated that both the unfractionated BMMNCs and the CXCR4+CD45 BMMNCs express these
+pluripotency markers (Fig. 5A). However, the mRNA expression
+of these markers was barely detectable in CXCR4+CD45+ BMMNCs.
+Quantiﬁcation analysis revealed that mRNA levels of Oct4 and
+Nanog were higher in CXCR4+CD45 BMMNCs than in unfractionated BMMNCs (n = 6/group, p < 0.05, Fig. 5B and p < 0.001
+Fig. 5C). The in vitro data together with our immunoﬂuorescence
+ﬁndings suggested that pluripotent cells were enriched in the
+CXCR4+CD45 BMMNC population, which may exhibit more plasticity than unfractionated BMMNCs. These results reinforce our
+immunoﬂuorescence ﬁndings and conﬁrm that the stem cells in
+CXCR4+CD45+ BMMNCs are not pluripotent and have little capacity
+to transdifferentiate into other cell types.
+
+4. Discussion
+3.6. CXCR4+CD45 BMMNCs are more plastic than BMMNCs in vivo
+We investigated the plasticity of BMMNCs in the ischemic
+boundary zone on day 21 after tMCAO. Double immunoﬂuorescence labeling revealed that grafted unfractionated BMMNCs and
+CXCR4+CD45– BMMNCs both express the astrocyte marker GFAP
+and endothelial cell marker CD31; however, we failed to detect
+colocalization of eGFP with GFAP or CD31 in CXCR4+CD45+
+BMMNC-treated mice (Fig. 4A and B). Quantiﬁcation indicated that
+the ratios of eGFP+GFAP+/total eGFP+ and eGFP+CD31+/total eGFP+
+were signiﬁcantly higher in the CXCR4+CD45 BMMNC-treated
+group than in the unfractionated BMMNC-treated group (n = 6/
+group, p < 0.01, Fig. 4C and D). In addition, we observed fewer
+GFAP+ and CD31+ cells in the ischemic boundary zone of the
+CXCR4+CD45+ BMMNC-treated group than in that of the other
+two groups. This ﬁnding implies relatively weak brain tissue restoration. No eGFP+ cells were observed in the brains of sham-operated mice during the 21-day follow-up (Supplementary Fig. 5A
+and B).
+
+In this study, we obtained highly puriﬁed CXCR4+CD45 and
+CXCR4+CD45+ BMMNC subpopulations by FACS isolation and compared their effect to that of unfractionated BMMNCs in mice subjected to tMCAO. We found that the CXCR4+CD45 subpopulation
+is superior to unfractionated BMMNCs in ameliorating cerebral
+damage and neurologic deﬁcits. Therefore, CXCR4+CD45 BMMNCs
+may become a promising cell source in stroke treatment. Consistent with our previous publications (Jiang et al., 2013; Wang
+et al., 2013), transplantation of BMMNCs reduced the infarction
+volume and neurologic deﬁcits compared to those in vehicle-treated groups. Notably, treatment with the CXCR4+CD45 BMMNCs
+enhanced these effects, whereas treatment with CXCR4+CD45+
+BMMNCs provided no protection. Thus, CXCR4+CD45 BMMNCs
+are likely able to serve as a promising cell source for ischemic
+stroke treatment.
+During the acute and subacute phases of stroke, transplantation
+of bone marrow-derived cells may provide neuroprotection by
+attenuating inﬂammatory responses, secreting trophic and growth
+
+104
+
+J. Wang et al. / Brain, Behavior, and Immunity 45 (2015) 98–108
+
+Fig. 3. CXCR4+ BMMNCs exhibit more robust migration to ischemic brain than do unfractionated BMMNCs. (A) The two black lines demarcate the ischemic boundary zone,
+and the eight numbered boxes indicate the ﬁelds selected for cell counting. (B) A representative immunoﬂuorescence image shows the accumulation of unfractionated
+BMMNCs in the vicinity of ischemic boundary zone on day 3 after transplantation (100 magniﬁcation; scale bar = 0.2 mm). (C) Time course of eGFP+ cell migration in the
+ischemic brain of tMCAO mice. All images were taken at 400 magniﬁcation. Nuclei were counterstained with DAPI (blue), scale bar = 50 lm. (D) Quantiﬁcation of the
+inﬁltrating eGFP+ cells in ischemic boundary zone (IBZ) at indicated time points. n = 6 mice/group/time point; ⁄⁄p < 0.01, ⁄⁄⁄p < 0.001 vs. unfractionated BMMNCs; one-way
+ANOVA followed by LSD test at indicated time point. (For interpretation of the references to color in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+factors, or promoting the release of such factors by resident cells.
+An in vitro study showed that the conditioned media from cultured
+BMMNCs has various bioactive factors that can protect neurons
+from the effects of activated proinﬂammatory microglia (Sharma
+et al., 2010). TNF-a, an inﬂammatory cytokine released by inﬁltrating leukocytes and local resident microglia after ischemic stroke,
+contributes to the endothelial dysfunction that leads to damage
+of blood–brain barrier (BBB) integrity (Abdullah and Bayraktutan,
+2014). In this study, we found that CXCR4+CD45 BMMNCs
+decreased TNF-a, whereas CXCR4+CD45+ BMMNCs increased
+
+TNF-a compared with that in the vehicle-treated group. However,
+TNF-a level did not differ signiﬁcantly between unfractionated
+BMMNC-treated and vehicle-treated groups. It was reported previously that autologous BMMNC transplantation 48 h after acute
+ischemic stroke reduced TNF-a level (Brenneman et al., 2010),
+and we did observe a trend toward decreased TNF-a in the groups
+treated with BMMNCs. Our ﬁndings raise the possibility that the
+lymphocyte progenitor HSC-enriched CXCR4+CD45+ BMMNC population may harbor a population of pro-inﬂammatory cells. Depletion of such pro-inﬂammatory populations may enhance the
+
+J. Wang et al. / Brain, Behavior, and Immunity 45 (2015) 98–108
+
+105
+
+Fig. 4. CXCR4+CD45 BMMNCs are more plastic than unfractionated BMMNCs in vivo. Immunoﬂuorescence staining from unfractionated BMMNC-treated mice (upper panel)
+and CXCR4+CD45 BMMNC-treated mice (middle panel) show that eGFP colocalizes with astrocyte marker GFAP (A) and endothelial cell marker CD31 (B). In ischemic brain
+tissue from CXCR4+CD45+ BMMNC-treated tMCAO mice (lower panel of A and B) eGFP did not colocalize with either cell-speciﬁc marker; scale bar = 50 lm. Arrows indicate
+cells with colocalization of eGFP and the cell-speciﬁc marker. (C and D) Quantiﬁcation of the ratio of double-labeled cells that express GFAP (C) or CD31 (D) to total number of
+eGFP+ cells. n = 6 mice/group; ⁄⁄p < 0.01 vs. unfractionated BMMNCs; one-way ANOVA followed by Tamhane’s T2 test.
+
+therapeutic effects of BMMNCs. Further investigation is needed to
+determine whether the increased TNF-a levels are generated
+endogenously by the stimulation/activation of local resident proinﬂammatory cells, such as microglia and astrocytes, or secreted
+by the transplanted CXCR4+CD45+ BMMNCs.
+
+VEGF, an endothelial cell-speciﬁc angiogenic factor, enhances
+cell survival in oxygen-deﬁcient environments (Nor et al., 1999).
+It has been demonstrated that bone marrow stem cells secrete
+VEGF under hypoxic conditions and promote structure restoration
+after myocardial infarction (Uemura et al., 2006). Additionally, we
+
+106
+
+J. Wang et al. / Brain, Behavior, and Immunity 45 (2015) 98–108
+
+Fig. 5. CXCR4+CD45 BMMNCs express higher levels of pluripotency marker mRNA than do unfractionated BMMNCs in vitro. (A) Representative gel image of RT-PCR shows
+the gene expression of Nanog and Oct4 in unfractionated BMMNCs, CXCR4+CD45 BMMNCs, and CXCR4+CD45+ BMMNCs. The housekeeping gene GAPDH served as an internal
+control. The expression levels of Nanog and Oct4 were too low to detect in CXCR4+CD45+ BMMNCs. (B and C) Quantiﬁcation of gene expression levels of Nanog (B) and Oct4 (C)
+in the different cell populations. n = 6/group; ⁄p < 0.05, ⁄⁄⁄p < 0.001 vs. unfractionated BMMNCs; one-way ANOVA followed by Tamhane’s T2 test.
+
+have recently shown that BMMNCs upregulate the VEGF–VEGF
+receptor 2 signaling pathway and promote angiogenesis in an animal model of vascular dementia (Wang et al., 2014). In the present
+study, VEGF levels in the unfractionated BMMNC-treated group
+were higher than those in the vehicle-treated group and were further enhanced by CXCR4+CD45 BMMNC treatment. In contrast,
+the CXCR4+CD45+ subpopulation did not alter VEGF levels. In the
+sham groups, no type of BMMNC transplantation altered TNF-a
+and VEGF expression levels. These data suggest that the transplanted cells exert their protective effects speciﬁcally in the ischemic brain.
+Various cell types in the brain, including neurons, astrocytes,
+oligodendrocytes, endothelial cells and pericytes, are involved in
+the damage caused by ischemic infarction. In addition to promoting the release of cytokines or neurotrophic factors through autocrine or paracrine routes, cell therapy might also stimulate
+recovery from stroke by facilitating cell replacement and endogenous tissue remodeling (Liu et al., 2014a). However, grafted cells
+must be able to reach the brain after stroke to carry out these
+actions. In our study, intravenously injected cells appeared in the
+brain as early as 6 h after administration. The eGFP+ cells in the
+CXCR4+ population exhibited a robust ability to penetrate the
+blood vessels and migrate into the ischemic boundary zone,
+whereas unfractionated BMMNCs showed relatively weak
+migration.
+About a decade ago, it was reported that bone marrow-derived
+HSCs could express cell markers of not only hematopoietic cell lineages but also non-hematopoietic neuronal cells (Eglitis and
+Mezey, 1997; Mezey et al., 2000). An in vivo study in animal models of stroke further supported the ﬁndings (Hess et al., 2004),
+which excited the regeneration ﬁeld and raised the possibility that
+HSCs are fully plastic and may serve as a universal cell source for
+tissue repair. However, in subsequent studies, the concept of HSC
+transdifferentiation, as it was called, has been called into question
+(Fukuda and Fujita, 2005; Murry et al., 2004; Wagers et al., 2002).
+Proposals such as cell fusion with the recipient’s cells (Terada et al.,
+2002; Ying et al., 2002) and epigenetic changes in the recipient’s
+tissues (Hochedlinger and Jaenisch, 2003, 2002) were unable to
+fully explain the mechanisms of HSC transdifferentiation. However, the discrepancy might be explained by the presence of preexisting TCSCs in the bone marrow-derived HSCs (Kucia et al., 2005).
+
+Brain remodeling is critically dependent on the function of supportive structures, such as blood vessels, and plaque formation
+(Hess and Hill, 2011). In vivo studies have shown that BMMNCs
+express cell-speciﬁc markers such as CD31 and GFAP, and thus
+are capable of acquiring the phenotype of cells belonging to multiple lineages after transplantation (Iihoshi et al., 2004; Shichinohe
+et al., 2010; Wang et al., 2013). In this study, we tracked the fate
+of the grafted cells in brain and compared their ability to acquire
+phenotypes of linages such as astrocytes and endothelial cells.
+The astrocyte-speciﬁc cell marker GFAP and endothelial cell-speciﬁc marker CD31 colocalized with GFP in both unfractionated
+BMMNC-treated and CXCR4+CD45 BMMNC-treated groups. No
+colocalization was observed in the HSC-enriched CXCR4+CD45+
+BMMNC-treated group. In addition, the density of GFAP- and
+CD31-positive cells in the ischemic boundary zone of CXCR4+CD45+ BMMNC-treated mice was quite low, indicating that brain
+restoration and remodeling in this group was weak.
+Astrocytes are the most abundant type of glial cell and have a
+‘‘housekeeping’’ role in the central nervous system. Under physiologic conditions, they provide neuron-glial structural support,
+facilitate neuronal metabolism, maintain the extracellular environment, regulate CBF, and are involved in intercellular communications and neurotransmitter synthesis. Astrocytes and endothelial
+cells are also important to brain remodeling during the scarring
+process and revascularization. When the brain is injured, such as
+by ischemic stroke, astrocytes combat oxidative stress and construct glial scars to create a physical and functional barrier that
+segregates the intact tissue from the cascading wave of uncontrolled tissue damage (Faulkner et al., 2004). Recently, GFAP-reactive astrocytes were shown to be important for axon remodeling
+and motor function recovery in a mouse stroke model (Liu et al.,
+2014b). Endothelial cells are key components of the BBB and are
+essential to neovascularization and maintenance of BBB integrity,
+but these functions are compromised after stroke. Treatment to
+attenuate BBB dysfunction may help to improve neurologic outcomes and facilitate recovery (Widiapradja et al., 2014). Here, we
+found that GFAP+ or CD31+ cells were more abundant in eGFP+ cells
+from the CXCR4+CD45 BMMNC-treated group than in those from
+mice treated with unfractionated BMMNCs. Thus, the CXCR4+CD45 subpopulation could be better than unfractionated
+BMMNCs for brain remodeling and repair. Based on our ﬁndings,
+
+J. Wang et al. / Brain, Behavior, and Immunity 45 (2015) 98–108
+
+we postulate that the CXCR4+CD45 subpopulation has more cells
+that are able to differentiate into other cell lineages; in other
+words, this population has more ‘‘plasticity’’ than the unfractionated BMMNCs in vivo. Our results are consistent with those of a
+study in which one GFP-labeled HSC was transplanted into a lethally irradiated wild-type mouse. The HSC repopulated blood cells
+but not non-hematopoietic tissues (Wagers et al., 2002). These
+studies indicate that the transdifferentiation of HSCs occurs rarely,
+if ever (Fukuda and Fujita, 2005; Murry et al., 2004; Wagers et al.,
+2002). Our observations further conﬁrm the ﬁndings by Kucia et al.
+(2005) that TCSCs are enriched with non-hematopoietic CXCR4+CD45 BMMNCs.
+Nanog and Oct4 are the core transcription factors present in
+early embryonic tissues. They function as regulators to maintain
+the network responsible for self-renewal and pluripotency. Interestingly, we found that both Nanog and Oct4 mRNA levels were signiﬁcantly higher in CXCR4+CD45 BMMNCs than in unfractionated
+BMMNCs, whereas neither was detectable in the CXCR4+CD45+
+population. These results reinforce the ﬁnding that CXCR4+ TCSCs
+express early embryonic transcription factors (Kucia et al., 2004;
+Ratajczak et al., 2004). Taken together, these data conﬁrm that pluripotent cells are enriched in the CXCR4+CD45 subpopulation but
+not in the CXCR4+CD45+ subpopulation.
+One limitation of this study is that we only investigated the ability of BMMNCs to acquire the endothelial and astrocyte phenotypes
+that are essential for restoration after stroke. We focused only on the
+brain remodeling process and did not track the fate of the grafted
+cells in neuronal phenotype acquisition. Direct replacement of neurons would be an important therapeutic mechanism. Additional
+research will be carried out to test this possibility.
+Recently, Ratajczak and colleagues identiﬁed a small and very
+rare population of cells that express pluripotency markers and
+can differentiate into three germ layers. Known as very small
+embryonic-like (VSEL) stem cells, they are a highly promising
+source of cells for neural regeneration (Kucia et al., 2006). However, because of their limited number, they are difﬁcult to isolate
+and require proliferation before transplantation (Borlongan et al.,
+2011). In addition, their population decreases as humans age, limiting their application in older individuals (Ratajczak et al., 2011).
+Thus, the use of VSELs for stroke treatment is currently impractical.
+In this report, we provide evidence that allogeneic CXCR4+CD45 BMMNC grafts are superior to unfractionated BMMNCs in
+improving stroke outcomes in the tMCAO mouse model. Because
+this subpopulation represents a relatively small portion of unfractionated BMMNCs, cell source shortage is the biggest obstacle to
+potential clinical applications. Future investigations should focus
+on optimizing cell dosages and enhancing their therapeutic efﬁcacy. For example, adopting an intranasal delivery route could
+reduce the number of cells required and shorten the time needed
+for cells to migrate into the lesion area. Additionally, a combination
+of gene and cell therapies in which exogenous genes such as VEGF
+or nerve growth factor are overexpressed could promote angiogenesis and/or neurogenesis and neuroprotection. Because CXCR4+CD45 BMMNCs provide better protection after ischemic stroke
+than unfractionated BMMNCs and can be easily and efﬁciently harvested and puriﬁed from bone marrow, they may serve as a promising candidate for stoke therapy.
+Conﬂict of interest
+The authors declare no conﬂict of interest.
+Acknowledgments
+This work was supported by Grants from NSFC (81271284),
+AHA 13GRNT15730001, and NIH (K01AG031926, R01AT007317,
+
+107
+
+R01NS078026). We thank Dr. Lan Huang in the Department of Biological Therapy of the First afﬁliated Hospital of Zhengzhou University for her kind help with FACS protocol and Claire Levine for
+assistance with this manuscript.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.bbi.2014.12.015.
+References
+Abdullah, Z., Bayraktutan, U., 2014. NADPH oxidase mediates TNF-alpha-evoked
+in vitro brain barrier dysfunction: roles of apoptosis and time. Mol. Cell.
+Neurosci. 61, 72–84.
+Arnous, S., Mozid, A., Martin, J., Mathur, A., 2012. Bone marrow mononuclear cells
+and acute myocardial infarction. Stem Cell Res. Ther. 3, 2.
+Azizi, S.A., Stokes, D., Augelli, B.J., DiGirolamo, C., Prockop, D.J., 1998. Engraftment
+and migration of human bone marrow stromal cells implanted in the brains of
+albino rats–similarities to astrocyte grafts. Proc. Natl. Acad. Sci. U.S.A. 95, 3908–
+3913.
+Bliss, T.M., Andres, R.H., Steinberg, G.K., 2010. Optimizing the success of cell
+transplantation therapy for stroke. Neurobiol. Dis. 37, 275–283.
+Boltze, J., Nitzsche, B., Geiger, K.D., Schoon, H.A., 2011. Histopathological
+investigation of different MCAO modalities and impact of autologous bone
+marrow mononuclear cell administration in an ovine stroke model. Transl.
+Stroke Res. 2, 279–293.
+Borlongan, C.V., Glover, L.E., Tajiri, N., Kaneko, Y., Freeman, T.B., 2011. The great
+migration of bone marrow-derived stem cells toward the ischemic brain:
+therapeutic implications for stroke and other neurological disorders. Prog.
+Neurobiol. 95, 213–228.
+Brenneman, M., Sharma, S., Harting, M., Strong, R., Cox Jr., C.S., Aronowski, J., Grotta,
+J.C., Savitz, S.I., 2010. Autologous bone marrow mononuclear cells enhance
+recovery after acute ischemic stroke in young and middle-aged rats. J. Cereb.
+Blood Flow Metab. 30, 140–149.
+Burns, T.C., Steinberg, G.K., 2011. Stem cells and stroke: opportunities, challenges
+and strategies. Expert Opin. Biol. Ther. 11, 447–461.
+Caplan, A.I., Dennis, J.E., 2006. Mesenchymal stem cells as trophic mediators. J. Cell.
+Biochem. 98, 1076–1084.
+Chen, J., Zacharek, A., Zhang, C., Jiang, H., Li, Y., Roberts, C., Lu, M., Kapke, A., Chopp,
+M., 2005. Endothelial nitric oxide synthase regulates brain-derived
+neurotrophic factor expression and neurogenesis after stroke in mice. J.
+Neurosci. 25, 2366–2375.
+Chen, J., Zhang, Z.G., Li, Y., Wang, L., Xu, Y.X., Gautam, S.C., Lu, M., Zhu, Z., Chopp, M.,
+2003. Intravenous administration of human bone marrow stromal cells induces
+angiogenesis in the ischemic boundary zone after stroke in rats. Circ. Res. 92,
+692–699.
+Civin, C.I., Gore, S.D., 1993. Antigenic analysis of hematopoiesis: a review. J.
+Hematother. 2, 137–144.
+Crosby, J.R., Kaminski, W.E., Schatteman, G., Martin, P.J., Raines, E.W., Seifert, R.A.,
+Bowen-Pope, D.F., 2000. Endothelial cells of hematopoietic origin make a
+signiﬁcant contribution to adult blood vessel formation. Circ. Res. 87, 728–730.
+Cui, X., Chopp, M., Zacharek, A., Cui, Y., Roberts, C., Chen, J., 2013. The
+neurorestorative beneﬁt of GW3965 treatment of stroke in mice. Stroke 44,
+153–161.
+Dominici, M., Le Blanc, K., Mueller, I., Slaper-Cortenbach, I., Marini, F., Krause, D.,
+Deans, R., Keating, A., Prockop, D., Horwitz, E., 2006. Minimal criteria for
+deﬁning multipotent mesenchymal stromal cells. Cytotherapy 8, 315–317.
+Duenas, F., Becerra, V., Cortes, Y., Vidal, S., Saenz, L., Palomino, J., De Los Reyes, M.,
+Peralta, O.A., 2014. Hepatogenic and neurogenic differentiation of bone marrow
+mesenchymal stem cells from abattoir-derived bovine fetuses. BMC Vet. Res. 10,
+154.
+Eglitis, M.A., Mezey, E., 1997. Hematopoietic cells differentiate into both microglia
+and macroglia in the brains of adult mice. Proc. Natl. Acad. Sci. U.S.A. 94, 4080–
+4085.
+Faulkner, J.R., Herrmann, J.E., Woo, M.J., Tansey, K.E., Doan, N.B., Sofroniew, M.V.,
+2004. Reactive astrocytes protect tissue and preserve function after spinal cord
+injury. J. Neurosci. 24, 2143–2155.
+Fujita, Y., Ihara, M., Ushiki, T., Hirai, H., Kizaka-Kondoh, S., Hiraoka, M., Ito, H.,
+Takahashi, R., 2010. Early protective effect of bone marrow mononuclear cells
+against ischemic white matter damage through augmentation of cerebral blood
+ﬂow. Stroke 41, 2938–2943.
+Fukuda, K., Fujita, J., 2005. Mesenchymal, but not hematopoietic, stem cells can be
+mobilized and differentiate into cardiomyocytes after myocardial infarction in
+mice. Kidney Int. 68, 1940–1943.
+Hess, D.C., Abe, T., Hill, W.D., Studdard, A.M., Carothers, J., Masuya, M., Fleming, P.A.,
+Drake, C.J., Ogawa, M., 2004. Hematopoietic origin of microglial and
+perivascular cells in brain. Exp. Neurol. 186, 134–144.
+Hess, D.C., Hill, W.D., 2011. Cell therapy for ischaemic stroke. Cell Prolif. 44 (Suppl.
+1), 1–8.
+Hill, W.D., Hess, D.C., Martin-Studdard, A., Carothers, J.J., Zheng, J., Hale, D., Maeda,
+M., Fagan, S.C., Carroll, J.E., Conway, S.J., 2004. SDF-1 (CXCL12) is upregulated in
+
+108
+
+J. Wang et al. / Brain, Behavior, and Immunity 45 (2015) 98–108
+
+the ischemic penumbra following stroke: association with bone marrow cell
+homing to injury. J. Neuropathol. Exp. Neurol. 63, 84–96.
+Hochedlinger, K., Jaenisch, R., 2003. Nuclear transplantation, embryonic stem cells,
+and the potential for cell therapy. N. Engl. J. Med. 349, 275–286.
+Iihoshi, S., Honmou, O., Houkin, K., Hashi, K., Kocsis, J.D., 2004. A therapeutic
+window for intravenous administration of autologous bone marrow after
+cerebral ischemia in adult rats. Brain Res. 1007, 1–9.
+Jaenisch, R., 2002. Nuclear cloning, embryonic stem cells, and transplantation
+therapy. Harvey Lect. 98, 145–171.
+Jang, Y.Y., Collector, M.I., Baylin, S.B., Diehl, A.M., Sharkis, S.J., 2004. Hematopoietic
+stem cells convert into liver cells within days without fusion. Nat. Cell Biol. 6,
+532–539.
+Jiang, C., Wang, J., Yu, L., Ou, C., Liu, X., Zhao, X., 2013. Comparison of the therapeutic
+effects of bone marrow mononuclear cells and microglia for permanent cerebral
+ischemia. Behav. Brain Res. 250, 222–229.
+Krause, D.S., Theise, N.D., Collector, M.I., Henegariu, O., Hwang, S., Gardner, R.,
+Neutzel, S., Sharkis, S.J., 2001. Multi-organ, multi-lineage engraftment by a
+single bone marrow-derived stem cell. Cell 105, 369–377.
+Kucia, M., Ratajczak, J., Ratajczak, M.Z., 2005. Bone marrow as a source of circulating
+CXCR4+ tissue-committed stem cells. Biol. Cell 97, 133–146.
+Kucia, M., Ratajczak, J., Reca, R., Janowska-Wieczorek, A., Ratajczak, M.Z., 2004.
+Tissue-speciﬁc muscle, neural and liver stem/progenitor cells reside in the bone
+marrow, respond to an SDF-1 gradient and are mobilized into peripheral blood
+during stress and tissue injury. Blood Cells Mol. Dis. 32, 52–57.
+Kucia, M., Reca, R., Campbell, F.R., Zuba-Surma, E., Majka, M., Ratajczak, J., Ratajczak,
+M.Z., 2006. A population of very small embryonic-like (VSEL) CXCR4(+)SSEA1(+)Oct-4+ stem cells identiﬁed in adult bone marrow. Leukemia 20, 857–869.
+Kucia, M., Zuba-Surma, E.K., Wysoczynski, M., Wu, W., Ratajczak, J., Machalinski, B.,
+Ratajczak, M.Z., 2007. Adult marrow-derived very small embryonic-like stem
+cells and tissue engineering. Expert Opin. Biol. Ther. 7, 1499–1514.
+Liu, X., Ye, R., Yan, T., Yu, S.P., Wei, L., Xu, G., Fan, X., Jiang, Y., Stetler, R.A., Liu, G.,
+Chen, J., 2014a. Cell based therapies for ischemic stroke: from basic science to
+bedside. Prog. Neurobiol. 115, 92–115.
+Liu, Z., Li, Y., Cui, Y., Roberts, C., Lu, M., Wilhelmsson, U., Pekny, M., Chopp, M.,
+2014b. Beneﬁcial effects of gfap/vimentin reactive astrocytes for axonal
+remodeling and motor behavioral recovery in mice after stroke. Glia 62,
+2022–2033.
+Longa, E.Z., Weinstein, P.R., Carlson, S., Cummins, R., 1989. Reversible middle
+cerebral artery occlusion without craniectomy in rats. Stroke 20, 84–91.
+Malliaras, K., Marban, E., 2011. Cardiac cell therapy: where we’ve been, where we
+are, and where we should be headed. Br. Med. Bull. 98, 161–185.
+Mendez-Otero, R., de Freitas, G.R., Andre, C., de Mendonca, M.L., Friedrich, M.,
+Oliveira-Filho, J., 2007. Potential roles of bone marrow stem cells in stroke
+therapy. Regen. Med. 2, 417–423.
+Mezey, E., Chandross, K.J., Harta, G., Maki, R.A., McKercher, S.R., 2000. Turning blood
+into brain: cells bearing neuronal antigens generated in vivo from bone
+marrow. Science 290, 1779–1782.
+Misra, V., Ritchie, M.M., Stone, L.L., Low, W.C., Janardhan, V., 2012. Stem cell therapy
+in ischemic stroke: role of IV and intra-arterial therapy. Neurology 79, S207–
+S212.
+Murry, C.E., Soonpaa, M.H., Reinecke, H., Nakajima, H., Nakajima, H.O., Rubart, M.,
+Pasumarthi, K.B., Virag, J.I., Bartelmez, S.H., Poppa, V., Bradford, G., Dowell, J.D.,
+Williams, D.A., Field, L.J., 2004. Haematopoietic stem cells do not
+transdifferentiate into cardiac myocytes in myocardial infarcts. Nature 428,
+664–668.
+Nor, J.E., Christensen, J., Mooney, D.J., Polverini, P.J., 1999. Vascular endothelial
+growth factor (VEGF)-mediated angiogenesis is associated with enhanced
+endothelial cell survival and induction of Bcl-2 expression. Am. J. Pathol. 154,
+375–384.
+Orlic, D., Kajstura, J., Chimenti, S., Bodine, D.M., Leri, A., Anversa, P., 2003. Bone
+marrow stem cells regenerate infarcted myocardium. Pediatr. Transplant. 7
+(Suppl. 3), 86–88.
+Pittenger, M.F., Mackay, A.M., Beck, S.C., Jaiswal, R.K., Douglas, R., Mosca, J.D.,
+Moorman, M.A., Simonetti, D.W., Craig, S., Marshak, D.R., 1999. Multilineage
+potential of adult human mesenchymal stem cells. Science 284, 143–147.
+Prasad, K., Mohanty, S., Bhatia, R., Srivastava, M.V., Garg, A., Srivastava, A., Goyal, V.,
+Tripathi, M., Kumar, A., Bal, C., Vij, A., Mishra, N.K., 2012. Autologous
+intravenous bone marrow mononuclear cell therapy for patients with
+subacute ischaemic stroke: a pilot study. Indian J. Med. Res. 136, 221–228.
+Prockop, D.J., 1997. Marrow stromal cells as stem cells for nonhematopoietic
+tissues. Science 276, 71–74.
+Ratajczak, J., Shin, D.M., Wan, W., Liu, R., Masternak, M.M., Piotrowska, K.,
+Wiszniewska, B., Kucia, M., Bartke, A., Ratajczak, M.Z., 2011. Higher number
+of stem cells in the bone marrow of circulating low Igf-1 level Laron dwarf
+mice–novel view on Igf-1, stem cells and aging. Leukemia 25, 729–733.
+
+Ratajczak, M.Z., Kucia, M., Reca, R., Majka, M., Janowska-Wieczorek, A., Ratajczak, J.,
+2004. Stem cell plasticity revisited: CXCR4-positive cells expressing mRNA for
+early muscle, liver and neural cells ‘hide out’ in the bone marrow. Leukemia 18,
+29–40.
+Ratajczak, M.Z., Machalinski, B., Wojakowski, W., Ratajczak, J., Kucia, M., 2007. A
+hypothesis for an embryonic origin of pluripotent Oct-4(+) stem cells in adult
+bone marrow and other tissues. Leukemia 21, 860–867.
+Savitz, S.I., 2013. Cell therapies: careful translation from animals to patients. Stroke
+44, S107–S109.
+Schaar, K.L., Brenneman, M.M., Savitz, S.I., 2010. Functional assessments in the
+rodent stroke model. Exp. Transl. Stroke Med. 2, 13.
+Schwarting, S., Litwak, S., Hao, W., Bahr, M., Weise, J., Neumann, H., 2008.
+Hematopoietic stem cells reduce postischemic inﬂammation and ameliorate
+ischemic brain injury. Stroke 39, 2867–2875.
+Seeger, F.H., Rasper, T., Koyanagi, M., Fox, H., Zeiher, A.M., Dimmeler, S., 2009.
+CXCR4 expression determines functional activity of bone marrow-derived
+mononuclear cells for therapeutic neovascularization in acute ischemia.
+Arterioscler. Thromb. Vasc. Biol. 29, 1802–1809.
+Sharma, S., Yang, B., Strong, R., Xi, X., Brenneman, M., Grotta, J.C., Aronowski, J.,
+Savitz, S.I., 2010. Bone marrow mononuclear cells protect neurons and
+modulate microglia in cell culture models of ischemic stroke. J. Neurosci. Res.
+88, 2869–2876.
+Shichinohe, H., Kuroda, S., Maruichi, K., Osanai, T., Sugiyama, T., Chiba, Y.,
+Yamaguchi, A., Iwasaki, Y., 2010. Bone marrow stromal cells and bone
+marrow-derived mononuclear cells: which are suitable as cell source of
+transplantation for mice infarct brain? Neuropathology 30, 113–122.
+Shichinohe, H., Kuroda, S., Yano, S., Hida, K., Iwasaki, Y., 2007. Role of SDF-1/CXCR4
+system in survival and migration of bone marrow stromal cells after
+transplantation into mice cerebral infarct. Brain Res. 1183, 138–147.
+Taguchi, A., Nakagomi, N., Matsuyama, T., Kikuchi-Taura, A., Yoshikawa, H.,
+Kasahara, Y., Hirose, H., Moriwaki, H., Nakagomi, T., Soma, T., Stern, D.M.,
+Naritomi, H., 2009. Circulating CD34-positive cells have prognostic value for
+neurologic function in patients with past cerebral infarction. J. Cereb. Blood
+Flow Metab. 29, 34–38.
+Tang, Y.L., Zhu, W., Cheng, M., Chen, L., Zhang, J., Sun, T., Kishore, R., Phillips, M.I.,
+Losordo, D.W., Qin, G., 2009. Hypoxic preconditioning enhances the beneﬁt of
+cardiac progenitor cell therapy for treatment of myocardial infarction by
+inducing CXCR4 expression. Circ. Res. 104, 1209–1216.
+Terada, N., Hamazaki, T., Oka, M., Hoki, M., Mastalerz, D.M., Nakano, Y., Meyer, E.M.,
+Morel, L., Petersen, B.E., Scott, E.W., 2002. Bone marrow cells adopt the
+phenotype of other cells by spontaneous cell fusion. Nature 416, 542–545.
+Thomas, M.L., 1989. The leukocyte common antigen family. Annu. Rev. Immunol. 7,
+339–369.
+Uemura, R., Xu, M., Ahmad, N., Ashraf, M., 2006. Bone marrow stem cells prevent
+left ventricular remodeling of ischemic heart through paracrine signaling. Circ.
+Res. 98, 1414–1421.
+Wagers, A.J., Sherwood, R.I., Christensen, J.L., Weissman, I.L., 2002. Little evidence
+for developmental plasticity of adult hematopoietic stem cells. Science 297,
+2256–2259.
+Wang, J., Fu, X., Jiang, C., Yu, L., Wang, M., Han, W., Liu, L., 2014. Bone marrow
+mononuclear cell transplantation promotes therapeutic angiogenesis via
+upregulation of the VEGF-VEGFR2 signaling pathway in a rat model of
+vascular dementia. Behav. Brain Res. 265, 171–180.
+Wang, J., Yu, L., Jiang, C., Chen, M., Ou, C., 2013. Bone marrow mononuclear cells
+exert long-term neuroprotection in a rat model of ischemic stroke by promoting
+arteriogenesis and angiogenesis. Brain Behav. Immun. 34C, 56–66.
+Wang, Y., Huang, J., Li, Y., Yang, G.Y., 2012. Roles of chemokine CXCL12 and its
+receptors in ischemic stroke. Curr. Drug Targets 13, 166–172.
+Widiapradja, A., Santro, T., Basta, M., Sobey, C.G., Manzanero, S., Arumugam, T.V.,
+2014. Intravenous immunoglobulin (IVIg) provides protection against
+endothelial cell dysfunction and death in ischemic stroke. Exp. Transl. Stroke
+Med. 6, 7.
+Willing, A.E., Lixian, J., Milliken, M., Poulos, S., Zigova, T., Song, S., Hart, C., SanchezRamos, J., Sanberg, P.R., 2003. Intravenous versus intrastriatal cord blood
+administration in a rodent model of stroke. J. Neurosci. Res. 73, 296–307.
+Yang, B., Migliati, E., Parsha, K., Schaar, K., Xi, X., Aronowski, J., Savitz, S.I., 2013.
+Intra-arterial delivery is not superior to intravenous delivery of autologous
+bone marrow mononuclear cells in acute ischemic stroke. Stroke 44, 3463–
+3472.
+Yang, B., Strong, R., Sharma, S., Brenneman, M., Mallikarjunarao, K., Xi, X., Grotta,
+J.C., Aronowski, J., Savitz, S.I., 2011. Therapeutic time window and dose response
+of autologous bone marrow mononuclear cells for ischemic stroke. J. Neurosci.
+Res. 89, 833–839.
+Ying, Q.L., Nichols, J., Evans, E.P., Smith, A.G., 2002. Changing potency by
+spontaneous fusion. Nature 416, 545–548.
+
+

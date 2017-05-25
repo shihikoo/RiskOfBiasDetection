@@ -1,0 +1,1652 @@
+NeuroImage 99 (2014) 388–401
+
+Contents lists available at ScienceDirect
+
+NeuroImage
+journal homepage: www.elsevier.com/locate/ynimg
+
+Optical imaging of disrupted functional connectivity following ischemic
+stroke in mice
+Adam Q. Bauer a,⁎, Andrew W. Kraft b, Patrick W. Wright a,b,c, Abraham Z. Snyder a,b,
+Jin-Moo Lee a,b,c, Joseph P. Culver a,c,d
+a
+
+Department of Radiology, Washington University, Saint Louis, MO 63110, USA
+Department of Neurology, Washington University, Saint Louis, MO 63110, USA
+Biomedical Engineering, Washington University, Saint Louis, MO 63110, USA
+d
+Department of Physics, Washington University, Saint Louis, MO 63110, USA
+b
+c
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Accepted 18 May 2014
+Available online 24 May 2014
+Keywords:
+Functional connectivity
+Mice
+Stroke
+Functional recovery
+Global signal regression
+
+a b s t r a c t
+Recent human neuroimaging studies indicate that spontaneous ﬂuctuations in neural activity, as measured by
+functional connectivity magnetic resonance imaging (fcMRI), are signiﬁcantly affected following stroke.
+Disrupted functional connectivity is associated with behavioral deﬁcits and has been linked to long-term recovery potential. FcMRI studies of stroke in rats have generally produced similar ﬁndings, although subacute cortical
+reorganization following focal ischemia appears to be more rapid than in humans. Similar studies in mice have
+not been published, most likely because fMRI in the small mouse brain is technically challenging. Extending functional connectivity methods to mouse models of stroke could provide a valuable tool for understanding the link
+between molecular mechanisms of stroke repair and human fcMRI ﬁndings at the system level. We applied functional connectivity optical intrinsic signal imaging (fcOIS) to mice before and 72 h after transient middle cerebral
+artery occlusion (tMCAO) to examine how graded ischemic injury affects the relationship between functional
+connectivity and infarct volume, stimulus-induced response, and behavior. Regional changes in functional connectivity within the MCA territory were largely proportional to infarct volume. However, subcortical damage affected functional connectivity in the somatosensory cortex as much as larger infarcts of cortex and subcortex. The
+extent of injury correlated with cortical activations following electrical stimulation of the affected forelimb and
+with functional connectivity in the somatosensory cortex. Regional homotopic functional connectivity in motor
+cortex correlated with behavioral deﬁcits measured using an adhesive patch removal test. Spontaneous hemodynamic activity within the infarct exhibited altered temporal and spectral features in comparison to intact tissue;
+failing to account for these regional differences signiﬁcantly affected apparent post-stroke functional connectivity
+measures. Thus, several results were strongly dependent on how the resting-state data were processed. Speciﬁcally, global signal regression alone resulted in apparently distorted functional connectivity measures in the intact hemisphere. These distortions were corrected by regressing out multiple sources of variance, as performed
+in human fcMRI. We conclude that fcOIS provides a sensitive imaging modality in the murine stroke model; however, it is necessary to properly account for altered hemodynamics in injured brain to obtain accurate measures of
+functional connectivity.
+© 2014 Elsevier Inc. All rights reserved.
+
+Introduction
+
+Abbreviations: MRI, magnetic resonance imaging; fMRI, functional magnetic resonance imaging; fcMRI, functional connectivity magnetic resonance imaging; OIS, optical
+intrinsic signal imaging; fcOIS, functional connectivity optical intrinsic signal imaging;
+GSR, global signal regression; MSR, multiple signal regression; EMCCD, electron multiplying charge coupled device.
+⁎ Corresponding authors at: Department of Radiology, Washington University School of
+Medicine, 660 South Euclid Avenue, Campus Box 8225, Saint Louis, MO, 63110, USA.
+E-mail addresses: abauer@hbar.wustl.edu (A.Q. Bauer), kraftan@wusm.wustl.edu
+(A.W. Kraft), pwwright@wustl.edu (P.W. Wright), avi@npg.wustl.edu (A.Z. Snyder),
+leejm@neuro.wustl.edu (J.-M. Lee), culverj@mir.wustl.edu (J.P. Culver).
+
+http://dx.doi.org/10.1016/j.neuroimage.2014.05.051
+1053-8119/© 2014 Elsevier Inc. All rights reserved.
+
+Stroke is a major health concern in the United States, where it is the
+fourth leading cause of death and the leading cause of adult disability
+(Anon). Although tissue death from ischemic injury is often well localized, it is becoming increasingly clear that focal injuries affect distributed patterns of synchronized neural activity throughout the brain. Recent
+studies using resting-state functional connectivity magnetic resonance
+imaging (fcMRI) have demonstrated that intra- and inter-hemispheric
+connections are altered shortly after stroke in humans and predict performance in tasks related to the injury (Carter et al., 2010; Corbetta,
+2010). In particular, disruption of functional connectivity between
+
+A.Q. Bauer et al. / NeuroImage 99 (2014) 388–401
+
+homotopic cortical regions appears to be a strong predictor of poor performance after injury in domains of both attention and motor tasks
+(Carter et al., 2010, 2012; Corbetta, 2010; He et al., 2007), ﬁndings
+which underscore studies reporting altered evoked responses in the
+affected brain regions of stroke patients (Calautti and Baron, 2003;
+Corbetta et al., 2005; Cramer and Bastings, 2000).
+FcMRI studies of stroke in rats have generally produced similar
+results to those in humans. Both stimulus-induced cortical responses
+(Corbetta et al., 2005; Dijkhuizen et al., 2001, 2003) and functional connectivity (van Meer et al., 2010a) are reduced following focal ischemia,
+and correlate with behavioral deﬁcits and subsequent recovery. However, interhemispheric homotopic connectivity and contralesional ipsilateral connectivity in somatosensory and motor regions in rats have been
+reported to subacutely increase (van Meer et al., 2010a). These two latter results might suggest more rapid system level reorganization in rats
+following focal ischemia than has been otherwise observed in humans
+(Rehme et al., 2011) or at the cellular level in other animal models of
+stroke recovery (Johnston et al., 2013; Mostany and Portera-Cailliau,
+2011; Mostany et al., 2010).
+Because the size of the mouse brain has presented a more signiﬁcant
+challenge than rats for fcMRI, to date, there have not been analogous hemodynamic-based studies of functional connectivity in mice subjected
+to ischemic injury. Establishing analogous functional imaging in both
+mouse and humans is one of the most promising strategies to providing
+clinical translation. It is important to extend functional connectivity
+methods to mouse models of stroke so that molecular studies in mice
+(Clarkson et al., 2010, 2011; Li and Carmichael, 2006; Lu, 2003) can be
+related to human stroke fcMRI ﬁndings. To address this need, we have
+developed functional connectivity optical intrinsic signal imaging
+(fcOIS) in mouse models of healthy (White et al., 2011) and diseased
+(Bero et al., 2012) brain. The observed functional connectivity patterns
+are robust and reproducible across mice and reveal cross-species
+homologies with humans (e.g. compare Fig. 3 in (White et al., 2011)
+with Fig. 1 in (Zhang and Raichle, 2010)).
+To establish fcOIS in the context of an acute ischemic stroke model,
+we performed fcOIS before and 72 h after transient middle cerebral artery occlusion (tMCAO). Functional status of the mice was evaluated in a
+manner akin to human stroke studies. Mice were separated into three
+groups based on infarct size and location to determine if graded ischemic injury incrementally impacts the relationship between functional
+connectivity and infarct volume, stimulus-related activations, and behavior. Determining how these relationships are affected after stroke
+will provide a more complete understanding of acute system-level
+damage, but in a model capable of facilitating targeted studies of stroke
+recovery mechanisms using genetic and molecular approaches.
+Because functional connectivity measures depend on a preprocessing strategy, as a secondary goal, we examined how alternative regression approaches affect observed functional connectivity measures.
+These investigations indicated that global signal regression (GSR)
+alone can lead to distorted functional connectivity measures, and that
+multiple regression of nuisance variables is necessary to obtain accurate
+results. Overall, we found that fcOIS is a useful tool for understanding
+functional disruption in a mouse model of focal ischemia, and for bringing a robust and efﬁcient functional assay into mouse studies of stroke
+recovery.
+Methods
+Animal preparation
+Male ND4 Swiss Webster mice, aged to 6–10 weeks (22–32 g), were
+used for experimentation. Mice were given ad libitum access to food and
+water. All experimental protocols were approved by the Animal Studies
+Committee at Washington University.
+In accord with our previously published animal preparation protocol
+for fcOIS imaging (White et al., 2011), anesthesia was initiated via i.p.
+
+389
+
+injection with a bolus of ketamine-xylazine (1× dose: 86.9 mg/kg ketamine, 13.4 mg/kg xylazine) and animals were allowed 15 min for anesthetic transition. After induction, the animal was placed on a heating
+pad maintained at 37 °C via feedback from a rectal probe (mTCII, Cell
+Microcontrols) and its head was secured in a stereotactic frame. The
+head was shaved and cleaned, a midline incision was made along the
+top of the head to reﬂect the scalp and the skull was kept intact. To facilitate longer imaging times, after the initial bolus, mice were infused
+(i.p.) with a saline-ketamine cocktail (34.8 mg/kg/h ketamine) during
+the imaging sessions.
+Imaging system
+Sequential illumination was provided at four wavelengths by a ring
+of light emitting diodes (LEDs) placed approximately 10 cm above the
+mouse's head. Our ﬁeld of view included most of the cerebral cortex
+(approximately 1 cm2). Diffuse reﬂected light was detected by a cooled,
+frame-transfer EMCCD camera (iXon 897, Andor Technologies); the LED
+ring and the camera were time-synchronized and controlled via a computer using custom-written software (MATLAB, Mathworks) at a full
+frame rate of 30 Hz.
+Imaging
+Mice were imaged 7–14 days prior to and 3 days after tMCAO. Thirty
+minutes of activation data (15 min each paw, 18 stimulus presentations
+per paw) and up to 45 min of resting state data were collected for each
+mouse in 5 minute data sets (75 min of data total per mouse). The skull
+was kept moist with mineral oil during imaging.
+Forepaw stimulation
+Needle electrodes were inserted into the dorsal and ventral sides of
+the left and right forepaws between digits 2 and 3. The stimulation paradigm consisted of 5 s of rest, followed by a 10 second stimulus train,
+then 35 s of rest administered in a block design. Electrical stimuli were
+0.3 ms pulses delivered at 3 Hz at an amplitude of 1.5 mA driven by a
+constant current stimulus isolation unit (World Precision Instruments).
+Fifteen minutes of data was collected for each paw (18 trials per paw
+total).
+Image processing
+Data from all mice were subject to an initial quality check prior to
+spectroscopic analysis. Data runs (5 min) in which reﬂected light level
+intensity (mean value over the brain) varied as a function of time by
+greater than 1% for any wavelength were excluded from further analysis. This preliminary quality control yielded 45–75 min of data per
+mouse. For subsequent analysis, image light intensity at each wavelength was interpreted using the Modiﬁed Beer–Lambert Law, usually
+expressed as: Φ(r,t) = Φ0 × exp(− Δμa(r,t) × L). Here, Φ(r,t) is the
+measured light intensity, Φ0 is the baseline light intensity, Δμa(r, t) is
+the change in absorption coefﬁcient due to hemodynamic changes,
+and L is the optical path length factor for photons in the tissue
+(Arridge et al., 1992). As there is no pre-stimulus baseline in restingstate experimentation, we normalized relative to the average light intensity at each pixel, resulting in differential measures of absorption at
+each wavelength at each pixel: Δμa,λ(r,t) = −ln(Φλ(r,t)/bΦ0λ(r,t)N)/Lλ.
+Absorption coefﬁcient data were converted to hemoglobin (Hb) concentration changes by inverting the system of equations, Δμa,λ (r,t) =
+Eλ,i Δ[Hbi](r,t) (where E is the extinction coefﬁcient matrix (Prahl,
+2002), and i runs over hemoglobin species). This inversion was
+performed using least-squares methods, yielding changes in oxygenated hemoglobin (HbO) and deoxygenated hemoglobin (HbR) at
+each pixel at each time point. Differential changes in hemoglobin concentration were ﬁltered to retain the functional connectivity band
+
+390
+
+A.Q. Bauer et al. / NeuroImage 99 (2014) 388–401
+
+A
+
+200
+
+Direct Infarct
+Volume (mm3)
+
+Group 1
+
+Group 2
+
+Group 3
+
+150
+100
+50
+0
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+Mouse Index
+#
+
+B
+
+160
+
+#
+
+Direct Infarct
+Volume (mm3)
+
+#
+
+C
+Group 1 Group 2 Group 3
+
+120
+80
+40
+0
+
+Group 1 Group 2 Group 3
+
+D
+Mouse Brain
+
+Group 1
+
+Group 2
+
+Group 3
+
+Olf
+
+Motor
+SS
+R
+Visual
+
+Fig. 1. Infarct volume characterization. Infarct volumes were sorted in ascending order and mice were grouped according to infarct location and volume. (A) group 1: mice with only subcortical infarcts (N = 14, infarct volume ranging from 7.3 mm3 to 54.3 mm3); group 2: mice with infarcts involving subcortex and small lateral portions of cortex (N = 20, infarct volume
+ranging from 32.9 mm3 to 71.6 mm3); and group 3: mice with infarcts involving subcortex and large portions of cortex (N = 12, infarct volume ranging from 90 mm3 to 169.3 mm3).
+(B) Direct infarct volume quantiﬁcation, mean +/− S.D., #p b 0.00001. (C) Representative coronal TTC slices, and (D) image histological atlas assignments of regions of interest with
+rearranged brain slices depicting infarct locations within the image ﬁeld.
+
+(0.009–0.08 Hz) following previous human functional connectivity
+algorithms (Fox et al., 2005). After ﬁltering, each pixel's time series
+was downsampled from 30 Hz to 1 Hz, and all further analysis was
+performed only on those pixels labeled as brain using a manuallyconstructed brain mask. Temporal frequency power spectra were
+calculated by a fast Fourier transform (FFT). Image sequences during
+forepaw stimulation trials were coregistered and averaged over the
+18, 50-second blocks presented to each paw. For all mice, responses
+from 13 to 15 s (corresponding to peak response in the Control group)
+were averaged to obtain activation maps for each paw. To account for
+inter-mouse variability in response amplitude and location, maps for
+each mouse were normalized by the amplitude at the coordinate corresponding to peak response in the control group divided by the peak response in a 20 × 20 pixel region (~ 2.4 mm2 area) around that
+coordinate. All analyses were performed using HbO unless otherwise
+stated.
+Image coregistration
+Image sequences of each mouse (as well as the brain mask for each
+mouse) were afﬁne-transformed to a common atlas space determined
+by the positions of the junction between the coronal suture and sagittal
+suture (posterior to the olfactory bulb and cerebrum along midline) and
+lambda (Franklin and Paxinos, 2008). Bregma was not visible in all mice,
+
+and was calculated based on the above two anatomical landmarks. The
+anterior–posterior stretch was set equal to the medial–lateral stretch,
+and all transformed images were centered at bregma. The intersection
+of every brain mask was calculated and made symmetric by reﬂection
+across the midline allowing all subsequent comparisons to be performed
+on shared brain areas across all mice. Brain slices were reassembled and
+aligned after TTC staining and registered with image sequence data using
+bregma and lambda. The infarct was segmented from the rest of the
+brain using the contrast provided by TTC staining of ischemic and nonischemic brain tissue.
+Signal regression
+Signal regression is a common method used to remove sources of variance from a given voxel's time series (Aguirre et al., 1998; Desjardins
+et al., 2001; Macey et al., 2004; Murphy et al., 2009). For a particular
+voxel, i, the time series detected Si(t) (in this case the pixel-wise OIS
+data) can be written as
+Si ðt Þ ¼ g ðt Þ  βi þ xi ðt Þ
+
+ð1Þ
+
+where g(t) is a regressor, βi is the regression coefﬁcient, and xi(t) is the
+signal within the ith pixel after regression. For control mice and those
+with subcortical infarcts (Group 1), global signal regression (GSR) was
+
+A.Q. Bauer et al. / NeuroImage 99 (2014) 388–401
+
+used. Time traces of all pixels deﬁned as brain were averaged to create a
+global brain signal, gGSR(t) and regressed from every pixel labeled as
+brain, where
+g GSR ðt Þ ¼
+
+N
+1X
+S ðt Þ
+N j¼1 j
+
+ð2Þ
+
+and N is the number of all brain pixels (N ~ 10,000). For mice with cortical
+and subcortical infarcts (Groups 2 and 3) we used a multiple signal
+regression (MSR) approach where the time traces of all pixels within
+the infarct and those outside of the infarct were averaged separately to
+create two separate regressors,
+
+g Infarct ðt Þ ¼
+
+X
+
+NInfarct
+
+1
+NInfarct
+
+g Non−infarct ðt Þ ¼
+
+S j;Infarct ðt Þ
+
+ð3Þ
+
+j¼1
+
+1
+NNon−Infarct
+
+X
+
+N Non−Infarct
+
+S j;Non−Infarct ðt Þ
+
+ð4Þ
+
+j¼1
+
+391
+
+through the internal carotid artery by removal of the intraluminal
+suture was directly conﬁrmed by inspection via an operating microscope and more distally by laser Doppler. After the procedure, animals
+recovered in an incubator before being transferred to their home cages.
+Histology and group designations
+After the ﬁnal imaging session, brains were sectioned and stained
+with 2,3,5-triphenyltetrazolium chloride (TTC) to assist in characterizing the infarcts. After all mice were imaged, infarct volumes were
+ranked from smallest to largest. All statistical regression analysis was
+performed across all of the mice allowing infarct volume to vary continuously. For group analysis, the mice were classiﬁed into 3 groups
+post-hoc based on infarct location and infarct volume—group 1: mice
+with only subcortical infarcts (N = 14, infarct volume ranging from
+7.3 mm3 to 54.3 mm3); group 2: mice with infarcts involving subcortex
+and small lateral portions of cortex (N = 20, infarct volume ranging
+from 32.9 mm3 to 71.6 mm3); and group 3: mice with infarcts involving
+subcortex and large portions of cortex (N = 12, infarct volume ranging
+from 90 mm3 to 169.3 mm3).
+Statistical analysis
+
+which were then regressed from all brain pixels simultaneously:
+Si ðt Þ ¼ g MSR ðt Þ  βi;MSR þ xi;MSR ðt Þ
+
+ð5Þ
+
+h
+i
+g MSR ðt Þ ¼ g Infarct ðt Þ g Non−infarct ðt Þ :
+
+ð6Þ
+
+Pearson r values were Fisher z-transformed (z(r) = arctanh(r))
+prior to all statistical comparisons. Statistical signiﬁcance was determined using unpaired, two-tailed t-tests assuming unequal variance
+unless otherwise stated. All statistical analyses were performed using
+MATLAB, and values were accepted as signiﬁcant if p b 0.05.
+Results
+
+Functional connectivity measures
+To investigate the strength of network connections, 10 seed locations were positioned at coordinates expected to correspond to the
+left and right olfactory, motor, somatosensory, retrosplenial, and visual
+cortices using a histological atlas (Franklin and Paxinos, 2008) as
+described previously (Bero et al., 2012; White et al., 2011). Seed timetraces were calculated by averaging the time traces within 0.25 mm of
+a seed locus (containing approximately 30 pixels). Functional connectivity analysis was performed by correlating these time courses against
+the time course of every pixel in the brain, producing 10 functional connectivity maps over the mouse brain. In addition, a 10 × 10 seed-to-seed
+correlation matrix was computed by correlating each of the 10 seed
+time traces. To further examine homotopic functional connectivity
+across the entire brain, three 5-minute data runs from each mouse
+were selected at random, concatenated, and every pixel in the mouse
+brain was used as a seed. Each pixel's time trace was correlated with
+its contralateral homologue, resulting in a homotopic functional connectivity map for each mouse. Functional connectivity maps were averaged within each group to obtain group-level results.
+Adhesive tape removal test
+A small square piece of adhesive tape (an Avery® label cut to
+0.3 cm × 0.3 cm) was placed over the ventral hairless region of the
+right and left forepaws, and the time taken to remove the tape was measured for each forelimb with a maximum allowed time of 120 s per trial.
+Five days before the ﬁrst imaging session all mice were trained to remove adhesive patches from the right and lefts paws within 5 s; reported post-stroke times are the average adhesive removal times at 48 and
+72 h after tMCAO. All imaging was performed after behavioral tests.
+Transient middle cerebral artery occlusion (tMCAO)
+tMCAO was performed using a nylon suture coated with silicone for
+60 or 90 min, as described (Miller et al., 2001). Restoration of blood ﬂow
+
+To provide a basis for examining the interaction between functional
+connectivity deﬁcits, ischemic injury, stimulus-induced responses, and
+behavior, the mouse data were separated into three groups according
+to infarct size and location. Group 1 had only subcortical infarcts
+(N = 14); group 2 had moderate infarcts involving lateral/ventral cortex and subcortex (N = 20); and group 3 had large infarcts involving
+substantial portions of both the cortex and subcortex (N = 12)
+(Fig. 1A). Infarct volumes were statistically different for all group comparisons (Fig. 1B), and were estimated by analysis of brain slices stained
+with TTC (Fig. 1C: representative slices; Fig. 1D: reorganized slices to
+show representative infarcts within our ﬁeld-of-view). The functional
+connectivity analyses examined brain regions within the MCA territory
+(motor, somatosensory, and visual), perilesional cortex (retrosplenial),
+and a control region (olfactory) as determined by their atlas designations (Fig. 1D).
+The effect of ischemic injury on functional connectivity
+Resting-state functional connectivity was evaluated as the Pearson
+correlation between a seed and other cortical locations. Correlations
+were calculated for each mouse and then averaged in mouse atlas
+space within each group (controls and infarct groups 1–3) for both
+pre- and post-stroke analyses. Prior to tMCAO, all of the mice revealed
+distinct, symmetric resting-state functional connectivity for each of
+the investigated seeds (Figs. 2, 3 control, top row). The pre-stroke
+maps exhibited symmetric patterns with positive correlations between
+adjacent cortex and functionally-related regions (e.g., motor and somatosensory cortex) and anti-correlations (negative r, blue), between
+functionally-opposed regions (e.g., somatosensory and retrosplenial
+cortices). Graded disruption of interhemispheric functional connectivity
+was observed primarily within the MCA territory (somatosensory,
+motor, visual cortices), depending on infarct volume for seeds placed
+in either hemisphere. Substantial change in functional connectivity in
+perilesional (retrosplenial) cortex was observed in groups 2 and 3. Moderate disruption in distant (olfactory) regions was also observed in
+
+392
+
+A.Q. Bauer et al. / NeuroImage 99 (2014) 388–401
+
+Olfactory
+
+Motor
+
+Somatosensory
+
+Retrosplenial
+
+Visual
+
+Group 3
+
+Group 2
+
+Group 1
+
+Control
+
+TTC
+
+Correlation Coefficient, r
+-1
+
+0
+
+1
+
+Fig. 2. Functional connectivity maps for seeds placed in the right (unaffected) hemisphere. Group-averaged functional connectivity patterns in mice before (control) and 72 h after tMCAO
+using HbO. Functional connectivity maps for seeds in right (unaffected) olfactory, somatosensory, motor, retrosplenial, and visual cortices (black circles) exhibit changes in connectivity
+patterns commensurate with injury, indicating a loss of temporal synchrony between brain networks. Note that connectivity patterns of regions within the MCA territory (motor, somatosensory, visual) are more affected than perilesional regions (retrosplenial) and those far from the insult (olfactory).
+
+group 3. Interestingly, seeds placed in the right (contralateral) hemisphere (Fig. 2) showed very little change in local, intrahemispheric
+functional connectivity as a function of injury. In contrast, many of the
+seeds placed in the left (ipsilesional) hemisphere (Fig. 3) show graded
+decline in intrahemispheric functional connectivity with the most notable changes occurring in somatosensory and visual cortices. In general,
+functional connectivity maps calculated for HbR (Fig. S1) and total
+hemoglobin (Fig. S2) exhibited similar trends as those calculated
+using oxygenated hemoglobin and were not further analyzed.
+Connections between homotopic regions appear to be those most
+affected by ischemia, and decline in homotopic functional connectivity
+is strongly correlated with behavioral deﬁcits and recovery (Carter
+et al., 2010, 2012; van Meer et al., 2010a). To examine the topography
+of this measure in the mouse, every pixel within our ﬁeld of view was
+used as a seed center and its time trace was correlated with its contralateral homolog, producing a brain-wide map of homotopic functional
+connectivity within each cohort (Fig. 4). (Because a map of homotopic
+functional connectivity is necessarily symmetric about midline, we
+chose to visualize this measure in the ipsilesional hemisphere to illustrate how reductions in homotopic connectivity are spatially related to
+the functional domains perfused by the left MCA.) After tMCAO, functional connectivity in group 1 was dramatically reduced in the somatosensory cortex and other lateral regions; decline in surrounding cortical
+areas becomes more apparent with larger infarcts. Thus, the spatial extent of reduced homotopic functional connectivity increased in proportion to infarct severity. In the most affected group, this measure trended
+towards zero (no correlation) over the entire ﬁeld of view, indicating
+
+that the temporal synchrony between homotopic brain regions is globally affected by ischemia.
+Quantitative relations between functional connectivity and lesion size
+Fig. 5 reports functional connectivity in relation to infarct size for
+mice following tMCAO. As suggested by the qualitative post-stroke results (Figs. 2–4), infarct size correlated most strongly with functional
+connectivity reductions in the motor and retrosplenial cortices. In contrast, infarcts of all sizes had similarly strong effects on homotopic functional connectivity in the somatosensory and visual regions. Ipsilesional
+somatomotor functional connectivity, calculated by correlating time
+traces from the left somatosensory cortex with those from left motor
+cortex, was also invariant to injury (Fig. 5B, left somatomotor). Finally,
+homotopic functional connectivity in the olfactory region was preserved in mice with small stroke volumes and only minimally declined
+with increasing stroke volume (these effects are further illustrated in
+Fig. 9, which also includes control mice, see below).
+Stimulus induced responses are incrementally affected by stroke severity
+OIS imaging was used to map stimulus-induced responses to electrical forepaw stimulation before and after tMCAO in a subset of mice
+(control: N = 16; group1: N = 12; group 2: N = 10; group 3: N = 6).
+Responses to forepaw stimulation in control mice (Fig. 6, control)
+were well localized to the somatosensory cortex, as deﬁned by our
+atlas (Fig. 1D). Following stroke, responses to contralesional (right)
+
+A.Q. Bauer et al. / NeuroImage 99 (2014) 388–401
+
+Olfactory
+
+Motor
+
+Somatosensory
+
+Retrosplenial
+
+Visual
+
+Group 3
+
+Group 2
+
+Group 1
+
+Control
+
+TTC
+
+393
+
+Correlation Coefficient, r
+-1
+
+0
+
+1
+
+Fig. 3. Functional connectivity maps for seeds placed in the left (affected) hemisphere. Group-averaged functional connectivity patterns (calculated using HbO) in mice before (control)
+and 72 hours after tMCAO. Functional connectivity maps for seeds in left (affected) hemisphere for olfactory, somatosensory, motor, retrosplenial, and visual cortices (black circles) exhibit
+changes in connectivity patterns commensurate with injury. Note that the seed placed in left somatosensory cortex is effective in the ischemic core and shows a near lack of correlation
+with any part of the brain as one would expect from dead tissue.
+
+and homotopic functional connectivity in the somatosensory cortex
+(Fig. S4).
+
+limb stimulation declined signiﬁcantly in the left hemisphere with increasing infarct severity (Fig. 6 bottom row, Fig. S3), and strongly correlated with functional connectivity decline in the somatosensory cortex
+(Fig. S4). Responses in the affected hemisphere in group 3 had poorer
+signal to noise, and did not statistically differ from zero. While electrical
+stimulation of the unaffected (left) limb appears to produce a stereotypical response in all groups qualitatively similar to that as observed in the
+controls (Fig. 6, top row), we did observe very weak correlation
+between response magnitude in the unaffected (right) hemisphere
+
+Control
+
+Behavioral measures in relation to homotopic functional connectivity
+Sensorimotor function was assessed in 23 mice using an adhesive removal test before and after focal ischemia (15 mice in the control group;
+3 mice in group 1, 10 mice in group 2, and 3 mice in group 3). Over the
+5 days prior to the ﬁrst imaging session, the mice were trained to
+
+Group 1
+
+Group 2
+
+Group 3
+
+Correlation Coefficient, z(r)
+-1.4
+
+0
+
+1.4
+
+Fig. 4. Homotopic functional connectivity within the ipsilesional hemisphere. Group-averaged correlation maps of interhemispheric homotopic functional connectivity for all pixels within
+our ﬁeld of view reveal regional differences in observed connectivity after focal ischemia that depends on stroke severity. Note the overall trend that the brain becomes gradually less connected (connectivity goes to zero) as the injury becomes larger. Functional connectivity values are Fisher z-transformed Pearson correlations.
+
+A.Q. Bauer et al. / NeuroImage 99 (2014) 388–401
+
+1
+
+1
+
+0.5
+
+0.5
+
+Motor fc
+
+Olfactory fc
+
+394
+
+0
+-0.5
+
+0
+
+-0.5
+
+R2 = 0.08
+p = 0.07
+
+−1
+
+0
+
+50
+
+100
+
+R2 = 0.36
+p = 0.00001
+
+−1
+
+150
+
+0
+
+Direct Infarct Volume (mm3)
+
+1
+
+100
+
+0.5
+0
+-0.5
+
+0.5
+0
+-0.5
+
+2
+
+R = 0.01
+p = 0.45
+
+−1
+
+0
+
+50
+
+100
+
+R2 = 0.31
+p = 0.00005
+
+−1
+
+150
+
+0
+
+Direct Infarct Volume (mm3)
+
+100
+
+150
+
+1
+
+Left Somatomotor
+
+0.5
+
+Visual fc
+
+50
+
+Direct Infarct Volume (mm3)
+
+1
+
+0
+-0.5
+
+R2 = 0.06
+p = 0.09
+
+−1
+
+0
+
+150
+
+1
+
+Retrosplenial fc
+
+Somatosensory fc
+
+50
+
+Direct Infarct Volume (mm3)
+
+50
+
+100
+
+150
+
+Direct Infarct Volume (mm
+
+3)
+
+0.5
+0
+-0.5
+
+R2 = 0.03
+p = 0.27
+
+−1
+
+0
+
+50
+
+100
+
+150
+
+Direct Infarct Volume (mm3)
+
+Fig. 5. Functional connectivity vs. degree of injury. Post-stroke homotopic functional connectivity correlated strongly with infarct volume in motor and retrosplenial cortices. Homotopic
+functional connectivity in somatosensory and visual regions, and left intrahemispheric somatomotor functional connectivity was much more uniformly depressed in mice with infarcts of
+all sizes. Homotopic functional connectivity in olfactory cortex was nearly unaffected by infarcts and maintained values similar to those in pre-stroke mice. Functional connectivity values
+are Fisher z-transformed Pearson correlations. Control mice are not included in this ﬁgure. See Fig. 9A for comparison of infarcted mice vs. controls.
+
+remove adhesive tape from the left and right forepaws within 5 s, and
+then were retested 48 and 72 h after stroke. Removal times for the affected limb after stroke (Fig. 7A) signiﬁcantly increased in each group
+compared to controls. A subset of those mice tested were imaged pre
+and post stroke and had their removal times evaluated against functional connectivity pre and post ischemia (6 mice in the control group; 3
+mice in group 1, 7 mice in group 2, and 2 mice in group 3). Mice with
+removal times longer than 120 s were not included (i.e., 3 mice from
+group 2 and 1 mouse from group 3 were removed from this analysis).
+Strong correlation was found between removal times for the
+contralesional limb and homotopic functional connectivity (Fig. 7B) in
+the motor region. Interestingly, a strong correlation was also found between affected limb removal times and homotopic functional
+
+connectivity in the retrosplenial cortex, a brain region not typically associated with this behavioral task.
+Spectral and temporal features of injured and healthy hemisphere signals
+Ischemic stroke produces focal lesions that alter regional spontaneous activity. An initial examination of resting-state hemodynamics compared the average time traces of infarct and non-infarct regions in
+groups 2 and 3 mice (Fig. 8A); distinct temporal and spectral features
+were found over the functional connectivity band. For example, time
+traces within the infarct region (Fig. 8B, red trace) exhibit a “low-passﬁltering” characteristic compared with the non-infarcted tissue
+(Fig. 8B, black trace). Average power in frequencies above 0.03 Hz in
+
+A.Q. Bauer et al. / NeuroImage 99 (2014) 388–401
+
+Group 1
+
+Group 2
+
+Group 3
+
+Right Forepaw
+(Affected Limb)
+
+Left Forepaw
+(Unaffected Limb)
+
+Control
+
+395
+
+Response Amplitude
+-1
+
+0
+
+1
+
+Fig. 6. Reduced activations in affected forepaw. Cortical activation maps for electrical forelimb stimulation of left (unaffected) forepaw (top row) and right (injured) forepaw (bottom
+row). The right limb exhibits reduced response amplitude as a function of stroke severity (see Fig. S3), while the induced response in the unaffected left limb is similar to the control
+group. Pixels having a response amplitude within 75% of maximum response are overlaid on a representative white light image of the brain.
+
+the group 3 mice (Fig. 8C, red trace) was signiﬁcantly lower in damaged
+tissue when compared to non-infarcted regions. Cross-correlation analysis of left and right homotopic regions within each group revealed peak
+time shifts ranging from 0 to − 3.5 s across groups (Fig. 8D). Here,
+negative time shifts correspond to left hemisphere delay and motivated
+the implementation of the MSR analysis. In the following section, we
+show that failing to separately account for shared variance within the
+healthy and injured tissue signiﬁcantly affects quantitative estimates
+of functional connectivity.
+Multiple nuisance signal regression versus global signal regression
+Homotopic functional connectivity was quantiﬁed using both MSR
+(Fig. 9A) and GSR (Fig. 9B). Results from both methods reveal altered
+functional connectivity following stroke. However, GSR produced
+homotopic anti-correlations with much of the lesioned hemisphere,
+including homotopic motor, somatosensory, and visual cortices in
+mice of groups 2 and 3 (Figs. 9B, 10, S5). In contrast, following MSR,
+these correlations approached zero (e.g. Fig. 9A, motor; Figs. 10, S5)
+for seeds placed in either hemisphere. Additionally, following MSR,
+intrahemispheric functional connectivity contralateral to the infarct
+between right motor cortex and right somatosensory cortex was preserved across all three groups (Fig. 9A, right somatomotor) and was
+not signiﬁcantly dependent on infarct size (not shown). In contrast, correlations within either hemisphere incrementally increased with stroke
+severity following GSR (e.g. Fig. 9B, right and left somatomotor, and
+Figs. 10, S5).
+Discussion
+In this study, we used novel functional neuroimaging, fcOIS, and
+graded degrees of ischemia in mice to evaluate the relationships
+between functional connectivity and infarct size, cortical responses to
+forepaw stimulation, and behavior. Establishing the degree of functional
+disruption in a mouse model of ischemia will enable further studies
+aimed at understanding network damage and repair in the context of
+human stroke where infarct size and location vary widely. Because the
+mouse brain exhibits many of the resting-state networks observed in
+humans, the mouse model provides a platform on which to study
+
+molecular mechanisms of repair (Carmichael, 2008; Carmichael et al.,
+2001; Clarkson et al., 2010, 2011).
+Effects of stroke on functional connectivity
+Control mice (ND4 Swiss Webster) exhibit strong, brain-wide correlation between homotopic regions (Fig. 4, Control) similar to other
+wild-type (B6C3) mice that have previously been imaged (Bero et al.,
+2012). Regional differences in homotopic functional connectivity are
+apparent; motor and retrosplenial cortices exhibit higher correlation
+than, for example, somatosensory cortices. These regional inhomogeneities suggest an inherent difference in the temporal coherence of
+spontaneous activity within and across different brain networks of the
+mouse brain. Overall, following tMCAO, functional connectivity between homotopic regions declined towards zero with increasing infarct
+severity. Signiﬁcant disruption in functional connectivity was observed
+in motor, somatosensory, and visual cortices in all three groups, and in
+the retrosplenial cortex for moderate and large infarcts (Figs. 2–5, 9A).
+In motor and retrosplenial cortices, we see a signiﬁcant correlation between functional connectivity and infarct volume (Fig. 5) and adhesive
+removal time and functional connectivity (Fig. 7). These data illustrate
+the speciﬁcity of correlation between functional connectivity and infarct
+volumes and behavior within speciﬁc brain regions (representing different networks). Lesion size correlated most strongly with the degree
+of functional connectivity disruption in motor cortical regions (Fig. 5).
+A different picture was found in the olfactory, somatosensory, and visual
+regions. Functional connectivity in the olfactory region remained high,
+near control values in all infarcted mice. Subcortical infarcts resulting
+from MCAO affected homotopic functional connectivity in somatosensory and visual cortices to a much greater extent than other cortical regions (e.g. motor). The dorsal branch of the MCA in the mouse directly
+perfuses tissue within the somatosensory cortex, whereas both the
+MCA and the anterior carotid artery (ACA) supply blood to motor cortex
+(Maeda et al., 1999). During an MCA occlusion, the ACA might provide
+some, though insufﬁcient, collateral ﬂow to motor cortex while the somatosensory cortex remains largely ischemic. The impaired reperfusion
+to motor cortex might explain why local ipsilesional connectivity
+around the motor seed was relatively preserved across groups while
+somatomotor connectivity in the ipsilesional hemisphere was not.
+
+396
+
+A.Q. Bauer et al. / NeuroImage 99 (2014) 388–401
+
+Adhesive Removal Time (s)
+
+A
+
+*
+
+120
+100
+
+**
+
+80
+60
+40
+20
+
+*
+
+0
+
+Control
+
+Group 1
+
+Group 2
+
+Group 3
+
+B
+100
+
+120
+
+R2 = 0.0004
+p = 0.93
+
+Adhesive Removal Time (s)
+
+Adhesive Removal Time (s)
+
+120
+
+80
+60
+40
+20
+0
+
+−1
+
+−0.5
+
+0
+
+0.5
+
+100
+80
+60
+40
+20
+0
+
+1
+
+R2 = 0.54
+p = 0.0003
+
+−1
+
+−0.5
+
+Olfactory fc
+
+100
+
+120
+
+R2 = 0.10
+p = 0.19
+
+Adhesive Removal Time (s)
+
+Adhesive Removal Time (s)
+
+120
+
+80
+60
+40
+20
+0
+
+−1
+
+−0.5
+
+0
+
+0.5
+
+100
+
+1
+
+0.5
+
+1
+
+80
+60
+40
+20
+0
+
+1
+
+−1
+
+−0.5
+
+0
+
+Retrosplenial fc
+120
+
+R2 = 0.06
+p = 0.32
+
+Adhesive Removal Time (s)
+
+Adhesive Removal Time (s)
+
+100
+
+0.5
+
+R2 = 0.57
+p = 0.0002
+
+Somatosensory fc
+120
+
+0
+
+Motor fc
+
+80
+60
+40
+20
+
+100
+
+R2 = 0.04
+p = 0.41
+
+80
+60
+40
+20
+0
+
+0
+−1
+
+−0.5
+
+0
+
+Visual fc
+
+0.5
+
+1
+
+−1
+
+−0.5
+
+0
+
+0.5
+
+1
+
+Left Somatomotor
+
+Fig. 7. Sensorimotor performance in affected limb is signiﬁcantly correlated with homotopic functional connectivity in motor and retrosplenial cortices. (A) During the 5 days before
+tMCAO, all mice were trained to remove pieces of adhesive tape from the right and lefts paws within 5 seconds. Post-stroke removal times (which represent the average adhesive removal
+times at 48 and 72 hrs.) are incrementally disrupted, mean +/−S.D., ⁎p b 0.05, ⁎⁎p b 0.01 calculated using an unpaired, one tailed t-test and (B) strongly correlate with functional connectivity in motor and retrosplenial cortex. Functional connectivity values are Fisher z-transformed Pearson correlations.
+
+A.Q. Bauer et al. / NeuroImage 99 (2014) 388–401
+
+B
+
+Non-Infarct
+
+C
+
+Spontaneous Activity in
+Infarct and Non-Infarct Brain Regions
+Non-Infarct
+Infarct
+
+0.6
+
+Power Spectra of Spontaneous Activity
+
+10
+
+p<0.05
+
+-2
+
+0
+
+-0.6
+0
+
+10-3
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+0.01
+
+Non-Infarct
+Infarct
+
+0.02
+
+0.03 0.04
+
+Time (s)
+
+D
+
+0.05 < p < 0.001
+
+Power
+
+ΔHbO (μM)
+
+Lesion
+Segmentation
+
+Infarc
+t
+
+A
+
+397
+
+Control
+
+0.05
+
+0.06
+
+0.07 0.08
+
+Frequency (Hz)
+
+Group 1
+
+Group 2
+
+Group 3
+
+4
+
+0
+-2
+
+Time Shift (s)
+
+2
+
+-4
+Fig. 8. Altered hemodynamics and homotopic temporal coherence following ischemic stroke. (A) Representative segmentation for mice with cortical infarcts. All pixel time traces within
+infarct or non-infarct regions were averaged to create the two regressors in Eq. (6). (B) Spontaneous activity occurring within the infarct (red) and non-infarct (black) tissue exhibits
+marked differences in hemodynamic ﬂuctuations (representative traces from mice in Group 3). (C) Power spectra of spontaneous activity within infarct (red) tissue for all mice in
+Group 3 show signiﬁcant attenuation in all frequencies above 0.03 Hz compared with non-infarct tissue (black). (D) Time shifts in the ipsilesional hemisphere were estimated by
+cross-correlating every pixel in the left hemisphere with its contralateral homologue and measuring the time shift associated with peak correlation. Across all three groups, time-topeak correlation between homotopic brain pixels is gradually delayed within the MCA territory and surrounding areas.
+
+Additionally, subcortical lesions involve both white matter tracts and
+the striatum (Hjornevik et al., 2007). Although the striatum receives excitatory input diffusely from the cerebral cortex, cortical afferents from
+
+A
+
+Multiple Signal Regression
+n.s.
+
+1.5
+
+Correlation
+Coefficient, z(r)
+
+somatosensory and visual cortices to intra- and inter-hemispheric
+targets seem to be preferentially damaged compared to motor cortex
+following tMCAO in the mouse. Somatomotor functional connectivity
+
+*
+
+n.s.
+n.s.
+
+1
+
+****
+#
+
+#
+
+*
+
+0.5
+
+#
+
+****
+
+n.s. n.s.n.s.
+
+*** #
+
+# #
+
+**
+
+#
+
+# ****
+
+0
+
+Global Signal Regression
+
+B
+
+n.s.
+
+1.5
+
+Correlation
+Coefficient, z(r)
+
+n.s.
+
+1
+
+*
+
+*
+
+n.s.
+n.s.
+
+#
+
+****
+
+n.s.
+n.s.
+
+****
+
+0.5
+
+n.s.
+
+n.s.
+
+*** #
+
+** **
+
+0
+−0.5
+
+Control
+Group 1
+Group 2
+Group 3
+
+#
+
+#
+#
+
+Olfactory
+
+Motor
+
+Somatosensory Retrosplenial
+Homotopic
+Functional Connectivity
+
+#
+
+Visual
+
+Right
+Somatomotor
+
+Left
+Somatomotor
+
+Intrahemispheric
+Functional Connectivity
+
+Fig. 9. Global signal regression overestimates functional connectivity after stroke. Seed-to-seed homotopic connectivity in olfactory, somatosensory, motor, retrosplenial, and visual cortices and intrahemispheric connectivity between somatosensory and motor cortices in the right and left hemisphere for (A) multiple signal and (B) global signal regression methods quantiﬁed as Fisher z scores. With increasing stroke severity, homotopic functional connectivity switches sign using global regression and increases, but decreases using multiple signal
+regression. Intrahemispheric somatomotor connectivity does not increase with larger infarcts in either hemisphere using multiple signal regression. Values represent mean +/− S.D.,
+⁎p b 0.05; ⁎⁎p b 0.01; ⁎⁎⁎p b 0.001; ⁎⁎⁎⁎p b 0.0001; #p b 0.00001; n.s. = not signiﬁcant. Functional connectivity values are Fisher z-transformed Pearson correlations.
+
+398
+
+A.Q. Bauer et al. / NeuroImage 99 (2014) 388–401
+
+GSR
+
+Motor
+
+Somatosensory
+
+MSR
+
+GSR
+
+MSR
+
+GSR
+
+Visual
+
+MSR
+
+Group 3
+
+Group 2
+
+G roup 1
+
+Control
+
+TTC
+
+Correlation Coefficient, r
+-1
+
+0
+
+1
+
+Fig. 10. Measured functional connectivity following ischemic stroke depends on regression method (seeds in affected hemisphere). Functional connectivity patterns for seeds (black circles) in left (affected) hemisphere show graded decline in inter- and intra-hemispheric functional connectivity using multiple signal regression (MSR). Global signal regression (GSR) results in the largest changes in connectivity, with contralateral regions becoming increasingly anticorrelated in groups 2 and 3. This increased connectivity (both positive and negative
+correlations) following GSR is a result of the temporal delay between infarct and non-infarct tissue and is an artifact. Note with MSR that correlations with dead tissue (seed in left somatosensory cortex) approach zero as one might expect.
+
+in the ipsilesional hemisphere was signiﬁcantly reduced in all mice with
+infarcts of any size; however, intrahemispheric functional connectivity
+between right motor and right somatosensory cortex did not show a statistically signiﬁcant decline for any infarct size (Fig. 9). This result, which
+has not been observed in the rat, provides additional support for the implementation of an MSR approach to calculating functional connectivity
+post ischemia.
+Stroke affects spontaneous and stimulus-induced activity
+Following tMCAO, resting state signals within the infarct and noninfarct tissue revealed different temporal and spectral characteristics
+(Fig. 8B, C). Spontaneous hemodynamic ﬂuctuations within the infarct
+exhibited signiﬁcant attenuation over most of the functional connectivity
+band while the remaining components displayed delayed correlations
+with contralateral brain regions. These observations are consistent with
+several other studies reporting alterations in neurovascular coupling
+following stroke (Girouard and Iadecola, 2006) in animals and humans
+where focal ischemia produced regional changes in basal perfusion
+(Ayata et al., 2004; Jones et al., 2008; Sutherland et al., 2011) and
+cerebrovascular reactivity (Krainik et al., 2005) within lesional and
+perilesional tissue. Such physiological effects do not exclude the possibility that viable neuronal tissue may still be present within the ischemic
+core and surrounding regions. Two recent fcMRI studies have analyzed
+the temporal shift between all brain voxels and the global signal in a
+
+manner similar to the cross correlation analysis between homotopic regions reported herein (Amemiya et al., 2013; Lv et al., 2013). In these
+studies, the authors found that in non-hemorrhagic, post stroke patients,
+a delay in time-to-peak correlation with the global signal was observed
+in subjects with chronic hypoperfusion (Amemiya et al., 2013; Lv et al.,
+2013) and without neurologic impairment (Lv et al., 2013). That is, a
+temporal delay in spontaneous activity corresponds to a vascular, but
+not necessarily a neuronal, deﬁcit. Hypoperfused regions may still contain viable neuronal networks, but quantitative comparisons between
+temporal delay, functional connectivity changes, and tissue viability are
+beyond the scope of this manuscript (animals in the current study
+were imaged following complete reperfusion as determined by laser
+Doppler). We suggest that such studies would be better informed using
+multiple signal regression techniques, as presently described.
+Reduced stimulus-induced responses in the somatosensory cortex
+within the ipsilesional hemisphere (Fig. 6) agree with similar previously
+published studies of responses to forelimb stimulation in mice (Brown
+et al., 2009) and rats (Dijkhuizen et al., 2003, 2012). Additionally,
+decreases in the blood oxygen level dependent (BOLD) response in
+humans have been observed in lesioned somatomotor regions, and impaired cerebrovascular reactivity has predicted weakened motorrelated BOLD responses to contralateral movements (Krainik et al.,
+2005). We found that the cortical responses in the affected limb correlated signiﬁcantly with functional connectivity decline in the somatosensory cortex, in good agreement with several studies in rats and
+
+A.Q. Bauer et al. / NeuroImage 99 (2014) 388–401
+
+humans following stroke (Carter et al., 2010, 2012; Corbetta, 2010;
+Corbetta et al., 2005; Dijkhuizen et al., 2001, 2003; He et al., 2007; van
+Meer et al., 2010a).
+Disrupted functional connectivity as a behavioral correlate
+Behavioral recovery has been associated with alterations in
+perilesional cortex excitability (Clarkson et al., 2010), changes in local
+connectivity (Dancause et al., 2005), and ultimately, cortical remapping
+(Brown et al., 2009; Jones and Schallert, 1992). Ischemic injury has been
+shown to also affect neuronal connections more broadly at the network
+level—damage to one node can cause functional anomalies in distant
+nodes of the network, even those appearing anatomically normal. Recent fcMRI studies have shown that resting state networks are altered
+shortly after stroke in humans and predict performance in tasks related
+to the injury (Corbetta, 2010; Corbetta et al., 2005; He et al., 2007). In
+particular, the disruption of interhemispheric homotopic functional
+connectivity has been shown to be predictive of poor behavioral recovery (Carter et al., 2012; He et al., 2007). Post stroke, we found that that
+subcortical lesions restricted to the white matter tracts and the striatum
+impaired somatosensory functional connectivity to the same extent as
+larger cortical infarcts (e.g., Figs. 2–5, 9A). Thus, somewhat surprisingly,
+we found that functional connectivity in the somatosensory cortex, one
+of the brain regions typically associated with this somatomotor test of
+asymmetry, was not predictive of post stroke removal times (R2 =
+0.10, p = 0.19, Fig. 7), even though the responses to forepaw stimulation did show a graded deﬁcit that correlated with infarct volume
+(Fig. S3) and homologous functional connectivity (Fig. S4). Interestingly, motor and retrosplenial cortices were the only two regions where
+functional connectivity signiﬁcantly correlated with adhesive removal
+time in the affected limb (Fig. 7B). While correlation between removal
+times and motor functional connectivity might be expected (mice
+remove the patches by bringing their forepaws to their mouths and
+pulling them off with their teeth), the correlation of this behavioral
+task with functional connectivity in the retrosplenial cortex was not
+anticipated. One plausible explanation for this ﬁnding is that the mice
+must learn how to perform this task, a process that involves retrosplenial
+cortex for working memory and retrieval (Corcoran et al., 2011; Vann
+et al., 2009). A lesion of this region could disrupt normal memory pathways, potentially causing the mouse to forget how to remove the
+adhesive.
+The effect of regression strategy on functional connectivity measures
+GSR, that is, removal by regression of the timeseries averaged over
+the whole brain, was ﬁrst used in application to human task-fMRI in
+1998 (Aguirre et al., 1998), and continues to be primarily used as a preprocessing step in human resting state fcMRI (Fox et al., 2009). GSR
+removes widely shared variance, much of which, in human fcMRI, is artifact attributable to head motion (Friston et al., 1996; Power et al.,
+2012) and ﬂuctuating arterial pCO2 (Birn et al., 2006), although part of
+the global signal undoubtedly reﬂects neural activity (Scholvinck et al.,
+2010). Within the preprocessing stream of human fcMRI, the global signal is only one of several regressors used to reduce artifact in functional
+connectivity patterns (Chai et al., 2012; Jo et al., 2010; Murphy et al.,
+2013). The primary virtue of including the global signal in the set of nuisance regressors that this greatly increases the speciﬁcity of computed
+correlations (Weissenbacher et al., 2009); the primary drawback is
+that all subsequently computed correlations are negatively biased
+(Cole et al., 2010; Murphy et al., 2009). Thus, physiology cannot be reliably inferred from the sign of an observed correlation following GSR.
+However, in the absence of GSR, all parts of the brain appear to be positively correlated (Chai et al., 2012; Vincent et al., 2006), which also is
+biologically implausible (Fox et al., 2005; Popa et al., 2009; Snyder and
+Raichle, 2012).
+
+399
+
+In mouse fcOIS, head motion is not an issue generally because the
+animals are anesthetized. Nevertheless, GSR is required to remove
+widely shared variance attributable to cardiac pulsations (White et al.,
+2011). But GSR alone is insufﬁcient in this study, because spectrally
+altered and delayed activity is present over the infarcted hemisphere
+(Fig. 8B). In can be shown that a delay between two identical signals
+will generate anticorrelations following GSR (Murphy et al., 2009). This
+effect is prominently illustrated in groups 2 and 3 mice in homotopic
+motor, somatosensory, and visual cortices (Figs. 9B, 10, and S5). The
+average delay between the infarcted and non-infarcted hemispheres in
+these animals was ~1.5 s, which corresponds to a phase shift of ~π/30
+to π/4 radians in the frequency band retained in our data (0.009–0.08 Hz).
+The MSR approach eliminated apparent anticorrelations between
+homotopic regions in mice within groups 2 and 3. For mice with cortical
+infarcts, correlation values closer to zero, as obtained using MSR (Figs. 2,
+3, 9A, S5), are plausible because infarcted tissue should not be capable of
+generating neural signals; MSR also eliminated the appearance of increased somatomotor functional connectivity in both the left (Figs. 3,
+10) and right (Figs. 2, S5) hemispheres, and instead resulted in statistically signiﬁcant decreases in functional connectivity with a seed placed
+in the ischemic core (Figs. 3, 9, and 10). In contrast, the GSR correlations
+suggest that the within-hemisphere connectivity somehow increased
+with stroke severity for both the affected and unaffected hemispheres
+(e.g. Fig. 9B, right and left somatomotor, Figs. 10, S5) with the infarct
+tissue having the highest positive correlation with surrounding brain regions. Apparent increased contralesional intrahemispheric connectivity
+would be inconsistent with prior animal studies showing no change in
+dendritic morphology in the intact hemisphere following unilateral
+stroke (Johnston et al., 2013; Mostany and Portera-Cailliau, 2011).
+And, while signiﬁcant increased anatomical connectivity has been observed in the intact hemisphere using manganese-enhanced MRI (van
+der Zijden et al., 2007, 2008; van Meer et al., 2010b), unlike the present
+acute study, those studies were performed up to 10 weeks after tMCAO;
+time points when remodeling and cortical remapping would have
+either been initialized or more fully matured. Therefore, the GSR estimate of increased connectivity with increased stroke severity appears
+to be an artifact. MSR in functional connectivity studies during stroke
+recovery has yet to be done and may provide new insights on cortical
+restructuring and functional recruitment after stroke. A better grounding
+of regional pair-wise correlations will likely also provide more robust
+input data input to novel graph measures aimed at understanding
+large-scale network reorganization after stroke (van Meer et al., 2012).
+While the differences between MSR and GSR can be modest for some regions (e.g. Fig. 9, retrosplenial and group 2 motor; Fig. 10, group 2 visual)
+overall, the present MSR strategy yields less distorted functional connectivity measures than GSR alone and simpliﬁes the interpretation of animal studies of unilateral stroke using both fcOIS and fcMRI (van Meer
+et al., 2010a, 2012). Outside of the context of stroke, our MSR approach
+would also prove amenable to measuring functional connectivity immediately following cortical spreading depression where spontaneous
+activity would be very incoherent between hemispheres (Li et al., 2012).
+Limitations of the current study
+One physical limitation of OIS (due to light scattering) is the restriction of the ﬁeld of view to the cortical surface (b 1 mm), which precludes
+direct mapping of deep brain structures, and in the current context,
+segmentation of lateral and subcortical infarcts. This limitation is most
+apparent when calculating functional connectivity values for mice in
+Group 1 where GSR is used, despite potential temporal differences occurring over the cortex between homotopic regions (Fig. 8D). It was recently shown in human stroke patients that the degree of functional
+disruption following ischemia has to do more with lesion location and
+less with lesion extent. So, while the physics of light transport through
+biological tissue may limit fcOIS to the cortical surface, fcOIS is still sensitive to the effects of subcortical infarcts, as clear functional disruption
+
+400
+
+A.Q. Bauer et al. / NeuroImage 99 (2014) 388–401
+
+is observed within our ﬁeld of view from distant lesions (as seen in the
+functional connectivity patterns of group 1 mice in Figs. 2 and 3).
+Whole-brain imaging is still possible using diffuse optical tomography
+methods, and the ability of assessing functional disruption in deep
+brain structures would be useful for understanding how damage to subcortical structures might affect the entire mouse brain.
+Conclusions
+In this study, we applied fcOIS imaging to mouse models of ischemic
+stroke to evaluate how graded ischemic injury incrementally impacts the
+relationship between functional connectivity, forepaw responses, infarct
+volume, and behavior in the mouse before and 72 h after tMCAO. Disruption of cortical activations and behavior in the affected limb were proportional to infarct size, and correlated with regional deﬁcits in functional
+connectivity. Additionally, because spontaneous hemodynamic activity
+within the infarct exhibited altered temporal and spectral features, our
+data suggest that accounting for the separate hemodynamics occurring
+in the healthy and damaged hemispheres might provide a more accurate
+method for calculating functional connectivity after stroke. Because
+homotopic functional connectivity has been strongly associated with behavioral and functional outcome in post-stroke patients, accounting for
+regional hemodynamic differences in functional connectivity analyses
+could aid interpretation of functional mechanisms responsible for behavioral recovery after injury. Given that resting-state functional connectivity measures have provided valuable information regarding functional
+organization in the human brain, we are now in a unique position to
+probe questions about post-stroke recovery mechanisms and the role
+of ipsilesional and contralesional functional connectivity on recovery
+using fcOIS.
+Supplementary data to this article can be found online at http://dx.
+doi.org/10.1016/j.neuroimage.2014.05.051.
+Acknowledgments
+We thank Ernesto Gonzales, Ronaldo Perez, and Karen Smith for help
+with animal surgery and behavioral tests. This work was supported in
+part by the National Institutes of Health grants R01NS078223 (J.P.C.),
+P01NS080675 (J.P.C.), R01NS084028 (J.-M.L), P30NS048056 (A.Z.S.),
+and K25NS083754 (A.Q.B) and American Heart Association grants
+13POST14240023 (A.Q.B) and 14PRE18410013 (A.W.K).
+Conﬂict of interest
+The Authors declare no competing ﬁnancial interests.
+References
+Aguirre, G.K., Zarahn, E., D'Esposito, M., 1998. The inferential impact of global signal
+covariates in functional neuroimaging analyses. NeuroImage 8 (3), 302–306.
+Amemiya, S., et al., 2013. Cerebral hemodynamic impairment: assessment with restingstate functional MR imaging. Radiology 270 (2), 548–555.
+Anon, n. Strokewww.strokeassociation.org/STROKEORG/AboutStroke/About-Stroke_
+UCM_308529_SubHomePage.jsp.
+Arridge, S.R., Cope, M., Delpy, D.T., 1992. The theoretical basis for the determination of
+optical pathlengths in tissue: temporal and frequency analysis. Phys. Med. Biol. 37
+(7), 1531–1560.
+Ayata, C., et al., 2004. Laser speckle ﬂowmetry for the study of cerebrovascular physiology
+in normal and ischemic mouse cortex. J. Cereb. Blood Flow Metab. 24 (7), 744–755.
+Bero, A.W., et al., 2012. Bidirectional relationship between functional connectivity and Aβ
+plaque deposition in mouse brain. J. Neurosci. 32 (12).
+Birn, R.M., et al., 2006. Separating respiratory-variation-related ﬂuctuations from
+neuronal-activity-related ﬂuctuations in fMRI. NeuroImage 31 (4), 1536–1548.
+Brown, C.E., et al., 2009. In vivo voltage-sensitive dye imaging in adult mice reveals that
+somatosensory maps lost to stroke are replaced over weeks by new structural and
+functional circuits with prolonged modes of activation within both the peri-infarct
+zone and distant sites. J. Neurosci. 29 (6), 1719–1734.
+Calautti, C., Baron, J.-C., 2003. Functional neuroimaging studies of motor recovery after
+stroke in adults: a review. Stroke 34 (6), 1553–1566.
+Carmichael, S.T., 2008. Themes and strategies for studying the biology of stroke recovery
+in the poststroke epoch. Stroke 39 (4), 1380–1388.
+
+Carmichael, S.T., et al., 2001. New patterns of intracortical projections after focal cortical
+stroke. Neurobiol. Dis. 8 (5), 910–922.
+Carter, A.R., et al., 2010. Resting interhemispheric functional magnetic resonance imaging
+connectivity predicts performance after stroke. Ann. Neurol. 67 (3), 365–375.
+Carter, A.R., et al., 2012. Upstream dysfunction of somatomotor functional connectivity
+after corticospinal damage in stroke. Neurorehabil. Neural Repair 26 (1), 7–19.
+Chai, X.J., et al., 2012. Anticorrelations in resting state networks without global signal
+regression. NeuroImage 59 (2), 1420–1428.
+Clarkson, A.N., et al., 2010. Reducing excessive GABA-mediated tonic inhibition promotes
+functional recovery after stroke. Nature 468 (7321), 305–309.
+Clarkson, A.N., et al., 2011. AMPA receptor-induced local brain-derived neurotrophic factor signaling mediates motor recovery after stroke. J. Neurosci. 31 (10), 3766–3775.
+Cole, D.M., Smith, S.M., Beckmann, C.F., 2010. Advances and pitfalls in the analysis and
+interpretation of resting-state FMRI data. Front. Syst. Neurosci. 4, 8.
+Corbetta, M., 2010. Functional connectivity and neurological recovery. Dev. Psychobiol. 54
+(3), 239–253.
+Corbetta, M., et al., 2005. Neural basis and recovery of spatial attention deﬁcits in spatial
+neglect. Nat. Neurosci. 8 (11), 1603–1610.
+Corcoran, K.A., et al., 2011. NMDA receptors in retrosplenial cortex are necessary for retrieval of recent and remote context fear memory. J. Neurosci. 31 (32), 11655–11659.
+Cramer, S.C., Bastings, E.P., 2000. Mapping clinically relevant plasticity after stroke. Neuropharmacology 39 (5), 842–851.
+Dancause, N., et al., 2005. Extensive cortical rewiring after brain injury. J. Neurosci. 25
+(44), 10167–10179.
+Desjardins, A.E., Kiehl, K.A., Liddle, P.F., 2001. Removal of confounding effects of global
+signal in functional MRI analyses. NeuroImage 13 (4), 751–758.
+Dijkhuizen, R.M., et al., 2001. Functional magnetic resonance imaging of reorganization in
+rat brain after stroke. Proc. Natl. Acad. Sci. 98 (22), 12766–12771.
+Dijkhuizen, R.M., et al., 2003. Correlation between brain reorganization, ischemic damage,
+and neurologic status after transient focal cerebral ischemia in rats: a functional magnetic resonance imaging study. J. Neurosci. 23 (2), 510–517.
+Dijkhuizen, R.M., et al., 2012. Functional MRI and diffusion tensor imaging of brain reorganization after experimental stroke. Transl. Stroke Res. 3 (1), 36–43.
+Fox, M.D., et al., 2005. The human brain is intrinsically organized into dynamic,
+anticorrelated functional networks. Proc. Natl. Acad. Sci. U. S. A. 102 (27), 9673–9678.
+Fox, M.D., et al., 2009. The global signal and observed anticorrelated resting state brain
+networks. J. Neurophysiol. 101 (6), 3270–3283.
+Franklin, K.B.J., Paxinos, G., 2008. The Mouse Brain in Stereotactic Coordinates, 3 ed.
+Academic Press, New York.
+Friston, K.J., et al., 1996. Movement-related effects in fMRI time-series. Magn. Reson. Med.
+35 (3), 346–355.
+Girouard, H., Iadecola, C., 2006. Neurovascular coupling in the normal brain and in hypertension, stroke, and Alzheimer disease. J. Appl. Physiol. 100 (1), 328–335.
+He, B.J., et al., 2007. Breakdown of functional connectivity in frontoparietal networks
+underlies behavioral deﬁcits in spatial neglect. Neuron 53 (6), 905–918.
+Hjornevik, T., et al., 2007. Three-dimensional atlas system for mouse and rat brain
+imaging data. Front. Neuroinform. 1.
+Jo, H.J., et al., 2010. Mapping sources of correlation in resting state FMRI, with artifact
+detection and removal. NeuroImage 52 (2), 571–582.
+Johnston, D.G., et al., 2013. Chronic in vivo imaging shows no evidence of dendritic
+plasticity or functional remapping in the contralesional cortex after stroke. Cereb.
+Cortex 23 (4), 751–762.
+Jones, T.A., Schallert, T., 1992. Overgrowth and pruning of dendrites in adult rats recovering from neocortical damage. Brain Res. 581 (1), 156–160.
+Jones, P.B., et al., 2008. Simultaneous multispectral reﬂectance imaging and laser speckle
+ﬂowmetry of cerebral blood ﬂow and oxygen metabolism in focal cerebral ischemia.
+J. Biomed. Opt. 13 (4), 044007.
+Krainik, A., et al., 2005. Regional impairment of cerebrovascular reactivity and BOLD
+signal in adults after stroke. Stroke 36 (6), 1146–1152.
+Li, S., Carmichael, S.T., 2006. Growth-associated gene and protein expression in the region
+of axonal sprouting in the aged brain after stroke. Neurobiol. Dis. 23 (2), 362–373.
+Li, B., et al., 2012. Altered resting-state functional connectivity after cortical spreading
+depression in mice. NeuroImage 63 (3), 1171–1177.
+Lu, B., 2003. Pro-region of neurotrophins: role in synaptic modulation. Neuron 39 (5),
+735–738.
+Lv, Y., et al., 2013. Identifying the perfusion deﬁcit in acute stroke with resting-state
+functional magnetic resonance imaging. Ann. Neurol. 73 (1), 136–140.
+Macey, P.M., et al., 2004. A method for removal of global effects from fMRI time series.
+NeuroImage 22 (1), 360–366.
+Maeda, K., et al., 1999. Larger anastomoses in angiotensinogen-knockout mice attenuate
+early metabolic disturbances after middle cerebral artery occlusion. J. Cereb. Blood
+Flow Metab. 19 (10), 1092–1098.
+Miller, B.A., et al., 2001. Cerebral protection by hypoxic preconditioning in a murine
+model of focal ischemia-reperfusion. NeuroReport 12 (8), 1663–1669.
+Mostany, R., Portera-Cailliau, C., 2011. Absence of large-scale dendritic plasticity of layer 5
+pyramidal neurons in peri-infarct cortex. J. Neurosci. 31 (5), 1734–1738.
+Mostany, R., et al., 2010. Local hemodynamics dictate long-term dendritic plasticity in
+peri-infarct cortex. J. Neurosci. 30 (42), 14116–14126.
+Murphy, K., et al., 2009. The impact of global signal regression on resting state
+correlations: Are anti-correlated networks introduced? NeuroImage 44 (3), 893–905.
+Murphy, K., Birn, R.M., Bandettini, P.A., 2013. Resting-state fMRI confounds and cleanup.
+NeuroImage 80, 349–359.
+Popa, D., Popescu, A.T., Paré, D., 2009. Contrasting activity proﬁle of two distributed cortical
+networks as a function of attentional demands. J. Neurosci. 29 (4), 1191–1201.
+Power, J.D., et al., 2012. Spurious but systematic correlations in functional connectivity
+MRI networks arise from subject motion. NeuroImage 59 (3), 2142–2154.
+
+A.Q. Bauer et al. / NeuroImage 99 (2014) 388–401
+Prahl, S., 2002. Optical Absorption of, Hemoglobin, ([Online], [cited 2002 May 20]).
+Rehme, A.K., et al., 2011. The Role of the contralesional motor cortex for motor recovery in the
+early days after stroke assessed with longitudinal fMRI. Cereb. Cortex 21 (4), 756–768.
+Scholvinck, M.L., et al., 2010. Neural basis of global resting-state fMRI activity. Proc. Natl.
+Acad. Sci. U. S. A. 107 (22), 10238–10243.
+Snyder, A.Z., Raichle, M.E., 2012. A brief history of the resting state: the Washington
+University perspective. NeuroImage 62 (2), 902–910.
+Sutherland, B.A., et al., 2011. Cerebral blood ﬂow alteration in neuroprotection following
+cerebral ischaemia. J. Physiol. 589 (17), 4105–4114.
+van der Zijden, J.P., et al., 2007. Changes in neuronal connectivity after stroke in rats as
+studied by serial manganese-enhanced MRI. NeuroImage 34 (4), 1650–1657.
+van der Zijden, J.P., et al., 2008. Manganese-enhanced MRI of brain plasticity in relation to
+functional recovery after experimental stroke. J. Cereb. Blood Flow Metab. 28 (4),
+832–840.
+van Meer, M.P., et al., 2010a. Recovery of sensorimotor function after experimental stroke
+correlates with restoration of resting-state interhemispheric functional connectivity.
+J. Neurosci. 30 (11), 3964–3972.
+
+401
+
+van Meer, M.P., et al., 2010b. Correspondence between altered functional and structural
+connectivity in the contralesional sensorimotor cortex after unilateral stroke in
+rats: a combined resting-state functional MRI and manganese-enhanced MRI study.
+J. Cereb. Blood Flow Metab. 30 (10), 1707–1711.
+van Meer, M.P., et al., 2012. Extent of bilateral neuronal network reorganization
+and functional recovery in relation to stroke severity. J. Neurosci. 32 (13), 4495–4507.
+Vann, S.D., Aggleton, J.P., Maguire, E.A., 2009. What does the retrosplenial cortex do? Nat.
+Rev. Neurosci. 10 (11), 792–802.
+Vincent, J.L., et al., 2006. Coherent spontaneous activity identiﬁes a hippocampal–parietal
+memory network. J. Neurophysiol. 96 (6), 3517–3531.
+Weissenbacher, A., et al., 2009. Correlations and anticorrelations in resting-state functional
+connectivity MRI: a quantitative comparison of preprocessing strategies. NeuroImage
+47 (4), 1408–1416.
+White, B.R., et al., 2011. Imaging of functional connectivity in the mouse brain. PLoS One 6
+(1), e16322.
+Zhang, D., Raichle, M.E., 2010. Disease and the brain's dark energy. Nat. Rev. Neurol. 6 (1),
+15–28.
+
+

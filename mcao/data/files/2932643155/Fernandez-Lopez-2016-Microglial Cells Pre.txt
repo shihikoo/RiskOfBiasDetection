@@ -1,0 +1,981 @@
+The Journal of Neuroscience, March 9, 2016 • 36(10):2881–2893 • 2881
+
+Neurobiology of Disease
+
+Microglial Cells Prevent Hemorrhage in Neonatal Focal
+Arterial Stroke
+David Fernández-López,1 Joel Faustino,1 Alexander L. Klibanov,2 Nikita Derugin,1 Elodie Blanchard,1
+Franziska Simon,3 X Stephen L. Leib,3 and Zinaida S. Vexler1
+1
+
+Department of Neurology, University of California–San Francisco, San Francisco, California 94158, 2Department of Medicine, University of Virginia,
+Charlottesville, Virginia 22908, and 3Institute for Infectious Diseases, University of Bern, 3001 Bern, Switzerland
+
+Perinatal stroke leads to significant morbidity and long-term neurological and cognitive deficits. The pathophysiological mechanisms of
+brain damage depend on brain maturation at the time of stroke. To understand whether microglial cells limit injury after neonatal stroke
+by preserving neurovascular integrity, we subjected postnatal day 7 (P7) rats depleted of microglial cells, rats with inhibited microglial
+TGFbr2/ALK5 signaling, and corresponding controls, to transient middle cerebral artery occlusion (tMCAO). Microglial depletion by
+intracerebral injection of liposome-encapsulated clodronate at P5 significantly reduced vessel coverage and triggered hemorrhages in
+injured regions 24 h after tMCAO. Lack of microglia did not alter expression or intracellular redistribution of several tight junction
+proteins, did not affect degradation of collagen IV induced by the tMCAO, but altered cell types producing TGF␤1 and the phosphorylation and intracellular distribution of SMAD2/3. Selective inhibition of TGFbr2/ALK5 signaling in microglia via intracerebral liposomeencapsulated SB-431542 delivery triggered hemorrhages after tMCAO, demonstrating that TGF␤1/TGFbr2/ALK5 signaling in microglia
+protects from hemorrhages. Consistent with observations in neonatal rats, depletion of microglia before tMCAO in P9 Cx3cr1 GFP/⫹/
+Ccr2 RFP/⫹ mice exacerbated injury and induced hemorrhages at 24 h. The effects were independent of infiltration of Ccr2 RFP/⫹ monocytes into injured regions. Cumulatively, in two species, we show that microglial cells protect neonatal brain from hemorrhage after acute
+ischemic stroke.
+Key words: blood– brain barrier; extracellular matrix; inflammation; middle cerebral artery occlusion; postnatal; TGF␤1
+
+Significance Statement
+The pathophysiological mechanisms of brain damage depend on brain maturation at the time of stroke. We assessed whether
+microglial cells preserve neurovascular integrity after neonatal stroke. In neonatal rats, microglial depletion or pharmacological
+inhibition of TGFbr2/ALK5 signaling in microglia triggered hemorrhages in injured regions. The effect was not associated with
+additional changes in expression or intracellular redistribution of several tight junction proteins or collagen IV degradation
+induced by stroke. Consistent with observations in neonatal rats, microglial depletion in neonatal mice exacerbated stroke injury
+and induced hemorrhages. The effects were independent of infiltration of monocytes into injured regions. Thus, microglia protect
+neonatal brain from ischemia-induced hemorrhages, and this effect is consistent across two species.
+
+Introduction
+The incidence of perinatal stroke is similar to that in the elderly
+(Lynch and Nelson, 2001; Kirton and Deveber, 2013). Perinatal
+
+Received Jan. 9, 2015; revised Jan. 10, 2016; accepted Jan. 13, 2016.
+Author contributions: Z.S.V. designed research; D.F.-L., J.F., A.L.K., N.D., E.B., and F.S. performed research; D.F.L., J.F., E.B., F.S., S.L.L., and Z.S.V. analyzed data; D.F.-L. and Z.S.V. wrote the paper.
+The work was supported by RO1 NS55915 to Z.S.V., RO1 NS44025 to Z.S.V., RO1 NS76726 to Z.S.V. and A.L.K., R21
+NS080015 to Z.S.V., Ramón Areces Foundation, Madrid, Spain to D.F.-L., Swiss National Science Foundation
+310030_162583 to S.L.L., and The American Heart Association POST10980003 to D.F.-L. The authors thank Patrick
+Rugo for technical help.
+The authors declare no competing financial interests.
+Correspondence should be addressed to Dr. Zinaida S. Vexler, University California–San Francisco, Department of
+Neurology, 675 Nelson Rising Lane, San Francisco, CA 94158-0663. E-mail: Zena.Vexler@ucsf.edu.
+
+stroke leads to significant morbidity and long-term neurological
+deficits. It has become clear that brain immaturity at the time of
+injury plays a key role in the pattern of brain damage in humans,
+but the underlying mechanisms of the differing pathophysiology
+of perinatal and adult stroke are far from being understood
+(Fernández-López et al., 2014). Recent studies showed that hemorrhagic transformation of infarction is the leading mechanism
+of hemorrhagic stroke in term and late preterm neonates
+(Armstrong-Wells et al., 2009; Bruno et al., 2014), but the underlying mechanisms are poorly defined.
+
+DOI:10.1523/JNEUROSCI.0140-15.2016
+Copyright © 2016 the authors 0270-6474/16/362881-13$15.00/0
+
+2882 • J. Neurosci., March 9, 2016 • 36(10):2881–2893
+
+Vascular degeneration and malfunction are important contributors to stroke. In adults, ischemia-reperfusion disrupts both
+structural morphology of the blood– brain barrier (BBB) and
+finely tuned interactions between endothelial cells, vascular basal
+lamina, pericytes, and astrocytes, allowing neurotoxic plasma
+components into the brain. Depending on initial stroke severity
+(i.e., length and extent of perfusion deficits), disruption of the
+BBB can be rapid and biphasic (Yang and Rosenberg, 2011) or
+gradual and delayed (Knowland et al., 2014), with disruption of
+both the transcellular and paracellular permeability mechanisms.
+Lengthy periods of perfusion deficits followed by reperfusion
+lead to hemorrhagic transformation (Jickling et al., 2014). These
+pathophysiological events, which are closely associated with the
+increased recruitment and infiltration of circulating leukocytes,
+trigger local inflammation in the brain and contribute to further
+BBB breakdown and endothelial cell degeneration (Denes et al.,
+2010). Endothelial cells exposed to locally produced cytokines
+become reactive and actively facilitate the recruitment of circulating leukocytes through upregulation of adhesion molecules at
+the luminal vessel side. Adherent and infiltrated leukocytes release neurotoxic inflammatory mediators and reactive oxygen
+species (ROS) and activate glial cells, further damaging vascular
+integrity (Iadecola and Anrather, 2011). Stroke-induced neuroinflammatory processes, including microglial responses, also differ between neonatal brain and adult brain, and strategies aimed
+to prevent or reduce inflammatory damage in adults may be ineffective or deleterious in newborns (Fernández-López et al.,
+2014).
+Until recently, disruption of the BBB in a postischemic neonatal brain was assumed, with little evidence for or against such a
+notion. We identified major differences in functional BBB responsiveness to ischemia-reperfusion between neonates and
+adults by showing that leakage of large intravascular tracers in the
+neonatal rat brain is significantly lower than in the adult brain
+24 h after transient middle cerebral artery occlusion (tMCAO)
+and that several factors, including distinct mechanisms of endothelial cell activation, structure of the extracellular matrix
+(ECM), and neutrophil-endothelial interactions, account, at least
+in part, for the differences in BBB functional integrity observed
+between the two ages (Fernández-López et al., 2012).
+Activated microglial cells have been traditionally considered injurious in the postischemic brain due to production of
+inflammatory mediators, ROS, and other toxic molecules
+(Wang et al., 2007). However, more recent data suggest that
+microglia may have a dual role after stroke, injurious (Monje
+et al., 2003) or beneficial (Lalancette-Hébert et al., 2007). Microglial phenotypes are heterogeneous, and the origins of resident microglia and infiltrated monocytes are distinct
+(Ginhoux et al., 2010), producing separate effects in stroke.
+Data are also emerging that microglial phenotypes during fetal
+and postnatal brain development differ from those in the adult
+and that microglial cells have unique roles in the postnatal
+brain (Paolicelli et al., 2011; Butovsky et al., 2014).
+We previously showed that depletion of microglia enhances
+neuroinflammation and exacerbates injury in neonatal rats subjected to tMCAO (Faustino et al., 2011). In this study, we asked
+whether microglial cells have direct effects on neurovascular integrity after neonatal stroke. We demonstrate that microglial depletion adversely affects vascular density and increases vascular
+permeability and the incidence of intracerebral hemorrhages in
+acutely injured regions, and that inhibition of TGF␤1 signaling
+selectively in microglia recapitulates hemorrhage induction in a
+neonatal rat tMCAO model. We then demonstrate that the effects
+
+Fernández-López et al. • Microglia-Mediated Neurovascular Integrity in Neonatal Stroke
+
+are not species-specific and that microglia also protect the neonatal postischemic mouse brain from hemorrhages.
+
+Materials and Methods
+All animal experiments were approved by the Institutional Animal Care
+and Use Committee of the University of California–San Francisco.
+Depletion of microglial cells was accomplished by intracerebral administration of liposomes with encapsulated clodronate (dichloromethylene bis-phosphonate, Clod-lip) to P5 rats of either sex, as we previously
+reported (Faustino et al., 2011). Liposomes containing PBS (PBS-lip)
+served as vehicle. Density of microglial cells was determined in injured
+and in matching contralateral regions in all untreated, PBS-lip-treated,
+and Clod-treated rats. Microglial depletion in Clod-lip-treated rats was
+defined as at least 85% reduction in microglial density in injured regions
+compared with the corresponding injured regions of untreated rats 24 h
+after tMCAO. Clod-lip-treated rats with ⬎15% microglial density were
+excluded from the study (Faustino et al., 2011).
+Transient 3 h MCAO was induced in unsexed P7 rats as we previously
+described (Derugin et al., 2005).
+Transient 3 h MCAO was induced in unsexed P9-P10 Cx3cr1 GFP/⫹/
+Ccr2 RFP/⫹ mice using the surgical procedure we previously described
+(Woo et al., 2012). The Cx3cr1 GFP/⫹/Ccr2 RFP/⫹ mouse line was established by Dr. Charo at the Gladstone Institute at the University of California–San Francisco (Saederup et al., 2010); founders for the colony
+were kindly provided to us by Dr. Katerina Akassoglou at the Gladstone
+Institutes at the University of California–San Francisco.
+Histological analysis was performed in perfusion-fixed, postfixed, and
+cryoprotected flash-frozen brains that were sectioned on a cryostat (12␮m-thick serial sections, 500 ␮m apart). Brain injury was determined in
+six coronal Nissl-stained sections.
+Immunofluorescence image acquisition and 3D data analysis of fluorescence data were performed in rats in adjacent brain sections incubated
+in blocking solution (10% normal goat serum, 0.1% Triton X-100 in PBS
+1⫻, 1 h, room temperature) overnight at 4°C with primary antibodies
+[rabbit anti-Iba1 1:500, Wako; rabbit anti-collagen IV, 1:1000, Abcam;
+mouse anti-rat RECA-1 1:200, ABD Serotec; activated caspase-3 (AC3),
+1:500, Cell Signaling Technology; mouse anti-rat GFAP 1:500, BD Biosciences; rabbit anti-rat TGF␤1, 1:500, Torrey Pines; NeuN, 1:100, Millipore Bioscience Research Reagents], followed by appropriate secondary
+antibodies, isolectin-B4 (IB4, 1:100, Invitrogen) and DAPI. Confocallike Z-stacks (25⫻ oil objective, 10 ␮m thick, 1 ␮m Z step) were acquired
+using a Zeiss microscope equipped with the confocal-like Optigrid devise
+and Volocity software (Improvision) (Fernández-López et al., 2012).
+Vascular density was quantified in six fields per view (FOV) per region
+per brain using automated threshold protocols for object detection.
+Mean and sum of vessel volume, length, and number were calculated in a
+standard size voxel. Density of microglia/macrophages was calculated by
+subtracting RECA-1 ⫹ object volume (vessels) from IB4 ⫹ object volume
+(vessels ⫹ microglia/macrophages). The number of cells that express
+activated caspase-3 colocalizing with RECA-1 ⫹ vessels was quantified
+manually. The number of string vessels (RECA-1 ⫺/Col-IV ⫹ vessels) was
+obtained by subtraction of RECA-1 ⫹ objects from Col-IV ⫹ objects. Volume data were expressed as the percentage of total sampled volume.
+Similar staining protocols, image acquisition, and analysis were used in
+the mouse brain. The numbers of GFP ⫹ microglia and RFP ⫹ monocytes
+were calculated. The number of infiltrated monocytes not touching
+Glut1 ⫹ vessels was determined.
+Intracerebral hemorrhages in the rat brain parenchyma were visualized by FITC immunofluorescence or in DAB/H2O2-stained sections
+counterstained with Nissl. The total number of hemorrhages was quantified in the ipsilateral and contralateral hemispheres in 4 serial sections
+per brain (500 ␮m apart), covering the rostrocaudal extent of the infarct.
+Intravascular red blood cells were excluded from analysis. Area covered
+by FITC-positive hemorrhages was measured using Volocity software,
+the total number of hemorrhages and the number of larger size hemorrhages, with surface area larger than ⬎10,000 ␮m 2, were counted, and
+the data were presented as total sum of hemorrhages. The size of DABpositive hemorrhages was determined as the length of the longest axis in
+4 serial sections per rat brain (500 ␮m apart) and 6 serial sections per
+
+Fernández-López et al. • Microglia-Mediated Neurovascular Integrity in Neonatal Stroke
+
+mouse brain. The total number of hemorrhages, the number of parenchyma hemorrhages, and the number of hemorrhages ⬎50 ␮m in rats
+and ⬎25 ␮m were determined using a Nikon microscope.
+BBB permeability to intravenous fluorescent tracers was determined
+in rat pups using TRITC-conjugated 70 kDa dextran injected into the
+jugular vein 23 h after reperfusion followed by transcardial perfusion 1 h
+later (Fernández-López et al., 2012) and using same procedure following
+intrajugular injection of Alexa-647-conjugated albumin in mouse pups.
+In situ detection of superoxide production was determined using cellpermeable dye hydroethidine (DHE, 5 mg/kg, i.p.) administered 3 h
+before death, followed by perfusion-fixation, as we previously described
+(Faustino et al., 2011).
+Whole-brain lysates were prepared from injured and matching contralateral regions by homogenization in 1⫻ lysis buffer (Cell Signaling
+Technology) containing protease and phosphatase inhibitors (Roche).
+Injury was confirmed by the presence of spectrin cleavage (anti-spectrin,
+1:2000) on same Western blot. Protein expression was determined using
+rat anti-collagen IV␣-1 (1:1000, Sato), rabbit anti-claudin-5 (1:500, Invitrogen), mouse anti-occludin (1:500, Invitrogen), rabbit antiSMAD2/3 (1:500, Millipore), rabbit anti-pSMAD2 (1:500, Millipore),
+and mouse anti-spectrin (1:2000, Millipore) diluted in blocking buffer
+(5% milk in 0.2% Tween 20/TBS, 4°C overnight). Results were normalized to expression of actin (mouse anti-actin, 1:5000, Sigma-Aldrich).
+Subcellular fractions, including cytosolic, membranous, nuclear, and
+cytoskeletal fractions, were extracted from brain tissue using ProteoExtract Subcellular Proteome Extraction Kit (Calbiochem) according to the
+manufacturer’s instructions. Protein was concentrated by incubation in
+4 volumes of ice-cold acetone at ⫺20°C for 1 h followed by centrifugation
+at 14,000 ⫻ g for 10 min and resuspension in a smaller volume of rehydration lysis buffer containing 3 M urea, 1 mM DTT, 5% CHAPS, and 5%
+SDS. The identity of each fraction was confirmed by Western blot
+using anti-MKK3 (cytosolic fraction [CF], Cell Signaling Technology), anti-N-cadherin (membrane/organelle fraction [MF], Epitomics), anti-histone H1 (nuclear fraction, 1:1000, Santa Cruz
+Biotechnology), and vimentin (actin cytoskeletal fraction [ACF], Cell
+Signaling Technology). Protein concentration was normalized to actin in individual subcellular fractions.
+MMP-9 and MMP-2 gel zymography was performed in whole-brain
+lysates from injured and matching contralateral regions using 1% gelatin
+SDS-PAGE zymography and Type A gelatin from porcine skin (Sigma).
+The presence of injury was confirmed on Western blot by calpain- and
+caspase-3-spectin cleavage, as previously described (Faustino et al.,
+2011). Equal volumes of brain homogenates were diluted in 4⫻ sample
+buffer (0.125 mM Tris-HCl, pH 6.8; 4% sucrose; 10% SDS, 0.003% bromophenol blue), and proteins were separated electrophoretically under
+nonreducing conditions. Human neutrophil MMP-9 (Calbiochem) was
+used as positive control. SDS was removed using Triton X-100, and gels
+were incubated overnight at 37°C in zymography buffer (10 mM CaCl2,
+50 mM Tris, 50 mM NaCl pH 7.65). Gels were then stained with a solution
+containing Coomassie Blue R250, 30% methanol, and 10% acetic acid.
+Densitometric quantification of the lysis regions (⬃92 kDa for proMMP-9) was performed using Scion Image and data normalized per
+amount of protein in each sample. Recombinant MMP-9 and MMP-2
+were included to each gel as a standard.
+Recombinant human TGF␤1 (rhTGF␤1) was reconstituted in 10 mM
+citric acid, pH 3.0, diluted in PBS/0.1% BSA, and administered (0.5
+mg/kg/injection; intrajugular) twice, 6 h and 90 min before death at 24 h
+after reperfusion.
+SB-431542 was entrapped into the liposomes by a variant of a proliposome method by mixing SB-431542 in propylene glycol (5 mg/ml)
+with concentrated solution of DOPC, cholesterol, and DiI in ethanol;
+adding 1:3 mass of 0.2 M (NH4)2SO4 in water to generate the proliposome
+gel; gel was rapidly diluted into excess saline to form liposomes. Unincorporated SB-431542 was removed by centrifugal wash. Spectrophotometrically, SB-431542 entrapment rate was ⬃50%; ⬃0.062 or 0.25 ␮g/g
+rat was delivered intracortical.
+Statistical analysis. Data are presented as mean ⫾ SD or as medians.
+Normal data were analyzed by ANOVA with post hoc Bonferroni test for
+multiple groups or paired t test for comparisons between two groups.
+
+J. Neurosci., March 9, 2016 • 36(10):2881–2893 • 2883
+
+Discrete or not normal data were analyzed using the Kruskal–Wallis or
+the Mann–Whitney tests.
+
+Results
+Depletion of microglial cells does not induce vascular
+permeability in uninjured regions but adversely affects vessel
+coverage and increases vascular permeability in injured
+regions of P7 rats subjected to tMCAO
+Considering that the route of peripheral administration of Clodlip, intravenous or intraperitoneal, was shown to deplete different subpopulations of cells of the monocyte lineage in the blood
+and in peripheral organs (Polfliet et al., 2001; van Rooijen and
+Hendrikx, 2010), to preferentially target microglial cells, we administered Clod-lip into brain parenchyma. We previously
+showed that depletion of microglial cells by intracortical Clod-lip
+injection before tMCAO in P7 rats enhances neuroinflammation
+and exacerbates acute injury (Faustino et al., 2011). In this study,
+we asked whether microglial depletion, defined as ⬍15% density
+of remaining microglial cells in injured regions compared with
+density in injured regions of untreated rats 24 h after tMCAO,
+affects vascular integrity in acutely injured regions. Consistent
+with our previous report (Faustino et al., 2011), compared with
+PBS-lip-treated rats (Fig. 1 A, B), Clod-lip depleted Iba1 ⫹/
+CD68 ⫹ microglial cells in the penumbra (Fig. 1C) and the core
+(Fig. 1D). As expected, based on less active lysosomal component
+in ramified microglial cells, microglial depletion was more modest in contralateral regions than in injured hemisphere (data not
+shown). Quantification of microglial depletion is shown in Figure 1E. Microglial depletion significantly exacerbated injury at
+72 h (Fig. 1F ).
+Compared with untreated (data not shown) or PBS-liptreated rats (Fig. 1G), volumetric RECA-1 vessel coverage was
+significantly reduced in injured cortex of Clod-lip-treated rats
+(Fig. 1H ) 24 h after tMCAO, including the cumulative vessel
+volume in injured cortex (Fig. 1I ) and caudate (Fig. 1J ). The
+overall vessel density was significantly affected by microglial depletion in the injured caudate but not in matching contralateral
+regions (Fig. 1K ). Vessel loss was more extensive in rats with
+more effective depletion of microglia in both the cortex and caudate (data not shown). By 72 h after tMCAO, vessel volume and
+length remained significantly lower in the injured cortex of Clodlip compared with vehicle-treated rats (data not shown), whereas
+vessel coverage was similar in contralateral regions in both
+groups. Numbers of peripheral monocytes were significantly decreased following 24 h of tMCAO but were similarly affected in
+Clod-lip-treated, vehicle-treated, and untreated rats (Fig. 1L).
+Essentially no leakage of fluorescently labeled 70 kDa dextran
+was observed in the cortex or the caudate of untreated neonatal
+rats (data not shown), or in the vehicle group throughout the
+injured caudate (Fig. 1M ) and cortex (Fig. 1N ) 24 h after tMCAO, consistent with our previous report (Fernández-López et
+al., 2012). The leakage was limited despite increased vascular degeneration in the ischemic core during that time, likely because of
+inadequate perfusion of degenerating vessels within the injury
+regions. However, depletion of microglia led to increased extravascular leakage of 70 kDa dextran in the injured caudate (Fig.
+1O) and cortex (Fig. 1P). Leakages were absent in the contralateral hemisphere in all groups.
+Microglial depletion induces hemorrhages after acute tMCAO
+Microglial depletion significantly increased the incidence of intracerebral hemorrhages 24 h after reperfusion, as was evident
+from the presence of extravascular clusters of red blood cells (Fig.
+
+2884 • J. Neurosci., March 9, 2016 • 36(10):2881–2893
+
+Fernández-López et al. • Microglia-Mediated Neurovascular Integrity in Neonatal Stroke
+
+2 A, B). Hemorrhages of various size were
+apparent in several injured parenchyma
+regions, including cortex (Fig. 2A), caudate (Fig. 2B), and thalamus (data not
+shown). Occasional hemorrhages were
+also seen in the meninges and at the choroid plexus. The number of hemorrhages
+regardless of size (Fig. 2C) and the number of relatively large hemorrhages (surface area ⬎10,000 ␮m 2; Fig. 2D) was
+significantly increased in Clod-lip-treated
+rats, but vascular permeability to 70 kDa
+dextran was seen in both hemorrhagic and
+nonhemorrhagic vessels, and hemorrhages were seen in nonleaky vessels (Fig.
+3), suggesting that the mechanisms of
+BBB permeability and hemorrhages are
+distinct at least in part. Clod-lip treatment
+did not increase the incidence of hemorrhages in contralateral regions (Fig. 2C,D)
+or in otherwise unperturbed rats, ruling
+out direct effects of Clod-lip on cerebrovascular integrity. The presence of hemorrhages continued through 72 h after
+stroke (data not shown).
+Microglial depletion exacerbates
+endothelial cell death 24 h after tMCAO
+We then asked whether the decreased
+vascular coverage in rats with depleted
+microglia results from enhanced endothelial cell death or from diminished
+levels of growth factors that support
+cerebral vasculature and promote angiogenesis. tMCAO induced caspase-3dependent endothelial cell death, as was
+evident from the increased number
+of endothelial cells expressing cleaved
+caspase-3 (RECA-1 ⫹/AC3 ⫹cells; Fig.
+4
+
+Figure 1. Depletion of microglia compromises vascular integrity 24 h after tMCAO in P7 rats. A–D, Representative images of
+Iba1 ⫹/CD68 ⫹ microglial cells in vehicle-treated (PBS-lip; A, B) and Clod-lip-treated (Clod-lip; C, D) rats. Images are captured in
+
+the penumbra regions (A, C) and in the ischemic core regions
+(B, D). There is marked reduction in the number of microglial
+cells in both regions of Clod-lip-treated rat pups. E, Quantification of the total microglial cell volume in uninjured contralateral regions (Contra) and in injured cortex (cx) and
+caudate (cd), showing depleted microglial cell population in
+animals treated with Clod-lip. F, Injury volume 72 h after
+tMCAO is significantly larger in rat pups with depleted microglial cells. Shown are data for individual animals. G, H, Representative 3D projections from z-stacks of RECA-1 ⫹ vessels in
+cortex and caudate of vehicle-treated treated rats (G) and
+Clod-lip-treated rats (H). I, J, Relationship between density of
+microglia (IB4 ⫹/RECA ⫺ cells) and vascular density (RECA1 ⫹) in injured cortex (I) and caudate (J). K, Vessel volume
+density is significantly reduced in injured cortex and caudate of
+Clod-lip-treated rats. L, Number of peripheral monocytes is
+significantly reduced by tMCAO, but the extent of reduction is
+similar in nontreated (NT), PBS-lip, and Clod-lip groups.
+Shown are data for individual animals. M–P, Representative
+images showing vascular permeability to 70 kDa TRITCdextran in injured regions of rats injected PBS-lip (M; caudate;
+N; cortex) and Clod-lip (O; caudate; P; cortex). Significance
+levels as indicated.
+
+Fernández-López et al. • Microglia-Mediated Neurovascular Integrity in Neonatal Stroke
+
+Figure 2. The incidence of intracerebral hemorrhages is increased 24 h after tMCAO in rats with depleted microglial cells.
+A, B, Representative images of DAB-positive red blood cells showing the presence of intracerebral hemorrhages in the
+injured cortex (A) and caudate (B) of Clod-lip-treated rats. The sections were costained with Nissl. C, D, Quantification of
+the number of hemorrhages in six fluorescently labeled coronal sections. C, The total number of intracerebral hemorrhages.
+D, The number of large hemorrhages (⬎10,000 ␮m 2). Shown are data for individual rats. Significance levels as indicated.
+
+J. Neurosci., March 9, 2016 • 36(10):2881–2893 • 2885
+
+group than in nontreated or PBS-liptreated groups (Fig. 3I; p ⫽ 0.031).
+The protein levels of VEGF, a growth
+factor important for vascular signaling,
+permeability, and angiogenesis (Greenberg and Jin, 2013), were similar in contralateral cortex regardless of treatment,
+and VEGF expression was significantly
+and similarly increased in the injured cortex in both groups (Fig. 3 D, E). The protein levels of Ang1 and its receptor Tie2,
+key regulators of vascular stabilization
+and maturation (Hansen et al., 2008),
+were also similarly affected by injury in
+vehicle- and Clod-lip-treated rats (Fig.
+3F–H ), suggesting that enhanced endothelial death and reduced vascular coverage are unlikely because of insufficient
+VEGF support or halted angiogenesis at
+this early injury stage.
+
+Vascular permeability changes induced
+by microglial depletion are not due to
+collagen IV degradation by MMP-9
+Considering that in the adult hemorrhagic transformation after stroke occurs,
+in part, due to activation of several proteases (Gidday et al., 2005; Rosell et al.,
+2008), we tested the effects of microglial
+depletion on activation of a major inducible Col-IV degrading protease, MMP-9.
+As evident from gel zymography, the
+amount of active MMP-9 was significantly increased in injured tissue of untreated and PBS-lip-treated neonatal rats
+(Fig. 4 A, C) but was below detectable levels in contralateral tissue 24 h after reperfusion. Depletion of microglia largely
+abolished expression of active MMP-9
+(Fig. 4 A, C). At 72 h after reperfusion, levFigure 3. Depletion of microglia worsens endothelial cell apoptosis but does not affect protein expression of proangio- els of active MMP-9 remained elevated in
+genic mediators 24 h after tMCAO. A, B, Representative images showing colocalization of the apoptosis marker activated injured regions of ⬃50% of untreated and
+caspase-3 (AC3) and the endothelial marker RECA-1 in injured regions of rats treated with PBS-lip (A) or Clod-lip (B). C, vehicle-treated rats but were below deQuantification of the number of apoptotic endothelial cells normalized for vascular density in the injured cortex and tectable levels in all Clod-lip-treated rats
+caudate. D, F, Representative Western blots showing protein expression of proangiogenic mediators VEGF (D) and the (Fig. 4 B, D). These results suggest that acTie2/Ang2 system (F). E, G, H, Densitometric quantification of protein expression of VEGF (F), Tie2 (G), and Ang2 (H). Data tivated microglia are an important source
+were normalized for actin expression. n.s., Not significant. I, Quantification of the number endothelial cells positive for DHE of MMP-9 in the postischemic neonatal
+per FOV in the ischemic core and ischemic penumbra at 24 h after tMCAO.
+brain.
+Markedly reduced MMP-9 resultant
+from microglial depletion after tMCAO
+3 A, C). The number of RECA-1 ⫹/AC3 ⫹ cells (arrowheads)
+did not affect the pattern of degradation of the most abundant
+was further significantly increased in injured regions of ClodCol-IV isoform in brain vascular basement membrane, Col-IV␣1
+(Fig. 4E–I ). Compared with contralateral regions, protein exlip-treated rats (Fig. 3B vs Fig. 3A; Fig. 3C). Clod-lip did not
+induce caspase-3-dependent endothelial cell death in conpression of the integrant Col-IVa1 isoform (230 kDa band) was
+tralateral regions or in uninjured animals.
+decreased, in parallel to accumulation of the lower molecular
+Considering that oxidative injury can both activate endotheweight Col-IVa1 fragment (55 kDa band) (Fig. 4G–I ). Immunofluorescence analysis showed that Col-IV coverage of hemorlial cells and contribute to endothelial death, we determined surhagic vessels of Clod-lip-treated rats (Fig. 4F ) was unaltered
+peroxide accumulation in the vessels using DHE, a dye that gives
+compared with nonhemorrhagic vessels in rats with depleted or
+fluorescence products during its oxidation by superoxide, as we
+unmanipulated microglia (Fig. 4E). Expression of active MMP-2,
+previously reported (Faustino et al., 2011). The numbers of
+DHE ⫹ cells in IB4 ⫹ vessels were not significantly different in the
+a constitutive matrix metalloprotease that also degrades Col-IV,
+penumbra of untreated, PBS-lip-treated, and Clod-lip-treated
+was unchanged by microglial depletion at 24 or 72 h (data not
+rats and were significantly lower in the ischemic core in Clod-lip
+shown). Thus, reduction of MMP-9 caused by microglial deple-
+
+2886 • J. Neurosci., March 9, 2016 • 36(10):2881–2893
+
+Fernández-López et al. • Microglia-Mediated Neurovascular Integrity in Neonatal Stroke
+
+tion may be overshadowed by the presence of MMP-2 and other Col-IV
+degrading proteases produced by other
+sources.
+String vessels, or acellular portions of
+vessels comprised of degraded Col-IV
+sheaths without the underlying endothelium, were present throughout the injured
+regions of both groups 72 h after neonatal
+stroke (Fig. 4J, arrows pointing to missing
+endothelium), but the number of string
+vessels (Col-IV ⫹/RECA-1 ⫺) was significantly higher in rats with depleted
+microglia (Fig. 4L). Vessels undergoing
+conversion to string vessels (e.g., partial
+loss of vascular endothelium) were evident in association with local hemorrhages (Fig. 4K ). Cumulatively, these data
+suggest that degenerative alterations of
+the brain endothelium, rather than
+Col-IV degradation, account for the increased vascular permeability and hemorrhagic transformation in rats with
+depleted microglia.
+The effects of microglial depletion on
+the expression and subcellular
+distribution of endothelial tight
+junction proteins
+Disorganization and consequent diminished tightness of the tight junction (TJ)
+proteins contributes to BBB leakiness after stroke (Knowland et al., 2014). Our
+comparative study of BBB integrity following acute tMCAO in neonatal and
+adult rats showed that expression of occludin, ZO-1, and claudin-5 is better
+preserved in neonates, consistent with
+the better preserved BBB integrity
+(Fernández-López et al., 2012). Here we
+asked whether microglial depletion affects expression and intracellular distribution of two transmembrane TJ Figure 4. Intracerebral hemorrhages induced by microglial depletion are not associated with increased Col-IV degradation. A,
+proteins, occludin and claudin-5.
+B, Representative gel zymograms showing MMP-9 activity at 24 h (A) and 72 h (B) after tMCAO. C, D, Quantification of MMP-9
+Claudin-5 expression determined in activity 24 h (C) and 72 h (D) after tMCAO. Activity is shown as units pg MMP-9/100 ␮g protein. The presence of active MMP-9 is
+⫹
+whole tissue lysates was unaffected at 24 significantly lower/absent in Clod-lip-treated rats. E, F, Col-IV coverage of RECA-1 vessels in PBS-lip-treated rats (E; two indior 72 h after tMCAO in rats with unper- vidual vessels and Clod-lip-treated rats (F; two individual vessels) 24 h after reperfusion. Asterisks indicate hemorrhages. Col-IV
+turbed or depleted microglia (Fig. 5A, to- coverage is similar in hemorrhagic (F) and nonhemorrhagic (E) vessels. G–I, Representative examples of Col-IV ␣1 expression on
+Western blots. High molecular weight band (230 kDa) corresponds to an integrant Col-IV ␣1 monomer, and a lower molecular
+tal, B; data for 72 h not shown). In
+weight band (55 kDa) corresponds to one of degradation fragments of collagen-IV ␣1. C, Contralateral hemisphere; I, ipsilateral
+contrast, occludin expression determined hemisphere. Densitometric analysis of expression of an integrant Col-IV monomer (H; 230 kDa) and of a 55 kDa degradation
+in whole tissue lysates was reduced at 24 h fragment (I) shows Col-IV degradation in injured regions, with no significant differences in the patterns of expression or degrada(Fig. 5C, total, D) and restored to normal tion after microglial depletion. The data are normalized to a common control sample used in all gels. J, Representative images of
+levels at 72 h after tMCAO in vehicle- string vessels (RECA-1 ⫺/Col-IV ⫹) 72 h after tMCAO. K, Representative image of hemorrhage (asterisk) associated with a degentreated rats (data not shown). However, erating vessel (RECA-1). L, Quantification of the number of string vessels (RECA-1 ⫺/Col-IV ⫹) 72 h after tMCAO. There is increased
+diminished occludin expression was sus- endothelial degradation in rats with depleted microglia. Green represents RECA-1. Red represents Col-IV. Significance levels as
+tained (Fig. 5C, total, D) in rats with de- indicated. n.s., Not significant.
+pleted microglia, with no restoration of
+responding to integrant TJ (Fig. 5, ACF) and increased in the
+protein levels at 72 h (data not shown). Cellular subfractionation
+cytosolic
+and/or membrane fractions (Fig. 5, CF, MF), indiexperiments performed to investigate whether lack of microglial
+cating that these proteins are removed from the TJ, consistent
+cells affects occludin and claudin-5 distribution within the cells
+with that previously described in the adult (Liu et al., 2012).
+showed that tMCAO induces redistribution of both occludin and
+However, the patterns of subcellular redistribution were simclaudin-5 in different cell compartments. The presence of both
+ilar in vehicle- and Clod-lip-treated rats (Fig. 5), indicating a
+proteins was reduced in the cytoskeletal-associated fraction cor-
+
+Fernández-López et al. • Microglia-Mediated Neurovascular Integrity in Neonatal Stroke
+
+J. Neurosci., March 9, 2016 • 36(10):2881–2893 • 2887
+
+injured regions of Clod-lip-treated rats (Fig.
+6B,D,F). The loss of SMAD2/3 phosphorylation in relation to the loss of SMAD2/3
+expression was not assessed, as Western
+blot-based measurements do not allow addressing whether reduced SMAD phosphorylation occurs in cells with reduced
+SMAD2/3 expression. SMAD2/3 phosphorylation was significantly reduced in the
+nuclear fraction from injured cortex in the
+absence of microglial cells (Fig. 6 D, F ),
+fraction identified as histone H1-enriched
+fraction (Fig. 6E). Therefore, microglial
+depletion diminishes TGF␤1/ALK-5 signaling to the nucleus in the acutely
+injured neonatal brain. Immunofluorescence that we used to identify cell types
+expressing pSMAD2/3 showed that
+NeuN ⫹ neurons abundantly express pSMAD2/3 in contralateral regions (Contra;
+Fig. 6G) and in uninjured regions within
+ipsilateral hemisphere (Ipsi; Fig. 6G), but
+SMAD2/3 phosphorylation is lost in neurons with shrunken or disintegrated nuclei (Ipsi; Fig. 6G). In contrast, SMAD2/3
+Figure 5. Depletion of microglia does not significantly affect subcellular redistribution of tight junction proteins induced by phosphorylation is increased in activated
+neonatal stroke in 24 h after tMCAO. A, C, Representative Western blots showing the presence of the TJ proteins claudin-5 (A) and microglial cells (Fig. 6G,H ). IB4 ⫹ vessels
+occludin (C) in whole tissue lysates and in subcellular fractions (cytosolic CF, membrane MF, and cytoskeletal ACF). B, D, Densito- express pSMAD2/3 in injured (Fig. 6H )
+metric quantification showing the effect of tMCAO and microglial depletion on the expression of claudin-5 (B) and occludin (D) in
+and uninjured (Fig. 6G,H ) regions.
+whole tissue lysates and in individual subcellular fractions. Expression of both proteins was examined in the same samples and was
+To test whether hemorrhage induction
+normalized to actin in individual subcellular fractions. Data are expressed as the ratio of ipsilateral/contralateral regions.
+associated with the absence of microglial
+TGF␤1 signaling can be reversed by
+similar extent of alteration of integrant TJs in both groups, at
+TGF␤1 supplementation, we intravenously administered
+least at 24 h after stroke.
+rhTGF␤1 to Clod-lip-treated rats at 18 and 22 h after reperfusion
+(human and rat TGF␤1 have a 99% homology in the amino acid
+Microglial deletion affects TGF␤1/ALK5 signaling 24 h
+sequence) and confirmed that the plasma levels of TGF␤1 at the
+after tMCAO
+time of death at 24 h were several-fold higher in rhTGF␤1-treated
+TGF␤1 plays multiple roles in healthy and diseased brain, including
+rats than in nontreated rats (Fig. 6I, inset). Injury volume in rats
+muting neuroinflammation, stabilization of the vascular niche, and
+with depleted microglia was not affected at 24 h after reperfusion
+preventing from hemorrhagic transformation after stroke (Munger
+by the systemic rhTGF␤1 administration: 53 ⫾ 6% of ipsilateral
+and Sheppard, 2011; Gliem et al., 2012). We asked whether TGF␤1
+hemisphere in rats treated with Clod-lip and rhTGF␤1 (n ⫽ 11)
+signaling is disturbed in acutely injured neonatal brain deprived of
+compared with 58.1 ⫾ 3% in Clod-lip-treated rats (n ⫽ 4). The
+microglia. In adult focal stroke, multiple brain cell types constitunumber of intraparenchymal hemorrhages regardless of size was
+tively express TGF␤1 and upregulate TGF␤1 (Pál et al., 2012; Cekaunaffected by the increased circulating levels of rhTGF␤1 (Fig.
+naviciute et al., 2014; Pál et al., 2014) and downstream signaling (Pál
+6I ). There were also no differences in the distribution of hemoret al., 2014). Similar to that in adult stroke, in neonates subjected to
+rhages of different size (data not shown). These data indicate that
+tMCAO, neurons ubiquitously express TGF␤1 in uninjured brain
+increased circulating TGF␤1 levels do not substitute for the
+regions (Fig. 6), but TGF␤1 is no longer detectable in neurons within
+TGF␤1 signaling derived from activated microglia after acute
+injured regions. Vascular expression of TGF␤1 was seen in both
+neonatal stroke.
+uninjured and injured regions but, in contrast to adults, where astrocytes upregulate TGF␤1 during acute and subchronic injury
+Selective inhibition of TGFbr2/ALK5 signaling in activated
+(Doyle et al., 2010; Cekanaviciute et al., 2014; Pál et al., 2014), levels
+microglial cells induces hemorrhagic transformation after
+of TGF␤1 expression were below detectable in reactive astrocytes in
+neonatal arterial stroke
+our study. TGF␤1 expression was upregulated in activated microglia
+To directly test whether microglial TGF␤ signaling protects neoin injured cortex and caudate (Fig. 6A). Accordingly, in rats with
+natal brain from ischemia-induced hemorrhages, we delivered a
+depleted microglia, the vast majority of TGF␤1-expressing cells were
+specific TGFbr2/ALK5 inhibitor, SB-431542, into microglial cells
+endothelial cells. We tested whether microglial depletion affects
+via intracortical injection of liposome-encapsulated SB-431542
+SMAD2/3 protein expression, SMAD2/3 phosphorylation, and
+before tMCAO. We fluorescently labeled SB-431542-lip with DiI
+TGF␤1/ALK5-induced pSMAD2/3-mediated downstream signalto trace liposomes in the brain and confirmed that DiI ⫹/SBing in injured regions. tMCAO significantly reduced SMAD2/3 ex431542 ⫹ liposomes accumulate almost exclusively in activated
+pression in injured regions, but the magnitude of reduction was
+IB4 ⫹ microglia (Fig. 7B, arrowheads) or Iba1 ⫹ microglia (Fig.
+unaffected by microglial depletion (Fig. 6B,C). SMAD2/3 phos7C, yellow arrows), rather than in other brain cell types. Consisphorylation was significantly reduced in whole tissue lysates from
+tent with our previous observations (Faustino et al., 2011), only a
+
+2888 • J. Neurosci., March 9, 2016 • 36(10):2881–2893
+
+Fernández-López et al. • Microglia-Mediated Neurovascular Integrity in Neonatal Stroke
+
+Figure 6. Replenishment of peripheral TGF␤1 does not attenuate hemorrhage occurrence at 24 h after tMCAO in rat pups with depleted microglia. A, Representative images showing expression
+of TGF␤1 in IB4 ⫹ brain vessels and microglia/macrophages in the injured cortex. B, Western blots showing protein expression of SMAD2/3 (top) and pSMAD2/3 (middle) in the same total tissue
+lysates at 24 h after tMCAO. The data are normalized to actin (bottom) in individual samples. C, tMCAO significantly and similarly reduces SMAD2/3 expression in injured regions of PBS-lip-treated
+and Clod-lip-treated rats. A common tissue sample was used in multiple Western blots to allow data analysis. D, Western blots showing SMAD2/3 phosphorylation in total lysates and in cytosolic and
+nuclear fractions. E, Purity of the subcellular fractions is assessed by the presence of specific cytosolic (MKK3) and nuclear (histone H1) proteins. F, Densitometric quantification of pSMAD2/3 protein
+in total lysates and in the cytosolic and nuclear fractions. Shown are pSMAD2/3 values in individual Clod-lip rats expressed relative to averaged pSMAD2/3 value in PBS-lip rats in the same individual
+blots. G, Cell-type specific patterns of SMAD2/3 phosphorylation in contralateral (left) and ipsilateral (right) regions. Note SMAD2/3 phosphorylation in NeuN ⫹ neurons (red) in uninjured regions
+and in the penumbra but not in the ischemic core. pSMAD2/3 is expressed in IB4 ⫹ vessels in both uninjured and injured regions. H, High-magnification image of pSMAD2/3 in a IB4 ⫹ vessel and in
+both IB4 ⫹ and IB4 ⫺ cells in the vicinity of a vessel. I, Quantification of the total number of intraparenchymal hemorrhages in rats treated with Clod-lip, with or without intravenous administration
+of rhTGF␤1. G, Inset, Plasma levels of TGF␤1 measured by Bioplex ELISA at 24 h after tMCAO in untreated rats and in rats injected rhTGF␤1 intravenously 18 h after tMCAO.
+
+few small-size DiI ⫹-lip were observed in IB4 ⫺ or Iba1 ⫺ cells, as
+shown in Figure 7A, C (thin arrows). No DiI ⫹-lip were observed
+in morphologically intact pSMAD ⫹ neurons (Fig. 7A, on the left
+from injured region) and in neurons with morphologically integrant (Fig. 7C, asterisk) or apoptotic nuclei (Fig. 7C, thin white
+arrows). SMAD2/3 phosphorylation in neurons outside of injured region was unaffected (Fig. 7A, arrows), but SMAD2/3
+phosphorylation was reduced or lost in activated microglia containing DiI ⫹/SB-431542 ⫹ liposomes (Fig. 7B, arrowheads).
+Treatment did not affect injury volume (data not shown), but led
+to significantly increased number of intraparenchymal hemorrhages in injured regions at 24 h (Fig. 7D). Meningeal hemorrhages were also observed. No increase in hemorrhage number
+was observed in contralateral hemisphere. Thus, TGFbr2/ALK5
+inhibition in otherwise functional microglial cells induces hem-
+
+orrhages after neonatal stroke, further demonstrating a key role
+of microglial TGF␤ signaling in protecting neonatal brain from
+hemorrhages.
+We focused on the microglial TGF␤1/TGFbr2/ALK5 signaling, but, considering the complexity of TGF␤1 signaling and
+likely cell-type specific differences in its contribution to injury, it
+would be important to determine the effects of rhTGF␤1 and/or
+SB-431542 administration into the brain on hemorrhages and
+injury.
+Depletion of microglial cells exacerbates injury and induces
+hemorrhages in neonatal mice subjected to tMCAO
+To determine whether the phenomenon of microglial protection
+from hemorrhages after tMCAO that we observed in injured neonatal rats occurs across different species, and to examine whether
+
+Fernández-López et al. • Microglia-Mediated Neurovascular Integrity in Neonatal Stroke
+
+J. Neurosci., March 9, 2016 • 36(10):2881–2893 • 2889
+
+Figure 7. Selective inhibition of TGFbr2/ALK5 signaling in microglial cells induces hemorrhagic transformation 24 h after tMCAO. A, SMAD2/3 phosphorylation is reduced in IB4 ⫹ microglia that
+uptake DiI ⫹/SB-431542-lip delivered intracortically. Essentially all DiI ⫹ cells are IB4 ⫹ microglia, and SMAD2/3 phosphorylation is observed in neurons outside of injury, as indicated by thin white
+arrows. B, Magnified image from a region in A (white box). Yellow arrows point to cells with high pSMAD2/3 expression. White arrowheads point at IB4 ⫹/DiI ⫹ cells with low pSMAD2/3 signal. C,
+Representative example of DiI ⫹/Iba1 ⫹/DAPI ⫹ immunofluorescence in the penumbra region of DiI ⫹/SB-431542-lip-treated rat. Essentially all DiI ⫹ cells are double-labeled with Iba1 ⫹ (yellow
+arrows), whereas DiI ⫹/Iba1 ⫺ cells are infrequent, with low level of label incorporation (arrowheads). There is no DiI ⫹ signal around morphologically integrant nuclei outside of injured region (*,
+healthy neurons) or nuclei with apoptotic appearance (thin arrows). D, The number of hemorrhages in injured hemisphere is significantly increased in rats treated with SB-431542-lip compared with
+Clod-lip-treated or nontreated rats.
+
+monocytes account for the effects observed after microglial depletion, we examined the effects of intracortical Clod-lip injection before tMCAO in P9-P10 Cx3cr1 GFP/⫹/Ccr2 RFP/⫹ mice,
+mice in which microglial cells are Cx3cr1 GFP/⫹ and monocytes
+are Ccr2 RFP/⫹. Compared with PBS-lip injection, Clod-lip injection 48 h before tMCAO reduced the number of Cx3cr1 GFP/⫹
+resting microglial cells in contralateral hemisphere to 76 ⫾ 21%
+in the caudate and 76 ⫾ 17% in the cortex. Compared with
+matching contralateral regions of Clod-lip-treated mice, the
+number of microglial cells was further significantly reduced in
+the ischemic core, in the core in the cortex (Fig. 8D vs Fig. 8B; Fig.
+8F ) and in the caudate (data not shown).
+Microglial depletion significantly exacerbated injury 24 h after
+reperfusion (Fig. 8G). Consistent with observations in rat pups,
+depletion significantly increased hemorrhage incidence (Fig.
+8 H, I ) and hemorrhages were observed in multiple brain regions,
+in the parenchyma, in the meninges, and in the choroid plexus.
+Microglial depletion also significantly induced albumin leakages
+into injured parenchyma of Clod-lip-treated mice, whereas the
+extent of leakage was negligible in PBS-treated mice at 24 h (data
+not shown). Unlike in neonatal rat pups, Clod-lip treatment produced smaller but significant increase in hemorrhage number in
+the contralateral hemisphere (Fig. 8 H, I ).
+Essentially, no Ccr2 RFP/⫹ monocytes were observed in contralateral regions of untreated (data not shown), PBS-lip-treated,
+and Clod-lip-treated mice (Fig. 8J ), whereas Ccr2 RFP/⫹ monocytes were observed in injured regions, in the ischemic core, in
+the caudate (Fig. 8J ) and in the penumbra (data not shown). The
+overall monocyte number varied in individual mice in each
+group, but there was not statistically significant difference between the groups. Quantification of the number of infiltrated
+monocytes (i.e., Ccr2 RFP/⫹ cells not touching Glut1 ⫹ vessels) was
+similar in vehicle- and Clod-lip-treated mice (Fig. 8K ). The number of peripheral monocytes was not significantly different between injured vehicle- and Clod-lip-treated mice (data not
+shown), demonstrating that hemorrhage induction was not due
+to monocyte depletion or altered monocyte infiltration. Cumulatively, these data in a second species, mice, revealed exacerbation of injury and induction of hemorrhages caused by microglial
+depletion, similar to effects in neonatal rats.
+
+Discussion
+We report a novel role of microglial cells in the context of neonatal brain ischemia, microglial-dependent protection from
+hemorrhages, and BBB disruption. We show that pharmacological depletion of microglia before neonatal stroke significantly
+increases injury and the incidence of intraparenchymal hemorrhages in rats and mice. In the rat stroke model, these effects are
+not directly mediated by loss or redistribution of intracellular TJ
+proteins or by perivascular Col-IV degradation caused by stroke.
+We demonstrate that activated microglial cells become a major
+source of TGF␤1 in injured neonatal brain, and loss of microgliaderived TGF␤1/ALK5 signaling after acute injury is not overcome by intravenous injection of rhTGF␤1, indicating
+insufficiency of peripheral cytokine to rescue microglia-mediated
+protection. Pharmacological inhibition of TGF␤1/ALK5 signaling selectively in microglia during acute injury recapitulates the
+pattern of hemorrhage induction associated with microglial depletion. Depletion of microglia in P9 Cx3cr1 GFP/⫹/Ccr2 RFP/⫹
+mice exacerbates injury after tMCAO and induces acute hemorrhages, but these effects are independent of infiltration of
+Ccr2 RFP/⫹ monocytes into injured regions. Together with our
+previous findings that microglial depletion enhances neuronal
+injury and neuroinflammation, the newly identified direct role of
+microglia in protecting neurovascular integrity argues for the
+endogenous protective roles of these cells in injured neonatal
+brain.
+Leakiness of the BBB has been firmly established in adult
+stroke models and many contributing mechanisms identified
+(Yang and Rosenberg, 2011). We recently reported that albumin
+leakage into injured brain regions is markedly lower in P7 rats
+after tMCAO than in adult rats after a similar insult and that
+neutrophil infiltration into ischemic-reperfused regions is low
+following neonatal tMCAO (Fernández-López et al., 2012),
+consistent with low infiltration in response to hypoxiaischemia in neonatal rats (Hudome et al., 1997), but in stark
+contrast with rapid neutrophil infiltration in adult tMCAO
+models (Mori et al., 1992). The markedly different patterns of
+tMCAO-induced gene upregulation and downregulation in
+endothelial cells between immature and adult brains
+
+2890 • J. Neurosci., March 9, 2016 • 36(10):2881–2893
+
+Fernández-López et al. • Microglia-Mediated Neurovascular Integrity in Neonatal Stroke
+
+Figure 8. Microglial depletion exacerbates injury and promotes hemorrhages 24 h following neonatal arterial stroke in P9 mice. A–D, Representative images of Cx3cr1 GFP/⫹ microglia and
+CCR2 RFP/⫹ monocytes in ischemic core (B, D) and in matching contralateral cortical regions (A, C) of PBS-lip-treated (A, B) and Clod-lip-treated (C, D) mice. Note morphological changes of
+Cx3cr1 GFP/⫹ in injured regions. Essentially no RFP/⫹ monocytes are seen in contralateral hemisphere, whereas RFP/⫹ monocytes are observed both in association with vessels and within injured
+cortex. E, Quantification of microglial depletion by Clod-lip in the caudate (Cd), the ischemic core, and in the penumbra (Penum). Shown data are percentage of Cx3cr1 GFP/⫹ microglial number in
+ipsilateral compared with matching contralateral regions in same individual animals. The number of Cx3cr1 GFP/⫹ cells in contralateral hemisphere of Clod-lip-treated mice is lower than in
+contralateral hemisphere of PBS-lip-treated mice (data not shown). F, Representative examples of hemorrhages identified on DAB/Nissl-stained coronal sections. G, Microglial depletion significantly increases injury volume. Shown are data for individual mice. H, I, Microglial depletion significantly increases the total number of hemorrhages in multiple regions of injured hemisphere (H)
+and the number of intraparenchyma hemorrhages ⬎25 ␮m in the longest dimension (I). J, K, The total number of CCR2 RFP/⫹ monocytes (J) and the number of infiltrated CCR2 RFP/⫹ monocytes
+(K) in individual injured regions are not significantly different between Clod-lip and PBS-lip mice.
+
+(Fernández-López et al., 2012), unsynchronized maturation
+of individual cell types, pericytes, and astrocytes, and of individual ECM components (Peppiatt et al., 2006; Zhang and
+Barres, 2010), and maturation-dependent vessel coverage by
+pericytes and astrocytes (Daneman et al., 2010) can contribute
+to differing postischemic BBB function in neonates compared
+with adults. Transport of other molecules through postnatal
+BBB can depend on injury model and species (Ek et al., 2015).
+The endfoot-basal lamina junctional complex is consolidated
+after the first postnatal week (Lunde et al., 2015), likely affecting protein interactions at the ECM-vascular-astrocyte interface. Microglia themselves undergo phenotypic changes
+during brain development (Butovsky et al., 2014).
+Microglia are the main cell type that provides immunosurveillance in the brain and play essential roles in cell– cell communications, trophic support, and phagocytosis of dying cells (Ueno et
+al., 2013). Microglia have several direct effects on the vasculature,
+enabling embryonic vasculogenesis (Arnold and Betsholtz, 2013)
+and guiding vascular anastomosis (Fantin et al., 2010), effects not
+mediated by monocytes (Checchin et al., 2006). Microglia patrol
+the vasculature in naive adult brain (Davalos et al., 2012) and are
+rapid responders to the lesions (Nimmerjahn et al., 2005). Microglial cells play a unique role in postnatal brain by pruning synapses and shaping synaptic circuits (Paolicelli et al., 2011; Bialas
+
+and Stevens, 2013). After stroke activated microglia/macrophages have been thought toxic, along with peripheral leukocytes, by producing inflammatory mediators and adversely
+affecting BBB integrity (Iadecola and Anrather, 2011), but it remains questionable whether microglial cells, rather than perivascular microglia and invaded peripheral monocytes, mediate
+injury (Lambertsen et al., 2009).
+In neonates, we investigated how microglial cells affect several
+injurious mechanisms demonstrated in adult stroke (Cunningham et al., 2005). We show that endothelial cell death triggered by
+tMCAO is exacerbated by the absence of microglia but that increased endothelial death is unlikely because of enhanced
+superoxide production in injured vessels, diminished VEGF expression, or enhanced neuroinflammation. Endothelial cells are
+vulnerable to ROS (Rizzo and Leaver, 2010), which are in part
+produced by reactive microglia after stroke in adults, but, to a
+lesser extent, in reactive microglia in neonates (Woo et al., 2012).
+In ischemic-reperfused neonatal brain regions, cytokine and
+chemokine increase is profound (Denker et al., 2007), but microglial depletion further increases the levels of inflammatory
+mediators, reduces removal of neuronal debris, and worsens parenchymal injury (Faustino et al., 2011). One of the main paths
+for albumin leakage in adult stroke is through disrupted TJ
+(Krueger et al., 2013), but microglial depletion does not lead to
+
+Fernández-López et al. • Microglia-Mediated Neurovascular Integrity in Neonatal Stroke
+
+additional loss or further intracellular redistribution of occludin
+and claudin-5 caused by tMCAO.
+Col-IV degradation is a hallmark of hemorrhagic transformation
+after adult stroke (Asahi et al., 2001; Rosell et al., 2008). Mutations in
+the COL4A1 gene cause intracerebral hemorrhage both in newborn
+mice and humans (Gould et al., 2005). In humans, a limited number
+of genes, including MMP-9 and TGF␤, predict strokes that later
+develop hemorrhagic transformation (Jickling et al., 2014). In adult
+stroke models, upregulated MMP-2, MMP-9, and MMP-3 mediate
+the breakdown of ECM components, contributing to disruption of
+the BBB, brain edema, and injury, and predisposing to hemorrhagic
+transformation (Asahi et al., 2000). The origin of MMP-9-producing cells is imperative for early versus late hemorrhagic transformation, with MMP-9 primarily produced by neutrophils in acute
+stroke, but produced by brain cells at later points in the adult (Gidday et al., 2005; Jickling et al., 2014).
+In human newborns, MMP-9 activation predicts HIE outcome (Bednarek et al., 2012). MMP-9 inhibition protects the
+neonatal rodent brain from hypoxia-ischemia (Chen et al., 2009).
+We show marked increase in activated MMP-9 in injured regions
+and microglia as an important source of MMP-9 that leads to
+robust degradation of a Col-IV ␣1 subunit. Yet, the magnitude of
+Col-IV␣1 degradation is unaffected by the absence of microglia at
+24 h, making Col-IV degradation an unlikely cause for increased
+permeability or hemorrhages. Lack of phagocytotic microglia
+needed to clear hemorrhages (Zhao et al., 2009) likely contributes
+to continued presence of hemorrhages over 72 h, but the presence
+of residual basal lamina in the absence of endothelial cells (“string
+vessels”) also points to endothelial degeneration rather than loss
+of vascular sheaths as a primary mechanism of hemorrhages
+caused by microglia depletion. It is somewhat counterintuitive
+that the magnitude of Col-IV␣1 degradation is unaffected by
+microglial depletion when active MMP-9 is diminished and that
+hemorrhagic transformation is increased when microglial
+MMP-9 is absent. Other proteases, such as fibronectin, perlecan,
+and agrin, could contribute to Col-IV degradation and affect
+interactions between ECM and endothelial cells and pericytes in
+the absence of microglia.
+TGF␤1 contributes to neurovascular protection and serves as
+a survival factor for brain capillaries and BBB stability (Walshe et
+al., 2009). Multiple brain cell types express TGF␤1 in adult brain
+and upregulate TGF␤1 after stroke (Pál et al., 2014). Abrogated
+TGF␤1 signaling in astrocytes exacerbates subacute injury after
+distal MCAO and increases microglial activation and monocyte
+infiltration (Cekanaviciute et al., 2014). Deletion of peripheral
+monocytes or CCR2 in bone marrow-derived cells produces vessel irregularities, thinning and delayed hemorrhagic transformation in stroke, effects that are reversed by intracerebral TGF1␤1
+injection (Gliem et al., 2012). Similar to adults, in neonates, neurons and endothelial cells express TGF␤1 in uninjured regions, but
+TGF␤1 is lost in injured neurons, retained in endothelial cells, is not
+apparent in astrocytes, but is markedly upregulated in activated microglia in injured regions, mediating TGFbr2/SMAD2/3 signaling in
+the latter cells. Our attempt to revert depletion-induced hemorrhage
+by increasing peripheral TGF␤1 levels in proximity to injured vessels
+did not affect injury size or the number/size of hemorrhages,
+whereas inhibited TGF␤1/TGFbr2/ALK5 signaling selectively in microglia reduced SMAD2/3 phosphorylation in these cells and significantly increased the number of intraparenchymal hemorrhages.
+Findings that monocytes in adult stroke (Gliem et al., 2012)
+and activated microglia in neonatal stroke in our study protect
+from postischemic hemorrhages and that TGF␤1 signaling is involved in protection in both situations make it tempting to as-
+
+J. Neurosci., March 9, 2016 • 36(10):2881–2893 • 2891
+
+sume that the underlying mechanisms are the same. However, in
+adult mice, hemorrhagic transformation following prolonged
+perfusion deficits (Jickling et al., 2014) or monocyte depletion
+(Gliem et al., 2012) is not apparent for days, whereas in our study
+hemorrhages occur early after reperfusion. There are many common features between resident microglia and monocytes, but
+microglia are of different origin than monocytes (Ginhoux et al.,
+2010) and make a self-renewable population, with a unique gene
+signature compared with monocytes and dendritic cells (Butovsky et al., 2014). Monocytes that infiltrate an injured adult
+brain do not contribute to the resident microglial pool (Ajami et
+al., 2011), whereas microglial phenotypes are heterogeneous,
+with stimulus-specific responses in vivo (Petersen and Dailey,
+2004; Chhor et al., 2013).
+To identify whether monocyte behavior is altered by microglial depletion and ultimately accounts for brain hemorrhages,
+we examined monocyte numbers in peripheral blood and in the
+brain in P9 Cx3cr1 GFP/⫹/Ccr2 RFP/⫹ mice following tMCAO. We
+observed that infiltration of Ccr2 RFP/⫹ monocytes into injured
+regions is rather limited and, importantly, is not affected by microglial depletion, suggesting that microglial TGF␤1-dependent
+signaling carries neurovascular protection.
+In conclusion, we discovered an important role of microglial
+cells in protecting neonatal brain from ischemia-induced hemorrhages. Findings that this phenomenon is observed in two species
+suggest uniformness of effects and raise a question whether strategies aimed to broadly inhibit microglial function should be used
+after acute neonatal stroke. An improved understanding of the
+microglial phenotypes and role of individual phenotypes in governing neurovascular integrity in injured immature brain, together with acquired knowledge of whether BBB disruption and
+hemorrhagic transformation are governed by distinct mechanisms, would help in identifying new and more selective therapeutic strategies. Development of new tools to deplete the entire
+microglial population (Elmore et al., 2014) or individual subpopulation (Lalancette-Hébert et al., 2007) may allow a better understanding of the effects of parenchymal and perivascular microglia
+on injured vasculature. Identification of the role of microglial
+TGF␤1 as neurovascular protectant may lead to new therapeutic
+targets for neonatal stroke, especially when autocrine and paracrine mechanisms of microglial TGF␤1 in the injured brain are
+better defined and in relation to TGF␤1 signaling in other cell
+types.
+
+References
+Ajami B, Bennett JL, Krieger C, McNagny KM, Rossi FM (2011) Infiltrating
+monocytes trigger EAE progression, but do not contribute to the resident
+microglia pool. Nat Neurosci 14:1142–1149. CrossRef Medline
+Armstrong-Wells J, Johnston SC, Wu YW, Sidney S, Fullerton HJ (2009)
+Prevalence and predictors of perinatal hemorrhagic stroke: results from
+the Kaiser Pediatric Stroke Study. Pediatrics 123:823– 828. CrossRef
+Medline
+Arnold T, Betsholtz C (2013) The importance of microglia in the development of the vasculature in the central nervous system. Vasc Cell 5:4.
+CrossRef Medline
+Asahi M, Asahi K, Jung JC, del Zoppo GJ, Fini ME, Lo EH (2000) Role for
+matrix metalloproteinase 9 after focal cerebral ischemia: effects of gene
+knockout and enzyme inhibition with BB-94. J Cereb Blood Flow Metab
+20:1681–1689. CrossRef Medline
+Asahi M, Wang X, Mori T, Sumii T, Jung JC, Moskowitz MA, Fini ME, Lo EH
+(2001) Effects of matrix metalloproteinase-9 gene knock-out on the proteolysis of blood– brain barrier and white matter components after cerebral ischemia. J Neurosci 21:7724 –7732. Medline
+Bednarek N, Svedin P, Garnotel R, Favrais G, Loron G, Schwendiman L,
+Hagberg H, Morville P, Mallard C, Gressens P (2012) Increased MMP-9
+and TIMP-1 in mouse neonatal brain and plasma and in human neonatal
+
+2892 • J. Neurosci., March 9, 2016 • 36(10):2881–2893
+plasma after hypoxia-ischemia: a potential marker of neonatal encephalopathy. Pediatr Res 71:63–70. CrossRef Medline
+Bialas AR, Stevens B (2013) TGF-beta signaling regulates neuronal C1q expression and developmental synaptic refinement. Nat Neurosci 16:1773–
+1782. CrossRef Medline
+Bruno CJ, Beslow LA, Witmer CM, Vossough A, Jordan LC, Zelonis S, Licht
+DJ, Ichord RN, Smith SE (2014) Haemorrhagic stroke in term and late
+preterm neonates. Arch Dis Child Fetal Neonatal Ed 99:F48 –F53.
+CrossRef Medline
+Butovsky O, Jedrychowski MP, Moore CS, Cialic R, Lanser AJ, Gabriely G,
+Koeglsperger T, Dake B, Wu PM, Doykan CE, Fanek Z, Liu L, Chen Z,
+Rothstein JD, Ransohoff RM, Gygi SP, Antel JP, Weiner HL (2014)
+Identification of a unique TGF-beta-dependent molecular and functional
+signature in microglia. Nat Neurosci 17:131–143. CrossRef Medline
+Cekanaviciute E, Fathali N, Doyle KP, Williams AM, Han J, Buckwalter MS
+(2014) Astrocytic transforming growth factor-beta signaling reduces
+subacute neuroinflammation after stroke in mice. Glia 62:1227–1240.
+CrossRef Medline
+Checchin D, Sennlaub F, Levavasseur E, Leduc M, Chemtob S (2006) Potential role of microglia in retinal blood vessel formation. Invest Ophthalmol Vis Sci 47:3595–3602. CrossRef Medline
+Chen W, Hartman R, Ayer R, Marcantonio S, Kamper J, Tang J, Zhang JH
+(2009) Matrix metalloproteinases inhibition provides neuroprotection
+against hypoxia-ischemia in the developing brain. J Neurochem 111:
+726 –736. CrossRef Medline
+Chhor V, Le Charpentier T, Lebon S, Oré MV, Celador IL, Josserand J, Degos
+V, Jacotot E, Hagberg H, Sävman K, Mallard C, Gressens P, Fleiss B
+(2013) Characterization of phenotype markers and neuronotoxic potential of polarised primary microglia in vitro. Brain Behav Immun 32:
+70 – 85. CrossRef Medline
+Cunningham LA, Wetzel M, Rosenberg GA (2005) Multiple roles for MMPs
+and TIMPs in cerebral ischemia. Glia 50:329 –339. CrossRef Medline
+Daneman R, Zhou L, Kebede AA, Barres BA (2010) Pericytes are required
+for blood– brain barrier integrity during embryogenesis. Nature 468:
+562–566. CrossRef Medline
+Davalos D, Ryu JK, Merlini M, Baeten KM, Le Moan N, Petersen MA, Deerinck TJ, Smirnoff DS, Bedard C, Hakozaki H, Gonias Murray S, Ling JB,
+Lassmann H, Degen JL, Ellisman MH, Akassoglou K (2012) Fibrinogeninduced perivascular microglial clustering is required for the development of axonal damage in neuroinflammation. Nat Commun 3:1227.
+CrossRef Medline
+Denes A, Thornton P, Rothwell NJ, Allan SM (2010) Inflammation and
+brain injury: acute cerebral ischaemia, peripheral and central inflammation. Brain Behav Immun 24:708 –723. CrossRef Medline
+Denker SP, Ji S, Lee SY, Dingman A, Derugin N, Wendland WF, Vexler ZS
+(2007) Macrophages are comprised of resident brain microglia, not infiltrating peripheral monocytes acutely after neonatal stroke. J Neurochem 100:893–904. CrossRef Medline
+Derugin N, Dingman A, Wendland MF, Fox C, Bollen A, Vexler ZS (2005)
+Magnetic resonance imaging as a surrogate measure for histological
+chronic endpoint in a neonatal rat stroke model. Brain Res 1066:49 –56.
+CrossRef Medline
+Doyle KP, Cekanaviciute E, Mamer LE, Buckwalter MS (2010) TGFbeta signaling in the brain increases with aging and signals to astrocytes and
+innate immune cells in the weeks after stroke. J Neuroinflammation 7:62.
+CrossRef Medline
+Ek CJ, D’Angelo B, Baburamani AA, Lehner C, Leverin AL, Smith PL, Nilsson
+H, Svedin P, Hagberg H, Mallard C (2015) Brain barrier properties and
+cerebral blood flow in neonatal mice exposed to cerebral hypoxiaischemia. J Cereb Blood Flow Metab 35:818 – 827. CrossRef Medline
+Elmore MR, Najafi AR, Koike MA, Dagher NN, Spangenberg EE, Rice RA,
+Kitazawa M, Matusow B, Nguyen H, West BL, Green KN (2014)
+Colony-stimulating factor 1 receptor signaling is necessary for microglia
+viability, unmasking a microglia progenitor cell in the adult brain. Neuron 82:380 –397. CrossRef Medline
+Fantin A, Vieira JM, Gestri G, Denti L, Schwarz Q, Prykhozhij S, Peri F,
+Wilson SW, Ruhrberg C (2010) Tissue macrophages act as cellular
+chaperones for vascular anastomosis downstream of VEGF-mediated endothelial tip cell induction. Blood 116:829 – 840. CrossRef Medline
+Faustino J, Wang X, Johnson CE, Klibanov A, Derugin N, Wendland MF,
+Vexler ZS (2011) Microglial cells contribute to endogenous brain de-
+
+Fernández-López et al. • Microglia-Mediated Neurovascular Integrity in Neonatal Stroke
+fenses after acute neonatal focal stroke. J Neurosci 31:12992–13001.
+CrossRef Medline
+Fernández-López D, Faustino J, Daneman R, Zhou L, Lee SY, Derugin N,
+Wendland MF, Vexler ZS (2012) Blood– brain barrier permeability is
+increased after acute adult stroke but not neonatal stroke. J Neurosci
+32:9588 –9600. CrossRef Medline
+Fernández-López D, Natarajan N, Ashwal S, Vexler ZS (2014) Mechanisms
+of perinatal arterial ischemic stroke. J Cereb Blood Flow Metab 34:
+921–932. CrossRef Medline
+Gidday JM, Gasche YG, Copin JC, Shah AR, Perez RS, Shapiro SD, Chan PH,
+Park TS (2005) Leukocyte-derived matrix metalloproteinase-9 mediates blood– brain barrier breakdown and is proinflammatory after
+transient focal cerebral ischemia. Am J Physiol Heart Circ Physiol 289:
+H558 –H568. CrossRef Medline
+Ginhoux F, Greter M, Leboeuf M, Nandi S, See P, Gokhan S, Mehler MF,
+Conway SJ, Ng LG, Stanley ER, Samokhvalov IM, Merad M (2010) Fate
+mapping analysis reveals that adult microglia derive from primitive macrophages. Science 330:841– 845. CrossRef Medline
+Gliem M, Mausberg AK, Lee JI, Simiantonakis I, van Rooijen N, Hartung HP,
+Jander S (2012) Macrophages prevent hemorrhagic infarct transformation in murine stroke models. Ann Neurol 71:743–752. CrossRef Medline
+Gould DB, Phalan FC, Breedveld GJ, van Mil SE, Smith RS, Schimenti JC,
+Aguglia U, van der Knaap MS, Heutink P, John SW (2005) Mutations in
+Col4a1 cause perinatal cerebral hemorrhage and porencephaly. Science
+308:1167–1171. CrossRef Medline
+Greenberg DA, Jin K (2013) Vascular endothelial growth factors (VEGFs)
+and stroke. Cell Mol Life Sci 70:1753–1761. CrossRef Medline
+Hansen TM, Moss AJ, Brindle NP (2008) Vascular endothelial growth factor and angiopoietins in neurovascular regeneration and protection following stroke. Curr Neurovasc Res 5:236 –245. CrossRef Medline
+Hudome S, Palmer C, Roberts RL, Mauger D, Housman C, Towfighi J (1997)
+The role of neutrophils in the production of hypoxic-ischemic brain injury in the neonatal rat. Pediatr Res 41:607– 616. CrossRef Medline
+Iadecola C, Anrather J (2011) The immunology of stroke: from mechanisms
+to translation. Nat Med 17:796 – 808. CrossRef Medline
+Jickling GC, Liu D, Stamova B, Ander BP, Zhan X, Lu A, Sharp FR (2014)
+Hemorrhagic transformation after ischemic stroke in animals and humans. J Cereb Blood Flow Metab 34:185–199. CrossRef Medline
+Kirton A, Deveber G (2013) Life after perinatal stroke. Stroke 44:3265–3271.
+CrossRef Medline
+Knowland D, Arac A, Sekiguchi KJ, Hsu M, Lutz SE, Perrino J, Steinberg GK,
+Barres BA, Nimmerjahn A, Agalliu D (2014) Stepwise recruitment of
+transcellular and paracellular pathways underlies blood– brain barrier
+breakdown in stroke. Neuron 82:603– 617. CrossRef Medline
+Krueger M, Härtig W, Reichenbach A, Bechmann I, Michalski D (2013)
+Blood– brain barrier breakdown after embolic stroke in rats occurs without ultrastructural evidence for disrupting tight junctions. PLoS One
+8:e56419. CrossRef Medline
+Lalancette-Hébert M, Gowing G, Simard A, Weng YC, Kriz J (2007) Selective ablation of proliferating microglial cells exacerbates ischemic injury
+in the brain. J Neurosci 27:2596 –2605. CrossRef Medline
+Lambertsen KL, Clausen BH, Babcock AA, Gregersen R, Fenger C, Nielsen
+HH, Haugaard LS, Wirenfeldt M, Nielsen M, Dagnaes-Hansen F, Bluethmann H, Faergeman NJ, Meldgaard M, Deierborg T, Finsen B (2009)
+Microglia protect neurons against ischemia by synthesis of tumor necrosis
+factor. J Neurosci 29:1319 –1330. CrossRef Medline
+Liu J, Jin X, Liu KJ, Liu W (2012) Matrix metalloproteinase-2-mediated
+occludin degradation and caveolin-1-mediated claudin-5 redistribution
+contribute to blood– brain barrier damage in early ischemic stroke stage.
+J Neurosci 32:3044 –3057. CrossRef Medline
+Lunde LK, Camassa LM, Hoddevik EH, Khan FH, Ottersen OP, Boldt HB,
+Amiry-Moghaddam M (2015) Postnatal development of the molecular
+complex underlying astrocyte polarization. Brain Struct Funct 220:
+2087–2101. CrossRef Medline
+Lynch JK, Nelson KB (2001) Epidemiology of perinatal stroke. Curr Opin
+Pediatr 13:499 –505. CrossRef Medline
+Monje ML, Toda H, Palmer TD (2003) Inflammatory blockade restores
+adult hippocampal neurogenesis. Science 302:1760 –1765. CrossRef
+Medline
+Mori E, del Zoppo GJ, Chambers JD, Copeland BR, Arfors KE (1992) Inhibition of polymorphonuclear leukocyte adherence suppresses no-reflow
+
+Fernández-López et al. • Microglia-Mediated Neurovascular Integrity in Neonatal Stroke
+after focal cerebral ischemia in baboons. Stroke 23:712–718. CrossRef
+Medline
+Munger JS, Sheppard D (2011) Cross talk among TGF-beta signaling pathways, integrins, and the extracellular matrix. Cold Spring Harb Perspect
+Biol 3:a005017. CrossRef Medline
+Nimmerjahn A, Kirchhoff F, Helmchen F (2005) Resting microglial cells are
+highly dynamic surveillants of brain parenchyma in vivo. Science 308:
+1314 –1318. CrossRef Medline
+Pál G, Lovas G, Dobolyi A (2014) Induction of transforming growth factor
+beta receptors following focal ischemia in the rat brain. PLoS One
+9:e106544. CrossRef Medline
+Pál G, Vincze C, Renner É, Wappler EA, Nagy Z, Lovas G, Dobolyi A (2012)
+Time course, distribution and cell types of induction of transforming
+growth factor betas following middle cerebral artery occlusion in the rat
+brain. PLoS One 7:e46731. CrossRef Medline
+Paolicelli RC, Bolasco G, Pagani F, Maggi L, Scianni M, Panzanelli P, Giustetto M, Ferreira TA, Guiducci E, Dumas L, Ragozzino D, Gross CT
+(2011) Synaptic pruning by microglia is necessary for normal brain development. Science 333:1456 –1458. CrossRef Medline
+Peppiatt CM, Howarth C, Mobbs P, Attwell D (2006) Bidirectional control
+of CNS capillary diameter by pericytes. Nature 443:700 –704. CrossRef
+Medline
+Petersen MA, Dailey ME (2004) Diverse microglial motility behaviors during clearance of dead cells in hippocampal slices. Glia 46:195–206.
+CrossRef Medline
+Polfliet MM, Goede PH, van Kesteren-Hendrikx EM, van Rooijen N, Dijkstra
+CD, van den Berg TK (2001) A method for the selective depletion of
+perivascular and meningeal macrophages in the central nervous system.
+J Neuroimmunol 116:188 –195. CrossRef Medline
+Rizzo MT, Leaver HA (2010) Brain endothelial cell death: modes, signaling
+pathways, and relevance to neural development, homeostasis, and disease. Mol Neurobiol 42:52– 63. CrossRef Medline
+Rosell A, Cuadrado E, Ortega-Aznar A, Hernández-Guillamon M, Lo EH,
+
+J. Neurosci., March 9, 2016 • 36(10):2881–2893 • 2893
+Montaner J (2008) MMP-9-positive neutrophil infiltration is associated
+to blood– brain barrier breakdown and basal lamina type IV collagen
+degradation during hemorrhagic transformation after human ischemic
+stroke. Stroke 39:1121–1126. CrossRef Medline
+Saederup N, Cardona AE, Croft K, Mizutani M, Cotleur AC, Tsou CL, Ransohoff RM, Charo IF (2010) Selective chemokine receptor usage by central nervous system myeloid cells in CCR2-red fluorescent protein
+knock-in mice. PLoS One 5:e13693. CrossRef Medline
+Ueno M, Fujita Y, Tanaka T, Nakamura Y, Kikuta J, Ishii M, Yamashita T
+(2013) Layer V cortical neurons require microglial support for survival
+during postnatal development. Nat Neurosci 16:543–551. CrossRef
+Medline
+van Rooijen N, Hendrikx E (2010) Liposomes for specific depletion of macrophages from organs and tissues. Methods Mol Biol 605:189 –203.
+CrossRef Medline
+Walshe TE, Saint-Geniez M, Maharaj AS, Sekiyama E, Maldonado AE,
+D’Amore PA (2009) TGF-beta is required for vascular barrier function,
+endothelial survival and homeostasis of the adult microvasculature. PLoS
+One 4:e5149. CrossRef Medline
+Wang Q, Tang XN, Yenari MA (2007) The inflammatory response in stroke.
+J Neuroimmunol 184:53– 68. CrossRef Medline
+Woo MS, Wang X, Faustino JV, Derugin N, Wendland MF, Zhou P, Iadecola
+C, Vexler ZS (2012) Genetic deletion of CD36 enhances injury after
+acute neonatal stroke. Ann Neurol 72:961–970. CrossRef Medline
+Yang Y, Rosenberg GA (2011) Blood– brain barrier breakdown in acute and
+chronic cerebrovascular disease. Stroke 42:3323–3328. CrossRef Medline
+Zhang Y, Barres BA (2010) Astrocyte heterogeneity: an underappreciated topic in neurobiology. Curr Opin Neurobiol 20:588 –594.
+CrossRef Medline
+Zhao X, Grotta J, Gonzales N, Aronowski J (2009) Hematoma resolution as
+a therapeutic target: the role of microglia/macrophages. Stroke 40:S92–
+S94. CrossRef Medline
+
+

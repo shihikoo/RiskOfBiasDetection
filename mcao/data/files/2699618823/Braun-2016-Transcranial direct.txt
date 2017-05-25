@@ -1,0 +1,646 @@
+Experimental Neurology 279 (2016) 127–136
+
+Contents lists available at ScienceDirect
+
+Experimental Neurology
+journal homepage: www.elsevier.com/locate/yexnr
+
+Research Paper
+
+Transcranial direct current stimulation accelerates recovery of function,
+induces neurogenesis and recruits oligodendrocyte precursors in a rat
+model of stroke
+Ramona Braun a,c, Rebecca Klein a, Helene Luise Walter a, Maurice Ohren a, Lars Freudenmacher a,
+Kaleab Getachew a, Anne Ladwig a,c, Joachim Luelling a, Bernd Neumaier b,c, Heike Endepols b, Rudolf Graf c,
+Mathias Hoehn c, Gereon Rudolf Fink a,d, Michael Schroeter a,c,d, Maria Adele Rueger a,c,d,⁎
+a
+
+Department of Neurology, University Hospital of Cologne, Kerpener Str. 62, 50924 Cologne, Germany
+Department of Nuclear Medicine, University Hospital of Cologne, Kerpener Str. 62, 50924 Cologne, Germany
+c
+Max Planck Institute for Metabolism Research, Gleueler Str. 50, 50931 Cologne, Germany
+d
+Cognitive Neuroscience, Institute of Neuroscience and Medicine (INM-3), Research Centre Juelich, 52425 Juelich, Germany
+b
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 30 November 2015
+Received in revised form 22 February 2016
+Accepted 24 February 2016
+Available online 26 February 2016
+Keywords:
+Neurogenesis
+Oligodendrocyte precursors
+Microglia polarization
+[18F]FLT-PET
+[11C]PK11195-PET
+Catwalk
+
+a b s t r a c t
+Background: Clinical data suggest that transcranial direct current stimulation (tDCS) may be used to facilitate rehabilitation after stroke. However, data are inconsistent and the neurobiological mechanisms underlying tDCS remain poorly explored, impeding its implementation into clinical routine. In the healthy rat brain, tDCS affects
+neural stem cells (NSC) and microglia. We here investigated whether tDCS applied after stroke also beneﬁcially
+affects these cells, which are known to be involved in regeneration and repair.
+Methods: Focal cerebral ischemia was induced in rats by transient occlusion of the middle cerebral artery.
+Twenty-eight animals with comparable infarcts, as judged by magnetic resonance imaging, were randomized
+to receive a multi-session paradigm of either cathodal, anodal, or sham tDCS. Behaviorally, recovery of motor
+function was assessed by Catwalk. Proliferation in the NSC niches was monitored by Positron-EmissionTomography (PET) employing the radiotracer 3′-deoxy-3′-[18F]ﬂuoro-L-thymidine ([18F]FLT). Microglia activation was depicted with [11C]PK11195-PET. In addition, immunohistochemical analyses were used to quantify
+neuroblasts, oligodendrocyte precursors, and activation and polarization of microglia.
+Results: Anodal and cathodal tDCS both accelerated functional recovery, though affecting different aspects of
+motor function. Likewise, tDCS induced neurogenesis independently of polarity, while only cathodal tDCS recruited oligodendrocyte precursors towards the lesion. Moreover, cathodal stimulation preferably supported
+M1-polarization of microglia.
+Conclusions: TDCS acts through multifaceted mechanisms that far exceed its primary neurophysiological effects,
+encompassing proliferation and migration of stem cells, their neuronal differentiation, and modulation of microglia responses.
+© 2016 Elsevier Inc. All rights reserved.
+
+1. Introduction
+Transcranial direct current stimulation (tDCS) has been shown to induce long-lasting alterations of cortical excitability, thereby enhancing
+cerebral plasticity, both in experimental animals (Bindman et al.,
+1962) and humans (Nitsche and Paulus, 2000). Studies in human stroke
+patients suggest that tDCS may be used to boost rehabilitation of motor
+deﬁcits (Hummel et al., 2005), aphasia (Monti et al., 2008), and neglect
+(Sparing et al., 2009), implying that tDCS may become an adjuvant tool
+to promote recovery of function after stroke (Floel and Cohen, 2010).
+⁎ Corresponding author at: Department of Neurology, University Hospital of Cologne,
+Kerpener Str. 62, 50924 Cologne, Germany.
+E-mail address: adele.rueger@uk-koeln.de (M.A. Rueger).
+
+http://dx.doi.org/10.1016/j.expneurol.2016.02.018
+0014-4886/© 2016 Elsevier Inc. All rights reserved.
+
+Although cathodal and anodal tDCS have distinct opposing effects on
+neuronal excitability, the inﬂuence of polarity on the clinical effects of
+tDCS is complex and yet incompletely understood (Antal et al., 2004;
+Moos et al., 2012; Vallar and Bolognini, 2011). Overall, the current widespread use of tDCS in human studies is contrasted by the dearth of data
+regarding its basic neurobiological mechanisms, impeding its implementation into clinical routine and limiting its use for clinical studies
+(Stagg and Nitsche, 2011).
+Recovery of function takes place days and weeks after cerebral ischemia. Within this time frame of rehabilitation, various processes are initiated at the cellular level. Neuroinﬂammation, mediated both by
+resident microglia and invading immune cells, serves to (i) demarcate
+and encapsulate the necrotic infarct area, and (ii) recruit neural stem
+cells (NSCs) to the lesion, but may also (iii) exacerbate tissue damage
+
+128
+
+R. Braun et al. / Experimental Neurology 279 (2016) 127–136
+
+by, e.g., production of pro-inﬂammatory cytokines (Stoll et al., 2002;
+Wang et al., 2007). NSCs migrate towards the ischemic lesion and
+promote regeneration by secretion of trophic factors conveying neuroprotection, as well as by supporting angiogenesis, remyelination,
+and neural plasticity (Chopp et al., 2009). We have previously shown
+that tDCS affects NSC mobilization as well as neuroinﬂammatory
+processes in a polarity-dependent manner in the healthy rat brain
+(Keuters et al., 2015; Rueger et al., 2012a). Here we aim at investigating
+whether tDCS-induced cellular processes are associated with recovery of function after stroke. Magnetic resonance imaging (MRI) and
+Positron-Emission-Tomography (PET) were used to deliver insights
+into tDCS effects in vivo and to provide readouts for a translation
+into human stroke studies.
+2. Material and methods
+2.1. Animals and surgery
+All animal procedures were in accordance with the German Laws
+for Animal Protection. They were also approved by the local animal
+care committee and local governmental authorities (LANUV #8751.04.2010.A332). N = 41 male spontaneously breathing male
+Wistar rats weighing 290–330 g were anesthetized with 5%
+isoﬂurane and maintained with 1–2% isoﬂurane in 65%/35% nitrous
+oxide/oxygen. Transient focal ischemia was induced by temporary
+occlusion of the left middle cerebral artery (MCA) for 60 min, using
+a silicone-coated nylon suture as described previously (Gerriets
+et al., 2004). Animals were allowed to recover from anesthesia in
+their home cages, with access to food and water ad libitum.
+2.2. MRI
+MRI was performed 2 days after ischemia to characterize the extent of the ischemic lesions, and in order to exclude animals with dissimilar lesions. Anesthetized with isoﬂurane, rats were placed in a
+Biospec 11.7 Tesla dedicated animal scanner system with a 16 cm
+horizontal bore magnet, equipped with actively shielded gradient
+coils (BGA9S, 750mT/m; Bruker BioSpin, Germany). Radiofrequency
+transmission was achieved with a birdcage quadrature resonator coil
+(72 mm diameter); the signal was detected with a quadrature rat
+brain surface coil (Bruker). A single-shot gradient echo–echo planar imaging (GE-EPI)-pilot was used for shimming as described previously
+(Boehm-Sturm et al., 2011). A T2-weighted image was acquired as
+rapid acquisition with relaxation enhancement (T2-TurboRARE), using
+the protocol: FOV 3.2 cm, matrix 256 ∗ 256, slice thickness 0.5 mm,
+echo time 32.5 ms, repetition time 6500 ms. During MRI, body temperature was maintained by a feedback control system (medres, Germany).
+2.3. Behavioral analyses
+Rats were trained daily on the Catwalk (CatWalk XT, Noldus,
+Germany) for one week prior to induction of ischemia. One day before
+ischemia, baseline values were established for each rat. After ischemia,
+animals were allowed to recover for two full days before behavioral
+testing was recommenced. Thus, three days after ischemia, and prior
+to the onset of tDCS, another Catwalk session was performed to quantify
+the stroke-induced motor deﬁcit. Further Catwalk sessions were performed on days 7, 10, 14, and 17. Rats were rewarded with sugar pellets
+for each run. Data acquisition was performed according to strict quality
+criteria: each run had to be performed within 0.5–10 s, with a maximum
+variation in speed of 70%. Three separate runs fulﬁlling those quality
+criteria were registered per day and rat, and averaged. For data acquisition, camera gain was set to 34.25 dB, and the intensity threshold to
+0.17. Behavioral testing and the subsequent evaluation of the behavioral
+data were performed by different individuals (RB, MAR); the latter
+being blinded to the treatment groups.
+
+2.4. Transcranial direct current stimulation (tDCS)
+Starting 3 days after ischemia, and immediately after the ﬁrst Catwalk session following stroke, 28 rats fulﬁlling the MRI-inclusion
+criteria were subjected to multi-session tDCS as described previously
+(Rueger et al., 2012a). In brief, an epicranial electrode with a deﬁned
+contact area of 3.5 mm2 was mounted onto the intact skull over the
+ischemic hemisphere using non-toxic glass ionomer luting cement
+(Ketac Cem Plus, 3M-ESPE, Germany) at the coordinates: bregma
+AP + 2.0 mm, ML + 2.0 mm, and left in place for the entire experiment. Animals were randomized to receive 10 days of tDCS with either cathodal (n = 9) or anodal (n = 10) polarity; a third group of
+rats was sham-stimulated for control (n = 9). TDCS was repeated
+daily for 5 consecutive days, followed by a tDCS-free interval of
+2 days; then animals were subjected to tDCS for 5 more days, resulting
+in 10 days tDCS in total. TDCS was applied continuously for 15 min at
+500 μA using a constant current stimulator (CX-6650, SchneiderElectronics, Germany) under isoﬂurane anesthesia, resulting in a charge
+density of 128,571 C/m2. For sham stimulation, rats were anesthetized
+for 15 min without connection to the stimulator. After each tDCS session, animals were allowed to recover in their home cages with access
+to food and water ad libitum.
+
+2.5. Radiochemistry
+Radiosynthesis of [11C]PK11195 was accomplished by N-methylation
+using the method of Camsonne et al. (Camsonne et al., 1984) with
+slight modiﬁcations, and as described previously (Schroeter et al.,
+2009). 3′-deoxy-3′-[18F]ﬂuoro-L-thymidine ([18F]FLT) was synthesized
+by nucleophilic substitution using benzoyl-protected anhydrothymidine
+according to the method of Machulla et al. (Machulla et al., 2000) with
+minor modiﬁcations, and as described previously (Rueger et al., 2010).
+[11C]PK11195 selectively binds to the translocator protein-18 kDa
+expressed on inﬂammatory cells, allowing for the noninvasive assessment of neuroinﬂammation in vivo (Schroeter et al., 2009). [18]FLT as
+radiolabeled thymidine analog is incorporated into newly synthesized
+DNA, labeling proliferating cells in the brain in vivo (Rueger et al., 2010).
+
+2.6. PET
+From n = 28 rats with conﬁrmed infarcts on MRI, n = 15 underwent
+PET-imaging. PET was performed on a microPET Focus 220 scanner
+(Concorde Microsystems, Inc., USA; 63 image planes; 1.5 mm full
+width at half maximum). Sixteen days after induction of ischemia, animals were anesthetized with isoﬂurane and placed in the scanner. Temperature was monitored using a rectal probe and maintained at 37 ±
+0.5 °C by a warm heating pad. Following a 10 min transmission scan
+for attenuation correction, rats received an intravenous bolus injection
+of [11C]PK11195 (0.8–1.9 mCi/rat) into a tail vein, and emission data
+were acquired for 30 min. After data acquisition, animals remained in
+the scanner under anesthesia. [18F]FLT-PET was performed in the
+same session and without changing the animal's position between
+scans, allowing for a precise co-registration of the resulting images.
+Those independent measurements were possible due to the short
+half-life of 11C (~ 20 min) compared to 18F (~ 110 min), by using the
+11
+C-labeled radiotracer ﬁrst and waiting for ﬁve half-lives before the
+next tracer injection. Thus, 100 min after [11C]PK11195, animals received an intravenous bolus injection of [18F]FLT (1.7–2.2 mCi/rat),
+and emission data were acquired for 90 min. PET data were reconstructed in 22 time frames of 2 × 60 s, 2 × 120 s, 6 × 240 s, and 12 × 300 s. The
+last 6 frames (minutes 60–90 after tracer injection) were averaged for
+quantiﬁcation of [18F]FLT-PET data.
+Please note that due to limited tracer availability, only 5 rats
+underwent [11C]PK11195-PET, while all rats were imaged with [18F]FLT.
+
+R. Braun et al. / Experimental Neurology 279 (2016) 127–136
+
+2.7. Image analysis
+For image co-registration, the image analysis software VINCI was
+used, allowing for fast automated co-registration of all multimodal
+
+129
+
+imaging data (Cizek et al., 2004). Quantitative [18F]FLT-PET data evaluation was based on a Volume of Interest (VOI) analysis to determine
+local radiotracer uptake within the subventricular zone (SVZ). Ellipsoid
+VOIs measuring 4 mm3 were placed covering the SVZ. Standard uptake
+
+Fig. 1. TDCS aids in the recovery of motor function after stroke. A) Left: T2-weighted MRI 2 days after transient occlusion of the left MCA. Right: Hematoxylin-staining from the same animal,
+17 days after MCA occlusion. The ischemic lesions typically involved the cerebral cortex as well as parts of the striatum (scale = 1 mm). B–D) Catwalk analysis, 3 days after stroke (B) and
+longitudinal assessment of recovery (C, D). B) Occlusion of the left MCA led to a loss of motor function in the affected limb 3 days after stroke. The contact area of the affected right paw with
+the surface as a surrogate for limb strength (‘print area’ in cm2, left) was decreased, as compared to the unaffected left front paw. Likewise, the duration of paw contact with the surface was
+decreased in the affected right paw, corresponding to a limping gait (‘stand’ in seconds, right), compared to the unaffected left front paw (means ± SEM; **p b 0.01). C) Cathodal tDCS led
+to a faster recovery of limb strength (‘print area’), measured as the print area of the affected paw divided by the unaffected paw: the group of animals treated with cathodal tDCS (triangles)
+signiﬁcantly recovered their limb strength by day 10 after stroke as compared to day 3 (asterisk in triangle). Sham-stimulated rats (squares) only recovered by day 17 when compared to
+their worst performance on day 3 (asterisk in square). Anodal tDCS had no effect on the recovery of limp strength over time (all values given as means ± SEM; *p b 0.05; recovery over time
+was statistically assessed per individual treatment group). D) Both cathodal and anodal tDCS facilitated recovery of gait (less limping), measured as the ‘stand’ time of the affected divided
+by the unaffected paw: the group of animals treated with anodal (circles) or cathodal tDCS (triangles) signiﬁcantly recovered their gait by day 14 after stroke as compared to their worst
+performance on day 3 (asterisks in circle and triangle, respectively; all values given as means ± SEM; *p b 0.05; recovery over time was statistically assessed per individual treatment
+group).
+
+130
+
+R. Braun et al. / Experimental Neurology 279 (2016) 127–136
+
+values (SUV) were calculated for each VOI, dividing maximal VOI activity by the injected radioactive dose per bodyweight. Maximum VOI
+values were averaged between equally treated animals. SUVs were
+individually determined and then averaged between animals within
+each group.
+Due to the small number of animals that could be subjected to
+[11C]PK11195-PET (see above), data were only analyzed qualitatively.
+
+2.8. Immunohistochemistry
+Seventeen days after stroke, respectively one day after PET-imaging,
+rats were deeply anesthetized and decapitated. Brains were rapidly
+removed, frozen in isopentane, and stored at − 80 °C prior to further
+processing. Serial coronal brain sections of 10 μm were cut throughout
+each brain. Sections at 500 μm intervals were stained with hematoxylin
+according to standard protocols. For immunohistochemistry, primary
+antibodies included: polyclonal goat anti-doublecortin (DCX) to detect
+neuroblasts (1:800, cat# sc-8066, Santa Cruz Biotechnology, USA); polyclonal rabbit anti-NG2 (1:3000, cat# AB5320, Millipore, Germany); polyclonal rabbit anti-Iba1 (ionized calcium binding adaptor molecule 1) to
+label activated microglia (1:1000, cat# 019-19741, Wako, Germany);
+polyclonal rabbit anti-iNOS (inducible nitric oxide-synthetase) to detect
+M1-polarized microglia (1:100, cat. #ab15323, abcam, UK); and polyclonal goat anti-CD206 to detect M2-polarized microglia (1:5000, cat.#
+AF2535, R&D Systems, Germany). For visualization, the ABC-Elite kit
+(Vector Laboratories, USA) with diaminobenzidine (Sigma, Germany)
+as ﬁnal reaction product was used. Negative control stainings
+
+without primary antibody showed no unspeciﬁc binding of the secondary antibody in the (peri-)infarct area (Supplemental Figure).
+Lesion volumes on histological stainings were quantiﬁed using the
+software Image J (NIH, USA): Lesion areas in mm2 were measured on
+each affected slide, multiplied by the slice distance, and summed for
+each brain, resulting in a lesion volume in mm3.
+To quantify i) DCX-positive neuroblasts in the SVZ, or ii) NG2positive oligodendrocyte precursors in the peri-infarct zone, respectively, the area covered by immunoreactive cells was measured in μm2
+using the software BZ-II-Analyzer (Keyence, Germany) analyzing 6 images on consecutive slides. In the analysis of oligodendrocyte precursors, the immunoreactive area was normalized to lesion size through
+division by the individual infarct volume.
+To quantify the number of Iba1-positive microglia in the corpus
+callosum or the thalamus, or the number of NG2-positive oligodendrocyte precursors in the SVZ, respectively, images were taken from each
+region of interest with a 10× objective on 3 consecutive slides, and immunoreactive cells counted per ﬁeld of view. Since we did not observe
+any obvious changes of cell size between groups, this method gave robust results independent from effects of double counting or stereological distortions.
+To evaluate the percentage of the infarct area covered by Iba1, iNOS
+or CD206, respectively, the immunoreactive as well as the total infarct
+area were measured using Image J, employing a threshold to identify
+immunoreactive cells. The immunoreactive as well as the total infarct
+area were measured in μm2, and a percentage calculated. Two animals
+were excluded from area measurements due to insufﬁcient tissue quality of the infarct area.
+
+Fig. 2. Proliferation in the SVZ is enhanced in the ischemic hemisphere, independent of tDCS. A) Rat brain subjected to MCA occlusion and treated with anodal tDCS, imaged with [18F]FLTPET to visualize proliferating cells 16 days after stroke. The [18F]FLT-signal of the SVZ-region (rainbow scale: SUV) is projected onto the T2-weighted MRI (gray). B) [18F]FLT-accumulation
+in the SVZ after stroke and cathodal tDCS. C) [18F]FLT-PET of a sham-stimulated rat after stroke; scale = 1 mm. Note that in all [18F]FLT-PET images, radiotracer binding within the infarct
+core was repressed in order to emphasize comparatively weak tracer binding in the SVZ. D) Quantiﬁcation of PET-data indicated enhanced proliferation ipsilateral to stroke compared to
+the contralateral side, irrespective of tDCS (means ± SEM; *p b 0.05).
+
+R. Braun et al. / Experimental Neurology 279 (2016) 127–136
+
+Immunohistochemical quantiﬁcations were performed by blinded
+evaluators (KG, LF, MO, JL); inter-rater reproducibility was ensured by
+re-measurements from a second investigator (AL/MAR). For all quantiﬁcations, mean values were established among equally treated rats.
+2.9. Statistical analyses
+Descriptive statistics were performed with Microsoft Excel 2010
+(Microsoft Corp.). All other statistical analyses were performed
+with SPSS Statistics version 22 (IBM Corp.) For comparison of multiple groups, multi-factor Analysis of Variance (ANOVA) was performed, followed by either Tukey's Honest Signiﬁcant difference
+(HSD) or Fisher's least signiﬁcant difference (LSD) tests as post-hoc
+analyses. Behavioral data were analyzed within each treatment
+group using one-way ANOVA and Fisher's LSD test as post-hoc analysis. Statistical signiﬁcance was set at less than 5% level (p b 0.05).
+3. Results
+Only animals with comparable ischemic lesions were included in
+this study, as veriﬁed by MRI 2 days after ischemia. Out of 41 rats
+subjected to stroke, 28 presented with ischemic lesions comprising
+both cortical and subcortical areas and were included into the
+study (Fig. 1A). Mean infarct size determined ex vivo was 100 mm3
+(SEM = 12), and infarct sizes did not vary signiﬁcantly between
+treatment groups (anodal 95 mm3 [± 21], cathodal 99 mm3 [± 25],
+sham 107 mm3 [± 19]; F(2/24) = 0.07; p = 0.93).
+Following occlusion of the left MCA, rats suffered from a loss of
+motor function in the right forelimb. As a surrogate marker for the
+strength of the affected right paw, its contact area with the glass surface
+(‘print area’) was signiﬁcantly decreased compared to the unaffected
+
+131
+
+left paw (means ± SEM: right 0.85 ± 0.1 vs. left 1.26 ± 0.12 cm2;
+p b 0.01; Fig. 1B, left). As surrogate marker for a disturbance of gait,
+i.e., limping, the duration of paw contact with the surface (‘stand’)
+was decreased in the affected right paw, compared to the unaffected
+left paw (means ± SEM: right 0.19 ± 0.01 vs. left 0.23 ± 0.01 cm2;
+p b 0.01; Fig. 1B, right).
+3.1. TDCS accelerates and improves recovery of motor function after stroke
+Rats were randomized to receive anodal (n = 10), cathodal (n = 9),
+or sham (n = 9) tDCS. Over the time course of 17 days following stroke,
+all rats recovered at least in part from their motor deﬁcits, albeit at different speed.
+Sham-treated rats recovered their strength (measured as ‘print
+area’) by day 17 compared to their worst performance at day 3
+(Fig. 1C, squares; p b 0.05), but did not improve in gait (measured
+as ‘stand’) to a statistically signiﬁcant extent over the same period
+of time (Fig. 1D, squares). The group of animals treated with cathodal
+tDCS fully recovered their strength by day 10 after stroke and their
+gait by day 14, as compared to worst performance on day 3, suggesting that cathodal tDCS accelerated functional recovery (Fig. 1C&D,
+triangles; p b 0.05). Anodal tDCS led to a recovery of gait by day 14
+compared to day 3 (p b 0.05), but animals did not fully regain limb
+strength during the observed time period (Fig. 1C&D, circles).
+3.2. Mobilization of endogenous neural stem cells by tDCS
+To assess proliferation in the SVZ as the major stem cell niche, PET
+with the radiotracer [18F]FLT was performed to visualize cell proliferation 16 days after stroke (Fig. 2A–C). Proliferation was higher in the
+SVZ ipsilateral to MCA occlusion (Fig. 2D; F(5/27) = 0.57; p b 0.05
+
+Fig. 3. TDCS induces neurogenesis in the subventricular zone (SVZ). A) After 10 days of anodal (left) or cathodal (middle) tDCS, DCX+ neuroblasts were increased in the SVZ compared to
+sham-treated animals (right; scale = 100 μm). B) Anodal and cathodal tDCS signiﬁcantly increased DCX-positive neuroblasts in the SVZ ipsilateral to stimulation (*p b 0.05).
+
+132
+
+R. Braun et al. / Experimental Neurology 279 (2016) 127–136
+
+[LSD]). However, the presence or polarity of tDCS did not affect the extent of proliferation in the SVZ as judged by [18F]FLT-PET (Fig. 2D).
+The effects of tDCS on neurogenesis were assessed ex vivo by staining for DCX-positive neuroblasts 17 days after stroke (Fig. 3A). The area
+covered by neuroblasts in the SVZ ipsilateral to ischemia were increased
+after both anodal and cathodal tDCS, compared to sham-stimulated
+controls (F(5/243) = 7.06; p b 0.05 [LSD]), while the contralateral SVZ
+was unaffected (Fig. 3A&B). In the dentate gyrus of the hippocampus,
+tDCS had no effect on neurogenesis after stroke (Fig. 3C).
+We furthermore analyzed the effect of tDCS on NG2-positive oligodendrocyte precursors (Fig. 4A). The NG2-immunoreactive area bordering the ischemic lesion was widened after cathodal tDCS (Fig. 4A&B;
+F(2/120) = 13.15; p b 0.01 [HSD]), suggesting enhanced migration of
+oligodendrocyte precursors towards the lesion. In line with this ﬁnding,
+the number of oligodendrocyte precursors in the SVZ was reduced after
+cathodal tDCS (Fig. 4C; F(2/81) = 2.71; p b 0.05 [LSD]).
+3.3. Effects of tDCS on neuroinﬂammation
+To visualize neuroinﬂammatory processes in vivo, [11C]PK11195PET was performed in n = 5 animals. Sixteen days after stroke, accumulation of [11C]PK11195 was pronounced in two areas, (i) the ischemic lesion itself, and (ii) the ipsilateral thalamus, representing inﬂammatory
+processes accompanying secondary degeneration (Fig. 5A). Immunohistochemistry veriﬁed the same areas to contain Iba1-positive activated microglia (Fig. 5B). The size of the Iba1-immunoreactive
+infarct area – assessed in relation to the individual infarct size –
+was increased after cathodal tDCS (Fig. 5C; F(2/51) = 3.38;
+p b 0.05 cmp. to anodal tDCS [HSD]). However, tDCS had no effect
+on the number of microglia in the corpus callosum adjacent to the
+
+ischemic lesion (F(2/72) = 0.29; p = 0.74), or in the ventral posterolateral nucleus (VPL) of the thalamus (F(2/72) = 0.32; p = 0.73;
+Fig. 5D).
+To explore the effect of tDCS on the polarization of microglia,
+areas covered by iNOS-positive M1-polarized microglia (Fig. 6A), or
+CD206-positive M2-polarized microglia (Fig. 6B), were assessed in
+relation to the size of the individual ischemic lesion. Cathodal tDCS
+signiﬁcantly increased the M1-polarization of microglia (F(2/
+37) = 3.09; p b 0.05 [HSD]), while M2-polarized microglia were unaffected by tDCS (Fig. 6C; F(2/17) = 0.57; p = 0.58). Thus, the ratio
+between M1- and M2-polarized microglia was slightly elevated after
+cathodal tDCS, albeit not to a statistically signiﬁcant extent (Fig. 6D;
+F(2/17) = 0.64; p = 0.54).
+4. Discussion
+Although recent stroke research has produced many novel therapeutic approaches for cerebral ischemia and its sequelae, the majority
+have failed in clinical studies (O'Collins et al., 2006) resulting in a ‘translational roadblock in stroke research’ (Dirnagl et al., 2013). Suggestions
+on how to overcome this roadblock have been made in internationally
+concerted efforts (Dirnagl et al., 2013; Fisher et al., 2009). Speciﬁcally,
+guidelines for the use of “Stem Cell Therapeutics as an Emerging Paradigm for Stroke” (STEPS) have been deﬁned for the use of stem cells
+in regeneration (Diamandis and Borlongan, 2015; Savitz et al., 2014).
+Recommendations include, among other measures, an obligatory deﬁnition of inclusion- and exclusion criteria, randomization of experimental animals to treatment groups, and a blinded assessment of treatment
+outcome (Fisher et al., 2009). Other important requirements for successful translation into clinical practice are longitudinal pre-clinical
+
+Fig. 4. Cathodal tDCS mobilizes oligodendrocyte precursors towards the ischemic lesion. A) NG2+ oligodendrocyte precursors migrated towards the ischemic lesion and accumulated in
+the infarct demarcation zone 17 days after stroke (scale = 1 mm). B) Migrating NG2+ cells were quantiﬁed by measuring the width of the NG2-immunoreactive area in the demarcation
+zone in relation to the individual infarct volume. Rats subjected to cathodal tDCS displayed a signiﬁcantly larger NG2+ zone. C) In the SVZ, the number of NG2+ oligodendrocyte
+precursors was signiﬁcantly decreased after cathodal tDCS (all values given as mean ± SEM; *p b 0.05, **p b 0.01).
+
+R. Braun et al. / Experimental Neurology 279 (2016) 127–136
+
+studies that evaluate therapeutic efﬁcacy via clinically relevant read-out
+parameters (Walberer and Rueger, 2015). Our longitudinal study adheres to these guidelines for preclinical stroke studies, including clinical
+and in vivo readout (imaging) parameters, thereby providing comprehensive insights into the behavioral as well as neurobiological effects
+of tDCS in stroke rehabilitation.
+Despite the widespread use of tDCS in human studies on stroke rehabilitation, few studies have determined its behavioral effects in the
+experimental animal. Notably, in the rodent, spontaneous functional recovery after stroke occurs more rapidly than in humans, making it more
+challenging to demonstrate relevant therapeutic effects of an experimental treatment (Schaar et al., 2010). Modeling tDCS in rodent stroke,
+only marginal effects on behavioral recovery have yet been described
+(Kim et al., 2010; Peruzzotti-Jametti et al., 2013; Yoon et al., 2012).
+Other techniques of non-invasive neurostimulation such as transcranial
+magnetic stimulation (Zhang et al., 2007) and pulsed transcranial ultrasound stimulation (Guo et al., 2015) have been studied even less in rodent stroke, with analogous results on functional recovery as seen with
+tDCS. Our data on tDCS-induced motor recovery in the rat similarly suggests moderate effects; however, the strength of our study lies in
+connecting the polarity-dependent behavioral impact of tDCS with its
+neurobiological mechanisms showing concomitant effects on various
+cell populations in the brain.
+Applying tDCS over the ischemic hemisphere, we observed polaritydependent effects on recovery of motor function. While cathodal tDCS
+led to a recovery of both limb strength and gait, anodally stimulated
+rats regained their gait but did not regain full limb strength as measured
+using a catwalk. Thus, tDCS differentially affected motor functions in a
+polarity-dependent manner. From an electrophysiological point of
+
+133
+
+view, anodal tDCS increases – while cathodal tDCS decreases – neuronal
+excitability (Nitsche and Paulus, 2000). While these polarity-dependent
+changes in excitability occur after a few seconds of stimulation, longer
+sessions of tDCS, like performed in the current study, cause longlasting after-effects. Those after-effects depend on a change of NMDA
+receptor efﬁcacy, which is affected by tDCS-induced polaritydependent modiﬁcations in the intracellular calcium concentration
+(Nitsche et al., 2003). TDCS-induced NMDA receptor signaling, in turn,
+is responsible for the observation that tDCS enhances synaptic plasticity,
+especially long-term potentiation (Monte-Silva et al., 2013; Rohan et al.,
+2015; Stagg and Nitsche, 2011). Corresponding to those ﬁndings from
+human pharmacological studies, Peruzzotti-Jametti et al. were recently
+able to demonstrate a polarity-dependent effect of tDCS on cortical glutamate activity in the experimental animal (Peruzzotti-Jametti et al.,
+2013). Most tDCS studies report a behavioral enhancement after anodal,
+and inhibitory effects resulting from cathodal stimulation (Vallar and
+Bolognini, 2011). However, this constitutes no strict dichotomy, since
+cathodal tDCS has been shown to improve visual perception (Antal
+et al., 2004) and attention (Moos et al., 2012). Our data suggest
+polarity-dependent effects of tDCS on differential aspects of motor function such as posture and strength.
+At the neurobiological level, both anodal and cathodal tDCS induced
+neurogenesis in the SVZ. Since neurogenesis in the SVZ is physiologically enhanced after stroke (R. L. Zhang et al., 2008), data suggest that tDCS
+augments the generation of DCX-positive neuroblasts, independent of
+polarity. Proliferation of NSCs in the SVZ of the rodent brain can be
+assessed by PET and the radiotracer [18F]FLT (Rueger et al., 2010). However, this method is not speciﬁc for NSC, but visualizes all proliferating
+cells including, e.g., the expanding population of microglia after stroke.
+
+Fig. 5. TDCS does not affect levels of microglia activation 16 days after stroke. A) PET with the radiotracer [11C]PK11195 (rainbow scale: SUV; co-registered to MRI in gray) detected
+neuroinﬂammatory processes 16 days after stroke (scale = 1 mm). B) Iba1+ activated microglia were located within the infarct (black arrow) as well as in the thalamus (white
+arrow), corresponding to [11C]PK11195-PET of the same animal depicted as (A). Scale = 1 mm. C) The infarct area covered by activated, Iba1+ microglia – corrected for the size of the
+ischemic lesion – was independent of tDCS. D) The number of Iba1+ microglia in the ipsilateral, but unaffected corpus callosum was unchanged by tDCS. Likewise, Iba1+ microglia in
+the ventral posterolateral nucleus (VPL) of the thalamus were unaffected by tDCS (all values given as means ±SEM).
+
+134
+
+R. Braun et al. / Experimental Neurology 279 (2016) 127–136
+
+R. Braun et al. / Experimental Neurology 279 (2016) 127–136
+
+Double-tracer PET with [11C]PK11195 plus [18F]FLT allows for a distinction between inﬂammatory and other proliferating cells, i.e.
+NSC, in an individual animal (Rueger et al., 2012b; Rueger and
+Schroeter, 2015). In the current study, for the technical reason of
+limited tracer availability, only few animals received double-tracer
+PET with both [ 11 C]PK11195 and [ 18F]FLT. For this reason, we
+refrained from analyzing this PET data beyond qualitative description. Both NSC proliferation and neurogenesis were observed in the
+SVZ ipsilateral, but not contralateral, to ischemia. This is in line
+with a previous report on impaired neurogenesis in the hemisphere
+contralateral to cerebral ischemia (Buga et al., 2008).
+The generation of oligodendrocyte precursors from the SVZ and
+their migration towards the ischemic lesion was increased only
+after cathodal – but not anodal – tDCS. Stimulating the proliferation
+of oligodendrocyte precursors by pharmacological means facilitates
+recovery after stroke by supporting remyelination (Han et al.,
+2015), providing this mechanisms as one possible explanation for
+the beneﬁcial effect of cathodal tDCS. Interestingly, data suggest
+that while tDCS increased the amount of neuroblasts generated in
+the SVZ, it did not affect the number but rather the migration of oligodendrocyte precursors after stroke.
+Previous studies have suggested differentiation of NSCs into oligodendrocytes to be associated with an M2-polarization of microglia
+(Han et al., 2015; Yu et al., 2015). After cathodal tDCS, in contrast we
+observed that migration of oligodendrocyte precursors towards the
+lesion occurred concurrently with an M1-polarization of microglia.
+Thus, our results corroborate ﬁndings by Miron et al. showing that
+M1-macrophages dominate early after demyelination and support
+proliferation and migration of oligodendrocyte precursors, while a
+later M2-polarization induces the terminal differentiation of precursors into mature oligodendrocytes (Miron et al., 2013). Current literature generally associates M1-polarization of microglia with a more
+aggressive, pro-inﬂammatory phenotype, while M2-polarized microglia
+were suggested to act neuroprotectively (Mantovani et al., 2004;
+Orihuela et al., 2015). Counterintuitively, we found cathodal tDCS
+accelerated functional recovery while promoting M1-polarization, suggesting that the relationship between polarization and function in microglia is complex, and corroborating previous ﬁndings that – in
+particular – temporospatial dynamics of microglia polarization after
+stroke play a key role in recovery (Hu et al., 2012). In the current
+study, we did not observe an upregulation of Iba1, iNOS or CD206 by microglia in the unlesioned hemisphere contralateral to ischemia. A recent
+report suggests that MHC-II-expressing microglia migrate to this
+contralesional hemisphere via the corpus callosum, starting about
+4 days after induction of ischemia (Kuric and Ruscher, 2014). Likewise,
+hematogenous immune cells invading the brain after stroke are
+detected in the corpus callosum at around the same time (Wiart et al.,
+2007). Microglia expressing MHC-II are physiologically found in the
+perivascular space, their upregulation after cerebral ischemia involves
+an expansion into unaffected healthy tissue, farther than, e.g., CD68positive phagocytic microglia (Walberer et al., 2010). Interestingly, microglia invasion of the contralateral corpus callosum seems to be associated with enhanced functional recovery (Kuric and Ruscher, 2014),
+suggesting that they might control the aberrant dendritic sprouting in
+the contralesional hemisphere occurring in the weeks after stroke,
+which is associated with poor functional recovery (Jones and
+Schallert, 1992; Wang et al., 2012).
+We here applied tDCS at relatively high charge density of
+128,571 C/m2, while in humans, lower charge densities of ~ 480 C/m2
+are routinely used. Nitsche et al. showed that the strength of tDCS
+after-effects depends on the charge density (Nitsche and Paulus,
+
+135
+
+2000). In this proof-of-principle study, we chose a high charge density
+to amplify the hypothesized effects of tDCS allowing for their characterization. In previous studies, we have demonstrated that the charge density applied here is safe and does not induce lesions (Keuters et al.,
+2015; Rueger et al., 2012a).
+5. Conclusions
+After stroke, anodal and cathodal tDCS both (compared to control)
+exerted positive effects on functional recovery. At the neurobiological
+level, tDCS affected various cellular processes involved in regeneration
+and repair: data show that tDCS modulated neurogenesis, oligodendrocyte precursor recruitment, and microglia polarization, in a polaritydependent way. Thus, tDCS exerts its beneﬁcial behavioral effects
+through multifaceted neurobiological mechanisms that exceed its primary neurophysiological effects. The cellular processes affected by
+tDCS are key events characterizing the subacute and chronic phase of
+stroke, i.e., days and weeks after cerebral ischemia. In this phase, tDCS
+thus boosts functional recovery by facilitating regeneration on the cellular as well as on the structural level.
+Supplementary data to this article can be found online at http://dx.
+doi.org/10.1016/j.expneurol.2016.02.018.
+Acknowledgments
+This work was supported by the ‘Marga und Walter Boll-Stiftung’
+(#210-12-12 and #210-10-15) and the Köln-Fortune-Program/Faculty
+of Medicine, University of Cologne, Germany (106/2012). We thank
+Ms. Claudia Drapatz for excellent technical assistance.
+References
+Antal, A., Nitsche, M.A., Kruse, W., Kincses, T.Z., Hoffmann, K.P., Paulus, W., 2004. Direct
+current stimulation over V5 enhances visuomotor coordination by improving motion
+perception in humans. J. Cogn. Neurosci. 16 (4), 521–527.
+Bindman, L.J., Lippold, O.C., Redfearn, J.W., 1962. Long-lasting changes in the level of the
+electrical activity of the cerebral cortex produced bypolarizing currents. Nature 196,
+584–585.
+Boehm-Sturm, P., Mengler, L., Wecker, S., Hoehn, M., Kallur, T., 2011. In vivo tracking of
+human neural stem cells with 19F magnetic resonance imaging. PLoS One 6 (12),
+e29040.
+Buga, A.M., Sascau, M., Pisoschi, C., Herndon, J.G., Kessler, C., Popa-Wagner, A., 2008. The
+genomic response of the ipsilateral and contralateral cortex to stroke in aged rats.
+J. Cell. Mol. Med. 12 (6B), 2731–2753.
+Camsonne, R., Crouzel, C., Comar, D., Maziere, M., Prenant, C., Sastre, J., Moulin, M.A.,
+Syrota, A., 1984. Synthesis of N-(11C) methyl, N-(methyl-1 propyl), (chloro-2 phenyl)-1 isoquinoleine carboxamide-3 (PK 11195): A new ligand for peripheral benzodiazepine receptors. J. Label. Compd. Radiopharm. 21 (10), 985–991.
+Chopp, M., Li, Y., Zhang, Z.G., 2009. Mechanisms underlying improved recovery of neurological function after stroke in the rodent after treatment with neurorestorative cellbased therapies. Stroke 40, S143–S145.
+Cizek, J., Herholz, K., Vollmar, S., Schrader, R., Klein, J., Heiss, W.D., 2004. Fast and robust
+registration of PET and MR images of human brain. NeuroImage 22 (1), 434–442.
+Diamandis, T., Borlongan, C.V., 2015. One, two, three steps toward cell therapy for stroke.
+Stroke 46 (2), 588–591.
+Dirnagl, U., Hakim, A., Macleod, M., Fisher, M., Howells, D., Alan, S.M., Steinberg, G., Planas,
+A., Boltze, J., Savitz, S., Iadecola, C., Meairs, S., 2013. A concerted appeal for international cooperation in preclinical stroke research. Stroke 44 (6), 1754–1760.
+Fisher, M., Feuerstein, G., Howells, D.W., Hurn, P.D., Kent, T.A., Savitz, S.I., Lo, E.H., 2009.
+Update of the stroke therapy academic industry roundtable preclinical recommendations. Stroke 40 (6), 2244–2250.
+Floel, A., Cohen, L.G., 2010. Recovery of function in humans: cortical stimulation and pharmacological treatments after stroke. Neurobiol. Dis. 37 (2), 243–251.
+Gerriets, T., Stolz, E., Walberer, M., Muller, C., Rottger, C., Kluge, A., Kaps, M., Fisher, M.,
+Bachmann, G., 2004. Complications and pitfalls in rat stroke models for middle cerebral artery occlusion: a comparison between the suture and the macrosphere model
+using magnetic resonance angiography. Stroke 35 (10), 2372–2377.
+Guo, T., Li, H., Lv, Y., Lu, H., Niu, J., Sun, J., Yang, G.Y., Ren, C., Tong, S., 2015. Pulsed transcranial ultrasound stimulation immediately after the ischemic brain injury is neuroprotective. IEEE Trans. Biomed. Eng. 62 (10), 2352–2357.
+
+Fig. 6. Cathodal tDCS affects microglia polarization towards an M1 phenotype. A) M1-polarized, iNOS+ microglia were most pronounced after cathodal tDCS. B) M2-polarized microglia
+was identiﬁed by CD206-staining (both scales = 50 μm). C) The infarct area covered by iNOS+, M1-polarized microglia was signiﬁcantly increased after cathodal tDCS (*p b 0.05). The size
+of the CD206+ area containing M2-polarized microglia was not affected by tDCS. The size of the immunoreactive areas was corrected for the size of the ischemic lesion. D) The ratio
+between M1- and M2-polarized microglia was elevated after cathodal tDCS by trend, albeit not to a statistically signiﬁcant extent (all values given as means ± SEM).
+
+136
+
+R. Braun et al. / Experimental Neurology 279 (2016) 127–136
+
+Han, L., Cai, W., Mao, L., Liu, J., Li, P., Leak, R.K., Xu, Y., Hu, X., Chen, J., 2015. Rosiglitazone
+promotes white matter integrity and long-term functional recovery after focal cerebral ischemia. Stroke 46 (9), 2628–2636.
+Hu, X., Li, P., Guo, Y., Wang, H., Leak, R.K., Chen, S., Gao, Y., Chen, J., 2012. Microglia/macrophage polarization dynamics reveal novel mechanism of injury expansion after
+focal cerebral ischemia. Stroke 43 (11), 3063–3070.
+Hummel, F., Celnik, P., Giraux, P., Floel, A., Wu, W.H., Gerloff, C., Cohen, L.G., 2005. Effects
+of non-invasive cortical stimulation on skilled motor function in chronic stroke. Brain
+128 (Pt 3), 490–499.
+Jones, T.A., Schallert, T., 1992. Overgrowth and pruning of dendrites in adult rats recovering from neocortical damage. Brain Res. 581 (1), 156–160.
+Keuters, M.H., Aswendt, M., Tennstaedt, A., Wiedermann, D., Pikhovych, A., Rotthues, S.,
+Fink, G.R., Schroeter, M., Hoehn, M., Rueger, M.A., 2015. Transcranial direct current
+stimulation promotes the mobility of engrafted NSCs in the rat brain. NMR Biomed.
+28 (2), 231–239.
+Kim, S.J., Kim, B.K., Ko, Y.J., Bang, M.S., Kim, M.H., Han, T.R., 2010. Functional and histologic
+changes after repeated transcranial direct current stimulation in rat stroke model.
+J. Korean Med. Sci. 25 (10), 1499–1505.
+Kuric, E., Ruscher, K., 2014. Dynamics of major histocompatibility complex class IIpositive cells in the postischemic brain—inﬂuence of levodopa treatment.
+J. Neuroinﬂammation 11, 145.
+Machulla, H.J., Blocher, A., Kuntzsch, M., Piert, M., Wei, R., Grierson, J.R., 2000. Simpliﬁed
+labeling approach for synthesizing 3′-deoxy-3′-[18F]ﬂuorothymidine ([18F]FLT).
+J. Radioanal. Nucl. Chem. 243 (3), 843–846.
+Mantovani, A., Sica, A., Sozzani, S., Allavena, P., Vecchi, A., Locati, M., 2004. The chemokine
+system in diverse forms of macrophage activation and polarization. Trends Immunol.
+25 (12), 677–686.
+Miron, V.E., Boyd, A., Zhao, J.W., Yuen, T.J., Ruckh, J.M., Shadrach, J.L., van Wijngaarden, P.,
+Wagers, A.J., Williams, A., Franklin, R.J., ffrench-Constant, C., 2013. M2 microglia and
+macrophages drive oligodendrocyte differentiation during CNS remyelination. Nat.
+Neurosci. 16 (9), 1211–1218.
+Monte-Silva, K., Kuo, M.F., Hessenthaler, S., Fresnoza, S., Liebetanz, D., Paulus, W., Nitsche,
+M.A., 2013. Induction of late LTP-like plasticity in the human motor cortex by repeated non-invasive brain stimulation. Brain Stimul. 6 (3), 424–432.
+Monti, A., Cogiamanian, F., Marceglia, S., Ferrucci, R., Mameli, F., Mrakic-Sposta, S., Vergari,
+M., Zago, S., Priori, A., 2008. Improved naming after transcranial direct current stimulation in aphasia. J. Neurol. Neurosurg. Psychiatry 79 (4), 451–453.
+Moos, K., Vossel, S., Weidner, R., Sparing, R., Fink, G.R., 2012. Modulation of top-down control of visual attention by cathodal tDCS over right IPS. J. Neurosci. 32 (46),
+16360–16368.
+Nitsche, M.A., Paulus, W., 2000. Excitability changes induced in the human motor cortex
+by weak transcranial direct current stimulation. J. Physiol. 527 (Pt 3), 633–639.
+Nitsche, M.A., Fricke, K., Henschke, U., Schlitterlau, A., Liebetanz, D., Lang, N., Henning, S.,
+Tergau, F., Paulus, W., 2003. Pharmacological modulation of cortical excitability shifts
+induced by transcranial direct current stimulation in humans. J. Physiol. 553 (Pt 1),
+293–301.
+O'Collins, V.E., Macleod, M.R., Donnan, G.A., Horky, L.L., van der Worp, B.H., Howells, D.W.,
+2006. 1,026 experimental treatments in acute stroke. Ann. Neurol. 59 (3), 467–477.
+Orihuela, R., McPherson, C.A., Harry, G.J., 2015. Microglial M1/M2 Polarization and Metabolic States Br J Pharmacol.
+Peruzzotti-Jametti, L., Cambiaghi, M., Bacigaluppi, M., Gallizioli, M., Gaude, E., Mari, S.,
+Sandrone, S., Cursi, M., Teneud, L., Comi, G., Musco, G., Martino, G., Leocani, L., 2013.
+Safety and efﬁcacy of transcranial direct current stimulation in acute experimental ischemic stroke. Stroke 44 (11), 3166–3174.
+Rohan, J.G., Carhuatanta, K.A., McInturf, S.M., Miklasevich, M.K., Jankord, R., 2015. Modulating hippocampal plasticity with In vivo brain stimulation. J. Neurosci. 35 (37),
+12824–12832.
+Rueger, M.A., Schroeter, M., 2015. In vivo imaging of endogenous neural stem cells in the
+adult brain. World J. Stem Cells 7 (1), 75–83.
+
+Rueger, M.A., Keuters, M.H., Walberer, M., Braun, R., Klein, R., Sparing, R., Fink, G.R., Graf,
+R., Schroeter, M., 2012a. Multi-session transcranial direct current stimulation (tDCS)
+elicits inﬂammatory and regenerative processes in the rat brain. PLoS One 7 (8),
+e43776.
+Rueger, M.A., Muesken, S., Walberer, M., Jantzen, S.U., Schnakenburg, K., Backes, H., Graf,
+R., Neumaier, B., Hoehn, M., Fink, G.R., Schroeter, M., 2012b. Effects of minocycline on
+endogenous neural stem cells after experimental stroke. Neuroscience 215, 174–183.
+Rueger, M.A., Backes, H., Walberer, M., Neumaier, B., Ullrich, R., Simard, M.L., Emig, B.,
+Fink, G.R., Hoehn, M., Graf, R., Schroeter, M., 2010. Noninvasive imaging of endogenous neural stem cell mobilization in vivo using positron emission tomography.
+J. Neurosci. 30 (18), 6454–6460.
+Savitz, S.I., Cramer, S.C., Wechsler, L., 2014. Stem cells as an emerging paradigm in stroke
+3: enhancing the development of clinical trials. Stroke 45 (2), 634–639.
+Schaar, K.L., Brenneman, M.M., Savitz, S.I., 2010. Functional assessments in the rodent
+stroke model. Exp. Transl. Stroke Med. 2 (1), 13.
+Schroeter, M., Dennin, M.A., Walberer, M., Backes, H., Neumaier, B., Fink, G.R., Graf, R.,
+2009. Neuroinﬂammation extends brain tissue at risk to vital peri-infarct tissue: a
+double tracer [(11)C]PK11195- and [(18)F]FDG-PET study. J. Cereb. Blood Flow
+Metab. 29 (6), 1216–1225.
+Sparing, R., Thimm, M., Hesse, M.D., Kust, J., Karbe, H., Fink, G.R., 2009. Bidirectional alterations of interhemispheric parietal balance by non-invasive cortical stimulation.
+Brain 132 (Pt 11), 3011–3020.
+Stagg, C.J., Nitsche, M.A., 2011. Physiological basis of transcranial direct current stimulation. Neuroscientist 17 (1), 37–53.
+Stoll, G., Jander, S., Schroeter, M., 2002. Detrimental and beneﬁcial effects of injuryinduced inﬂammation and cytokine expression in the nervous system. Adv. Exp.
+Med. Biol. 513, 87–113.
+Vallar, G., Bolognini, N., 2011. Behavioural facilitation following brain stimulation: implications for neurorehabilitation. Neuropsychol. Rehabil. 21 (5), 618–649.
+Walberer, M., Rueger, M.A., 2015. The macrosphere model-an embolic stroke model for
+studying the pathophysiology of focal cerebral ischemia in a translational approach.
+Ann. Transl. Med. 3 (9), 123.
+Walberer, M., Rueger, M.A., Simard, M.L., Emig, B., Jander, S., Fink, G.R., Schroeter, M.,
+2010. Dynamics of neuroinﬂammation in the macrosphere model of arterio-arterial
+embolic focal ischemia: an approximation to human stroke patterns. Exp. Transl.
+Stroke Med. 2 (1), 22.
+Wang, Q., Tang, X.N., Yenari, M.A., 2007. The inﬂammatory response in stroke.
+J. Neuroimmunol. 184 (1–2), 53–68.
+Wang, L.E., Tittgemeyer, M., Imperati, D., Diekhoff, S., Ameli, M., Fink, G.R., Grefkes, C.,
+2012. Degeneration of corpus callosum and recovery of motor function after stroke:
+a multimodal magnetic resonance imaging study. Hum. Brain Mapp. 33 (12),
+2941–2956.
+Wiart, M., Davoust, N., Pialat, J.B., Desestret, V., Moucharraﬁe, S., Cho, T.H., Mutin, M.,
+Langlois, J.B., Beuf, O., Honnorat, J., Nighoghossian, N., Berthezene, Y., 2007. MRI monitoring of neuroinﬂammation in mouse focal ischemia. Stroke 38 (1), 131–137.
+Yoon, K.J., Oh, B.M., Kim, D.Y., 2012. Functional improvement and neuroplastic effects of
+anodal transcranial direct current stimulation (tDCS) delivered 1 day vs. 1 week
+after cerebral ischemia in rats. Brain Res. 1452, 61–72.
+Yu, Z., Sun, D., Feng, J., Tan, W., Fang, X., Zhao, M., Zhao, X., Pu, Y., Huang, A., Xiang, Z., Cao,
+L., He, C., 2015. MSX3 switches microglia polarization and protects from inﬂammation-induced demyelination. J. Neurosci. 35 (16), 6350–6365.
+Zhang, X., Mei, Y., Liu, C., Yu, S., 2007. Effect of transcranial magnetic stimulation on the
+expression of c-Fos and brain-derived neurotrophic factor of the cerebral cortex in
+rats with cerebral infarct. J. Huazhong Univ. Sci. Technolog. Med. Sci. 27 (4), 415–418.
+Zhang, R.L., Zhang, Z.G., Chopp, M., 2008. Ischemic stroke and neurogenesis in the
+subventricular zone. Neuropharmacology 55 (3), 345–352.
+
+

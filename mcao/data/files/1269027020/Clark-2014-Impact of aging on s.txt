@@ -1,0 +1,788 @@
+Neurobiology of Aging 35 (2014) 2803e2811
+
+Contents lists available at ScienceDirect
+
+Neurobiology of Aging
+journal homepage: www.elsevier.com/locate/neuaging
+
+Impact of aging on spreading depolarizations induced by focal brain
+ischemia in rats
+Darren Clark a, b, *,1, Ádám Institoris c, Gábor Kozák a, Zsóﬁa Bere c, Ursula Tuor b, d, e,
+Eszter Farkas a, Ferenc Bari a
+a
+
+Department of Medical Physics and Informatics, School of Medicine, University of Szeged, Szeged, Hungary
+Department of Clinical Neurosciences, University of Calgary, Calgary, Canada
+Department of Physiology, University of Szeged, Szeged, Hungary
+d
+Department of Physiology and Pharmacology, University of Calgary, Calgary, Canada
+e
+Department of Radiology, University of Calgary, Calgary, Canada
+b
+c
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 4 February 2014
+Received in revised form 27 May 2014
+Accepted 10 June 2014
+Available online 16 June 2014
+
+Spreading depolarization (SD) contributes to the ischemic damage of the penumbra. Although age is the
+largest predictor of stroke, no studies have examined age dependence of SD appearance. We characterized the electrophysiological and hemodynamic changes in young (6 weeks old, n ¼ 7), middle-aged
+(9 months old, n ¼ 6), and old (2 years old, n ¼ 7) male Wistar rats during 30 minutes of middle cerebral
+artery occlusion (MCAO), utilizing multimodal imaging through a closed cranial window over the
+ischemic cortex: membrane potential changes (with a voltage-sensitive dye), cerebral blood volume
+(green light reﬂectance), and cerebral blood ﬂow (CBF, laser-speckle imaging) were observed. The initial
+CBF drop was similar in all groups, with a signiﬁcant further reduction during ischemia in old rats (p <
+0.01). Age reduced the total number of SDs (p < 0.05) but increased the size of ischemic area displaying
+prolonged SD (p < 0.01). The growth of area undergoing prolonged SDs positively correlated with the
+growth of ischemic core area (p < 0.01) during MCAO. Prolonged SDs and associated hypoperfusion likely
+compromise cortical tissue exposed to even a short focal ischemia in aged rats.
+Ó 2014 Elsevier Inc. All rights reserved.
+
+Keywords:
+Middle cerebral artery occlusion
+Peri-infarct depolarization
+Inverse neurovascular coupling
+Voltage-sensitive dye
+Multimodal imaging
+
+1. Introduction
+Ischemic stroke is a main contributor to disability worldwide
+and a leading cause of death (Chen et al., 2010). Stroke symptoms
+may appear at any age, but the vast majority of patients are aged.
+Sixty-ﬁve percent of patients who suffered stroke are more than
+65 years, and the mean age of stroke is 71 years in the United
+States (Fonarow et al., 2010). Elderly patients have higher mortality and worse functional outcome because of comorbidities,
+lower regenerative capacity, and age-related cardiovascular
+dysfunction (Allen and Bayraktutan, 2008; Fonarow et al., 2010;
+Knoﬂach et al., 2012; Ungvari et al., 2010; Weimar et al., 2004).
+
+* Corresponding author at: Department of Medical Physics and Informatics,
+School of Medicine, University of Szeged, Korányi Fasor 9, Szeged H-6720, Hungary.
+Tel./fax: (þ36) 62545077.
+E-mail address: dlclark@ualberta.ca (D. Clark).
+1
+Present address: Department of Clinical Neurosciences, University of Calgary,
+4D61 TRW Bldg, Calgary, Alberta T2N4Z6, Canada.
+0197-4580/$ e see front matter Ó 2014 Elsevier Inc. All rights reserved.
+http://dx.doi.org/10.1016/j.neurobiolaging.2014.06.013
+
+A major clinical study showed that the conversion of ischemic
+tissue into infarction is accelerated with age (Ay et al., 2008; Copen
+et al., 2001), and this observation was repeated in an experimental
+stroke model in rats (Petcu et al., 2008).
+Spreading depolarization (SD) is a sustained dramatic loss of
+cellular membrane potential, which disrupts cellular and extracellular ion homeostasis, causes cellular swelling, and requires
+tremendous energy from the cell to restore its normal ion balance
+and membrane potential. Normally, the increased metabolites
+required to supply this energy are provided by elevated local
+cerebral blood ﬂow (CBF) mediated via an intact neurovascular
+coupling. SD events commonly appear in regions surrounding
+focal ischemia (Hossmann, 1996). When SDs inundate metabolically compromised tissue, they can promote total cellular energy
+collapse, exacerbating ischemic damage and contributing to early
+brain infarct development (Dijkhuizen et al., 1999).
+SDs during ischemia are associated with various types of hemodynamic responses that are largely dependent on the distance
+from the ischemic core and on the animal species studied (Ayata
+et al., 2004; Luckl et al., 2009; Shin et al., 2006; Strong et al.,
+
+2804
+
+D. Clark et al. / Neurobiology of Aging 35 (2014) 2803e2811
+
+2007). When SDs are coupled with sustained hypoperfusion (the
+underlying mechanism termed inverse neurovascular coupling) in
+areas closer to the core, this reduction of local blood ﬂow superimposed on ischemia is suggested to contribute to SD-related injury
+(Shin et al., 2006). In clinical studies, the frequency of SDs and the
+concomitant inverse hemodynamic response highly correlated
+with mortality and poor neurologic outcome after ischemic brain
+damage, traumatic brain injury, and subarachnoid hemorrhage
+(Dohmen et al., 2008; Dreier et al., 2009; Fabricius et al., 2006). No
+clinical study has systematically investigated the relationship between depolarization events, hemodynamic responses, and age.
+Previously, we have shown that topical potassium (Kþ) elicits fewer
+recurrent SDs in the cortex of healthy aged rats compared with
+young rats (Farkas et al., 2011). Considering the high incidence of
+stroke in elderly patients and the importance of SDs in the pathophysiology of stroke, we identiﬁed and described the emerging SDs
+and the coupled local CBF changes in a large ischemic area of young,
+middle-aged, and old rats during and after a short transient middle
+cerebral artery occlusion (tMCAO). As age broadly impacts neurovascular health, we expected that the appearance and length
+(transient or prolonged) of spontaneous SDs and the accompanying
+hemodynamic response during ischemia differ with age. We used a
+multimodal imaging technique combined with a unique custommade matrix analysis of the recorded signal over a large ﬁeld of
+the parietal cortex including parts of the ischemic core (<20% of
+baseline CBF) and the penumbra (20%e60% of baseline CBF).
+2. Materials and methods
+2.1. Surgical procedures
+Procedures were approved by the Ethical Committee for Animal
+Care at the University of Szeged. Detailed descriptions of similar
+surgical preparations were previously published (Clark et al., 2012;
+Farkas et al., 2008), with modiﬁcations. Male Wistar rats of 3 age
+groups were compared: young (6 weeks, n ¼ 7), middle-aged
+(9 months, n ¼ 6), and old (2 years [23e25 months], n ¼ 7). Rats
+were anesthetized with halothane (2.5% during surgery and 1.5%
+during imaging) in N2O:O2 (2:1), and animals were allowed to
+breath spontaneously throughout the experiment. To avoid the
+production of airway mucus, rats were pretreated with 0.05 mL
+atropine (0.1%) intramuscularly. Body temperature was maintained
+at 37.0  0.2  C with a servo-regulated heating pad, and the tail
+artery was cannulated for monitoring of mean arterial blood
+pressure.
+Both common carotid arteries were delicately separated from
+the surrounding tissue, including the vagal nerve, through a
+midline incision in the neck. A long silk suture was placed around
+each artery. Rats were transferred to a stereotactic frame and ﬁxed
+in the prone position. A cranial window (w4  4 mm) was prepared
+over the right parietal cortex. A second smaller window (2  2 mm)
+was drilled on the temporal bone over the distal MCA. In both cases,
+the bone was carefully thinned using a water-cooled drill (Technobox, Bien Air 810) and gently peeled away to reveal the dural
+surface. A ring of dental cement was built around the edge of the
+parietal craniotomy, incorporating a sealed inlet and outlet tubes.
+The resultant chamber was ﬁlled with artiﬁcial cerebrospinal ﬂuid
+(aCSF, 126.6 NaCl, 3KCl, 1.5 CaCl2, 1.2 MgCl2, 24.5 NaHCO3, 6.7 urea,
+and 3.7 glucose [with concentrations in millimolar], bubbled with
+95% O2 and 5% CO2 to achieve a constant pH of 7.45), and the dura
+was gently dissected. The window was then sealed with a ﬁtted
+glass coverslip, using 2-component glue (UHU GmbH & Co, KG,
+Bühl, Germany). The closed window was continuously perfused
+with aCSF at a rate of 25 mL per minute, unless otherwise speciﬁed.
+In the lateral window, only a small slice of dura was gently removed
+
+over the trunk of the distal MCA, to allow access for clipping of the
+vessel. The temporal window was kept moist with warmed aCSF.
+2.2. Experimental paradigm and ischemia induction
+The cortical tissue underlying the closed cranial window was
+loaded with a voltage-sensitive (VS) dye (RH-1838; Optical Imaging
+Ltd, Rehovot, Israel), as described in detail elsewhere (Farkas et al.,
+2010). This dye binds to the cell membrane and increases in ﬂuorescence in response to reduced cellular transmembrane potential
+(Grinvald and Hildesheim, 2004). The VS-dye concentration was
+adjusted in such a way that, after 20 dilution, the optical density
+measured at 580 nm with a spectrophotometer was between 0.110
+and 0.130 (Farkas et al., 2008). Diluted VS dye in aCSF was circulated
+over the exposed cortex (80 mL per minute) for 1 hour, followed by
+an aCSF rinsing for 1 hour. A laser diode, a green light-emitting
+diode (LED) light source, and 2 charge coupled device cameras
+were set up for multimodal imaging. The experimental paradigm is
+shown in Fig. 1A. Image acquisition was initiated, and a 10-minute
+baseline period was recorded. To induce focal cerebral ischemia of
+the cortex, a small microaneurysm clip was placed (Sundt AVM
+Microclip, Codman) gently around the most proximal branch of the
+distal MCA visible through the temporal craniotomy. Immediately
+after the application of the clip, both common carotid arteries were
+transiently occluded by gently pulling on the long silk sutures
+looped around them until a small tension was detected. The sutures
+were secured in place. After a period of 30 minutes, the microclip
+was removed and both carotid sutures were released to allow for
+reperfusion. Images were captured for an additional hour, after
+which rats were euthanized by an injection of a 5-mL bolus of air
+into the tail artery that stopped the heart. Ten minutes of biologic
+zero were recorded for all parameters after death.
+2.3. Multimodal imaging of the cortex
+A multimodal imaging system, developed in our laboratory and
+described in detail in the earlier publications (Farkas et al., 2008,
+2010), was used to investigate changes in cellular membrane potential, using a VS dye, and associated hemodynamic responses in
+the cortical area of interest. To capture VS ﬂuorescence images, the
+cortical surface was illuminated with a ﬂashing (1-Hz, 100-ms
+pulse length) red high-power LED (625 nm peak wavelength,
+SLS-0307_A; Mightex Systems, Pleasanton, CA, USA) ﬁtted with a
+620- to 640-nm excitation ﬁlter (3RD620-640; Omega Optical Inc,
+Brattleboro, VT, USA). Regional changes in CBF were assessed with
+laser-speckle contrast imaging: the cortex was intermittently
+illuminated with a laser diode (Sanyo DL7140-201S, 70 mW, 736
+nm emission wavelength), and CBF maps were calculated from the
+obtained raw speckle images as previously described (Obrenovitch
+et al., 2009). Intrinsic optical signal (IOS) was investigated by
+recording the reﬂected light evoked under 540e550 nm green
+high-power LED illumination (pulse length: 100 ms). At this
+wavelength, the molar extinction coefﬁcients of both oxyhemoglobin and deoxyhemoglobin are similar; so, the IOS primarily
+indicates changes in local cerebral blood volume, independent of
+oxygen saturation (Farkas et al., 2008). However, green IOS is also
+altered by changes in extracellular volume associated with SD
+(Ba et al., 2002; Dahlem and Hanke, 2005). The different LEDs and
+the laser diode were arranged around the cranial window in such a
+way as to ensure homogeneous illumination across the ﬁeld of
+view with each light source.
+Images of the cortex were captured at an effective frame rate of 1
+Hz using 2 monochrome charge coupled device cameras (1024 
+1024 pixel max resolution; Pantera 1M30, DALSA, Gröbenzell,
+Germany), as described in Farkas et al. (2010). Both cameras were
+
+D. Clark et al. / Neurobiology of Aging 35 (2014) 2803e2811
+
+2805
+
+Fig. 1. (A) Experimental paradigm showing the protocol for voltage-sensitive (VS) dye loading and data acquisition. (B) The position of a region of interest (ROI, 3  3 pixels ¼ 7.42 
+7.42 mm) illustrated in an image under green light illumination (540e550 nm). The ROI was positioned in the frontolateral area of the window for single-point analysis of
+multimodal imaging. (C) Temporal appearance of spreading depolarizations (SDs) in the young, middle-aged, and old groups during the 30-minute ischemia and after 30 minutes of
+reperfusion. SD events were visually collected from multimodal images. (D) Representative traces of a transient and a prolonged SD, as indicated by changes in the VS-dye signature,
+green intrinsic optical signal (IOS) intensity, and the coupled cerebral blood ﬂow (CBF) recorded during ischemia. The VS-dye signal and the green IOS signal are expressed as relative
+gray-level changes from baseline in percentage and CBF changes as relative perfusion unit change from baseline in percentage. Extraction of biologic zero value from the green IOS
+reversed the trace shown here compared with the original recordings. Abbreviations: tMCAO, transient middle cerebral artery occlusion; 2VO, 2-vessel occlusion.
+
+attached to a stereomicroscope by a 1:1 binocular/video-tube beam
+splitter (MZ12.5; Leica Microsystems, Wetzlar, Germany). The image was magniﬁed 3.15, and the resultant ﬁeld of view was 3.8 
+3.8 mm. Image resolution was reduced to 512  512 pixels for each
+parameter, after binning; so, each pixel represented a 7.42  7.42
+mm area of the cortical surface.
+2.4. Data analysis of optical images
+According to previously established methods (Farkas et al.,
+2010; Obrenovitch et al., 2009), we ﬁrst identiﬁed SDs and evaluated how they were coupled with changes in local CBF by the
+assessment and simultaneous (termed single point) analysis of the
+VS dye, green IOS, and CBF traces of a small region of interest (ROI,
+size 3  3 pixels) of the parietal cortex (Fig. 1B). To quantitatively
+track the spatial features of the membrane potential and hemodynamic events over the cortical surface, the whole ﬁeld of view
+under the cranial window was analyzed (termed whole-ﬁeld
+analysis) (Supplementary Fig. 1), in addition to single-point ROI
+analysis. For the details of single-point and whole-ﬁeld analyses of
+multimodal recordings, see Supplementary Materials and
+Methods and Supplementary Fig. 1. In short, we identiﬁed and
+classiﬁed SDs as transient SDs (<200 seconds, but typically
+80e100 seconds long depolarization-repolarization period) or
+prolonged (>200 seconds of depolarization plateau with no
+repolarization) SDs. Representative traces of the single-point
+analysis of the membrane potential (VS dye signature), green
+
+IOS, and CBF changes of a transient and a prolonged SD are shown
+on Fig. 1D.
+Relative CBF changes associated with tMCAO were analyzed over
+the parenchyma by categorizing the pixels of the analyzed ﬁeld of
+view based on the rate of CBF drop. The total areas where CBF
+dropped to 0%e20%, 20%e60%, or >60% of the pre-ischemic baseline CBF were determined (Fig. 2A and B). We deﬁned area with
+<20% of baseline CBF as ischemic core, considered to be below the
+“viability threshold” of the brain tissue (Hoehn-Berlage et al., 1995;
+Hossmann, 1994; Shin et al., 2006) leading to neuronal death. Areas
+with 20%e60% of baseline CBF were deemed the ischemic penumbra, and regions with CBF >60% of baseline were referred to as
+oligemic areas, where the affected tissue is not at risk of infarction
+(Baron, 2001).
+2.5. Statistics
+Parametric data are presented as mean  standard deviation or
+mean  standard error (depending on which presentation was most
+appropriate for the data), and nonparametric data (total number of
+SDs) are shown as median and quartiles. Group differences in the
+total number of SDs were analyzed using Kruskal-Wallis analysis of
+variance (ANOVA) on ranks followed by Student-Newman-Keuls
+post hoc comparison by the program Statistical Package for the
+Social Sciences (SPSS; SPSS Inc, www.spss.com). The relative sizes
+of transient and prolonged SD area to total area between the groups
+were compared with 1-way ANOVA followed by Fisher least
+
+2806
+
+D. Clark et al. / Neurobiology of Aging 35 (2014) 2803e2811
+
+signiﬁcant difference post hoc testing. For the comparison of initial
+and ﬁnal CBF values among the groups, we used a repeatedmeasures ANOVA paradigm followed by least signiﬁcant difference post hoc test. Pearson linear correlation test was applied to
+evaluate the relationship between the relative size of transient
+and prolonged SD area and the expansion of severely ischemic
+area during ischemia. Signiﬁcance was considered when p < 0.05,
+and signiﬁcance level for each ﬁnding was denoted as * p < 0.05 and
+** p < 0.01 for all analyses.
+
+3. Results
+3.1. CBF changes during tMCAO
+Repeated-measures ANOVA revealed an overall signiﬁcant
+interaction between age, size of CBF ranges, and time period
+during ischemia (p ¼ 0.012). In the young group, the relative size
+of the ischemic penumbra (76.9%  3.9%) was the largest in the
+cortical parenchyma immediately after tMCAO, and the ischemic
+core region was minor (9.2%  5.2%, Fig. 2A). Surprisingly, the
+better perfused oligemic area (>60% perfusion) was more represented at the start of ischemia in the middle-aged and old groups
+(30.3%  10.0% and 32.0%  12.2%, respectively) with respect to the
+young group (16.0%  4.7%, Fig. 2A). The perfusion pattern was
+reorganized toward the end of the ischemic period. Whereas the
+extension of the oligemic area increased in the young and middleaged groups to 33.5%  9.3% and 40.6%  7.6%, respectively, the
+share of this area markedly decreased in the old group to 13.3% 
+9.5%. Inversely, the ratio of ischemic core areas (<20% of baseline
+
+CBF) decreased in the young (from 9.2%  5.2% to 0.7%  0.4%) and
+middle-aged (from 13.6%  8.0% to 1.5%  1.3%) groups and
+remarkably increased in the old group (from 14.4%  8.6% to 49.8%
+ 15.7%) (data are mean  standard error) (Fig. 2A and B).
+
+3.2. Frequency and spatial expansion of transient and prolonged
+SDs during and after tMCAO
+In Fig. 1C, we marked the appearance of all SDs on a 60-minute
+time scale (30 minutes tMCAO and 30 minutes early reperfusion).
+A total of 59 SDs were captured during the full recording time in
+the 20 rats (young n ¼ 28, middle-aged n ¼ 18, old n ¼ 13); 52 SDs
+occurred during ischemia, and only 7 SDs evolved during reperfusion. No spontaneous SDs were detected during the 10-minute
+baseline recording. Most SDs appeared in the ﬁrst 10 minutes of
+tMCAO with similar frequency in all groups (young n ¼ 10, middleaged n ¼ 9, old n ¼ 8). We counted the number of SD events per
+animal in all age groups. Young (q1 ¼ 4, median ¼ 4, q3 ¼ 4.75) and
+middle-aged rats (q1 ¼ 3, median ¼ 3.5, q3 ¼ 4) had signiﬁcantly
+more SDs than old rats (q1 ¼ 1, median ¼ 2, q3 ¼ 2.75) during the
+30-minute ischemia and during the 60-minute reperfusion period
+(Fig. 3A). SDs were classiﬁed as either transient or prolonged, as
+speciﬁed earlier. Importantly, we never found subsequent SD
+events after the evolution of a prolonged SD in a particular area.
+Next, we determined the relative size of the area where transient and prolonged SDs appeared during ischemia. There was no
+statistical difference in the size of the vessel-free surface area used
+for analysis between the experimental groups (young 2.6  0.6
+mm2, middle aged 2.2  0.6 mm2, old 2.9  1.5 mm2). The
+
+Fig. 2. (A) The size of areas with different ranges of relative cerebral blood ﬂow (CBF) at the initial and ﬁnal periods of transient middle cerebral artery occlusion (tMCAO) expressed
+as the percentage of baseline CBF before ischemia (mean  standard error of mean). Values are given for 2 distinct time points: initial (30 seconds immediately after MCA clipping)
+and ﬁnal (30 seconds immediately preceding MCA release). For statistical comparison, repeated-measures analysis of variance was used followed by Fisher least signiﬁcant difference post hoc test. * p < 0.05, ** p < 0.01: young and middle-aged groups versus old group. (B) Representative color-coded spatial maps of relative CBF over the parietal cortical
+parenchyma of young, middle-aged, and old rats at the initial and ﬁnal 30 seconds of tMCAO. The color scale bar labels of CBF reduction from baseline in various percentage ranges.
+The large pial vessels are labeled with black and were excluded from the analysis.
+
+D. Clark et al. / Neurobiology of Aging 35 (2014) 2803e2811
+
+percentage of the surface area involved in the evolution of SD (total
+SD area during tMCAO) was also similar in young (98%  20%),
+middle-aged (87%  15%), and old (87%  15%) rats and was independent of the total number of SDs. Note that some regions that
+underwent a prolonged SD had been exposed to a transient SD
+earlier during the period of ischemia.
+The percentage of the area invaded by transient SDs appeared
+remarkably larger in young and middle-aged rats (91%  5% and
+82%  8%, respectively) compared with old rats (34%  15%)
+(Fig. 3B). Accordingly, the relative area involved in the evolution of
+prolonged SDs was signiﬁcantly larger in the old group (62%  15%)
+than in the young (14%  7%) and middle-aged (17%  12%) groups
+(Fig. 3C).
+3.3. Pattern and direction of SD propagation
+The high spatial and temporal resolution of multimodal imaging allowed us to evaluate the effect of age on the speed of
+propagation, shape of the wave front, and direction of SD propagation. Age did not signiﬁcantly alter the speed of propagation,
+although we did notice a trend with waves traveling at an average
+
+2807
+
+of 2.185  0.283 mm per second in old animals, compared with
+2.812  0.163 and 2.651  0.163 mm per second in the young and
+middle-aged rats, respectively. Depolarization waves were classiﬁed as to whether they propagated as a straight wave front across
+the entire ﬁeld of view or displayed a curved or circulating course
+of propagation sometimes avoiding a speciﬁc bulk of tissue. Older
+animals had a higher proportion of curved waves (71%) compared
+with young (36%) and middle-aged (50%, Fig. 3D) rats.
+Various patterns of wave propagation across the visual ﬁeld of
+view were observed and are depicted in Fig. 3E. Most SDs in young
+and middle-aged rats entered the ﬁeld of view from the frontolateral corner of the window (89% and 80%, respectively), but in
+rare cases, the SD originated within the window and spread outward in a radial fashion (young 7%, middle aged 20%) or entered
+from the medial side of the ﬁeld of view traveling toward the
+lateral side (young 4%, middle aged 0%). The path of SD propagation was more varied in old rats compared with the younger animals. In old rats, some SDs entered from the frontolateral (43%) or
+medial (7%) edge of the window and traveled straight out of the
+ﬁeld of view. In 14% of aged animals, we visualized a split wave
+entering the window from the lateral side, which fused and
+
+Fig. 3. (A) Number of spreading depolarizations (SDs) per animal in young (n ¼ 7), middle-aged (n ¼ 6), and old (n ¼ 7) groups (data are median  quartiles) during and after
+transient middle cerebral artery occlusion. Statistical analysis of variance (ANOVA) on ranks was performed followed by Student-Newman-Keuls post hoc analysis. * p < 0.05. (B)
+Percentage of area showing transient SD to total SD area (mean  standard error). (C) Percentage of area showing prolonged SD (>200 seconds of depolarization plateau) to total SD
+area (mean  standard error). Note that some regions exposed to a prolonged SD may have underwent a transient SD earlier; so, transient and prolonged regions do not add up to
+the 100% of the analyzed area. One-way ANOVA and Student-Newman-Keuls post hoc test were used for statistical comparison. * p < 0.05 and ** p < 0.01. (D) Proportion of straight
+and curved spreading depolarization (SDs) in young (n ¼ 7), middle-aged (n ¼ 6), and old (n ¼ 7) rats. (E) Types and relative frequency of SDs with various directions of propagation.
+Images were taken at green light illumination (540e550 nm). The topography of representative propagation patterns is schematically illustrated by white lines over the images.
+Abbreviations: FL, frontolateral; CM, caudomedial; C, central; out, outwards; M, medial; L, lateral; and C, caudolateral. SD waves propagated (1) from frontolateral to dorsomedial, (2)
+from the center of the window outward, (3) from medial to lateral, (4) from frontolateral to the center of the window then radially outward, or (5) 2 separate split waves spread from
+the lateral corners to fuse and terminate in the center of the window.
+
+2808
+
+D. Clark et al. / Neurobiology of Aging 35 (2014) 2803e2811
+
+Fig. 4. (A) Types of observed spontaneous spreading depolarization (SDs) and the coupled cerebral blood ﬂow (CBF) responses assessed with the single-point analysis of the voltagesensitive dye signature and the laser-speckle contrast trace collected during and after middle cerebral artery occlusion (MCAO). (B) Correlation between the relative size of prolonged SD area and relative change in the size of ischemic core area (i.e., CBF reduced <20% of pre-ischemic baseline CBF during MCAO). (C) Correlation between the relative size of
+transient SD area and relative change in the size of ischemic area. R correlation coefﬁcient, p < 0.01 and p < 0.05, and signiﬁcant linear correlation using Pearson correlation.
+
+terminated in a central region. In many cases, SDs traveled to a
+central point and then outward (43%). The proportion of SDs in
+each group displaying each propagation pattern is indicated in
+Fig. 3E.
+3.4. SDs and coupled CBF responses
+Analysis of a small (w500 mm2) ROI with a conserved location
+in the frontolateral part of the cranial window identiﬁed a very
+similar proportion of transient and prolonged SDs to the wholeﬁeld analysis (only 2 SDs evaded the ROI in 2 middle-aged rat,
+Fig. 4A). The highly common transient SDs (n ¼ 26) were mostly
+coupled with hyperemia (n ¼ 21, 34.5%  14%) or no CBF response
+(n ¼ 5) in the young group. Rare prolonged SDs (n ¼2) were
+coupled with reduced CBF (n ¼ 2, 22.2%  16%) in the young
+group. In the middle-aged group, transient SDs (n ¼ 12) were
+mostly coupled with hyperemia (41.2%  17%) and reduced CBF
+only accompanied 1 transient and the only prolonged SD (30.0%).
+Old rats had a high number of prolonged SDs (n ¼ 7) with a
+notable average CBF decrease of 32.7%  11%. Transient SDs in
+this group (n ¼ 6) were followed by either no (n ¼ 3) or a mild
+increase in CBF (n ¼ 3, 27.0%  12%). All 7 SDs that appeared
+during reperfusion were transient and were coupled with
+hyperemia.
+3.5. Correlation between SD type and the expansion of ischemic
+core
+Statistical correlation between the relative area of prolonged
+SD and the relative size of the ischemic core region (regions
+where CBF was <20% of the pre-ischemic baseline) taken at the
+
+end of tMCAO revealed a signiﬁcant positive correlation (p < 0.01,
+Fig. 4B). At the same time, the relative area of transient SDs was
+inversely associated with the expansion of the ischemic core area
+(p < 0.05, Fig. 4C). In other words, when transient SDs occurred
+over the ﬁeld of view, local CBF improved during the 30-minute
+tMCAO, but when SDs were prolonged, the territory of the
+ischemic core enlarged.
+4. Discussion
+4.1. Major ﬁndings
+We have shown for the ﬁrst time that the ischemic brain of aged
+rats (1) spontaneously generates fewer but often prolonged SDs
+compared with young and middle-aged rats, (2) the appearance of
+prolonged SDs correlates with the progression of severe ischemia,
+and (3) the shape and direction of SDs are highly variable particularly in old rats. The age dependence of these observations is
+conﬁrmed with middle-aged rats, as they showed characteristics
+typical for both the young and aged groups. As discussed subsequently, there are multiple possible factors related to aging that
+would account for these differences.
+4.2. Lower susceptibility of the aged brain to SDs
+The aging brain has a reduced susceptibility to SD elicitation
+as previously demonstrated by our group in a study showing that
+topical Kþ induces less SDs in 10-month-old than in 8-week-old
+rats (Farkas et al., 2011). Here, we used approximately the same
+aged rats (middle-aged group) as in our previous study and
+added a group of senescent rats. When these groups were
+
+D. Clark et al. / Neurobiology of Aging 35 (2014) 2803e2811
+
+exposed to ischemia, a corresponding age-dependent decline was
+observed in the number of spontaneous SDs. A similar trend has
+been described in human studies: young patients with traumatic
+brain injury had more frequent SDs than older patients, although
+the initial origin of damage and the period of monitoring were
+highly variable (Fabricius et al., 2006; Strong et al., 2002). The
+explanation for the general reduced sensitivity of the aged brain
+to generate SD events is unclear. One could speculate that the
+lower neuronal density of the cortex with age is a contributor
+(Knox, 1982). The composition of neurons and glia in the cortex
+may also be a factor: aging leads to a lower number of neurons
+relative to astrocytes in the cortex. SDs causing migraine aura
+tend to appear in the visual cortex, where the relative ratio of
+neurons to astrocytes is the highest (Gonzalez de la Aleja et al.,
+2013). Possibly, the extracellular ion shifts and transmitter
+levels increase more gradually in the rareﬁed old brain. Alternatively, the lower expression and activity of depolarizing ion
+channels on neurons and glia in the aged brain could be a
+contributing factor. Supporting this possibility is the observation
+that both N-methyl D aspartate receptor density and function are
+reduced in aged rats (Dyall et al., 2007; Magnusson et al., 2010). A
+practical explanation for the lower incidence of total SDs is that
+the frequent appearance of prolonged SDs in aged animals
+maintains a sustained depolarized state, and the tissue remains
+refractory to further SD evolution. According to the previous
+observations (Weimer and Hanke, 2005) and prediction analyses
+(Zandt et al., 2013), the susceptibility of the aging brain does not
+correlate with the propagation speed of SD. Similarly, we did not
+ﬁnd a signiﬁcant age-dependent difference in the speed of SD
+propagation. Finally, halothane anesthesia, similar to many other
+anesthetics, exerts neuroprotective effects during ischemia (for
+review, see Matchett et al., 2009) via several pathways that may
+inﬂuence the length and hemodynamic coupling of emerging
+SDs. Halothane also suppresses the susceptibility of the cortex to
+SD (Kudo et al., 2008; Sonn and Mayevsky, 2006), which suggests
+that the difference in SD frequency might be even higher between the age groups in the awake state.
+4.3. Larger area of prolonged SD in aged rats during tMCAO
+In aged rats, we often identiﬁed the appearance of prolonged
+SDs in the penumbra, which our software could reliably follow for
+200 seconds after the beginning of the depolarization plateau
+(hence they were termed “prolonged”). However, our visual
+observation from the single-point measurement suggests that
+these depolarizations were persistent until at least the reperfusion
+of the tissue. First, according to the single-point recordings, prolonged SDs within the VS-dye signature of single pixels rarely
+showed any signs of repolarization, and second, they were never
+followed by another transient SD during the ischemic period, suggesting the prolonged depolarizations were mostly terminal. Our
+technique is also limited, as it does not allow us to quantify the
+absolute potential shift during the appearance of SDs or the precise
+dynamics of transient and prolonged SDs without direct electrophysiological measurements.
+SDs recorded during the 30-minute tMCAO in young and
+middle-aged rats were similar in shape and number to the recordings reported from the previous studies achieving a comparable level of ischemia using either cortical surface injection of
+endothelin-1 or permanent or tMCAO in rats (Hartings et al.,
+2003; Oliveira-Ferreira et al., 2010). We detected only small scattered regions that experienced a prolonged SD during the course of
+ischemia in the younger age groups, suggesting the ability of that
+tissue to repolarize. In contrast, the high incidence and the larger
+area where prolonged SDs appeared in old rats indicate that either
+
+2809
+
+the energy availability of the tissue was lower or the efﬁcacy of ion
+pumps mediating repolarization was decreased.
+In the present study, very few SDs were detected during the
+reperfusion period and those seen were all during the ﬁrst 20 minutes of reperfusion. This is consistent with the previous ﬁndings
+(Hartings et al., 2003) where 2 hours of tMCAO was accompanied
+by multiple SDs during but not in the ﬁrst 6 hours of reperfusion.
+Only 1 hour of reperfusion was monitored in the present study, and
+it is likely that further differences between age groups could be
+characterized at more chronic time points during which time injury
+and recovery processes evolve in the tissue. Also, it is likely that a
+longer period of ischemia (i.e., 60 or 90 minutes) would induce
+more prolonged SDs and instances of inverse hemodynamic
+coupling, even in the young and middle-aged rats, similar to the
+previous observations (Oliveira-Ferreira et al., 2010; Shin et al.,
+2006).
+Overall, although aged rats seem to have fewer SDs than young
+rats, but as discussed subsequently, this likely did not reﬂect the
+adverse metabolic effects on the tissue. Metabolic depletion likely
+depends more on the length of the SDs and the coupled hemodynamic response.
+4.4. Progressive ischemia in aged rats during tMCAO
+In young and middle-aged rats, SDs were most often coupled
+with elevated regional CBF, likely allowing tissue to tolerate and
+recover from the large shift in membrane potential associated with
+SD. Because the cortex exposed to SD was already ischemic, the
+evoked hyperemia could be provided by increased collateral blood
+ﬂow from better perfused regions outside of the observed area. A
+higher dilator capacity of cortical arteries and arterioles might
+provide a better perfusion reserve in the younger age groups. This
+suggests that vasodilator agents were present when depolarization traveled into the tissue. Aged rats were more prone to prolonged SDs, which were always coupled with hypoperfusion. SDrelated vasoconstriction is possible if the bioavailability of vasorelaxants or the baseline enzyme activity/expression is low and a
+drastic elevation of extracellular Kþ promotes vasoconstriction
+(Windmuller et al., 2005). Aged brain in rats exhibits the same
+expression of both endothelial and neuronal nitric oxide (NO)
+synthase as young rats (Liu et al., 2004), and the activity of these
+enzymes was higher in old than young prefrontal cortex (Liu et al.,
+2004). Still, the bioavailability of NO is probably reduced by conversion of NO into nitrosative free radicals in old rats (Mayhan
+et al., 2008; Ungvari et al., 2010). A few studies support the
+concept that SD-coupled hyperemia in the pial vasculature is
+greatly determined by vasodilatory substances released from
+sensory and autonomic nerve endings (for review, see Busija et al.,
+2008). Future studies could unravel whether age-related neurodegeneration in these nerve endings is present or not in the old
+brain that could limit the release of vasorelaxant mediators.
+Alternatively, higher expression of vasoconstrictor molecules (e.g.,
+20-Hydroxyeicosatetraenoic acid (20-HETE), Fordsmann et al.,
+2013) could account for the evolution of inverse neurovascular
+coupling.
+According to a current concept, the initial energy failure associated with the negative potential shift drives the local vasculature
+to constrict, but the subsequent energy deﬁciency induced by this
+ischemic constriction determines how long and how severely
+neurons depolarize, creating a sustained vicious circle of local
+hypoxia and depolarization leading eventually to cell death
+(Dreier, 2011). One could speculate that if initial depolarization
+induces severe ischemia because of the low availability of dilator
+agents in the aged brain, then the energy needed for the tissue to
+repolarize is not provided, thus cells stay in a permanently
+
+2810
+
+D. Clark et al. / Neurobiology of Aging 35 (2014) 2803e2811
+
+depolarized state. Sustained depolarization events can promote
+subsequent neuropathologic processes, such as blood brain barrier
+breakdown by the activation of matrix metalloproteinase-9
+(Gursoy-Ozdemir et al., 2004). Another damaging pathway is
+related to the observation that SD ﬁrst causes depolarization of the
+mitochondria, then a release of free fatty acids and the opening of
+the mitochondrial permeability transition pore, and eventually
+the activation of calcineurin, which plays pivotal role in ischemic
+brain damage (Uchino et al., 2002). Blockage of this pathway was
+shown to reverse post-SD hypoperfusion and prevented subsequent vascular dysfunction in the normoxic brain (Piilgaard et al.,
+2011).
+In our experiments, prolonged SDs and ischemic vasoconstriction appeared simultaneously; so, we cannot ascertain if the early
+depolarization phase or the early ischemic response induced the
+other phenomenon.
+4.5. Different spatial characteristics of ischemic SDs in aged rats
+The variable directions and shape of SD propagation with age
+indicate 2 things. One, the typical straight propagation of SDs from
+frontolateral to caudomedial regions of the brain in the young and
+middle-aged brain indicates that SDs probably originate at the
+border of a compact ischemic core area of the lateral MCA territory.
+This is less the case in the old brains, where the high variability of
+SD directions suggests that multiple SD foci in old rats are scattered
+throughout the parietal cortex or there is an inhomogenous sensitivity of the cortex to SD. When SDs are curved or circulating under
+the cranial window of old rats compared with the typically straight
+direction of an SD in the young, then it is likely a consequence of the
+SD deviating its path as it hits a region that has already been
+depolarized (Nakamura et al., 2010).
+4.6. Green IOS shows both SD-related optical density and
+hemodynamic changes
+Measurement of the green IOS helped to conﬁrm both the
+appearance of SDs and the coupled hemodynamic responses. During a transient SD, the IOS trace showed an early sharp biphasic
+wave simultaneous with the wave on the VS-dye signature followed
+by a broader wave associated with the hyperemic response visible
+on the laser-speckle recording. Prolonged SDs appeared on the
+green IOS as a rapid increase in reﬂectance associated with the early
+depolarization of the tissue followed by a further reduction
+together with the hypoperfusion shown on the laser-speckle trace.
+Green IOS imaging in the normoxic brain has been shown to primarily reﬂect blood volume changes accompanying SD and related
+to an w100% increase of CBF (Ba et al., 2002). In the present study,
+hypoperfused tissue during SD generated CBF changes 30%
+together with a smaller simultaneous green IOS change than in the
+healthy tissue, whereas the earlier IOS changes related to internal
+tissue reﬂectance (e.g., osmotic swelling) were similar in magnitude
+to the subsequent blood-volumeerelated changes. Therefore, IOS
+recorded from the reﬂection of green (540e550 nm) light is a useful
+tool to capture and characterize spontaneous SDs and coupled
+hemodynamic responses emerging during cerebral ischemia.
+4.7. Conclusions
+RRSDs worsen ischemic stress on the brain tissue and expand
+the injured area, most certainly negatively impacting the
+outcome of those suffering stroke, the most susceptible population being the elderly. Characterization of such age-related alterations in neurovascular disease processes improves our
+understanding of fundamental changes of the brain that occur
+
+with senescence. In terms of disease progression, such information underlies the importance of considering the effects of age
+when evaluating the translational aspects of new treatment approaches developed in animal stroke models and treatment
+strategies in elderly humans. The vast majority of preclinical
+neuroprotective studies were performed on young rodents, most
+of which then failed at the clinical stage of testing. Our study
+sheds new light on the importance of brain depolarizations
+during early ischemic stroke suggesting the remarkable role of SD
+in worsening and accelerating tissue ischemia in the aged brain.
+We hope our ﬁndings will encourage stroke researchers investigating other pharmacologic interventions to perform their experiments in aged animals, where early progression of ischemia
+appears to be drastically different from young.
+Disclosure statement
+The authors have no conﬂicts of interest to disclose.
+Acknowledgements
+This study was supported by grants from Norwegian Financial
+Mechanism, grant number NNF-78902, Országos Tudományos
+Kutatási Alapprogramok K81266, ETT375-04, HURO/0901/137/
+2.2.2.HU-RO-TRANS-MED, and HURO/0901/069 HURO-DOCS.
+Further support: European Union and the State of Hungary, coﬁnanced by the European Social Fund in the framework
+of TÁMOP-4.2.4.A/2-11/1-2012-0001 “National Excellence Program.” DC was supported by a Canadian Heart and Stroke
+Fellowship.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.neurobiolaging.
+2014.06.013.
+References
+Allen, C.L., Bayraktutan, U., 2008. Risk factors for ischaemic stroke. Int. J. Stroke 3,
+105e116.
+Ayata, C., Shin, H.K., Salomone, S., Ozdemir-Gursoy, Y., Boas, D.A., Dunn, A.K.,
+Moskowitz, M.A., 2004. Pronounced hypoperfusion during spreading depression in mouse cortex. J. Cereb. Blood Flow Metab. 24, 1172e1182.
+Ay, H., Arsava, E.M., Koroshetz, W.J., Sorensen, A.G., 2008. Middle cerebral artery
+infarcts encompassing the insula are more prone to growth. Stroke 39,
+373e378.
+Ba, A.M., Guiou, M., Pouratian, N., Muthialu, A., Rex, D.E., Cannestra, A.F., Chen, J.W.,
+Toga, A.W., 2002. Multiwavelength optical intrinsic signal imaging of cortical
+spreading depression. J. Neurophysiol. 88, 2726e2735.
+Baron, J.C., 2001. Perfusion thresholds in human cerebral ischemia: historical
+perspective and therapeutic implications. Cerebrovasc. Dis. 11 (Suppl 1), 2e8.
+Busija, D.W., Bari, F., Domoki, F., Horiguchi, T., Shimizu, K., 2008. Mechanisms
+involved in the cerebrovascular dilator effects of cortical spreading depression.
+Prog. Neurobiol. 86, 379e395.
+Chen, R.L., Balami, J.S., Esiri, M.M., Chen, L.K., Buchan, A.M., 2010. Ischemic stroke in
+the elderly: an overview of evidence. Nat. Rev. Neurol. 6, 256e265.
+Clark, D., Tuor, U.I., Thompson, R., Institoris, A., Kulynych, A., Zhang, X.,
+Kinniburgh, D.W., Bari, F., Busija, D.W., Barber, P.A., 2012. Protection against
+recurrent stroke with resveratrol: endothelial protection. PLoS One 7, e47792.
+Copen, W.A., Schwamm, L.H., Gonzalez, R.G., Wu, O., Harmath, C.B., Schaefer, P.W.,
+Koroshetz, W.J., Sorensen, A.G., 2001. Ischemic stroke: effects of etiology and
+patient age on the time course of the core apparent diffusion coefﬁcient.
+Radiology 221, 27e34.
+Dahlem, Y.A., Hanke, W., 2005. Intrinsic optical signal of retinal spreading depression: second phase depends on energy metabolism and nitric oxide. Brain Res.
+1049, 15e24.
+Dijkhuizen, R.M., Beekwilder, J.P., van der Worp, H.B., Berkelbach van der
+Sprenkel, J.W., Tulleken, K.A., Nicolay, K., 1999. Correlation between tissue depolarizations and damage in focal ischemic rat brain. Brain Res. 840, 194e205.
+Dohmen, C., Sakowitz, O.W., Fabricius, M., Bosche, B., Reithmeier, T., Ernestus, R.I.,
+Brinker, G., Dreier, J.P., Woitzik, J., Strong, A.J., Graf, R., 2008. Spreading
+
+D. Clark et al. / Neurobiology of Aging 35 (2014) 2803e2811
+depolarizations occur in human ischemic stroke with high incidence. Ann.
+Neurol. 63, 720e728.
+Dreier, J.P., 2011. The role of spreading depression, spreading depolarization and
+spreading ischemia in neurological disease. Nat. Med. 17, 439e447.
+Dreier, J.P., Major, S., Manning, A., Woitzik, J., Drenckhahn, C., Steinbrink, J., Tolias, C.,
+Oliveira-Ferreira, A.I., Fabricius, M., Hartings, J.A., Vajkoczy, P., Lauritzen, M.,
+Dirnagl, U., Bohner, G., Strong, A.J., 2009. Cortical spreading ischaemia is a novel
+process involved in ischaemic damage in patients with aneurysmal subarachnoid haemorrhage. Brain 132 (Pt 7), 1866e1881.
+Dyall, S.C., Michael, G.J., Whelpton, R., Scott, A.G., Michael-Titus, A.T., 2007. Dietary
+enrichment with omega-3 polyunsaturated fatty acids reverses age-related
+decreases in the GluR2 and NR2B glutamate receptor subunits in rat forebrain. Neurobiol. Aging 28, 424e439.
+Fabricius, M., Fuhr, S., Bhatia, R., Boutelle, M., Hashemi, P., Strong, A.J., Lauritzen, M.,
+2006. Cortical spreading depression and peri-infarct depolarization in acutely
+injured human cerebral cortex. Brain 129 (Pt 3), 778e790.
+Farkas, E., Pratt, R., Sengpiel, F., Obrenovitch, T.P., 2008. Direct, live imaging of
+cortical spreading depression and anoxic depolarisation using a ﬂuorescent,
+voltage-sensitive dye. J. Cereb. Blood Flow Metab. 28, 251e262.
+Farkas, E., Bari, F., Obrenovitch, T.P., 2010. Multi-modal imaging of anoxic depolarization and hemodynamic changes induced by cardiac arrest in the rat cerebral
+cortex. Neuroimage 51, 734e742.
+Farkas, E., Obrenovitch, T.P., Institoris, A., Bari, F., 2011. Effects of early aging and
+cerebral hypoperfusion on spreading depression in rats. Neurobiol. Aging 32,
+1707e1715.
+Fonarow, G.C., Reeves, M.J., Zhao, X., Olson, D.M., Smith, E.E., Saver, J.L.,
+Schwamm, L.H., 2010. Age-related differences in characteristics, performance
+measures, treatment trends, and outcomes in patients with ischemic stroke.
+Circulation 121, 879e891.
+Fordsmann, J.C., Ko, R.W., Choi, H.B., Thomsen, K., Witgen, B.M., Mathiesen, C.,
+Lonstrup, M., Piilgaard, H., MacVicar, B.A., Lauritzen, M., 2013. Increased 20HETE synthesis explains reduced cerebral blood ﬂow but not impaired neurovascular coupling after cortical spreading depression in rat cerebral cortex.
+J. Neurosci. 33, 2562e2570.
+Gonzalez de la Aleja, J., Ramos, A., Mato-Abad, V., Martinez-Salio, A., HernandezTamames, J.A., Molina, J.A., Hernandez-Gallego, J., Alvarez-Linera, J., 2013.
+Higher glutamate to glutamine ratios in occipital regions in women with
+migraine during the interictal state. Headache 53, 365e375.
+Grinvald, A., Hildesheim, R., 2004. VSDI: a new era in functional imaging of cortical
+dynamics. Nat. Rev. Neurosci. 5, 874e885.
+Gursoy-Ozdemir, Y., Qiu, J., Matsuoka, N., Bolay, H., Bermpohl, D., Jin, H., Wang, X.,
+Rosenberg, G.A., Lo, E.H., Moskowitz, M.A., 2004. Cortical spreading depression
+activates and upregulates MMP-9. J. Clin. Invest. 113, 1447e1455.
+Hartings, J.A., Rolli, M.L., Lu, X.C., Tortella, F.C., 2003. Delayed secondary phase of
+peri-infarct depolarizations after focal cerebral ischemia: relation to infarct
+growth and neuroprotection. J. Neurosci. 23, 11602e11610.
+Hoehn-Berlage, M., Norris, D.G., Kohno, K., Mies, G., Leibfritz, D., Hossmann, K.A.,
+1995. Evolution of regional changes in apparent diffusion coefﬁcient during
+focal ischemia of rat brain: the relationship of quantitative diffusion NMR imaging to reduction in cerebral blood ﬂow and metabolic disturbances. J. Cereb.
+Blood Flow Metab. 15, 1002e1011.
+Hossmann, K.A., 1994. Viability thresholds and the penumbra of focal ischemia. Ann.
+Neurol. 36, 557e565.
+Hossmann, K.A., 1996. Periinfarct depolarizations. Cerebrovasc. Brain Metab. Rev. 8,
+195e208.
+Knoﬂach, M., Matosevic, B., Rucker, M., Furtner, M., Mair, A., Wille, G., Zangerle, A.,
+Werner, P., Ferrari, J., Schmidauer, C., Seyfang, L., Kiechl, S., Willeit, J., 2012.
+Functional recovery after ischemic strokeda matter of age: data from the
+Austrian Stroke Unit Registry. Neurology 78, 279e285.
+Knox, C.A., 1982. Effects of aging and chronic arterial hypertension on the cell
+populations in the neocortex and archicortex of the rat. Acta Neuropathol. 56,
+139e145.
+Kudo, C., Nozari, A., Moskowitz, M.A., Ayata, C., 2008. The impact of anesthetics and
+hyperoxia on cortical spreading depression. Exp. Neurol. 212, 201e206.
+
+2811
+
+Liu, P., Smith, P.F., Appleton, I., Darlington, C.L., Bilkey, D.K., 2004. Age-related
+changes in nitric oxide synthase and arginase in the rat prefrontal cortex.
+Neurobiol. Aging 25, 547e552.
+Luckl, J., Zhou, C., Durduran, T., Yodh, A.G., Greenberg, J.H., 2009. Characterization of
+periinfarct ﬂow transients with laser speckle and Doppler after middle cerebral
+artery occlusion in the rat. J. Neurosci. Res. 87, 1219e1229.
+Magnusson, K.R., Brim, B.L., Das, S.R., 2010. Selective vulnerabilities of N-methyl-Daspartate (NMDA) receptors during brain aging. Front Aging Neurosci. 2, 11.
+Matchett, G.A., Allard, M.W., Martin, R.D., Zhang, J.H., 2009. Neuroprotective effect
+of volatile anesthetic agents: molecular mechanisms. Neurol. Res. 31, 128e134.
+Mayhan, W.G., Arrick, D.M., Sharpe, G.M., Sun, H., 2008. Age-related alterations in
+reactivity of cerebral arterioles: role of oxidative stress. Microcirculation 15,
+225e236.
+Nakamura, H., Strong, A.J., Dohmen, C., Sakowitz, O.W., Vollmar, S., Sue, M.,
+Kracht, L., Hashemi, P., Bhatia, R., Yoshimine, T., Dreier, J.P., Dunn, A.K., Graf, R.,
+2010. Spreading depolarizations cycle around and enlarge focal ischaemic brain
+lesions. Brain 133 (Pt 7), 1994e2006.
+Obrenovitch, T.P., Chen, S., Farkas, E., 2009. Simultaneous, live imaging of cortical
+spreading depression and associated cerebral blood ﬂow changes, by combining
+voltage-sensitive dye and laser speckle contrast methods. Neuroimage 45, 68e74.
+Oliveira-Ferreira, A.I., Milakara, D., Alam, M., Jorks, D., Major, S., Hartings, J.A.,
+Luckl, J., Martus, P., Graf, R., Dohmen, C., Bohner, G., Woitzik, J., Dreier, J.P., 2010.
+Experimental and preliminary clinical evidence of an ischemic zone with prolonged negative DC shifts surrounded by a normally perfused tissue belt with
+persistent electrocorticographic depression. J. Cereb. Blood Flow Metab. 30,
+1504e1519.
+Petcu, E.B., Sfredel, V., Platt, D., Herndon, J.G., Kessler, C., Popa-Wagner, A., 2008.
+Cellular and molecular events underlying the dysregulated response of the aged
+brain to stroke: a mini-review. Gerontology 54, 6e17.
+Piilgaard, H., Witgen, B.M., Rasmussen, P., Lauritzen, M., 2011. Cyclosporine A,
+FK506, and NIM811 ameliorate prolonged CBF reduction and impaired neurovascular coupling after cortical spreading depression. J. Cereb. Blood Flow
+Metab. 31, 1588e1598.
+Shin, H.K., Dunn, A.K., Jones, P.B., Boas, D.A., Moskowitz, M.A., Ayata, C., 2006.
+Vasoconstrictive neurovascular coupling during focal ischemic depolarizations.
+J. Cereb. Blood Flow Metab. 26, 1018e1030.
+Sonn, J., Mayevsky, A., 2006. Effects of anesthesia on the responses to cortical
+spreading depression in the rat brain in vivo. Neurol. Res. 28, 206e219.
+Strong, A.J., Fabricius, M., Boutelle, M.G., Hibbins, S.J., Hopwood, S.E., Jones, R.,
+Parkin, M.C., Lauritzen, M., 2002. Spreading and synchronous depressions of
+cortical activity in acutely injured human brain. Stroke 33, 2738e2743.
+Strong, A.J., Anderson, P.J., Watts, H.R., Virley, D.J., Lloyd, A., Irving, E.A., Nagafuji, T.,
+Ninomiya, M., Nakamura, H., Dunn, A.K., Graf, R., 2007. Peri-infarct depolarizations lead to loss of perfusion in ischaemic gyrencephalic cerebral
+cortex. Brain 130 (Pt 4), 995e1008.
+Uchino, H., Minamikawa-Tachino, R., Kristian, T., Perkins, G., Narazaki, M.,
+Siesjo, B.K., Shibasaki, F., 2002. Differential neuroprotection by cyclosporin A
+and FK506 following ischemia corresponds with differing abilities to inhibit
+calcineurin and the mitochondrial permeability transition. Neurobiol. Dis. 10,
+219e233.
+Ungvari, Z., Kaley, G., de Cabo, R., Sonntag, W.E., Csiszar, A., 2010. Mechanisms of
+vascular aging: new perspectives. J. Gerontol. A Biol. Sci. Med. Sci. 65, 1028e1041.
+Weimer, M.S., Hanke, W., 2005. Propagation velocity and triggering threshold of
+retinal spreading depression are not correlated. Exp. Brain Res. 164, 185e193.
+Weimar, C., Konig, I.R., Kraywinkel, K., Ziegler, A., Diener, H.C., 2004. Age and National Institutes of Health Stroke Scale Score within 6 hours after onset are
+accurate predictors of outcome after cerebral ischemia: development and
+external validation of prognostic models. Stroke 35, 158e162.
+Windmuller, O., Lindauer, U., Foddis, M., Einhaupl, K.M., Dirnagl, U., Heinemann, U.,
+Dreier, J.P., 2005. Ion changes in spreading ischaemia induce rat middle cerebral
+artery constriction in the absence of NO. Brain 128 (Pt 9), 2042e2051.
+Zandt, B.J., ten Haken, B., van Putten, M.J., 2013. Diffusing substances during
+spreading depolarization: analytical expressions for propagation speed, triggering, and concentration time courses. J. Neurosci. 33, 5915e5923.
+
+

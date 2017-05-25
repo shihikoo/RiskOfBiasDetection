@@ -1,0 +1,1184 @@
+Journal of Neuroscience Methods 253 (2015) 279–291
+
+Contents lists available at ScienceDirect
+
+Journal of Neuroscience Methods
+journal homepage: www.elsevier.com/locate/jneumeth
+
+Basic Neuroscience
+
+Longitudinal assessment of infarct progression, brain metabolism and
+behavior following anterior cerebral artery occlusion in rats
+Heike Endepols ∗ , Hanna Mertgens, Heiko Backes, Uwe Himmelreich 2 , Bernd Neumaier 1 ,
+Rudolf Graf, Günter Mies
+Max Planck Institute for Neurological Research, Gleueler Str. 50, 50931 Koeln, Germany
+
+h i g h l i g h t s
+•
+•
+•
+•
+•
+
+We established an endothelin-1 model of anterior cerebral artery occlusion (ACAo).
+Autoradiography and PET disclosed transient gradual ischemia of up to 4 h.
+Comparable to abulia in humans, goal-directed executive functions deteriorated.
+In contrast, hyperactivity predominated, if task-related stimuli were absent.
+The model is well suited to study functional impairment and recovery after ACAo.
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 6 July 2014
+Received in revised form 16 October 2014
+Accepted 4 November 2014
+Available online 11 November 2014
+Keywords:
+Anterior cerebral artery occlusion
+Positron emission tomography
+Cerebral blood ﬂow
+Cerebral glucose metabolism
+Behavior
+Decision-making
+Executive functions
+
+a b s t r a c t
+Background: Stroke patients suffering from occlusion of the anterior cerebral artery (ACAo) develop cognitive and executive deﬁcits. Experimental models to investigate such functional impairments and recovery
+are rare and not satisfyingly validated.
+New method: We stereotactically injected the vasoconstrictor endothelin-1 (ET-1) close to the ACA of
+rats and assessed magnitude and course of CBF reduction using [14 C]iodoantipyrine autoradiography
+and [15 O]H2 O-PET. [18 F]FDG-PET and T2-weighted MRI determined regional metabolic and structural
+alterations. To test cognitive and executive functions, we analyzed decision-making in a food-carrying
+task, spatial working memory in a spontaneous alternation task and anxiety in an elevated plus maze
+test before and 1 month after ACAo.
+Results: CBF decreased immediately after ET-1 injection, started to recover 1–2 h and returned to
+control 4 h thereafter. Metabolic and structural lesions developed permanently in the ACA territory.
+Hypometabolism occurring bilaterally in the piriform region may reﬂect diaschisis. Behavioral testing
+after ACAo revealed context-dependent changes in decision making, exploratory activity and walking
+speed, as well as decreased anxiety and spatial working memory.
+Comparison with existing method(s): Aside from modeling a known entity of stroke patients, ACAo in rats
+allows to longitudinally study deterioration of cognitive and executive function without major interference by disturbed primary motor function. It complements therefore stroke research since common
+models using middle cerebral artery occlusion (MCAo) all affect motor function severely.
+Conclusion: The established ACAo model in rats effectively reﬂects deﬁcits characteristic for ACA stroke in
+humans. It is furthermore highly suitable for longitudinal assessment of cognitive and executive functions.
+© 2014 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/3.0/).
+
+∗ Corresponding author. Present address: Institute of Radiochemistry and Experimental Molecular Imaging, University Hospital of Cologne, Kerpener Str. 62, 50937 Köln,
+Germany. Tel.: +49 0221 4726 227; fax: +49 0221 4726 298.
+E-mail address: heike.endepols@uk-koeln.de (H. Endepols).
+1
+Present address: Institute of Radiochemistry and Experimental Molecular Imaging, University Hospital of Cologne, Kerpener Str. 62, 50937 Koeln, Germany.
+2
+Present address: Biomedical NMR Unit/MOSAIC, KU Leuven, O&N I Herestraat 49, Leuven 3000, Belgium.
+http://dx.doi.org/10.1016/j.jneumeth.2014.11.003
+0165-0270/© 2014 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/3.0/).
+
+280
+
+H. Endepols et al. / Journal of Neuroscience Methods 253 (2015) 279–291
+
+1. Introduction
+With almost 17 million strokes per year worldwide (Feigin et al.,
+2014), 1.3–3.0% ischemic strokes in the territory of the anterior
+cerebral artery (ACA) (Arboix et al., 2009; Bogousslavsky and Regli,
+1990; Gacs et al., 1983; Kumral et al., 2002) lead to the considerable number of 220,000–507,000 new ACA patients annually. These
+patients may suffer from discrete motor dysfunction but the most
+prominent symptoms after ACA stroke are cognitive and executive
+impairments (Kumral et al., 2002; Kang and Kim, 2008; Nagaratnam
+et al., 1998). Thorough cognitive/executive testing has been conﬁned to case studies (Bird et al., 2004), revealing decreased ability
+to perform voluntary actions (abulia) (Bogousslavsky, 1994). Abulia
+refers to the reduction of spontaneous speech and to Parkinsonlike symptoms such as bradykinesia and hypokinesia (Kumral et al.,
+2002; Nagaratnam et al., 2004). More extensive cognitive analyses
+have been performed with patients suffering from a rupture of anterior communicating artery aneurysms, which results in ischemia
+analog to ACA strokes (Böttger et al., 1998; Hütter and Gilsbach,
+1992; Martinaud et al., 2009). According to the mentioned studies,
+deﬁcits in anterograde and retrograde memory, selective attention,
+task switching, planning, decision-making and concept formation
+are likely to occur.
+Unlike experimental models of middle cerebral artery occlusion
+(MCAo), models of the occlusion of the anterior cerebral artery
+(ACAo) are only sporadically used. They may, however, serve as
+models not only for this speciﬁc entity of human stroke but also,
+in a more general sense, as models for the longitudinal study of
+cognitive and executive function after stroke. An advantage is that
+primary motor areas are supplied by the MCA, and therefore are
+not directly affected by ACAo. In consequence, it is possible to
+use behavioral tasks for the study of ischemia-induced cognitive
+changes without major interference by disturbed motor function.
+Previous behavioral experiments (simple and choice reaction time
+tasks) 2 and 3 weeks after ACAo suggested that motivation and
+attention remained intact, but executive functions were possibly
+impaired (Ward et al., 1998).
+We ﬁrst (study 1) developed and validated a rat model of ACA
+occlusion (ACAo) on the basis of earlier work (Ward et al., 1998)
+using the vasoconstrictor endothelin-1 (ET-1) to occlude the ACA.
+Our goal was to verify that ET-1 injection in proximity to the ACA
+results in a pronounced reduction of cerebral blood ﬂow (CBF) for
+a time span long enough to produce ischemic damage (Hossmann,
+1994). We investigated the magnitude of CBF reduction using quantitative [14 C]iodoantipyrine autoradiography, and the acute time
+course using repetitive [15 O]H2 O ␮PET.
+The second goal (study 2) was to investigate executive functions
+longitudinally during the ﬁrst month after ACAo. The main behavioral paradigm mimicked a natural foraging situation, where rats
+encounter food in the open and have to decide how to deal with it:
+either eat it at the food patch or carry it to their burrow (Takahashi
+and Lore, 1980). These food-handling decisions were studied in a
+meander maze where food was laid out, with the rat’s home cage
+attached. Because spatial working memory and anxiety are important factors inﬂuencing decision-making in our food-carrying task,
+these functions were additionally investigated using a spontaneous
+alternation test in the Y-maze and an elevated plus maze test. Here
+we report ACAo-induced behavioral alterations and alterations of
+regional metabolic brain activity in affected brain areas.
+2. Materials and methods
+2.1. Animals
+Experiments were carried out in accordance with the EU directive 2010/63/EU for animal experiments and the German Animal
+
+Welfare Act (TierSchG, 2006), and were approved by regional
+authorities (LANUV NRW). For validation of the ACAo model
+(study 1), 13 male Lister hooded rats (approx. 10 weeks old;
+Harlan, Borchen, Germany) were used to quantify CBF reduction
+with [14 C]iodoantipyrine autoradiography, and two for repetitive
+intraindividual CBF measurements using [15 O]H2 O ␮PET imaging.
+In the behavioral study (study 2), 26 rats (approx. 10 weeks old at
+start) were used for behavioral testing, and a subgroup of 10 rats
+underwent sequential PET imaging. All rats were pair-housed and
+maintained in an inverted 12-h light/dark cycle (lights on at 8 pm).
+While rats for autoradiography and repetitive CBF measurements
+were fed ad libitum, rats used for the behavioral study obtained a
+restricted diet of 80% of their free-feeding amount of food (2018
+Teklad global 18% protein rodent diet; Harlan; 15–20 g) per day.
+Animals were weighed twice per week. Body weight was 276–324 g
+at the start of experiments.
+2.2. Intracerebral ET-1 injection for ACA ischemia
+ACAo or sham operation took place after the ﬁrst sequence of
+behavioral testing and was performed by a single injection of ET-1
+or vehicle near the pericallosal part of the ACA. Rats were anesthetized using 5% isoﬂurane (delivered in 70% N2 O and 30% O2 )
+and ﬁxed in a stereotactic frame, where isoﬂurane concentration
+was reduced to 2.5%. Body temperature was measured with a rectal
+probe, and held constant at 37 ◦ C using a heating pad. After removing skin and periost, a small hole (approx. 1 mm in diameter) was
+drilled midline 1.5 mm rostral from bregma, and the 26 G cannula
+of a Hamilton syringe was inserted 3 mm deep, measured from the
+level of the dura mater. ET-1 (150 pmol in 0.3 ␮l sterile PBS) was
+then injected with a rate of 0.2 ␮l/min in close proximity of the
+ACA (Fig. 1D). In sham operated animals, 0.3 ␮l PBS was injected.
+The cannula was left in place for 10 min, and then retracted. Minor
+bleeding from the sagittal sinus, which was pierced by the passage of the cannula, occurred in most cases. After the bleeding had
+stopped (after approx. 1 min), the burr hole was closed using bone
+wax and the skin wound was sutured followed by application of a
+local anesthetic (Lidocain gel).
+2.3. Quantitative autoradiographic CBF measurements (study 1)
+For autoradiography, 13 rats were initially anesthetized with 5%
+isoﬂurane in 70% N2 O and 30% O2 and maintained at 2% isoﬂurane.
+Rectal temperature was kept at 37 ◦ C using a feedback-controlled
+heating system. Polyethylene catheters were inserted into both
+femoral veins and arteries for i.v. tracer application and arterial
+sampling for blood gas analysis and tracer input function. Two time
+points were chosen: early ischemia (17–20 min; 5 ET-1 injected rats
+and 3 shams), and later ischemia (2 h; 3 ET-1 and 2 shams).
+The [14 C]iodoantipyrine (IAP) technique was employed as
+described previously (Sakurada et al., 1978). Ten ␮Ci/100 g body
+weight of [14 C]IAP dissolved in 1 ml of 0.9% saline (speciﬁc activity 55 mCi/mmol; Biotrend GmbH, Cologne, Germany) was applied
+via i.v. ramp infusion while taking arterial blood samples onto
+pre-weighed ﬁlter paper. After 60 s, animals were sacriﬁced by
+i.v. injection of saturated KCl solution to stop tracer delivery to
+the brain. Brains were removed quickly, frozen in methylbutane at
+−40 ◦ C, and stored at −80 ◦ C. Blood samples were weighed immediately after termination of experiments and placed in counting
+vials. A 5 ml scintillation cocktail was added, and [14 C]-radioactivity
+was measured in a scintillation counter (Wallace 1410, Pharmacia,
+Freiburg, Germany) using external quench correction.
+Brains were cut into 20 ␮m cryostat sections (Leica CM3050,
+Leica Microsystems GmbH, Wetzlar, Germany), which were dried
+on a heating plate to prevent diffusion of the radioactive tracer.
+Sections were exposed to autoradiographic ﬁlm (Hyperﬁlm ECL,
+
+H. Endepols et al. / Journal of Neuroscience Methods 253 (2015) 279–291
+
+281
+
+Fig. 1. CBF measurements after ACAo. (A) Regional changes of relative CBF (intensity normalized to cerebellum) at different time points (30 min–5 h) after ACAo, measured
+with [15 O]H2 O-PET in one animal. Shown is % change relative to baseline, i.e., before ACAo. Decrease (80–50% baseline) is indicated in blue, increase (110–140% baseline)
+in red. Dashed lines in the sagittal image below 5 h indicate level of horizontal (ﬁrst row: 2.0 mm below bregma) and transverse sections (second row: 1.5 mm anterior to
+bregma). (B) Relative CBF values measured with [15 O]H2 O-PET (lines: left ordinate) from the same animal shown in (A). Superimposed are quantiﬁed CBF values measured
+with [14 C]IAP autoradiography (ﬁlled circles; right ordinate; mean ± standard deviation) at two time points (17 min after ACAo, n = 5; and 2 h after ACAo, n = 3). The olfactory
+bulb was not analyzed with [14 C]IAP autoradiography. (C) Relative and absolute CBF values similar to B with one sham animal for PET and ﬁve for autoradiography. (D) ET-1
+injection site (white circle), shown in a medial view of the right telencephalic hemisphere (left hemisphere removed; anterior is left). Blood vessels are ﬁlled with latex and
+black ink. This rat had a double pericallosal ACA (black arrowheads), with both vessels giving off branches to the right and left medial cortices. Direction of blood ﬂow is
+indicated by red arrows, bregma with a black arrow. The orange dashed line indicates the location of the proﬁles shown in Figs. 3 and 5. Abbreviations: cc: corpus callosum;
+Cg1 and 2: cingulate cortex 1 and 2; FrA: frontal association cortex; Hip: hippocampus; IL: infralimbic cortex; M2: secondary motor cortex; MO: medial orbital cortex; PrL:
+prelimbic cortex; RSD: retrosplenial dysgranular cortex; RSG: retrosplenial granular cortex; S: septum; Th: thalamus. Scale bar: 2 mm.
+
+GE Healthcare Europe GmbH, Munich, Germany) with calibrated
+[14 C]-polymer standards for 12 days. After ﬁlm development
+autoradiograms were digitized using a charge-coupled device camera (Sony SSCM370CE, Sony Incorporation of America, Cypress, CA,
+U.S.A.) operated by a Macintosh IIfx computer. Image processing
+was carried out with ImageMG, a user-revised version of the
+public domain program NIH-Image (W. Rasband, National Institutes of Health, Bethesda, MD, USA). Local CBF values from the
+autoradiograms were calculated with the in-build operational
+equations employing local tissue [14 C]-radioactivities and corresponding [14 C]-input functions. Due to the quick removal of the
+brain the olfactory bulb was damaged in most of the animals, so
+that this region was not analyzed with IAP autoradiography.
+2.4. PET imaging
+PET scans were performed in a Focus 220 ␮PET scanner
+(CTI/Siemens Knoxville, TN; resolution at center of ﬁeld of view:
+1.4 mm) under isoﬂurane anesthesia. Respiratory rate was held
+at 50–70 breaths per minute by manually adjusting isoﬂurane
+concentration (2.0–2.5% delivered in 70% N2 O and 30% O2 ). Body
+temperature was measured with a rectal probe and held at 37 ◦ C
+using warm water ﬂow through the animal holder. A transmission
+scan of approx. 10 min with a 68 Ge source was used for attenuation
+correction of all scans.
+
+For the repetitive CBF protocol (study 1), two animals were used.
+[15 O]H2 O (1.9–2.6 mCi in 500 ␮l) was injected via a tail vein in the
+baseline scans, and through a catheter in the femoral vein at later
+time points. One rat underwent ACAo and the other sham operation. CBF was measured every 30 min for 2 h, beginning approx.
+30 min after ET-1/sham injection. In the ET-1 injected rat, CBF was
+subsequently measured every full hour up to 5 h after occlusion.
+After the end of PET scans, the rats were sacriﬁced by injecting 2 ml
+saturated KCl through the venous catheter.
+In the behavioral study (study 2), 10 rats (8 ET-1, 2 shams) were
+measured. [15 O]H2 O (1.0–1.8 mCi in 0.5 ␮l) was injected via a tail
+vein before and 40–61 min after ACAo. Emission data were acquired
+for 5 min, starting with tracer injection. After Fourier rebinning,
+data were reconstructed using two-dimensional ﬁltered back projection, resulting in voxel sizes of 0.48 mm × 0.48 mm × 0.82 mm.
+In the same animals, [18 F]ﬂuorodeoxyglucose (FDG; 0.9–1.5 mCi in
+500 ␮l, injected through a tail vein) was used to investigate glucose metabolism. Emission data acquisition was 1 h starting with
+tracer injection. The rats underwent three metabolic scans: Before,
+63–80 min, and 1 month after ACAo. Fourier rebinning was followed
+by an OSEM3D/MAP reconstruction (Qi et al., 1998), yielding voxel
+sizes of 0.38 mm × 0.38 mm × 0.82 mm.
+Images were analyzed with the help of the imaging tool
+VINCI (Vollmar et al., 2007), where all images were manually coregistered. Intensity ratio normalization was performed using the
+
+282
+
+H. Endepols et al. / Journal of Neuroscience Methods 253 (2015) 279–291
+
+cerebellum as a reference region. Relative values are accordingly
+given as % cerebellum.
+To demonstrate the ischemic lesion in the brain midline, a proﬁle
+analysis was carried out over all images. A proﬁle (length: 25.3 mm,
+width 2.0 mm) was placed on a horizontal section at a depth of
+1.8 mm from dorsal brain surface (Fig. 1D, orange dashed line;
+Fig. 3B; Fig. 5B). Mean proﬁle plots (data point spacing: 160 ␮m)
+were drawn for each time point, and were compared using twoway repeated measures ANOVA (factor 1: time point; factor 2: data
+point) with post hoc Holm–Sidak multiple comparisons procedure.
+2.5. MRI
+To investigate the structural lesion caused by ET-1 injection,
+T2-weighted MRI was performed with all 26 animals of the behavioral study (study 2) with the help of a 4.7-T BioSpec animal
+scanner with a 30-cm horizontal bore magnet (Bruker BioSpin,
+Ettlingen, Germany). Radio frequency transmission was achieved
+with a Helmholtz coil (diameter: 12 cm) and the signal was detected
+with a 22 mm-diameter surface receiver coil, positioned above the
+skull of the animal. T2-weighted images were acquired with a
+multislice multiecho Carr-Purcell-Meiboom-Gill (CPMG) sequence:
+TR/TE = 4000/11.0 ms, 16 echoes, FOV = 3 × 4 cm2 , slice thickness:
+1.0 mm, interslice distance: 0.0 mm, matrix: 128 × 128. Anesthesia, control of breathing rate and body temperature were similar to
+the ␮PET scans. Images were acquired before and 24 h after ACAo,
+imported in VINCI, and co-registered. With the help of a threshold tool, the lesioned areas were selected and transformed to VOIs,
+whose volume was collected analog to the infarct volume. After 1
+month, the measurement was repeated, and images were examined
+for structural changes (atrophy, ventricular enlargement, cysts).
+2.6. Behavioral testing
+We carried out several behavioral tests to measure decisionmaking (food-carrying task; n = 8 ET-1 plus 7 shams), anxiety
+(elevated plus maze; n = 16 ET-1 plus 10 shams), and spatial working memory (spontaneous alternation in the Y-maze; n = 16 ET-1
+plus 10 shams). Rats were tested before ACAo and during the ﬁrst
+month (from 2nd to 4th week) after ACAo.
+All behavioral testing was executed during the dark phase under
+red light conditions (660 nm). The two testing phases required 2
+weeks each, and were performed in an isolated air conditioned
+chamber with a controlled temperature of constantly 22 ◦ C. After
+putting the rat in the test arena, the experimenter left the chamber
+and the behavior was digitally recorded and surveyed from outside
+the chamber. Food-carrying task and elevated plus maze test were
+then analyzed further by using a video tracking system (Ethovision
+3.1, Noldus, Wageningen, Netherlands).
+
+For ofﬂine analysis we deﬁned a food-carrying probability score,
+which was assigned to each trip (=from cage to food and back). If
+rats carried their food all the way to the cage, this trip counted as
+100% food-carrying. Those trips where rats ate their food directly
+at the food patch were counted as 0% food-carrying. If a rat started
+carrying its food to the cage but then stopped on the way to eat,
+the trip received a value between 0 and 100%, depending on the
+distance moved. For example, if the rat went 25% of the total distance toward the cage, the trip received 25% food-carrying. We
+calculated an average food-carrying value for each animal. In addition, we measured the number of trips, total distance moved, and
+velocity.
+2.8. Elevated plus maze
+To measure anxiety we used an elevated plus maze, a platform
+with two enclosed and two open arms (length: 50 cm, width: 12 cm;
+wall 34 cm), mounted 50 cm above ground. Rats were separately
+placed in the center of the maze facing one of the closed arms.
+Their movements were digitally recorded for 10 min and analyzed
+with Ethovision (Noldus). We measured the time rats spent in the
+different zones (open arms, enclosed arms, center) as well as the
+frequency of zone entry. Each rat was tested on two consecutive
+days and averages for each rat were calculated.
+2.9. Spontaneous alternation test
+We performed this test in a Y-maze with an arm length of 70 cm
+and a width of 13 cm. At the beginning rats were placed separately
+at the end of the starting arm. When the rat had entered one of
+the target arms and had proceeded to its end, it was taken back to
+its cage. The arena was cleaned thoroughly to remove all olfactory
+cues, and after approx. 1 min, testing was repeated. It was recorded
+whether the rat alternated in arm choice or went twice into the
+same arm. Animals were tested once per day on 3 consecutive days,
+and out of this the percentage of alternation was calculated.
+2.10. Data analysis
+Behavioral data were compared using a two-way mixed ANOVA
+with Tukey post hoc testing. Between-subjects factor was treatment (ET-1 and sham), within-subjects factor was time point
+(before and after treatment). For correlation analysis, the Pearson
+test was used. All percentage values were arcus sinus transformed
+before statistical analysis. SigmaPlot 11.0 (Systat Software, San José,
+CA, USA) with the integrated statistics tool SigmaStat was used for
+statistical analysis.
+3. Results
+3.1. Tolerability of ET-1 injection
+
+2.7. Food carrying task
+The arena (1.5 m × 1.0 m) was a meander shaped gangway
+covered with a transparent plexiglas lid. It consisted of 10 interconnected straight corridors (1 m long, 15 cm wide), with a total
+length of 10 m. At one end of the gangway the individual home
+cages could be attached, so that the rats could go back and forth
+freely between cage and arena. During 10 days of training the rats
+learned to accept food in the arena. For the test, 10 pieces of food
+(0.5 g fruit loops, plus family) were placed in the alley. Each day,
+the food was presented at a different distance from cage (2–10 m
+in 2 m-steps, random order). Rats were tested separately once per
+day for 20 min or until all food was collected/eaten. Rats were digitally recorded from above, and their movement was analyzed with
+Ethovision (Noldus).
+
+We found that ET-1 and vehicle injection was well tolerated by
+the animals. None of the rats died during surgery or thereafter.
+3.2. Study 1: ACAo model validation
+3.2.1. [14 C]iodoantipyrine autoradiography
+Quantitative [14 C]iodoantipyrine autoradiographic analysis
+revealed that after ET-1 injection, CBF was strongly reduced within
+the ACA territory to at least 0.02 ml/g/min after 17 min and to
+0.34 ml/g/min after 2 h in the cingulate cortex (Fig. 2, columns 3 and
+4). Compared to the respective values after sham (vehicle) injection, this corresponds to a mean CBF reduction of 82% (17 min) and
+61% (2 h) in the cingulate cortex. A strong CBF decrease was also
+seen in the prelimbic cortex (on average of 72% after 17 min and of
+
+H. Endepols et al. / Journal of Neuroscience Methods 253 (2015) 279–291
+
+283
+
+Fig. 2. Absolute CBF changes after ACAo. Quantiﬁed autoradiographic CBF images of two sham and two ET-1 injected animals. Absolute CBF 2 h after sham injection can be
+regarded as normal (i.e., 0.8–1.4 ml/g/min). ET-1 strongly decreased CBF in the ACA territory 17 min after injection with partial reperfusion after 2 h. Numbers on the left
+indicate rostrocaudal coordinates of sections with respect to Bregma.
+
+3.2.2. Repetitive [15 O]H2 O-PET
+Repetitive measurements of relative CBF (intensity normalized
+to cerebellum) were performed in two rats, one receiving ET-1
+(5 h measurements), and the other vehicle injection (2 h measurements). After ET-1 injection, CBF was reduced in the ACA territory
+to <50% baseline, with the lowest values in the olfactory bulb and
+frontal cortex (Fig. 1). The septum was affected as well. CBF reduction peaked at the early measurements 30 min and/or 1 h after
+injection, and recovered thereafter slowly to baseline levels, which
+were reached after 4 h.
+In line with the results obtained by quantitative autoradiography, a moderate CBF reduction (to >80% baseline) was observed
+in the MCA territory as well, particularly in the piriform cortex
+(Fig. 1A). This hypoperfusion could be followed by a delayed hyperperfusion in the MCA territory.
+In the control animal, a moderate CBF reduction (to around 85%
+baseline) occurred near the vehicle injection site in the anterior part
+of the ACC (Fig. 1C). In the other areas, CBF changes did not exceed
+noise level (±10%, determined by repetitive baseline scans).
+
+33% after 2 h) and the secondary motor cortex M2 (on average of
+49% after 17 min and 45% after 2 h). For other regional mean values
+see Table 1. In individual animals, CBF reduction eventually spread
+unilaterally into the MCA territory and affected the somatosensory
+cortex rather severely (minimum 0.14 ml/g/min). In most cases,
+these CBF reductions in the MCA territory were mild but consistently seen and remained for 2 h after ET-1 injection. This effect
+was most pronounced in the piriform region, where minimum perfusion was 0.32 ml/g/min after 17 min (mean CBF decrease of 11%
+compared to sham), and 0.71 ml/g/min after 2 h (mean CBF decrease
+of 30% compared to sham).
+Immediately (17 min) following vehicle injection, a mild reduction of CBF was also observed in the ACA territory of sham animals
+(0.37 ml/g/min in the prelimbic cortex; see Fig. 2, ﬁrst column) and
+in the MCA territory (0.38 ml/g/min in the piriform region). In contrast to ET-1 injection, however, CBF was completely restored 2 h
+after sham injection (1.0 and 1.5 ml/g/min; see Fig. 2, column 2).
+This demonstrates a transient but considerable effect on the whole
+cerebral cortex by the injection procedure itself.
+
+Table 1
+Cerebral blood ﬂow (mean ± standard deviation; ml/g/min) determined from [14 C]iodoantipyrine autoradiography. For ET-1 animals, % change compared to sham animals
+of the same time point is given.
+Brain area
+
+Sham, 17 min (n = 3)
+
+Prelimbic cortex
+Infralimbic cortex
+Cingulate cortex Cg 1,2
+Retrosplenial granular
+Retrosplenial dysgranular
+Motor cortex M1
+Motor cortex M2
+Septum
+Nucl. accumbens
+Caudate-putamen
+Hippocampus, dorsal part
+Piriform cortex
+
+0.50
+0.57
+0.65
+0.85
+0.78
+0.60
+0.59
+1.07
+1.12
+1.17
+1.23
+0.64
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.13
+0.22
+0.12
+0.10
+0.09
+0.10
+0.09
+0.32
+0.37
+0.33
+0.31
+0.21
+
+Sham, 2 h (n = 2)
+1.07
+1.06
+1.18
+1.36
+1.27
+1.14
+1.13
+1.23
+1.35
+1.53
+1.32
+1.35
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.14
+0.08
+0.10
+0.06
+0.05
+0.02
+0.03
+0.05
+0.16
+0.07
+0.04
+0.06
+
+ET-1, 17 min (n = 5)
+0.14
+0.26
+0.12
+0.63
+0.52
+0.56
+0.30
+0.70
+1.15
+1.52
+1.52
+0.57
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.13 (−72%)
+0.13 (−54%)
+0.05 (−82%)
+0.16 (−26%)
+0.18 (−33%)
+0.24 (−7%)
+0.13 (−49%)
+0.40 (−35%)
+0.60 (+3%)
+0.52 (+30%)
+0.39 (+24%)
+0.28 (−11%)
+
+ET-1, 2 h (n = 3)
+0.72
+0.79
+0.46
+0.61
+0.65
+0.78
+0.62
+0.96
+1.11
+1.41
+1.25
+0.95
+
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+±
+
+0.27 (−33%)
+0.34 (−25%)
+0.17 (−61%)
+0.22 (−55%)
+0.28 (−32%)
+0.29 (−32%)
+0.26 (−45%)
+0.28 (−22%)
+0.38 (−18%)
+0.54 (−8%)
+0.44 (−5%)
+0.25 (−30%)
+
+284
+
+H. Endepols et al. / Journal of Neuroscience Methods 253 (2015) 279–291
+
+Fig. 3. Proﬁle analysis of acute CBF changes in dorsomedial areas after ACAo. (A) Measurements of relative CBF, intensity normalized to cerebellum, were performed with
+[15 O]H2 O-PET at baseline (before) and 45 min after ET-1 injection. Shown are proﬁle plots (rostral = left, caudal = right) using mean values and standard deviations over
+eight animals. Signiﬁcant differences between the two curves are displayed below. The rostrocaudal position of the ET-1 injection site (In) is indicated by a dashed line. CBF
+reductions mainly occurred upstream, i.e., rostral of the injection site. (B) Single horizontal raw images of relative CBF from one animal at two time points, superimposed
+on a brain outline (rostral = left). The proﬁle from which the plots in A were taken was 25 mm long and 2 mm wide and located along the brain midline. The dorsoventral
+position of the proﬁle is indicated by the orange dashed line in Fig. 1D. (C) Proﬁle plot of relative CBF taken from one of the two sham animals. A small CBF reduction around
+the sham injection site is visible. Abbreviations: Cer: cerebellum; Cg1,2: anterior cingulate cortex 1, 2; In: injection site; olf. bulb: olfactory bulb; PrL: prelimbic cortex; RSG:
+retrosplenial granular cortex.
+
+3.3. Study 2: Behavior and regional metabolism before and after
+ACAo
+
+signiﬁcant decrease of FDG uptake occurred also in lateral parts of
+the brain, particularly in the piriform region.
+
+3.3.1. Acute [15 O]H2 O-PET
+CBF was measured with [15 O]H2 O approximately 45 min after
+ET-1 injection (n = 8). The same was done with two sham-operated
+animals. Proﬁle analysis demonstrated that ET-1 signiﬁcantly
+reduced CBF around the injection site and up to 7 mm rostral to
+on average 70% of baseline (Fig. 3A). In the sham animals, a small
+zone with CBF reduction to 80% baseline could be found as well
+reaching approx. 3 mm rostral from the injection site (Fig. 3C).
+Voxel-based analysis in ET-1 animals revealed a statistically signiﬁcant CBF reduction in the whole ACA territory including the
+septum (see t-map in Fig. 4). In lateral parts of the brain, including
+the piriform region, CBF changes were not signiﬁcant.
+
+3.3.3. Structural MRI
+Twenty-four hours after ET-1 injection, T2-weighted MR images
+revealed a hyperintense signal in the ACA territory representing structural loss and cerebral edema (Fig. 4, right column).
+Affected regions matched the regions of reduced blood ﬂow visible in [14 C]iodoantipyrine autoradiography (Fig. 2, third column).
+Mean infarct volume calculated from the hyperintense regions was
+73.5 ± 43.4 mm3 in the 16 animals injected with ET-1. In addition,
+a hyperintense signal occurred in the piriform region of three animals (one unilateral, two bilateral). After 1 month, the ischemic
+lesion was still visible in the ET-1 injected rats (Fig. 6, right column), accompanied by ventricular enlargement and loss of tissue,
+particularly in midline cortex and septum. In the 10 sham operated animals, the hyperintense signal after 24 h was restricted to
+the injection site, comprising 2.6 ± 5.6 mm3 . After 1 month, the
+small edema around the injection site had disappeared completely
+without any signs of structural damage.
+
+3.3.2. Acute and chronic [18 F]FDG-PET
+Medial proﬁle analysis of [18 F]FDG images after ET-1 injection
+revealed a decrease of relative metabolic activity. An initial reduction of FDG uptake 1 h after ET-1 injection was most prominent in
+the olfactory bulb (to 80% baseline; Fig. 5) and around the injection
+site (to 90% baseline). In the olfactory bulb, a partial recovery was
+apparent after one month. A delayed reduction of metabolic activity to 80% baseline occurred at the frontal pole of the brain and also
+caudally from the injection site after 1 month. In the sham animals,
+an initial metabolic reduction around the injection site, but not in
+the olfactory bulb, was seen as well, which was fully recovered by
+one month after injection. Voxel-based comparison between baseline and one month after ET-1 injection conﬁrmed the reduction
+of metabolic activity in the ACA territory (Fig. 6). Furthermore, a
+
+3.3.4. Behavior
+3.3.4.1. Food-carrying task. ACAo reduced food-carrying scores
+from 86 ± 25% before ET-1 injection to 60 ± 42% after 1 month
+(Fig. 7A). In the seven control rats, food-carrying remained constant
+at 73 ± 28% before and 72 ± 31% after sham injection. However,
+there were neither signiﬁcant main effects of treatment or time
+point, nor a signiﬁcant factor interaction. Because of the high
+standard deviations of both food carrying after ACAo and of infarct
+volume, we performed a correlation analysis between the two
+
+H. Endepols et al. / Journal of Neuroscience Methods 253 (2015) 279–291
+
+285
+
+Fig. 4. Voxel-based analysis of acute CBF changes and structural lesions after ACAo. Mean relative CBF values (intensity normalized to cerebellum) from the same eight
+animals as shown in Fig. 3, projected onto an MRI template, before (ﬁrst column) and 45 min after ET-1 injection (second column). The third column shows the respective
+t-map, resulting from a voxel-based paired t-test. Critical t-values were ±2.4, and only signiﬁcant changes (p < 0.05, uncorrected) are displayed. The presence of solely bluecolored voxels indicates that 45 min after ACAo only hypoperfusion occurred. Forth column: T2-weighted MR images of one single animal taken 24 h after ACAo. The location
+of the edema (hyperintensity) matches the area of severely reduced CBF (see also Fig. 2, third column, purple color). The ﬁfth column displays maximal (green) and minimal
+(red) structural lesions in three transverse and one sagittal section. Scale bars: 5 mm.
+
+Fig. 5. Proﬁle analysis of longitudinal metabolic changes in dorsomedial areas after ACAo. (A) Measurements of relative metabolic activity, intensity normalized to cerebellum,
+were performed with [18 F]FDG-PET in the same eight animals as shown in Fig. 3. Time points were baseline (before), 1 h and 1 month after ET-1 injection. Proﬁle plots are
+mean values and standard deviations, and signiﬁcant differences between baseline and post-ACAo time points are shown below. Metabolic activity most strongly decreased
+in the olfactory bulb and the anterior cingulate cortex. (B) Single horizontal raw images (anterior is left) of relative metabolic activity from one animal before and 1 month
+after ET-1 injection, together with the localization of the proﬁle. (C) Proﬁle plot of relative metabolic activity taken from one of the sham animals. 1 h after ET-1 injection,
+there was a decrease of metabolic activity around the injection site (In), and an increase rostral from it (red line). After one month (blue line), metabolic activity was similar to
+baseline (black line). Abbreviations: Cer: cerebellum; Cg1,2: anterior cingulate cortex 1, 2; In: injection site; olf. bulb: olfactory bulb; PrL: prelimbic cortex; RSG: retrosplenial
+granular cortex.
+
+286
+
+H. Endepols et al. / Journal of Neuroscience Methods 253 (2015) 279–291
+
+Fig. 6. Voxel-based analysis of longitudinal metabolic changes after ACAo. Mean relative metabolic activity (FDG-uptake normalized to cerebellum) from the same eight
+animals as shown in Fig. 3, projected onto an MRI template, before (ﬁrst column) and 1 month after ET-1 injection (second column). The third column shows the respective
+t-map, resulting from a voxel-based paired t-test. Critical t-values were ±2.4, and only signiﬁcant changes (p < 0.05, uncorrected) are displayed. Hypometabolism was present
+in the ACA territory, but also in the lateral cortex, particularly the insular and piriform region. Forth column: T2-weighted MR images of one single animal (the same rat as
+shown in Fig. 4) taken 1 month after ACAo. The former edema has developed into a structural lesion (hyperintense region), accompanied by ventricular enlargement.
+
+Fig. 7. Changes of food-carrying behavior after ACAo. Food-carrying was tested with the eight ACAo and two sham rats from the PET study, plus ﬁve additional sham
+animals. (A) Mean food-carrying probability with standard deviations. There were no signiﬁcant differences between groups or time points. (B) Schematic drawing of the
+meander-shaped arena (total length of walkway: 10 m) with home cage attached. Location of the food patch varied randomly across sessions, in this example it was located
+at 4 m distance from cage. (C) Correlation between change in food-carrying probability and infarct volume indicates a contribution of ACA territory areas to the food-handling
+decision. (D) Mean food-carrying velocity with standard deviations. After 1 month, ACAo rats were signiﬁcantly slower than sham animals.
+
+H. Endepols et al. / Journal of Neuroscience Methods 253 (2015) 279–291
+
+287
+
+Fig. 8. Changes of spontaneous alternation after ACAo. This test was carried out with the 10 animals from the PET study plus 16 additional rats, resulting in 16 ACAo and
+10 sham animals. (A) Spontaneous alternation rate (mean and standard deviation) signiﬁcantly decreased 1 month after ET-1 injection, indicating impaired spatial working
+memory. (B) Schematic drawing of the Y-maze.
+
+variables. We found a signiﬁcant negative correlation (R = −0.75;
+p = 0.0321; Fig. 7C), indicating that the bigger the infarct, the lower
+food-carrying probability.
+Food-carrying probability was inﬂuenced by distance between
+food and home-cage (F(4,52) = 3.64; p = 0.0109) before ET-1/sham
+injection, with 2 m distance having a higher probability for
+food-carrying than 8 m and 10 m (p < 0.05). However, post hoc comparisons separately performed for sham and ACAo groups revealed
+that this effect was signiﬁcant in the sham group only, and disappeared after ET-1/sham injection (F(4,52) = 2.22; p = 0.08).
+Food-carrying velocity (Fig. 7D) was reduced after ACAo from
+46 ± 9 cm/s before to 34 ± 12 cm/s after 1 month. In control animals, velocity was not decreased after sham injection (45 ± 6 cm/s
+before, 47 ± 7 cm/s after injection). While main effects of factors
+treatment and time point were not signiﬁcant, there was a signiﬁcant factor interaction (F(1,13) = 5.56; p = 0.0348). Post hoc testing
+revealed a signiﬁcant difference between velocity of ET-1 injected
+animals before versus after ACAo, as well as a signiﬁcant difference
+between velocity of ET-1 versus sham rats after injection (p < 0.05).
+ACAo reduced the number of trips from 36 ± 12 to 25 ± 12.
+In sham animals, the number of trips was reduced as well, from
+33 ± 11 to 27 ± 10. There was a signiﬁcant main effect of time point
+(F(1,13) = 5.97; p = 0.0296), and post hoc testing showed a signiﬁcant difference of the number of trips before versus after injection in
+the ET-1 group (p < 0.05). Consequently, the total distance moved
+was reduced as well from 406 ± 86 m before ACAo to 293 ± 97 m
+after one month in ET-1 rats, and from 373 ± 94 m to 294 ± 55 in
+sham animals. Factor time point had a signiﬁcant main effect on
+total distance moved (F(1,13) = 11.59; p = 0.0047), and post hoc testing revealed a signiﬁcant difference of total distance moved before
+versus after ET-1 injection (p < 0.05).
+3.3.4.2. Spontaneous alternation. ACAo reduced spontaneous alternation from 75 ± 28% before to 48 ± 30% after ET-1 injection
+(Fig. 8). In control animals, spontaneous alternation remained high:
+83 ± 24% before and 87 ± 23% after sham injection. ANOVA revealed
+a signiﬁcant main effect of treatment (F(1,24) = 6.24; p = 0.0197),
+and a signiﬁcant factor interaction (F(1,24) = 8.14; p = 0.0088).
+Within the ET-1 group there was a signiﬁcant difference between
+before and after ACAo (p < 0.05), and at time point “after injection”
+there was a signiﬁcant difference between the ET-1 and sham group
+(p < 0.05).
+3.3.4.3. Elevated plus maze. ACAo increased open arm time (% of
+total time) and open arm entries (% of total zone entries), indicating decreased anxiety. Open arm time increased from 35 ± 19% to
+57 ± 15%, and open arm entries from 24 ± 8% to 35 ± 6% (Fig. 9A
+and C). In sham animals, both variables increased only slightly,
+
+open arm time from 41 ± 14% to 49 ± 9%, and open arm entries from
+27 ± 5% to 29 ± 6%. Time point had a signiﬁcant main effect on both
+open arm time (F(1,24) = 8.30; p = 0.0082) and open arm entries
+(F(1,24) = 9.49; p = 0.0051) with a signiﬁcant difference between
+before and after injection in the ET-1 group (p < 0.05).
+The total frequency of zone entries, which represents a measure
+for exploratory activity, increased in ET-1 animals after 1 month
+from 79 ± 35 to 126 ± 47. In control rats it remained constant at
+103 ± 37 zone entries before and 102 ± 22 after sham injection
+(Fig. 9D). Factor time point had a signiﬁcant main effect on zone
+entries (F(1,24) = 6.94; p = 0.0145), and there was a signiﬁcant factor
+interaction (F(1,24) = 7.31; p = 0.0124). In the ET-1 group, number
+of zone entries was signiﬁcantly higher after 1 month than before
+ACAo (p < 0.05).
+In contrast to the decrease of food-carrying velocity that was
+found after ACAo, walking speed in the elevated plus maze
+increased from 16 ± 3 cm/s to 23 ± 9 cm/s on the open arms,
+and from 16 ± 3 cm/s to 22 ± 5 cm/s on the closed arms. In
+sham animals, velocity remained constant at 12 ± 5 cm/s before
+and 11 ± 4 cm/s after sham injection on the open arms, and at
+13 ± 4 cm/s before and 12 ± 4 cm/s after sham injection on the
+closed arms. Treatment had a signiﬁcant main effect on velocity both on the open (F(1,23) = 21.23; p = 0.0001) and closed arms
+(F(1,24) = 26.79; p < 0.0001), while factor time point signiﬁcantly
+inﬂuenced velocity on closed arms only (F(1,24) = 6.45; p = 0.018).
+For both open and closed arms there was a signiﬁcant factor
+interaction (F(1,23) = 5.77; p = 0.0248 for open arms; F(1,24) = 7.72;
+p = 0.104 for closed arms). Post hoc comparison revealed that animals of the ACAo group were signiﬁcantly faster after ET-1 injection
+than before, on both open and closed arms (p < 0.05). Furthermore, 1
+month after injection velocity was signiﬁcantly higher in the ACAo
+group compared to sham group for both open and closed arms
+(p < 0.05).
+4. Discussion
+4.1. Changes of perfusion after ACAo (study 1 and 2)
+In the acute phase after injection of the vasoconstrictor ET-1,
+repetitive [15 O]H2 O-PET demonstrated the course of CBF reduction
+for up to 2 h and subsequent recovery with normalization after
+approximately 4 h. CBF reduction was highest and lasted longest
+in the anterior cingulate cortex. Other regions of the ACA territory, some of them located rostral to the ET-1 injection site, were
+affected as well, but were reperfused somewhat earlier. Rostral
+vasoconstriction was most likely mediated by ACA branches, which
+originate near the injection site, and run in an anterodorsal direction (see Fig. 1). In addition, upstream vasoconstriction may have
+
+288
+
+H. Endepols et al. / Journal of Neuroscience Methods 253 (2015) 279–291
+
+Fig. 9. Changes of elevated plus maze behavior after ACAo. This test was carried out with 16 ACAo and 10 sham animals. (A) Relative open arm time (% of total time; mean
+and standard deviation) signiﬁcantly increased one month after ET-1 injection, indicating decreased anxiety. (B) Schematic drawing of the elevated plus maze. (C) Relative
+open arm entries (% of total zone entries) signiﬁcantly increased 1 month after ET-1 injection, conﬁrming reduced anxiety. (D) The absolute number of total zone entries
+signiﬁcantly increased after ACAo, indicating increased exploratory activity.
+
+contributed as well, caused by ET-1 diffusion along the ACA or by
+conducted vasoconstriction due to upstream signaling (Gustafsson
+and Holstein-Rathlou, 1999). Compared to the study of Ward et al.
+(Ward et al., 1998) we injected ET-1 at a more distal segment of the
+ACA, approximately at the border between prelimbic cortex and
+anterior cingulate cortex. This explains why other, more proximally
+located regions like the nucleus accumbens, olfactory tubercle and
+diagonal band of Broca have not been affected in our study. ET-1
+has been used in other stroke models to produce infarcts in the
+MCA territory or lacunar infarcts in rats (Cordova et al., 2014; Fuxe
+et al., 1997; Joo et al., 2012; Livingston-Thomas et al., 2013; Roome
+et al., 2014), mice (Soylu et al., 2012), and marmosets (Virley et al.,
+2004), with the duration of CBF reduction being comparable to our
+results.
+Quantitative [14 C]iodoantipyrine autoradiography revealed that
+CBF was reduced to less than 0.1 ml/g/min (<10% baseline) 17 min
+after ET-1 injection. This is in line with studies investigating
+early ET-1 action and showing that vasoconstriction is maximal
+during the ﬁrst 15–30 min after injection (Nikolova et al., 2009;
+Regenhardt et al., 2013). Subsequently, blood vessels slowly begin
+to dilate, depending on local ET-1 concentration. This may explain
+why our earliest [15 O]H2 O-PET measurements performed at 30 min
+after ET-1 injection merely showed a CBF reduction to 70% baseline.
+4.2. Metabolic changes after ACAo (study 2)
+For interpretation of [18 F]FDG-PET results we have to keep
+in mind that FDG uptake took place under anesthesia, where
+cortico-cortical as well as thalamo-cortical networks are severely
+altered (Bonhomme et al., 2012) and glucose metabolism is strongly
+decreased, particularly in thalamus and cortex (Prieto et al., 2011).
+Glutamatergic excitatory activity, which accounts for 80% of the
+brain’s energy consumption in the awake state (Raichle and Mintun,
+2006), is reduced during isoﬂurane anesthesia so that FDG uptake
+presumably reﬂects for the most part inhibitory activity, basic
+housekeeping functions (e.g., protein trafﬁcking), and possibly
+activation of the adrenergic system (Boretius et al., 2013). The
+“metabolic lesions” observed in the ACA territory and elsewhere
+
+therefore represent mainly general loss of brain cells as well as disturbance of the inhibitory part of functional brain networks. Proﬁle
+analysis of [18 F]FDG-PET starting 1 h after ET-1 injection showed
+substantial metabolic reduction in the olfactory bulb, but not in
+the other areas of reduced CBF. This may be explained by the fact
+that in ischemic tissue with some residual blood ﬂow FDG inﬂux
+can be normal or even elevated 1 h after occlusion, because reduced
+glucose supply is compensated for by increased glucose phosphorylation (Backes et al., 2011; Walberer et al., 2012). After 1 month, FDG
+uptake had recovered in the olfactory bulb. This may result at least
+to some extent from neuronal progenitor cell traveling with the
+rostral migratory stream from the subventricular zone to the olfactory bulb (Liu and Guthrie, 2011). However, since migration is very
+slow (the full journey takes at least 75 days; (Whitman and Greer,
+2009)) and only interneurons are replaced (Liu and Guthrie, 2011),
+other mechanisms must have contributed to metabolic recovery.
+In contrast to the olfactory bulb, FDG uptake was further decreased
+in the anterior cingulate cortex, prelimbic/infralimbic cortex, and
+septum, reﬂecting loss of tissue as conﬁrmed by MRI.
+Voxel-based analysis showed that a signiﬁcant decrease of
+relative metabolic activity did not only occur in the ACA territory, but also in lateral cortical regions, particularly in the
+piriform area. Furthermore, a piriform hyperintense signal was
+found in structural MR images 24 h after ET-1 injection in three
+animals. There was no signiﬁcant CBF reduction detectable with
+[15 O]H2 O-PET in this area of the same animals 45 min after ACAo,
+although IAP autoradiography with other rats has indicated that
+this can indeed occur, as described for human stroke patients
+(Rubin et al., 2000). The metabolic reduction in the piriform region
+therefore may reﬂect a remote, diaschisis-like effect that is presumably independent of CBF changes. Diaschisis is a phenomenon
+related to all kinds of focal brain lesions, where impairments
+can spread to remote areas functionally connected to the original site of damage (Finger et al., 2004). The rat piriform cortex
+is reciprocally connected to the prelimbic and infralimbic region,
+fulﬁlling in our case the anatomical prerequisite of diaschisis
+(Datiche and Cattarelli, 1996; Heidbreder and Groenewegen, 2003;
+Johnson et al., 2000). In MCA stroke patients crossed cerebellar
+
+H. Endepols et al. / Journal of Neuroscience Methods 253 (2015) 279–291
+
+diaschisis is common, leading to chronic reduction of FDG uptake in
+the contralateral cerebellum (Agrawal et al., 2011; Shih et al., 2006).
+Acute and subacute studies of transhemispheric cortical diaschisis
+after MCAo report transient contralesional hyperexcitability with
+increased FDG uptake upon sensory stimulation during the ﬁrst
+week (Mohajerani et al., 2011). However, this does not result in
+chronic hypometabolism, and is interpreted as circuit remodeling in the course of functional compensation by the contralateral
+cortical area (Takatsuru et al., 2009). One mechanism underlying
+hyperexcitability during transhemispheric diaschisis is the breakdown of inhibitory synaptic transmission (Imbrosci et al., 2014),
+which may cause excitotoxicity and death of neurons in susceptible areas. Interestingly, both cerebellum and piriform cortex are
+selectively vulnerable to excitotoxicity (Candelario-Jalil et al., 2001;
+Welsh et al., 2002). We therefore conclude that hypometabolism in
+midline brain areas after ACAo is caused by the ischemic lesion,
+while reduced FDG uptake in lateral cortical regions is related to
+diaschisis-like phenomena.
+4.3. Effect of ACAo on decision-making during foraging
+In order to test alterations of decision-making strategies in rats,
+we used a food-carrying task whose basic principles were developed more than 60 years ago (Bindra, 1948; Morgan, 1947; Wolfe,
+1939). The rat encounters food in a meander-shaped arena and has
+two alternatives, namely carrying the food back to the cage or eating
+it directly at the food patch (Whishaw et al., 1990). This is reﬂected
+by the food-carrying probability score, which was inversely correlated to infarct size, suggesting that areas of the ACA territory are
+involved in the food-handling decision. This is in line with other
+studies implicating anterior cingulate cortex and nucleus accumbens in foraging strategies (Whishaw and Kornelsen, 1993; Li et al.,
+2012). Closely associated with food-carrying probability was the
+number of food-carrying trips, total distance moved, and walking
+speed, which were all signiﬁcantly reduced after ACAo, but not after
+sham operation. We can therefore conclude that food-handling
+decisions had changed after ACAo favoring less motor activity. It
+is unlikely that this was caused by a disturbance of the primary
+motor system, since the same animals showed increased walking
+speed on the elevated plus maze (see below). However, ischemic
+lesions in the secondary motor cortex M2 may have contributed to
+behavioral changes, since M2 neurons are involved in self-initiated
+actions (Murakami et al., 2014).
+Several factors inﬂuence the food-handling decision, including
+emotional parameters as shyness, fear, and anxiety (Dringenberg
+et al., 1994, 2000). To test anxiety in our rats we used the elevated plus maze test, where animals can move freely between
+two enclosed and two open arms of an elevated platform. Relative open arm time and relative number of open arm entries
+are inverse measures of anxiety, whereas the total number of
+zone entries reﬂects exploratory activity (Doremus et al., 2006;
+Rodgers and Johnson, 1995). Both open arm time and open arm
+entries increased 1 month after ACAo, but remained constant in
+sham animals, suggesting that after ACAo, animals were less anxious than before. This is in line with ﬁndings emphasizing the
+role of the orbitofrontal-infralimbic/prelimbic-amygdala network
+(Rempel-Clower, 2007; Sotres-Bayon and Quirk, 2010) and also the
+cingulate cortex (Albrechet-Souza et al., 2009; Maier et al., 2012)
+and nucleus accumbens (Yorgason et al., 2013) for anxiety-like
+behavior. Our ﬁndings therefore suggest that at least part of the
+reduction of food-carrying and walking speed may be attributed to
+a decrease of anxiety directly caused by the focal ischemic lesion.
+Distance between food and refuge is another important factor
+for the food-handling decision. Long distances lead to extended
+travel times in case of food-carrying, which may be worthwhile
+only when food eating time is also long (Whishaw et al., 1990;
+
+289
+
+Nakatsuyama and Makino, 1999; Whishaw and Dringenberg, 1991;
+Whishaw and Tomie, 1989). Particularly these economic factors
+have been investigated in relation to optimal foraging theory
+(Whishaw and Dringenberg, 1991; Lima et al., 1985; Phelps and
+Roberts, 1989; Whishaw, 1990), which describes the trade-off
+between predatory risk and energy gain (Cezilly and Benhamou,
+1996; Pyke, 1984; Pyke et al., 1977). For a correct decision in terms
+of optimal foraging theory it is necessary that the rat is aware of its
+location and able to estimate travel time. Therefore, navigational
+skills have been investigated with the food-carrying task as well,
+including sensory hierarchy and cue competition during piloting
+and dead reckoning (Gibson and Shettleworth, 2003; Maaswinkel
+and Whishaw, 1999; Tigner and Wallace, 1972; Whishaw and
+Tomie, 1997). We have used the spontaneous alternation test to
+obtain a crude measure of spatial working memory. Spontaneous
+alternation was reduced after ACAo, but not after sham operation. However, alternation behavior depends not only on spatial
+working memory, but also on the animal’s willingness to explore
+a novel environment (Hughes, 2004; Lalonde, 2002). Our results
+from elevated plus maze testing had demonstrated that anxiety
+had decreased after ET-1 injection, while exploratory activity had
+increased (see above). We can therefore conclude that reduction
+of spontaneous alternation to chance level after ACAo reﬂects a
+decrease of spatial memory rather than neophobia. A loss of spatial memory may therefore have contributed to the decrease of
+food-carrying after ACAo. However, the fact that distance between
+food and cage had no signiﬁcant effect on the food-carrying decision in the ACAo-group even before ET1-injection suggests that this
+contribution may be small.
+An unexpected ﬁnding was that walking speed during foodcarrying decreased from 46 to 34 cm/s after ACAo, while walking
+speed on the elevated plus maze increased from 16 to 23 cm/s
+(open arms) or 22 cm/s (closed arms), respectively. This illustrates
+one of the main ﬁndings of this study, namely that ACAo indeed
+changes behavior, but not in a generalized fashion resulting in
+either hypoactivity (apathy, passivity) or hyperactivity (agitation).
+Rather, behavioral changes seem highly context-dependent. In the
+food-carrying task, rats leave their home-cage voluntarily to forage, and run back to their refuge at high speed after they have
+decided to carry their food. The motivation to carry and to move fast
+may be anxiety, which functions to move the animal toward danger using appropriate risk assessment behavior (McNaughton and
+Corr, 2004). After ACAo, this motivational factor may be reduced,
+resulting in less food-carrying with lower walking speed. On the
+elevated plus maze, however, there is no refuge and no food, so that
+goal-directed behavior cannot develop. In the absence of a task, the
+effects of ACAo shift toward hyperactivity, with the animal restlessly roaming the maze. In a similar fashion, a mixture of apathy
+and agitation occurs in the majority of institutionalized dementia
+patients (Buettner and Fitzsimmons, 2006), whereby a decrease of
+gray matter density in the anterior cingulate cortex correlates with
+the severity of both behavioral states (Bruen et al., 2008). In ACAo
+patients (stroke or ruptured aneurysms) apathy predominates, but
+agitation is observed as well (Kumral et al., 2002; Kang and Kim,
+2008). That even severe abulia is highly context-dependent has
+been impressively shown by the telephone effect (Fisher, 1983),
+where mute patients can be tricked into animated talking by calling
+them on the phone.
+5. Conclusions
+Taken together, our results show that stereotactic injection
+of ET-1 induces vasoconstriction long enough to induce bilateral
+ischemic infarction in the ACA territory in rats. ACAo in the early
+chronic stage, i.e., 1 month after ET-1 injection, decreased foodcarrying behavior and walking speed in a foraging situation, which
+
+290
+
+H. Endepols et al. / Journal of Neuroscience Methods 253 (2015) 279–291
+
+can be explained by decreased anxiety. Spatial working memory decreased as well, but seemed to be less important for the
+food-handling decision. While reduced activity during goaldirected behavior develops analog to executive impairments and
+abulia in human ACAo patients, the same rats show increased
+exploratory activity and restlessness in the absence of task-related
+stimuli. We conclude that the rat ACAo model is not only suitable
+to study the effects of ACA stroke with respect to functional deterioration and recovery, but also to investigate how stroke symptoms
+are provoked or alleviated by environment and context.
+Conﬂict of interest
+There is no conﬂict of interest to declare.
+References
+Agrawal KL, Mittal BR, Bhattacharya A, Khandelwal N, Prabhakar S. Crossed cerebellar diaschisis on F-18 FDG PET/CT. Indian J Nucl Med 2011;26:102–3.
+Albrechet-Souza L, Borelli KG, Carvalho MC, Brandão ML. The anterior cingulate
+cortex is a target structure for the anxiolytic-like effects of benzodiazepines
+assessed by repeated exposure to the elevated plus maze and Fos immunoreactivity. Neuroscience 2009;164:387–97.
+Arboix A, Garcia-Eroles L, Sellares N, Raga A, Oliveres M, Massons J. Infarction in
+the territory of the anterior cerebral artery: clinical study of 51 patients. BMC
+Neurol 2009;9:30.
+Backes H, Walberer M, Endepols H, Neumaier B, Graf R, Wienhard K, et al.
+Whiskers area as extracerebral reference tissue for quantiﬁcation of rat brain
+metabolism using 18F-FDG PET: application to focal cerebral ischemia. J Nucl
+Med 2011;52:1252–60.
+Bindra D. What makes rats hoard. J Comp Physiol Psych 1948;41:397–402.
+Bird CM, Castelli F, Malik O, Frith U, Husain M. The impact of extensive medial frontal
+lobe damage on ‘Theory of Mind’ and cognition. Brain 2004;127:914–28.
+Bogousslavsky J. Frontal stroke syndromes. Eur Neurol 1994;34:306–15.
+Bogousslavsky J, Regli F. Anterior cerebral artery territory infarction in the Lausanne
+Stroke Registry Clinical and etiologic patterns. Arch Neurol 1990;47:144–50.
+Bonhomme V, Boveroux P, Brichant JF, Laureys S, Boly M. Neural correlates of
+consciousness during general anesthesia using functional magnetic resonance
+imaging (fMRI). Arch Ital Biol 2012;150:155–63.
+Boretius S, Tammer R, Michaelis T, Brockmoller J, Frahm J. Halogenated volatile
+anesthetics alter brain metabolism as revealed by proton magnetic resonance
+spectroscopy of mice in vivo. Neuroimage 2013;69:244–55.
+Böttger S, Prosiegel M, Steiger HJ, Yassouridis A. Neurobehavioural disturbances,
+rehabilitation outcome, and lesion site in patients after rupture and repair
+of anterior communicating artery aneurysm. J Neurol Neurosurg Psychiatry
+1998;65:93–102.
+Bruen PD, McGeown WJ, Shanks MF, Venneri A. Neuroanatomical correlates of neuropsychiatric symptoms in Alzheimer’s disease. Brain 2008;131:2455–63.
+Buettner L, Fitzsimmons S. Mixed behaviors in dementia: the need for a paradigm
+shift. J Gerontol Nurs 2006;32:15–22.
+Candelario-Jalil E, Al-Dalain SM, Castillo R, Martinez G, Fernandez OS. Selective vulnerability to kainate-induced oxidative damage in different rat brain regions. J
+Appl Toxicol 2001;21:403–7.
+Cezilly F, Benhamou S. Optimal foraging strategies: a review. Rev Ecol Terre Vie
+1996;51:43–86.
+Cordova CA, Jackson D, Langdon KD, Hewlett KA, Corbett D. Impaired executive
+function following ischemic stroke in the rat medial prefrontal cortex. Behav
+Brain Res 2014;258:106–11.
+Datiche F, Cattarelli M. Reciprocal and topographic connections between the piriform and prefrontal cortices in the rat: a tracing study using the B subunit of the
+cholera toxin. Brain Res Bull 1996;41:391–8.
+Doremus TL, Varlinskaya EI, Spear LP. Factor analysis of elevated plus-maze behavior
+in adolescent and adult rats. Pharmacol Biochem Behav 2006;83:570–7.
+Dringenberg HC, Kornelsen RA, Vanderwolf CH. Food carrying in rats is blocked
+by the putative anxiolytic agent buspirone. Pharmacol Biochem Behav
+1994;49:741–6.
+Dringenberg HC, Wightman M, Beninger RJ. The effects of amphetamine and raclopride on food transport: possible relation to defensive behavior in rats. Behav
+Pharmacol 2000;11:447–54.
+Feigin VL, Forouzanfar MH, Krishnamurthi R, Mensah GA, Connor M, Bennett DA,
+et al. Global and regional burden of stroke during 1990–2010: ﬁndings from the
+Global Burden of Disease Study 2010. Lancet 2014;383:245–54.
+Finger S, Koehler PJ, Jagella C. The Monakow concept of diaschisis: origins and perspectives. Arch Neurol 2004;61:283–8.
+Fisher CM. Honored guest presentation: abulia minor vs agitated behavior. Clin
+Neurosurg 1983;31:9–31.
+Fuxe K, Bjelke B, Andbjer B, Grahn H, Rimondini R, Agnati LF. Endothelin-1 induced
+lesions of the frontoparietal cortex of the rat. A possible model of focal cortical
+ischemia. Neuroreport 1997;8:2623–9.
+Gacs G, Fox AJ, Barnett HJ, Vinuela F. Occurrence and mechanisms of occlusion of
+the anterior cerebral artery. Stroke 1983;14:952–9.
+
+Gibson BM, Shettleworth SJ. Competition among spatial cues in a naturalistic foodcarrying task. Learn Behav 2003;31:143–59.
+Gustafsson F, Holstein-Rathlou N. Conducted vasomotor responses in arterioles:
+characteristics, mechanisms and physiological signiﬁcance. Acta Physiol Scand
+1999;167:11–21.
+Heidbreder CA, Groenewegen HJ. The medial prefrontal cortex in the rat: evidence
+for a dorso-ventral distinction based upon functional and anatomical characteristics. Neurosci Biobehav Rev 2003;27:555–79.
+Hossmann KA. Viability thresholds and the penumbra of focal ischemia. Ann Neurol
+1994;36:557–65.
+Hughes RN. The value of spontaneous alternation behavior (SAB) as a test of
+retention in pharmacological investigations of memory. Neurosci Biobehav Rev
+2004;28:497–505.
+Hütter BO, Gilsbach JM. Cognitive deﬁcits after rupture and early repair of anterior
+communicating artery aneurysms. Acta Neurochir (Wien) 1992;116:6–13.
+Imbrosci B, Ytebrouck E, Arckens L, Mittmann T. Neuronal mechanisms underlying
+transhemispheric diaschisis following focal cortical injuries. Brain Struct Funct
+2014 [in press].
+Johnson DM, Illig KR, Behan M, Haberly LB. New features of connectivity in piriform
+cortex visualized by intracellular injection of pyramidal cells suggest that primary olfactory cortex functions like association cortex in other sensory systems.
+J Neurosci 2000;20:6974–82.
+Joo HW, Hyun JK, Kim TU, Chae SH, Lee YI, Lee SJ. Inﬂuence of constraint-induced
+movement therapy upon evoked potentials in rats with cerebral infarction. Eur
+J Neurosci 2012;36:3691–7.
+Kang SY, Kim JS. Anterior cerebral artery infarction: stroke mechanism and clinicalimaging study in 100 patients. Neurology 2008;70:2386–93.
+Kumral E, Bayulkem G, Evyapan D, Yunten N. Spectrum of anterior cerebral artery
+territory infarction: clinical and MRI ﬁndings. Eur J Neurol 2002;9:615–24.
+Lalonde R. The neurobiological basis of spontaneous alternation. Neurosci Biobehav
+Rev 2002;26:91–104.
+Li F, Li M, Cao W, Xu Y, Luo Y, Zhong X, et al. Anterior cingulate cortical lesion
+attenuates food foraging in rats. Brain Res Bull 2012;88:602–8.
+Lima SL, Valone TJ, Caraco T. Foraging-efﬁciency predation-risk trade-off in the grey
+squirrel. Anim Behav 1985;33:155–65.
+Liu H, Guthrie KM. Neuronal replacement in the injured olfactory bulb. Exp Neurol
+2011;228:270–82.
+Livingston-Thomas JM, Hume AW, Doucette TA, Tasker RA. A novel approach to
+induction and rehabilitation of deﬁcits in forelimb function in a rat model of
+ischemic stroke. Acta Pharmacol Sin 2013;34:104–12.
+Maaswinkel H, Whishaw IQ. Homing with locale, taxon, and dead reckoning strategies by foraging rats: sensory hierarchy in spatial navigation. Behav Brain Res
+1999;99:143–52.
+Maier S, Szalkowski A, Kamphausen S, Perlov E, Feige B, Blechert J, et al. Clarifying the role of the rostral dmPFC/dACC in fear/anxiety: learning, appraisal or
+expression? PLoS ONE 2012;7:e50120.
+Martinaud O, Perin B, Gerardin E, Proust F, Bioux S, Gars DL, et al. Anatomy of executive deﬁcit following ruptured anterior communicating artery aneurysm. Eur
+J Neurol 2009;16:595–601.
+McNaughton N, Corr PJ. A two-dimensional neuropsychology of defense:
+fear/anxiety and defensive distance. Neurosci Biobehav Rev 2004;28:285–305.
+Mohajerani MH, Aminoltejari K, Murphy TH. Targeted mini-strokes produce changes
+in interhemispheric sensory signal processing that are indicative of disinhibition
+within minutes. Proc Natl Acad Sci U S A 2011;108:E183–91.
+Morgan CT. The hoarding instinct. Psychol Rev 1947;54:335–41.
+Murakami M, Vicente MI, Costa GM, Mainen ZF. Neural antecedents of
+self-initiated actions in secondary motor cortex. Nat Neurosci 2014.,
+http://dx.doi.org/10.1038/nn.3826 [Epub ahead of print].
+Nagaratnam N, Davies D, Chen E. Clinical effects of anterior cerebral artery infarction.
+J Stroke Cerebrovasc Dis 1998;7:391–7.
+Nagaratnam N, Nagaratnam K, Ng K, Diu P. Akinetic mutism following stroke. J Clin
+Neurosci 2004;11:25–30.
+Nakatsuyama E, Makino J. Food carrying determined by eating time of a food in rats
+(Rattus norvegicus). Psychobiology 1999;27:133–4.
+Nikolova S, Moyanova S, Hughes S, Bellyou-Camilleri M, Lee TY, Bartha R. Endothelin1 induced MCAO: dose dependency of cerebral blood ﬂow. J Neurosci Methods
+2009;179:22–8.
+Phelps MT, Roberts WA. Central-place foraging by Rattus norvegicus on a radial maze.
+J Comp Psychol 1989;103:326–38.
+Prieto E, Collantes M, Delgado M, Juri C, Garcia-Garcia L, Molinet F, et al. Statistical
+parametric maps of 18F-FDG PET and 3-D autoradiography in the rat brain: a
+cross-validation study. Eur J Nucl Med Mol Imaging 2011;38:2228–37.
+Pyke GH. Optimal foraging theory – a critical review. Annu Rev Ecol Syst
+1984;15:523–75.
+Pyke GH, Pulliam HR, Charnov EL. Optimal foraging – selective review of theory and
+tests. Q Rev Biol 1977;52:137–54.
+Qi J, Leahy RM, Cherry SR, Chatziioannou A, Farquhar TH. High-resolution 3D
+Bayesian image reconstruction using the microPET small-animal scanner. Phys
+Med Biol 1998;43:1001–13.
+Raichle ME, Mintun MA. Brain work and brain imaging. Ann Rev Neurosci
+2006;29:449–76.
+Regenhardt RW, Ansari S, Azari H, Caldwell KJ, Mecca AP. Utilizing a cranial window to visualize the middle cerebral artery during endothelin-1 induced middle
+cerebral artery occlusion. J Vis Exp 2013;72:e50015.
+Rempel-Clower NL. Role of orbitofrontal cortex connections in emotion. Ann N Y
+Acad Sci 2007;1121:72–86.
+
+H. Endepols et al. / Journal of Neuroscience Methods 253 (2015) 279–291
+Rodgers RJ, Johnson NJ. Factor analysis of spatiotemporal and ethological measures
+in the murine elevated plus-maze test of anxiety. Pharmacol Biochem Behav
+1995;52:297–303.
+Roome RB, Bartlett RF, Jeffers M, Xiong J, Corbett D, Vanderluit JL. A reproducible
+endothelin-1 model of forelimb motor cortex stroke in the mouse. J Neurosci
+Methods 2014;233:34–44.
+Rubin G, Levy EI, Scarrow AM, Firlik AD, Karakus A, Wechsler L, et al. Remote effects
+of acute ischemic stroke: a xenon CT cerebral blood ﬂow study. Cerebrovasc Dis
+2000;10:221–8.
+Sakurada O, Kennedy C, Jehle J, Brown JD, Carbin GL, Sokoloff L. Measurement of local
+cerebral blood ﬂow with iodo[14C]antipyrine. Am J Physiol 1978;234:H59–66.
+Shih WJ, Huang WS, Milan PP. F-18 FDG PET demonstrates crossed cerebellar diaschisis 20 years after stroke. Clin Nucl Med 2006;31:259–61.
+Sotres-Bayon F, Quirk GJ. Prefrontal control of fear: more than just extinction. Curr
+Opin Neurobiol 2010;20:231–5.
+Soylu H, Zhang D, Buist R, Martin M, Albensi BC, Parkinson FE. Intracortical injection
+of endothelin-1 induces cortical infarcts in mice: effect of neuronal expression
+of an adenosine transporter. Exp Transl Stroke Med 2012;4:4.
+Takahashi LK, Lore RK. Foraging and food hoarding of wild Rattus norvegicus in an
+urban environment. Behav Neural Biol 1980;29:527–31.
+Takatsuru Y, Fukumoto D, Yoshitomo M, Nemoto T, Tsukada H, Nabekura J. Neuronal
+circuit remodeling in the contralateral cortical hemisphere during functional
+recovery from cerebral infarction. J Neurosci 2009;29:10081–6.
+Tigner JC, Wallace RJ. Hoarding of food and non-food items in blind, anosmic and
+intact albino rats. Physiol Behav 1972;8:943–8.
+Virley D, Hadingham SJ, Roberts JC, Farnﬁeld B, Elliott H, Whelan G, et al. A new
+primate model of focal stroke: endothelin-1-induced middle cerebral artery
+occlusion and reperfusion in the common marmoset. J Cereb Blood Flow Metab
+2004;24:24–41.
+Vollmar S, Hampl JA, Kracht L, Herholz K. Integration of functional data (PET)
+into brain surgery planning and neuronavigation. Adv Med Eng 2007;114:
+98–103.
+
+291
+
+Walberer M, Backes H, Rueger MA, Neumaier B, Endepols H, Hoehn M, et al. Potential
+of early [18F]-2-ﬂuoro-2-deoxy-d-glucose positron emission tomography for
+identifying hypoperfusion and predicting fate of tissue in a rat embolic stroke
+model. Stroke 2012;43:193–8.
+Ward NM, Sharkey J, Marston HM, Brown VJ. Simple and choice reaction-time performance following occlusion of the anterior cerebral arteries in the rat. Exp
+Brain Res 1998;123:269–81.
+Welsh JP, Yuen G, Placantonakis DG, Vu TQ, Haiss F, O’Hearn E, et al. Why do Purkinje cells die so easily after global brain ischemia? Aldolase C, EAAT4, and the
+cerebellar contribution to posthypoxic myoclonus. Adv Neurol 2002;89:331–59.
+Whishaw IQ. Time estimates contribute to food handling decisions by rats – implications for neural control of hoarding. Psychobiology 1990;18:460–6.
+Whishaw IQ, Dringenberg HC. How does the rat (Rattus norvegicus) adjust foodcarrying responses to the inﬂuences of distance, effort, predatory odor, food
+size, and food availability? Psychobiology 1991;19:251–61.
+Whishaw IQ, Kornelsen RA. Two types of motivation revealed by ibotenic acid
+nucleus accumbens lesions: dissociation of food carrying and hoarding and the
+role of primary and incentive motivation. Behav Brain Res 1993;55:283–95.
+Whishaw IQ, Tomie JA. Food-pellet size modiﬁes the hoarding behavior of foraging
+rats. Psychobiology 1989;17:93–101.
+Whishaw IQ, Tomie J. Piloting and dead reckoning dissociated by ﬁmbria-fornix
+lesions in a rat food carrying task. Behav Brain Res 1997;89:87–97.
+Whishaw IQ, Oddie SD, McNamara RK, Harris TL, Perry BS. Psychophysical methods
+for study of sensory-motor behavior using a food-carrying (hoarding) task in
+rodents. J Neurosci Methods 1990;32:123–33.
+Whitman MC, Greer CA. Adult neurogenesis and the olfactory system. Prog Neurobiol
+2009;89:162–75.
+Wolfe JB. An exploratory study of food-storing in rats. J Comp Psychol 1939;28:
+97–108.
+Yorgason JT, Espana RA, Konstantopoulos JK, Weiner JL, Jones SR. Enduring increases
+in anxiety-like behavior and rapid nucleus accumbens dopamine signaling in
+socially isolated rats. Eur J Neurosci 2013;37:1022–31.
+
+

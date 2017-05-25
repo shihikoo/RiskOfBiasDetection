@@ -1,0 +1,865 @@
+OPEN
+
+Journal of Cerebral Blood Flow & Metabolism (2015) 35, 277–284
+© 2015 ISCBFM All rights reserved 0271-678X/15
+www.jcbfm.com
+
+ORIGINAL ARTICLE
+
+Delayed reperfusion deﬁcits after experimental stroke account
+for increased pathophysiology
+Fiona E Burrows1, Natasha Bray1, Adam Denes1,2, Stuart M Allan1 and Ingo Schiessl1
+Cerebral blood ﬂow and oxygenation in the ﬁrst few hours after reperfusion following ischemic stroke are critical for
+therapeutic interventions but are not well understood. We investigate changes in oxyhemoglobin (HbO2) concentration in the
+cortex during and after ischemic stroke, using multispectral optical imaging in anesthetized mice, a remote ﬁlament to induce
+either 30 minute middle cerebral artery occlusion (MCAo), sham surgery or anesthesia alone. Immunohistochemistry establishes
+cortical injury and correlates the severity of damage with the change of oxygen perfusion. All groups were imaged for 6 hours after
+MCAo or sham surgery. Oxygenation maps were calculated using a pathlength scaling algorithm. The MCAo group shows a
+signiﬁcant drop in HbO2 during occlusion and an initial increase after reperfusion. Over the subsequent 6 hours HbO2
+concentrations decline to levels below those observed during stroke. Platelets, activated microglia, interleukin-1α, evidence
+of BBB breakdown and neuronal stress increase within the stroked hemisphere and correlate with the severity of the
+delayed reperfusion deﬁcit but not with the ΔHbO2 during stroke. Despite initial restoration of HbO2 after 30 min MCAo there
+is a delayed compromise that coincides with inﬂammation and could be a target for improved stroke outcome after
+thrombolysis.
+Journal of Cerebral Blood Flow & Metabolism (2015) 35, 277–284; doi:10.1038/jcbfm.2014.197; published online 19 November 2014
+Keywords: inﬂammation; middle cerebral artery occlusion; optical imaging; reperfusion; stroke; spectroscopy
+
+INTRODUCTION
+Stroke is one of the major causes of morbidity and mortality in the
+western world. Given the multiparametric response of the brain
+and immune system to an ischemic insult, there are few
+therapeutic interventions available.1,2 In humans, the main cause
+of stroke is ischemic brain injury (85%), usually following from
+occlusion of the middle cerebral artery (MCA).3,4 Ischemic stroke
+leads to hypoperfusion of brain tissue, inducing an energydepleted state within the infarct core and triggering a number of
+acute pathophysiologic processes, altogether resulting in neuronal
+injury. Induction of hypoperfusion, i.e. the reduction in cerebral
+blood ﬂow within the affected area, starves neurons of glucose5
+and leads to the constriction of pericytes,6 the release of
+endogenous mitochondrial damage-associated molecular patterns,7 and proinﬂammatory cytokines.8,9 To improve treatment
+of ischemic stroke, it is important to understand the underlying
+pathophysiologic changes that occur within the acute phase of
+cerebral ischemia.
+Hypoperfusion that results in a deﬁcit in the delivery of oxygen
+to cerebral tissue within the infarct core causes irreversible
+changes to neuronal integrity and vascular components that
+contribute further to the lack of reperfusion.6,10 The ‘no-reﬂow’
+phenomenon is a concept that has been documented in clinical
+cases and animal models of cerebral ischemia triggered by
+occlusions as short as 30 minutes.11–13 Signiﬁcant alterations in
+microvessel integrity occur within the ﬁrst few minutes of ﬂow
+cessation after an ischemic insult.14 These changes culminate in
+focal ‘no-reﬂow’ within the microvessels, where the activation of
+
+endothelium and coagulation factors leads to the recruitment of
+leukocytes and platelets, obstructing the microvessel lumen and
+leading to an increase in microvessel permeability.14–16 The
+penumbral region borders the infarct core and contains stressed,
+but functionally viable, neurons. Timely reperfusion can salvage
+stressed neurons within the penumbral region, but if not
+achieved, continued hypoperfusion leads to the extension of the
+infarct core, which eventually envelops the penumbral region.17,18
+Two-dimensional optical imaging spectroscopy (2D-OIS) is a
+powerful imaging technique that uses different wavelengths of
+illumination to record image data from which hemodynamic
+parameters can be determined, including changes in HbO2 concentration at the cortical surface.19 Traditionally, studies using 2DOIS investigate changes in the hemodynamic parameters between
+periods of cortical stimulation and rest. Here, we calculate the
+changes between different time points of the ischemic event.
+Focal ischemia can be replicated in rodent models by middle
+cerebral artery occlusion (MCAo) whereby a siliconized ﬁlament is
+placed at the base of the MCA branch to cause occlusion.20,21
+Although many other forms of occlusion exist (coagulation of the
+artery or surgical ligature) such techniques are less controllable
+with respect to reperfusion after a limited period of occlusion than
+the ﬁlament MCAo method.22,23 However, one drawback with
+ﬁlament MCAo is the larger intersubject variability with regard to
+the ﬁnal infarct volume. In this study, we developed a remote
+ﬁlament method, whereby the ﬁlament is placed in the artery
+without blocking blood ﬂow, to allow baseline recordings to be
+made, and is then advanced in the imaging setup to cause the
+focal ischemic event, with subsequent retraction after the desired
+
+1
+The University of Manchester, Faculty of Life Sciences, Manchester, UK and 2Institute of Experimental Medicine, Budapest , Hungary. Correspondence: Dr I Schiessl, Faculty of Life
+Sciences, University of Manchester, Stopford Building, Oxford Road, M13 9PT Manchester, UK.
+E-mail: i.schiessl@manchester.ac.uk
+This work was funded by the Medical Research Council (MRC) and Biomedical imaging Institute (BII) at the University of Manchester.
+Received 22 July 2014; revised 24 September 2014; accepted 20 October 2014; published online 19 November 2014
+
+Reperfusion deﬁcits account for pathophysiology
+FE Burrows et al
+
+278
+
+length of time. Using this approach we are the ﬁrst group to
+report the μmolar change in the concentration of HbO2 from the
+baseline perfusion, during the stroke period, and after block
+removal (reperfusion) for each animal in vivo. This allows us to
+correlate the dynamical changes of HbO2 perfusion with speciﬁc
+markers that can delineate a timeline of events that lead to
+neuronal injury6,16 and that have already been identiﬁed as
+contributing to the ‘no-reﬂow’ phenomenon, i.e., platelets and
+neutrophils, as well as markers of blood brain barrier (BBB)
+disruption, glial activation, and inﬂammation.
+We hypothesise that the lack of sustained reperfusion and
+not the initial decrease in HbO2 during occlusion governs the
+extent of pathophysiologic damage and that platelet aggregation
+has a key role in the cerebral ischemic no-reﬂow phenomenon
+through physical obstruction of the microvasculature.
+
+the remote ﬁlament in place. The tubing was then secured on to the
+sternocleidomastoid muscle.
+For imaging experiments, animals were ﬁxed in a stereotactic frame
+(Narishige, Tokyo, Japan) with ear bars, mouth bar and a dorsal head post
+to prevent movement. Animals were artiﬁcially ventilated at 1% to 1.5%
+isoﬂurane in room air via a Zoovent Jetsys ventilator (Universal Lung
+Ventilators Ltd, Milton Keynes, UK). Body temperature was maintained at
+36.9 ± 0.2°C via a heating blanket controlled with a rectal probe (Harvard
+Apparatus, Kent, UK), and the heart rate was monitored via ECG
+throughout the experiment.
+A midline incision in the scalp was made and the skull on the left side
+exposed. A soft parafﬁn (Vaseline) ‘well’ was constructed directly onto the
+skull and ﬁlled with 37°C saline. This well was then closed with a glass
+coverslip to create a stable imaging window over the somatosensory
+cortex, through which the intact and translucent skull could be observed.
+
+Two-Dimensional Optical Imaging Spectroscopy
+MATERIALS AND METHODS
+Remote Filaments
+Sterile Ethicon 5-0 monoﬁlament sutures (Ethicon, Bridgewater, NJ, USA) were
+cut to 5 cm lengths and then marked at 10 mm from the tip for subsequent
+coating. Clear 0.5 mm diameter i.v. catheter tubing (Portex, Kent, UK) was cut
+to 2 cm length and used to aid stability during insertion of the remote
+ﬁlament. The ﬁlament tip was dipped in ethanol to remove any dirt or grease
+and covered evenly over the 10-mm length with a mixture of Xantopren M
+Mucosa and Activator NF Optosil.24 Filament diameter was checked under a
+microscope using a μm scale (diameter ranged from 0.21 to 0.23 mm).
+Filaments were then suspended tip down and left to air dry for 1 hour.
+
+Animals
+All procedures were performed under appropriate Home Ofﬁce Licence
+(UK), adhered to the Animals Scientiﬁc Procedures (1986) Act and were
+performed in accordance with ARRIVE guidelines. Experiments and the
+study were approved by the local ethics committee in the Faculty of Life
+Sciences of the University of Manchester, UK. Mice were kept at 21°C and
+65% humidity with a regulated 12-hour light–dark cycle and with free
+access to food and water. Fifteen male C57/BL6 mice weighing between 30
+and 36 g (age 18 to 25 weeks) were used in this study. Nine C57/BL6 male
+mice underwent 30 minutes occlusion with 6 hours reperfusion (MCAo
+group); three underwent sham (SHAM) surgery, where the ﬁlament was left
+within the internal carotid artery during surgery but not advanced; and
+three control (CTRL) mice underwent a tracheotomy only. Animals in the
+sham group showed no signiﬁcant variability in the measures between
+subjects and with the control animals using an ANOVA comparison.
+Therefore in line with the 3 R’s for the humane use of animals in scientiﬁc
+research we kept the sham and control group at n = 3.
+
+Surgical Preparation
+Anesthesia was induced with 4% isoﬂurane (Abbott, Berkshire, UK) in room
+air. Once the animals were unconscious with lack of pedal reﬂex, they were
+maintained under 2% isoﬂurane via a face mask for surgery and, once a
+tracheal cannula had been inserted, 1% to 1.5% isoﬂurane for the
+remainder of the experiment.
+For MCAo, a midline skin incision across the throat was made to expose
+the left common carotid artery, and its bifurcation into internal and
+external branches. After cauterizing the superior thyroid artery branching
+from the external carotid artery (ECA), the common carotid artery was
+ligated with a 10x2 mm micro-serreﬁne (Fine Surgical Tools (FST), DE).21
+The ECA was fully occluded by cauterization as distally from the bifurcation
+with the internal carotid artery as could be achieved and an ~ 0.23 mm
+hole was cut into the ECA proximally. A standard Doccol 0.21 ± 0.02 mm
+width ﬁlament (6021PK10, Doccol Corporation, Sharon, MA, USA) was
+inserted and advanced 5 mm. The custom-made remote ﬁlament was
+levered into the hole in the wall of the ECA while the Doccol ﬁlament was
+simultaneously removed. The ﬁlament was then further advanced to the
+internal carotid artery to a point just before the MCA branch, but without
+occluding the MCA. The ﬁlament was secured in place with a surgical
+suture loop around the ECA that was tight enough to prevent bleeding but
+would allow the movement of the ﬁlament. A 2-cm length of transparent
+0.5 mm diameter i.v. catheter tubing was ﬁlled with silicon oil (SigmaAldrich, Gillingham, UK) and positioned close to the surgical site, holding
+Journal of Cerebral Blood Flow & Metabolism (2015), 277 – 284
+
+Two-dimensional spectroscopic imaging data were collected through the
+imaging window over the intact skull using a high signal-to-noise charged
+coupled device (CCD) camera (Pantera 1M30, DALSA, Munich, Germany).
+The region of interest was illuminated sequentially by four different
+wavelengths of light (550 ± 10 nm, 560 ± 10 nm, 577 ± 10 nm, and 700
+± 10 nm) using a Lambda DG-4 high-speed ﬁlter changer (Sutter
+Instruments, Novato, CA, USA). Camera data collection was synchronized
+with the ﬁlter changer so that each image frame was recorded with one of
+the four different cortical illumination wavelengths in a sequential manner
+at a rate of 28 Hz.
+A ceramic attenuator (PI Instruments, Bedford, UK) was attached to a
+single whisker on the right whisker pad to enable computer-controlled
+mechanical stimulation of the barrel cortex throughout the experiment.
+A single imaging experiment consisted of a continuous recording of 30
+trials. Each trial was 16 seconds long and contained a 4-second prestimulus
+period; 4 seconds of 8 Hz mechanical whisker stimulation and an 8-second
+recovery time. These 8-minute experiments were recorded before, during,
+and after MCAo or the time equivalents in the other experimental groups.
+Supplementary Figure 1 shows the timing of a single trial, experiment and
+the timeline for the whole procedure.
+
+Induction of Cerebral Ischemia
+Once the CCD camera was in position, an imaging region of interest was
+chosen to include branches of the MCA and surrounding parenchyma
+within the left somatosensory cortex. Visualization of the activation of the
+barrel from whisker stimulation provided instant feedback on the correct
+positioning. Two sets of trials were recorded for baseline comparison, after
+which the ﬁlament was externally moved ~ 2 to 3 mm to induce occlusion
+of the MCA. Experiments were recorded consecutively, for a total of
+30 minutes, during the occlusion phase. The remote ﬁlament was then
+retracted back 6 mm to allow full reperfusion of the MCA. Trial sets were
+then recorded every 30 minutes for 6 hours after reperfusion.
+After 6 hours reperfusion, the animal was transcardially perfused with
+0.9% saline solution containing 0.5% sodium nitrate followed by 2%
+paraformaldehyde solution. After ﬁxing, the brain was removed, stored in
+2% paraformaldehyde for 24 hours and submerged in a 30% sucrose
+solution for a further 24 hours.
+
+Tissue Processing
+Coronal brain sections (30 μm thick) were cut on a sledge microtome
+(Leica, Milton Keynes, UK) with freezing stage (Bright Instruments,
+Huntingdon, UK). Sections were stored in antifreeze solution (30% ethylene
+glycol and 20% glycerol (Sigma, Gillingham, UK) in phosphate-buffered
+saline (PBS)) at − 20 °C, before histological staining.
+
+Immunohistochemistry
+Brain sections were washed in PBS and incubated for 1 hour at room
+temperature with 2% normal donkey or rabbit serum (Vector Labs,
+Peterborough, UK) in PBS containing 0.3% Triton X-100 (Sigma) to block
+nonspeciﬁc binding. Sections were then incubated overnight with primary
+antibodies as follows: mouse monoclonal anti-CD41/integrin alpha 2b
+antibody (platelets) (1:500, Abcam, Cambridge, UK), rabbit anti-Iba1
+(microglia) (1:1,000, Abcam), rabbit anti-laminin antibody (1:500, Abcam),
+and rabbit neutrophil serum anti-SJC (clone SJC4, 1:1,000). Sections were
+further incubated with secondary antibodies conjugated to Alexa 488 nm
+© 2015 ISCBFM
+
+Reperfusion deﬁcits account for pathophysiology
+FE Burrows et al
+
+279
+or Alexa 594 nm ﬂuorochromes (1:500, Invitrogen, UK) for 2 hours at room
+temperature.
+A ﬁnal wash was performed in PBS and slices were mounted on charged
+microscope slides. Prolong Gold antifade reagent (with or without DAPI;
+Invitrogen) was used as the mounting medium for glass coverslips. Images
+were captured using an Olympus wideﬁeld BX51 upright microscope
+featuring 4x/0.13 UPlanFLN, 10x/0.3 UPlanFLN, and 20x/0.5 UPlanFLN
+objectives. Images were captured using a Coolsnap EZ camera (Photometrics, Herts, UK) and MetaVue Software (Molecular Devices, Sunnyvale,
+CA, USA). Speciﬁc band-pass ﬁlter sets were used for DAPI (31000v2,
+BP350/50 nm), Alexa 488 (FITC 41001 BP480/40 nm), and Alexa 594 (Texas
+Red 41004 BP560/55 nm). Settings remained constant, and a selected area
+of the cerebral cortex at the same magniﬁcation (x20) was used across
+groups for each speciﬁc marker.
+Premounted sections for IL-1α and IL-1β immunohistochemistry were
+performed to detect endogenous IL-1α and IL-1β expression. Sections were
+mounted onto charged slides before antigen-retrieval step, during which
+slides were submerged in citrate buffer (Invitrogen) diluted 1:100 in distilled
+water. Slides in buffer were heated in a microwave for 10 minutes to remove
+paraformaldehyde-induced crosslinks within the tissue. Sections were
+blocked with endogenous peroxidase consisting of 10% methanol (Fisher,
+Loughborough, UK) with 3% H2O2 (Sigma) in PBS containing 0.3% Triton
+X-100 (Sigma). Sections were washed in PBS and incubated for 1 hour at
+room temperature with 2% bovine serum albumin (Sigma) with 5% normal
+rabbit serum (Vector Labs) in PBS containing 0.3% Triton X-100 (Sigma) to
+block nonspeciﬁc binding, followed by overnight incubation at room
+temperature with primary goat anti-mouse IL-1α or IL-1β IgG antibody
+(1:500, R&D Systems, Minneapolis, MN, USA), and subsequent incubation with
+a biotinylated rabbit anti-goat antibody (1:500, Vector Labs) for 2 hours.
+Sections were incubated for 1 hour with Vectastain ABC kit (Elite Standard;
+Vector Labs) followed by nickel ammonia diaminobenzidine (DAB) staining—
+
+with a 0.1-mol/L sodium acetate wash to initiate and stop DAB reaction—
+followed by a ﬁnal dehydration step, in which slices were incubated in
+ascending ethanol concentrations (70%, 90% and 100%) for 5 minutes each,
+followed by a further 5-minute incubation in Ultraclear (TAAB Laboratories,
+Berks, UK). Slides then underwent counterstain with cresyl violet (CV; see
+protocol below) before coverslipping with DPX mounting medium (Agar
+Scientiﬁc, Stansted, UK). Full-slice images were captured using a brightﬁeld
+Olympus S2X9 microscope with GXCAM-1.3 video capture and highlight
+3100 power source. GX-capture software was used for image acquisition
+(Camera and software from GX Optical, Stansﬁeld, UK). Magniﬁcation and
+light-illumination settings remained constant for capture of all images.
+Extravasation of IgG through the leaky BBB and into the ipsilateral
+hemisphere was detected by mouse IgG antibody DAB staining as
+described above. IgG is easily detectable as it is found in large quantities
+within systemic plasma (550 to 1900 mg/dL).25 The presence of IgG within
+the brain parenchyma is therefore a reliable measure of BBB disruption.26
+Free-ﬂoating immunohistochemistry was performed to detect the leakage
+of endogenous IgG into the brain parenchyma as a measure of BBB
+breakdown. Slices were loaded into wells with PBS and endogenous
+peroxidases blocked with 1% H2O2. A second blocking agent, consisting of
+5% normal horse serum (Vector Labs) and 2% bovine serum albumin in
+PBS containing 0.3% Triton-X-100 (Sigma), was applied for 1 hour. Sections
+were incubated with biotinylated horse anti-mouse IgG antibody (1:500,
+Vector Labs). Sections were incubated for 1 hour with ABC kit followed by
+DAB staining with 0.1 mol/L sodium acetate wash to initiate and stop DAB
+reaction. Sections were mounted on charged slides, dried and coverslipped
+using DPX mounting medium.
+
+Cresyl Violet Staining
+Brain sections were mounted on gelatinized slides and initially soaked in
+alcohol of increasing concentrations 50%, 70%, 90%, and 100% followed
+
+Figure 1. Example color maps of ΔHbO2 in the three experimental groups. The ﬁrst two columns show the maps over the time course of the
+experiment for the control and sham group. For the total time of nearly 7 hours animals in both groups are very stable and show only small
+variations in the HbO2 concentrations. The third column of maps shows a typical animal in the middle cerebral artery (MCA) occlusion (MCAo)
+group. The sudden decrease in the HbO2 concentration gives instant feedback that the occlusion was successful. When removing the ﬁlament
+we can see increased HbO2 in the branches of the MCA coming in from the left and the microvasculature supplying the parenchyma. This
+initial reperfusion then fades away over time. The masked maps on the right show the areas that were considered for further analysis. Maps in
+the ﬁrst two rows show change with respect to a time point before occlusion and the reperfusion maps show change with respect to the end
+of the occlusion (scale bar = 1 mm, arrow points rostral).
+© 2015 ISCBFM
+
+Journal of Cerebral Blood Flow & Metabolism (2015), 277 – 284
+
+Reperfusion deﬁcits account for pathophysiology
+FE Burrows et al
+
+280
+by descending order again (4 minutes each concentration) to remove
+lipids and ﬁxation chemicals from the tissue, sections are then submerged
+with 1.5% CV staining solution. Sections underwent ascending alcohol
+concentrations 50%, 70%, 90% and 100% (2 minutes each concentration)
+to dehydrate the tissue. Ultraclear (4 minutes) was used as a clearing agent,
+making unstained parts of the tissue transparent followed by coverslipping
+with DPX mounting medium.
+
+Data Analysis
+Immunohistochemistry. Images of the cerebral cortex were collected from
+ﬁve evenly spaced sections spanning the somatosensory cortex from both
+hemispheres for comparison. IL-1α and IgG were quantiﬁed using changes
+in measured pixel density between the cortex in the stroked left
+hemisphere and the corresponding right hemispheres, using Image J
+software (National Institute of Health, USA). IgG and IL-1α were quantiﬁed
+by measuring the mean gray value (pixel density) of each hemisphere, the
+value of which was subtracted from the absolute white value (max), and
+comparing hemispheric values. Activated microglia (Iba-1) and platelet
+cells (CD41) were double-blinded to eliminate bias and then counted
+manually and in each hemisphere in a 0.46 × 0.34 mm size region of the
+somatosensory cortex. Cresyl violet-positive (CV) cells for cortex counts
+were centred on layer IV with a 0.3 × 0.3 mm region of interest for all
+animals.
+Spectroscopic imaging. First, imaging frames were separated according to
+illumination wavelength, resulting in an effective frame rate of 7 Hz. These
+single-wavelength data stacks were then averaged to obtain one single
+grayscale image per wavelength for each set of 30 trials. The dependency
+of multiwavelength optical imaging on photon pathlength was corrected
+for using a modiﬁed Beer-Lambert Law.19,27 In the conversion from
+grayscale to attenuation the sets of four images were compared between
+different time points within the experiment. For example, to establish the
+baseline variability in cortical HbO2 levels, we compared the two image
+sets recorded before occlusion. To establish the extent of the decrease in
+HbO2 during occlusion, we compared the set before occlusion with those
+at the end of the 30-minute occlusion. All the remaining oxygenation maps
+for the MCAo group were calculated by comparing the data at the end of
+occlusion against the maps recorded in the 6 hours after the ﬁlament was
+withdrawn (see Figure 1, third column of maps). For the other two
+experimental groups (sham and control), we compared the equivalent
+time points, though no actual occlusion took place (Figure 1, ﬁrst and
+second column of maps). Once these maps were created, we produced a
+single mask for each animal to exclude the large arteries and veins from
+further analysis (Figure 1, fourth column of maps). This approach allowed
+the calculation of μmolar changes in HbO2 concentration in the area of
+microvascular perfusion of the parenchyma before, during and after
+occlusion, as well as comparisons between groups.
+For the visualization of the ΔHbO2 we created a μmol color scale, with
+blue for a decrease, red an increase and with green colors indicating little
+change compared with the reference time point (Figure 1, far right). For
+statistical evaluation, the mean pixel values of the regions outside the
+masks of the ΔHbO2 maps were calculated. Due to a slight variability of
+carrying out the complex experiment, the timing within the MCAo group
+for the data acquisition during early reperfusion ranged from 8 to 15
+minutes after block removal and later reperfusion ranged from 345 to
+360 minutes. The timing of baseline recordings and recordings during
+occlusion was precise up to the minute.
+
+RESULTS
+Imaging of Loss in Reperfusion After Middle Cerebral Artery
+Occlusion
+Before investigating the change in HbO2 concentration caused by
+ischemia, we established the interexperiment variability of the
+HbO2 parameter (without any manipulation of blood ﬂow using
+the ﬁlament). Baseline recordings from the three experimental
+groups show small ﬂuctuations of ΔHbO2 between trials of
+2.55 ±2.20 μmol in the MCAo group, 2.37 ± 4.7 μmol for the sham
+group and 3.4 ± 4.36 μmol for the control group (see Figure 2,
+Preocclusion). Nonsigniﬁcant variation was observed between
+mean [HbO2] values for ﬁrst baseline readings compared with
+second baseline readings across the experimental.
+Once we moved the remote ﬁlament forward in the MCAo
+group the ΔHbO2 displayed an 8-fold decrease within the stroked
+hemisphere. ΔHbO2 values decreased to − 15.36 ± 5.93 μmol
+compared with baseline level. Over the same time period, the
+ﬂuctuations in the sham and control group remained at baseline
+level with ΔHbO2 sham 1.85 ± 3.57 μmol and control 4.31 ± 3.1
+μmol (Figure 2, Occlusion).
+After 30 minutes of occlusion, we retracted the ﬁlament to allow
+reperfusion to occur. There is an instant 2-fold increase in
+oxygenated blood supply within microvessels supplying the brain
+parenchyma with ΔHbO2 values of 8.22 ± 6.89 μmol compared
+with levels at the end of the occlusion period (Figure 2, Early
+Reperfusion). Again, in the sham and control groups, which did
+not undergo occlusion, the HbO2 concentration recorded at the
+equivalent time points remains similar to baseline ﬂuctuation
+levels with ΔHbO2 values for sham − 0.80 ± 4.12 μmol and control
+7.11 ± 4.13 μmol.
+Over the 6 hours after retracting the remote ﬁlament occluding
+the MCA we saw a signiﬁcant decline of the ΔHbO2 concentration.
+The decrease of ΔHbO2 in the MCAo group is − 37.23 ± 16.52 μmol
+compared with the last recording during occlusion. End point
+sham and control animal ΔHbO2 were recorded at 1.54 ± 1.14
+μmol and 9.15 ± 7.11 μmol, respectively (Figure 2, Late
+Reperfusion).
+
+Statistical Analysis
+Animals were randomized for experiments and quantitative analyses were
+double-blinded across all groups; control group n = 3, sham group n = 3,
+MCAo group n = 9 (one mouse was excluded from group due to
+hemorrhage). One-way ANOVA was used to compare mean HbO2
+concentration change in μmolar values outside the masked regions in
+the imaging data, coupled with Bonferroni multiple comparisons test in
+histology data to indicate differences between the ipsilateral and
+contralateral hemispheres, calculated and displayed as mean values with
+error (± ) displayed by standard deviation. A Pearson’s rank correlation
+coefﬁcient test was performed to measure the strength of association
+between mean changes in ΔHbO2 concentration during occlusion and
+during late reperfusion with CD41, Iba-1, IgG, IL-1α, and CV data.
+Journal of Cerebral Blood Flow & Metabolism (2015), 277 – 284
+
+Figure 2. Changes in oxyhemoglobin concentrations. Variations in
+ΔHbO2 for all three groups at the preocclusion time point are small
+and stable. The middle cerebral artery occlusion (MCAo) group
+shows a signiﬁcant decrease in HbO2 during occlusion. The other
+two groups remain stable at the equivalent time points. All of the
+following changes are calculated with respect to the occlusion
+value. There is an initial increase at the early reperfusion time point
+in the HbO2 concentration for the MCAo group after removing the
+ﬁlament. But by the late reperfusion time point the HbO2
+concentration for the MCAo group has decreased signiﬁcantly
+below the concentrations at the end of occlusion. The other two
+groups show some ﬂuctuations but the changes are not signiﬁcant.
+© 2015 ISCBFM
+
+Reperfusion deﬁcits account for pathophysiology
+FE Burrows et al
+
+281
+
+Figure 3. Signiﬁcant increase in biomarkers for acute ischemic injury and inﬂammation 6 hours after middle cerebral artery occlusion (MCAo).
+(A–C) One-way ANOVA with post hoc Bonferroni multiple comparisons test to compare cell counts within the MCAo group’s stroked left cortex
+to their right cortex and other group hemispheres. (D, E) One-way ANOVA with post hoc Bonferroni multiple comparisons test to compare
+pixel density of DAB between the two hemispheres in all three groups. CTRL group n = 3, SHAM group n = 3, MCAo group n = 9.
+
+Signiﬁcant Change in Biomarkers of Ischemic Injury 6 Hours After
+Stroke
+Known markers of acute ischemic injury like CD41+ showing
+platelets, Iba-1+ staining microglia, IgG and IL-1α as markers of
+inﬂammation and BBB breakdown, differed signiﬁcantly between
+the cortex of the stroked left hemisphere of the MCAo group mice
+compared with their right cortex (see Figure 3 and Supplementary
+Figure 2). These changes were also signiﬁcant compared with the
+cortices in either hemisphere of the sham and control group.
+These data provide further evidence that an ischemic challenge
+was initiated using the remote ﬁlament and a 30 minute MCAo.
+In the stroked animals, the 30-minute MCAO induced a 44%
+increase in numbers of CD41+ platelets (P o0.01) in the left cortex
+compared with the left cortex of the control group and a 40%
+increase (Po 0.01) compared with sham group (Figure 3A). The
+MCAo also induced a 31% increase in activation of Iba-1+
+microglia (P o 0.01) in the stroked cortex compared with control
+equivalent and a 22% increase compared with sham group
+(Figure 3B). Detection of the pro-inﬂammatory cytokine IL-1α in
+the stroked hemisphere was up by 7.55% compared with an
+increase of 1.95% in the sham animals and − 1.02% in the control
+group (Figure 3D; P o 0.01). Leakage of systemic protein IgG into
+the stroked brain hemisphere was detected as an increase of
+10.62% compared with the right hemisphere (Figure 3E). This
+difference between the two hemispheres was signiﬁcantly bigger
+than the difference in the sham (0.66%) and control group
+© 2015 ISCBFM
+
+(−0.42%; P o0.01). Cresyl violet stain revealed a reduction as well
+as morphological changes of the cortical neurons in the stroked
+hemisphere of the MCAo group, indicative of dying cells. Neurons
+were more condensed with smaller cell bodies and displayed a
+24% (P o 0.01) reduction in CV-stained cells compared with other
+hemisphere as well as 18% 20%, 21%, and 22% compared with
+sham ipsilateral and contralateral, control ipsilateral, and contralateral hemispheres, respectively (Figure 3C). Supplementary
+Figure 2 A1 and A2 displays the CV stains from an MCAo animal.
+Late Reperfusion Deﬁcit Correlates with Increased Pathology
+To establish whether it is the lack of oxygenation during the acute
+phase of the MCAo or the later decline in HbO2 concentration that
+contributes most to the pathological damage shown in the
+paragraph above, we ranked the individual animals in the MCAo
+group according to the magnitude of ΔHbO2 at the late
+reperfusion time point (Figure 4A). Using this ranking we then
+plotted the magnitude of the histological correlates of the DAB
+stains for IgG and IL-1α (Figure 4B) and the immunoﬂuorescence
+stains and Nissl stain (Figure 4C). All the plots display a monotone
+relationship between the late reperfusion deﬁcit and the
+histological biomarkers.
+To quantify this correlation, we performed a Pearson’s rank
+coefﬁcient test to measure the strength of association between
+the mean change in HbO2 during occlusion and late reperfusion
+with known histological markers of acute ischemic injury (Iba-1,
+Journal of Cerebral Blood Flow & Metabolism (2015), 277 – 284
+
+Reperfusion deﬁcits account for pathophysiology
+FE Burrows et al
+
+282
+
+Figure 4. ΔHbO2 during late reperfusion correlates with histological
+biomarkers. (A) Animals 1 through 9 were ranked according to their
+ΔHbO2 value at 6 hours after reperfusion. (B) End-point ΔHbO2
+correlates with increases in blood brain barrier (BBB) breakdown
+(represented by higher IgG) and pro-inﬂammatory mediator IL-1α.
+(C) Immunoﬂuorescent staining of Iba-1-positive microglia and
+CD41-positive platelet cells reveals a correlation represented by a
+monotone increasing curve. As expected cresyl violet (CV) stain
+displays a decreasing curve.
+
+CD41, IgG, IL-1α and neuronal cell count) (see Table 1). The
+Pearson’s rank coefﬁcient revealed that there is no signiﬁcant
+correlation in the change of HbO2 concentration during the acute
+ischemic event and the histological biomarkers in the MCAo
+group but there is a signiﬁcant correlation for the late reperfusion
+time point. The Pearson’s rank coefﬁcient found a signiﬁcant
+association between late reperfusion ΔHbO2 values and Iba-1
+(P o 0.01), CD41 (P o 0.05), IgG (P o0.01), IL-1α (P o 0.01), and
+neuronal cell count (P o 0.05).
+Journal of Cerebral Blood Flow & Metabolism (2015), 277 – 284
+
+DISCUSSION
+By using a remote ﬁlament design in combination with 2D-OIS, we
+are the ﬁrst group to quantify in the same animal the changes in
+HbO2 concentration before, during, and after ischemia in a
+preclinical model of stroke with high spatial and temporal
+resolution. Our ﬁndings show that it is not the initial decrease in
+HbO2 during occlusion that correlates to the histological
+biomarkers but the ‘no reﬂow’ event, after block removal and
+subsequent reperfusion that predicts pathophysiologic outcome.
+Thus, the level of inﬂammation with neuronal damage correlates
+with secondary decline of HbO2 and not occlusion.
+Our study shows that the design of a remote ﬁlament allows
+recordings of baseline HbO2 to be obtained and compared with
+occlusion and reperfusion states. The observed decrease in HbO2
+during occlusion ﬁts with the previous ﬁndings28,29 where similar
+changes in HbO2 were sufﬁcient to induce neuronal damage.28
+This response reveals the presence of an ischemic stroke; HbO2
+levels decrease due to the cessation of blood ﬂow to the region of
+interest (left somatosensory cortex). The lack of a resupply of
+oxygenated blood coupled with the continued respiration of
+neurons results in dramatic decreases in HbO2 levels in the
+stroked cortex.30,31 The lack of signiﬁcant change in sham and
+control data throughout the experiment reveals that HbO2
+changes observed within the MCAo group result from the
+transient ﬁlament occlusion and not overall decline of the animal
+through the course of the experiment.
+Upon reperfusion, HbO2 levels increase within the major vessels
+and parenchymal regions, coinciding with the hyperemia phase
+that has been previously documented.32,33 Hyperemia occurs as
+ﬂow is restored to the cerebral cortex after removal of the block,
+reintroducing oxygenated blood. This hyperemia upon reperfusion is thought to arise from vasoparalysis: loss of autoregulation
+of cerebral blood ﬂow due to accumulation of lactic acid and
+vasoactive mediators during occlusion.32,33 Over time, reperfusion
+dissipates: the concentration of HbO2 starts to decrease within the
+parenchyma, with only the major vessels retaining increased HbO2
+levels as shown in Figure 1 similar to events reported by Kuo
+et al.28 This dissipation could be linked to the presence of CD41
+positive platelets that stick to the microvessel walls because of
+adhesion molecule upregulation on the surface of endothelial cells
+forming micro-thrombi aggregates within the stroked hemisphere
+(Figure 3A). Ischemia-induced hypoxia is a powerful stimulus
+for coagulation initiation and can thus lead to deﬁcits in
+reperfusion.14,15,34 Hypoxia-induced platelet accumulation within
+the microvasculature contributes to the ‘no reﬂow’ phenomenon.12,14,35 A state of no-reﬂow is established around 5 hours
+after reperfusion, leading to neuronal loss. There appears to be an
+overﬂow effect occurring within the contralateral hemisphere of
+the MCAo group whereby increased numbers of CD41-positive
+platelets and Iba1-positive activated microglia were found. This
+suggests that a dampened pathophysiologic cascade has been
+initiated within the contralateral (non-lesioned) hemisphere as
+well as the ipsilateral (lesioned) hemisphere after 30 minutes of
+focal ischemia.
+Known markers of early inﬂammatory processes, microglia
+activation, BBB breakdown, and neuronal loss were observed after
+the ﬁrst 6 hours of reperfusion. Pathophysiologic changes at this
+early time point are not well understood and many studies have
+focused on time periods of more than 12 hours after stroke.8,36
+Furthermore, very few studies in mice have used a transient model
+of MCAo to investigate the acute phase of reperfusion. Neuronal
+injury triggers activation of the resident immune cells of the brain,
+microglia, upregulating Iba-1 protein at cell surface and initiating
+early inﬂammatory processes.7,37 Activation of microglia leads to
+the production and release of proinﬂammatory cytokines, including IL1α within 8 hours of reperfusion, which then switches to
+IL-1β after 8 hours.9 IL-1α induces vascular endothelial cell
+© 2015 ISCBFM
+
+Reperfusion deﬁcits account for pathophysiology
+FE Burrows et al
+
+283
+Table 1.
+
+Correlation between ΔHbO2 and pathophysiology
+
+Occlusion
+ΔHbO2
+Late reperfusion
+ΔHbO2
+
+Pearson corr
+Sig. (2-tailed)
+N
+Pearson corr
+Sig. (2-tailed)
+N
+
+Iba-1
+
+CD41
+
+IgG
+
+IL-1α
+
+Neuronal cell count
+
+− 0.2119 (ns)
+0.5842
+9
+− 0.8459**
+0.0041
+9
+
+0.3514 (ns)
+0.3538
+9
+− 0.7111*
+0.0317
+9
+
+− 0.5402 (ns)
+0.1332
+9
+− 0.8693**
+0.0023
+9
+
+− 0.3063 (ns)
+0.4227
+9
+−0.9170***
+0.0005
+9
+
+0.2938 (ns)
+0.4428
+9
+0.7672*
+0.0158
+9
+
+A Pearson’s correlation coefﬁcient test reveals a correlation between pathophysiologic biomarkers and experimental end-point mean ΔHbO2 values. Total of
+nine pairs analyzed per animal for each marker.
+
+expression of the adhesion molecules ICAM-1 and VCAM-1.38
+These adhesion molecules trap platelets and circulating leukocytes in the lumen of microvessels, which contribute to BBB
+breakdown. Evidence of BBB disruption was indicated by the
+presence of IgG protein in the brain parenchyma (Figure 3E). IgG is
+present within the plasma of the circulation throughout the body,
+but does not pass the BBB unless disruption has occurred.8,25,26
+Our results show neuronal loss by 6 hours after reperfusion,
+supporting ﬁndings recorded from permanent occlusion studies in
+rats.36,39,40
+It is widely believed that the main predictor for pathophysiologic outcome and neuronal injury occurs as a consequence of
+stroke severity whereby the worse the stroke, the worse the
+outcome. We show however that the HbO2 decrease during
+occlusion does not correlate with pathophysiologic outcome, but
+that it is the HbO2 value at the end of 6 hours reperfusion that is
+associated with pathophysiologic outcome.
+In this study, we compared individual animals mean ΔHbO2 at
+occlusion and at late reperfusion with immunohistochemistry
+markers. The test revealed a strong correlation between the mean
+change in μmol of HbO2 values at late reperfusion with increased
+levels of pathophysiologic markers—CD41+ platelet aggregates,
+Iba-1-positive activated microglia, IgG (representative of BBB
+breakdown), IL-1α expression—as well as decreased numbers of
+CV-stained neurons. A ﬂow-dependent response governs ischemic
+pathology, as lack of reperfusion at acute time points correlates
+with decreased neuronal survival.
+Platelet aggregates present within the microvasculature of the
+ischemic cerebral cortex were signiﬁcantly more prevalent in mice
+where the lack of reperfusion at late stages was most severe. This
+reveals a strong correlation between the outcome of reperfusion
+and the number of platelet aggregates, suggesting an association
+between increased numbers of platelet and lack of sustained
+reperfusion within the cerebral cortex. Platelets produce and
+release the proinﬂammatory cytokine IL-1α, which was detected in
+the stroked hemisphere after 6 hours of reperfusion.38 This was
+also seen in our MCAo animals.
+We have demonstrated that 2D-OIS is an excellent tool to
+investigate the spatial and temporal dynamics of HbO2 changes
+before, during, and after stroke. One disadvantage of these optical
+approaches is that data acquisition is limited to cortical areas at
+the surface of the brain. This is less of a problem in the
+lissencephalic brain of a mouse but could be problematic in
+species with a more folded cortex. Furthermore, it would be
+interesting in the future to measure the actual tissue oxygenation
+with either Clark style electrodes or oxygen-sensitive MRI.
+In conclusion, we show for the ﬁrst time a method whereby an
+ischemic stroke can be fully controlled within a mouse model in
+such a way to allow the acquisition of baseline images for
+comparison with occlusion and reperfusion states in the same
+animal. Spectroscopic analysis of the imaging data produces color
+maps that represent μmolar changes in the concentration of
+HbO2, which show the effect of an ischemic challenge on
+hemodynamic responses with high spatial and temporal
+© 2015 ISCBFM
+
+resolution. Immunohistochemistry analysis conﬁrms that the
+ischemic challenge triggers early inﬂammatory biomarkers of
+ischemia
+and inﬂammation. The lack of reperfusion at later time points
+correlates with decreased neuronal survival, suggesting a ﬂowdependent response. There is no correlation with the acute
+decrease in HbO2 concentration during the occlusion. This ﬁnding
+underpins the importance for future stroke research to focus on
+overcoming the mechanisms that lead to a reduction in late
+HbO2 perfusion. The ability to gain baseline recordings for
+comparison within the same animal can create a platform for
+drug development and testing as well as comparison between
+comorbidity groups.
+DISCLOSURE/CONFLICT OF INTEREST
+The authors declare no conﬂict of interest.
+
+ACKNOWLEDGMENTS
+The authors would like to thank Drs Sandra Campbell and Daniel Anthony, Oxford
+University for the kind gift of the rabbit neutrophil serum anti-SJC.
+
+REFERENCES
+1 Marshall RS, Lazar RM, Pile-Spellman J, Young WL, Duong DH, Joshi S et al.
+Recovery of brain function during induced cerebral hypoperfusion. Brain 2001;
+124: 1208–1217.
+2 Lloyd J. Heart Disease and Stroke Statistics-2009 Update: a report from the
+American Heart Association Statistics Committee and Stroke Statistics Subcommittee (vol 119, pg e21, 2009). Circulation 2010; 122: E11–E11.
+3 Bamford J, Sandercock S, Dennis M, Burn J, Warklow C. Classiﬁcation and natural
+history of clinically identiﬁable subtypes of cerebral infarction. Lancet 1991; 337: 5.
+4 Rosamond W, Flegal K, Furie K, Go A, Greenlund K, Haase N et al. Heart disease
+and stroke statistics - 2008 update - A report from the American Heart Association
+Statistics Committee and Stroke Statistics Subcommittee. Circulation 2008; 117:
+E25–E146.
+5 Doyle KP, Simon RP, Stenzel-Poore MP. Mechanisms of ischemic brain damage.
+Neuropharmacology 2008; 55: 310–318.
+6 Hall CN, Reynell C, Gesslein B, Hamilton NB, Mishra A, Sutherland BA et al.
+Capillary pericytes regulate cerebral blood ﬂow in health and disease nature 2014;
+000: 16.
+7 Zhang Q, Raoof M, Chen Y, Sumi Y, Sursal T, Junger W et al. Circulating mitochondrial DAMPs cause inﬂammatory responses to injury. Nature 2010; 464:
+104–U15.
+8 Denes A, Thornton P, Rothwell NJ, Allan SM. Inﬂammation and brain injury: acute
+cerebral ischaemia, peripheral and central inﬂammation. Brain Behav Immun 2010;
+24: 708–723.
+9 Luheshi NM, Kovacs KJ, Lopez-Castejon G, Brough D, Denes A. Interleukin-1 alpha
+expression precedes IL-1 beta after ischemic brain injury and is localised to areas
+of focal neuronal loss and penumbral tissues. J Neuroinﬂ 2011; 8: 1–8.
+10 Kulik T, Kusano Y, Aronhime S, Sandler AL, Winn HR. Regulation of cerebral
+vasculature in normal and ischemic brain. Neuropharmacology 2008; 55:
+281–288.
+11 Huang J, Kim LJ, Poisik A, Pinsky DJ, Connolly ES. Titration of postischemic cerebral hypoperfusion by variation of ischemic severity in a murine model of stroke.
+Neurosurgery 1999; 45: 328–333.
+
+Journal of Cerebral Blood Flow & Metabolism (2015), 277 – 284
+
+Reperfusion deﬁcits account for pathophysiology
+FE Burrows et al
+
+284
+12 Rezkalla SH, Kloner RA. No-reﬂow phenomenon. Circulation 2002; 105: 656–662.
+13 Wong CHY, Crack PJ. Modulation of neuro-inﬂammation and vascular response by
+oxidative stress following cerebral ischemia-reperfusion injury. Curr Med Chem
+2008; 15: 1–14.
+14 del Zoppo GJ. Virchow's triad: the vascular basis of cerebral injury. Rev Neurol Dis
+2008; 5: S12–S21.
+15 Mori E, Delzoppo GJ, Chambers JD, Copeland BR, Arfors KE. Inhibition of polymorphonuclear leukocyte adherence supresses no-reﬂow after focal cerebral
+ischemia in baboons. Stroke 1992; 23: 712–718.
+16 Abumiya T, Fitridge R, Mazur C, Copeland BR, Koziol JA, Tschopp JF et al. Integrin
+alpha(IIb)beta(3) inhibitor preserves microvascular patency in experimental acute
+focal cerebral ischemia. Stroke 2000; 31: 1402–1409.
+17 Astrup J. Thresholds in cerebral ischemia - the ischemic penumbra. Acta Neurol
+Scand 1982; 66: 5.
+18 Hossmann KA. Pathophysiology and therapy of experimental stroke. Cell Mol
+Neurobiol 2006; 26: 1057–1083.
+19 Berwick J, Johnston D, Jones M, Martindale J, Redgrave P, McLoughlin N et al.
+Neurovascular coupling investigated with two-dimensional optical imaging
+spectroscopy in rat whisker barrel cortex. Eur J Neurosci 2005; 22: 1655–1666.
+20 Clark WM, Lessov NS, Dixon MP, Eckenstein F. Monoﬁlament intraluminal middle
+cerebral artery occlusion in the mouse. Neurol Res 1997; 19: 641–648.
+21 Boutin H, LeFeuvre RA, Horai R, Asano M, Iwakura Y, Rothwell NJ. Role of IL-1 alpha
+and IL-1 beta in ischemic brain damage. J Neurosci 2001; 21: 5528–5534.
+22 Graham SM, McCullough LD, Murphy SJ. Animal models of ischemic stroke: Balancing experimental aims and animal care. Comp Med 2004; 54: 486–496.
+23 Durukan A, Tatlisumak T. Acute ischemic stroke: overview of major experimental
+rodent models, pathophysiology, and therapy of focal cerebral ischemia. Pharmacol Biochem Behav 2007; 87: 179–197.
+24 Engel O, Kolodziej S, Dirnagl U, Prinz V. Modeling stroke in mice - middle cerebral
+artery occlusion with the ﬁlament model. J Vis Exp, 2011; 47: 1–4.
+25 Chen ZL, Indyk JA, Bugge TH, Kombrinck KW, Degen JL, Strickland S. Neuronal
+death and blood-brain barrier breakdown after excitotoxic injury are independent
+processes. J Neurosci 1999; 19: 9813–9820.
+26 Ruth RE, Feinerman GS. Foreign and endogenous serum protein extravasation
+during harmaline tremors or kainic acid seizures in the rat: a comparison. Acta
+Neuropathol 1988; 76: 380–387.
+27 Jones M, Berwick J, Hewson-Stoate N, Gias C, Mayhew J. The effect of hypercapnia
+on the neural and hemodynamic responses to somatosensory stimulation. Neuroimage 2005; 27: 609–623.
+28 Kuo J-R, Lin B-S, Cheng C-L, Chio C-C. Hypoxic-state estimation of brain cells by
+using wireless near-infrared spectroscopy. IEEE J Biomed Health Inform 2014; 18:
+167–173.
+
+29 Zaharchuk G, Yamada M, Sasamata M, Jenkins BG, Moskowitz MA, Rosen BR. Is all
+perfusion-weighted magnetic resonance imaging for stroke equal? The temporal
+evolution of multiple hemodynamic parameters after focal ischemia in rats correlated with evidence of infarction. J Cereb Blood Flow Metab 2000; 20:
+1341–1351.
+30 Siesjo BK. Acidosis and ischemic brain-damage. Neurochem Pathol 1988; 9:
+31–88.
+31 Schurr A. Glucose and the ischemic brain: a sour grape or a sweet treat? Curr Opin
+Clin Nutr Metab Care 2001; 4: 287–292.
+32 Frerichs KU, Siren AL, Feuerstein GZ, Hallenbeck JM. The onset of postischemic
+hypoperfusion in rats is precipitous and may be controlled by local neurons.
+Stroke 1992; 23: 399–406.
+33 Macfarlane R, Tasdemiroglu E, Moskowitz MA, Uemura Y, Wei EP, Kontos HA.
+Chronic trigeminal ganglionectomy or topical capsaicin application to pial vessels
+attenuates postocclusive cortical hyperemia but does not inﬂuence postischemic
+hypoperfusion. J Cereb Blood Flow Metab 1991; 11: 261–271.
+34 Adhami F, Liao G, Morozov YM, Schloemer A, Schmithorst VJ, Lorenz JN et al.
+Cerebral ischemia-hypoxia induces intravascular coagulation and autophagy. Am
+J Pathol 2006; 169: 566–583.
+35 Ames A, Wright RL, Kowada M, Thurston JM, Majno G. Cerebral ischemia.2.
+no-reﬂow phenomenon. Am J Pathol 1968; 52: 437 &
+36 Bartus RT, Dean RL, Cavanaugh K, Eveleth D, Carriero DL, Lynch G. Time-related
+neuronal changes following middle cerebral artery occlusion: implications for
+therapeutic intervention and the role of calpain. J Cereb Blood Flow Metab 1995;
+15: 969–979.
+37 Ito D, Tanaka K, Suzuki S, Dembo T, Fukuuchi Y. Enhanced expression of Iba1,
+ionized calcium-binding adapter molecule 1, after transient focal cerebral ischemia in rat brain. Stroke 2001; 32: 1208–1215.
+38 Thornton P, McColl BW, Greenhalgh A, Denes A, Allan SM, Rothwell NJ. Platelet
+interleukin-1 alpha drives cerebrovascular inﬂammation. Blood 2010; 115:
+3632–3639.
+39 Garcia JH, Liu KF, Yoshida Y, Lian J, Chen S, Delzoppo GJ. Inﬂux of leukocytes
+and platelets in an evolving brain infarct (Wistar rat). Am J Pathol 1994; 144:
+188–199.
+40 Balsara RD, Merryman R, Virjee F, Northway C, Castellino FJ, Ploplis VA. A deﬁciency of uPAR alters endothelial angiogenic function and cell morphology. Vasc
+Cell 2011; 3: 10.
+
+This work is licensed under a Creative Commons Attribution 3.0
+Unported License. To view a copy of this license, visit http://
+creativecommons.org/licenses/by/3.0/
+
+Supplementary Information accompanies the paper on the Journal of Cerebral Blood Flow & Metabolism website (http://www.nature.
+com/jcbfm)
+
+Journal of Cerebral Blood Flow & Metabolism (2015), 277 – 284
+
+© 2015 ISCBFM
+
+

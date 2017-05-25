@@ -1,0 +1,683 @@
+Neuropharmacology 99 (2015) 650e657
+
+Contents lists available at ScienceDirect
+
+Neuropharmacology
+journal homepage: www.elsevier.com/locate/neuropharm
+
+PcTx1 affords neuroprotection in a conscious model of stroke in
+hypertensive rats via selective inhibition of ASIC1a
+ne R. Chassagnon b, Glenn F. King b, **,
+Claudia A. McCarthy a, Lachlan D. Rash b, Ire
+Robert E. Widdop a, *
+a
+b
+
+Department of Pharmacology, Monash University, Clayton, Vic 3800, Australia
+Institute for Molecular Bioscience, The University of Queensland, St Lucia, QLD 4072, Australia
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 9 June 2015
+Received in revised form
+18 August 2015
+Accepted 24 August 2015
+Available online 29 August 2015
+
+Acid-sensing ion channel 1a (ASIC1a) is the primary acid sensor in mammalian brain and plays a major
+role in neuronal injury following cerebral ischemia. Evidence that inhibition of ASIC1a might be neuroprotective following stroke was previously obtained using “PcTx1 venom” from the tarantula Psalmopeous cambridgei. We show here that the ASIC1a-selective blocker PcTx1 is present at only 0.4%
+abundance in this venom, leading to uncertainty as to whether the observed neuroprotective effects
+were due to PcTx1 blockade of ASIC1a or inhibition of other ion channels and receptors by the hundreds
+of peptides and small molecules present in the venom. We therefore examined whether pure PcTx1 is
+neuroprotective in a conscious model of stroke via direct inhibition of ASIC1a. A focal reperfusion model
+of stroke was induced in conscious spontaneously hypertensive rats (SHR) by administering endothelin-1
+to the middle cerebral artery via a surgically implanted cannula. Two hours later, SHR were treated with
+a single intracerebroventricular (i.c.v.) dose of PcTx1 (1 ng/kg), an ASIC1a-inactive mutant of PcTx1 (1 ng/
+kg), or saline, and ledged beam and neurological tests were used to assess the severity of symptomatic
+changes. PcTx1 markedly reduced cortical and striatal infarct volumes measured 72 h post-stroke, which
+correlated with improvements in neurological score, motor function and preservation of neuronal architecture. In contrast, the inactive PcTx1 analogue had no effect on stroke outcome. This is the ﬁrst
+demonstration that selective pharmacological inhibition of ASIC1a is neuroprotective in conscious SHRs,
+thus validating inhibition of ASIC1a as a potential treatment for stroke.
+© 2015 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Acid-sensing ion channel 1a
+PcTx1
+Stroke
+Infarction
+Acidosis
+Spontaneously hypertensive rats
+
+1. Introduction
+The severe oxygen depletion that occurs during ischemic stroke
+compels the brain to switch from oxidative phosphorylation to
+anaerobic glycolysis, which in turn leads to acidosis via increased
+lactate levels. The extracellular pH can fall from ~7.3 to 6.0e6.5 in
+the ischemic core under normoglycemic conditions, and it can drop
+to below 6.0 during severe ischemia (Isaev et al., 2008; O'Bryant
+et al., 2014; Xiong et al., 2004). In vivo studies show that acidosis
+aggravates ischemic brain injury (Xiong et al., 2004) and a direct
+correlation between brain acidosis and infarct size has been
+
+* Corresponding author. Department of Pharmacology, Monash University,
+Clayton, VIC 3800, Australia.
+** Corresponding author. Institute for Molecular Bioscience, The University of
+Queensland, 306 Carmody Road, St Lucia, QLD 4072, Australia.
+E-mail addresses: glenn.king@uq.edu.au (G.F. King), robert.widdop@monash.
+edu (R.E. Widdop).
+http://dx.doi.org/10.1016/j.neuropharm.2015.08.040
+0028-3908/© 2015 Elsevier Ltd. All rights reserved.
+
+demonstrated (Xiong et al., 2007). The pH reached during cerebral
+acidosis can activate acid-sensing ion channels (ASICs) and this
+activation has been suggested to play a critical role in strokeinduced neuronal injury (O'Bryant et al., 2014; Xiong et al., 2007).
+ASICs were discovered in the late 1990s, almost 20 years after
+the observation that sensory neurons depolarise in response to a
+sudden drop in pH (Krishtal, 2003). Although they belong to the
+epithelial sodium channel/degenerin family of receptors, they are
+distinguished by their restriction to chordates, predominantly
+neuronal distribution, and activation by decreases in extracellular
+pH (Gründer and Chen, 2010). Alternative splicing of four ASICencoding genes leads to the expression of six subunits (ASIC1a,
+ASIC1b, ASIC2a, ASIC2b, ASIC3, and ASIC4) that combine to form
+hetero- or homo-trimeric channels that differ in their pH sensitivity
+and tissue distribution (Wemmie et al., 2006).
+Postsynaptic ASIC1a channels are the dominant ASIC subtype in
+both human and rodent brain (Hoagland et al., 2010; Li et al., 2010).
+The pH for half-maximal activation (pH0.5) of ASIC1a is 6.6 in
+
+C.A. McCarthy et al. / Neuropharmacology 99 (2015) 650e657
+
+human cortical neurons (Li et al., 2010) and 6.4 in rat Purkinje
+neurons (Allen and Attwell, 2002) and consequently they are
+robustly activated by the decrease in extracellular pH that occurs
+during cerebral ischemia. Importantly, homomeric ASIC1a channels
+can mediate the uptake of Ca2þ in addition to Naþ and protons
+(Gründer and Chen, 2010). Thus, brain ASIC1a can contribute to the
+intracellular Ca2þ overload during stroke and may be at least partly
+responsible for the precipitous drop in intracellular pH from ~7 to
+as low as 6.15 during cerebral ischemia (Isaev et al., 2008).
+The most potent and selective blocker of ASIC1a described to
+date is PcTx1, a 40-residue peptide isolated from the venom of the
+Trinidad Chevron tarantula, Psalmopeous cambridgei (Escoubas
+et al., 2000). PcTx1 blocks rat ASIC1a (rASIC1a) with an IC50 of
+~0.5 nM and ASIC1a/2b heteromers with an IC50 of ~3 nM, but it
+does not inhibit other ASIC homomers or heteromers. Several
+previous studies have claimed that PcTx1 is highly neuroprotective
+in rodent models of ischemic stroke (Pignataro et al., 2007; Xiong
+et al., 2004). For example, in a rat model of transient focal
+ischemia (middle cerebral artery occlusion; MCAO), i.c.v. injection
+of ‘PcTx1 venom’ 30 min before and after induction of ischemia
+reduced infarct size by 60% (Xiong et al., 2004). Consistent with this
+being an effect mediated by ASIC1a, infarct size was similarly
+smaller by 61% in ASIC1/ mice as compared to wild-type mice
+(Xiong et al., 2004). These observations have improved our understanding of stroke pathophysiology and highlighted ASIC1a as a
+therapeutic candidate for the development of neuroprotective
+agents for treatment of stroke.
+Surprisingly, the aforementioned studies did not use pure PcTx1
+but rather the whole venom from the spider P. cambridgei, which
+contains PcTx1. Spider venoms are extremely complex chemical
+cocktails, containing hundreds to thousands of unique peptides
+(Escoubas et al., 2006). The venom of P. cambridgei is no exception
+and it is known to contain modulators of TRPV1 and voltage-gated
+ion channels (Siemens et al., 2006) in addition to PcTx1. This raises
+the question as to whether the reported neuroprotective effect of
+‘PcTx1 venom’ was due to block of ASIC1a by PcTx1 or unrelated
+pharmacological effects mediated by other venom components.
+Therefore, to address this question, we examined the neuroprotective efﬁcacy of pure, recombinant PcTx1 in a conscious hypertensive rat model of transient MCAO. We show that a single
+dose of PcTx1 delivered 2 h after stroke dramatically reduces infarct
+size and restores normal levels of neurological and motor function.
+These effects are due speciﬁcally to inhibition of ASIC1a, as no
+neuroprotection was observed with a “disarmed” PcTx1 mutant
+peptide that can no longer inhibit the channel.
+2. Materials and methods
+2.1. HPLC analysis of P. cambridgei venom
+Reversed-phase (RP) HPLC analysis of crude P. cambridgei venom
+was performed using a Shimadzu Prominence system. One mg of
+venom was fractionated on a Zorbax SB300 reversed-phase C18
+column (4.6  250 mm, 5 mm, 300 Å) using a ﬂow rate of 0.8 ml/min
+and the following gradient of solvent B (0.043% triﬂuoroacetic acid
+(TFA)in 90% acetonitrile) in solvent A (0.043% TFA in water): 10%
+solvent B for 2.5 min, 10e45% solvent B over 50 min, 45e70% solvent B over 5 min. The early eluting fraction was further analysed
+on a Thermo HyPurity C18 column (4.6  100 mm, 5 mm, 120 Å)
+using a gradient of 0% solvent B for 5 min then 0e15% solvent B over
+15 min at a ﬂow rate of 1 ml/min.
+2.2. Peptide production
+Recombinant PcTx1 and a double mutant analogue were
+
+651
+
+produced using an E. coli periplasmic expression system described
+previously (Klint et al., 2013). Brieﬂy, synthetic genes encoding
+wild-type or mutant PcTx1, preceded by a TEV protease cleavage
+site, were produced by GeneArt (Regensburg, Germany) and
+subcloned into a variant of the pLicC-His6-MBP periplasmic
+expression vector which enables periplasmic expression of target
+peptides as fusions to maltose binding protein (MBP). The His6MBP-PcTx1 fusion proteins were expressed in E. coli strain
+BL21(lDE3) and isolated from cell lysates by passage over Ni-NTA
+Superﬂow resin (QIAGEN). The His6-MBP tag was then removed
+from the eluted fusion protein by cleavage with TEV protease. Recombinant PcTx1 (with an N-terminal serine added to facilitate TEV
+cleavage) was isolated to >95% purity using a ﬁnal RP-HPLC step.
+We previously demonstrated that this recombinant peptide is
+equipotent with native PcTx1a (Saez et al., 2011).
+2.3. MALDI-TOF mass spectrometry
+Peptide masses were conﬁrmed by matrix assisted laser
+desorption ionisationetime of ﬂight mass spectrometry (MALDITOF MS) using a Model 4700 Proteomics Bioanalyser (Applied
+Biosystems, CA, USA). Peptide samples were mixed (1:1, v:v) with
+a-cyano-4-hydroxy-cinnamic acid matrix (5 mg/ml in 50/50
+acetonitrile/H2O) and MALDI-TOF spectra were collected in positive
+reﬂector mode. All masses given are for the monoisotopic MþHþ
+ions.
+2.4. Electrophysiology
+Two-electrode voltage clamp (TEVC) was carried out using
+Xenopus oocytes as previously described (Schroeder et al., 2014).
+cRNA encoding rat ASIC1a (rASIC1a) was synthesized using an
+mMessage mMachine cRNA transcription kit and healthy stage V-VI
+oocytes injected with 4 ng rASIC1a cRNA (40 nL of 100 ng/uL). All
+experiments were performed at room temperature (18e21  C) in
+ND96 solution containing 0.1% fatty acid free-bovine serum albumin (BSA). Changes in extracellular pH were induced using a
+microperfusion system that allowed local, rapid exchange of solutions. HEPES was replaced by MES to buffer the pH 6 stimulus solution. Peptides were dissolved in ND96 solution (pH7.45)
+containing 0.1% BSA to prevent adsorption onto tubing.
+2.5. Cannulae implantation
+Male spontaneously hypertensive rats (SHR) (~20 weeks of age;
+300e350 g) were anaesthetised with ketamine (75 mg/kg; Sigma)/
+xylazine (10 mg/kg; Troy; i.p). A 23-gauge stainless steel guide
+cannula was stereotaxically implanted to sit 3 mm dorsal to the
+right middle cerebral artery in the piriform cortex. An additional
+cannula was implanted into the left lateral ventricle (0.8 mm
+anterior, þ1.5 mm lateral, and 3.2 mm ventral relative to Bregma)
+which was left exposed to allow a bolus dose of drug to be
+administered 2 h after stroke. The animals were housed individually and were allowed a 5-day recovery period prior to the induction of stroke. All animal care and procedures were approved by the
+Monash University Animal Ethics Committee. The minimum
+number of animals were used and, where possible, an in vitro
+approach was applied.
+2.6. Drug treatments
+SHR (~20 weeks of age; 300e350 g) were randomly allocated to
+one of several treatment groups so the experimenter was blind to
+all treatments. Out of the thirty animals stroked in this study, one
+animal was excluded because it did not reach the appropriate level
+
+652
+
+C.A. McCarthy et al. / Neuropharmacology 99 (2015) 650e657
+
+of stroke. In addition, three animals were excluded because they
+had a stroke that was greater than a grade-4 stroke. All excluded
+animals were humanely sacriﬁced immediately after the ﬁnal injection of endothein-1 (ET-1). The remaining animals received
+either PcTx1 (1 ng/kg; n ¼ 9), inactive mutant PcTx1 (1 ng/kg;
+n ¼ 7), or vehicle (saline) (n ¼ 10). All drugs were administered by
+intracerebroventricular (i.c.v.) injection 2 h after stroke via a previously implanted guide cannula using a 30-gauge injector protruding 3 mm into the lateral ventricle. Drugs were dissolved in
+saline and infused in a volume of 3 ml over 3 min.
+2.7. Stroke induction
+During stroke induction, animals were placed in a clear Perspex
+box to allow observation. Stroke was induced in conscious animals
+by inserting a 30-gauge injector protruding 3 mm below the end of
+the previously implanted guide cannula and ET-1 (20 pmol/ml in
+saline; AusPep) was injected at a rate of 0.2 ml every 30 s until the
+animal exhibited behavioural changes associated with the desired
+level of stroke, as described previously (McCarthy et al., 2009, 2012,
+2014). Typical behaviours that were observed were continuous
+contralateral and ipsilateral circling; clenching, dragging, or failure
+to extend the forelimb contralateral to the side of ET-1 infusion;
+chewing and jaw ﬂexing and shufﬂing with forepaws. Each stroke
+was graded based on these pre-determined behavioural changes
+using a scale of 1e4, with 1 being a mild stroke and 4 being a severe
+stroke. Only rats with a grade-4 level of stroke, exhibiting at least
+ﬁve of the aforementioned behaviours, were used for the purpose
+of this investigation.
+2.8. Assessment of functional outcome
+2.8.1. Ledged beam test
+Stroke-induced changes in motor coordination were examined
+by assessing the animal's dependence on the underhanging wider
+ledge of a gradually narrowing beam as previously described
+(McCarthy et al., 2012, 2009, 2014). Naïve rats are able to traverse
+the central portion of the beam without using the underhanging
+ledges for support. Stroked rats rely on the lower ledge for support
+on the impaired side and take more steps on the ledge. Animals
+were trained to traverse the beam on the day prior to surgical
+implantation of the cannula. The ledged beam test was conducted
+immediately before stroke induction, at 24 h (day 1) and ~70 h after
+stroke induction (day 3). The number of steps taken on the lower
+ledge (errors) by each foot was recorded and expressed as a percentage of the total number of footsteps taken and recorded as
+percentage error. All values were compared to pre-stroke performance, and therefore each rat acted as its own control.
+2.8.2. Neurological test
+Postural abnormalities were assessed by grading the severity
+of thorax twisting and the angle of forelimb extension when the
+rat is elevated by the tail above a ﬂat surface (Yamamoto et al.,
+1988). Thorax twisting was scored on a scale of 0e3, with 0 representing no twisting behaviour and 3 representing severe
+twisting. Forelimb extension was also scored on a scale of 0e3,
+with 0 representing full contralateral forelimb extension, and 3
+representing a complete failure to extend the contralateral forelimb. Both scores were summed to give a total neurological deﬁcit
+score, where the maximum total score an animal could achieve
+was 6. A total score of zero indicated that the animal was normal
+with no neurological deﬁcit evident, whereas a total score of 6
+indicated sever neurological deﬁcit. The test was conducted prior
+to surgery, immediately before stroke, and 24 h and 72 h after
+stroke induction.
+
+2.9. Histology
+2.9.1. Quantiﬁcation of ischemic damage
+At 72 h after stroke rats were re-anaesthetised with ketamine
+(75 mg/kg; Sigma)/xylazine (10 mg/kg; Troy) and transcardially
+perfused with physiologically buffered saline (0.1 M PBS; pH 7.4) at
+a rate of 25 ml/min. Brains were then removed, snap frozen, and
+sectioned for image analysis to determine infarct size, as previously
+described (Callaway et al., 2000; McCarthy et al., 2009, 2012, 2014).
+2.9.2. Immunohistochemical staining
+Neuronal integrity was assessed using a neuron-speciﬁc marker,
+NeuN antibody (1:500 dilution, Chemicon), which is a DNA-binding
+protein that binds to the nucleus of neurons. In addition, cells undergoing apoptosis were identiﬁed using an antibody against a
+common mediator in the apoptotic pathway, cleaved Caspase-3
+(1:200 dilution, AbCAM). Frozen coronal cryostat sections (16 mm)
+were post-ﬁxed using 100% acetone for 10 min. Slides were incubated overnight with either the NeuN or cleaved Caspase-3 antibody at 4  C. Sections were then incubated at room temperature for
+2 h with a ﬂuorescently labelled secondary antibody: Alexa 488 was
+used for NeuN (1:500 dilution, Invitrogen) and Alexa 568 for
+cleaved Caspase-3 (1:500 dilution, Invitrogen). The number of
+immunopositive cells were counted within six 1-mm2 sites that
+were randomly imaged on the ipsilateral and contralateral hemispheres. Data are expressed as the average number of immunopositive cells per mm2.
+2.10. Statistical analysis
+Results are presented as mean ± standard deviation of the mean
+(SD). The ledged beam test, neurological score, and systolic blood
+pressure were analysed using a two-way repeated measures analysis of variance (ANOVA). Neuronal expression (NeuN-positve cells)
+and apoptosis (caspase-3-positive cells) were analysed by two way
+ANOVA, while infarct area was analysed using a one-way ANOVA.
+Post hoc testing, corrected for multiple comparisons, was performed using Tukey's test. A P value < 0.05 was considered to be
+statistically signiﬁcant. Data analysis was performed using GraphPad Prism (Version 6).
+3. Results
+3.1. Complexity of P. cambridgei venom (“PcTx1 venom”)
+Venom from P. cambridgei has previously been used as a substitute for PcTx1 in stroke studies (Li et al., 2010; Pignataro et al.,
+2007; Xiong et al., 2004) due to the lack of a commercial supplier.
+Since spider venoms are extremely complex mixtures of salts, small
+molecules, peptides and proteins (King and Hardy, 2013), we
+decided to examine the relative abundance of PcTx1 peptide in
+P. cambridgei venom. Fractionation of P. cambridgei venom using RPHPLC yielded a complicated chromatogram with more than 50
+peaks, indicative of a highly complex venom (black trace in Fig. 1A).
+The peak corresponding to native PcTx1 was conﬁrmed by comparison with the retention time of pure, recombinant PcTx1 eluted
+under the same conditions (grey trace in Fig. 1A) as well as MALDITOF mass spectrometry (observed M þ Hþ ¼ 4687.32, calculated
+M þ Hþ ¼ 4687.21). Integration of each of the peaks in the venom
+chromatogram revealed that PcTx1 constitutes only ~0.4% of the
+total venom based on absorbance at 214 nm. We conclude that
+PcTx1 is found at very low abundance in P. cambridgei venom, and
+therefore one cannot deﬁnitively conclude that the pharmacological effects evoked by “PcTx1 venom” in stroke studies are due
+solely to PcTx1 inhibition of ASIC1a.
+
+C.A. McCarthy et al. / Neuropharmacology 99 (2015) 650e657
+
+653
+
+Fig. 1. (A) RP-HPLC chromatograms of P. cambridgei venom (black trace) and recombinant PcTx1 (grey trace) highlighting the chemical complexity of the venom and the minor
+abundance of PcTx1. The large inset shows re-fractionation of the early-eluting components on a different column in order to reveal the hidden complexity in this region of the
+chromatogram. The small inset is a MALDI-TOF MS spectrum of native PcTx1 (observed M þ Hþ ¼ 4687.32, calculated M þ Hþ ¼ 4687.21). (B) RP-HPLC chromatogram showing the
+purity of the recombinant R27A/V32A double mutant PcTx1. (C) Concentration-effect curves for inhibition of rASIC1a expressed in Xenopus oocytes by recombinant PcTx1 and the
+R27A/V32A double mutant peptide. Calculated IC50 values are listed on the ﬁgure.
+
+Fig. 2. Infarct volume after MCAO. Histological sections showing typical infarcted region (darker area) and non-infarcted region from SHR that were treated with (A) vehicle, (B)
+PcTx1 (1 ng/kg i.c.v.), or (C) inactive PcTx1 (1 ng/kg i.c.v.) 2 h after ET-1 induced MCAO. Individual infarct volumes, together with mean ± SD, on the ipsilateral side measured 72 h
+post-stroke are shown for (D) cortical and (E) striatal regions for vehicle (n ¼ 10), PcTx1 (n ¼ 9), and inactive PcTx1 (n ¼ 7). *P < 0.05 versus vehicle (one-way ANOVA).
+
+654
+
+C.A. McCarthy et al. / Neuropharmacology 99 (2015) 650e657
+
+Fig. 3. Behavioural performance after MCAO. The effect of vehicle (saline) (n ¼ 10), PcTx1 (1 ng/kg i.c.v.; n ¼ 9), and inactive PcTx1 (1 ng/kg i.c.v.; n ¼ 7) on (A) percentage errors
+made in ledged beam test, and (B) neurological score following stroke. Ledged beam test and neurological assessment were performed pre-stroke (PS) and at 24 h (24) and 72 h (72)
+post-stroke. Data are mean ± SD. ##P < 0.01 versus pre-stroke performance; **P < 0.01 versus corresponding time in vehicle-treated group (two-way RM ANOVA followed by Tukey
+post hoc tests).
+
+3.2. Activity of recombinant PcTx1 and “disarmed” mutant
+
+3.3. Effect of PcTx1 on infarct size following MCAO
+
+In order to examine the neuroprotective effects of pure PcTx1,
+we produced recombinant PcTx1 as described previously (Saez
+et al., 2011) as well as a double mutant version of the peptide
+that was designed to be inactive on ASIC1a. Our previous structurefunction studies of PcTx1 (Saez et al., 2011) as well as crystal
+structures of the complex formed between PcTx1 and chicken
+ASIC1 (Baconguis and Gouaux, 2012; Dawson et al., 2012) indicate
+that residues Arg27 and Val32 are important for PcTx1 inhibition of
+ASIC1a. Thus, we produced an R27A/V32A double mutant peptide
+(Fig. 1B) and examined the ability of this analogue to inhibit
+rASIC1a. Electrophysiological analysis indicated that recombinant
+wild-type PcTx1 inhibits rASIC1 with an IC50 of 0.82 ± 0.19 nM,
+consistent with literature values (Escoubas et al., 2000; Saez et al.,
+2011), whereas the R27A/V32A mutant is essentially inactive with
+an IC50 > 10 mM (i.e., >10,000-fold lower potency) (Fig. 1C). Thus,
+the disarmed R27A/V32A mutant PcTx1 provides a valuable control
+to determine whether the in vivo effects of PcTx1 are due to inhibition of ASIC1a.
+
+A single dose (1 ng/kg) of PcTx1 delivered i.c.v. 2 h after MCAO
+had a dramatic impact on infarct size (Fig. 2). The cortical infarct
+volume measured 72 h after MCAO was ~70% smaller in PcTx1treated animals (32 ± 30 mm3) compared to control animals
+(108 ± 71 mm3; P < 0.05). Striatal infarct volume appeared lower in
+PcTx1-treated animals (24.0 ± 8.4 mm3) compared to control animals (39 ± 27 mm3), but this did not reach statistical signiﬁcance. In
+contrast with native PcTx1, the disarmed PcTx1 mutant had no
+effect on the severity of cortical or striatal damage. The individual
+infarct volume areas for each group are also shown in (Fig. 2). We
+conclude that PcTx1 treatment reduces infarct size after stroke due
+to pharmacological blockade of ASIC1a.
+3.4. Effect of PcTx1 on motor deﬁcits following MCAO
+Compared to pre-stroke measurements, there was a pronounced motor deﬁcit in vehicle-treated SHRs at both 1 and 3 days
+after stroke (i.e., >40% error in the ledged-beam test; Fig. 3A). PcTx1
+
+Fig. 4. Neuronal survival after MCAO. (A) Effect of vehicle (n ¼ 10), PcTx1a (1 ng/kg i.c.v.; n ¼ 9), and inactive PcTx1 (1 ng/kg i.c.v.; n ¼ 7) on neuronal survival measured 72 h poststroke. Data expressed as the number (mean ± SD) of NeuN-immunopositive (NeuNþ) cells per mm2 within the non-occluded (contralateral) and occluded (ipsilateral) hemisphere.
+#P < 0.05 versus vehicle-treated group (ipsilateral side); **P < 0.01 versus matched region on non-infarcted hemisphere (two-way ANOVA followed by Tukey post hoc tests); (B)
+Representative immunohistochemical brain sections depicting neuronal expression using NeuN neuronal marker (green). Images are taken from either the non-occluded or
+occluded hemisphere from animals that were stroked and subsequently treated with vehicle, PcTx1 or inactive PcTx1. (For interpretation of the references to colour in this ﬁgure
+legend, the reader is referred to the web version of this article.)
+
+C.A. McCarthy et al. / Neuropharmacology 99 (2015) 650e657
+
+655
+
+Fig. 5. Apoptosis after MCAO. (A) Effect of vehicle (n ¼ 10), PcTx1 (1 ng/kg i.c.v.; n ¼ 9) or inactive PcTx1 (1 ng/kg i.c.v.; n ¼ 7) on the number of cells undergoing apoptosis at 72 h
+post-stroke. Data expressed as the number (mean ± SD) of cleaved caspase-3-immunopositive (caspase-3þ) cells per mm2 area within the non-occluded (contralateral) and
+occluded (ipsilateral) hemisphere. **P < 0.01 versus matched region on non-infarcted hemisphere (two-way ANOVA followed by Tukey post hoc tests); (B) Representative
+immunohistochemical brain sections depicting neuronal expression using a marker for cleaved caspase-3 (red). Images are taken from either the non-occluded or occluded
+hemisphere from animals that were stroked and subsequently treated with vehicle, PcTx1 or inactive PcTx1. (For interpretation of the references to colour in this ﬁgure legend, the
+reader is referred to the web version of this article.)
+
+treatment (1 ng/kg i.c.v.) signiﬁcantly reduced the severity of motor
+deﬁcit at 1 and 3 days after stroke compared to control rats (<10%
+error in ledged-beam test; P < 0.01 versus corresponding time
+points in vehicle-treated group) (Fig. 3A). In accordance with the
+histological data, the inactive PcTx1 mutant had no effect on motor
+deﬁcits after stroke (Fig. 3A).
+3.5. Effect of PcTx1 on neurological scores following MCAO
+A signiﬁcant neurological deﬁcit was observed at 1 and 3 days
+after ET-1 induced stroke in both the control animals (1 day:
+4.0 ± 1.9; 3 days: 3.3 ± 2.0; P < 0.01 versus pre-stroke deﬁcit) and
+animals receiving inactive PcTx1 mutant (1 day: 4.9 ± 1.5; 3 days:
+3.9 ± 1.3; P < 0.01 versus pre-stroke deﬁcit). Remarkably, there was
+very little sign of neurological deﬁcit at either time point after
+stroke (1 day: 0.7 ± 1.0; 3 days: 0.7 ± 0.9; P < 0.01 versus corresponding time points in vehicle-treated group; Fig. 3B) in animals
+that received PcTx1.
+3.6. Effect of PcTx1 on neuronal survival following MCAO
+The number of neurons detected by NeuN-immunopositive
+staining was lower in the infarcted (ipsilateral) hemisphere
+compared to the non-infarcted (contralateral) hemisphere in both
+vehicle-treated animals and those receiving the inactive PcTx1
+mutant (Fig. 4), although only the latter reached statistical signiﬁcance (P < 0.01). Loss of NeuN-positive staining was much less
+evident in the occluded hemisphere of animals treated with PcTx1
+(P < 0.05), suggestive of improved neuronal survival in these
+animals.
+The number of cells undergoing apoptosis in the occluded
+hemisphere of stroked SHRs receiving either vehicle or inactive
+PcTx1 was higher than in the contralateral hemisphere (Fig. 5), in
+accordance with the decreased neuronal survival in the same
+hemisphere (Fig. 4). Treatment with PcTx1 had an anti-apoptotic
+effect in the occluded hemisphere as evidenced by a blunting of
+the stroke-induced increase in the number of cells positive for
+cleaved caspase-3 (Fig. 5).
+
+4. Discussion
+In the present study, we demonstrated that PcTx1 affords both
+functional and anatomical neuroprotection following induction of
+stroke in conscious SHR. These protective effects were absent in
+animals treated with a PcTx1 mutant that lacks activity against
+ASIC1a, thus demonstrating, for the ﬁrst time, that the neuroprotection afforded by PcTx1 peptide is due to selective inhibition
+of ASIC1a.
+Stroke is the is the second leading cause of death worldwide
+(Moskowitz et al., 2010; Woodruff et al., 2011) and the leading
+cause of disability in industrialized countries (Liu et al., 2012). The
+use of recombinant tissue plasminogen activator (rtPA) to help
+restore blood ﬂow to the ischemic region is the only approved agent
+for treatment of acute stroke and it is used in only 3e4% of all stroke
+patients (Besancon et al., 2008) due to its narrow therapeutic
+window and the risk of inducing intracranial hemorrhage
+(Moskowitz et al., 2010). Thus, there is intense interest in developing new approaches for treatment of stroke victims.
+Ischemia-induced acidosis causes neuronal injury independently
+of the activation of voltage-gated calcium channels and glutamate
+receptors. Activation of ASICs appears to represent a key mechanism
+by which a reduction in the pH of ischemic tissue leads to calcium
+inﬂux and excitotoxicity (O'Bryant et al., 2014). This distinct mechanism of excitotoxicity might in part explain the failure of NMDA
+receptor antagonists in clinical trials against stroke (O'Bryant et al.,
+2014). Infarct size is reduced by ~60% in ASIC1a knockout mice
+(Xiong et al., 2004) which suggests that ASIC1a, the primary ASIC
+subtype in rodent and human brain (Li et al., 2010), is a key
+contributor to the pathological events induced by ischemic stroke.
+Several studies have attempted to demonstrate a causal role for
+ASIC1a in the neurodegeneration induced by cerebral ischemia by
+employing nonselective small-molecule ASIC1 inhibitors such as
+ﬂurbiprofen (Mishra et al., 2010, 2011) and aspirin (Wang et al.,
+2012), “PcTx1 venom” (Pignataro et al., 2007; Xiong et al., 2004),
+or genetic ablation of ASIC1a (Xiong et al., 2004) as a means of
+reducing ASIC1a function. NSAIDs such as ﬂurbiprofen and aspirin
+are weak, nonselective inhibitors of ASIC1a and they affect a myriad
+
+656
+
+C.A. McCarthy et al. / Neuropharmacology 99 (2015) 650e657
+
+of other biological targets. Genetic ablation of an ion channel can
+give rise to compensatory regulation of related subtypes of the
+target channel with unknown consequences. As shown here,
+“PcTx1 venom” contains only a very small amount of PcTx1
+amongst many other venom peptides that likely affect a wide array
+of voltage- and ligand-gated ion channels (King and Hardy, 2013).
+Thus, none of these approaches provides deﬁnitive evidence that
+acute pharmacological inhibition of ASIC1a is likely to be neuroprotective in ischemic stroke.
+Tarantula venoms are exceptionally complex chemical cocktails
+dominated by disulﬁde-rich neurotoxic peptides (Herzig and King,
+2013; King and Hardy, 2013). The primary molecular targets of
+these peptides are neuronal voltage-gated calcium, sodium and
+potassium channels (Herzig and King, 2013). We showed here that
+PcTx1 constitutes a very minor proportion (~0.4%) of P. cambridgei
+venom, which equates to a concentration of 40e80 mM in crude
+venom. In comparison, the venom of this spider is known to
+contain modulators of TRPV1 and voltage-gated potassium channels at concentrations in the 0.2e1.7 mM range (Choi et al., 2004;
+Siemens et al., 2006). Thus, the in vivo effects of “PcTx1 venom”
+are likely to be due to the combined effects from a wide variety of
+venom peptides, rather than solely due to PcTx1 inhibition of
+ASIC1a. Thus, we strongly recommend against using “PcTx1
+venom” as a method to selectively inhibit ASIC1a in vivo.
+We examined the effect of pure, recombinant PcTx1 using a
+model of cerebral ischemia that closely mimics the clinical setting
+in that animals are conscious while stroke is induced. This avoids
+the confounding effects of anaesthesia, which are known to be
+neuroprotective (McCarthy et al., 2012, 2009, 2014). Furthermore,
+MCAO was performed on hypertensive animals, since high blood
+pressure is an important risk factor for stroke. Additionally, the
+hemodynamic changes induced via targeted application of ET-1 are
+representative of human stroke, with blood ﬂow reduction at the
+onset of ET-1 administration resulting in complete occlusion of the
+vessel, which begins to resolve over a period of 30e40 min after
+stroke with blood ﬂow returning to normal over the following
+16e22 h (Mecca et al., 2009). The region of damage resulting from
+this transient model of stroke is characterised by a necrotic core of
+severely impacted tissue, surrounded by an ischemic penumbra of
+compromised but salvageable neurons, which over time will
+gradually undergo apoptotic cell death in the absence of therapeutic intervention. When administered centrally 2 h after stroke, a
+single nanogram dose of pure PcTx1 almost halved the volume of
+neuronal damage in SHRs, as measured three days post-insult.
+PcTx1 not only afforded protection in the cortical region
+(ischemic penumbra), but tended to reduce the severity of damage
+in the striatal core (i.e., tissue directly impacted by hypoxia), which
+is generally considered resistant to therapeutic intervention.
+In previous studies, “PcTx1 venom” was administered at a dose
+of 10 ng/kg in mice at 5 h after transient MCAO (Pignataro et al.,
+2007), and immediately before and after stroke induction in rats
+with transient MCAO, with the rat brain concentration estimated at
+~50 ng/ml (Xiong et al., 2004). Given that PcTx1 represents ~0.4% of
+crude P. cambridgei venom, the estimated brain concentration of
+PcTx1 in these studies (0.2 ng/ml, ~0.03 nM) would have been
+~15e30-fold lower than the reported IC50 for PcTx1 inhibition of
+rASIC1a (Escoubas et al., 2000; Saez et al., 2011). This dose would
+lead to only minimal inhibition of brain ASIC1a (<5%). Thus, it is
+unclear whether the small amount of PcTx1 administered in previous studies (Pignataro et al., 2008; Xiong et al., 2004) was solely
+responsible for the observed neuroprotective effects or whether
+they are due to the combined effect of several venom components.
+In contrast, the dose of PcTx1 used in the current study equates to a
+brain concentration of ~1.2 nM, which should inhibit brain ASIC1a
+activity by >60%.
+
+Earlier ﬁndings (Pignataro et al., 2008; Xiong et al., 2004)
+showed that, “PcTx1 venom” markedly reduced infarct volume
+when assessed 24 h after stroke, although no functional correlates
+were examined. Notably, in the current study, the preservation of
+brain tissue by PcTx1 was reﬂected symptomatically, with PcTx1treated animals experiencing less motor impairment and reduced
+neurological deﬁcit following stroke. Moreover, the absence of
+neuroprotection in animals receiving inactive PcTx1 mutant provides strong evidence that the neuroprotection afforded by PcTx1 is
+due speciﬁcally to its ability to inhibit ASIC1a. PcTx1 (IC50
+~0.5e1 nM) is a considerably more potent inhibitor of ASIC1a than
+small molecules such as amiloride (IC50 ~10 mM) (Gründer and
+Chen, 2010), ﬂurbiprofen (IC50 ~350 mM) (Voilley et al., 2001), and
+sinomenine (IC50 ~0.27 mM) (Wu et al., 2011), and it is also much
+more selective. Thus, the neuroanatomical and behavioural protection afforded by PcTx1 in the current study more convincingly
+demonstrates the therapeutic potential of ASIC1a blockade as a
+treatment for stroke.
+Our immunohistochemical analysis indicated that stroke
+markedly increased the number of cells undergoing apoptosis in
+the ipsilateral hemisphere, but the number of caspase-3 positive
+cells was reduced in PcTx1-treated animals. In the future, it would
+be of interest to use other apoptotic assays, such as terminal
+deoxynucleotidyl transferase dUTP nick-end labelling (TUNEL), to
+examine the PcTx1 treatment effect, particularly given that some
+studies have shown that non-apoptotic cells such as reactive astrocytes, macrophages/microglia and neutrophils express caspase3 at 72 h after stroke (Nag et al., 2005; Wagner et al., 2011). In any
+case, the increase in caspase-3 immunostaining in the area directly
+affected by ischemia is consistent with the stroke-induced loss of
+neuronal integrity, as identiﬁed by NeuN in the vehicle-treated
+animals, which we have consistently reported (McCarthy et al.,
+2009, 2012, 2014). Furthermore, treatment with PcTx1 blunted
+the loss of NeuN staining, signifying a preservation of neuronal
+survival. Thus, PcTx1 prevented apoptosis following MCAO, which
+is in keeping with the conservation of neuronal architecture and is
+reﬂected by both the histological and behavioural data.
+The current study provides striking proof-of-principle that inhibition of central ASIC1a interrupts the pathological events
+occurring after MCAO. However, the elucidation of the time course
+of neuroprotection using clinically relevant routes of drug administration in several animal models is required before clinical
+translation of these ﬁndings into humans (Fisher et al., 2009).
+5. Conclusion
+Selective inhibition of brain ASIC1a with pure PcTx1 peptide
+provides functional- and anatomical-neuroprotection following
+induction of stroke in conscious SHR. These ﬁndings indicate that
+ASIC1a is an exciting therapeutic target after an ischemic event.
+Sources of funding
+This study was funded by Project Grant APP1063798 to G.F.K.
+and R.E.W. from the Australian National Health and Medical
+Research Council.
+Conﬂict(s) of interest
+None.
+Acknowledgements
+The rASIC1a clone was a generous gift from Prof. John Wood
+(University College London).
+
+C.A. McCarthy et al. / Neuropharmacology 99 (2015) 650e657
+
+References
+Allen, N.J., Attwell, D., 2002. Modulation of ASIC channels in rat cerebellar Purkinje
+neurons by ischaemia-related signals. J. Physiol. 543 (2), 521e529.
+Baconguis, I., Gouaux, E., 2012. Structural plasticity and dynamic selectivity of acidsensing ion channelespider toxin complexes. Nature 489, 400e405.
+Besancon, E., Guo, S., Lok, J., Tymianski, M., Lo, E.H., 2008. Beyond NMDA and AMPA
+glutamate receptors: emerging mechanisms for ionic imbalance and cell death
+in stroke. Trends Pharmacol. Sci. 29 (5), 268e275.
+Callaway, J.K., Knight, M.J., Watkins, D.J., Beart, P.M., Jarrott, B., Delaney, P.M., 2000.
+A novel, rapid, computerized method for quantitation of neuronal damage in a
+rat model of stroke. J Neurosci. Methods 102 (1), 53e60.
+Choi, S., Parentb, R., Guillaume, C., Deregnaucourt, C., Delarbre, C., Ojcius, D.,
+Montagne, J.J., Celerier, M., Phelipot, A., Amiche, M., Molgog, J., Camadro, J.M.,
+Guette, C., 2004. Isolation and characterization of psalmopeotoxin I and II: two
+novel antimalarial peptides from the venom of the tarantula Psalmopoeus
+cambridgei. FEBS Lett. 572 (1e3), 109e117.
+Dawson, R., Benz, J., Stohler, P., Tetaz, T., Joseph, C., Huber, J., et al., 2012 Jul 3.
+Structure of the acid-sensing ion channel 1 in complex with the gating modiﬁer
+psalmotoxin 1. Nat. Commun. 3, 936. http://dx.doi.org/10.1038/ncomms1917.
+Escoubas, P., De Weille, J.R., Lecoq, A., Diochot, S., Waldmann, R., Champigny, G.,
+et al., 2000. Isolation of a tarantula toxin speciﬁc for a class of proton-gated Naþ
+channels. J. Biol. Chem. 275 (33), 25116e25121.
+Escoubas, P., Sollod, B., King, G.F., 2006. Venom landscapes: mining the complexity
+of spider venoms via a combined cDNA and mass spectrometric approach.
+Toxicon 47 (6), 650e663.
+Fisher, M., Feuerstein, G., Howells, D.W., Hurn, P.D., Kent, T.A., Savitz, S.I., et al., 2009.
+Update of the stroke therapy academic industry roundtable preclinical recommendations. Stroke 40 (6), 2244e2250.
+Gründer, S., Chen, X., 2010. Structure, function, and pharmacology of acid-sensing
+ion channels (ASICs): focus on ASIC1a. Int. J. Physiol. Pathophysiol. Pharmacol.
+2 (2), 73e94.
+Herzig, V., King, G.F., 2013. The neurotoxic mode of action of venoms from the
+spider family theraphosidae. In: Nentwig, W. (Ed.), Spider Ecophysiology.
+Springer-Verlag, Heidelberg, pp. 203e215.
+Hoagland, E.N., Sherwood, T.W., Lee, K.G., Walker, C.J., Askwith, C.C., 2010. Identiﬁcation of a calcium permeable human acid-sensing ion channel 1 transcript
+variant. J. Biol. Chem. 285 (53), 41852e41862.
+Isaev, N.K., Stelmashook, E.V., Plotnikov, E.Y., Khryapenkova, T.G., Lozier, E.R.,
+Doludin, Y.V., et al., 2008. Role of acidosis, NMDA receptors, and acid-sensitive
+ion channel 1a (ASIC1a) in neuronal death induced by ischemia. Biochem.
+(Mosc) 73 (11), 1171e1175.
+King, G.F., Hardy, M.C., 2013. Spider-venom peptides: structure, pharmacology, and
+potential for control of insect pests. Annu. Rev. Entomol. 58, 475e496.
+Klint, J.K., Senff, S., Saez, N.J., Seshadri, R., Lau, H.Y., Bende, N.S., Undheim, E.A.B.,
+Rash, L.D., Mobli, M., King, G.F., 2013. Production of recombinant disulﬁde-rich
+venom peptides for structural and functional analysis via expression in the
+periplasm of E. coli. PLoS One 8, e63865.
+Krishtal, O., 2003. The ASICs: signaling molecules? Modulators? Trends Neurosci. 26
+(9), 477e483.
+Li, M., Inoue, K., Branigan, D., Kratzer, E., Hansen, J.C., Chen, J.W., et al., 2010. Acidsensing ion channels in acidosis-induced injury of human brain neurons.
+J. Cereb. Blood Flow. Metab. 30 (6), 1247e1260.
+Liu, R., Yuan, H., Yuan, F., Yang, S.H., 2012. Neuroprotection targeting ischemic
+penumbra and beyond for the treatment of ischemic stroke. Neurol. Res. 34 (4),
+331e337.
+McCarthy, C.A., Vinh, A., Broughton, B.R., Sobey, C.G., Callaway, J.K., Widdop, R.E.,
+2012. Angiotensin II type 2 receptor stimulation initiated after stroke causes
+neuroprotection in conscious rats. Hypertension 60 (6), 1531e1537.
+McCarthy, C.A., Vinh, A., Callaway, J.K., Widdop, R.E., 2009. Angiotensin AT2 receptor
+stimulation causes neuroprotection in a conscious rat model of stroke. Stroke
+40 (4), 1482e1489.
+McCarthy, C.A., Vinh, A., Miller, A.A., Hallberg, A., Alterman, M., Callaway, J.K.,
+
+657
+
+Widdop, R.E., 2014. Direct angiotensin AT2 receptor stimulation using a novel
+AT2 receptor agonist, compound 21, evokes neuroprotection in conscious hypertensive rats. PLoS One 9 (4), e95762.
+Mecca, A.P., O'Connor, T.E., Katovich, M.J., Sumners, C., 2009. Candesartan pretreatment is cerebroprotective in a rat model of endothelin-1-induced middle
+cerebral artery occlusion. Exp. Physiol. 94 (8), 937e946.
+Mishra, V., Verma, R., Raghubir, R., 2010. Neuroprotective effect of ﬂurbiprofen in
+focal cerebral ischemia: the possible role of ASIC1a. Neuropharmocology 59
+(7e8), 582e588.
+Mishra, V., Verma, R., Singh, N., Raghubir, R., 2011. The neuroprotective effects of
+NMDAR antagonist, ifenprodil and ASIC1a inhibitor, ﬂurbiprofen on postischemic cerebral injury. Brain Res. 1389, 152e160.
+Moskowitz, M.A., Lo, E.H., Iadecola, C., 2010. The science of stroke: mechanisms in
+search of treatments. Neuron 67 (2), 181e198.
+Nag, S., Papneja, T., Venugopalan, R., Stewart, D.J., 2005. Increased angiopoietin2
+expression is associated with endothelial apoptosis and blood-brain barrier
+breakdown. Lab. Invest. 85 (10), 1189e1198.
+O'Bryant, Z., Vann, K.T., Xiong, Z.G., 2014. Translational strategies for neuroprotection in ischemic strokedfocusing on acid-sensing ion channel 1a. Transl.
+Stroke Res. 5 (1), 59e68.
+Pignataro, G., Meller, R., Inoue, K., Ordonez, A.N., Ashley, M.D., Xiong, Z., et al., 2008.
+In vivo and in vitro characterization of a novel neuroprotective strategy for
+stroke: ischemic postconditioning. J. Cereb. Blood Flow. Metab. 28 (2), 232e241.
+Pignataro, G., Simon, R.P., Xiong, Z.G., 2007. Prolonged activation of ASIC1a and the
+time window for neuroprotection in cerebral ischaemia. Brain 130 (1), 151e158.
+Saez, N.J., Mobli, M., Bieri, M., Chassagnon, I.R., Malde, A.K., Gamsjaeger, R., et al.,
+2011. A dynamic pharmacophore drives the interaction between psalmotoxin-1
+and the putative drug target acid-sensing ion channel 1a. Mol. Pharmacol. 80,
+796e808.
+Schroeder, C.I., Rash, L.D., Vila-Farres, X., Rosengren, K.J., Mobli, M., King, G.F., et al.,
+2014. Chemical synthesis, 3D structure, and ASIC binding site of the toxin
+mambalgin-2. Angew. Chem. 53 (4), 1017e1020.
+Siemens, J., Zhou, S., Piskorowski, R., Nikai, T., Lumpkin, E., Basbaum, A., King, D.,
+Julius, D., 2006. Spider toxins activate the capsaicin receptor to produce inﬂammatory pain. Nature 444 (9), 208e212.
+Voilley, N., de Weille, J., Mamet, J., Lazdunski, M., 2001. Nonsteroid antiinﬂammatory drugs inhibit both the activity and the inﬂammation-induced
+expression of acid-sensing ion channels in nociceptors. J. Neurosci. 21 (20),
+8026e8033.
+Wagner, D.C., Riegelsberger, U.M., Michalk, S., Hartig, W., Kranz, A., Boltze, J., 2011.
+Cleaved caspase-3 expression after experimental stroke exhibits different
+phenotypes and is predominantly non-apoptotic. Brain Res. 1381, 237e242.
+Wang, W., Ye, S.D., Zhou, K.Q., Wu, L.M., Huang, Y.N., 2012. High doses of salicylate
+and aspirin are inhibitory on acid-sensing ion channels and protective against
+acidosis-induced neuronal injury in the rat cortical neuron. J. Neurosci. Res. 90
+(1), 267e277.
+Wemmie, J.A., Price, M.P., Welsh, M.J., 2006. Acid-sensing ion channels: advances,
+questions and therapeutic opportunities. Trends Neurosci. 29 (10), 578e586.
+Woodruff, T.M., Thundyil, J., Tang, S.C., Sobey, C.G., Taylor, S.M., Arumugam, T.V.,
+2011. Pathophysiology, treatment, and animal and cellular models of human
+ischemic stroke. Mol. Neurodegener. 6 (1), 11.
+Wu, W.N., Wu, P.F., Chen, X.L., Zhang, Z., Gu, J., Yang, Y.J., et al., 2011. Sinomenine
+protects against ischaemic brain injury: involvement of co-inhibition of acidsensing ion channel 1a and L-type calcium channels. Br. J. Pharmacol. 164 (5),
+1445e1459.
+Xiong, Z.G., Chu, X.P., Simon, R.P., 2007. Acid sensing ion channelsdnovel therapeutic targets for ischemic brain injury. Front. Biosci. 12, 1376e1386.
+Xiong, Z.G., Zhu, X.M., Chu, X.P., Minami, M., Hey, J., Wei, W.L., et al., 2004. Neuroprotection in ischemia: blocking calcium-permeable acid-sensing ion channels. Cell 118 (6), 687e698.
+Yamamoto, M., Tamura, A., Kirino, T., Shimizu, M., Sano, K., 1988. Behavioural
+changes after focal cerebral ischemia by left middle cerebral artery occlusion in
+rats. Brain Res. 452 (1e2), 323e328.
+
+

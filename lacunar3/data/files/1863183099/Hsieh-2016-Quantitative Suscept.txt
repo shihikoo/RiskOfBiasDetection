@@ -1,0 +1,1385 @@
+﻿[Link]
+http://crossmark.crossref.org/dialog/?doi=10.1371/journal.pone.0149602&domain=pdf
+[Link]
+http://creativecommons.org/licenses/by/4.0/
+RESEARCH ARTICLE
+Quantitative Susceptibility Mapping-Based
+Microscopy of Magnetic Resonance
+Venography (QSM-mMRV) for In Vivo
+Morphologically and Functionally Assessing
+Cerebromicrovasculature in Rat Stroke Model
+Meng-Chi Hsieh1,2,3, Ching-Yi Tsai4, Min-Chiao Liao4, Jenq-Lin Yang4, Chia-Hao Su4,5*,
+Jyh-Horng Chen1,2,3*
+1 Graduate Institute of Biomedical Electronics and Bioinformatics, National Taiwan University, Taipei 106,
+Taiwan,2 Molecular Imaging Center, National Taiwan University, Taipei 106, Taiwan,3 Department of
+Electrical Engineering, National Taiwan University, Taipei 106, Taiwan,4 Institute for Translational Research
+in Biomedicine, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung 833, Taiwan,5 Department of
+Biomedical Imaging and Radiological Sciences, National Yang Ming University, Taipei 112, Taiwan
+*jhchen@ntu.edu.tw(JHC);chiralsu@gmail.com(CHS)
+Abstract
+Abnormal cerebral oxygenation and vessel structure is a crucial feature of stroke. An imaging
+method with structural and functional information is necessary for diagnosis of stroke.
+This study applies QSM-mMRV (quantitative susceptibility mapping-based microscopic
+magnetic resonance venography) for noninvasively detecting small cerebral venous vessels
+in rat stroke model. First, susceptibility mapping is optimized and calculated from magnetic
+resonance (MR) phase images of a rat brain. Subsequently, QSM-mMRV is used to
+simultaneously provide information on microvascular architecture and venous oxygen saturation
+(SvO
+2
+), both of which can be used to evaluate the physiological and functional characteristics
+of microvascular changes for longitudinally monitoring and therapeutically
+evaluating a disease model. Morphologically, the quantification of vessel sizes using QSM-
+mMRV was 30% smaller than that of susceptibility-weighted imaging (SWI), which eliminated
+the overestimation of conventional SWI. Functionally, QSM-mMRV estimated an
+average SvO
+2
+ranging from 73% to 85% for healthy rats. Finally, we also applied QSM to
+monitor the revascularization of post-stroke vessels from 3 to 10 days after reperfusion.
+QSM estimations of SvO
+2
+were comparable to those calculated using the pulse oximeter
+standard metric. We conclude that QSM-mMRV is useful for longitudinally monitoring blood
+oxygen and might become clinically useful for assessing cerebrovascular diseases.
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 1/22
+OPEN ACCESS
+Citation:Hsieh M-C, Tsai C-Y, Liao M-C, Yang J-L,
+Su C-H, Chen J-H (2016) Quantitative Susceptibility
+Mapping-Based Microscopy of Magnetic Resonance
+Venography (QSM-mMRV) for In Vivo
+Morphologically and Functionally Assessing
+Cerebromicrovasculature in Rat Stroke Model. PLoS
+ONE 11(3): e0149602. doi:10.1371/journal.
+pone.0149602
+Editor:Quan Jiang, Henry Ford Health System,
+UNITED STATES
+Received:May 31, 2015
+Accepted:February 3, 2016
+Published: March 14, 2016
+Copyright: © 2016 Hsieh et al. This is an open
+access article distributed under the terms of the
+Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any
+medium, provided the original author and source are
+credited.
+Data Availability Statement: All relevant data are
+within the paper and its Supporting Information files.
+Funding:This work was supported by grants from
+the National Taiwan University under Excellent
+Research Projects (NTU-ERP-105R891602), the
+Ministry of Science and Technology (NSC-104-2321-
+B-002-040 to JHC; MOST103-2320-B-182A-004-
+MY3 and MOST103-2633-B-182A-001- to CHS), the
+National Health Research Institute (NHRI-EX105-
+10424EI), and Chang Gung Medical Foundation,
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.1676391426)
+Introduction
+Stroke is the leading cause of long-term disability, also one of the commonest causes of mortality
+in aging countries [1]. Abnormal structure and blood oxygen saturation (SO
+2
+) of cerebral
+microvessels (diameter:100μm) [2] is a critical feature of stroke. Characterizing unusual
+microvascular change and extraordinary SO
+2
+might be useful for the diagnosis and the prognosis
+of stroke [1,3]. Thus, measuring cerebral blood oxygen saturation might be necessary for an
+accurate diagnosis, to predict disease outcomes, and to monitor the treatment response in
+stroke.
+The most commonly used noninvasive methodologies of medical imaging in clinical and
+experimental neuroscience for assessing the cerebral microvessels in cerebrovascular diseases
+like stroke, glioma, and vascular malformation are computed tomography angiography (CTA)
+and magnetic resonance angiography (MRA). Although CTA with a contrast agent can rapidly
+and accurately detect the structure of blood vessels [4], it has the potential negative side affect
+of ionizing radiation. In contrast, MRA-based techniques, such as time-of-flight (TOF)-MRA
+and contrast-enhanced (CE)-MRA, are not radioactive. TOF-MRA is sensitive to the fast-flowing
+signals in arteries and depends on the motion of water protons [5]. However, TOF-MRA is
+limited to measuring small cerebral vessels (venules, arterioles, and capillaries) because of
+slow-flowing signals in the cerebral microvessels. CE-MRA uses gadolinium (Gd)-based contrast
+agents to detect these slow-flowing signals [6]. Nonetheless, CE-MRA might not satisfy
+the long acquisition time required for high-resolution MRA application because it has a short
+intravascular half-life and rapidly redistributes into the extracellular space.
+Deoxyhemoglobin, however, provides natural contrast enhancement. Based on this advantage
+, susceptibility-weighted imaging (SWI) has been proposed for visualizing venous vascular
+architecture and has provided structural information for more than a decade [7]. Furthermore,
+SWI combines MR magnitude and phase images, and it is more sensitive for detecting magnetic
+substances such as deoxyhemoglobin, hemorrhage, iron, etc. Moreover, SWI is also
+widely used clinically to visualize and diagnose venous vascular malformations, stroke, and
+traumatic brain injuries. It has also been used to longitudinally assess ischemic vessel size in a
+rat stroke model [8]. Although it can characterize vascular structure, SWI cannot provide functional
+information about blood vessels.
+To quantify vascular information, previous studies assessed venous oxygen saturation
+(SvO
+2
+) with the relaxation time T
+2
+ [9,10]. However, T
+2
+ is not a high-specificity index because
+it depends on the measurement conditions of B
+0
+inhomogeneity, on the relaxation time T
+2
+(without the effect of B
+0
+inhomogeneity), and on the properties of blood vessels. Additionally,
+T
+2
+ produces inconsistent results under various B
+0
+s because of the dependence between T
+2
+and
+B
+0
+. Conversely, the intrinsic susceptibility of hemoglobin is a potential index for measuring
+SvO
+2
+. Based on susceptibility measurements, others have shown that MR phase images can be
+used to estimate SvO
+2
+in the brain tissue of humans [11–15] and rodents [16,17]. Nevertheless,
+using MR phase imaging to quantify SvO
+2
+is vessel-orientation dependent, and MR phase
+images show apparent blooming artifacts.
+Recently, a novel approach called quantitative susceptibility mapping (QSM), based on MR
+phase imaging, is being used to quantify MR images with magnetic susceptibility without
+blooming artifacts [18–24]. In addition, QSM has be used to assess the SvO
+2
+in healthy human
+brains [20,25–28] and to detect decreases in the SvO
+2
+in patients with cerebral ischemic stroke
+[29]. Although the QSM technique has been used quantify to SvO
+2
+in humans, it has not been
+used to quantify cerebral SvO
+2
+in rat stroke model. Characterizing the cerebral SvO
+2
+with QSM
+in rat stroke model facilitates the understanding of mechanism in brain disorder. Thus, applying
+QSM to rat stroke model is crucial for neuroscience research.
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 2/22
+Taiwan (CMRPG8C1171, CMRPG8C1172, and
+CMRPG8E1461 to CHS). The authors have declared
+that no additional external funding was received for
+this study. The funders had no role in study design,
+data collection and analysis, decision to publish, or
+preparation of the manuscript.
+Competing Interests: The authors have declared
+that no competing interests exist.
+(TRIAL VER. PDF Extractor SDK 8.0.0.2542.1901184776)
+The present study aimed to investigate the feasibility of using QSM for assessing cerebral
+SvO
+2
+on stroke in rat. A 3D high-resolution gradient-echo (GRE) image with a spatial resolution
+of 100 × 100 × 100μm3was used to generate the QSM. QSM processing was optimized
+from single-echo GRE images for rat brain venography, which included phase unwrapping,
+background field removal, and dipole inversion. The influence of choosing different values of
+QSM parameter was investigated. The cerebral microvessels of a healthy rat were visualized
+and the SvO
+2
+quantified after QSM reconstruction. To demonstrate the abilities of QSM, we
+also compared it with the conventional SWI method. Finally, QSM was used for longitudinal
+monitoring of post-stroke revascularization on days 3–10 after reperfusion.
+Materials and Methods
+Susceptibility Calculation Based on Phase Information
+The effects of magnetic susceptibility can be observed in the image phase information obtained
+using the gradient echo sequence. Denote the obtained image phase map asφ, with k-space
+representationφ(k). Similarly, letχandχ(k) respectively represent the spatial distribution and
+Fourier domain representation of the susceptibility map. The relationship between the measured
+phase and underlying susceptibility map are expressed as follows [30]:
+φðkÞ¼  wðkÞDðkÞTEgB
+0
+ð1Þ
+where D(k), TE,γ, and B
+0
+are the dipole kernel in the Fourier domain, echo time, gyromagnetic
+ratio of 1H, and main magneticfield, respectively. The dipole kernel is denoted as
+DðkÞ¼ 1=3k2
+z
+=ðk2
+x
+þk2
+y
+þk2
+z
+Þ, where k
+x
+,k
+y
+, and k
+z
+respectively represent the vectors of kspace
+in the x-, y-, and z-axes. The center of D(k) was set to zero. Theoretically, the susceptibility
+map can be obtained from the phase map simply by inverting the dipole kernel D(k):
+wðkÞ¼  φðkÞ=½DðkÞTEgB
+0
+ ð 2Þ
+However, D(k) vanishes in the conical surface region along the magic angle (54.7°) defined
+by2k2
+z
+¼ k2
+x
+þk2
+y
+[31]. Thus,χ(k) at that conical surface region cannot be determined. In addition
+, the non-uniform distribution of D(k) results in noise propagation after this inversion.
+Both factors contribute to the well-known streaking artifacts commonly observed in QSM
+[19,31].
+Regularized Approach for QSM
+To obtain a stable solution to this ill-posed problem, several nonlinear L1 regularized methods
+have been reported for artifact-free QSM [21,24,32–35]. In this study, we used an L1 regularization
+with magnitude prior, which is similar to the popular method called morphology enabled
+dipole inversion (MEDI) [22,24], which improves conventional L1 regularization to eliminate
+both the underestimation of the susceptibility value and the streaking artifacts. The L1 regularization
+with magnitude prior involves the following minimization:
+w ¼
+1
+2
+kbF1DFwk
+2
+2
+þlkWGwk
+1
+with W ¼
+W
+x
+W
+y
+W
+z
+2
+6
+6
+6
+6
+4
+3
+7
+7
+7
+7
+5
+; G ¼
+G
+x
+G
+y
+G
+z
+2
+6
+6
+6
+6
+4
+3
+7
+7
+7
+7
+5
+ð3Þ
+whereχ is the regularized susceptibility value, b is the internalfield perturbation, F is the 3D
+fast Fourier transform operator,λis the Lagrange parameter, W is the prior information of a
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 3/22
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.1243053523)
+binary low-gradient mask (edges were set to zeros, and all others were ones) in three dimensions
+acquired by simple thresholding of the magnitude gradient, and G is the gradient operator
+in three dimensions. To solve the minimization problem, the steepest gradient descent
+method was applied [36]. For comparison, the conventional L1 method was used by minimizingw ¼ 1
+2
+kbF1DFwk
+2
+2
+þlkGwk
+1
+with no weighting factor (W).
+SvO
+2
+Calculation with Susceptibility
+Measuring susceptibility difference from QSM makes it possible to quantify SvO
+2
+values of
+interest based on the relationship between susceptibility difference and SvO
+2
+:
+Dw
+veintissue
+¼Dw
+do
+Hctð1SvO
+2
+Þ ð 4Þ
+whereΔχ
+vein-tissue
+is the estimated susceptibility difference between vein and gray matter,Δχ
+do
+=
+0.18 ppm (cgs) is the susceptibility difference between fully deoxygenated and fully oxygenated
+blood [37], and Hct is the hematocrit coefficient, which is 0.4 in the venous vessels of rat brains
+[38]. Arteries were assumed to be fully oxygenated with an SO
+2
+of 100% in this study [39].
+Ethics Statement
+All animal experimental procedures in this study were approved by the Institutional Animal
+Care and Use Committee of National Taiwan University and Kaohsiung Chang Gung Memorial
+Hospital, and were in compliance with the guidelines for animal care and use set forth by
+that Committee. These criteria have been established by the Institutional Animal Care and Use
+Committee, which recognizes that euthanasia is sometimes necessary prior to the scheduled
+end of a study, either because of unanticipated complications, or because of the protocol itself.
+Furthermore, the euthanasia is necessary when animal meet one of the criterion, including (1)
+weight loss, (2) inappetence, (3) weakness or inability to obtain feed or water, (4) moribund
+state, (5) infection, and (6) signs of severe organ system dysfunction and non-responsive to
+treatment, or with a poor prognosis as determined by a veterinarian. The rat was euthanized by
+100% CO
+2
+at the end of experiment or one of the criterion that described above-mentioned.
+Middle Cerebral Artery Occlusion (MCAO)
+To study post-stroke rehabilitation, QSM was used in a rat model of middle cerebral artery
+occlusion (MCAO) stroke. The detailed procedures of middle cerebral artery (MCA) reperfusion
+are described elsewhere [40]. Male Sprague-Dawley rats 7–9 weeks old were intraperitoneally
+injected with sodium pentobarbital anesthetic (50 mg/kg-bw [body weight]). The right
+eye-to-ear area was then shaved, and the rats were placed in a prone position on a warming
+pad at 37°C and incubated with positive-pressure ventilation (0.2 mL/sec) with oxygen using a
+small animal ventilator (SAR-830/A; CWE, Ardmore, PA, USA). A 1.5-cm incision was made
+on the scalps of the anesthetized rats, at the midpoint between the right eye and right ear. The
+temporalis muscle was separated to expose the zygoma and squamosal bones. A dental drill
+was used to make a 2-mm2burr hole 1 mm rostral to the anterior junction of the zygoma and
+the squamosal bones. The dura mater was carefully pierced with a microsurgical needle. The
+exposed MCA was carefully isolated and ligated for 60 min using 10.0 surgical sutures (Johnson
+& Johnson Medical, Somerville, NJ, USA) to induce ischemic stroke in the cortex of the right
+hemisphere. Isoflurane (2%) was on hand in case the rats woke up during surgery. When the
+MCA ligation was complete, the common carotid arteries (CCAs) on both sides were ligated
+using aneurysm clips. The ligations on both the CCAs and the MCA were loosened after 60
+min. All procedures were completed in two h. All of animals were treated carprofen as
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 4/22
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.1123565915)
+analgesic with the dosage of 5 mg/Kg (s.c., BID) after the post-operative of MCAO. The brain
+was dissected and incubated with triphenyl tetrazolium chloride (TTC) to determine the ischemic
+infarct area. For immunohistochemistry, the brains were obtained and then equilibrated in
+20% sucrose at 4°C after they had been reperfused with 4% paraformaldehyde in PBS.
+Calculating the Ischemic Infarct Area Using TTC Staining
+We used TTC staining to determine the infarct area in the brain tissue sections of the Stroke
+group (MCA-ligated) rats. Three or 10 days after the MCA had been reperfused, the rats were
+euthanized with isoflurane (100% CO
+2
+) and their brains were removed. The brains were dissected
+and collected, frozen at−20°C for 5 min, cut into 2-mm coronal sections, and then
+stained with 2% TTC (T8877; Sigma-Aldrich, St. Louis, MO, USA) in PBS for 8 min at 37°C.
+The stained sections were transferred to 4% paraformaldehyde for immersion fixation for 24 h,
+dehydrated in 30% sucrose, and then photographed.
+Measuring the Pulse Oxygen Saturation (SpO
+2
+) in the Infarcted and
+Non-Infarcted Areas of the Brain Tissue Sections of the Stroke Rat
+The SpO
+2
+was measured with a pulse oximeter system (Radical; Masimo Corp., Irvine, CA, USA).
+After the rats had been anesthetized with 1.5–2% isoflurane gas mixture (20% O
+2
+;80%N
+2
+), they
+were placed on the animal holder, and the sensor was placed above the infarct and normal areas of
+the rat brain, respectively. The SpO
+2
+was recorded at 30-s intervals for 5 min. The SpO
+2
+measurement
+used here was to examine the trend of the oxygenation level over time in the Stroke group.
+MR Data Acquisition for Control Rats
+The Sprague-Dawley rats (n = 6; male; 8–10 weeks old; weight: 303 ± 4.2 g) were anesthetized
+with 2% isoflurane flowing in a gas mixture (O
+2
+, 20%; N
+2
+, 80%). Their respiration rate was
+monitored and maintained at 50 breaths per min (bpm) with a monitoring and gating system
+(SA Instruments, Stony Brook, NY, USA). Rectal temperatures (36 ± 0.5°C) were maintained
+using a warm-water circulation system. The MR experiments were done using a 7-T animal
+MRI scanner (BioSpin 70/30; Bruker GmbH, Ettlingen, Germany). A 7-cm linear birdcage volume
+coil was used for signal excitation, and a 4-channel phased array was used for signal reception.
+T
+2
+-WI was acquired using a 3D-GRE first-order flow compensation sequence that
+prevents signal dephasing of the laminar flow of blood in vessels. The imaging parameters were
+FOV = 38.4 × 25.6 × 12.8 mm3, MTX = 384 × 256 × 128, voxel size = 100 × 100 × 100μm3,TR/
+TE = 65.5/15 ms, bandwidth = 25 kHz, and scan time = 36 min. To obtain an acceptable phase
+contrast between veins and surrounding tissue, the TE was set as the T
+2
+ value of the deoxygenated
+vessel [41]. The flip angle was set at about 15°-20° to obtain the optimal phase contrast
+between the grey and white matter [39]. The large-scale B
+0
+inhomogeneity was minimized by
+region of interest (ROI)-based shimming (provided with the system).
+MR Data Acquisition for the MCAO Rat Stroke Model
+A 9.4-T animal MRI scanner (BioSpin 94/20; Bruker) was used to visualize the brain tissue sections
+of the Sprague-Dawley rats in the Stroke (n = 6) and the Control groups. A 7-cm quadrature
+birdcage volume coil was used for signal excitation, and a 4-channel phased array was
+used for signal reception. T
+2
+-WI was acquired using a 3D-GRE sequence with first-order flow
+compensation. The imaging parameters were FOV = 38.4 × 25.6 × 12.8 mm3, MTX = 384 ×
+256 × 128, voxel size = 100 × 100 × 100μm3, TR/TE = 50/12 ms, bandwidth = 23 kHz, and
+scan time = 28 min.
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 5/22
+(8.0.0.2542.936294161 PDF Extractor SDK TRIAL VERSIOn)
+MR Data Processing
+Multichannel MR raw data were reconstructed using MATLAB (The MathWorks, Natick, MA,
+USA), and then separated into magnitude and phase images. The magnitude images of the
+individual channels of the coil array were combined using the sum-of-squares method [42]
+(Figure AA inS1 File), and the phase images were assembled using complex summation [43]
+(Figure AB inS1 File). Subsequently, the combined magnitude and phase images were used for
+QSM and SWI reconstruction.
+Fig 1shows an outline of the procedures of QSM reconstruction. First, phase aliasing is
+resolved using a phase-unwrapping algorithm. Phase wrapping appears commonly in high-
+Fig 1. The steps used in the QSM process.(A) Phase image, (B) unwrapped phase image, (C) internal field map, and (D) QSM in rat brain region. (E-G)
+The steps used in the extraction of prior information from magnitude images.
+doi:10.1371/journal.pone.0149602.g001
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 6/22
+(PDF Extractor SDK TRIAL VERSION)
+field imaging when large off-resonance is present and when TE is relatively long. Two phaseunwrapping
+methods, path-based in a spatial domain [44,45] and Laplacian-based in a Fourier
+domain [32], have been proposed to resolve phase wrap around 2π. Although the Laplacianbased
+method is fast, it results significant errors in the vicinity of the vessels. Hence, the best
+3D path-based method was used for QSM-mMRV [45]. Second, the unwrapped phaseφ(Fig
+1B) was normalized to field perturbationΔB=Δφ/(γTEB
+0
+). The magnitude images of the rat
+brains were manually segmented using MRIcro [46] to generate a brain mask applied toΔB.
+Third, a background field induced by air-tissue susceptibility differences and imperfect shimming
+was then removed to obtain the internal field b (Fig 1C) using sophisticated harmonic
+artifact reduction for phase data (SHARP) [47]. The advantage of the SHARP method over
+conventional high-pass filtering is that it can preserve the low-frequency component of the
+local phase. The optimal local field using SHARP filtering was accomplished using truncated
+singular value decomposition with a radius of 3 voxels (300μm), a shell thickness of 1 voxel
+(100μm), and a truncation value of 0.05 as described elsewhere [47]. The radius was determined
+by examining the line profile from the reconstructed QSM (L1 regularization withλ=
+10−3) and varying the value from 1 to 9 voxels in steps of 2 (Fig 2). A radius of 3 voxels was
+used in this study. Because SHARP filtering cannot be computed for voxels that are less than a
+radius away from the ROI border, the local field is available only on a modified ROI that is
+smaller than the original ROI. In addition, using a radius of 1 voxel caused over-filtering.
+Moreover, the truncation value was determined empirically by varying the value from 0.025 to
+0.15 in steps of 0.025 and visually inspecting the resultant local field distribution. Finally, the
+QSM (Fig 1D) was calculated from b by minimizing the magnitude prior L1 method as Eq (3)
+with steepest gradient decent algorithm of 10 iterations. The Lagrange multiplierλdetermines
+the smoothness term (kWGχk
+1
+orkGχk
+1
+) and data consistency term (1
+2
+kbF1DFwk
+2
+2
+) of the
+reconstructed susceptibility map such that larger values ofλyield smoother image results than
+do smaller ones. In this study, theλ=10 −1.2was selected for the optimal QSM according to the
+L-curve criterion [48] by varying theλlogarithmically between 10−4and 100.6(Figure B inS1
+File). The binary weighting mask was derived from the magnitude gradient in three directions
+(threshold was set to 0.03). For comparison, the conventional L1 regularization QSM was also
+optimized using the L-curve criterion (Figure C inS1 File).
+For a comparison of vein detection, SWI was reconstructed using the same 3D-GRE data
+with a Hann (Hanning) window size of 64 [7](Fig 3).
+Image Registration and Statistical Analysis of MRI Data
+To quantitatively compare the susceptibility differences of cerebral veins between rats, the susceptibility
+value of the cortex was selected as a reference [49]. Subsequently, the brain regions
+were registered to a Sprague-Dawley rat brain atlas [50] using the linear registration algorithm
+in FSL FLIRT software with affine transformations [51,52]. First, the veins were extracted
+(threshold was set toχ>0.05 ppm). Subsequently, the susceptibility values were measured
+using an average intensity projection (AIP) of a 25-slice QSM (2.5-mm effective coverage).
+Seven ROIs of veins, including the intracortical penetrating venule, middle internal frontal
+vein (MIF), longitudinal hippocampal vein (LHIV), medial collicular vein (MCOLV), thalamostriate
+vein (THSV), the great cerebral vein (GCV) of Galen, and straight sinus (STS) were
+manually drawn and extracted. All measured data are mean ± standard deviation (SD). A coronal
+slice of cortical brain was selected to compare the differences in measured vessel sizes
+between SWI and QSM. In studying post-stroke revascularization, a 2.5-mm-thick SWI minimum
+intensity projection (mIP) and 2.5-mm-thick QSM MIP were used to compare. Significance
+was set at p<0.05 (two-tailed ttest).
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 7/22
+(WITH PDF Extractor SDK TRIAL VERSION)
+Results
+Path-Based and Laplacian-Based Unwrapping Algorithms Compared
+Fig 4compares the 3D path-based unwrapping and the Laplacian-based unwrapping algorithm
+as well as the local field images and susceptibility maps (under-regularized L1 QSM withλ=
+Fig 2. Selection of the radius of the sophisticated harmonic artifact reduction for phase data (SHARP) filtering.(A) Local fields and (B) QSMs (L1
+regularization withλ=10 −3) calculated by varying the radius of SHARP filtering from 1 to 9 in 2-voxel steps. (C) Difference in line profile of reconstructed
+QSM among various radii. In this figure, path-based phase unwrapping is used. (D) The enlargement of the rectangular (dotted line) in (C).
+doi:10.1371/journal.pone.0149602.g002
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 8/22
+(PDF Extractor SDK TRIAL VERSION)
+10−3) from the unwrapped phase images. The“Difference”images of the Unwrapped phase
+(Fig 4C), Local field (Fig 4F), and susceptibility (Fig 4I) maps appear visible difference close to
+the THSV, LHIV, and TRS vessels. The Laplacian-based unwrapping method yielded an
+underestimation of the susceptibility in vessels (p<0.001) over the path-based unwrapping
+(Fig 4K). In addition, the accuracy of the local field acquired by the two unwrapping methods
+was confirmed and compared using numerical simulations (Figure C inS2 File).
+Influence of the Selection of the Lagrange Parameterλ
+The magnitude prior L1 and conventional L1 regularizations were both optimized using the
+L-curve criterion (Figures B and C inS1 File), and the Lagrange parameters were selected as
+10−1.2and 10−1.6for the magnitude prior L1 and the L1 regularized QSM, respectively.Fig 5
+Fig 3. Flowcharts of processing steps of susceptibility-weighted images (SWI).SWI combines both magnitude and a filtered phase map with a
+multiplicative relationship to enhance image contrast.
+doi:10.1371/journal.pone.0149602.g003
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 9/22
+(PDF Extractor SDK TRIAL VERSION)
+illustrates the effect of the Lagrange parameter on the susceptibility value from the reconstructed
+QSM in the vein.Fig 5A and 5Bcompare the optimal L1 QSM (λ=10 −1.6), which
+yielded an underestimation in susceptibility of 0.147 ppm relative to 0.155 ppm using the optimal
+magnitude prior L1 algorithm (λ=10 −1.2).
+Fig 4. Comparison of quantitative susceptibility map (QSM) based on path-based and Laplacian-based phase unwrapping.Images computed using
+3D path-based and Laplacian-based phase unwrapping are presented in the first and second columns from the left. The third column depicts the difference in
+the images in the first two columns. (A-C) Comparison of the unwrapped phase images with path-based and Laplacian-based algorithms. (D-F) Comparison
+of the local field (SHARP filtering with radius of 3 voxels). (G-I) Comparison of reconstructed QSM (L1 regularization withλ=10 −3). The arrows point to
+regions where significant differences between the images in the left and middle columns were observed. (K) Comparison of the measured susceptibility
+values in vessels from (J) the region-of-interest (ROI) (***p<0.001).
+doi:10.1371/journal.pone.0149602.g004
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 10 / 22
+(8.0.0.2542.263981042 PDF Extractor SDK TRIAL VERSIOn)
+Using QSM to Quantitatively Visualize Veins
+The 3D high-resolution QSM was reconstructed from a T
+2
+-WI using the optimized regularized
+approach.Fig 6shows the maximum intensity projection (MIP) of QSM calculated from a
+2.5-mm-thick brain slice and reveals various veins and venules in each of the three orthogonal
+Fig 5. Influence of the Selection of the Lagrange parameterλ.Plot of the measured susceptibility value
+from region-of-interest (E) across variousλby (A) L1 regularization and (B) L1 regularization with magnitude
+prior. At optimal weighting ofλ=10 −1.6, L1 regularization resulted in 0.147 ppm. In contrast, at optimal
+weighting ofλ=10 −1.2, L1 regularization with magnitude prior resulted in 0.155 ppm.
+doi:10.1371/journal.pone.0149602.g005
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 11 / 22
+(TRIAL PDF Extractor SDK 8.0.0.2542-1102293116)
+planes. These veins were validated and identified using the cerebral vascular atlas [53]: the
+great cerebral vein (GCV) of Galen, intracortical penetrating venule, inferior sagittal sinus
+(ISS), longitudinal hippocampal vein (LHIV), medial collicular vein (MCOLV), superior olfactory
+sinus (SOS), superior sagittal sinus (SSS), straight sinus (STS), thalamostriate vein
+(THSV), transverse sinus (TRS), middle internal frontal vein (MIF), anterior striate vein
+(ASTR), posterior striate vein (PSTR), medial striate vein (MSTR), and rostral rhinal vein
+(RRHV). The average susceptibilities of seven major veins (intracortical penetrating venule,
+MIF, LHIV, MCOLV, THSV, GCV, and STS) were measured from AIP of QSM, and their
+SvO
+2
+levels were calculated (Table 1). The in vivoSvO
+2
+levels in veins ranged from
+82.38 ± 3.51% to 90.82 ± 0.75%. QSM allowed (1) microvessels to be visualized at a resolution
+of 100 × 100 × 100μm3and (2) SvO
+2
+to be quantified.
+QSM and SWI Compared
+The images obtained using QSM and SWI were compared using the same 3D-GRE data.Fig
+7A and 7Bshow the respective QSM and SWI results for the same axial 2.5-mm-thick slice.
+The microvessels of the dorsal and lateral cortical areas were identified using both angiographic
+techniques because both used the same signal source: deoxyhemoglobin. However, SWI lacks
+Fig 6. Quantitative visualization of QSM of a normal rat brain in three orthogonal views.Veins in the cortical and internal brain are indicated. (A) A
+2.5-mm-thick maximum intensity projection (MIP) in coronal view, (B) axial view, and (C) sagittal view. The major veins are labeled, including the great
+cerebral vein (GCV) of Galen, intracortical penetrating venule, inferior sagittal sinus (ISS), longitudinal hippocampal vein (LHIV), medial collicular vein
+(MCOLV), superior olfactory sinus (SOS), superior sagittal sinus (SSS), straight sinus (STS), thalamostriate vein (THSV), transverse sinus (TRS), middle
+internal frontal vein (MIF), anterior striate vein (ASTR), posterior striate vein (PSTR), medial striate vein (MSTR), and rostral rhinal vein (RRHV).
+doi:10.1371/journal.pone.0149602.g006
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 12 / 22
+(WITH PDF Extractor SDK TRIAL VERSION)
+quantitative information about the microvessels, but QSM provides the SvO
+2
+of the cerebral
+vessels. Moreover, the QSM technique eliminates both the blooming artifacts and overestimation
+of vessel size, while QSM deconvolved the dipole kernel from the phase image (Fig 7C and
+7D).
+SWI and QSM images of a coronal slice in the cortical region-show that the distribution of
+the intracortical vessels revealed by the two methods are consistent, no significant difference
+(p>0.05) in vessel density between SWI (0.0036 ± 0.0011 pixel/mm2) and QSM
+(0.0031 ± 0.0008 pixel/mm2), and that the vessels appeared smaller in the QSM image (Fig 8A
+and 8B).Fig 8C and 8Dshow enlargements of the white-lined boxes inFig 8A, 8B and 8E
+shows quantified vessel cross sectional areas. Quantitative analysis of intracortical venules
+shows that SWI estimated that the vessels were significantly (p<0.05)—1.4 times—larger than
+estimated by QSM.
+Using QSM to Study Post-Stroke Rehabilitation
+QSM and SWI were used to study post-stroke rehabilitation in a Stroke group rat 3, 7, and 10
+days after the MCAO had been reperfused. TTC staining shows that the infarcted cortical area
+shrank from day 3 to day 10 (Fig 9A). A 2.5-mm-thick axial view of mIP using SWI (Fig 9B)
+and QSM-estimated SvO
+2
+maps (Fig 9D) clearly show variations in the cortical venules. The
+SvO
+2
+estimations of the ipsilateral and contralateral vessels from day 3 to day 10 are shown in
+Fig 9E. The SvO
+2
+level of the vessel on the ipsilateral-cortex was significantly lower than that of
+the vessel on the contralateral-cortex on day 3 (p<0.05). After the reperfusion, however, the
+SvO
+2
+level of the ipsilateral-cortex climbed, which indicated that the oxyhemoglobin had
+reached a plateau on day 7 and 10. This result was comparable with the SpO
+2
+levels calculated
+using the pulse oximeter (Fig 9F).
+Discussion
+In the present study, we applied QSM to assess cerebral SvO
+2
+in rat stroke model. The magnitude
+prior L1-regularized QSM method was also optimized to provide an accurate estimation
+of susceptibility values and to suppress streaking artifacts. Relative to SWI, QSM-mMRV eliminates
+the blooming artifacts from the phase image, which reduces overestimations of vessel size
+and makes it easy to distinguish intracortical vessels. When used to longitudinally monitor
+rehabilitation, the proposed method showed the SvO
+2
+changes in microvessels 3, 7, and 10
+Table 1. Estimated SvO
+2
+of seven regions of interest from seven Control group rats (%).
+B
+0
+7-T 9.4-T
+Vein Rat 1 Rat 2 Rat 3 Rat 4 Rat 5 Rat 6 Rat 7 Mean Across Subjects
+Intracortical venule 90.53 91.01 92.50 90.95 90.04 90.35 90.38 90.82± 0.75
+MIF 88.82 90.26 90.79 90.58 90.93 88.61 89.02 89.86± 0.93
+LHIV 83.78 85.48 88.14 84.75 83.36 83.45 83.86 84.69± 1.57
+MCOLV 84.66 88.25 88.55 85.47 85.38 88.38 88.53 87.03± 1.63
+THSV 85.62 88.01 90.09 86.25 86.35 87.76 87.28 87.34± 1.38
+GCV 84.12 85.64 88.02 84.35 85.59 86.77 88.18 86.10± 1.51
+STS 82.92 85.62 87.06 82.95 76.54 78.16 83.41 82.38± 3.51
+MIF, middle internal frontal vein; LHIV, longitudinal hippocampal vein; MCOLV, medial collicular vein; THSV, thalamostriate vein; GCV, the great cerebral
+vein of Galen; STS, straight sinus.
+doi:10.1371/journal.pone.0149602.t001
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 13 / 22
+( 8.0.0.2542.1746242503 PDF Extractor SDK EVAL VERSION)
+days post-stroke, which was comparable with the SpO
+2
+measures using the pulse oximeter
+standard metric.
+The path-based unwrapping algorithm was more reliable for QSM-mMRV than the Laplacian-based
+method. We found that the measured susceptibility in veins of the reconstructed
+QSM from the unwrapped phase using path-based unwrapping was significantly higher than
+the Laplacian-based unwrapping (Fig 4K). The numerical simulation also verified that the
+path-based unwrapping algorithm presented the true unwrapped phase in the spatial domain
+(Figure C inS2 File). Although studies [32,54–57] have reported using Laplacian-based
+unwrapping to successfully reconstruct QSM, it might cause an incorrect calculation near the
+vessels [32,54,55].
+One challenge of QSM reconstruction is to select an appropriate value of the Lagrange multiplier
+(λ) and the prior information. In conventional L1 regularization,λcontrols the fidelity
+of the reconstructed QSM. A largeλenforces minimization of the L1 norm term, which eliminates
+noise. In contrast, a smallλenforces data fidelity at the cost of streaking artifacts.λis
+usually determined according to the L-curve criterion for the optimal QSM [48]. However, L1
+regularization is usually underestimated [21,23,26,56]. In the present study, the magnitude
+prior L1 approach allows us to simultaneously suppress streaking artifacts and to prevent an
+over-smoothing QSM. In addition, the chosen prior information also influences the accuracy
+Fig 7. Comparison of QSM and susceptibility-weighted imaging (SWI).(A) A 2.5-mm-thick MIP of QSM in axial view. The cortex in dorsal and lateral
+brain are marked by the rectangles and magnified in (C). (B) A 2.5-mm-thick minimum intensity projection (mIP) of SWI with identical ROIs. (D) In the mIPof
+SWI, the vein has blooming artifacts and is difficult to identify. The arrows point to the significant difference between QSM and SWI.
+doi:10.1371/journal.pone.0149602.g007
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 14 / 22
+(PDF Extractor SDK TRIAL VERSION)
+in reconstructed QSM [23,34,35]. Herein, the estimated susceptibility values were measured by
+varying the threshold of the magnitude gradient from 0 to 1 in the step of 0.01 (Fig 10). There
+were no significant differences between these QSMs (Fig 10C). However, the measured susceptibility
+declined with a larger threshold value (Fig 10D).
+We found that, at baseline, the SvO
+2
+in several major veins (MIF, LHIV, MCOLV, THSV,
+GCV, and STS) had a mean of 86.23%, which was higher than other SvO
+2
+measurements of
+~70% [17,58]. The overestimation of SvO
+2
+(i.e., underestimation of susceptibility value) may be
+caused by partial volume effects. To date, the weighted L1 regularization was the most appropriate
+method of QSM reconstruction [1]. However, the partial volume effect resulted in an
+18.6–33.8% underestimation of susceptibility (i.e., 10–16.6% relative overestimation of SvO
+2
+)
+according to our simulation (Table A inS3 File). Most of the quantified susceptibility values
+(~0.2 ppm) were about 33% lower than the true value (0.3 ppm) (Table A inS3 File). Thus, a
+correction factor of approximately 1.5 could be obtained for adjusting the SvO
+2
+quantification
+in this study. Note that the quantified values depend on the size and the geometry of object, as
+well as TE. These critical factors should be considered carefully for future applications.Table 1
+shows the 1-SvO
+2
+ranged from roughly 10% to 18%. If the 1-SvO
+2
+multiplies a correct factor of
+1.5, the resultant 1-SvO
+2
+were about 15–27%, which lead to oxygen level of 73–85%. This result
+after multiplying a correction factor is close to the SvO
+2
+of ~70% reported by previous works
+[17,58]. The error due to partial volume effect could be improved by a recent method [59].
+Furthermore, SvO
+2
+estimates were calculated based on the association between the susceptibility
+differences of fully oxygenated and fully deoxygenated blood (Δχ
+do
+)(Eq 4). We used
+Δχ
+do
+= 0.18 ppm (cgs), which has been used in other studies [11,13,37,60]. Conversely,Δχ
+do
+=
+Fig 8. Illustration of differences in the intracortical penetrating vessels between SWI and QSM.(A) A coronal slice from SWI. (B) A coronal slice from
+QSM. (C) Magnified view of a 3.5 × 3.5-mm2region of SWI marked by red rectangle in A. The bright signal represents the through-plane cortical vessels. (D)
+Fewer and smaller bright signals in QSM. (E) Quantification of vessel size using the two methods. (*p<0.05).
+doi:10.1371/journal.pone.0149602.g008
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 15 / 22
+(8.0.0.2542,1732060637 PDF Extractor SDK TRIAL)
+0.27 ppm (cgs) was reported by Spees et al. [61], which has been used as the SvO
+2
+value in
+other human brain experiments [62,63]. WhenΔχ
+do
+= 0.27 ppm (cgs) was used in our analysis,
+the SvO
+2
+results were from 88% to 93%, which are much higher than the normal SvO
+2
+observed
+using MRI [17,58]. In addition, the quantified susceptibility value in this work was about
+Fig 9. Detection of the rehabilitation of intracortical venules in the rat brain after stroke.(A) Triphenyl tetrazolium chloride (TTC)-stained slice for
+infarcted cortical area confirmation over time. (B) Representative of 2.5-mm-thick minimum intensity projection (mIP) of SWI over time. (C) Representative of
+2.5-mm-thick average intensity projection (AIP) of QSM over time. (D) Representative of 2.5-mm-thick SvO
+2
+map over time. The second figure in the first row
+illustrates the ROI selections on the contralateral (left) and ipsilateral (right) cortices. The arrows indicate angiogenesis at 7 and 10 days post-reperfusion. (E)
+(F) Comparison of SvO
+2
+estimates and SpO
+2
+measures on a post-stroke rat. (E) SvO
+2
+estimates by QSM-mMRV and (F) SpO
+2
+measures using the pulse
+oximeter on contralateral and ipsilateral cortices. (Mean and SD cross subjects are presented;*p<0.05;**p<0.01;***p<0.001).
+doi:10.1371/journal.pone.0149602.g009
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 16 / 22
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.2031729066)
+0.15 ppm as shown in Figs3–5. After multiplying a correction factor of 1.5 as above mention,
+the resultant susceptibility was 0.22 ppm. If theΔχ
+do
+= 0.27 ppm (cgs) was used, the resultant
+SvO
+2
+become ~84%, which was in agreement with the values (i.e., 73–85%) discussed previously.
+Another error of this method is the choice of hematocrit value. We always assumed that
+Hct = 0.4 [38] in the present study. However, hematocrit varies between individuals (0.35–0.5)
+[13] and also depends upon vessel size [64].
+QSM-mMRV was used to demonstrate its ability to longitudinally monitor the rehabilitation
+of a post-stroke rat. At 3 days after reperfusion, the SvO
+2
+value of the ipsilateral cortex had
+significantly declined relative to the contralateral cortex, which agreed with a prior study [29].
+At 7 and 10 days post reperfusion, the SvO
+2
+value of ipsilateral cortex had gradually risen to
+the level of the contralateral cortex (p>0.05), which indicated that the physiology of the poststroke
+rat brain had almost recovered. These results are similar to those of a study [65] that
+used MRI to quantitatively observe the angiogenesis of a post-stroke rat brain. Moreover, we
+compared our SvO
+2
+results with SpO
+2
+measurements. Both of the blood oxygen values had
+gradually climbed after reperfusion. Relative to pulse oximeter, QSM-mMRV provided high
+spatial resolution and better penetration depth when measuring blood oxygen. In addition, we
+also found, in immunohistochemistry (IHC) staining of vessel cells, that the angiogenesis of
+Fig 10. Influence of the selection of the prior information W.(A) Illustrations of the binary weighting in three dimensions across different thresholds from 0
+to 0.15 (W
+x
+: weighting factor in x dimension; W
+y
+: weighting factor in y dimension; W
+z
+: weighting factor in z dimension;). (C) The reconstructed QSMs across
+different thresholds. (D) The susceptibility values measured from the region-of-interest (B) are the same as inFig 4(J).
+doi:10.1371/journal.pone.0149602.g010
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 17 / 22
+(TRIAL VER. PDF Extractor SDK 8.0.0.2542.348013985)
+[Link]
+http://www.plosone.org/article/fetchSingleRepresentation.action?uri=info:doi/10.1371/journal.pone.0149602.s001
+[Link]
+http://www.plosone.org/article/fetchSingleRepresentation.action?uri=info:doi/10.1371/journal.pone.0149602.s002
+the ipsilateral cortex area was greater 7 and 10 days after reperfusion (image not shown), and
+that the tendency of variation in angiogenesis was consistent with the QSM-mMRV and SvO
+2
+measurements. Thus, we concluded that QSM-mMRV showed promise as a potential noninvasive
+observation tool for clinical applications.
+The benefit of QSM-mMRV is using an intrinsic contrast agent (e.g., deoxy-hemoglobin) to
+detect the structural and quantitative information of venous vessels, and it is useful for longitudinal
+studies of vascular disease models. Many studies have investigated the microvascular structure
+and function using MRA methods: time-of-flight (TOF)-, phase-contrast (PC)-,ΔR
+2
+-, and
+ΔR
+2
+-MRA [5,66–68]. TOF-MRA is widely used to visualize major arteries [5]. PC-MRA, based
+on calculating the phase shift, enables the visualization of arteries and veins [66]. Although both
+TOF- and PC-MRA provide structural and flow information, their ability to visualize microvessels
+is limited.ΔR
+2
+-MRA has been proposed to detect microvascular arterioles and venules and
+obtain cerebral blood volume (CBV) [67]. Nevertheless, iron-based contrast agents are problematic
+because of their availability, cost, and safety. Recent methods based onΔR
+2
+-MRA use blood
+oxygen-level-dependent (BOLD) contrast to detect venules and regional CBV [68]. Nonetheless,
+by acquiring two sets of 3D-GRE images under different inhalation conditions,ΔR
+2
+-MRA is
+limited by its lengthy scan time (~76-min for an MR scan with two inhalation conditions) and
+difficult to use clinically.
+QSM-mMRV simultaneously depicts vein architecture and provides quantitative information
+on SvO
+2
+. It does, however, have one limitation. QSM-mMRV based on a GRE sequence
+magnifies vessel size because of intravascular and extravascular dephasing. Park et al. [69]
+reported that the intracortical vessels (diameter:80μm) can be observed using 3D-GRE
+images. Ogawa and Lee [70] reported that the susceptibility effect caused the visual vessels to
+look twice their normal size in GRE images. This magnification in the magnitude of GRE
+images is caused by the extravascular dephasing component that depends on TE, field strength,
+vessel orientation, and voxel size. Relative to the magnitude of GRE images, recent studies on
+intracerebral microbleeds [71] and stroke [72] report that the visualized size from QSM is independent
+of TE.
+Conclusions
+We have described a QSM-based microscopic MRV combined with QSM reconstruction for in
+vivoquantitative visualization of the architecture of small venous vessels in rat stroke model.
+The QSM corrects the nonlocal effects observed in SWI. Corrected by simulation results, the
+SvO
+2
+estimated by QSM is ranged from 73% to 85% for healthy rats. The approach simultaneously
+offers cerebral in vivomicrovascular structure and SvO
+2
+measures, which can be used
+to evaluate the physiological and functional characteristics of microvascular changes over time.
+This technique might be further applied to monitor animal models or clinical patients with
+cerebrovascular disease.
+Supporting Information
+S1 File. QSM reconstruction.Figure A. Combined images from multichannel magnetic resonance
+data. Figure B. L-curve for magnitude prior L1-regularized quantitative susceptibility
+map (QSM) for a rat brain. Figure C. L-curve for L1-regularized quantitative susceptibility
+map (QSM) for an animal.
+(PDF)
+S2 File. Comparison of the accuracy of the local fields acquired by path-based and Laplacian-based
+phase unwrapping was evaluated using numerical simulation.Figure A. Scheme
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 18 / 22
+(PDF Extractor SDK TRIAL VERSION)
+[Link]
+http://www.plosone.org/article/fetchSingleRepresentation.action?uri=info:doi/10.1371/journal.pone.0149602.s003
+[Link]
+http://dx.doi.org/10.1111/j.1471-4159.2012.07938.x
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/23050637
+[Link]
+http://dx.doi.org/10.1152/ajpheart.00655.2005
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/16126813
+[Link]
+http://dx.doi.org/10.1038/jcbfm.2012.139
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/23047270
+[Link]
+http://dx.doi.org/10.1148/radiology.185.2.1410382
+[Link]
+http://dx.doi.org/10.1148/radiology.185.2.1410382
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/1410382
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/10421910
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/15334582
+[Link]
+http://dx.doi.org/10.1002/mrm.1910390503
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/9581597
+[Link]
+http://dx.doi.org/10.1002/mrm.21283
+[Link]
+http://dx.doi.org/10.1002/mrm.21283
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/17969121
+of generating a simulation model. Figure B. Illustrations of the simulated field maps. Figure C.
+Comparison of the SHARP filtering method for Path- and Laplacian-based phase uwrapping
+algorithms.
+(PDF)
+S3 File. Systematic error of the choice of the QSM method was estimated using a numerical
+simulation.Figures A–E. No partial volume effect (perpendicular to B
+0
+). Figures F–J. No partial
+volume effect (parallel to B
+0
+). Figures K–O. With partial volume effect (perpendicular to
+B
+0
+). Figures P–T. With partial volume effect (parallel to B
+0
+). Table A. Quantified results from
+simulation images at three different echo times and two orientations.
+(PDF)
+Acknowledgments
+We thank the 7T animal MRI Core Lab of the Neurobiology Cognitive Science Center, and the
+molecular imaging core of the Institute for Translational Research in Biomedicine, Kaohsiung
+Chang Gung Memorial Hospital, for technical and facility support. We also thank Chao-Hsien
+Hsieh, PhD, of the Instrumentation Center for MRI Experiments at National Taiwan University
+for his assistance and Li-Wei Kuo, PhD, of the Institute of Biomedical Engineering and
+Nanomedicine at National Health Research Institutes for proofreading.
+Author Contributions
+Conceived and designed the experiments: MCH CHS JHC. Performed the experiments: MCH
+JLY CYT. Analyzed the data: MCH. Contributed reagents/materials/analysis tools: MCH JLY
+CYT MCL. Wrote the paper: MCH CHS.
+References
+1. Gursoy Ozdemir Y, Yemisci M, Dalkara T. Microvascular protection is essential for successful neuroprotection
+in stroke. J Neurochem. 2012; 123: 2–11. doi:10.1111/j.1471-4159.2012.07938.xPMID:
+23050637
+2. Sarelius IH, Kuebel JM, Wang J, Huxley VH. Macromolecule permeability of in situ and excised rodent
+skeletal muscle arterioles and venules. Am J Physiol Heart Circ Physiol. NIH Public Access; 2006; 290:
+H474–H480. doi:10.1152/ajpheart.00655.2005PMID:16126813
+3. Dalkara T, Arsava EM. Can restoring incomplete microcirculatory reperfusion improve stroke outcome
+after thrombolysis? J Cereb Blood Flow Metab. 2012;: 2091–2099. doi:10.1038/jcbfm.2012.139PMID:
+23047270
+4. Napel S, Marks MP, Rubin GD, Dake MD, McDonnell CH, Song SM, et al. CT angiography with spiral
+CT and maximum intensity projection. Radiology. 1992; 185: 607–610. doi:10.1148/radiology.185.2.
+1410382PMID:1410382
+5. Reese T, Bochelen D, Sauter A, Beckmann N, Rudin M. Magnetic resonance angiography of the rat
+cerebrovascular system without the use of contrast agents. NMR Biomed. 1999; 12: 189–196. PMID:
+10421910
+6. Miraux S, Serres S, Thiaudiere E, Canioni P, Merle M, Franconi J-M. Gadolinium-enhanced small-animal
+TOF magnetic resonance angiography. Magn Reson Mater Phy. 2004; 17: 348–352.
+7. Haacke EM, Xu Y, Cheng YCN, Reichenbach JR. Susceptibility weighted imaging (SWI). Magn Reson
+Med. 2004; 52: 612–618. PMID:15334582
+8. Jiang Q, Gollapalli L, Haacke EM, Ding GL. Susceptibility weighted MRI for detection and staging of
+angiogenesis after stroke in rats. 2008. p. 304.
+9. Li D, Wang Y, Waight DJ. Blood oxygen saturation assessment in vivo using T2*estimation. Magn
+Reson Med. 1998; 39: 685–690. doi:10.1002/mrm.1910390503PMID:9581597
+10. Sedlacik J, Rauscher A, Reichenbach JR. Obtaining blood oxygenation levels from MR signal behavior
+in the presence of single venous vessels. Magn Reson Med. 2007; 58: 1035–1044. doi:10.1002/mrm.
+21283PMID:17969121
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 19 / 22
+(8.0.0.2542,1059747518 PDF Extractor SDK TRIAL)
+[Link]
+http://dx.doi.org/10.1002/(SICI)1097-0193(1997)5:5&amp;lt;341::AID-HBM2&amp;gt;3.0.CO;2-3
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/20408238
+[Link]
+http://dx.doi.org/10.1002/mrm.20892
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/16598726
+[Link]
+http://dx.doi.org/10.1002/mrm.23050
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/21713981
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2014.07.050
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/25091128
+[Link]
+http://dx.doi.org/10.1002/mrm.24750
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/23568830
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2009.02.023
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2009.02.023
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/19254768
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2009.07.017
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2009.07.017
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/19619663
+[Link]
+http://dx.doi.org/10.1002/mrm.21828
+[Link]
+http://dx.doi.org/10.1002/mrm.21828
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/19097205
+[Link]
+http://dx.doi.org/10.1002/mrm.22135
+[Link]
+http://dx.doi.org/10.1002/mrm.22135
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/19859937
+[Link]
+http://dx.doi.org/10.1002/jmri.22276
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/20815065
+[Link]
+http://dx.doi.org/10.1109/TMI.2009.2023787
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/19502123
+[Link]
+http://dx.doi.org/10.1002/mrm.22187
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/19953507
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2010.06.070
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/20615474
+[Link]
+http://dx.doi.org/10.1002/mrm.22816
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/21465541
+[Link]
+http://dx.doi.org/10.1002/mrm.24384
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/22736331
+[Link]
+http://dx.doi.org/10.1002/mrm.24918
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/24006229
+[Link]
+http://dx.doi.org/10.1002/mrm.25463
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/25263499
+[Link]
+http://dx.doi.org/10.1002/mrm.24937
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/24006187
+[Link]
+http://dx.doi.org/10.1016/j.mri.2014.08.012
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/25131626
+11. Haacke EM, Lai S, Reichenbach JR, Kuppusamy K, Hoogenraad FG, Takeichi H, et al. In vivo measurement
+of blood oxygen saturation using magnetic resonance imaging: A direct validation of the
+blood oxygen level‐dependent concept in functional brain imaging. Hum Brain Mapp. 1997; 5: 341–
+346. doi:10.1002/(SICI)1097-0193(1997)5:5&lt;341::AID-HBM2&gt;3.0.CO;2-3PMID:20408238
+12. Fernández-Seara MA, Techawiboonwong A, Detre JA, Wehrli FW. MR susceptometry for measuring
+global brain oxygen extraction. Magn Reson Med. 2006; 55: 967–973. doi:10.1002/mrm.20892PMID:
+16598726
+13. Fan AP, Benner T, Bolar DS, Rosen BR, Adalsteinsson E. Phase-based regional oxygen metabolism
+(PROM) using MRI. Magn Reson Med. 2012; 67: 669–678. doi:10.1002/mrm.23050PMID:21713981
+14. Driver ID, Wharton SJ, Croal PL, Bowtell R, Francis ST, Gowland PA. Global intravascular and local
+hyperoxia contrast phase-based blood oxygenation measurements. NeuroImage. 2014; 101: 458–465.
+doi:10.1016/j.neuroimage.2014.07.050PMID:25091128
+15. Krishnamurthy LC, Liu P, Ge Y, Lu H. Vessel-specific quantification of blood oxygenation with T2-relaxation-under-phase-contrast
+MRI. Magn Reson Med. 2014; 71: 978–989. doi:10.1002/mrm.24750
+PMID:23568830
+16. Marques J, Maddage R, Mlynarik V, Gruetter R. On the origin of the MR image phase contrast: an in
+vivo MR microscopy study of the rat brain at 14.1 T. NeuroImage. 2009; 46: 345–352. doi:10.1016/j.
+neuroimage.2009.02.023PMID:19254768
+17. Lee J, Hirano Y, Fukunaga M, Silva AC, Duyn JH. On the contribution of deoxy-hemoglobin to MRI
+gray–white matter phase contrast at high field. NeuroImage. 2010; 49: 193–198. doi:10.1016/j.
+neuroimage.2009.07.017PMID:19619663
+18. Liu T, Spincemaille P, de Rochefort L, Kressler B, Wang Y. Calculation of susceptibility through multiple
+orientation sampling (COSMOS): a method for conditioning the inverse problem from measured magnetic
+field map to susceptibility source image in MRI. Magn Reson Med. 2009; 61: 196–204. doi:10.
+1002/mrm.21828PMID:19097205
+19. Shmueli K, de Zwart JA, van Gelderen P, Li T-Q, Dodd SJ, Duyn JH. Magnetic susceptibility mapping
+of brain tissue in vivo using MRI phase data. Magn Reson Med. 2009; 62: 1510–1522. doi:10.1002/
+mrm.22135PMID:19859937
+20. Haacke E, Tang J, Neelavalli J, Cheng Y. Susceptibility mapping as a means to visualize veins and
+quantify oxygen saturation. J Magn Reson Imaging. 2010; 32: 663–676. doi:10.1002/jmri.22276PMID:
+20815065
+21. Kressler B, de Rochefort L, Liu T, Spincemaille P, Jiang Q, Wang Y. Nonlinear regularization for per
+voxel estimation of magnetic susceptibility distributions from MRI field maps. IEEE Trans Med Imaging.
+2010; 29: 273–281. doi:10.1109/TMI.2009.2023787PMID:19502123
+22. de Rochefort L, Liu T, Kressler B, Liu J, Spincemaille P, Lebon V, et al. Quantitative susceptibility map
+reconstruction from MR phase data using bayesian regularization: validation and application to brain
+imaging. Magn Reson Med. 2010; 63: 194–206. doi:10.1002/mrm.22187PMID:19953507
+23. Wharton S, Bowtell R. Whole-brain susceptibility mapping at high field: a comparison of multiple-and
+single-orientation methods. NeuroImage. 2010; 53: 515–525. doi:10.1016/j.neuroimage.2010.06.070
+PMID:20615474
+24. Liu T, Liu J, de Rochefort L, Spincemaille P, Khalidov I, Ledoux JR, et al. Morphology enabled dipole
+inversion (MEDI) from a single‐angle acquisition: comparison with COSMOS in human brain imaging.
+Magn Reson Med. 2011; 66: 777–783. doi:10.1002/mrm.22816PMID:21465541
+25. Tang J, Liu S, Neelavalli J, Cheng Y. Improving susceptibility mapping using a threshold‐based K‐
+space/image domain iterative reconstruction approach. Magn Reson Med. 2013; 69: 1396–1407. doi:
+10.1002/mrm.24384PMID:22736331
+26. Fan AP, Bilgic B, Gagnon L, Witzel T, Bhat H, Rosen BR, et al. Quantitative oxygenation venography
+from MRI phase. Magn Reson Med. 2014; 72: 149–159. doi:10.1002/mrm.24918PMID:24006229
+27. Zhang J, Liu T, Gupta A, Spincemaille P, Nguyen TD, Wang Y. Quantitative mapping of cerebral metabolic
+rate of oxygen (CMRO2) using quantitative susceptibility mapping (QSM). Magn Reson Med.
+2015; 74: 945–952. doi:10.1002/mrm.25463PMID:25263499
+28. Xu B, Liu T, Spincemaille P, Prince M, Wang Y. Flow compensated quantitative susceptibility mapping
+for venous oxygenation imaging. Magn Reson Med. 2014; 72: 438–445. doi:10.1002/mrm.24937
+PMID:24006187
+29. Xia S, Utriainen D, Tang J, Kou Z, Zheng G, Wang X, et al. Decreased oxygen saturation in asymmetrically
+prominent cortical veins in patients with cerebral ischemic stroke. Magn Reson Imaging. 2014; 32:
+1272–1276. doi:10.1016/j.mri.2014.08.012PMID:25131626
+30. Salomir R, de Senneville BD, Moonen CT. A fast calculation method for magnetic field inhomogeneity
+due to an arbitrary distribution of bulk susceptibility. Concept Magn Reson B. 2003; 19: 26–34.
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 20 / 22
+(8.0.0.2542,626409615 PDF Extractor SDK TRIAL)
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/15733784
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2010.11.088
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/21224002
+[Link]
+http://dx.doi.org/10.1002/mrm.23000
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/21671269
+[Link]
+http://dx.doi.org/10.1109/TMI.2011.2182523
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/22231170
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2012.05.067
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2012.05.067
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/22659482
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/1569876
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/9740105
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/2943059
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/17586684
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/2266841
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2007.10.037
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2007.10.037
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/18096412
+[Link]
+http://dx.doi.org/10.1002/mrm.10354
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/12509838
+[Link]
+http://dx.doi.org/10.1364/AO.46.006623
+[Link]
+http://dx.doi.org/10.1364/AO.46.006623
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/17846656
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/11568431
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2010.10.070
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/21040794
+[Link]
+http://dx.doi.org/10.1137/1034115
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2011.02.024
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/21320606
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2014.04.001
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/24726336
+[Link]
+http://dx.doi.org/10.1016/S1361-8415(01)00036-6
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/11516708
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/12377157
+[Link]
+http://dx.doi.org/10.1002/mrm.24405
+[Link]
+http://dx.doi.org/10.1002/mrm.24405
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/22791625
+31. Haacke EM, Cheng NY, House MJ, Liu Q, Neelavalli J, Ogg RJ, et al. Imaging iron stores in the brain
+using magnetic resonance imaging. Magn Reson Imaging. 2005; 23: 1–25. PMID:15733784
+32. Li W, Wu B, Liu C. Quantitative susceptibility mapping of human brain reflects spatial variation in tissue
+composition. NeuroImage. 2011; 55: 1645–1656. doi:10.1016/j.neuroimage.2010.11.088PMID:
+21224002
+33. Wu B, Li W, Guidon A, Liu C. Whole brain susceptibility mapping using compressed sensing. Magn
+Reson Med. 2012; 67: 137–147. doi:10.1002/mrm.23000PMID:21671269
+34. Liu T, Xu W, Spincemaille P, Avestimehr AS, Wang Y. Accuracy of the morphology enabled dipole
+inversion (MEDI) algorithm for quantitative susceptibility mapping in MRI. IEEE Trans Med Imaging.
+2012; 31: 816–824. doi:10.1109/TMI.2011.2182523PMID:22231170
+35. Schweser F, Sommer K, Deistung A, Reichenbach JR. Quantitative susceptibility mapping for investigating
+subtle susceptibility variations in the human brain. NeuroImage. 2012; 62: 2083–2100. doi:10.
+1016/j.neuroimage.2012.05.067PMID:22659482
+36. Nocedal J, Wright S. Numerical Optimization. 2nd ed. Springer; 2006.
+37. Weisskoff RM, Kiihne S. MRI susceptometry: Image‐based measurement of absolute susceptibility of
+MR contrast agents and human blood. Magn Reson Med. 1992; 24: 375–383. PMID:1569876
+38. Lin W, Paczynski RP, Celik A, Hsu CY, Powers WJ. Experimental hypoxemic hypoxia: effects of variation
+in hematocrit on magnetic resonance T2*-weighted brain images. J Cereb Blood Flow Metab.
+1998; 18: 1018–1021. PMID:9740105
+39. Haacke EM, Reichenbach JR. Susceptibility Weighted Imaging in MRI: Basic Concepts and Clinical
+Applications. Hoboken,NJ: Wiley-Blackwell; 2011.
+40. Chen ST, Hsu CY, Hogan EL, Maricq H, Balentine JD. A model of focal ischemic stroke in the rat: reproducible
+extensive cortical infarction. Stroke. 1986; 17: 738–743. PMID:2943059
+41. Duyn JH, van Gelderen P, Li T-Q, de Zwart JA, Koretsky AP, Fukunaga M. High-field MRI of brain cortical
+substructure based on signal phase. Proc Natl Acad Sci USA. 2007; 104: 11796–11801. PMID:
+17586684
+42. Roemer P, Edelstein W, Hayes C, Souza S, Mueller O. The NMR phased array. Magn Reson Med.
+1990; 16: 192–225. PMID:2266841
+43. Hammond KE, Lupo JM, Xu D, Metcalf M, Kelley DAC, Pelletier D, et al. Development of a robust
+method for generating 7.0 T multichannel phase images of the brain with application to normal volunteers
+and patients with neurological diseases. NeuroImage. 2008; 39: 1682–1692. doi:10.1016/j.
+neuroimage.2007.10.037PMID:18096412
+44. Jenkinson M. Fast, automated, N-dimensional phase-unwrapping algorithm. Magn Reson Med. 2003;
+49: 193–197. doi:10.1002/mrm.10354PMID:12509838
+45. Abdul-Rahamn HS, Gdeisat MA, Burton DR, Lalor MJ, Lilley F, Moore CJ. Fast and robust three-dimensional
+best path phase unwrapping algorithm. Appl Opt. 2007; 46: 6623–6635. doi:10.1364/AO.46.
+006623PMID:17846656
+46. Rorden C, Brett M. Stereotaxic display of brain lesions. Behav Neurol. 2000; 12: 191–200. PMID:
+11568431
+47. Schweser F, Deistung A, Lehr BW, Reichenbach JR. Quantitative imaging of intrinsic magnetic tissue
+properties using MRI signal phase: An approach to in vivo brain iron metabolism? NeuroImage. 2011;
+54: 2789–2807. doi:10.1016/j.neuroimage.2010.10.070PMID:21040794
+48. Hansen PC. Analysis of discrete ill-Posed problems by means of the L-curve. SIAM Rev. 1992; 34:
+561–580. doi:10.1137/1034115
+49. Liu C, Li W, Johnson GA, Wu B. High-field (9.4T) MRI of brain dysmyelination by quantitative mapping
+of magnetic susceptibility. NeuroImage. 2011; 56: 930–938. doi:10.1016/j.neuroimage.2011.02.024
+PMID:21320606
+50. Papp EA, Leergaard TB, Calabrese E, Johnson GA, Bjaalie JG. Waxholm Space atlas of the Sprague
+Dawley rat brain. NeuroImage. 2014; 97: 374–386. doi:10.1016/j.neuroimage.2014.04.001PMID:
+24726336
+51. Jenkinson M, Smith S. A global optimisation method for robust affine registration of brain images. Med
+Image Anal. 2001; 5: 143–156. doi:10.1016/S1361-8415(01)00036-6PMID:11516708
+52. Jenkinson M, Bannister P, Brady M, Smith S. Improved optimization for the robust and accurate linear
+registration and motion correction of brain images. NeuroImage. 2002; 17: 825–841. PMID:12377157
+53. Paxinos G. The Rat Nervous System. 3rd ed. Gulf Professional Publishing; 2004.
+54. Schweser F, Deistung A, Sommer K, Reichenbach J. Toward online reconstruction of quantitative susceptibility
+maps: Superfast dipole inversion. Magn Reson Med. 2013; 69: 1582–1594. doi:10.1002/
+mrm.24405PMID:22791625
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 21 / 22
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.731715357)
+[Link]
+http://dx.doi.org/10.1002/nbm.3056
+[Link]
+http://dx.doi.org/10.1002/nbm.3056
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/24357120
+[Link]
+http://dx.doi.org/10.1002/mrm.25029
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/24259479
+[Link]
+http://dx.doi.org/10.1016/j.jneumeth.2014.12.014
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/25546484
+[Link]
+http://dx.doi.org/10.1097/00004647-199908000-00004
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/10458592
+[Link]
+http://dx.doi.org/10.1016/j.mri.2015.01.004
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/25633922
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/6275909
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/11283978
+[Link]
+http://dx.doi.org/10.1002/mrm.21981
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/19526517
+[Link]
+http://dx.doi.org/10.1038/jcbfm.2010.49
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/20407465
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/3921557
+[Link]
+http://dx.doi.org/10.1038/jcbfm.2008.42
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/18478021
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/2709992
+[Link]
+http://dx.doi.org/10.1016/j.neuroimage.2008.12.030
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/19154792
+[Link]
+http://dx.doi.org/10.1371/journal.pone.0078186
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/24223773
+[Link]
+http://dx.doi.org/10.1002/mrm.21573
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/18383285
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/2124706
+[Link]
+http://dx.doi.org/10.1148/radiol.11110251
+[Link]
+http://dx.doi.org/10.1148/radiol.11110251
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/22056688
+[Link]
+http://dx.doi.org/10.1161/STROKEAHA.113.001638
+[Link]
+http://dx.doi.org/10.1161/STROKEAHA.113.001638
+[Link]
+http://www.ncbi.nlm.nih.gov/pubmed/23704111
+55. Li W, Avram AV, Wu B, Xiao X, Liu C. Integrated Laplacian-based phase unwrapping and background
+phase removal for quantitative susceptibility mapping. NMR Biomed. 2014; 27: 219–227. doi:10.1002/
+nbm.3056PMID:24357120
+56. Bilgic B, Fan AP, Polimeni JR, Cauley SF, Bianciardi M, Adalsteinsson E, et al. Fast quantitative susceptibility
+mapping with L1-regularization and automatic parameter selection. Magn Reson Med. 2014;
+72: 1444–1459. doi:10.1002/mrm.25029PMID:24259479
+57. Chen Z, Calhoun V. Intrinsic functional brain mapping in reconstructed 4D magnetic susceptibility (χ)
+data space. J Neurosci Methods. 2015; 241: 85–93. doi:10.1016/j.jneumeth.2014.12.014PMID:
+25546484
+58. Lin VL, Celik A, Paczynski RP, Hsu CY, Powers WJ. Quantitative magnetic resonance imaging in
+experimental hypercapnia: Improvement in the relation between changes in brain R2*and the oxygen
+saturation of venous blood after correction for changes in cerebral blood volume. J Cereb Blood Flow
+Metab. 1999; 19: 853–862. doi:10.1097/00004647-199908000-00004PMID:10458592
+59. Hsieh C-Y, Cheng YCN, Neelavalli J, Haacke EM, Stafford RJ. An improved method for susceptibility
+and radius quantification of cylindrical objects from MRI. Magnetic Resonance Imaging. 2015; 33: 420–
+436. doi:10.1016/j.mri.2015.01.004PMID:25633922
+60. Thulborn KR, Waterton JC, Matthews PM, Radda GK. Oxygenation dependence of the transverse
+relaxation time of water protons in whole blood at high field. Biochim Biophys Acta. 1982; 714: 265–
+270. PMID:6275909
+61. Spees WM, Yablonskiy DA, Oswood MC, Ackerman JJ. Water Proton MR Properties of Human Blood
+at 1.5 Tesla: Magnetic Susceptibility, T1, T2, T2*, and Non‐Lorentzian Signal Behavior. Magn Reson
+Med. 2001; 45: 533–542. PMID:11283978
+62. Langham MC, Magland JF, Epstein CL, Floyd TF, Wehrli FW. Accuracy and precision of mr blood oximetry
+based on the long paramagnetic cylinder approximation of large vessels. Magn Reson Med. 2009;
+62: 333–340. doi:10.1002/mrm.21981PMID:19526517
+63. Jain V, Langham MC, Wehrli FW. MRI estimation of global brain oxygen consumption rate. J Cereb
+Blood Flow Metab. 2010; 30: 1598–1607. doi:10.1038/jcbfm.2010.49PMID:20407465
+64. Sakai F, Nakazawa K, Tazaki Y, Ishii K, Hino H, Igarashi H, et al. Regional cerebral blood volume and
+hematocrit measured in normal human volunteers by single-photon emission computed tomography. J
+Cereb Blood Flow Metab. 1985; 5: 207–213. PMID:3921557
+65. Lin C-Y, Chang C, Cheung W-M, Lin M-H, Chen J-J, Hsu CY, et al. Dynamic changes in vascular permeability
+, cerebral blood volume, vascular density, and size after transient focal cerebral ischemia in
+rats: evaluation with contrast-enhanced magnetic resonance imaging. J Cereb Blood Flow Metab.
+2008; 28: 1491–1501. doi:10.1038/jcbfm.2008.42PMID:18478021
+66. Dumoulin CL, Souza SP, Walker MF. Three‐dimensional phase contrast angiography. Magn Reson
+Med. 1989; 9: 139–149. PMID:2709992
+67. Lin CY, Lin MH, Cheung WM, Lin TN, Chen JH. In vivo cerebromicrovasculatural visualization using 3D
+ΔR2-based microscopy of magnetic resonance angiography (3DΔR2-mMRA). NeuroImage. 2009; 45:
+824–831. doi:10.1016/j.neuroimage.2008.12.030PMID:19154792
+68. Huang C-H, Chen C-CV, Siow T-Y, Hsu S-HS, Hsu Y-H, Jaw F-S, et al. High-resolution structural and
+functional assessments of cerebral microvasculature using 3D GasΔR2*-mMRA. PLoS ONE. 2013; 8:
+e78186. doi:10.1371/journal.pone.0078186PMID:24223773
+69. Park S-H, Masamoto K, Hendrich K, Kanno I, Kim S-G. Imaging brain vasculature with BOLD microscopy
+: MR detection limits determined by in vivo two-photon microscopy. Magn Reson Med. 2008; 59:
+855–865. doi:10.1002/mrm.21573PMID:18383285
+70. Ogawa S, Lee T, Kay A, Tank D. Brain magnetic resonance imaging with contrast dependent on blood
+oxygenation. Proc Natl Acad Sci USA. 1990; 87: 9868–9872. PMID:2124706
+71. Liu T, Surapaneni K, Lou M, Cheng L, Spincemaille P, Wang Y. Cerebral microbleeds: burden assessment
+by using quantitative susceptibility mapping. Radiology. 2012; 262: 269–278. doi:10.1148/radiol.
+11110251PMID:22056688
+72. Wang S, Lou M, Liu T, Cui D, Chen X, Wang Y. Hematoma volume measurement in gradient echo MRI
+using quantitative susceptibility mapping. Stroke. 2013; 44: 2315–2317. doi:10.1161/STROKEAHA.
+113.001638PMID:23704111
+QSM-mMRV in Rat Stroke Model
+PLOS ONE | DOI:10.1371/journal.pone.0149602 March 14, 2016 22 / 22
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.417865062)
+

@@ -1,0 +1,1184 @@
+﻿[Link]
+http://dx.doi.org/10.1039/c3nr00119a
+[Link]
+http://pubs.rsc.org/en/journals/journal/NR
+[Link]
+http://pubs.rsc.org/en/journals/journal/NR?issueid=NR005010
+High MRI performancefluorescent mesoporous silicacoated
+magnetic nanoparticles for tracking neural
+progenitor cells in an ischemic mouse model†
+Lu Zhang,ab Yao Wang,a Yaohui Tang,a Zheng Jiao,bChengying Xie,a Haijiao Zhang,b
+Ping Gu,c Xunbin Wei,a Guo-Yuan Yang,a Hongchen Gua and Chunfu Zhang*a
+Multifunctional probes with high MRI sensitivity and high efficiency for cell labeling are desirable for
+MR cell imaging. Herein, we have fabricated fluorescent mesoporous silica-coated superparamagnetic
+iron oxide nanoparticles (fmSiO
+4
+@SPIONs) for neural progenitor cell (C17.2) MR imaging.
+FmSiO
+4
+@SPIONs were discrete and uniform in size, and had a clear core–shell structure. The magnetic
+core size was about 10 nm and the fluorescent mesoporous silica coating layer was around 20 nm.
+Compared with fluorescent dense silica-coated SPIONs (fdSiO
+4
+@SPIONs) with a similar size,
+fmSiO
+4
+@SPIONs demonstrated higher MR sensitivity and cell labeling efficiency. When implanted into
+the right hemisphere of stroke mice, contralateral to the ischemic territory, a small amount of labeled
+cells were able to be tracked migrating to the lesion sites using a clinical MRI scanner (3 T). More
+impressively, even when administered intravenously, the labeled cells could also be monitored homing
+to the ischemic area. MRI observations were corroborated by histological studies of the brain tissues.
+Our study demonstrated that fmSiO
+4
+@SPIONs are highly effective for cell imaging and hold great
+promise for MRI cell tracking in future.
+Introduction
+Therapeutic strategies based on transplanted stem cells and
+other progenitor cells hold strong promise for the treatment of
+diseases by implementing tissue regeneration and repair.1,2
+However, one of the crucial points in this approach is to provide
+long-term and noninvasive imaging of transplanted stem cells
+in the host organ and to track their migration and distribution
+in vivo.3 Due to its high spatial resolution in three dimensions
+and good so-tissue contrast, magnetic resonance imaging
+(MRI) is very promising to achieve this purpose.4,5 However,
+compared with other imaging modalities, such as positron
+emission tomography (PET) and optical imaging, the sensitivity
+of MRI is relatively low.6 To track stem cells by MRI, the cells
+must be labeled magnetically.7–9 In this context, commercially
+available superparamagnetic iron oxide nanoparticles (SPIONs)
+coated with dextran or its derivatives, in combination with
+transfection agents, have been extensively explored for cell
+labeling.10,11 However, cellular tracking using these nanoparticles
+suffers from low intracellular labeling efficiency, as
+manifested by the requirement of a long-term incubation or a
+high concentration of particles with cells.12,13
+To improve the labeling efficiency, HIV tat peptide or
+monoclonal antibody has been conjugated to SPIONs to
+increase nonphagocytic ingestion and thus enhance the MRI
+detection sensitivity.14 Although these biomolecules efficiently
+transport SPIONs into cells, the key issue regarding the
+biosafety of a xenogeneic protein should be seriously considered.
+Alternatively, SPION clusters or SPION-imbedded macrosized
+polymer spheres with a high iron content have been
+explored for cell imaging.7,15–19 Especially, for SPION macrospheres
+, when incubated with cells, the intracellular payload of
+100–300 picogram iron could be readily achieved. As a result,
+single-cell or single-particle detection has been realized both
+in vitro and in vivo.20–22 However, a recent study indicated that
+high intracellular iron concentration would diminish cell
+proliferation, disrupt the microtubule network and alter the
+focal adhesion kinase signaling,13 which raised considerable
+concerns about the long-term safety of the contrast agents.
+Therefore, developing SPION contrast agents with a novel
+conguration, which improves the MRI sensitivity and efficiency
+for cell labeling, while containing lower iron content, is
+highly desired for cell imaging.
+aSchool of Biomedical Engineering & Med-X Research Institute, Shanghai Jiao Tong
+University, Shanghai 200030, China. E-mail: cfzhang@sjtu.edu.cn
+bSchool of Environmental and Chemical Engineering, Shanghai University, Shanghai
+200444, China
+cShanghai Ninth People's Hospital Affiliated Shanghai Jiao Tong University, Shanghai
+200011, China
+† Electronic supplementary information (ESI) available: Details of cell
+internalization of fmSiO
+4
+@SPIONs compared with SHU555A,
+immunouorescence image of the immature phenotype of labeled C17.2. See
+DOI: 10.1039/c3nr00119a
+Cite this: Nanoscale, 2013, 5, 4506
+Received 8th January 2013
+Accepted 21st March 2013
+DOI: 10.1039/c3nr00119a
+www.rsc.org/nanoscale
+4506 | Nanoscale, 2013, 5, 4506–4516 This journal isª The Royal Society of Chemistry 2013
+Nanoscale
+PAPER
+Published on 25 March 2013. Downloaded by University of Edinburgh on 11/01/2017 08:07:55. 
+View Article Online
+View Journal | View Issue
+(8.0.0.2542.2080703693 PDF Extractor SDK TRIAL VERSIOn)
+[Link]
+http://dx.doi.org/10.1039/c3nr00119a
+Silica has been recognized as a good coating material for
+SPIONs for bifunctional or multifunctional cellular labeling
+because it is quite biocompatible and resistant to biodegradation
+in cellular environments.23–25 Moreover, silica can be
+easily fabricated into different congurations, such as nanowires
+,26 nanorattle27 and nanocoating layer with a mesoporous
+or dense structure,28,29 which could impart the coated materials
+with unique properties. We and other groups have
+observed that mesoporous silica coating could enhance MR
+sensitivity of the magnetic nanoparticles dramatically.30,31
+Moreover, MR sensitivity was tunable with the variation of
+pore size.30 In addition, Liu et al. have demonstrated that
+tumbler-like mesoporous silica nanoparticles attached by
+silica-coated SPIONs could be used for stem cell labeling efficiently.32 Based on these ndings, we hypothesized that mesoporous
+silica coating may improve both MRI sensitivity of
+SPIONs and stem cell labeling efficiency. Mesoporous silicacoated
+SPIONs may represent a new generation of cell imaging
+contrast agents. Therefore, in the current study, we have
+developed uorescent mesoporous silica-coated SPIONs
+(fmSiO
+4
+@SPIONs) and investigated whether this novel contrast
+agent could be used for neural progenitor cell (C17.2) labeling
+efficiently and tracking to home to the brain ischemic site of
+stroke mice with a clinical MRI analyzer.
+Results and discussion
+Synthesis and characterizations of fmSiO
+4
+@SPIONs
+The fmSiO
+4
+@SPIONs were fabricated by template growth of
+silica on the SPION surface. SPIONs with a mean diameter of
+10 nm were synthesized by a co-precipitation method and
+stabilized with oleic acid.33 The mesoporous silica shells were
+subsequently coated with a silica sol–gel reaction of tetraethyl
+orthosilicate (TEOS) in an aqueous solution containing cetyltrimethylammonium
+bromide (CTAB) and SPIONs under basic
+conditions.31,34 CTAB was used not only as the stabilizing agent
+to transfer hydrophobic SPIONs to the aqueous phase but also
+as the organic structure-directing template to establish mesopores
+on the silica shell. Transmission electron microscopy
+(TEM) revealed that fmSiO
+4
+@SPIONs were discrete and
+uniform in size with a clear core–shell structure (Fig. 1a). The
+average size of fmSiO
+4
+@SPIONs was about 50 nm with a 20 nm
+mesoporous silica coating layer. The porous nature of
+fmSiO
+4
+@SPIONs was tested by nitrogen adsorption–desorption
+isotherms, which exhibited an IV-type curve, thus demonstrating
+their mesoporous structure (Fig. 2a). The pore size
+distribution calculated by the Barrett–Joyner–Halenda (BJH)
+model35showed that the mean value of the pore size was 2.8 nm
+with narrow size distribution (Fig. 2a, inset), which demonstrated
+that fmSiO
+4
+@SPIONs had uniform porosity. The Brunauer–Emmett–Teller (BET) surface area36 and total pore
+volume of fmSiO
+4
+@SPIONs were calculated to be 698.32 m2g1
+and 1.64 cm3 g1, respectively. MR relaxometry of the
+fmSiO
+4
+@SPION water suspension was performed using a 1.41 T
+Minispec mq60 NMR Analyzer (Bruker, Germany). T
+2
+relaxivity
+(r
+2
+) deduced from inverse T
+2
+as a function of iron concentrations
+was 309.53 mM1 s1 (Fig. 2b), which was much higher
+Fig. 1 TEM images of the synthesized nanoparticles. (a) fmSiO
+4
+@SPIONs and (b)
+fdSiO
+4
+@SPIONs.
+Fig. 2 (a) Nitrogen adsorption–desorption isotherms of fmSiO
+4
+@SPIONs, inset:
+pore size distribution; (b) T
+2
+relaxation rates of fmSiO
+4
+@SPIONs, fdSiO
+4
+@SPIONs
+and SPIONs as the function of iron concentrations. T
+2
+relaxivities were 309.53
+mM1s1for fmSiO
+4
+@SPIONs, 231.74 mM1s1for fdSiO
+4
+@SPIONs and 142.48
+mM1 s1 for SPIONs, respectively; (c) hydrodynamic diameters of fmSiO
+4
+@
+SPIONs and fdSiO
+4
+@SPIONs at different periods of time.
+This journal isª The Royal Society of Chemistry 2013 Nanoscale, 2013, 5, 4506–4516 | 4507
+Paper Nanoscale
+Published on 25 March 2013. Downloaded by University of Edinburgh on 11/01/2017 08:07:55. 
+View Article Online
+(PDF Extractor SDK TRIAL VERSION)
+[Link]
+http://dx.doi.org/10.1039/c3nr00119a
+than that of the conventional iron oxide contrast agents (usually
+less than 200 s1 mM1).37 In order to investigate the effect of
+surface coating on T
+2
+relaxivity, we also synthesizeduorescent
+dense silica-coated SPIONs (fdSiO
+4
+@SPIONs) with the same
+SPION core and a similar thickness of the coating layer (Fig. 1b).
+T
+2
+relaxivities for fdSiO
+4
+@SPIONs and the uncoated SPIONs
+were 231.74 and 142.48 mM1 s1, respectively, much lower
+than those of fmSiO
+4
+@SPIONs. Therefore, we believe that the
+improvement inT
+2
+relaxivity is due to mesoporous silica surface
+coating. Mesoporous silica coating slows diffusion of water
+molecules conned in mesopores. Moreover, hydrogen bonding
+between water and mesoporous silica walls also restricts the
+mobility of water molecules. Considering the large surface area,
+hydrogen bonding would result in a large amount of immobilized
+water in the mesopores. The restriction of water mobility
+in the mesopores would lead to a longer time that water molecules
+experience the local magnetic eld generated by SPIONs,
+and thus more efficient dephasing (relaxation) of water protons.
+The hydrodynamic sizes of fmSiO
+4
+@SPIONs and fdSiO
+4
+@
+SPIONs determined by dynamic light scattering (DLS) were
+151 2 nm and 148 5 nm, respectively, and did not change
+signicantly for a long period of time (Fig. 2c). The zeta
+potential of fmSiO
+4
+@SPIONs in water (pH 7.0) was 22.5 mV
+and that for fdSiO
+4
+@SPIONs was38.0 mV.
+Neural progenitor cell (C17.2) labeling
+Neural progenitor cells (C17.2) were derived from the cerebellum
+of a neonatal mouse and immortalized at postnatal day
+4 using a v-myc immortalizing oncogene.38,39 For cell labeling,
+C17.2 cells were incubated with fmSiO
+4
+@SPIONs or fdSiO
+4
+@
+SPIONs at various concentrations (in iron) in culture media
+(5mgmL 1,10mgmL 1,20mgmL 1, and 33mgmL 1)at37C
+for 2 h or at the concentration of 10 mg mL 1 for different
+periods of time (0.5, 1, 2 and 3 h). Fig. 3 shows Prussian blue
+staining of cells aer labeling, which indicates that cell uptake
+of the nanoparticles was dose- and time-dependent. By visual
+inspection, cell ingestion of fmSiO
+4
+@SPIONs was more than
+that of fdSiO
+4
+@SPIONs (Fig. 3a and b). T
+2
+-weighted MR
+imaging of cells demonstrated that cells labeled with
+fmSiO
+4
+@SPIONs showed a more pronounced hypointense
+signal than those cells labeled with fdSiO
+4
+@SPIONs (Fig. 4a).
+In line with the above observation, inductively coupled plasma
+atomic emission spectrometry (ICP-AES) quantication of
+intracellular iron indicated that cell uptake of fmSiO
+4
+@SPIONs
+was indeed more efficient than that of fdSiO
+4
+@SPIONs under
+each incubation condition, which is shown in Fig. 4b.
+Considering the similar size of fmSiO
+4
+@SPIONs and
+fdSiO
+4
+@SPIONs, our data indicated that mesoporous silica
+coating facilitated cell uptake of SPIONs and improved cell
+labeling efficiency. The higher cell labeling efficiency of
+fmSiO
+4
+@SPIONs may arise from its mesoporous surface
+structure. Huang et al. have demonstrated that mesoporous
+silica nanoparticles were highly efficient for stem cell
+labeling.40 Liu et al. have observed that human mesenchymal
+stem cell (hMSC) uptake of silica-coated SPIONs was signi-
+cantly improved aer the particles were combined with mesoporous
+silica nanoparticles.32 In addition, surface charge also
+affects cell-uptake efficiency of mesoporous nanoparticles.41
+The cell membrane is negatively charged.42 The less negative
+surface charge of fmSiO
+4
+@SPIONs (zeta potential, 22.5 mV)
+than that of fdSiO
+4
+@SPIONs (zeta potential, 38.0 mV) may
+contribute partially to the higher cell uptake efficiency of
+fmSiO
+4
+@SPIONs. SHU555A (Bayer Schering Pharma, Berlin,
+Germany), a commercially available contrast agent, is oen
+used for cell imaging.8,43 To further demonstrate the high
+efficiency of fmSiO
+4
+@SPIONs for cell labeling, cell labeling
+with SHU555A was also performed as a comparison. Similar to
+the above nding, cell internalization of fmSiO
+4
+@SPIONs
+was much more pronounced than that of SHU555A (ESI Fig. S1
+and S2†).
+Fig. 3 Prussian blue staining of C17.2 cells. Prussian blue staining of C17.2 cells
+labelled with fmSiO
+4
+@SPIONs or fdSiO
+4
+@SPIONs at different iron concentrations
+for 2 h (a) or at the iron concentration of 10mgmL1for different periods of time
+(b). Scale bar: 50 mm.
+Fig. 4 (a) T
+2
+-weighted MR images of C17.2 cells labelled with fmSiO
+4
+@SPIONs
+or fdSiO
+4
+@SPIONs at different iron concentrations for 2 h or at the iron
+concentration of 10 mg mL 1 for different periods of time; (b and c) ICP-AES
+quantification of intracellular iron.
+4508 | Nanoscale, 2013, 5, 4506–4516 This journal isª The Royal Society of Chemistry 2013
+Nanoscale Paper
+Published on 25 March 2013. Downloaded by University of Edinburgh on 11/01/2017 08:07:55. 
+View Article Online
+( 8.0.0.2542.1542060048 PDF Extractor SDK EVALUATION)
+[Link]
+http://dx.doi.org/10.1039/c3nr00119a
+Cellular internalization of fmSiO
+4
+@SPIONs
+For in vivo MR imaging of SPION-labeled cells, the close association
+of the particles with the cells is of crucial importance
+and internalized particles are generally favored over surfaceassociated
+ones. In this context, internalization of fmSiO
+4
+@
+SPIONs by C17.2 cells was analyzed using a confocal laser
+scanning microscope by means of sequential imaging along the
+z axis at 0.2 mm interslice distances. Fig. 5 shows a representative
+cell image from the middle slice of the cell. The bright-eld
+image (Fig. 5a) and the merged image (Fig. 5e) show the details
+of cell morphology, position of the intact membrane and
+fmSiO
+4
+@SPIONs (green), which indicated that fmSiO
+4
+@SPIONs
+entered the cytosol and accumulated inside distinct vesicles.
+Orthogonal projections of z-stack reconstructions (Fig. 5f) also
+manifested the relative position of particles compared to the
+cell body, suggesting that, at this point, fmSiO
+4
+@SPIONs were
+internalized by C17.2 cell rather than being associated with the
+cell surface.
+Biocompatibility of fmSiO
+4
+@SPIONs
+For biocompatibility study, we rst investigated the viability of
+cells aer treating them with fmSiO
+4
+@SPIONs by CCK-8 assay
+(Fig. 6a) and trypan blue exclusion assay (Fig. 6b). To this end,
+C17.2 cells were incubated with fmSiO
+4
+@SPIONs or SHU555A (a
+commercially available iron oxide contrast agent, used as a
+comparison) at the iron concentration of 10 mg mL 1 for
+different periods of time. The assays revealed that cell viability
+was not hindered by the presence of fmSiO
+4
+@SPIONs for a
+short-term. No direct cytotoxic effects could be noted aer 3 h of
+incubation, reaching (98.43  9.46)% and (95.86  2.64)%
+viability analyzed by CCK-8 and trypan blue assays, respectively.
+However, aer incubation for 5 h, the viability of cells decreased
+marginally ((92.5210.26)% for trypan blue assay and (87.62
+13.84)% for CCK-8 assay) and prominently aer 24 h incubation
+((87.6213.84)% for trypan blue assay and (76.623.26)% for
+CCK-8 assay). Nevertheless, these data were comparable to
+those for the cells treated with SHU555A. The cytotoxic effect of
+both fmSiO
+4
+@SPIONs and SHU555A aer a long-term incubation
+may arise from high intracellular iron internalized by
+cells.44 Regarding the cytotoxicity of mesoporous silica nanoparticles
+(MSNs), a vast number of studies have been performed.
+Although quite different conclusions have been drawn
+depending on the type of MSNs, it is believed that the porosity,
+Fig. 5 Intracellular internalization of fmSiO
+4
+@SPIONs. (a) Bright-field image of
+cells; (b and c) confocal images of cell nucleus (stained with DAPI) and
+fmSiO
+4
+@SPIONs inside cells; (d) overlapped image of (b) and (c); (e) overlapped
+image of (a) and (d); (f) orthogonal projections of the z-stack reconstructions
+showing relative position of particles (green) compared to the cell body (blue
+staining is for nuclear DNA).
+Fig. 6 Viability of C17.2 cells labelled with fmSiO
+4
+@SPIONs. Cell viability evaluated
+by CCK-8 assay (a) and trypan blue exclusion assay (b) after cell incubation
+with fmSiO
+4
+@SPIONs at the iron concentration of 10 mg mL 1 for different
+periods of time.
+Fig. 7 Proliferation of C17.2 cells assessed by Ki 67 staining. Up: control cells;
+down: cells labelled with fmSiO
+4
+@SPIONs at 10mg Fe per mL for 2 h. Cell nuclei
+were stained blue with DAPI. Scale bars: 50 mm.
+This journal isª The Royal Society of Chemistry 2013 Nanoscale, 2013, 5, 4506–4516 | 4509
+Paper Nanoscale
+Published on 25 March 2013. Downloaded by University of Edinburgh on 11/01/2017 08:07:55. 
+View Article Online
+(8.0.0.2542.1961216085 PDF Extractor SDK TRIAL VERSIOn)
+[Link]
+http://dx.doi.org/10.1039/c3nr00119a
+particle size, and postsynthetic treatment procedure (calcination
+/solvent extraction) may affect their cytotoxicity.45 In our
+case, these factors may also inuence cell viability, but as evidenced
+by SHU555A, the inuence of the mesoporous silica
+coating layer is marginal.
+C17.2 is an immortalized neural progenitor cell line and
+keeps active proliferation capacity.38 Next, we examined if
+fmSiO
+4
+@SPION labeling under non-cytotoxic condition (i.e.
+10mgmL1for 2 h) affected cell proliferation. For this purpose,
+the cells were stained against Ki 67 antigen that is highly
+expressed in proliferating cell nuclei during cell mitosis,46 and
+cell-cycle progression was assessed and veried by manual cell
+counting. Compared with the control (unlabeled cells, Ki 67
+positive: 56.7%), no reduction in cell proliferation aer
+fmSiO
+4
+@SPION labeling was observed (Ki 67 positive: 57.2%)
+(Fig. 7). The cell doubling time calculated for the unlabeled
+control cells was 21.45  0.26 h, which was pretty consistent
+with a previous report,13 and that for fmSiO
+4
+@SPION-labeled
+cells was 21.53  0.41 h, not being altered aer labeling. Our
+results indicated that fmSiO
+4
+@SPIONs did not have adverse
+Fig. 8 MRI tracking of fmSiO
+4
+@SPION-labeled C17.2 cells infused intracerebrally, contralateral to the ischemic area and histological studies of MCAO mouse brain. (a)
+T
+2
+-weighted MR images of MCAO mouse brains after injection with plain cells, fmSiO
+4
+@SPIONs or fmSiO
+4
+@SPION-labeled C17.2 cells. (b) Scheme of a brain section
+indicating the sites of migrated cells; (c–j)fluorescence images of MCAO mouse brain sections after infusion of fmSiO
+4
+@SPION-labeled C17.2 cells; (c–f) labelled cells
+confined in the injection site; (g–j) labelled cells migrating to the ischemic area; (c and g) fluorescence images of fmSiO
+4
+@SPION-labeled C17.2 cells; (d and h) DAPI
+staining of cell nuclei; (e and i) nestin immunostaining of the labelled cells; (f) overlap of (c), (d) and (e); (j) overlap of (g), (h) and (i). Scale bar:50mm.
+4510 | Nanoscale, 2013, 5, 4506–4516 This journal isª The Royal Society of Chemistry 2013
+Nanoscale Paper
+Published on 25 March 2013. Downloaded by University of Edinburgh on 11/01/2017 08:07:55. 
+View Article Online
+( 8.0.0.2542.1609844194 PDF Extractor SDK EVAL VERSION)
+[Link]
+http://dx.doi.org/10.1039/c3nr00119a
+effects on the cell proliferation under current labeling conditions
+(10 mg Fe per mL for 2 h). Therefore, for the following in
+vivo experiments, the cells were labeled at the fmSiO
+4
+@SPION
+concentration of 10 mg Fe per mL for 2 h.
+MR tracking of fmSiO
+4
+@SPION-labeled C17.2 cells in middle
+cerebral artery occlusion (MCAO) mice
+Due to its high MRI sensitivity and high efficiency for C17.2 cell
+labeling, next we examined whether fmSiO
+4
+@SPION-labeled
+cells injected intracerebrally or intravenously could be tracked
+homing to the ischemic sites of MCAO mice using a clinical MRI
+scanner (3 T). For intracerebral injection, the labeled cells (5
+105) suspended in 5mL PBS (pH¼7.4) were infused into the right
+hemisphere, contralateral to the ischemic territory, in MCAO
+mice. Aer 1 day of animal MCAO, MR imaging showed bright
+plaques on the T
+2
+-weighted images (Fig. 8a). One day aer
+injection, the hyperintense signal in the ischemic area diminished.
+Three days aer injection, the hypointense signal at the
+Fig. 9 MRI tracking of fmSiO
+4
+@SPION-labeled C17.2 cells infused intravenously and histological studies of MCAO mouse brain. (a) T
+2
+-weighted MR images of MCAO
+mouse brains after injection with plain cells, fmSiO
+4
+@SPIONs or fmSiO
+4
+@SPION-labeled C17.2 cells intravenously; (b) scheme of a brain section indicating the sites of
+migrated cells; (c–j) fluorescence images of MCAO mouse brain sections after infusion of fmSiO
+4
+@SPION-labeled C17.2 cells; (c–f) labelled cells found in the corpus
+callosum; (g–j) labeled cells migrating to the ischemic area; (c and g)fluorescence images of fmSiO
+4
+@SPION-labeled C17.2 cells; (d and h) DAPI staining of cell nuclei; (e
+and i) nestin immunostaining of the labelled cells; (f) overlap of (c), (d) and (e); (j) overlap of (g), (h) and (i). Scale bar: 50mm.
+This journal isª The Royal Society of Chemistry 2013 Nanoscale, 2013, 5, 4506–4516 | 4511
+Paper Nanoscale
+Published on 25 March 2013. Downloaded by University of Edinburgh on 11/01/2017 08:07:55. 
+View Article Online
+(WITH PDF Extractor SDK TRIAL VERSION)
+[Link]
+http://dx.doi.org/10.1039/c3nr00119a
+ischemic site was clearly observed. However, for control groups
+injected with either fmSiO
+4
+@SPIONs at the same iron dose or
+plain cells with the same amount, no pronounced MRI signal
+alteration was found.T
+2
+relaxation time changes of the ischemic
+area before and aer labeled cellinfusion,DT
+2
+, were 12.454.69
+ms (one day p.i.) and 26.78 8.65 ms (3 days p.i.), respectively.
+Nestin is widely considered as a specic marker for neural stem
+cells and neural progenitors.47,48C17.2 is a neural progenitor cell
+line, and as indicated in ESI Fig. S3† C17.2 cells highly express
+nestin.49 When transplanted into normal or lesioned (necrosis)
+brains, majority of C17.2 cells remained undifferentiated.50 In
+order to identify the MRI signal decrease in lesion sites arising
+fromthemigratedC17.2cells,immunouorescentstainingofan
+MCAO mouse brain against nestin was performed. Subsequently
+uorescent imaging of nestin positive C17.2 cells and
+fmSiO
+4
+@SPIONs co-registered the fmSiO
+4
+@SPION-labeled cells
+at the injection site (Fig. 8c–f) and near the boundary of the
+ischemic area (Fig. 8g–j). These observations suggested that the
+transplanted C17.2 cells migrated from theinjection site, homed
+to the ischemic area and thus reduced the MR signal intensity,
+which was pretty similar to that of mesenchymal stem cells
+infused in the same manner.17
+For intravenous injection, 1 106 labeledcellssuspendedin
+300mLPBS (pH¼7.4) wereadministered.AsshowninFig.9a,one
+day aer cell injection, MR signal intensity of the ischemic area
+decreased, especially in the peri-focal zone of the lesion, suggesting
+that the fmSiO
+4
+@SPION-labeled cells may have accumulated
+at the lesion site and reduced the contrast. Three days postinjection
+, the signal intensity decrease was even more obvious,
+with the most lesion area turning hypo-intense.DT
+2
+of the lesion
+area (T
+2
+before injection T
+2
+aer injection) was 8.22 6.36 ms
+(one day p.i.) and 15.32 5.13 ms (three days p.i.), respectively.
+However, for MCAO mice with non-labeled C17.2 cells or
+fmSiO
+4
+@SPION infusion, both MR signal and T
+2
+relaxation time
+changes in the ischemic area were unnoticeable. Histological
+studies of brain tissues conrmed that many fmSiO
+4
+@SPION-
+labeled cell clusters presented in the ischemic area and were
+mainly distributed in the periphery (Fig. 9g–j), where a more
+supportive environment than the lesion core area for survival of
+transplanted neuralprogenitorcellswasprovided.51Interestingly,
+cellclusterswerealsofoundinthecorpuscallosum(Fig.9c–f).Our
+data showed that with both delivery routes, transplanted C17.2
+cells could migrate to the ischemic brain and preferentially
+localize to the lesion site, and the migrated cells or cell clusters
+were mainly detected nearby the lesion boundary.
+For cell therapy of ischemic brain, various cell delivery
+routes, such as introducing cells intravenously,52 intra-arterially
+,53 intraventricularly and intracerebrally,54 have been adopted.
+Among them, intravenous injection is a minimally invasive
+and clinically relevant technique. However, in agreement with
+the previousndings,53 a biodistribution study indicated that a
+large proportion of labeled cells were retained in the liver,
+spleen, lung and kidney (Fig. 10). Only a small part of labeled
+cells graed the target brain. Although we did not know the
+exact amount of cells graed, our results proved that
+fmSiO
+4
+@SPION labeling was sensitive enough to allow for
+monitoring of the migration of a small number of cells in the
+mouse brain, much less than tens of million cells needed for
+stem cell therapy.
+Conclusions
+In summary, we have successfully fabricated uorescent mesoporous
+silica-coated SPIONs (fmSiO
+4
+@SPIONs), which were
+discrete and uniform in size and had high MRI sensitivity.
+When used for neural progenitor cell labeling, fmSiO
+4
+@SPIONs
+demonstrated improved cell labeling efficiency. Even more,
+aer infused intracerebrally into stroke mice contralateral to
+ischemic hemisphere or injected intravenously, a small amount
+of the labeled cells could be tracked homing to the ischemic
+area with a clinical MRI scanner (3 T). Histological studies
+conrmed the presence of labeled cells in the lesion sites, which
+are mainly distributed in the boundary. Taken together, our
+study demonstrated that fmSiO
+4
+@SPIONs, a new kind of cell
+imaging contrast agent, were robust for cell imaging and hold
+great promise for MRI cell tracking in future.
+Experimental section
+Materials
+Ferric chloride hexahydrate (FeCl
+3
+$6H
+2
+O), absolute ethanol
+(AR), ferrous sulfate heptahydrate (FeSO
+4
+$7H
+2
+O, AR), oleic acid,
+ethylene glycol (AR), tetraethyl orthosilicate (TEOS, AR), 3-aminopropyl
+triethoxysilane (APTES), NH
+4
+OH (25 wt%, AR) were
+purchased from Sinopharm Chemical Reagent Co. Ltd.
+(Shanghai, China). Cetylmethyl ammonium bromide (CTAB,
+AR), 1,3,5-trimethyl-benzene (TMB, 99%) and decane (99%)
+were purchased from Sigma-Aldrich.
+Synthesis and characterizations ofuorescent mesoporous or
+dense silica-coated superparamagnetic iron oxide
+nanoparticles
+First,uorescein isothiocyanate (FITC) was covalently linked to
+3-aminopropyl triethoxysilane (APTES) by dissolving 1 mg of
+FITC in 5 mg of APTES. Cyclohexane was then added to prepare a
+Fig. 10 In vivo distribution of fmSiO
+4
+@SPION-labeled C17.2 cells injected
+intravenously or intracerebrally three days after injection. IH: ischemic hemisphere
+; CH: contralateral hemisphere (CH).
+4512 | Nanoscale, 2013, 5, 4506–4516 This journal isª The Royal Society of Chemistry 2013
+Nanoscale Paper
+Published on 25 March 2013. Downloaded by University of Edinburgh on 11/01/2017 08:07:55. 
+View Article Online
+(EVALUATION PDF Extractor SDK 8.0.0.2542.1422572440)
+[Link]
+http://dx.doi.org/10.1039/c3nr00119a
+10 vol% FITC–APTES solution. This FITC–APTES–cyclohexane
+solution was stirred for 24 h in the dark prior to use. Fluorescent
+mesoporous silica-coated superparamagnetic iron oxide nanoparticles
+(fmSiO
+4
+@SPIONs) were synthesized according to our
+previous report.30,55 Briey, Fe
+3
+O
+4
+nanoparticles were rst
+synthesized by a conventional co-precipitation method in an
+aqueous phase and stabilized with oleic acid.33 Then, the
+magnetic nanoparticles were transferred to an aqueous phase
+usingcationicsurfactantCTABandthemesoporoussilicacoating
+was performed by assembly of the surfactant template CTAB and
+silica precursor TEOS in basic solution. FITC dye was covalently
+incorporated into the mesoporous silica framework during the
+mesoporous silica coating process. Finally, the template was
+removed to generate mesopores by extraction of the surfactant
+using acetone as solution. Fluorescent dense silica-coated
+superparamagnetic iron oxide nanoparticles (fdSiO
+4
+@SPIONs)
+were synthesized according to a previously published procedure
+with little modication.56 In brief, fdSiO
+4
+@SPIONs were synthesized
+by dissolving 5 mg oleic acid-capped SPIONs into 40 mL
+cyclohexane containing 2 mL Igepal CO-520 and subsequent
+hydrolization of tetraethyl orthosilicate (TEOS) and FITC–APTES
+in the mixture in the presence of ammonia solution. For characterizations
+of the particles, the morphology, size, and size
+distribution were characterized using a transmission electron
+microscope (TEM, JEOL 2100F, Japan) at an acceleration voltage
+of 200 kV. The particle size and size distribution were calculated
+using an image analysis program by measuring the diameter of
+no less than 300 particles. The zeta potentials were measured in
+water using a Zeta2000 Potential Analyzer (Malvern, UK). The
+hydrodynamic diameters were determined using a dynamic light
+scattering using a spectrometer (Autosizer 4700/PCS100, Malvern
+, UK) equipped with an Ar ion laser operating at 488 nm. MR
+relaxometry of the magnetic particles was performed using a 1.41
+T minispec mq60 NMR Analyzer (Bruker, Germany) and T
+2
+relaxivity was deduced from inverse T
+2
+as a function of iron
+concentrations. Nitrogen sorption isotherms were measured at
+77 K with a Micromeritcs ASAP2010 analyzer (USA). The specic
+surface areas were calculated by the Brunauer–Emmett–Teller
+(BET) method36 in a linear relative pressure range between 0.05
+and 0.25. The pore size distributions were derived from the
+desorption branches of the isotherms by the NLDFT57 and BJH
+methods35using the Quantachrome Autosorb 1 soware (Quantachrome
+Instruments, USA).
+Cell culture
+The C17.2 cells were purchased from CellBank Australia and
+maintained in Dulbecco's modied Eagle's medium (DMEM)
+supplemented with 10% fetal bovine serum, 5% horse serum,
+2 mM glutamine, penicillin–streptomycin, 1.2 mM sodium pyruvate
+and 1.8 g L1sodium bicarbonate in uncoated tissue culture
+dishes at a density of 5–7 103cm2in standard humidied 5%
+CO
+2
+at 37 C. The cells were split when grown to 90% conuence.
+Cell labelling
+For cell labelling, C17.2 cells were incubated with the
+fmSiO
+4
+@SPIONs, fdSiO
+4
+@SPIONs or SHU555A (Bayer Schering
+Pharma, Berlin, Germany) at various concentrations (in iron) in
+culture media (5 mgmL 1,10mgmL 1,20mgmL 1, and 33 mg
+mL1)at37C for 2 h or at the concentration of 10mg Fe per mL
+for different periods of time (0.5, 1, 2 and 3 h). Aer incubation,
+the cells were washed three times with phosphate-buffered
+saline (PBS, pH ¼ 7.4), trypsinized, and counted for the
+following experiments.
+Prussian blue staining of the labeled cells
+For Prussian blue staining, the cells were seeded on cover glass
+slices. Aer incubation with nanoparticles, the cells were
+washed three times with PBS (pH ¼ 7.4) and xed with paraformaldehyde
+(4%) for 10 minutes. Thexed cells were stained
+with 10 wt% Prussian blue (K
+4
+Fe(CN)
+6
+$3H
+2
+O) for 5 min and the
+mixture of 10 wt% Prussian blue and 20% HCl (1 : 1) for 30 min
+successively. Aer washing with water, the cells were counterstained
+with nuclear fast red for 5 min. The stained cells were
+dehydrated with gradient ethanol (70%, 95%, and 100%),
+cleared with xylene and adhered onto glass slides for microscopic
+study.
+MR cell imaging
+For MR imaging, the labeled cells (1 105) were suspended in
+gelatin (2%, 500mL) in plastic vials homogenously and placed in
+a water tank. MRI was performed with a 3 T MRI scanner (Signa
+EXITE, GE Healthcare) using a clinical head coil with a
+T
+2
+-weighted spin echo sequence (TR ¼ 2000 ms, TE ¼ 37 ms,
+FOV¼ 220 220 mm, and slice thickness¼ 2 mm).
+ICP-AES quantication of intracellular iron
+To determine the intracellular iron, inductively coupled plasma
+atom emission spectrometry (ICP-AES) (ICAP-6300, Thermo
+Fisher, USA) measurements of the labelled cells were performed.
+Before measurement, the cells were digested with aqua
+regia and diluted to 10 mL with de-ionized water. Triplet
+experiments were performed, and the average value of the
+intracellular iron content was taken and expressed as mean
+SD in picograms of iron per cell.
+Biocompatibility of fmSiO
+4
+@SPIONs
+To test the biocompatibility of fmSiO
+4
+@SPIONs, cell viability
+and proliferation capacity aer labeling were examined. The
+viability of the labeled cells was evaluated by trypan blue
+exclusion assay and using cell counting kit-8 (CCK-8, Dojindo,
+Kumamoto, Japan)58,59 according to the manufacture's procedures.
+For this purpose, cells were incubated with fmSiO
+4
+@
+SPIONs at the iron concentration of 10 mgmL 1 for different
+periods of time (0.5, 1, 2, 3, 5 and 24 h). For trypan blue
+exclusion assay, aer incubation, the cells were washed three
+times with PBS, trypsinized, centrifuged, andnally suspended
+in PBS. Subsequently, the cells were mixed with 0.4% of trypan
+blue dye at an 1 : 1 (v/v) ratio and the mixture was loaded into a
+Neubauer chamber for cell counting. Cells with an intact
+membrane excluded the dye and were considered as live cells.
+The percentage of live cells was determined. For CCK-8 assay,
+This journal isª The Royal Society of Chemistry 2013 Nanoscale, 2013, 5, 4506–4516 | 4513
+Paper Nanoscale
+Published on 25 March 2013. Downloaded by University of Edinburgh on 11/01/2017 08:07:55. 
+View Article Online
+(8.0.0.2542.1841728477 PDF Extractor SDK TRIAL VERSIOn)
+[Link]
+http://dx.doi.org/10.1039/c3nr00119a
+the cells (1  104) were seeded in a 96 multi-well plate. Aer
+incubation, the culture medium was removed, and the cells
+were washed with PBS three times. Subsequently, fresh cell
+culture medium (90 mL) was added to each well, followed by
+addition of 10 mL CCK-8 solution. Then, the cells were incubated
+for 2 h. The absorbance at 450 nm was recorded using a
+Wallace 1420 multilabel counter VICTOR3 (PerkinElmer, Baltimore
+, MD). Cell viability was expressed as the percentage of the
+absorbance of cells incubated with the nanoparticles to that of
+the cells maintained in normal culture medium. The cell
+viability aer labeling with SHU555A was also evaluated as a
+comparison.
+To evaluate the cell proliferation capacity, immunocytostaining
+against cell nuclear Ki 67 antigen was performed. Aer
+being treated with fmSiO
+4
+@SPIONs at the iron concentration of
+10 mg mL 1 for 2 hours, cells were xed with 4% paraformaldehyde
+for 15 minutes and then washed three times with
+PBS (pH ¼ 7.4). Subsequently, the cells were pre-incubated in
+5% goat serum and 0.25% Triton X-100 in PBS at room
+temperature successively. For immunostaining, the cells were
+incubated with primary rabbit polyclonal anti-Ki67 antibody
+(Abcam, Cambridge, MA) in combination with secondary Cy3
+conjugated anti-rabbit IgG (Abcam, Cambridge, MA). Cell nuclei
+were counter-stained with DAPI during nal incubation with
+secondary antibodies. In vitro cell counting was performed on
+20 randomly chosenelds, counting both total cell number and
+cells positive for Ki 67. Each well was evaluated separately and at
+least eight wells per staining were counted.
+Cell doubling time was estimated by the manual counting
+method. To this end, C17.2 cells were seeded at 1106cells per
+culture ask and labeled with fmSiO
+4
+@SPIONs at the iron
+concentration of 10 mg mL 1 for 2 h. Aer labeling, the cells
+were kept in culture and were re-seeded at 1  106 cells per
+cultureask every 48 h. The average cell division time for three
+independent tests was given.
+Cellular internalization of fmSiO
+4
+@SPIONs
+To demonstrate whether fmSiO
+4
+@SPIONs were internalized by
+the cells, confocal microscopy studies of the labeled cells were
+performed. For this purpose, C17.2 cells were grown on cover
+slides and incubated with fmSiO
+4
+@SPIONs at the concentration
+of 10 mg Fe per mL for 2 h. Aer being xed with 4% paraformaldehyde
+, the cell nuclei were stained with DAPI. Then, the
+labeled cells were imaged using a Leica TCS SP5 confocal system
+(Leica, Mannheim, Germany) with Leica AFS Lite 2.3.0 imaging
+processing soware under an oil-immersion 40 objective. For
+localization of fmSiO
+4
+@SPIONs intracellularly, horizontal
+z-stacks were obtained by capturing images with a 0.2 mm
+interslice distance along the z-axis.
+Mouse middle cerebral artery occlusion (MCAO) model
+The animal study was approved by the animal protection and
+care committee of Shanghai Jiao Tong University. For preparation
+of the MCAO mouse model, female CD-1 mice (4 week old,
+Slaccas Company, Shanghai, China) were used and the procedure
+has been described previously.60 Briey, the mice were
+anesthetized and the le common carotid artery was exposed.
+The internal carotid artery (ICA) was then isolated and its
+branch, the pterygopalatine artery, was ligated close to its
+origin. Then a 6-0 rounded tip nylon suture was advanced from
+the external carotid artery (ECA) up to the internal carotid artery
+for a distance of 10.0  0.5 mm. MCAO induced mouse le
+brain damage was identied and monitored by MR imaging (3 T
+MRI scanner, Signa EXITE, GE Healthcare) using a surface coil
+with aT
+2
+-weighted fast spin echo sequence (TR¼5840 ms, TE¼
+104 ms, FOV ¼ 45 mm  45 mm, matrix ¼ 256  256, slice
+thickness¼ 1.5 mm, and 4 collections).
+MR tracking of the labeled cells in MCAO mice
+For MR tracking, C17.2 cells were labeled with fmSiO
+4
+@SPIONs
+at the concentration of 10 mg Fe per mL for 2 hours. The cells
+were injected intracerebrally into the mouse right hemisphere
+or intravenouslyviatail vein one day aer MCAO. For each case,
+mice were divided into three groups with ve mice in each
+group. One group was injected with fmSiO
+4
+@SPION-labeled
+cells, one group with an equal dose (in iron) of plain
+fmSiO
+4
+@SPIONs and another group with an equal amount of
+non-labeled cells. For intracerebral injection, the labeled cells,
+plain cells or fmSiO
+4
+@SPIONs were stereotaxically injected into
+the brain using a micro-pump with a 36-gauge needle. The
+transplantation site was targeted at the following coordinates of
+the right intact hemisphere, contralateral to the ischemic
+territory: 1.0 mm posterior to the bregma, 1.0 mm lateral to the
+midline, 3.0 mm ventral to the dura. The injection rate was
+0.4 mL min1 and a total of 5 mL fmSiO
+4
+@SPION-labeled cells
+(5105) were infused. For intravenous injection, the labeled or
+plain C17.2 cells (1  106 cells in 300 mL PBS) were injected
+through tail vein. The infused fmSiO
+4
+@SPION-labeled cells
+were tracked with a 3 T MRI scanner (Sigma EXITE, GE
+Healthcare). T
+2
+-weighted MR imaging was performed one day
+and three days aer cell implantation using a surface coil with a
+T
+2
+-weighted fast spin echo sequence (TR¼ 5840 ms, TE¼ 104
+ms, FOV¼ 45 mm 45 mm, matrix¼ 256 256, slice thickness ¼ 1.5 mm, and 4 collections). T
+2
+relaxation times of
+ischemic sites before and aer fmSiO
+4
+@SPION-labeled cells,
+non-labeled cells or fmSiO
+4
+@SPION injection were determined
+using a T
+2
+MAP MSME spin echo sequence (TR¼ 3500 ms, TE
+range¼20–160 ms, 8 echoes, FOV¼45 mm45 mm, matrix¼
+256 256, and slice thickness¼ 2 mm).
+Immunohistological studies of MCAO mouse brain
+C17.2 is a murine immortalized neural progenitor cell line and
+has an immature phenotype, which is nestin positive.49 Aer
+MR imaging, the mice were sacriced and their brains were
+surgically removed. To identify fmSiO
+4
+@SPION-labeled cells
+migrating to the ischemic site aer intracerebral or intravenous
+injection, immunohistological staining of mouse brain against
+nestin was performed. For this purpose, the mouse brain was
+embedded in OCT (Miles, Elkhart, IN), frozen on dry ice and
+sectioned into twenty micrometer thick slices using a cryostat
+(CM 1900 UV, Leica, Germany). Next, the slices were xed with
+4% paraformaldehyde for 15 minutes, washed three times with
+4514 | Nanoscale, 2013, 5, 4506–4516 This journal isª The Royal Society of Chemistry 2013
+Nanoscale Paper
+Published on 25 March 2013. Downloaded by University of Edinburgh on 11/01/2017 08:07:55. 
+View Article Online
+(DEMO PDF Extractor SDK 8.0.0.2542-113400867)
+[Link]
+http://dx.doi.org/10.1039/c3nr00119a
+PBS (pH¼7.4) and blocked for 1 h with 5% goat serum (in PBS).
+Finally, the tissue slices were incubated with a primary goat
+anti-mouse antibody (Chemicon, CA) overnight at 4 C and an
+Alexa Fluor-coupled anti-goat IgG (Chemicon, CA) for 2 h at
+room temperature successively. The nuclei were counterstained
+with DAPI (Beyotime Institute of Biotechnology,
+Jiangsu, China). Plain C17.2 cells were also stained with the
+same procedure as a positive control.
+Biodistribution of labeled cells post-intravenous injection
+To determine the biodistribution of the labeled cells, organ
+samples (kidney, spleen, liver, heart, intestine, stomach, lungs,
+blood, right hemisphere and le hemisphere) were collected,
+weighed and digested with nitric acid in a microwave digestion
+system (EXCEL, Preekem Scientic Instruments Co. Ltd,
+Shanghai, China). The solution was diluted with Milli-Q water
+and the silica content was quantied with an inductively
+coupled plasma atom emission spectrometer (ICP-OES, ICAP-
+6300, Thermo Fisher, USA). The percentage of injected dose per
+gram tissue (% ID g1) of fmSiO
+4
+@SPIONs in a specic tissue
+was calculated.
+Acknowledgements
+This work was supported by the Major State Basic Research
+Development Program of China (973 Program) (no.
+2010CB834303), National Nature Science Foundation of China
+(81230030, 30870682, 11275121, 21241002), Med-Engineering
+Crossing Foundation of SJTU (YG2011ZD07, YG2012MS15).
+Notes and references
+1 R. McKay, Nature, 2000, 406, 361–364.
+2 D. Angius, H. Wang, R. J. Spinner, Y. Gutierrez-Cotto,
+M. J. YaszemskI and A. J. Windebank, Biomaterials, 2012,
+33, 8034–8039.
+3 M. Janowski, J. W. M. Bulte and P. Walczak, Adv. Drug
+Delivery Rev., 2012, 64, 1488–1507.
+4 A. Gera, G. K. Steinberg and R. Guzman,Regener. Med., 2010,
+5,73 –86.
+5 C. Zhang, X. Xie, S. Liang, M. Li, Y. Liu and H. Gu,
+Nanomedicine: Nanotechnology, Biology and Medicine, 2012,
+8, 996–1006.
+6 Y. Huang, S. He, W. Cao, K. Cai and X.-J. Liang, Nanoscale,
+2012, 4, 6135–6149.
+7 C. Xu, D. David Miranda-Nieves, J. A. Ankrum,
+M. E. Matthiesen, J. A. Phillips, I. Roes, G. R. Wojtkiewicz,
+V. Juneja, J. R. Kultima, W. Zhao, P. K. Vemula, C. P. Lin,
+M. Nahrendorf and J. M. Karp, Nano Lett., 2012, 12, 4131–
+4139.
+8 M. R. Bernsen, A. D. Moelker, P. A. Wielopolski, S. T. Tiel and
+G. P. Krestin, Eur. J. Radiol., 2010, 20, 255–274.
+9 X. Meng, H. C. Seton, L. T. Lu, L. A. Prior, N. T. K. Thanh and
+B. Song, Nanoscale, 2011, 3, 977–984.
+10 S. M. C. Berman, P. Walczak and J. W. M. Bulte, Wiley
+Interdiscip. Rev.: Nanomed. Nanobiotechnol., 2011, 3, 343–
+355.
+11 A. Bhirde, J. Xie, M. Swierczewska and X. Chen, Nanoscale,
+2011, 3, 142–153.
+12 T. Kallur, T. D. Farr, P. B¨ ohm-Sturm, Z. Kokaia and
+M. Hoehn, Eur. J. Neurosci., 2011, 34, 382–393.
+13 S. J. H. Soenen, N. Nuytten, S. F. D. Meyer, S. C. D. Smedt and
+M. D. Cuyper, Small, 2010, 6, 832–842.
+14 A. Taylor, K. M. Wilson, P. Murray, D. G. Fernig and R. Levy,
+Chem. Soc. Rev., 2012, 41, 2707–2717.
+15 G. Liu, Z. Wang, J. Lu, C. Xi, F. Gao, Q. Gong, B. Song,
+X. Zhao, X. Shuai, X. Chen, H. Ai and Z. Gu, Biomaterials,
+2011, 32, 528–537.
+16 J. P. Sumner, E. M. Shapiro, D. Maric, R. Conroy and
+A. P. Koretsky, NeuroImage, 2009, 44, 671–678.
+17 Y. Wang, F. Xu, C. Zhang, D. Lei, Y. Tang, H. Xu, Z. Zhang,
+H. Lu, X. Du and G.-Y. Yang, Nanomedicine: Nanotechnology
+, Biology and Medicine, 2011, 7, 1009–1019.
+18 F. Xu, C. Cheng, F. Xu, C. Zhang, H. Xu, X. Xie, D. Yin and
+H. Gu, Nanotechnology, 2009, 20, 405102.
+19 M. Li, H. Gu and C. Zhang, Nanoscale Res. Lett., 2012, 7,
+204.
+20 E. M. Shapiro, L. N. Medford-Davis, T. M. Fahmy,
+C. E. Dunbar and A. P. Koretsky, Contrast Media Mol.
+Imaging, 2007, 2, 147–153.
+21 E. M. Shapiro, S. Skrtic and A. P. Koretsky, Magn. Reson.
+Med., 2005, 53, 329–338.
+22 E. M. Shapiro, K. Sharer, S. Skrtic and A. P. Koretsky, Magn.
+Reson. Med., 2006, 55, 242–249.
+23 C. Hui, C. Shen, J. Tian, L. Bao, H. Ding, C. Li, Y. Tian, X. Shi
+and H.-J. Gao, Nanoscale, 2011, 3, 701–705.
+24 P. Couleaud, V. Morosini, C. Frochot, S. Richeter, L. Raehm
+and J.-O. Durand, Nanoscale, 2010, 2, 1083–1095.
+25 J. L. Vivero-Escoto, R. C. Huxford-Phillips and W. Lin, Chem.
+Soc. Rev., 2012, 41, 2673–2685.
+26 Y. Su, X. Wei, F. Peng, Y. Zhong, Y. Lu, S. Su, T. Xu, S.-T. Lee
+and Y. He, Nano Lett., 2012, 12, 1845–1850.
+27 L. Li, Y. Guan, H. Liu, N. Hao, T. Liu, X. Meng, C. Fu, Y. Li,
+Q. Qu, Y. Zhang, S. Ji, L. Chen, D. Chen and F. Tang, ACS
+Nano, 2011, 5, 7462–7470.
+28 J. E. Lee, N. Lee, H. Kim, J. Kim, S. H. Choi, J. H. Kim, T. Kim,
+I. C. Song, S. P. Park, W. K. Moon and T. Hyeon,J. Am. Chem.
+Soc., 2010, 132, 552–557.
+29 J. L. Vivero-Escoto, R. C. Huxford-Phillips and W. Lin, Chem.
+Soc. Rev., 2012, 41, 2673–2685.
+30 J. Zhang, J. M. Rosenholm and H. Gu, ChemPhysChem, 2012,
+13, 2016–2019.
+31 T. Kim, E. Momin, J. Choi, K. Yuan, H. Zaidi, J. Kim, M. Park,
+N. Lee, M. T. McMahon, A. Quinones-Hinojosa,
+J. W. M. Bulte and A. A. Gilad, J. Am. Chem. Soc., 2011, 133,
+2955–2961.
+32 H.-M. Liu, S.-H. Wu, C.-W. Lu, M. Yao, J.-K. Hsiao, Y. Hung,
+Y.-S. Lin, C.-Y. Mou, C.-S. Yang, D.-M. Huang and Y.-C. Chen,
+Small, 2008, 4, 619–626.
+33 H. Xu, L. Cui, N. Tong and H. Gu, J. Am. Chem. Soc., 2006,
+128, 15582–15583.
+34 J. Kim, H. S. Kim, N. Lee, T. Kim, H. Kim, T. Yu, I. C. Song,
+W. K. Moon and T. Hyeon, Angew. Chem., Int. Ed., 2008, 47,
+8438–8441.
+This journal isª The Royal Society of Chemistry 2013 Nanoscale, 2013, 5, 4506–4516 | 4515
+Paper Nanoscale
+Published on 25 March 2013. Downloaded by University of Edinburgh on 11/01/2017 08:07:55. 
+View Article Online
+(TRIAL PDF Extractor SDK 8.0.0.2542-532556904)
+[Link]
+http://dx.doi.org/10.1039/c3nr00119a
+35 E. P. Barrett, L. G. Joyner and P. P. Halenda, J. Am. Chem.
+Soc., 1951, 73, 373–380.
+36 S. Brunauer, P. H. Emmett and E. Teller, J. Am. Chem. Soc.,
+1938, 60, 309–319.
+37 S. Laurent, D. Forge, M. Port, A. Roch, C. Robic, L. V. Elst and
+R. N. Muller, Chem. Rev., 2008, 108, 2064–2110.
+38 E. Y. Snyder, D. L. Deitcher, C. Walsh, S. Arnold-Aldea,
+E. A. Hartwieg and C. L. Cepko, Cell, 1992, 68,33 –51.
+39 E. F. Ryder, E. Y. Snyder and C. L. Cepko, J. Neurobiol., 1990,
+21, 356–375.
+40 D.-M. Huang, Y. Hung, B.-S. Ko, S.-C. Hsu, W.-H. Chen,
+C.-L. Chien, C.-P. Tsai, C.-T. Kuo, J.-C. Kang, C.-S. Yang,
+C.-Y. Mou and Y.-C. Chen, FASEB J., 2005, 19, 2014.
+41 T.-H. Chung, S.-H. Wu, M. Yao, C.-W. Lu, Y.-S. Lin, Y. Hung,
+C.-Y. Mou, Y.-C. Chen and D.-M. Huang, Biomaterials, 2007,
+28, 2959–2966.
+42 H. A. Abramson, L. S. Moyer and M. H. Gorin, The
+Electrophoresis of Proteins, 1942
+43 M. Mahmoudi, V. Serpooshan and S. Laurent, Nanoscale,
+2011, 3, 3007–3026.
+44 S. J. H. Soenen, U. Himmelreich, N. Nuytten and
+M. D. Cuyper, Biomaterials, 2011, 32, 195–205.
+45 J. M. Rosenholm, V. Mamaeva, C. Sahlgren and M. Lind´ en,
+Nanomedicine, 2012, 7, 111–120.
+46 A. Urruticoechea, I. E. Smith and M. Dowsett, J. Clin. Oncol.,
+2005, 23, 7212–7220.
+47 J. D. Flax, S. Aurora, C. Yang, C. Simonin, A. M. Wills,
+L. L. Billinghurst, M. Jendoubi, R. L. Sidman, J. H. Wolfe,
+S. U. Kim and E. Y. Snyder, Nat. Biotechnol., 1998, 16,
+1033–1039.
+48 M. C. Nunes, N. S. Roy, H. M. Keyoung and R. R. Goodman,
+Nat. Med., 2003, 9, 439–447.
+49 Y. Zang, L.-F. Yu, T. Pang, L.-P. Fang, X. Feng, T.-Q. Wen,
+F.-J. Nan, L.-Y. Feng and J. Li, J. Biol. Chem., 2008, 283,
+6201–6208.
+50 E. Y. Snyder, C. Yoon, J. D. Flax and J. D. Macklis, Proc. Natl.
+Acad. Sci. U. S. A., 1997, 94, 11663–11668.
+51 S. I. Savitz, J. H. Dinsmore, L. R. Wechsler, D. M. Rosenbaum
+and L. R. Caplan, NeuroRx, 2004, 1, 406–416.
+52 K. Chu, M. Kim, K. I. Park, S. W. Jeong, H. K. Park,
+K. H. Jung, S. T. Lee, L. Kang, K. Lee, D. K. Park, S. U. Kim
+and J. K. Roh, Brain Res., 2004, 1016, 145–153.
+53 L. Li, Q. Jiang, G. Ding, L. Zhang, Z. G. Zhang, Q. Li, S. Panda,
+M. Lu, J. R. Ewing and M. Chopp,J. Cereb. Blood Flow Metab.,
+2010, 30, 653–662.
+54 D. E. Kim, D. Schellingerhout, K. Ishii, K. Shah and
+R. Weissleder, Stroke, 2004, 35, 952–957.
+55 J. Zhang, X. Li, J. M. Rosenholm and H.-C. Gu, J. Colloid
+Interface Sci., 2011, 361,16 –24.
+56 L. Wang, K. G. Neoh, E.-T. Kang and B. Shuter, Biomaterials,
+2011, 32, 2166–2173.
+57 P. I. Ravikovitch, D. Wei, W. T. Chueh, G. L. Haller and
+A. V. Neimark, J. Phys. Chem. B, 1997, 101, 3671–3679.
+58 F. Xu, D. Lei, X. Du, C. Zhang, D. Xie and D. Yin, Contrast
+Media Mol. Imaging, 2011, 6,46 –54.
+59 W. Shi, D. Nie, G. Jin, W. Chen, L. Xia, X. Wu, X. Su, X. Xu,
+L. Ni, X. Zhang and J. Chen, Biomaterials, 2012, 33, 3119–
+3126.
+60 Y. Mao, G. Y. Yang, L. F. Zhou, J. D. Stern and A. L. Betz,Brain
+Res. Mol. Brain Res., 1999, 63, 366–370.
+4516 | Nanoscale, 2013, 5, 4506–4516 This journal isª The Royal Society of Chemistry 2013
+Nanoscale Paper
+Published on 25 March 2013. Downloaded by University of Edinburgh on 11/01/2017 08:07:55. 
+View Article Online
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.2073612760)
+

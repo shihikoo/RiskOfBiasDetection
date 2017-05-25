@@ -1,0 +1,850 @@
+Experimental Neurology 279 (2016) 75–85
+
+Contents lists available at ScienceDirect
+
+Experimental Neurology
+journal homepage: www.elsevier.com/locate/yexnr
+
+Research Paper
+
+Sex- and isoform-speciﬁc mechanism of neuroprotection by transgenic
+expression of P450 epoxygenase in vascular endothelium
+Jia Jia e, Catherine M. Davis a, Wenri Zhang a, Matthew L. Edin b, Sari Jouihan a, Taiping Jia f, J. Alyce Bradbury b,
+Joan P. Graves b, Laura M. DeGraff b, Craig R. Lee c, Oline Ronnekleiv f, Ruikang Wang d, Yun Xu g,
+Darryl C. Zeldin b, Nabil J. Alkayed a,⁎
+a
+
+Department of Anesthesiology & Perioperative Medicine, The Knight Cardiovascular Institute, Oregon Health & Science University, Portland, OR, USA
+Division of Intramural Research, National Institute of Environmental Health Sciences, National Institutes of Health, Research Triangle Park, NC, USA
+c
+Division of Pharmacotherapy and Experimental Therapeutics, Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA
+d
+Department of Biomedical Engineering, University of Washington, Seattle, WA, USA
+e
+Jiangsu Key Laboratory of Translational Research and Therapy for Neuro-Psycho-Diseases and College of Pharmaceutical Sciences, Soochow University, Suzhou, Jiangsu, PR China
+f
+Department of Physiology and Pharmacology, Oregon Health and Science University, USA
+g
+Department of Neurology, University of Nanjing School of Medicine, Nanjing, PR China
+b
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 18 November 2015
+Received in revised form 7 February 2016
+Accepted 15 February 2016
+Available online 20 February 2016
+Keywords:
+Stroke
+Eicosanoids
+Vasodilation
+Inﬂammation
+Cerebral blood ﬂow
+
+a b s t r a c t
+Objective: Cytochrome P450 epoxygenases (CYP) metabolize arachidonic acid to epoxyeicosatrienoic acids
+(EETs), which exhibit vasodilatory, anti-inﬂammatory and neuroprotective actions in experimental cerebral ischemia. We evaluated the effect of endothelial-speciﬁc CYP overexpression on cerebral blood ﬂow, inﬂammatory
+cytokine expression and tissue infarction after focal cerebral ischemia in transgenic mice.
+Approach and results: Male and female wild-type and transgenic mice overexpressing either human CYP2J2 or
+CYP2C8 epoxygenases in vascular endothelium under control of the Tie2 promoter (Tie2-CYP2J2 and Tie2CYP2C8) were subjected to 60-min middle cerebral artery occlusion (MCAO). Microvascular cortical perfusion
+was monitored during vascular occlusion and reperfusion using laser-Doppler ﬂowmetry and optical imaging. Infarct size and inﬂammatory cytokines were measured at 24 h of reperfusion by TTC and real-time quantitative
+PCR, respectively. Infarct size was signiﬁcantly reduced in both Tie2-CYP2J2 and Tie2-CYP2C8 transgenic male
+mice compared to corresponding WT male mice (n = 10 per group, p b 0.05). Tie2-CYP2J2, but not Tie2CYP2C8 male mice maintained higher blood ﬂow during MCAO; however, both Tie2-CYP2J2 and Tie2-CYP2C8
+had lower inﬂammatory cytokine expression after ischemia compared to corresponding WT males (n = 10
+per group for CBF and n = 3 for cytokines, p b 0.05). In females, a reduction in infarct was observed in the
+caudate-putamen, but not in the cortex or hemisphere as a whole and no differences were observed in blood
+ﬂow between female transgenic and WT mice (n = 10 per group).
+Conclusions: Overexpression of CYP epoxygenases in vascular endothelial cells protects against experimental
+cerebral ischemia in male mice. The mechanism of protection is in part linked to enhanced blood ﬂow and
+suppression of inﬂammation, and is both sex- and CYP isoform-speciﬁc.
+© 2016 Elsevier Inc. All rights reserved.
+
+1. Introduction
+Arachidonic acid (AA) is a polyunsaturated fatty acid present in cell
+membranes as part of their phospholipid pool (Liu et al., 2004). Free AA
+is released into cytosol upon stimulation by endogenous agonists,
+pharmacological agents and following injury, such as ischemic injury,
+Abbreviations: CYP, cytochrome P450 epoxygenase; EET, epoxyeicosatrienoic acid; AA,
+arachidonic acid; COX, cyclooxygenase; LOX, lipoxygenase; MCAO, middle cerebral artery
+occlusion.
+⁎ Corresponding author at: Anesthesiology and Perioperative Medicine, Knight
+Cardiovascular Institute, Oregon Health and Science University, 3181 SW Sam Jackson
+Park Road, Portland, OR 97239, USA.
+E-mail address: alkayedn@ohsu.edu (N.J. Alkayed).
+
+http://dx.doi.org/10.1016/j.expneurol.2016.02.016
+0014-4886/© 2016 Elsevier Inc. All rights reserved.
+
+where it is metabolized into biologically active eicosanoids by one of
+three enzymatic pathways: the cyclooxygenase (COX), lipoxygenase
+(LOX) or cytochrome P450 monooxygenase (CYP) pathway. There are
+two broad classes of CYP enzymes involved in eicosanoid formation:
+1) the hydroxylases, which form 20-hydroxyeicosatetraenoic acid, a
+vasoconstrictor in the cerebral and coronary circulation; and 2) the
+epoxygenases, which form epoxyeicosatrienoic acids (EETs), which
+are vasodilators and protective against ischemic brain and heart
+injury by multiple mechanisms. In addition to vasodilation, EETs possess
+anti-inﬂammatory, anti-apoptotic and anti-oxidant properties (Spector
+and Norris, 2007). In the brain, EETs are produced by astrocytes
+(Alkayed et al., 1996), vascular endothelium (Medhora et al., 2001)
+and perivascular nerves (Iliff et al., 2007), where they have been
+
+76
+
+J. Jia et al. / Experimental Neurology 279 (2016) 75–85
+
+implicated in functional hyperemia following neuronal activation
+(Alkayed et al., 1997; Harder et al., 1998). Interestingly, CYP
+epoxygenase upregulation in brain after ischemic preconditioning has
+been associated with tissue protection with no change in blood ﬂow
+(Alkayed et al., 2002), suggesting that EETs may exert a neuroprotective
+effect that is independent from its established vasodilator effect. In
+contrast, stabilizing endogenous EETs by deleting their metabolizing
+enzyme soluble epoxide hydrolase (sEH) is protective against ischemic
+injury, and protection is clearly associated with increased vasodilation
+in response to focal cerebral ischemia (Zhang et al., 2008). Whether
+different regioisomers of EETs have different mechanisms of action
+and may account for these apparent differences following ischemia
+(neuroprotection versus vasodilation) is not well understood. Also, the
+contribution of EETs derived from different cell types to protection
+following ischemia has not been fully elucidated.
+To determine the contribution of endothelial-derived EETs to protection following ischemia, we compared brain infarct and cerebral
+blood ﬂow (CBF) during middle cerebral artery occlusion (MCAO) in
+transgenic mice overexpressing one of two human CYP epoxygenase
+isoforms, hCYP2J2 or hCYP2C8, in vascular endothelium. Our ﬁndings
+suggest that overexpression of CYP epoxygenase in vascular endothelium protects against experimental cerebral ischemia. The mechanism of
+protection is in part linked to enhanced blood ﬂow and suppression of
+inﬂammation, and is both sex- and CYP isoform-speciﬁc.
+2. Materials and methods
+The study was conducted in accordance with the National Institutes
+of Health guidelines for the care and use of animals in research, and
+protocols were approved by the Animal Care and Use Committee of
+Oregon Health and Science University (Portland, OR, USA).
+2.1. Animals
+Transgenic mice expressing either the human CYP2J2 or CYP2C8
+epoxygenase in vascular endothelium under the control of the murine
+Tie2 promoter (2-kb) and full enhancer (10-kb) were generated on
+a C57Bl/6 background. We used heterozygous Tie2-CYP2J2, Tie2CYP2C8 transgenic mice and age- and sex-matched WT littermate controls. Genotype was determined in each mouse by PCR of tail genomic
+DNA. Generation of Tie2-CYP2J2 and Tie2-CYP2C8 mice, founder lines,
+breeding and genotyping protocols have been previously described
+(Lee et al., 2010).
+2.2. Middle cerebral artery occlusion (MCAO)
+Adult (25–28 g) male and female wild-type (WT), Tie2-CYP2J2 and
+Tie2-CYP2C8 transgenic mice were subjected to 60-min middle cerebral
+artery occlusion (MCAO) under isoﬂurane anesthesia, as described previously, with slight modiﬁcations (Zhang et al., 2008). Brieﬂy, mice were
+anesthetized with isoﬂurane (induction 5%; maintenance 1.0%), and
+kept warm with water pads. A small laser-Doppler probe was afﬁxed
+to the skull to monitor cerebral cortical perfusion and verify vascular occlusion and reperfusion. A silicone-coated 6-0 nylon monoﬁlament was
+inserted into the right internal carotid artery via the external carotid artery until laser-Doppler signal dropped to less than 20% of baseline. The
+animal was maintained anesthetized with 1% isoﬂurane on the surgical
+station for 60 min of occlusion. After reperfusion, mice were allowed to
+recover and observed for 24 h. Infarct size was measured at 24 h after
+MCAO in 2-mm thick coronal brain sections (ﬁve total) using 2, 3, 5triphenyltetrazolium chloride (TTC) staining and digital image analysis.
+Sections were incubated in 1.2% TTC in saline for 15 min at 37 °C, and
+then ﬁxed in formalin for 24 h. Slices were photographed; infarcted
+(unstained) and uninfarcted (red color) areas were measured with
+MCID software (InterFocus Imaging Ltd., Linton, UK) and integrated
+across all ﬁve slices. To account for the effect of edema, the infarcted
+
+area was estimated indirectly by subtracting the uninfarcted area in
+the ipsilateral hemisphere from the contralateral hemisphere, and expressing infarct volume as a percentage of the contralateral hemisphere.
+Cerebrocortical laser-Doppler perfusion (LDP) was monitored during
+occlusion and early reperfusion. The laser-Doppler probe was positioned on bone over the dorsolateral parietal cortex 2 mm posterior,
+3 mm lateral to the Bregma. The LDP signal was recorded continuously
+and averaged over 15-min intervals for comparison among treatment
+groups.
+2.3. Optical microangiography (OMAG)
+OMAG was performed as previously described (Zhang et al., 2009;
+An et al., 2010; Wang et al., 2007). The mouse head was shaved before
+OMAG imaging. During imaging, the mouse was immobilized on a
+custom-made stereotaxic stage and lightly anesthetized with isoﬂurane
+(0.2 l/min O2, 0.8 l/min air). Body temperature was kept at 35.5–36.5 °C
+with a warming blanket and monitored by a rectal thermal probe
+throughout the experiment. An incision of ~1 cm was made along the
+sagittal suture, and the frontal parietal and interparietal bones were exposed by pulling the skin to the sides. The animal was then positioned
+under the OMAG scanning probe, allowing for visualization and quantiﬁcation of blood ﬂow based on endogenous light scattering from moving blood cells within biologic tissue, with no need to use exogenous
+contrasting agents. In the mouse, OMAG covers the entire thickness of
+the cerebral cortex through an intact skull. OMAG was an optical coherence tomography based imaging technique capable of generating threedimensional images of functional vasculature in vivo and without the
+need for dye injection (An et al., 2010; Wang et al., 2007). The OMAG
+imaging system used in this study employed a superluminescent
+diode with a central wavelength of 1310 nm and a full-width, halfmaximum bandwidth of 50 nm, providing an axial resolution of
+~10 μm in tissue. The lateral resolution of the system was measured at
+~15 μm. The spectral interferograms formed by the reference light and
+the light backscattered from the tissue sample were detected by a
+custom-built, high-resolution and high-speed spectrometer, upon
+which the OMAG algorithm was applied to obtain angiographic images
+representing functional cerebral microvasculature within the scanned
+brain tissue. The three-dimensional scan represented a physical volume
+with the following x–y–z dimensions: 2.5 × 2.5 × 2.0 mm3.
+2.4. Isolation of cerebral vessels
+Mice were deeply anesthetized with isoﬂurane and perfused
+transcardially with pre-chilled heparinized saline (1 U/ml) before decapitation to remove blood from the cerebral circulation; brains were
+then rapidly dissected. Pial and large cerebral vessels were removed
+with ﬁne forceps and discarded. The remaining brain tissue was homogenized in ice-cold PBS with a loosely ﬁtting Dounce homogenizer, and
+centrifuged at 2000g for 5 min at 4 °C. The supernatant, containing parenchymal brain tissue, was discarded; the pellet, containing vessels,
+was resuspended in PBS and centrifuged at 2000g for another 5 min at
+4 °C. The second pellet was resuspended in PBS, layered over a 15%
+dextran density gradient (molecular weight 35,000–40,000 kDa), and
+centrifuged in a swinging-bucket rotor for 30 min at 3500g at 4 °C.
+The supernatant was discarded, and the pellet was resuspended in
+PBS, and again layered over dextran and centrifuged for an additional
+30 min at 3500g. The resulting pellet was washed with ice-cold PBS
+over a 70 mm nylon mesh, cerebral microvessels and capillaries were
+collected and stored at −80 °C.
+2.5. Primary aortic endothelial cell isolation
+Aorta from WT Tie2-CYP2J2 and Tie2-CYP2C8 male mice were
+harvested for isolation of endothelial cells, as described previously
+(Lee et al., 2010). Brieﬂy, 3 aortas from each genotype were pooled,
+
+J. Jia et al. / Experimental Neurology 279 (2016) 75–85
+
+minced and digested with type-I collagenase (2 mg/ml, Worthington
+Biochemical Corporation, Lakewood, NJ, USA) at 37 °C for 45 min.
+Resultant homogenates were triturated with a 30-ml syringe, ﬁltered
+through a 70-μm cell strainer, washed with PBS + 0.1% FBS and centrifuged for 10 min at 1000 rpm. Cell pellets were re-suspended and incubated with magnetic Dynabeads (Invitrogen) coated with anti-CD31
+antibody (BD Biosciences, San Jose, CA, USA). Endothelial cells were isolated by magnetic separation and plated onto 0.1% gelatin-coated ﬂasks
+in DMEM supplemented with 20% FBS, 100 μg/ml heparin, 100 μg/ml
+penicillin/streptomycin and 100 μg/ml endothelial cell growth supplement (Biomedical Technologies, Stoughton, MA, USA). Once conﬂuent,
+cells were trypsinized and further puriﬁed by incubation with antiCD102 (BD Biosciences) coated Dynabeads and grown to conﬂuence. 1
+million endothelial cells were plated on 100 mm tissue culture dishes
+and allowed to adhere overnight. Cells were washed with PBS and incubated in serum free DMEM for 4 h. The cell-conditioned medium was
+collected, the cells were then incubated for 10 min in fresh serum free
+DMEM containing 10 μM Ca2+ ionophore (A23187, Sigma-Aldrich) to
+stimulate arachidonic acid release. Both basal and stimulated medium
+were collected and stored at −80 °C for MC/MS/MS analysis.
+2.6. Quantiﬁcation of CYP-derived eicosanoids in medium
+Epoxy and dihydroxy metabolites (EETs and DHETs) of arachidonic
+acid were extracted and quantiﬁed; 11,12- and 14,15-regioiosomers
+speciﬁcally were quantiﬁed as these are the primary metabolic products
+synthesized by CYP2J2 and CYP2C8 (Zeldin et al., 1995; Wu et al., 1996).
+These were extracted in cell culture medium by solid-phase extraction
+and eluted in ethyl acetate, as described by Newman et al. (2002)
+and Seubert et al. (2006). Oxylipids were separated by reverse-phase
+HPLC on a 2- × 150-mm, 5-μm Luna C18 (2) column (Phenomenex,
+Torrance, CA, USA) and quantiﬁed using a MDS Sciex API 3000 triple
+quadrupole mass spectrometer (Applied Biosystems) with negative
+mode electrospray ionization and multiple reaction monitoring, as previously described (Newman et al., 2002). Relative response ratios of
+each analyte were used to calculate concentrations, quantiﬁcation relative to internal standards corrected for surrogate losses. Cell medium
+concentrations were normalized to cell plating density.
+2.7. Cerebrospinal ﬂuid (CSF) collection and extraction
+Plasma oxylipid levels were determined by liquid chromatography,
+tandem mass spectroscopy (LC/MS/MS). Samples were collected from
+the cisterna magna of naïve animals. Mice were anesthetized and placed
+prone on a stereotaxic frame. A sagittal incision of the skin was made inferior to the occiput, the subcutaneous tissue and muscles separated and
+the dura matter was penetrated with the 30G1 needle connected with
+PE-10 tube. The CSF was drawn into PE-10 tubing with the careful suction by a 10 μl gastight syringe (Hamilton Company, Reno, NV, USA).
+The CSF was injected into an Eppendorf tube, and frozen in a −80 °C
+freezer until assayed. CSF samples (5–10 μl) were mixed with 50 μl of
+0.1% acetic acid in 5% methanol, 10 μl of 0.4 mg/ml butylated hydroxytoluene, and spiked with 30 ng PGE2-d4, 10,11-DiHN, and 10,11EpHep (Cayman Chemical, Ann Arbor, MI) as internal standards.
+Oxylipids were extracted 3 times with 1 ml ethyl acetate. Ethyl acetate
+from each sample was pooled and dried under gentle nitrogen ﬂow.
+Samples were reconstituted in 100 μl of 40% ethanol. Three injections
+of 20 μl were analyzed for each sample. The triplicate sample injections
+were averaged, corrected for volume of CSF, and represented as pg/μl.
+Online liquid chromatography of extracted samples was performed
+with an Agilent 1200 Series capillary HPLC (Agilent Technologies,
+Santa Clara, CA, USA) as previously described (Edin et al., 2011;
+Newman et al., 2002). Separations were achieved using a Phenomenex
+Luna C18(2) column (5 μm, 150 × 1 mm; Phenomenex, Torrance,
+CA, USA), which was held at 40 °C. Mobile phase A was 85:15:0.1
+water:acetonitrile:acetic acid. Mobile phase B was 70:30:0.1
+
+77
+
+acetonitrile:methanol:acetic acid. Gradient elution was used; mobile
+phase percentage B and ﬂow rate were varied as follows: 0% B at
+87.5 μl/min at 0 min, ramp from 0 to 2 min to 25% B at 87.5 μl/min,
+ramp from 2 to 5 min to 50% B at 60 μl/min, ramp from 5 to 23 min
+to 92.5% B at 60 μl/min, ramp from 23 to 23.5 min to 100% B at
+87.5 μl/min, hold from 23.5 to 29 min at 100% B, ramp from 29 to
+29.6 min down to 0% B, and hold 0% B to 33 min. Negative ion
+electrospray ionization tandem mass spectrometry was used for
+detection. Analyses were performed on an MDS Sciex API 3000
+equipped with a TurboIonSpray source (Applied Biosystems).
+Turbo desolvation gas was heated to 275 °C at a ﬂow rate of
+5.75 ml/min.
+
+2.8. TaqMan real-time quantitative PCR
+RNA was isolated from cerebral microvessels using RNAqueousMicro kit and reverse transcribed using the High Capacity cDNA
+Reverse Transcription Kit; resultant cDNA was ampliﬁed using TaqMan
+Universal PCR Master Mix (all Life Technologies, Carlsbad, CA) in the ABI
+Prism 7000 sequence detection system. Quantitative PCR was performed in 96 well plate format using 50 μl total volume, with each
+sample run in triplicate. PCR was also run on controls in which
+template had not been added, in order to determine DNA contamination
+and primerdimer formation. RNA with no reverse transcription
+was also included to discount genomic DNA ampliﬁcation. TNFα
+(Mm00443258_m1) and IL1-β (Mm00434228_m1) gene expression
+assays (Life Technologies) were used and 18S was measured as an internal control using the 18S rRNA control kit FAM-TAMRA (Eurogentec SA,
+Osaka, Japan). Relative quantiﬁcation analysis was performed using the
+2(-Delta Delta C(T)) method (Livak and Schmittgen, 2001).
+
+2.9. In situ hybridization
+2.9.1. Cloning of human CYP 2C8 and 2J2
+Fragments of the human CYP 2C8 and 2J2 gene were cloned by using
+TOPO TA Cloning kit (Thermo Fisher Scientiﬁc, Waltham, MA). The forward primer (bases 869-888; 5′-CAA TCC TCG GGA CTT TAT CG-3′) and
+reverse primer (bases 1182-1163; 5′-GGA CAA GGT CAC TGT ATC TC-3′)
+for 2C8 were designed from the human 2C8 sequence (accession number NM_000770). The forward primer (bases 942-961; 5′ ACC GAG ACA
+ACT TGG ACA AC-3′) and reverse primer (bases 1347-1328; 5′-ATG CCC
+GCT TTC CTA TTG AG-3′) for 2J2 were designed from the human 2J2
+sequence (accession number NM_000775). The CYP 2C8 and 2J2 fragments were ampliﬁed from aMHC-2C8 and aMHC-2J2 constructs. PCR
+was conducted for 40 cycles of denaturation (95 °C, 45 s), annealing
+(61.6 °C, 45 s), and extension (72 °C, 1 min). The resulting 314 bp
+(2C8) and 406 bp (2 J2) products were subcloned into the pCR2.1TOPO vector (Invitrogen) using the TOPO TA cloning kit according to
+the manufacturer's instruction. The pCR2.1-TOPO vector contains only
+one promoter (T7), therefore, sense and antisense probes required
+two separate vectors with the respective inserts in the correct orientation for sense and antisense synthesis. The vectors containing the inserts
+were then sequenced to conﬁrm the direction for sense and antisense
+probe synthesis.
+
+2.9.2. Probe preparation
+Radioactive antisense and sense cRNA probes were transcribed
+in vitro with T7 RNA polymerase from the BamH1 linearized human
+CYP 2C8 and 2J2 constructs in the presence of 35S-uridine 5′ (αthio)triphosphate (35S-UTP). Residual DNA was digested with 2 U
+DNase I (Ambion Inc. Austin, Texas). The sense and antisense
+RNA probes were puriﬁed on a G-50 Sephadex column (Amersham
+Biosciences, Piscataway, NJ).
+
+78
+
+J. Jia et al. / Experimental Neurology 279 (2016) 75–85
+
+Fig. 1. Expression and distribution of human CYP2J2 and CYP2C8 mRNA in the brain of transgenic female mice by in situ hybridization (ISH). A. Bright-ﬁeld ﬁlm images illustrating the
+distribution of CYP2J2 (top) and CYP2C8 (bottom) mRNA (dark stain) from rostral to caudal in mouse forebrain transfected the respective human transcripts (a–c; d–f). B & C.
+Emulsion autoradiograms of human CYP2J2 (B) and CYP2C8 (C) mRNA in Tie2-CYP2J2 and Tie2-CYP2C8 mouse forebrain respectively. Photomicrographs of dark-ﬁeld (a1–d1) and
+bright-ﬁeld (a2–d2) at low and high power views, illustrating respective mRNA signal (white grains in a1–d1, dark grains in a2–d2) within coronal sections through the rostrodorsal
+cortex (CTX; a, b), lateral ventricular area (LV; c) and olfactory cortex in Tie2-CYP2J2 or supraoptic nucleus area in Tie2-CYP2C8 brains (OC; d). Boxed areas from a1–d1 are shown as
+high-power bright-ﬁeld images in a2–d2, illustrating autoradiographic grains (mRNA) over blood vessels (a, b), ependymal lining of the lateral ventricle (c) and along the ventral
+surface of the brain (d). Scale bar = 200 μm (a1–d1) and 50 μm (a2–d2). CP, caudate putamen; CTX, cortex; LV, lateral ventricle; OC, optic chiasm; 3V, third ventricle.
+
+2.9.3. Tissue preparation
+Wild-type and transgenic animals were anesthetized, killed by
+decapitation and the brains sliced into 2 mm coronal blocks through
+the rostral forebrain. The brain blocks were ﬁxed by immersion in 4%
+paraformaldehyde in Sorensen buffer (0.03 M; pH 7.4) for 6 h at 4 °C,
+rinsed overnight in 20% buffered-sucrose solution (pH 7.4), embedded
+in O.C.T. (Sakura Finetek, Torrance, CA), and frozen in isopentane at
+− 55 °C. Coronal sections (20 μm) were cut on a cryostat and thaw
+mounted onto Superfrost Plus glass slides (Thermo Fisher Scientiﬁc).
+The sections were stored at −80 °C.
+
+2.9.4. Hybridization
+The slides were postﬁxed in fresh 4% paraformaldehyde in
+Sorensen's phosphate buffer (0.03 M, pH 7.4) for 20 min, rinsed
+with Sorenson's phosphate buffer, and treated with proteinase K
+(1.0 μg/ml) for 4 min at room temperature. Sections were then treated
+with 0.1 M triethanolamine (3 min), followed by 0.25% acetic anhydride
+in 0.1 M triethanolamine (10 min) (Sigma-Aldrich, St Louis, MO). Sections were prehybridized for 1 h at 58 °C with hybridization buffer
+(50% formamide, 1× Denhardt's solution, 10% dextran sulfate, 100 μM
+dithiothreitol [DTT], 200 mM sodium chloride, 10 mM Tris–HCl,
+
+J. Jia et al. / Experimental Neurology 279 (2016) 75–85
+
+pH 8.0, 1 mM EDTA, pH 8.0, 125 μg/ml tRNA; Sigma-Aldrich) and then
+quickly rinsed in 2 × SSC buffer. The 35S-labeled antisense as well as
+sense riboprobes were heat-denatured, diluted with hybridization buffer, and used at a ﬁnal concentration of 2 × 104 cpm/μl. Subsequently,
+the sections were covered with glass coverslips, sealed, and hybridized
+in a moist chamber for at least 18 h at 58 °C. After hybridization, the
+slides were washed in 2 × SSC buffer at 62 °C four time with three
+changes, reacted with RNAse (20 μg/ml) for 30 min at 37 °C, and washed
+in decreasing concentrations of SSC (2×, 1×, 0.5×, 0.25×) at 58 °C for
+10 min each with three changes of each solution. Finally, the slides
+were washed in 0.1× SSC with 1 mM DTT for 45 min at 58 °C. The slides
+were dehydrated in 50%, 80% and 90% ethanol with 300 mM Ammonium Acetate followed by 100% ethanol for 2 min, placed side by side on
+a ﬂat surface together with autoradiographic 14C microscales, and exposed to Hyperﬁlm-βmax (Amersham Biosciences, Piscataway, NJ) for
+6 days at 4 °C. The ﬁlms were developed in D19 developer for 5 min,
+ﬁxed in Kodak ﬁxer for 5 min. The slides were then dipped in Kodak
+NTB-2 nuclear track emulsion and exposed for 21 days at 4 °C. Thereafter, slides were developed in D19 developer for 2 min, ﬁxed in Kodak
+ﬁxer for 5 min, counterstained with hematoxylin, dehydrated, and
+coverslipped.
+Film images were scanned (HP Scanjet 7400c) and digitized images
+processed in Adobe Photoshop (Mountain View, CA) and Macromedia
+FreeHand (San Francisco, CA). Contrast and brightness were adjusted
+in scanned images of ﬁlms to compensate for uneven illumination in
+brightﬁeld images. Images of emulsion-coated slides were analyzed
+using a Nikon E800 microscope. Darkﬁeld and brightﬁeld images were
+captured using a Nikon DS-L1 digital camera and illustrated in Adobe
+Photoshop and Macromedia FreeHand software programs. Contrast
+and brightness were adjusted in scanned images to match the original
+image seen in the microscope.
+2.10. Statistical analysis
+
+79
+
+in 1A), lateral ventricular area (LV) and olfactory cortex (CYP2J2)/optic
+chiasm (CYP2C8), demonstrating vascular expression pattern for both
+transgenes. Another difference observed in expression between
+transgenes is the abundant expression of CYP2C8 in the choroid plexus,
+which is absent for CYP2J2 (not shown).
+3.2. Transgenic expression of CYP2J2 and CYP2C8 in endothelium is
+protective against experimental stroke
+To determine if endothelial expression of CYP2J2 or CYP2C8
+epoxygenase alters outcome from experimental stroke, we compared
+cortical and striatal (caudate-putamen, CP) infarcts in Tie2-CYP2J2 and
+Tie2-CYP2C8 mice to those in WT, both in male and female mice. In
+males, both cortical and striatal infarcts were signiﬁcantly smaller in
+transgenic mice compared to WT littermates (Fig. 2A), with cortical infarct decreasing from 45.01 ± 3.1% of contralateral structure in WT to
+25.75 ± 5.3% in Tie2-CYP2J2 and 22.10 ± 4.7% in Tie2-CYP2C8 mice.
+In females, striatal infarct was reduced from 70.36 ± 5.4% of contralateral structure in WT to 55.24 ± 5.2% in Tie2-CYP2J2 and 55.43 ± 7.1%
+in Tie2-CYP2C8 (Fig. 2B). However no reduction in infarct was observed
+in either the cortex or the hemisphere as a whole.
+No differences were observed in body weight, anesthesia requirement or body temperature between WT and transgenic mice.
+3.3. Transgenic expression of CYP2J2 in endothelium increases collateral
+blood ﬂow in male mice
+To determine if the decrease in infarct size in Tie2-CYP2J2 and Tie2CYP2C8 transgenic mice was linked to increased CBF, we compared
+laser-Doppler cortical perfusion (LDP) during MCAO between WT and
+transgenic mice. Fig. 3A shows that in males, LDP during MCAO was signiﬁcantly higher in Tie2-CYP2J2 (19.76 ± 0.80% relative to baseline),
+but not in Tie2-CYP2C8 (15.29 ± 0.73%), compared to WT mice
+(12.09 ± 0.23%). In females, there were no differences in LDP during
+
+Data were expressed as mean ± SEM. Infarct size, LDP bar graph
+and LC/MS/MS data were analyzed with one- or two-way analysis of
+variance (ANOVA), as appropriate, and post hoc Dunnett's multiple
+comparisons test using GraphPad Prism Software (version 3.1, SPSS
+Inc., La Jolla, CA, USA). Laser Doppler perfusion data were analyzed
+with two-way repeated measure ANOVA with Tukey's multiple
+comparisons test, while qPCR data were analyzed with two-way
+ANOVA with Tukey's multiple comparisons test. p b 0.05 was considered statistically signiﬁcant.
+3. Results
+3.1. Expression and distribution of human CYP2J2 and CYP2C8 transgenes
+in mouse brain
+In situ hybridization was used to determine endothelial expression
+of human CYP2J2 and CYP2C8 in brains of Tie2-CYP2J2 and Tie2CYP2C8 female mice, respectively (Fig. 1). [35S]-labeled antisense and
+sense cRNA probes prepared from the respective human sequences
+were used. Antisense probes produced hybridization signal in transgenic but not in WT littermate brain, and sense probes did not generate signal in transgenic brains (WT and sense hybridization not shown),
+indicating speciﬁcity of probe for the human transgenes. Localization
+of CYP2J2 and CYP2C8 transgenes broadly follows the vascular distribution in brain, as shown in representative sections from rostral to caudal
+forebrain in Fig. 1A (a–c for CYP2J2, d–f for CYP2C8). It is of note that
+CYP2J2 mRNA is also expressed in ependymal cells lining the lateral or
+third ventricle in contrast to CYP2C8 mRNA expression, which was limited to pial and parenchymal vessels. This can be clearly seen by comparing panels labeled c1 and c2 in Fig. 1B and C. Higher magniﬁcation
+images are shown in 1B (CYP2J2) and 1C (CYP2C8), from top to bottom,
+of coronal sections through the rostrodorsal cortex (region labeled CTX
+
+Fig. 2. Transgenic expression of CYP2J2 and CYP2C8 epoxygenase in endothelium is
+protective against ischemic brain injury in male (A) and female (B) mice. Infarction was
+assessed 24 h after MCAO by TTC in cortex (CTX) and caudate-putamen (CP). Total
+hemispheric infarct is also presented as a direct measure (HMSPH) and after correcting
+for edema (Corrected). *p b 0.05 versus WT (n = 10 per group).
+
+80
+
+J. Jia et al. / Experimental Neurology 279 (2016) 75–85
+
+J. Jia et al. / Experimental Neurology 279 (2016) 75–85
+
+81
+
+Fig. 4. Cytochrome P450 epoxygenase (CYP) inhibition abolishes protection in Tie2-CYP2J2 and Tie2-CYP2C8 male mice. A. Infarct size at 24 h after MCAO was no different in transgenic
+compared to WT male mice in cortex (CTX), caudate-putamen (CP) or total hemisphere with (Corrected) or without correction for edema (HMSPH). B. Laser Doppler perfusion, at 15 min
+intervals during and immediately after occlusion (left), or averaged over the occlusion period (right), was not different in male transgenic compared to WT male mice in the presence of
+CYP inhibitor MS-PPOH. p N 0.05 (n = 5 per group).
+
+ischemia between WT (12.51 ± 0.35%) and either of the two transgenic
+mouse lines (Fig. 3B). Following 5 min of reperfusion, LDP in males was
+signiﬁcantly higher in Tie2-CYP2J2 (115.8 ± 6.8%) and Tie2-CYP2C8
+(107.9 ± 5.7%) compared to WT (88.33 ± 6.1%). In females, LDP after
+5 min of reperfusion was also elevated in Tie2-CYP2C8 mice (120 ±
+10.6) compared to both WT (98.17 ± 6.0) and Tie2-CYP2J2 mice
+(99.22 ± 5.9%).
+We further carried out non-invasive optical microangiography
+(OMAG) in male WT and Tie2-CYP2J2 mice. We chose to evaluate
+microvascular perfusion in the CYP2J2 males as this was the only
+group to display increased LDP during the time of occlusion (Fig. 3A).
+We found that despite ﬁlament withdrawal and reperfusion through
+proximal MCA branches (as indicated by the return in LDP to baseline
+in Fig. 3A), distal microvascular perfusion was still impaired in the WT
+ischemic hemisphere (I) at 24 h after MCAO (compared to contralateral
+hemisphere, Fig. 3C). Importantly, male Tie2-CYP2J2 mice, as well as
+demonstrating higher LDP during time of occlusion, were also protected
+from delayed post-ischemic microvascular hypoperfusion.
+To determine whether the protection enjoyed by male mice with
+transgenic expression of CYP2J2 and CYP2C8 in endothelium was in
+fact due to increased CYP activity, rather than an off target effect of
+the transgene, infarct size and cortical perfusion after MCAO were measured in the presence of CYP inhibitor, MS-PPOH (Fig. 4). Male mice
+were used since they displayed a more robust protection from MCAO
+than females (Fig. 2). Mice were implanted with an osmotic pump containing 2.5 mg/ml MS-PPOH or vehicle (ethanol) prior to MCAO and
+
+kept for 24 h after MCAO. Inhibition of CYP epoxygenase activity
+abolished the protective effect of the transgenes in male mice, as infarct
+size after MCAO was no longer different in Tie2-CYP2J2 or Tie2-CYP2C8
+male mice compared to WT male mice (Fig. 4A). Similarly, no differences were observed in LDP during MCAO between transgenic and
+WT mice (Fig. 4B).
+3.4. Attenuation of post-ischemic inﬂammatory response in male mice with
+endothelial expression of CYP2J2 and CYP2C8
+Because male Tie2-CYP2C8 mice were protected from ischemic injury compared to WT control mice, yet there were no differences in cortical perfusion during occlusion between the two groups, we investigated
+a possible anti-inﬂammatory mechanism of protection by CYP2C8.
+Using rt-qPCR, we measured pro-inﬂammatory cytokine expression in
+microvessels isolated from ischemic and contralateral hemispheres, as
+well as from naïve brains of male WT, Tie2-CYP2J2 and Tie2-CYP2C8
+mice. We found that in WT mice, mRNA levels of both TNFα (Fig. 5A)
+and IL1-β (Fig. 5B) are signiﬁcantly increased in microvessels from the
+ipsilateral hemisphere 24 h following MCAO, compared to microvessels
+extracted from naïve brains. There was also a slight increase in contralateral hemisphere after MCAO (over levels in naïve brain), but the
+increase was not statistically signiﬁcant. Endothelial expression of CYP
+epoxygenase prevented pro-inﬂammatory cytokine expression after
+ischemia, as transgenic Tie2-CYP2J2 and Tie2-CYP2C8 mice did not
+show an increase in expression after MCAO.
+
+Fig. 3. Laser-Doppler cerebrocortical perfusion (LDP) during MCAO in WT, Tie2-CYP2J2 and Tie2-CYP2C8 male and female mice. A. Tie2-CYP2J2, but not Tie-2-CYP2C8 males, displayed
+signiﬁcantly higher perfusion of the MCA territory during occlusion compared to corresponding WT males. Both Tie2-CYP2J2 and Tie2-CYP2C8 displayed higher LDP compared to WT
+following 5 min of reperfusion. B. No differences were observed in perfusion between female transgenic and WT mice during occlusion (n = 10 per group). After 5 min of reperfusion
+Tie2CYP2C8 mice displayed higher LDP compared to both WT and Tie2-CYP2J2 mice. Line graph displays perfusion at 15 min intervals during occlusion and immediately following
+reperfusion (RP) relative to baseline (BL). Bar graph displays average perfusion throughout the occlusion period. * and # denote p b 0.05 CYP2J2 and CYP2C8, respectively, versus WT; $
+denotes p b 0.05 Tie2-CYP2J2 versus Tie2-CYP2C8 (n = 10 per group). C. Optical microangiography (OMAG) images illustrating increased microvascular cortical perfusion of ipsilateral
+ischemic (I) hemisphere in male Tie2-CYP2J2 brain 24 h after MCAO compared to WT.
+
+82
+
+J. Jia et al. / Experimental Neurology 279 (2016) 75–85
+
+respectively), while cells isolated from both Tie2-CYP2J2 and Tie2CYP2C8 transgenic lines release more 14,15-EET than WT cells
+(18.44 ± 0.9 and 19.38 ± 0.6 compared to 12.96 ± 0.5 pg/million
+cells respectively). No difference was observed in levels of 11,12-EET
+itself following A23187 stimulation in endothelial cells derived from
+either transgenic line (See Fig. 6).
+We also investigated the effect of endothelial expression of these
+two CYP isoforms on levels of fatty acid metabolites in cerebrospinal
+ﬂuid (CSF) of male WT, Tie2-CYP2J2 and Tie2-CYP2J2 mice using liquid
+chromatography–tandem mass spectrometry (LC–MS/MS). We ﬁrst
+measured levels of AA metabolites (Fig. 7A). Although CSF levels of EETs
+were below detection, we were able to measure their stable
+metabolites, DHETs. Levels of both 11,12- and 14,15-DHET were
+signiﬁcantly increased in Tie2-CYP2C8 mice (0.21 ± 0.03 and 0.33 ±
+0.05 pg/μl respectively) compared to WT (0.10 ± 0.02 and 0.18 ±
+0.02 pg/μl respectively), while no increase was observed in mice
+expressing CYP2J2. CYP2C8-, but not CYP2J2-expressing mice also
+displayed increased levels of the LOX metabolite of AA, 12-HETE, while
+levels of 5- and 15-HETE remained unchanged compared to WT. CSF
+levels of COX metabolites of AA, 6-keto-prostaglandin (6-keto-PGF1α),
+thromboxane B2 (TXB2), prostaglandin F2α (PGF2α) and prostaglandin
+E2 (PGE2), were not different from WT in either of the transgenic strains.
+We also measured CYP products of linoleic acid and DHA metabolism
+(Fig. 7B). Levels of the linoleic acid epoxides, 12,13- and 9,10-epoxyoctadecamonoenoic acid (EpOME), were below the level of detection.
+We were able to quantify dihydroxy-octadecamonoenoic acid (12,13DiHOME); however no difference among genotypes was observed. The
+epoxide product of docosahexaenoic acid (DHA) metabolism by CYP,
+19,20-epoxydocosapentaenoic acid (19,20-EpDPE), showed no difference
+in CSF levels among genotypes; however, its metabolic product 19,20dihydroxydocosapentaenoic acid (19,20-DiHDPA) was increased in
+Tie2-CYP2C8 mice compared to WT control CSF (0.49 ± 0.06 to 1.33 ±
+0.27 pg/μl respectively).
+Fig. 5. Transgenic endothelial expression of CYP2J2 and CYP2C8 epoxygenase prevents
+ischemia-induced cytokine expression after MCAO in male mice. Levels of TNFα (A) and
+IL1-β (B) transcripts were assessed by qPCR in microvessels isolated from WT, Tie2CYP2J2 and Tie2-CYP2C8 brains, at 24 h after MCAO (both ipsilateral and contralateral
+hemispheres) or from naïve mice (whole brain). In WT mice, a signiﬁcant increase in
+both TNFα and IL1-β mRNA was observed in microvessels from the ipsilateral
+hemisphere compared to naïve mice. No such increase was observed in microvessels
+from either Tie2-CYP2J2 or Tie2-CYP2C8 transgenic mice. *p b 0.05 versus naïve (6–9
+animals per group; vessels from 3 animals were combined in one pooled sample, and
+2–3 independent pooled samples were analyzed in each group).
+
+3.5. Increase in fatty acid metabolites in Tie2-CYP2C8 male mice
+Since CYP 450 epoxygenases metabolize AA to form EETs, we investigated the effect of endothelial expression of these two CYP isoforms on
+release of 11,12- and 14,15-EETs, also assessing their stable metabolites,
+11–12- and 14,15-DHETs; these regioisomers were investigated since
+these are the primary metabolic products synthesized by CYP2J2 and
+CYP2C8 (Wu et al., 1996; Zeldin et al., 1995). Primary aortic endothelial
+cells from WT, Tie2-CYP2J2 and Tie2-CYP2C8 male mice were isolated
+and cultured and the release of EETs and DHETs into the culture medium by these cells was measured, both in the quiescent state and also following stimulation with 10 μM A23187 calcium ionophore for 10 min
+which acts to liberate arachidonic acid from the plasma membrane.
+Our results show that, in the quiescent, unstimulated state, endothelial
+cells isolated from Tie2-CYP2J2 mice release signiﬁcantly higher concentrations of 11,12-EET and DHET into the medium compared to cells
+isolated from WT mice (14.05 ± 1.0 and 8.83 ± 0.8 pg/million cells
+respectively for 11,12-EET and DHET combined). However, cells stimulated with A23187 show a different response, in this paradigm cells
+isolated from Tie2-CYP2C8 mice release higher concentrations of
+11,12-, and 14,15-EET and DHET combined compared to WT (27.14 ±
+1.7 vs. 20.68 ± 2.0 and 65.76 ± 3.3 vs. 42.79 ± 5.4 pg/million cells
+
+4. Discussion
+The main ﬁndings of our study are: 1) transgenic expression of CYP
+epoxygenase in vascular endothelium reduces infarct size after MCAO in
+male and female mice, decreasing infarct in the hemisphere as a whole
+in males but not females; 2) transgenic endothelial expression of
+CYP2J2, but not CYP2C8 enhances blood ﬂow during MCAO in male,
+but not female mice, and improvement in microvascular perfusion is
+maintained during reperfusion; 3) in males transgenic endothelial
+expression of either CYP2J2 or CYP2C8 attenuates post-ischemic expression of pro-inﬂammatory cytokines in cerebral microvessels; 4) male
+Tie2-CYP2J2 endothelial cells produce increased 11,12-EET in the
+quiescent state; 5) upon liberation of AA from the plasma membrane
+endothelial cells from both transgenic lines produce increased 14,15EET, while Tie2-CYP2C8 also produces increased levels of 11,12 EET
+and DHET, and 6) male Tie2-CYP2C8 mice have higher CSF levels of
+CYP metabolites of AA and DHA.
+The biological activity of EETs is terminated through multiple pathways (Zeldin, 2001), including metabolism by soluble epoxide hydrolase
+(sEH) into less active vicinal diols referred to as dihydroxyeicosatrienoic
+acids (DHETs). We have previously demonstrated that mice with sEH
+gene deletion (sEH knockout, sEHKO) have higher circulating 14,15-EET
+and enhanced collateral perfusion in response to focal vascular occlusion,
+resulting in reduced ischemic brain tissue damage (Zhang et al., 2008).
+These ﬁndings suggested that increasing EETs bioavailability by decreasing their metabolism may protect against stroke. Indeed, pharmacological
+inhibition of sEH was shown to reduce infarct size after MCAO in mice
+and to attenuate neuronal cell death in culture induced by oxygen–
+glucose deprivation (OGD) (Koerner et al., 2007; Zhang et al., 2007).
+Since sEHKO mice have global deletion of sEH, resulting in increased
+EETs in all cell types, we wondered about the speciﬁc contribution of
+endothelial EETs to protection from cerebral ischemia. In the current
+
+J. Jia et al. / Experimental Neurology 279 (2016) 75–85
+
+83
+
+Fig. 6. Increased release of EETs and DHETs by endothelial cells from male Tie2-CYP2J2 and Tie2-CYP2C8 mice. A. Levels of 11,12-EET, 11,12-DHET and 11,12-EET + DHET are increased in
+medium conditioned by aortic endothelial cells isolated from Tie2-CYP2J2 compared to WT mice. No increase is observed in the 14,15-regioisomers or in medium collected from cells
+conditioned by Tie2-CYP2C8 cells. B. Upon stimulation of endothelial cells with A23187 calcium ionophore, cells isolated from both Tie2-CYP2J2 and Tie2-CYP2C8 mice release
+increased levels of 14,15-EET compared to WT cells. CYP2C8 endothelial cells also display increased DHET and EET + DHET levels of both 11,12- and 14,15-regioisomers in cellconditioned medium, compared to WT cells.
+
+study we therefore examined the effect of transgenic overexpression of
+two cytochrome P450 epoxygenase isoforms in vascular endothelium
+under control of the Tie2 promoter (Schlaeger et al., 1997) on blood
+ﬂow and infarct size after MCAO in male and female mice. We examined
+males and females separately because of previous reports demonstrating
+sex differences in P450 epoxygenase expression (Athirakul et al., 2008).
+We focused on CYP2C8 and CYP2J2 isoforms because these two human
+isoforms are highly expressed and major contributors to EETs biosynthesis in myocardial and vascular tissue (Enayetallah et al., 2004; Larsen
+et al., 2006). However, their contribution to the pathogenesis of cerebrovascular disease has not been well characterized to date.
+Our data suggest that male mice are protected from ischemic injury
+by overexpression of CYP epoxygenase in vascular endothelium, regardless of whether the speciﬁc isoform is CYP2J2 or CYP2C8. The protection
+by CYP2J2, but not CYP2C8 overexpression was associated with increased blood ﬂow during MCAO. Interestingly, Tie2-CYP2J2 mice also
+had improved microvascular perfusion at 24 h after MCAO. Microvascular hypoperfusion at this point occurs as a result of multiple pathological
+mechanisms, including vasoconstriction, microthrombosis, inﬂammation, and endothelial injury and swelling. Our observation that CYP2J2
+protects against this injury suggests that EETs either protect endothelial
+cells against the initial endothelial oxidative injury during ischemia–
+reperfusion or blocks downstream inﬂammatory and pro-thrombotic
+mechanisms.
+Because infarct size was smaller in Tie2-CYP2C8, though unlike Tie2CYP2J2, collateral blood ﬂow was not increased, we searched for a non-
+
+vascular mechanism of protection by endothelial expression of CYP2C8.
+Since EETs possess anti-inﬂammatory properties in the vasculature
+(Node et al., 1999), and ischemia-induced expression of inﬂammatory
+cytokines in brain is attenuated in sEH knock-out mice (Koerner et al.,
+2008), we tested the hypothesis that transgenic endothelial expression
+CYP2C8 would attenuate MCAO-induced upregulation of cytokine
+mRNA expression in cerebral microvessels. We found that endothelial
+overexpression of either isoform prevented ischemia-induced cytokine
+expression that is observed in WT microvessels after MCAO. Our observation supports recent studies demonstrating anti-inﬂammatory roles
+for CYP2J2 both in cultured pulmonary endothelial cells and following
+ischemia/reperfusion injury in the lung (Feng et al., 2013; Chen et al.,
+2015), and CYP2C8 in cultured human umbilical vein endothelial cells
+(Liu et al., 2014).
+Following stimulation of aortic endothelial cells isolated from these
+mice with a calcium ionophore to induce AA release from the plasma
+membrane, a phenomenon which also occurs following ischemic insult,
+we see an increase in the production of EETs and their DHET metabolites
+by both CYP isoforms. It is interesting to note that despite Tie2-CYP2J2
+demonstrating both increased blood ﬂow and decreased inﬂammatory
+cytokines, endothelial cells from these mice produce increased 14,15EET following A23187 stimulation, but no increase in 11,12-EET. However the Tie2-CYP2C8 mice which were also protected from injury and
+had a reduction in inﬂammatory cytokines with no increase in blood
+ﬂow during occlusion, showed increases in both 11,12-EET metabolites
+and 14,15-EET.
+
+84
+
+J. Jia et al. / Experimental Neurology 279 (2016) 75–85
+
+Fig. 7. Fatty acid metabolites in CSF from male WT, Tie2-CYP2J2 and Tie2-CYP2C8 mice. A. Metabolites of arachidonic acid (AA) by CYP and LOX, but not COX enzymes were increased in
+Tie2-CYP2C8, but not Tie2-CYP2J2 mice, compared to WT. B. 12,13-DiHOME, a product of linoleic acid metabolism by CYP and sEH, was not different among groups. The CYP product of
+DHA metabolism, 19,20-EpDPE, was unaltered in CSF; however, its sEH metabolite 19,20-DiHDPA was increased in CSF from Tie2-CYP2C8 compared to WT mice. *p b 0.05 versus WT (n =
+16 WT, 15 Tie2-CYP2J2, 11 Tie2-CYP2C8).
+
+We also measured CSF levels of fatty acid metabolites in CSF collected from male mice. We found increased level of 11,12- and 14,15-DHET
+in Tie2-CYP2C8, likely reﬂecting increased synthesis of 11,12- and
+14,15-EET, the two main metabolites produced by CYP2C8 (Daikh
+et al., 1994). Surprisingly we did not observe increased CSF DHETs in
+Tie2-CYP2J2, although we did observe increased EET/DHET release by
+endothelial cells from these mice. The lack of increased DHET in CSF
+may reﬂect limited substrate (AA) availability, especially since these
+were naïve mice and AA liberation from the plasma membrane occurs
+following injury or other stimulation. We also observed increased
+19,20-DiHDPA in CSF from Tie2-CYP2C8 mice, likely reﬂecting increased
+formation of 19,20-EpDPE by CYP2C8 from DHA (Zhang et al., 2014), an
+essential fatty acid and the most abundant Ω-3 fatty acid in neural tissues. A similar increase in plasma 19,20-EpDPE was also previously observed in Tie2-CYP2C8 (Shao et al., 2014). Finally, Tie2-CYP2C8 CSF also
+had increased levels of 12-HETE; although 12/15-HETEs are primarily
+produced via the lipoxygenase pathway, they have also been reported
+to be produced by members of the 2C epoxygenase family, including
+CYP2C8 (Rifkind et al., 1995; Bylund et al., 1998).
+In contrast to males, transgenic expression of CYP2J2 or CYP2C8 in
+endothelium did not alter CBF during MCAO in females and reduced infarct only in the striatum, though had no effect on the brain hemisphere
+as a whole. This observation suggests that the P450 epoxygenase pathway plays a differential role in ischemic neuroprotection between males
+than females. Consistent with this concept, dilations to endotheliumderived hyperpolarizing factor (EDHF) in rat middle cerebral artery
+(MCA) are less pronounced in females compared to males (Golding
+and Kepler, 2001). In coronary, cerebral, renal, and skeletal muscle
+circulations, EDHF has been suggested to be a cytochrome P450
+epoxygenase metabolite (Alkayed et al., 1996; Fisslthaler et al., 1999;
+Fulton et al., 1992; Huang et al., 2000; Davis et al., 2011). The absence
+of protection in females by transgenic CYP expression in endothelium
+suggests that females use a different mechanism for blood ﬂow regulation in the ischemic brain. One such mechanism could be endothelial nitric oxide (eNOS), which is enhanced by chronic estrogen treatment
+
+(Athirakul et al., 2008; Goetz et al., 1994). For example, substance Pand shear stress-induced dilation of skeletal muscle arterioles was
+greater in female than male rats, linked to greater release of NO in females (Huang and Kaley, 2004; Huang et al., 1997, 1998). However,
+when eNOS is absent, as in the case of eNOS knockout mice, females
+use the P450 epoxygenase pathway to mediate ﬂow-induced dilation
+in skeletal muscle arterioles (Huang et al., 2000).
+Alternatively, it is perhaps not surprising that transgenic expression
+of the CYP isoforms did not protect female mice from ischemic damage.
+Female WT mice sustain smaller infarcts than males following MCAO
+while also maintaining higher CBF during occlusion. They also have
+lower sEH levels in the brain and higher circulating EETs than males.
+We have previously demonstrated that the sex difference in infarct
+size is abolished in global sEH knock-out mice, where male infarct size
+is reduced to that observed in females (Zhang et al., 2014). Overexpression of CYP enzymes in one cell type in the brain may therefore not afford additional beneﬁt to females who already beneﬁt from higher
+levels of EETs. Whereas males, who have lower EETs, would beneﬁt
+from increased generation of EETs by the endothelium. Although we
+did not carry out a side-by-side comparison of expression levels of the
+transgenes between males and females, we do demonstrate robust expression of both transgenes in the female brain by in situ hybridization.
+Therefore the lack of protection from ischemic insult in female WT vs.
+Tie2 mice does not appear to be due to a lack of expression of the
+Tie2-driven CYP enzymes.
+In summary, the current study examined the effects of transgenic
+expression of cytochrome P450 epoxygenase in vascular endothelium
+on focal cerebral ischemic injury in mice. We demonstrate that endothelial overexpression of two distinct human CYP isoforms is protective
+in male mice. The mechanism of protection is dependent on which
+CYP isoform is expressed, which is likely mediated by suppression
+of ischemia-induced inﬂammation in Tie2-CYP2C8 mice, and a combination of anti-inﬂammatory mechanism with enhanced blood ﬂow
+in Tie2-CYP2J2 mice. In contrast, transgenic expression of CYP
+epoxygenase in females did not alter blood ﬂow or hemispheric infarct
+
+J. Jia et al. / Experimental Neurology 279 (2016) 75–85
+
+size after MCAO. These ﬁndings suggest that the efﬁcacy and mechanism of protection of any therapeutic strategies targeting the cytochrome P450 epoxygenase pathway may be inﬂuenced by sex and the
+speciﬁc CYP isoform involved.
+Sources of funding
+This work was supported by the National Institute of Health (NIH)
+R01NS070837 to NJA, P01NS049210 to NJA and OKR, R01HL093140 to
+RKW, R01GM088199 to CRL and the Intramural Research Program of
+the National Institute of Environmental Health Sciences (NIEHS) Z01
+ES025034 to DCZ.
+Disclosures
+None.
+Acknowledgments
+We thank Martha A. Bosch for the technical assistance and help with
+preparation of the in situ hybridization ﬁgures.
+References
+Alkayed, N.J., Narayanan, J., Gebremedhin, D., Medhora, M., Roman, R.J., Harder, D.R., 1996.
+Molecular characterization of an arachidonic acid epoxygenase in rat brain astrocytes.
+Stroke 27 (5), 971–979.
+Alkayed, N.J., Birks, E.K., Narayanan, J., Petrie, K.A., Kohler-Cabot, A.E., Harder, D.R., 1997.
+Role of P-450 arachidonic acid epoxygenase in the response of cerebral blood ﬂow
+to glutamate in rats. Stroke 28 (5), 1066–1072.
+Alkayed, N.J., Goyagi, T., Joh, H.D., Klaus, J., Harder, D.R., Traystman, R.J., Hurn, P.D., 2002.
+Neuroprotection and P450 2C11 upregulation after experimental transient ischemic
+attack. Stroke 33 (6), 1677–1684.
+An, L., Qin, J., Wang, R.K., 2010. Ultrahigh sensitive optical microangiography for in vivo
+imaging of microcirculations within human skin tissue beds. Opt. Express 18 (8),
+8220–8228.
+Athirakul, K., Bradbury, J.A., Graves, J.P., DeGraff, L.M., Ma, J., Zhao, Y., Couse, J.F., Quigley,
+R., Harder, D.R., Zhao, X., Imig, J.D., Pedersen, T.L., Newman, J.W., Hammock, B.D.,
+Conley, A.J., Korach, K.S., Coffman, T.M., Zeldin, D.C., 2008. Increased blood pressure
+in mice lacking cytochrome P450 2J5. FASEB J. 22 (12), 4096–4108.
+Bylund, J., Kunz, T., Valmsen, K., Oliw, E.H., 1998. Cytochromes P450 with bisallylic
+hydroxylation activity on arachidonic and linoleic acids studied with human recombinant enzymes and with human and rat liver microsomes. J. Pharmacol. Exp. Ther.
+284 (1), 51–60.
+Chen, W., Yang, S., Ping, W., Fu, X., Xu, Q., Wang, J., 2015. CYP2J2 and EETs protect against
+lung ischemia/reperfusion injury via anti-inﬂammatory effects in vivo and in vitro.
+Cell. Physiol. Biochem. 35 (5), 2043–2054.
+Daikh, B.E., Lasker, J.M., Raucy, J.L., Koop, D.R., 1994. Regio- and stereoselective epoxidation of arachidonic acid by human cytochromes P450 2C8 and 2C9. J. Pharmacol.
+Exp. Ther. 271 (3), 1427–1433.
+Davis, C.M., Siler, D.A., Alkayed, N.J., 2011. Endothelium-derived hyperpolarizing factor
+in the brain: inﬂuence of sex, vessel size and disease state. Women's Health
+(Lond. Engl.) 7 (3), 293–303.
+Edin, M.L., Wang, Z., Bradbury, J.A., Graves, J.P., Lih, F.B., DeGraff, L.M., Foley, J.F., Torphy, R.,
+Ronnekleiv, O.K., Tomer, K.B., Lee, C.R., Zeldin, D.C., 2011. Endothelial expression of
+human cytochrome P450 epoxygenase CYP2C8 increases susceptibility to ischemia–
+reperfusion injury in isolated mouse heart. FASEB J. 25 (10), 3436–3447.
+Enayetallah, A.E., French, R.A., Thibodeau, M.S., Grant, D.F., 2004. Distribution of soluble
+epoxide hydrolase and of cytochrome P450 2C8, 2C9, and 2J2 in human tissues.
+J. Histochem. Cytochem. 52, 447–454.
+Feng, W., Xu, X., Zhao, G., Li, G., Liu, T., Zhao, J., Dong, R., Wang, D.W., Tu, L., 2013. EETs and
+CYP2J2 inhibit TNF-α-induced apoptosis in pulmonary artery endothelial cells and
+TGF-β1-induced migration in pulmonary artery smooth muscle cells. Int. J. Mol.
+Med. 32 (3), 685–693.
+Fisslthaler, B., Popp, R., Kiss, L., Potente, M., Harder, D.R., Fleming, I., Busse, R., 1999.
+Cytochrome P450 2C is an EDHF synthase in coronary arteries. Nature 401 (6752),
+493–497.
+Fulton, D., McGiff, J.C., Quilley, J., 1992. Contribution of NO and cytochrome P450 to the
+vasodilator effect of bradykinin in the rat kidney. Br. J. Pharmacol. 107 (3), 722–725.
+Goetz, R.M., Morano, I., Calovini, T., Studer, R., Holtz, J., 1994. Increased expression of endothelial constitutive nitric oxide synthase in rat aorta during pregnancy. Biochem.
+Biophys. Res. Commun. 205 (1), 905–910.
+Golding, E.M., Kepler, T.E., 2001. Role of estrogen in modulating EDHF-mediated dilations
+in the female rat middle cerebral artery. Am. J. Physiol. Heart Circ. Physiol. 280 (6),
+H2417–H2423.
+Harder, D.R., Alkayed, N.J., Lange, A.R., Gebremedhin, D., Roman, R.J., 1998. Functional hyperemia in the brain: hypothesis for astrocyte-derived vasodilator metabolites.
+Stroke 29 (1), 229–234.
+
+85
+
+Huang, A., Kaley, G., 2004. Gender-speciﬁc regulation of cardiovascular function: estrogen
+as key player. Microcirculation 11 (1), 9–38.
+Huang, A., Sun, D., Koller, A., Kaley, G., 1997. Gender difference in myogenic tone of rat
+arterioles is due to estrogen-induced, enhanced release of NO. Am. J. Physiol. 272
+(4 Pt 2), H1804–H1809.
+Huang, A., Sun, D., Koller, A., Kaley, G., 1998. Gender difference in ﬂow-induced dilation
+and regulation of shear stress: role of estrogen and nitric oxide. Am. J. Physiol. 275
+(5 Pt 2), R1571–R1577.
+Huang, A., Sun, D., Smith, C.J., Connetta, J.A., Shesely, E.G., Koller, A., Kaley, G., 2000. In
+eNOS knockout mice skeletal muscle arteriolar dilation to acetylcholine is mediated
+by EDHF. Am. J. Physiol. Heart Circ. Physiol. 278 (3), H762–H768.
+Iliff, J.J., Close, L.N., Selden, N.R., Alkayed, N.J., 2007. A novel role for P450 eicosanoids in
+the neurogenic control of cerebral blood ﬂow in the rat. Exp. Physiol. 92 (4), 653–658.
+Koerner, I.P., Jacks, R., DeBarber, A.E., Koop, D., Mao, P., Grant, D.F., Alkayed, N.J., 2007.
+Polymorphisms in the human soluble epoxide hydrolase gene EPHX2 linked to neuronal survival after ischemic injury. J. Neurosci. 27 (17), 4642–4649.
+Koerner, I.P., Zhang, W., Cheng, J., Parker, S., Hurn, P.D., Alkayed, N.J., 2008. Soluble
+epoxide hydrolase: regulation by estrogen and role in the inﬂammatory response
+to cerebral ischemia. Front. Biosci. 13, 2833–2841.
+Larsen, B.T., Miura, H., Hatoum, O.A., Campbell, W.B., Hammock, B.D., Zeldin, D.C., Falck,
+J.R., Gutterman, D.D., 2006. Epoxyeicosatrienoic and dihydroxyeicosatrienoic acids dilate human coronary arterioles via BK(Ca) channels: implications for soluble epoxide
+hydrolase inhibition. Am. J. Physiol. Heart Circ. Physiol. 290, H491–H499.
+Lee, C.R., Imig, J.D., Edin, M.L., Foley, J., DeGraff, L.M., Bradbury, J.A., Graves, J.P., Lih, F.B.,
+Clark, J., Myers, P., Perrow, A.L., Lepp, A.N., Kannon, M.A., Ronnekleiv, O.K., Alkayed,
+N.J., Falck, J.R., Tomer, K.B., Zeldin, D.C., 2010. Endothelial expression of human cytochrome P450 epoxygenases lowers blood pressure and attenuates hypertensioninduced renal injury in mice. FASEB J. 24, 3770–3781.
+Liu, M., Hurn, P.D., Alkayed, N.J., 2004. Cytochrome P450 in neurological disease. Curr.
+Drug Metab. 5 (3), 225–234.
+Liu, W., Wang, B., Ding, H., Wang, D.W., Zeng, H., 2014. A potential therapeutic effect of
+CYP2C8 overexpression on anti-TNF-α activity. Int. J. Mol. Med. 34 (3), 725–732.
+Livak, K.J., Schmittgen, T.D., 2001. Analysis of relative gene expression data using real-time
+quantitative PCR and the 2(-Delta Delta C(T)) method. Methods 25 (4), 402–408.
+Medhora, M., Narayanan, J., Harder, D., 2001. Dual regulation of the cerebral microvasculature by epoxyeicosatrienoic acids. Trends Cardiovasc. Med. 11 (1), 38–42.
+Newman, J.W., Watanabe, T., Hammock, B.D., 2002. The simultaneous quantiﬁcation of
+cytochrome P450 dependent linoleate and arachidonate metabolites in urine by
+HPLC-MS/MS. J. Lipid Res. 43 (9), 1563–1578.
+Node, K., Huo, Y., Ruan, X., Yang, B., Spiecker, M., Ley, K., Zeldin, D.C., Liao, J.K., 1999.
+Anti-inﬂammatory properties of cytochrome P450 epoxygenase-derived eicosanoids.
+Science 285 (5431), 1276–1279.
+Rifkind, A.B., Lee, C., Chang, T.K., Waxman, D.J., 1995. Arachidonic acid metabolism by
+human cytochrome P450s 2C8, 2C9, 2E1, and 1A2: regioselective oxygenation and
+evidence for a role for CYP2C enzymes in arachidonic acid epoxygenation in human
+liver microsomes. Arch. Biochem. Biophys. 320 (2), 380–389.
+Schlaeger, T.M., Bartunkova, S., Lawitts, J.A., Teichmann, G., Risau, W., Deutsch, U., Sato,
+T.N., 1997. Uniform vascular-endothelial-cell-speciﬁc gene expression in both embryonic and adult transgenic mice. Proc. Natl. Acad. Sci. U. S. A. 94, 3058–3063.
+Seubert, J.M., Sinal, C.J., Graves, J., DeGraff, L.M., Bradbury, J.A., Lee, C.R., Goralski, K., Carey,
+M.A., Luria, A., Newman, J.W., Hammock, B.D., Falck, J.R., Roberts, H., Rockman, H.A.,
+Murphy, E., Zeldin, D.C., 2006. Role of soluble epoxide hydrolase in postischemic recovery of heart contractile function. Circ. Res. 99, 442–450.
+Shao, Z., Fu, Z., Stahl, A., Joyal, J.S., Hatton, C., Juan, A., Hurst, C., Evans, L., Cui, Z., Pei, D., Gong,
+Y., Xu, D., Tian, K., Bogardus, H., Edin, M.L., Lih, F., Sapieha, P., Chen, J., Panigrahy, D.,
+Hellstrom, A., Zeldin, D.C., Smith, L.E., 2014. Cytochrome P450 2C8 Ω3-long-chain
+polyunsaturated fatty acid metabolites increase mouse retinal pathologic
+neovascularization—brief report. Arterioscler. Thromb. Vasc. Biol. 34 (3), 581–586.
+Spector, A.A., Norris, A.W., 2007. Action of epoxyeicosatrienoic acids on cellular function.
+Am. J. Physiol. Cell. Physiol. 292 (3), C996–1012.
+Wang, R.K., Jacques, S.L., Ma, Z., Hurst, S., Hanson, S.R., Gruber, A., 2007. Three dimensional
+optical angiography. Opt. Express 15 (7), 4083–4097.
+Wu, S., Moomaw, C.R., Tomer, K.B., Falck, J.R., Zeldin, D.C., 1996. Molecular cloning and expression of CYP2J2, a human cytochrome P450 arachidonic acid epoxygenase highly
+expressed in heart. J. Biol. Chem. 271 (7), 3460–3468.
+Zeldin, D.C., 2001. Epoxygenase pathways of arachidonic acid metabolism. J. Biol. Chem.
+276 (39), 36059–36062.
+Zeldin, D.C., DuBois, R.N., Falck, J.R., Capdevila, J.H., 1995. Molecular cloning, expression
+and characterization of an endogenous human cytochrome P450 arachidonic acid
+epoxygenase isoform. Arch. Biochem. Biophys. 322, 76–86.
+Zhang, W., Koerner, I.P., Noppens, R., Grafe, M., Tsai, H.J., Morisseau, C., Luria, A.,
+Hammock, B.D., Falck, J.R., Alkayed, N.J., 2007. Soluble epoxide hydrolase: a novel
+therapeutic target in stroke. J. Cereb. Blood Flow Metab. 27 (12), 1931–1940.
+Zhang, W., Otsuka, T., Sugo, N., Ardeshiri, A., Alhadid, Y.K., Iliff, J.J., DeBarber, A.E., Koop,
+D.R., Alkayed, N.J., 2008. Soluble epoxide hydrolase gene deletion is protective against
+experimental cerebral ischemia. Stroke 39 (7), 2073–2078.
+Zhang, W., Iliff, J.J., Campbell, C.J., Wang, R.K., Hurn, P.D., Alkayed, N.J., 2009. Role of soluble epoxide hydrolase in the sex-speciﬁc vascular response to cerebral ischemia.
+J. Cereb. Blood Flow Metab. 29 (8), 1475–1481.
+Zhang, G., Panigrahy, D., Hwang, S.H., Yang, J., Mahakian, L.M., Wettersten, H.I., Liu, J.Y.,
+Wang, Y., Ingham, E.S., Tam, S., Kieran, M.W., Weiss, R.H., Ferrara, K.W., Hammock,
+B.D., 2014. Dual inhibition of cyclooxygenase-2 and soluble epoxide hydrolase
+synergistically suppresses primary tumor growth and metastasis. Proc. Natl. Acad.
+Sci. U. S. A. 111 (30), 11127–11132.
+
+

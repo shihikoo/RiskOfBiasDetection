@@ -1,0 +1,1157 @@
+Pflugers Arch - Eur J Physiol (2015) 467:973–987
+DOI 10.1007/s00424-014-1626-8
+
+INVITED REVIEW
+
+The two-pore domain potassium channel KCNK5 deteriorates
+outcome in ischemic neurodegeneration
+Eva Göb & Stefan Bittner & Nicole Bobak & Peter Kraft & Kerstin Göbel &
+Friederike Langhauser & György A. Homola & Marc Brede & Thomas Budde &
+Sven G. Meuth & Christoph Kleinschnitz
+
+Received: 1 September 2014 / Revised: 29 September 2014 / Accepted: 1 October 2014 / Published online: 15 October 2014
+# Springer-Verlag Berlin Heidelberg 2014
+
+Abstract Potassium channels can fulfill both beneficial and
+detrimental roles in neuronal damage during ischemic stroke.
+Earlier studies have characterized a neuroprotective role of the
+two-pore domain potassium channels KCNK2 (TREK1) and
+KCNK3 (TASK1). Protective neuronal hyperpolarization and
+prevention of intracellular Ca2+ overload and glutamate
+excitotoxicity were suggested to be the underlying mechanisms. We here identify an unexpected role for the related
+KCNK5 channel in a mouse model of transient middle cerebral artery occlusion (tMCAO). KCNK5 is strongly upregulated on neurons upon cerebral ischemia, where it is most
+likely involved in the induction of neuronal apoptosis.
+Hypoxic conditions elevated neuronal expression levels of
+
+KCNK5 in acute brain slices and primary isolated neuronal
+cell cultures. In agreement, KCNK5 knockout mice had significantly reduced infarct volumes and improved neurologic
+function 24 h after 60 min of tMCAO and this protective effect
+was preserved at later stages of infarct development. KCNK5
+deficiency resulted in a significantly reduced number of apoptotic neurons, a downregulation of pro-apoptotic and upregulation of anti-apoptotic factors. Results of adoptive transfer
+experiments of wild-type and Kcnk5−/− immune cells into
+Rag1−/− mice prior to tMCAO exclude a major role of
+KCNK5 in poststroke inflammatory reactions. In summary,
+KCNK5 expression is induced on neurons under ischemic
+conditions where it most likely exerts pro-apoptotic effects.
+
+First authors Eva Göb and Stefan Bittner and senior authors Sven G.
+Meuth and Christoph Kleinschnitz made equal contributions.
+Electronic supplementary material The online version of this article
+(doi:10.1007/s00424-014-1626-8) contains supplementary material,
+which is available to authorized users.
+E. Göb : P. Kraft : F. Langhauser : C. Kleinschnitz
+Department of Neurology, University Clinics Würzburg,
+Würzburg, Germany
+S. Bittner : N. Bobak : K. Göbel : S. G. Meuth (*)
+Department of Neurology, University of Münster,
+Münster, Germany
+e-mail: sven.meuth@ukmuenster.de
+S. Bittner
+Interdisciplinary Center for Clinical Research (IZKF),
+Münster, Germany
+N. Bobak
+LabEx ICST, Institut de Pharmacologie Moléculaire et Cellulaire,
+CNRS and Université de Nice-Sophia Antipolis, Valbonne, France
+P. Kraft
+Institute of Clinical Epidemiology and Biometry, Comprehensive
+Heart Failure Center, University of Würzburg, Würzburg, Germany
+
+G. A. Homola
+Department of Neuroradiology, University Clinics Würzburg,
+Würzburg, Germany
+
+M. Brede
+Department of Anesthesiology and Critical Care, University Clinics
+Würzburg, Würzburg, Germany
+
+T. Budde
+Department of Physiology I, University of Münster, Münster,
+Germany
+
+S. G. Meuth
+Department of Physiology I - Neuropathophysiology, University of
+Münster, Münster, Germany
+
+974
+
+Pflugers Arch - Eur J Physiol (2015) 467:973–987
+
+Hence, pharmacological blockade of KCNK5 might
+have therapeutic potential in preventing ischemic
+neurodegeneration.
+Keywords Stroke . K2P channels . Potassium channels .
+Neuroprotection . KCNK5 . TASK2
+Abbreviations
+ATP
+BBB
+CREB
+K2P channels
+MRI
+TASK2
+tMCAO
+TTC
+TUNEL
+WT
+
+Adenosine triphosphate
+Blood-brain barrier
+cAMP response element-binding protein
+Two-pore domain potassium channels
+Magnetic resonance imaging
+TWIK-related acid-sensitive potassium
+channel 2
+Transient middle cerebral artery occlusion
+Triphenyltetrazolium chloride
+TdT-mediated dUTP-biotin nick end labeling
+wild-type
+
+Introduction
+Ischemic stroke is one of the leading causes of death and longterm disability in the world [19]. To date, neuroprotective
+strategies have been shown to fail in clinical trials, elucidating
+the need for a better understanding of the underlying molecular mechanisms associated with neuronal cell death in cerebral ischemia [25, 62]. Important mechanistic insights into the
+complex pathophysiology of the ischemic cascade have identified major harmful events initiating and perpetuating neuronal death. Hypoxia and glucose deprivation lead to a lack of
+energy necessary to maintain adenosine triphosphate (ATP)driven ion pumps and ionic balance. Furthermore, a massive
+release of the excitatory neurotransmitter glutamate results in
+neuronal depolarization, intracellular calcium overload and
+excitotoxic death [46]. Neurons display a broad array of
+homeostatic protective mechanisms counterbalancing the hyperexcitability induced by hypoxic and ischemic periods.
+Hyperpolarizing potassium channels are especially suited to
+control neuronal excitability as has been demonstrated for
+KATP [5], Ca2+-activated big potassium (BK) channels [58],
+and voltage-gated potassium channels [50].
+Furthermore, it is now well established that innate and
+adaptive immunity contributes significantly to central nervous
+system (CNS) inflammation, infarct size, and functional damage after stroke. Potassium channels have been shown to
+regulate migration and effector functions of immune cells
+[18]. In accordance, pharmacological blockade of the
+calcium-activated potassium channel KCa3.1, which is involved in microglial, macrophage, and T cell function, had
+beneficial effects in a rat model of ischemic stroke [20],
+
+demonstrating the therapeutic potential of targeting inflammation in cerebral ischemia.
+Two-pore domain potassium channels (K2P channels) play
+an important role in setting the resting membrane potential,
+regulating neuronal excitability and integrating extracellular
+signals under pathophysiological conditions [34]. KCNK5
+(TWIK-related acid-sensitive potassium channel 2, TASK-2)
+is a member of the K2P channel family displaying unique
+biophysical properties enabling regulation of channel activity
+by pathophysiological hallmarks of stroke development [21].
+KCNK5 is sensitive to changes in extracellular pH values and
+is inhibited by extracellular acidification (10 % activity at pH
+6.5 [57]). Furthermore, an activation of KCNK5 upon hypoxia
+has been described that might be due to a direct activation of
+KCNK5 by reactive oxygen species [30]. In peripheral organs,
+KCNK5 channels regulate HCO3- reabsorption in kidney
+proximal tubules and are involved in cell volume regulation
+[3, 15, 21]. On human T lymphocytes, KCNK5 regulates T
+cell effector functions and its expression levels on pathogenic
+T cells correlate with disease activity in autoimmune diseases,
+such as multiple sclerosis and rheumatoid arthritis [9, 10].
+Conflicting reports exist concerning the expression of
+KCNK5 within the CNS. While some found no expression
+of KCNK5 in the adult brain [1, 63], others describe KCNK5
+channels in brainstem nuclei [30], hippocampus, and cerebellum [23, 29]. Furthermore, KCNK5 can be upregulated on
+neurons and astrocytes under pathophysiological conditions,
+as has been found in a rat model of epilepsy [35].
+In summary, the regulatory mechanisms and expression
+patterns suggest an as yet unidentified involvement of
+KCNK5 in cerebral ischemia. Therefore, we here investigated
+the pathophysiological role of KCNK5 in a mouse model of
+acute ischemic stroke.
+
+Material and methods
+Stroke model
+All animal experiments were approved by the local state
+authorities (Regierung von Unterfranken) and conducted in
+agreement with the German Animal Welfare Act (German
+Ministry of Agriculture, Health and Economic Cooperation).
+Focal cerebral ischemia was induced by transient middle
+cerebral artery occlusion (tMCAO) in 6- to 8-week-old male
+C57BL/6 wild-type (WT) mice (Charles River) and Kcnk5−/−
+mice [6], weighing between 20 and 25 g, using the
+intraluminal filament technique [49]. Mice were anesthetized
+with 2.0 % isoflurane, and core body temperature was maintained at 37 °C throughout surgery. Following a midline
+cervical skin incision, the proximal common carotid artery
+and the external carotid artery were ligated and a standardized
+silicon rubber-coated nylon monofilament (6023910PK10,
+
+Pflugers Arch - Eur J Physiol (2015) 467:973–987
+
+Doccol Corp.) was inserted and advanced via the right internal
+carotid artery to occlude the origin of the right middle cerebral
+artery. The intraluminal suture was left in situ for 60 min.
+After that, mice were re-anesthetized and the occluding monofilament was withdrawn to allow reperfusion. Operation time
+per animal did not exceed 10 min. For reconstitution of Rag1−/
+−
+mice with CD4+ T cells, immune cells were isolated from
+spleen and lymph node cell suspensions of Kcnk5−/− and
+C57BL/6 WT mice in RPMI medium containing 1 % Lglutamine, 1 % FCS, and 1 % penicillin/streptomycin. After
+removal of red blood cells with ammonium chloride, T cells
+were enriched using the CD4+ T Cell Isolation Kit II (Miltenyi
+Biotec), resuspended to 7.5 × 10 5 cells per 100 μl in
+phosphate-buffered saline and subsequently injected intravenously into Rag1−/− mice. T cell-reconstituted Rag1−/− mice
+were subjected to tMCAO 24 h after injection [39].
+Stroke study population and quality control
+All stroke experiments were conducted according to the recommendations for research in experimental stroke studies [26]
+and the current Animal Research Reporting of In Vivo
+Experiments (ARRIVE) guidelines (http://www.nc3rs.org/
+ARRIVE). Animals were randomly assigned to the operators
+by independent persons not involved in data acquisition and
+analysis. Surgeries and evaluation of all readout parameters
+were performed while being blinded to the experimental
+groups.
+The following conditions excluded mice from end-point
+analyses (exclusion criteria): 1, death within 24 h after MCAO
+(except for survival studies); 2, subarachnoid hemorrhage or
+bleeding into the brain parenchyma (as macroscopically
+assessed during brain sampling or by magnetic resonance
+imaging [MRI]); 3, Bederson score = 0 (24 h after MCAO);
+and 4, operation time >10 min. In total, 159 mice (80 C57BL/
+6 WT, 52 Kcnk5−/−, 27 Rag1−/−) were used in this study. Of the
+116 mice subjected to tMCAO, 11 mice (9.5 %) met at least
+one exclusion criterion after randomization and, therefore,
+were withdrawn from the study. The number of excluded
+animals (dropout rate) was evenly distributed between the
+groups (p>0.05).
+
+975
+
+onto string by one or both forepaws plus one or both hindpaws;
+4, hangs onto string by forepaws and hindpaws plus tail
+wrapped around string; and 5, escape (to the supports).
+Determination of stroke size
+Mice were sacrificed 24 h after tMCAO, respectively. Brains
+were quickly removed and cut into 2-mm-thick coronal sections using a mouse brain slice matrix (Harvard Apparatus).
+The slices were stained with 2 % triphenyltetrazolium chloride
+(TTC, Sigma-Aldrich) to visualize the infarctions [7].
+Planimetric measurements (ImageJ software, National
+Institutes of Health) were used to calculate lesion volumes,
+which were corrected for brain edema according to the following equation: Vindirect (mm3)=Vinfarct ×(1−(Vih −Vch)/Vch.
+The term (Vih −Vch) represents the difference in volumes between the ischemic hemisphere (ih) and the control hemisphere (ch), and (Vih −Vch)/Vch expresses the difference as a
+percentage of the control hemisphere.
+Determination of edema formation
+The extent of brain edema was calculated by planimetry from
+TTC-stained brain sections according to the following equation: Brain edema area (%)=[(AL+AI+AC)×100/(AC×2)]−
+100, where AL represents the total area of TTC-negative
+(ischemic) brain tissue, AI represents the total area of viable
+tissue of the ipsilateral (ischemic) hemisphere, and AC represents the total area of the contralateral (healthy) hemisphere
+[33].
+Laser Doppler flowmetry
+Laser Doppler flowmetry (Moore Instruments) was performed
+in C57BL/6 WT and Kcnk5−/− mice at baseline (before ischemia), 10 min after inserting the occluding filament (ischemia)
+and 10 min after removing the occluding filament
+(reperfusion) [22]. The regional cerebral blood flow was measured in the territory of the right middle cerebral artery (6 mm
+lateral and 2 mm posterior from bregma) (Fig. S1).
+Magnet resonance imaging
+
+Assessment of functional outcome
+Global neurologic deficits were quantified according to the
+Bederson score [8]: 0, no deficit; 1, forelimb flexion; 2, as
+for 1, plus decreased resistance to lateral push; 3, unidirectional
+circling; 4, longitudinal spinning; and 5, no movement. The
+grip-test score was applied to monitor motor function and
+coordination [51]. For this purpose, the mouse was placed
+midway on a string between two supports and rated as follows:
+0, mouse falls off; 1, hangs onto string by one or both forepaws; 2, as for 1, and attempts to climb onto string; 3, hangs
+
+To analyze infarct dynamics and to scan for possible intracerebral bleeding, stroke assessment was performed by serial
+MRI on a 1.5-T MRI unit (MAGNETOM SymphonyVision,
+Siemens) on days 1 and 7 after tMCAO as described [43].
+Assessment of the cerebral vasculature
+To assess the structure of the cerebral vasculature, we examined the circle of Willis and main arteries by ink perfusion.
+Mice were deeply anesthetized with CO2 and transcardially
+
+976
+
+perfused with 4 % paraformaldehyde (PFA), followed by 3 ml
+of black ink diluted in 4 % PFA (1:5v/v). Brains were carefully
+removed, fixed in 4 % PFA overnight at 4 °C, and the circle of
+Willis was examined under a microscope, and the development of the posterior communicating arteries (PComA) was
+quantified using the PComA score [53] (Fig. S1 and
+Table S1).
+Blood gas analysis
+A 100 μl sample of arterial blood was drawn from the left
+cardiac ventricle of anesthetized mice using a heparinized
+syringe. We then determined PaO2, PaCO2, and pH using an
+ABL 77 automated blood gas analyzer (Radiometer)
+(Table S1).
+Invasive hemodynamics
+For the assessment of blood pressure and heart rate, mice were
+anesthetized with 2.0 % isoflurane and catheterized via the
+right carotid artery with a high-fidelity 1.4 F Millarmicrotip
+catheter (Millar Instruments) as described [17]. Hemodynamic
+data were digitized via a MacLabsystem (AD Instruments)
+connected to an Apple G4 PowerPC computer and analyzed
+(Table S1).
+Western blot
+Cortices or basal ganglia were dissected from native brains
+and homogenized in RIPA buffer (25 mM Tris pH 7.4,
+150 mM NaCl, 1 % NP-40) containing 0.1 % sodium dodecyl
+sulfate (SDS) and 4 % proteinase inhibitor (complete protease
+inhibitor cocktail, Roche). After sonication for 10 s, tissue
+lysates were centrifuged at 15,000×g for 30 min at 4 °C, and
+supernatants were used for bicinchoninic acid protein assay
+(BCA). Total lysates were diluted in 2× SDS sample buffer
+(120 mM Tris/HCl, 10 % SDS, 20 % glycerine, 20 % 2mercaptoethanol; pH 6.8) to a final concentration of 2 μg/μl
+and used for SDS-PAGE and Western blot analysis as previously described [33]. The following antibodies were used:
+pAb anti-TASK2 (P1106, Sigma-Aldrich, 1:1000), mAb
+anti-CREB (48H2; 9197, Cell Signaling, 1:500), mAb antiphospho-CREB (Ser133) (87G3; 9198, Cell Signaling,
+1:500), pAb anti-AIF (ab1998; Abcam, 1:2000), pAb anticaspase-9 (9504, Cell Signaling, 1:500), pAb anti-occludin
+(ab31721; Abcam, 1:5000), anti-β-actin (A5441; SigmaAldrich, 1:250,000), donkey anti-rabbit IgG HRPconjugated (711-035-152; Dianova, 1:10,000), and donkey
+anti-mouse IgG HRP-conjugated (715-035-150; Dianova,
+1:10,000). Protein bands were quantified by densitometric
+analysis using ImageJ software (National Institutes of
+Health) and normalized to the actin band, which served as
+loading control.
+
+Pflugers Arch - Eur J Physiol (2015) 467:973–987
+
+Quantitative real-time polymerase chain reaction
+Tissue homogenization, RNA isolation, and quantitative realtime polymerase chain reaction (RT-PCR) were performed as
+described [43]. For total RNA preparation, TRIzol reagent®
+(Invitrogen) was used and RNA concentration was quantified
+spectrophotometrically. RNA (1 μg) was reversely transcribed
+with Fermentas reagents according to the manufacturer’s protocol using random hexamers. Relative gene expression levels
+of TASK2 (assay ID Mm00498900_m1, Applied Biosystems)
+were quantified with the fluorescent TaqMan® technology
+using the StepOnePlus™ Real-time PCR System (Applied
+B i o s y s t e m s ) . V I C l a b e l e d 1 8 s R N A ( Ta q M a n ®
+Predeveloped Assay Reagents for gene expression, part number 4319413E, Applied Biosystems) was used as an endogenous control to normalize the amount of sample RNA. Water
+controls were included to ensure specificity. Each sample was
+measured in triplicate, and data points were examined for
+integrity by analysis of the amplification plot. The comparative CT method was used for relative quantification of gene
+expression as described [61].
+
+Vital brain slices
+Vital brain slices from 14- to 22-day-old male C57BL/6 WT
+mouse brains (between −2 and −4 mm from bregma) were
+prepared as described previously [48]. In brief, coronal sections were cut on a vibratome (Vibratome®, Series 1000
+Classic) in an ice-chilled solution (200 mM saccharose,
+20 mM PIPES, 2.5 mM KCl, 1.25 mM NaH2PO4, 10 mM
+MgSO4, 0.5 mM CaCl2, 10 mM glucose, pH 7.35) adjusted
+with NaOH. Prior to the staining procedure, slices were kept
+submerged in artificial cerebrospinal fluid (ACSF, 125 mM
+NaCl, 2.5 mM KCl, 1.25 mM NaH2PO4, 30 mM HEPES,
+2 mM MgSO4, 2 mM CaCl2, 10 mM glucose, pH adjusted to
+7.35 by bubbling with a mixture of 95 % O2 and 5 % CO2).
+For ischemic conditions, slices were incubated in ACSF with
+reduced glucose (5 mM) and pH 6.4 for 4 h at 37 °C in a
+humidified incubator with 5 % CO2, 5 % O2, and 90 % N2.
+
+Hippocampal neuronal cell cultures
+Neuronal cell cultures were obtained from C57BL/6 WT
+mouse embryos (E18) as described previously [40].
+Neuronal cultures were incubated at 37 °C and 5 % CO2 and
+maintained in culture for up to 5 to 7 days before performing
+the experiments. Cell viability was assessed by the In Situ Cell
+Death Detection Kit (TMR red, Roche) according to the
+manufacturer’s instructions. For ischemic conditions, O2 was
+restricted per incubation at 37 °C in a humidified incubator
+with 5 % CO2, 5 % O2, and 90 % N2 for 4 h.
+
+Pflugers Arch - Eur J Physiol (2015) 467:973–987
+
+Isolation of mouse brain microvascular endothelial cells
+We prepared mouse brain microvascular endothelial cells
+(MBMECs) from brains of C57BL/6 WT mice as described
+[12] and used them for immunohistochemistry (see below).
+Purity and cell morphology were controlled regularly by flow
+cytometry and microscopy. For functional analysis, cells were
+cultured under normoxic or ischemic conditions for 4 h at
+37 °C in a humidified incubator with 5 % CO2 or 5 % CO2,
+5 % O2, and 90 % N2, respectively.
+Immunohistochemistry
+Immunohistochemistry of native mouse brain sections, vital
+brain slices, and cultured cells was performed according to
+standard procedures [12, 37, 43]. For specific staining, the
+following antibodies were used: pAb anti-TASK2 (P1106,
+Sigma-Aldrich, 1:100) and pAb anti-NeuN (MAB377,
+Merck Millipore, 1:1000). For immunofluorescence analysis,
+slices were co-incubated with Cy3-labeled goat anti-rabbit
+and Alexa-Fluor 488 anti-mouse secondary antibodies
+(Abcam, 1:200). DNA was counterstained using ProLong®
+Gold anti-fade reagent containing 4′,6-diamidino-2phenylindole (DAPI) (Life technologies). Negative controls
+included omission of the primary or secondary antibodies and
+produced no signal. TdT-mediated dUTP-biotin nick end labeling (TUNEL) was performed to visualize apoptotic cells on
+10-μm-thick cryo-embedded brain sections 24 h after tMCAO
+using the TUNEL in situ cell death detection kit, TMR red
+(Roche). Co-staining with antibodies against neuronal marker
+NeuN was applied to detect apoptotic neurons. For quantification of TUNEL-positive cells, identical brain sections from
+the ischemic basal ganglia were selected, and cell counting
+was performed from five subsequent slices (distance 100 μm)
+as described [37]. All sections were analyzed and acquired
+with a Nikon Eclipse 50i microscope equipped with the DSU3 DS camera control unit and the NIS-Elements software
+(Nikon) and a Zeiss Axio Scope microscope (Zeiss) equipped
+with a UI-1410-C CMOS camera (UEye) and the AxioVision
+software (Zeiss). Digital images were processed using Adobe
+Photoshop (Adobe Systems).
+
+977
+
+Bioscience, 556925). Cells were counted on a FACS Calibur
+(Becton Dickinson).
+Neutrophils and macrophages were isolated from the bone
+marrow of C57BL/6 mice, extracted out of tibia and femur,
+and separated using MACS separation kits (Anti-Ly-6G
+MicroBead Kit, CD11b MicroBeads, Miltenyi Biotech) according to the manufacturer’s instructions. T cells were isolated from spleens of C57BL/6 mice using MACS separation kit
+(Pan T cell isolation Kit II, Miltenyi Biotech) according to the
+manufacturer’s instructions. Platelets were isolated as previously described [38] using two centrifugation steps with a
+HEPES-Tyrode buffer (129 mM NaCl, 8.9 mM NaHCO3,
+2.8 mM KCl, 0.8 mM KH2PO4, 5.6 mM glucose, 10 mM
+HEPES, 0.8 mM MgCl2). Prior to RNA isolation and protein
+lysate preparation in order to perform RT-PCR or Western blot
+analysis, T cells were stimulated with Dynabeads® Mouse TActivator CD3/CD28 for 48 h (Life Technologies) and macrophages and neutrophils were activated with LPS overnight.
+Statistics
+All results are expressed as mean±standard error of the mean
+(SEM) except for ordinal functional outcome scales which
+were depicted as scatter plots, including median with the 25%
+percentile and the 75% percentile given in brackets in the text.
+The numbers of animals (n=10) necessary to detect a standardized effect size on infarct volumes ≥0.25 (Kcnk5−/− vs.
+C57BL/6 WT mice) was determined via a priori sample size
+calculation with the following assumptions: α=0.05, β=0.2
+(power 80 %), and mean of 20 % standard deviation of the
+mean (GraphPad Stat Mate 2.0, GraphPad Software). For
+statistical analysis, the GraphPad Prism 5 software package
+was used. Data were tested for Gaussian distribution with the
+Kolmogorov-Smirnov normality test and then analyzed by
+one-way ANOVA, or in case of measuring the effects of two
+factors simultaneously by two-way ANOVA with post hoc
+Bonferroni adjustment for p values. Nonparametric functional
+outcome scores were compared by the Kruskal-Wallis test
+with post hoc Dunn’s corrections. If only two groups were
+compared, unpaired, two-tailed Student’s t test or the nonparametric Mann-Whitney test was applied. p<0.05 was considered statistically significant.
+
+Cell separation, cell stimulation, and flow cytometry
+For the isolation of brain-infiltrating mononuclear cells, a
+Percoll (GE Healthcare) density gradient (50/30 %) was used
+as described [38]. Myeloid immune cells and lymphocytes
+were incubated in fluorescence-activated cell sorter buffer
+with monoclonal antibodies anti-CD4-PerCP (BD
+Bioscience, 553052) anti-CD8a-PE (BD Bioscience,
+553032). Isotype controls were the following: anti-rat IgG2b
+PerCP (BD Bioscience, 550764) and anti-rat IgG2b PE (BD
+
+Results
+KCNK5 is induced under ischemic conditions in vivo
+and in vitro
+We first analyzed the expression of KCNK5 in the ischemic
+brains from WT mice with induced focal cerebral ischemia.
+Here, we chose a model of acute ischemic stroke in which
+
+978
+
+Pflugers Arch - Eur J Physiol (2015) 467:973–987
+
+mice were subjected to tMCAO. This disease model is supposed to trigger neuropathologic as well as inflammatory
+mechanisms and to influence the expression of different K2P
+channels [27, 28]. KCNK5 was only weakly detectable in
+whole-brain lysates of the contralesional (healthy) hemispheres from C57BL/6 WT mice. In the ipsilesional
+(ischemic) hemisphere, however, KCNK5 was significantly
+upregulated both on the messenger RNA (mRNA) and on the
+protein level. Quantitative RT-PCR analysis revealed a strong
+
+increase in Kcnk5 mRNA expression at 6 h (fold exchange 1.0
+± 0.01 for the contralesional side vs. 2.6 ± 0.03 for the
+ipsilesional side, p<0.001), 12 h (fold exchange 1.2±0.04
+for the contralesional side vs. 2.6±0.14 for the ipsilesional
+side, p<0.001), and 24 h (fold exchange 1.3±0.01 for the
+contralesional side vs. 3.4±0.02 for the ipsilesional side,
+p<0.001) after 60 min of tMCAO (Fig. 1(a)). The upregulation in Kcnk5 gene expression was also reflected by Western
+blot analysis as KCNK5 protein levels were markedly
+
+Fig. 1 Two-pore domain potassium channel KCNK5 is upregulated after
+acute ischemic stroke. (a) Relative Kcnk5 mRNA expression in
+ipsilesional and contralesional cortices and basal ganglia of WT mice 6,
+12, and 24 h after 60 min of tMCAO. Data are presented as means±SEM.
+n=4 mice, ***p<0.001, one-way ANOVA followed by the Bonferroni
+multiple comparison test compared with controls (contralesional brain
+tissue). (b) Protein expression levels of KCNK5 in the ipsilesional [i] and
+contralesional [c] cortices and basal ganglia of WT mice subjected to
+60 min of tMCAO were analyzed by immunoblotting 24 h after stroke. βactin served as a loading control. One representative immunoblot is
+shown. (b’) Densitometric quantification confirms increased KCNK5
+
+expression after stroke. AU, arbitrary units. Data are presented as
+means±SEM. n=3 or 4 mice, *p<0.05, one-way ANOVA followed by
+the Bonferroni multiple comparison test compared with controls
+(contralesional brain tissue). (c) Immunohistochemical localization of
+KCNK5 and neuronal marker NeuN in the ipsilesional and contralesional
+cortices of WT mice 24 h after 60 min of tMCAO. Double labeling (right
+columns) reveals neuronal KCNK5 upregulation in the ischemic brain
+area. DAPI staining was used to visualize cell nuclei. One representative
+panel per group out of three independent experiments is shown (scale bar
+represents 50 μm)
+
+Pflugers Arch - Eur J Physiol (2015) 467:973–987
+
+elevated in the ischemic cortices (mean optical density 0.6±
+0.06 for the contralesional side vs. 1.0 ± 0.13 for the
+ipsilesional side, p>0.05) and basal ganglia (mean optical
+density 0.5±0.10 for the contralesional side vs. 1.0±0.14 for
+the ipsilesional side, p<0.05) after stroke (Fig. 1(b and b’)).
+This result was validated by immunohistochemistry using a
+KCNK5-specific antibody. Twenty-four hours after 60 min of
+tMCAO, a strong KCNK5 staining could be detected within
+the ischemic brain area of WT mice, whereas KCNK5 was
+completely absent in the nonischemic brain (Fig. 1(c)).
+Notably, double labeling with neuronal marker NeuN revealed
+that KCNK5 expression in vivo, i.e. after tMCAO, was specifically restricted to ischemic neurons, an observation that
+could also be confirmed in vitro (Fig. 2). Incubation of vital
+brain slices (Fig. 2(a)) or hippocampal neuronal cell cultures
+(Fig. 2(b)) from WT mice for 4 h under hypoxic conditions
+mimicked the in vivo phenotype as only ischemic neurons—
+as visualized by neuronal marker NeuN—expressed KCNK5.
+Normoxia, by contrast, was unable to induce KCNK5
+
+Fig. 2 KCNK5 is upregulated in neurons under ischemic conditions
+ex vivo and in vitro. a Immunohistochemical localization of KCNK5
+and neuronal marker NeuN in vital brain slices of WT mice incubated
+ex vivo for 6 h under hypoxic conditions. Double labeling reveals KCNK5
+upregulation in ischemic neurons. DAPI staining was used to visualize
+DNA. One representative panel per group out of three independent experiments is shown (scale bar represents 50 μm). b Expression of KCNK5 in
+ischemic neurons was confirmed by immunostaining of cultivated primary hippocampal neurons incubated for 4 h under normoxic (mid panel) or
+hypoxic (lower panel) conditions. Purity of the neuronal cell culture was
+confirmed by neuronal marker NeuN (upper panel). KCNK5 was not
+detectable under normoxia, but was markedly upregulated by hypoxia.
+NeuN staining was used as a marker for neuronal cell quality. DAPI
+staining was used to visualize cell nuclei. One representative panel per
+group out of three independent experiments is shown (scale bar represents
+100 μm)
+
+979
+
+upregulation (Fig. 2b) which is in line with a previous report
+[30]. Taken together, our data indicate that the K2P channel
+KCNK5 is strongly induced by ischemic conditions in vivo,
+ex vivo, and in vitro and therefore suggest a major functional
+involvement of KCNK5 in ischemic stroke.
+KCNK5 deficiency protects from ischemic stroke
+Based on the observation that hypoxia specifically induces
+KCNK5 upregulation, we next investigated the functional role
+of KCNK5 in experimental cerebral ischemia. We subjected
+male 6- to 8-week-old Kcnk5−/− mice and C57BL/6 WT mice
+to 60 min of tMCAO and assessed infarct volumes as well as
+neurologic and functional deficits 24 h afterwards. Stroke
+volumes on day 1 were significantly reduced, by ≈40 %, in
+Kcnk5−/− mice compared with those in WT controls (88.0±
+4.3 mm3 for WT vs. 53.8±7.8 mm3 for Kcnk5−/−, p<0.01;
+Fig. 3(a)). Importantly, smaller infarct volumes in Kcnk5−/−
+mice also translated into significantly improved functional
+outcomes compared with those in WT controls as assessed
+by the Bederson score, reflecting the global neurologic status
+(median 3.0 [2.0, 3.0] for WT vs. 2.0 [1.5, 3.0] for Kcnk5−/−,
+p<0.01; Fig. 3(a’)) and the grip test reflecting motor function
+and coordination (median 2.0 [2.0, 3.0] for WT vs. 3.0 [3.0,
+4.0] for Kcnk5−/−, p<0.01; Fig. 3(a’)).
+To investigate if KCNK5 deficiency only provides stroke
+protection in the acute phase (day 1, Fig. 3(a)), we also
+determined infarct volumes and stroke development in
+Kcnk5−/− mice and controls over a longer period after ischemic stroke (Fig. 3(b)). Serial MRI on living mice confirmed
+smaller stroke volumes in Kcnk5−/− mice 24 h after tMCAO as
+hyperintense areas on T2-weighted images which are typical
+for acute cerebral infarction were significantly smaller than
+those in WT mice (105.9 ± 6.5 mm3 for WT vs. 76.5 ±
+11.1 mm3 for Kcnk5−/−, p<0.05; Fig. 3(b’)). On day 7 after
+tMCAO, the size of infarctions assessed in individual Kcnk5−/
+−
+mice by sequential MRI remained significantly smaller than
+that in the controls (78.2± 9.0 mm3 for WT vs. 50.43±
+5.2 mm3 for Kcnk5−/−, p<0.05; Fig. 3(b’)) and infarctions
+did not increase over time, thus excluding delayed infarct
+growth (p>0.05). The alleged shrinkage in infarct volume in
+both groups 1 week after stroke was because of infarct maturation and subsequent “fogging effects” on MRI [4] rather
+than a true reduction in infarct volumes.
+KCNK5 deficiency protects from neuronal apoptosis
+Next, we sought to elucidate the underlying mechanisms of
+the stroke protective phenotype observed in Kcnk5−/− mice
+after tMCAO. Based on our findings that (i) KCNK5 expression is strongly induced in ischemic neurons 24 h after stroke
+(Figs. 1 and 2), and that (ii) KCNK5 deficiency decreases
+infarct volumes and neurologic deficits in the same
+
+980
+
+Pflugers Arch - Eur J Physiol (2015) 467:973–987
+
+Fig. 3 KCNK5 deficiency ameliorates outcome in a mouse model of
+acute ischemic stroke. (a) Representative TTC staining of three corresponding coronal brain sections of a 6-week-old male WT mouse and a 6week-old male Kcnk5−/− mouse 24 h after 60 min of tMCAO. The
+ischemic infarcts appear smaller in the Kcnk5−/− mouse, and this result
+was confirmed by infarct volumetry (lower panel). Data are presented as
+means±SEM. n=10 mice, **p<0.01, unpaired, two-tailed Student’s t test
+compared with WT mice. (a’) Neurological Bederson score (upper panel)
+and motor functional score (Grip test, lower panel) on day 1 after 60 min
+of tMCAO from WT and Kcnk5−/− mice. Data are presented as means. n=
+
+9 or 10 mice, **p<0.01, Mann-Whitney test compared with WT mice. (b)
+Serial magnetic resonance images of cerebral infarcts on days 1 and 7
+after 60 min of tMCAO in WT and Kcnk5−/− mice. Arrows and broken
+white lines indicate hyperintense ischemic lesions. Ischemic infarctions
+were reduced in Kcnk5−/− mice on day 1 after tMCAO compared with
+control mice (WT, left column). This significant effect is sustained until
+day 7 after stroke. (b’) This observation was confirmed by MRI-based
+infarct volumetry. Data are presented as means±SEM. n=3–9 mice,
+*p<0.05, two-way ANOVA followed by the Bonferroni multiple comparison test compared with WT mice (day 1 vs. day 7)
+
+experimental setting, we suggest an involvement of KCNK5
+in pro-apopototic pathways as described for other K2P channels [45]. Cerebral ischemia initiates phosphorylation and
+activation of the pro-survival transcription factor cAMP response element-binding protein (CREB) in neurons which has
+been implicated to trigger anti-apoptotic signaling and to
+attenuate neurodegeneration [36, 47]. Western blot analysis
+revealed that protein levels of both CREB and phosphorylated, i.e. activated, CREB indeed were significantly elevated in
+the ischemic cortices of Kcnk5−/− mice 24 h after stroke in
+
+comparison to those of WT controls (mean optical density of
+CREB 1.2±0.08 for WT vs. 1.7±0.09 for Kcnk5−/−, p<0.001;
+mean optical density of Phospho-CREB 1.8±0.21 for WT vs.
+3.0±0.27 for Kcnk5−/−, p<0.001; Fig. 4(a and a’)). No differences between the groups were observed in the ipsilesional
+basal ganglia (p>0.05). Besides promoting neuronal survival
+via CREB activation, KCNK5 might also participate in antiapoptotic mechanisms to prevent neuronal damage, a highly
+detrimental process in stroke pathogenesis [37, 56]. Therefore,
+we analyzed the amount of typical pro-apoptotic factors like
+
+Pflugers Arch - Eur J Physiol (2015) 467:973–987
+
+981
+
+Fig. 4 KCNK5 deficiency confers neuroprotection after acute ischemic
+stroke. (a) Representative Western blot results of cAMP response
+element-binding protein (CREB) and phosphorylated CREB (Ser133)
+in the ischemic cortices and basal ganglia (b.g.) of WT and Kcnk5−/−
+mice on day 1 after 60 min tMCAO. β-actin served as a loading control.
+One representative immunoblot is shown. (a’) Bands were quantified by
+densitometry. AU, arbitrary units. Data are presented as means±SEM. n=
+5 or 6 mice, ***p<0.001, one-way ANOVA followed by the Bonferroni
+multiple comparison test compared with WT mice. (b) Representative
+Western blot analysis of apoptosis-inducing factor 1 (AIF1) and caspase-9
+in ischemic cortices and basal ganglia (b.g.) of WT and Kcnk5−/− mice on
+day 1 after 60 min tMCAO. β-actin served as a loading control. One
+
+representative immunoblot is shown. (b’) Bands were quantified by
+densitometry. AU, arbitrary units. Data are presented as means±SEM.
+n=5 or 6 mice, **p<0.01, one-way ANOVA followed by the Bonferroni
+multiple comparison test compared with WT mice. (c) Representative
+brain sections from WT mice and Kcnk5−/− mice 24 h after tMCAO,
+stained for the neuronal marker NeuN, and subjected to TUNEL assay to
+show apoptosis. DAPI staining was used to visualize DNA (scale bar
+represents 100 μm). (c’) Quantification of TUNEL-positive cells per
+square millimeter in the ischemic hemisphere. Data are presented as
+means±SEM. n=4 or 5 mice, *p<0.05, unpaired, two-tailed Student’s t
+test compared with WT mice
+
+apoptosis-inducing factor 1 (AIF1) [24] and caspase-9 [56] in
+the ischemic brains of Kcnk5−/− and WT mice 24 h after
+tMCAO by Western blot (Fig. 4(b)). In accordance with a
+pro-apoptotic effect of KCNK5 in ischemic neurons, significantly lower levels of both AIF1 and caspase-9 could be
+detected in the ipsilesional cortices of KCNK5-deficient mice
+(mean optical density of AIF1 0.9±0.05 for WT vs. 0.7±0.04
+
+for Kcnk5−/−, p<0.01; mean optical density of caspase-9 3.5±
+0.09 for WT vs. 2.7±0.21 for Kcnk5−/−, p<0.01; Fig. 4(b’)),
+whereas no differences could be observed in the ipsilesional
+basal ganglia between the groups (p>0.05). Consistent with
+decreased amounts of pro-apoptotic factors in ischemic brain
+areas of Kcnk5−/−, we also found significantly less apoptotic
+cells within the ischemic hemispheres of Kcnk5−/− mice.
+
+982
+
+Double labeling of brain sections with TUNEL and NeuN
+revealed widespread apoptosis of neurons in WT mice 24 h
+after stroke onset (Fig. 4(c)). In contrast, the number of apoptotic neurons was significantly lower in Kcnk5−/− mice subjected to tMCAO (TUNEL-positive cells/mm2 84±14 for WT
+vs. 48±6 for Kcnk5−/−, p<0.05; Fig. 4(c’)) and thus substantiated the neuroprotective effect of KCNK5 deficiency.
+KCNK5 deficiency does not affect T cell function
+or blood-brain barrier stability after tMCAO
+It is well established that postischemic inflammatory immune
+responses remarkably contribute to infarct development, progression, and functional damage after stroke. As KCNK5 was
+previously shown to be expressed and functionally relevant on
+human T lymphocytes under pathogenic circumstances [9,
+10], we analyzed whether KCNK5 on T cells might play a
+role in cerebral ischemia as well. We first evaluated the
+expression of KCNK5 in different blood cell types (Fig. 5(a,
+b)). While KCNK5 expression was nearly absent in platelets,
+macrophages, and neutrophils neither with nor without stimulation, considerable Kcnk5 mRNA levels were detected in
+naïve CD4+ and CD8+ T cells, which even increased after
+stimulation (Fig. 5(a)). Of note, platelets do not have a nucleus, and only low mRNA levels, but also KCNK5 protein, was
+not apparent on platelets (Fig. 5(b)). Furthermore, Western
+blot analysis confirmed the presence of KCNK5 in naïve T
+cells as well as its upregulation upon stimulation, i.e. in an
+inflammatory milieu, such as in ischemic stroke. To investigate whether KCNK5 influences the infiltration of CD4+ or
+CD8+ T cells into the ischemic brain, we determined the
+absolute numbers of viable CD4+ and CD8+ T cells per
+ipsilesional hemisphere 24 h after tMCAO in Kcnk5−/− mice
+and WT controls (Fig. 5(c)). Flow cytometry did not reveal
+significant differences in the number of CD8+ T cells entering
+the ischemic brains of Kcnk5−/− mice or WT mice (87±13 for
+WT vs. 48±6 for Kcnk5−/−). The number of CD4+ T cells,
+however, was remarkably lower in Kcnk5−/− mice than that in
+WT controls (251±67 for WT vs. 93±18 for Kcnk5−/−). As
+KCNK5 deficiency appreciably effects CD4+ T cell infiltration after stroke, we finally performed adoptive transfer experiments using Rag1−/− mice together with Kcnk5−/− or WT
+CD4+ T cells to detect an effect of KCNK5 on T cells in stroke
+pathophysiology. Rag1−/− mice are well suited to analyze
+lymphocyte function in cerebral ischemia as these mice lack
+T cells and B cells and are profoundly protected from ischemic
+neurodegeneration in the tMCAO model [38, 39]. Untreated
+Rag1−/− mice were protected from ischemic stroke as infarct
+volumes and neurologic deficits were markedly reduced at
+day 1 after 60 min of tMCAO (39.8±5.7 mm3; Bederson score
+median, 2.0 [1.0, 2.75]; Grip test median, 4.5 [3.25, 5.0];
+Fig. 5(d and d’)) which is in line with those of previous reports
+[38–40]. However, reconstitution of Rag1−/− mice with CD4+
+
+Pflugers Arch - Eur J Physiol (2015) 467:973–987
+
+T cells from WT mice and Kcnk5−/− mice restored the susceptibility of Rag1−/− mice to ischemic brain damage as infarct
+size (90.1±6.8 mm3 for Rag1−/− +WT CD4+, p<0.001, and
+86.0 ± 5.2 mm3 for Rag1−/− + Kcnk5−/− CD4+, p < 0.001,
+p > 0.05 for Rag1−/− + WT CD4+ vs. Rag1−/− + Kcnk5−/−
+CD4 + ; Fig. 5(d)) and neurologic outcome measures
+(Bederson score median, 3.0 [2.5, 3.0] for Rag1−/− +WT
+CD4+, p<0.05, and median, 3.0 [3.0, 3.0] for Rag1−/− +
+Kcnk5−/− CD4+, p<0.05, p>0.05 for Rag1−/− +WT CD4+ vs.
+Rag1−/− +Kcnk5−/−; grip-test score median, 3.0 [3.0, 3.5] for
+Rag1−/− +WT CD4+, p<0.05, and median, 3.0 [3.0, 3.75] for
+Rag1−/− +Kcnk5−/− CD4+, p<0.05, p>0.05 for Rag1−/− +WT
+CD4+ vs. Rag1−/− +Kcnk5−/−; Fig. 5(d’)) were indistinguishable from WT mice. This indicates that the beneficial effect of
+KCNK5 deficiency in experimental stroke is independent of
+KCNK5-mediated T cell functions.
+Blood-brain barrier (BBB) disruption and vascular dysfunction represent frequent causes of secondary infarct
+growth, and K2P channels have been reported to be expressed
+in the vasculature [31, 12]. To investigate if KCNK5 deficiency alters the structure and function of the cerebral vasculature
+in ischemic stroke, we first analyzed the constitution of the
+overall brain vessel architecture in naïve Kcnk5−/− and WT
+mice (Fig. S1 and Table S1). Ink perfusion revealed a complete circle of Willis and identical middle cerebral artery
+trunks in both genotypes, indicating that KCNK5 does not
+influence the constitution of the cerebral vasculature under
+physiologic conditions. This assumption was corroborated by
+our in vitro observation that KCNK5 is nearly absent in
+cultivated endothelial cells, i.e. the cells that line the interior
+of blood vessel, of WT mice under normoxic conditions
+(Fig. S2a). Ischemia, however, resulted in a slight, but detectable, upregulation of KCNK5 in endothelial cells. The contribution of KCNK5 to stroke-related endothelial dysfunction
+and BBB disruption was finally assessed in vivo in Kcnk5−/−
+and WT mice subjected to 60 min of tMCAO. Determination
+of brain edema revealed similar amounts in Kcnk5−/− mice and
+WT controls on day 1 after stroke (12.2±1.0 % for WT vs. 9.5
+±1.7 % for Kcnk5−/−, p>0.05; Fig. S2b). In line with these
+findings, the presence and degradation of the tight junction
+protein occludin was unchanged in the cortices and basal
+ganglia of Kcnk5−/−mice compared with that of WT mice
+(mean optical density of cortex 0.8±0.08 for WT vs. 0.8±
+0.04 for Kcnk5−/−, p>0.05; mean optical density of basal
+ganglia 0.8 ± 0.03 for WT vs. 0.9 ± 0.03 for Kcnk5 −/− ,
+p>0.05; Fig. S2 c and c’).
+
+Discussion
+We here show that deletion of the K2P channel KCNK5 has a
+direct neuroprotective effect in an animal model of acute
+
+Pflugers Arch - Eur J Physiol (2015) 467:973–987
+
+Fig. 5 Functional expression of KCNK5 in immune cells is negligible in
+acute ischemic stroke. (a) Relative Kcnk5 mRNA expression in blood cell
+types and in kidney tissue. Macrophages, neutrophils, and T cells were
+stimulated (stim +) in vitro with LPS and CD3/CD28 dynabeads, respectively. Data are presented as mean±SEM. n=2–5 experiments/mice. (b)
+Protein expression of KCNK5 in different blood cell types and in kidney
+tissue. Immunoblots were independently replicated from three different
+experiments using β-actin as a loading control. One representative immunoblot is shown. (c) The absolute numbers of viable CD4+ and CD8+
+T cells per ipsilesional hemisphere were quantified by flow cytometry
+24 h after tMCAO in WT and Kcnk5−/− mice. Data are presented as means
+±SEM. n=2 or 3 mice. (d) Representative TTC staining of three corresponding coronal brain sections of a Rag1−/− mouse lacking B and T cells,
+a Rag1−/− mouse reconstituted with WT CD4+ cells, and a Rag1−/− mouse
+
+983
+
+reconstituted with Kcnk5−/− CD4+ cells. In all, 750,000 purified CD4+ T
+cells were adoptively transferred into Rag1−/− mice 24 h before 60 min of
+tMCAO, and infarct volumes were determined on day 1. The stroke
+protective effect observed in Rag1−/− mice could be reversed by adoptive
+transfer of CD4+ T cells from both WT mice and Kcnk5−/− mice. Data are
+presented as means±SEM. n=8 or 9 mice, ***p<0.001, n.s. not significant, one-way ANOVA followed by the Bonferroni multiple comparison
+test compared with controls (Rag1−/− or Rag1−/− +WT CD4+ T cells). (d’)
+Neurological Bederson score (left panel) and motor functional score (Grip
+test, right panel) on day 1 after 60 min tMCAO from the mice shown in
+Fig. 5d. Data are presented as means. n=8 or 9 mice, *p<0.05, n.s. not
+significant, Kruskal-Wallis test followed by Dunn’s multiple comparison
+test compared with controls (Rag1−/− or Rag1−/− +WT CD4+ T cells)
+
+984
+
+ischemic stroke. After tMCAO in WT mice, KCNK5 was
+significantly upregulated in the ischemic hemisphere in contrast to the contralateral side. These findings were corroborated by ex vivo experiments demonstrating that incubation of
+brain slices and neuronal cell cultures under hypoxic conditions initiated KCNK5 upregulation. Genetic deletion of
+KCNK5 largely reduced ischemic brain damage after experimental stroke by promoting neuronal survival and concomitantly reducing neuronal cell death. Importantly, although
+KCNK5 was also found to be expressed in T lymphocytes
+and endothelial cells, KCNK5 deficiency did not attenuate T
+cell-driven stroke pathology or BBB impairment. In summary,
+KCNK5 upregulation in ischemic neurons appears to induce
+neuronal apoptosis by as yet unidentified mechanisms.
+Our findings add another piece to the puzzle of K2P channel
+involvement in cerebral ischemia. Genetic deletion or pharmacological blockade of KCNK3 (TASK1) increased infarct
+volumes in different stroke models with transient artery occlusion [49] or permanent artery occlusion [52]. It is assumed
+that KCNK3 mediates a protective hyperpolarizing effect on
+neurons after cerebral ischemia. Moreover, KCNK3 is
+expressed in the adrenal gland, and an additional effect via
+blood pressure reduction in male animals has been proposed
+[52]. In contrast, Kcnk9−/− (Task3−/−) mice displayed no altered sensitivity to cerebral ischemia [27, 52]. Activation of
+KCNK2 (TREK1), another neuroprotective K2P channel, by
+polyunsaturated fatty acids prevents neuronal death in both an
+in vivo model of transient global ischemia and an in vitro
+model of excitotoxicity [14]. In agreement, deletion of
+TREK1 resulted in a significantly worse outcome in different
+animal models of experimental stroke [32]. Kcnk10−/−
+(Traak−/−) animals displayed no altered sensitivity to cerebral
+ischemia [52].
+A higher expression of KCNK5 has previously been shown
+in hippocampal neurons and perivascular astrocytes in a rat
+model of pilocarpine-induced epileptic seizures [35]. In contrast, human KCNK5 has been shown to be transcriptionally
+downregulated by chronic hypoxia [16]. A binding site for the
+O2-sensitive protein Elk-1 was identified as an underlying
+mechanism. However, comparing murine and human DNA
+sequences, we were not able to identify a comparable Elk-1
+binding site in the promoter region of the murine Kcnk5 gene.
+Furthermore, an involvement of this pathway in our model
+seems unlikely, as regulation of potassium channel expression
+is different between chronic hypoxia and acute O2 sensing.
+The ischemic/hypoxic period in our in vivo acute animal
+model was 60 min followed by complete reperfusion in contrast to longer incubation periods (48 h in vitro) reported
+before [16]. Although KCNK5 upregulation might represent
+a common cellular response in different pathophysiological
+conditions, one can only speculate on the underlying mechanisms as well as on the functional consequences. Different
+pathways and stimuli might lead to KCNK5 upregulation.
+
+Pflugers Arch - Eur J Physiol (2015) 467:973–987
+
+Interestingly, KCNK5 was recently described to be present
+in two estrogen receptor α-positive (EFα+) tumor cell lines
+where it was further upregulated by 17β-estradiol treatment
+[2]. Notably, ischemic stroke increases expression of
+ERα, and this receptor is not suggested to be involved
+in estrogen-mediated neuroprotection in female mice
+[59]. An involvement of ERα signaling in KCNK5
+upregulation in ischemic stroke is at the moment still
+speculative but certainly worth future investigations,
+especially as the Kcnk5 enhancer sequence contains
+estrogen-responsive elements [21].
+In principle, potassium channels can exert both anti- and
+pro-apoptotic effects [11, 42]. Activation of potassium channels favors apoptosis in a broad array of cell types and pathophysiological scenarios (see Lang et al. [42] for a comprehensive overview). It has still not been fully understood which
+factors drive potassium channels to act in an anti- or proapoptotic way in a specific pathophysiological scenario.
+Interestingly, an intracellular depletion of K+ ions is a sign
+of early neuronal apoptosis [55], and K2P channels have been
+shown to be involved in this pathway [45]. An important role
+of KCNK5 has been shown for so-called regulatory volume
+decrease, in which osmotocially swollen cells recover their
+volume by KCl loss through selective channels in different
+cell types [3, 15, 21]. Regulatory volume decrease pathways
+are often similar to apoptotic volume decrease, and in accordance, KCNK5 has been shown to induce apoptosis in kidney
+cells and B lymphocytes [41, 54]. We here suggest that neurons in acute ischemic stroke start to express KCNK5, which
+exerts an important role in initiating the apoptotic cascade.
+Since the overall brain architecture and physiology (i.e.
+cerebral blood flow, brain water content, and ion composition)
+as well as selective regional vulnerability can differ profoundly between different brain regions after cerebral ischemia [13,
+60], we decided to analyze apoptotic mechanisms in the
+ischemic cortices and basal ganglia separately. Indeed, we
+found that differences in (phospho-)CREB, AIF-1, and
+caspase-9 expression between WT and Kcnk5−/− mice were
+mainly restricted to ischemic cortices, indicating differential
+regional regulation.
+Inflammatory pathways promote secondary damage in
+stroke [38, 44]. Previously, an important role for KCNK5
+was identified for T lymphocyte activation and effector functions under autoimmune inflammatory conditions [9, 10]. A
+potential role of KCNK5 on early infiltrating immune cells in
+the stroke area could be excluded as macrophages and neutrophil granulocytes did not show any KCNK5 expression.
+Furthermore, adoptive transfer experiments using WT or
+Kcnk5−/− CD4+ T lymphocytes in RAG1-deficient animals
+did not show significant changes between the experimental
+groups. Therefore, an additional involvement of KCNK5 in
+the immune system seems to be unlikely in the context of
+acute ischemic stroke.
+
+Pflugers Arch - Eur J Physiol (2015) 467:973–987
+
+At present, a lack of highly selective KCNK5 inhibitors
+prohibits further investigations on pharmacological KCNK5
+modulation in stroke research. However, some negative effects of systemic KCNK5 blockade due to its wide expression
+in peripheral organs should be taken into consideration.
+Experiments using Kcnk5−/− mice suggest an involvement in
+renal bicarbonate reabsorption as well as in central breathing
+control. Furthermore, KCNK5 has, among others, been linked
+to lymphocyte activation, intestinal smooth muscle cells, and
+sperm function [21]. Therefore, the clinical vigilance for
+KCNK5 inhibitors should include a broad possible spectrum
+of unwanted side effects such as altered electrolyte compositions, digestion problems, infertility, or growth retardation.
+In summary, our findings describe an as yet unknown
+involvement of KCNK5 channels in acute ischemic stroke,
+most likely via a participation in neuronal apoptotic pathways.
+Further pharmacological studies will be warranted to evaluate
+the therapeutic potential of KCNK5 blockade in ischemic
+neurodegeneration.
+Acknowledgments The authors thank Daniela Urlaub, Andrea Sauer,
+and Jeannette Budde for expert technical assistance. This study was
+supported by Else-Kröner-Fresenius Stiftung (2010_A95 to CK and
+SGM and 2012_A88 to SB and SGM), by Deutsche Stiftung für
+Neurologie (research grant to SGM and CK), by Innovative Medizinische
+Forschung Münster (I-BI111316 to SB and SGM), by Interdisciplinary
+Center for Clinical Research (IZKF) Münster (SEED 03/12 to SB), and
+by DFG (FOR 1086, TP2 to TB and SGM).
+Conflict of interest The authors report no conflict of interest.
+
+References
+1. Aller MI, Wisden W (2008) Changes in expression of some two-pore
+domain potassium channel genes (KCNK) in selected brain regions
+of developing mice. Neuroscience 151(4):1154–1172
+2. Alvarez-Baron CP, Jonsson P, Thomas C, Dryer SE, Williams C
+(2011) The two-pore domain potassium channel KCNK5: induction
+by estrogen receptor alpha and role in proliferation of breast cancer
+cells. Mol Endocrinol 25(8):1326–1336
+3. Andronic J, Bobak N, Bittner S, Ehling P, Kleinschnitz C, Herrmann
+AM, Zimmermann H, Sauer M, Wiendl H, Budde T, Meuth SG,
+Sukhorukov VL (2013) Identification of two-pore domain potassium
+channels as potent modulators of osmotic volume regulation in
+human T lymphocytes. Biochim Biophys Acta 1828(2):699–707
+4. Asato R, Okumura R, Konishi J (1991) “Fogging effect” in MR of
+cerebral infarct. J Comput Assist Tomogr 15(1):160–162
+5. Ballanyi K (2004) Protective role of neuronal KATP channels in
+brain hypoxia. J Exp Biol 207(Pt 18):3201–3212
+6. Barriere H, Belfodil R, Rubera I, Tauc M, Lesage F, Poujeol C, Guy
+N, Barhanin J, Poujeol P (2003) Role of TASK2 potassium channels
+regarding volume regulation in primary cultures of mouse proximal
+tubules. J Gen physiol 122(2):177–190
+7. Bederson JB, Pitts LH, Germano SM, Nishimura MC, Davis RL,
+Bartkowski HM (1986) Evaluation of 2,3,5-triphenyltetrazolium
+chloride as a stain for detection and quantification of experimental
+cerebral infarction in rats. Stroke 17(6):1304–1308
+
+985
+8. Bederson JB, Pitts LH, Tsuji M, Nishimura MC, Davis RL,
+Bartkowski H (1986) Rat middle cerebral artery occlusion: evaluation of the model and development of a neurologic examination.
+Stroke 17(3):472–476
+9. Bittner S, Bobak N, Feuchtenberger M, Herrmann AM, Gobel K,
+Kinne RW, Hansen AJ, Budde T, Kleinschnitz C, Frey O, Tony HP,
+Wiendl H, Meuth SG (2011) Expression of K2P5.1 potassium channels on CD4+ T lymphocytes correlates with disease activity in
+rheumatoid arthritis patients. Arthritis Res Ther 13(1):R21
+10. Bittner S, Bobak N, Herrmann AM, Gobel K, Meuth P, Hohn KG,
+Stenner MP, Budde T, Wiendl H, Meuth SG (2010) Upregulation of
+K2P5.1 potassium channels in multiple sclerosis. Ann Neurol 68(1):
+58–69
+11. Bittner S, Budde T, Wiendl H, Meuth SG (2010) From the background to the spotlight: TASK channels in pathological conditions.
+Brain Pathol 20(6):999–1009
+12. Bittner S, Ruck T, Schuhmann MK, Herrmann AM, Maati HM,
+Bobak N, Gobel K, Langhauser F, Stegner D, Ehling P, Borsotto
+M, Pape H-C, Nieswandt B, Kleinschnitz C, Heurteaux C, Galla H-J,
+Budde T, Wiendl H, Meuth SG (2013) Endothelial TWIK-related
+potassium channel-1 (TREK1) regulates immune-cell trafficking into
+the CNS. Nat Med 19(9):1161–1165
+13. Bladin CF, Chambers BR (1994) Frequency and pathogenesis of
+hemodynamic stroke. Stroke 25(11):2179–2182
+14. Blondeau N, Widmann C, Lazdunski M, Heurteaux C (2002)
+Polyunsaturated fatty acids induce ischemic and epileptic tolerance.
+Neurosci 109(2):231–241
+15. Bobak N, Bittner S, Andronic J, Hartmann S, Muhlpfordt F,
+Schneider-Hohendorf T, Wolf K, Schmelter C, Gobel K, Meuth P,
+Zimmermann H, Doring F, Wischmeyer E, Budde T, Wiendl H,
+Meuth SG, Sukhorukov VL (2011) Volume regulation of murine T
+lymphocytes relies on voltage-dependent and two-pore domain potassium channels. Biochim Biophys Acta 1808(8):2036–2044
+16. Brazier SP, Mason HS, Bateson AN, Kemp PJ (2005) Cloning
+of the human TASK-2 (KCNK5) promoter and its regulation
+by chronic hypoxia. Biochem Biophys Res Commun 336(4):
+1251–1258
+17. Brede M, Braeuninger S, Langhauser F, Hein L, Roewer N, Stoll G,
+Kleinschnitz C (2011) a(2)-adrenoceptors do not mediate neuroprotection in acute ischemic stroke in mice. J Cereb Blood Flow Metab
+31(10):27–34
+18. Cahalan MD, Chandy KG (2009) The functional network of ion
+channels in T lymphocytes. Immunol Rev 231(1):59–87
+19. Carandang R, Seshadri S, Beiser A, Kelly-Hayes M, Kase CS,
+Kannel WB, Wolf PA (2006) Trends in incidence, lifetime risk,
+severity, and 30-day mortality of stroke over the past 50 years.
+JAMA 296(24):2939–2946
+20. Chen YJ, Raman G, Bodendiek S, O’Donnell ME, Wulff H (2011)
+The KCa3.1 blocker TRAM-34 reduces infarction and neurological
+deficit in a rat model of ischemia/reperfusion stroke. J Cereb Blood
+Flow Metab 31(12):2363–2374
+21. Cid LP, Roa-Rojas HA, Niemeyer MI, Gonzalez W, Araki M,
+Araki K, Sepulveda FV (2013) TASK-2: a K2P K(+) channel
+with complex regulation and diverse physiological functions.
+Front Physiol 4:198
+22. Connolly ES Jr, Winfree CJ, Stern DM, Solomon RA, Pinsky DJ
+(1996) Procedural and strain-related variables significantly affect
+outcome in a murine model of focal cerebral ischemia.
+Neurosurgery 38(3):523–531
+23. Cotten JF, Zou HL, Liu C, Au JD, Yost CS (2004) Identification of
+native rat cerebellar granule cell currents due to background K
+channel KCNK5 (TASK-2). Brain Res Mol Brain Res 128(2):112–
+120
+24. Culmsee C, Zhu C, Landshamer S, Becattini B, Wagner E, Pellecchia
+M, Blomgren K, Plesnila N (2005) Apoptosis-inducing factor triggered by poly(ADP-ribose) polymerase and Bid mediates neuronal
+
+986
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+35.
+
+36.
+37.
+
+38.
+
+39.
+
+Pflugers Arch - Eur J Physiol (2015) 467:973–987
+cell death after oxygen-glucose deprivation and focal cerebral ischemia. J Neurosci 25(44):10262–10272
+Dirnagl U, Endres M (2014) Found in translation: preclinical stroke
+research predicts human pathophysiology, clinical phenotypes, and
+therapeutic outcomes. Stroke 45(5):1510–1518
+Dirnagl U, Fisher M (2012) International, multicenter randomized
+preclinical trials in translational stroke research: It’s time to act. J
+Cereb Blood Flow Metab 32(6):933–935
+Ehling P, Bittner S, Bobak N, Schwarz T, Wiendl H, Budde T,
+Kleinschnitz C, Meuth SG (2010) Two pore domain potassium
+channels in cerebral ischemia: a focus on K2P9.1 (TASK3,
+KCNK9). Exp Transl Stroke Med 2(1):14
+Ehling P, Göb E, Bittner S, Budde T, Ludwig A, Kleinschnitz C,
+Meuth SG (2013) Ischemia-induced cell depolarization: does the
+hyperpolarization-activated cation channel HCN2 affect the outcome
+after stroke in mice. Exp Transl Stroke Med 5(1):2040–7378
+Gabriel A, Abdallah M, Yost CS, Winegar BD, Kindler CH (2002)
+Localization of the tandem pore domain K+ channel KCNK5
+(TASK-2) in the rat central nervous system. Brain Res Mol Brain
+Res 98(1–2):153–163
+Gestreau C, Heitzmann D, Thomas J, Dubreuil V, Bandulik S,
+Reichold M, Bendahhou S, Pierson P, Sterner C, Peyronnet-Roux J,
+Benfriha C, Tegtmeier I, Ehnes H, Georgieff M, Lesage F, Brunet JF,
+Goridis C, Warth R, Barhanin J (2010) Task2 potassium channels set
+central respiratory CO2 and O2 sensitivity. Proc Natl Acad Sci U S A
+107(5):2325–2330
+Goonetilleke L, Quayle J (2012) TREK-1 K(+) channels in the
+cardiovascular system: their significance and potential as a therapeutic target. Cardiovasc Ther 30(1):e23–29
+Heurteaux C, Guy N, Laigle C, Blondeau N, Duprat F, Mazzuca M,
+Lang-Lazdunski L, Widmann C, Zanzouri M, Romey G, Lazdunski
+M (2004) TREK-1, a K+ channel involved in neuroprotection and
+general anesthesia. Embo J 23(13):2684–2695
+Heydenreich N, Nolte MW, Göb E, Langhauser F, Hofmeister M,
+Kraft P, Albert-Weissenberger C, Brede M, Varallyay C, Göbel K,
+Meuth SG, Nieswandt B, Dickneite G, Stoll G, Kleinschnitz C (2012)
+C1-inhibitor protects from brain ischemia-reperfusion injury by combined antiinflammatory and antithrombotic mechanisms. Stroke
+43(9):2457–2467
+Kim D (2005) Physiology and pharmacology of two-pore domain
+potassium channels. Curr Pharm Des 11(21):2717–2736
+Kim JE, Kwak SE, Kang TC (2009) Upregulated TWIK-related acidsensitive K+ channel-2 in neurons and perivascular astrocytes in the
+hippocampus of experimental temporal lobe epilepsy. Epilepsia
+50(4):654–663
+Kitagawa K (2007) CREB and cAMP response element-mediated
+gene expression in the ischemic brain. FEBS J 274(13):3210–3217
+Kleinschnitz C, Grund H, Wingler K, Armitage ME, Jones E, Mittal
+M, Barit D, Schwarz T, Geis C, Kraft P, Barthel K, Schuhmann MK,
+Herrmann AM, Meuth SG, Stoll G, Meurer S, Schrewe A, Becker L,
+Gailus-Durner V, Fuchs H, Klopstock T, de Angelis MH, JandeleitDahm K, Shah AM, Weissmann N, Schmidt HHHW (2010) Poststroke inhibition of induced NADPH oxidase type 4 prevents oxidative stress and neurodegeneration. PLoS Biol 8(9):e1000479
+Kleinschnitz C, Kraft P, Dreykluft A, Hagedorn I, Gobel K,
+Schuhmann MK, Langhauser F, Helluy X, Schwarz T, Bittner S,
+Mayer CT, Brede M, Varallyay C, Pham M, Bendszus M, Jakob P,
+Magnus T, Meuth SG, Iwakura Y, Zernecke A, Sparwasser T,
+Nieswandt B, Stoll G, Wiendl H (2013) Regulatory T cells are strong
+promoters of acute ischemic stroke in mice by inducing dysfunction
+of the cerebral microvasculature. Blood 121(4):679–691
+Kleinschnitz C, Schwab N, Kraft P, Hagedorn I, Dreykluft A,
+Schwarz T, Austinat M, Nieswandt B, Wiendl H, Stoll G (2010)
+Early detrimental T-cell effects in experimental cerebral ischemia are
+neither related to adaptive immunity nor thrombus formation. Blood
+115(18):3835–3842
+
+40. Kraft P, Göb E, Schuhmann MK, Göbel K, Deppermann C,
+Thielmann I, Herrmann AM, Lorenz K, Brede M, Stoll G, Meuth
+SG, Nieswandt B, Pfeilschifter W, Kleinschnitz C (2013) FTY720
+ameliorates acute ischemic stroke in mice by reducing thromboinflammation but not by direct neuroprotection. Stroke 44(11):
+3202–3210
+41. L’Hoste S, Poet M, Duranton C, Belfodil R, e Barriere H, Rubera I,
+Tauc M, Poujeol C, Barhanin J, Poujeol P (2007) Role of TASK2 in
+the control of apoptotic volume decrease in proximal kidney cells. J
+Biol Chem 282(50):36692–36703
+42. Lang F, Shumilina E, Ritter M, Gulbins E, Vereninov A, Huber SM
+(2006) Ion channels and cell volume in regulation of cell proliferation
+and apoptotic cell death. Contrib Nephrol 152:142–160
+43. Langhauser F, Göb E, Kraft P, Geis C, Schmitt J, Brede M, Göbel K,
+Helluy X, Pham M, Bendszus M, Jakob P, Stoll G, Meuth SG,
+Nieswandt B, McCrae KR, Kleinschnitz C (2012) Kininogen deficiency protects from ischemic neurodegeneration in mice by reducing
+thrombosis, blood-brain barrier damage, and inflammation. Blood
+120(19):4082–4092
+44. Langhauser F, Kraft P, Gob E, Leinweber J, Schuhmann MK, Lorenz
+K, Gelderblom M, Bittner S, Meuth SG, Wiendl H, Magnus T,
+Kleinschnitz C (2014) Blocking of alpha4 integrin does not protect
+from acute ischemic stroke in mice. Stroke 45(6):1799–1806
+45. Lauritzen I, Zanzouri M, Honore E, Duprat F, Ehrengruber MU,
+Lazdunski M, Patel AJ (2003) K+-dependent cerebellar granule
+neuron apoptosis. Role of task leak K+ channels. J Biol Chem
+278(34):32068–32076
+46. MacDonald JF, Xiong ZG, Jackson MF (2006) Paradox of Ca2+
+signaling, cell death and stroke. Trends Neurosci 29(2):75–81
+47. Mantamadiotis T, Lemberger T, Bleckmann SC, Kern H, Kretz
+O, Martin Villalba A, Tronche F, Kellendonk C, Gau D,
+Kapfhammer J, Otto C, Schmid W, Schutz G (2002)
+Disruption of CREB function in brain leads to neurodegeneration. Nat Genet 31(1):47–54
+48. Meuth SG, Budde T, Kanyshkova T, Broicher T, Munsch T, Pape HC
+(2003) Contribution of TWIK-related acid-sensitive K+ channel 1
+(TASK1) and TASK3 channels to the control of activity modes in
+thalamocortical neurons. J Neurosci 23(16):6460–6469
+49. Meuth SG, Kleinschnitz C, Broicher T, Austinat M, Braeuninger S,
+Bittner S, Fischer S, Bayliss DA, Budde T, Stoll G, Wiendl H (2009)
+The neuroprotective impact of the leak potassium channel TASK1 on
+stroke development in mice. Neurobiol Dis 33(1):1–11
+50. Misonou H, Mohapatra DP, Menegola M, Trimmer JS (2005)
+Calcium- and metabolic state-dependent modulation of the voltagedependent Kv2.1 channel regulates neuronal excitability in response
+to ischemia. J Neurosci 25(48):11184–11193
+51. Moran PM, Higgins LS, Cordell B, Moser PC (1995) Age-related
+learning deficits in transgenic mice expressing the 751-amino acid
+isoform of human beta-amyloid precursor protein. Proc Natl Acad
+Sci U S A 92(12):5341–5345
+52. Muhammad S, Aller MI, Maser-Gluth C, Schwaninger M, Wisden W
+(2010) Expression of the kcnk3 potassium channel gene lessens the
+injury from cerebral ischemia, most likely by a general influence on
+blood pressure. Neuroscience 167(3):758–764
+53. Murakami K, Kondo T, Epstein CJ, Chan PH (1997)
+Overexpression of CuZn-superoxide dismutase reduces hippocampal injury after global ischemia in transgenic mice. Stroke
+28(9):1797–1804
+54. Nam JH, Woo JE, Uhm DY, Kim SJ (2004) Membrane-delimited
+regulation of novel background K+ channels by MgATP in murine
+immature B cells. J Biol Chem 279(20):20643–20654
+55. Pasantes-Morales H, Tuz K (2006) Volume changes in neurons: hyperexcitability and neuronal death. Contrib Nephrol
+152:221–240
+56. Plesnila N (2004) Role of mitochondrial proteins for neuronal cell
+death after focal cerebral ischemia. Acta Neurochir Suppl 89:15–19
+
+Pflugers Arch - Eur J Physiol (2015) 467:973–987
+57. Reyes R, Duprat F, Lesage F, Fink M, Salinas M, Farman N,
+Lazdunski M (1998) Cloning and expression of a novel pHsensitive two pore domain K+ channel from human kidney. J Biol
+Chem 273(47):30863–30869
+58. Runden-Pran E, Haug FM, Storm JF, Ottersen OP (2002) BK channel
+activity determines the extent of cell degeneration after oxygen and
+glucose deprivation: a study in organotypical hippocampal slice
+cultures. Neuroscience 112(2):277–288
+59. Sampei K, Goto S, Alkayed NJ, Crain BJ, Korach KS, Traystman RJ,
+Demas GE, Nelson RJ, Hurn PD (2000) Stroke in estrogen receptoralpha-deficient mice. Stroke 31(3):738–743, discussion 744
+
+987
+60. Schielke GP, Yang GY, Shivers BD, Betz AL (1998) Reduced ischemic brain injury in interleukin-1 beta converting enzyme-deficient
+mice. J Cereb Blood Flow Metab 18(2):180–185
+61. Schmittgen TD, Livak KJ (2008) Analyzing real-time PCR data by
+the comparative C(T) method. Nat Protoc 3(6):1101–1108
+62. Sutherland BA, Minnerup J, Balami JS, Arba F, Buchan AM,
+Kleinschnitz C (2012) Neuroprotection for ischaemic stroke: translation from the bench to the bedside. Int J Stroke 7(5):407–418
+63. Talley EM, Solorzano G, Lei Q, Kim D, Bayliss DA (2001) Cns
+distribution of members of the two-pore-domain (KCNK) potassium
+channel family. J Neurosci 21(19):7491–7505
+
+

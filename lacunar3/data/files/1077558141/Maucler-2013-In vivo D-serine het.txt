@@ -1,0 +1,997 @@
+﻿[Link]
+pubs.acs.org/chemneuro
+[Link]
+http://pubs.acs.org/action/showImage?doi=10.1021/cn4000549&iName=master.img-000.jpg&w=239&h=74
+In Vivo D‑Serine Hetero-Exchange through Alanine-Serine-Cysteine
+(ASC) Transporters Detected by Microelectrode Biosensors
+Caroline Maucler,†,‡ Pierre Pernot,†,‡ Natalia Vasylieva,†,‡,§ Loredano Pollegioni,∥,⊥
+and Stéphane Marinesco*,†,‡
+†INSERM U1028; CNRS UMR5292 Lyon Neuroscience Research Center, AniRA-Neurochem technological platform, team
+WAKING, Lyon F-69000, France
+‡Université Claude Bernard Lyon 1, Lyon F-69000, France
+§Institut de nanotechnologie de Lyon, CNRS UMR-5270, INSA de Lyon, France
+∥Dipartimento di Biotecnologie e Scienze della Vita, Università degli studi dell’Insubria, Varese, Italy
+⊥“The Protein Factory”, Centro Interuniversitario di Ricerca in Biotecnologie Proteiche ICRM-CNR Milano, Politecnico di Milano
+and Università degli studi dell’Insubria, Italy
+ABSTRACT: D-Serine, a co-agonist of N-methyl D-aspartate
+(NMDA) receptors, has been implicated in neurological and
+psychiatric disorders such as cerebral ischemia, lateral
+amyotrophic sclerosis, or schizophrenia. D-Serine signaling
+represents an important pharmacological target for treating
+these diseases; however, the biochemical mechanisms controlling
+extracellular D-serine levels in vivo are still unclear. DSerine
+heteroexchange through small neutral amino acid
+transporters has been shown in cell cultures and brain slices and could provide a biochemical mechanism for the control of
+D-serine extracellular concentration in vivo. Alternatively, exocytotic D-serine release has also been proposed. In this study, the
+dynamics of D-serine release and clearance were explored in vivo on a second-by-second time scale using microelectrode
+biosensors. The rate of D-serine clearance in the rat frontal cortex after a microionophoretic injection revealed a transportermediated
+uptake mechanism. D-Serine uptake was blocked by small neutral L-amino acids, implicating alanine-serine-cysteine
+(ASC) transporters, in particular high affinity Asc-1 and low affinity ASCT2 transporters. Interestingly, changes in alanine, serine,
+or threonine levels resulted in D-serine release through ASC transporters. Asc-1, but not ASCT2, appeared to release D-serine in
+response to changes in amino acid concentrations. Finally, neuronal silencing by tetrodotoxin increased D-serine extracellular
+concentration by an ASC-transporter-dependent mechanism. Together, these results indicate that D-serine heteroexchange
+through ASC transporters is present in vivo and may constitute a key component in the regulation of D-serine extracellular
+concentration.
+KEYWORDS: electrochemical detection, amperometry, rat, extracellular concentration, interstitial fluid
+D-Serine, an endogenous co-agonist of glutamatergic N-methyl
+D-aspartate (NMDA) receptors, has been implicated in human
+diseases related to NMDA receptor dysfunction such as
+schizophrenia, amyotrophic lateral sclerosis, and cerebral
+ischemia.1−4 The pharmacological modulation of extracellular
+D-serine levels is therefore an exciting avenue of research for the
+treatment of these pathologies. For example, an increase in D-
+serine may compensate for the hypoactivation of NMDA
+receptors observed in schizophrenia,5−7 whereas a reduction of
+D-serine levels could reduce NMDA-mediated excitotoxicity in
+ischemia or neurodegenerative diseases.4,8−10
+The biochemical mechanisms controlling extracellular D-
+serine levels in vivo are still a matter of debate. Concerning D-
+serine clearance, in vitro studies have shown that D-serine is
+taken up from the extracellular space by transporter-mediated
+uptake.11 At least two small neutral amino acid transporters
+have been suggested to mediate D-serine uptake. The neuronal,
+Na+ independent alanine-serine-cysteine 1 (Asc-1) transporter12,13 has a high affinity for serine, alanine, cysteine, and
+threonine and is selective for small neutral D- and L-amino
+acids.14 Asc-1 is responsible for most of the D-serine uptake by
+synaptosomes.15 Another candidate for D-serine uptake is the
+Na+-dependent alanine-serine-cysteine-threonine 2 transporter
+(ASCT2),16 which has a high affinity for L-alanine, L-serine, L-
+threonine, L-glutamine, and L-asparagine, and has a comparatively
+lower affinity for D-serine.17 ASCT2 is predominantly
+expressed in glia, and, despite its low affinity for D-serine, it has
+been implicated in D-serine uptake in cell culture studies.11,18−20
+Special Issue: Monitoring Molecules in Neuroscience
+Received: February 22, 2013
+Accepted: March 31, 2013
+Published: March 31, 2013
+Research Article
+pubs.acs.org/chemneuro
+© 2013 American Chemical Society 772 dx.doi.org/10.1021/cn4000549| ACS Chem. Neurosci. 2013, 4, 772−781
+(8.0.0.2542.399303669 PDF Extractor SDK TRIAL VERSIOn)
+[Link]
+http://pubs.acs.org/action/showImage?doi=10.1021/cn4000549&iName=master.img-001.jpg&w=314&h=301
+The mechanisms of D-serine release are also a matter of
+debate. D-Serine may be released via Ca2+-dependent
+exocytosis21−23 or via amino acid heteroexchange through
+ASC transporters in neurons and/or astrocytes.24 For example,
+experiments on astrocyte cultures and brain slices showed D-
+serine release in response to small neutral amino acids,
+suggesting the existence of an amino acid heteroexchange
+mechanism involving D-serine release coupled to the transport
+of another amino acid in the opposite direction.11,25
+In this study, we used an enzymatic microelectrode biosensor
+that allows selective D-serine detection on a second-by-second
+time scale26,27 to directly test the existence of a D-serine
+heteroexchange mechanism in vivo. We used local delivery of D-
+serine, L-amino acids, or S-methyl-L-cysteine (SMLC, an Asc-1
+inhibitor)28,29 to the vicinity of our microelectrode biosensor.
+Using this approach, we identified the function of ASC
+transporters in D-serine uptake and release in the cortex of
+anesthetized rats, and proposed specific roles for Asc-1 and
+ASCT2 transporters in the regulation of D-serine levels.
+■ RESULTS AND DISCUSSION
+To obtain direct in vivo information on the rapid dynamics of
+D-serine release and clearance, we used a specific D-serine
+biosensor made with DAAO purified from yeast. This biosensor
+minimizes potential tissue lesions and preserves the integrity of
+the blood-brain barrier.26,27 The DAAO enzyme (it preferentially
+oxidizes neutral D-amino acids like D-alanine, D-proline, or
+D-serine30), but the DAAO-based microelectrode biosensors are
+selective for D-serine in the CNS in vivo, as it is highly enriched
+in D-serine compared to other neutral D-amino acids.31 We have
+previously demonstrated a negligible difference (6%) between
+D-serine concentrations estimated by our biosensors and those
+measured using HPLC in rat brain homogenates.26 Finally, D-
+serine electrochemical signals are undetectable in the
+cerebellum, a brain structure known to be devoid of D-serine
+in adulthood,32,33 further confirming the specificity of our
+measurements.27
+Identification of a D-Serine Uptake Mechanism in
+Vivo. To study the uptake of D-serine in vivo, we used a
+theoretical model designed to study the diffusion of neurotransmitters
+in the brain.34 The experimental paradigm consists
+of releasing a molecule within the brain parenchyma and
+detecting its diffusion with a biosensor placed at a small
+distance from the release point. The detected concentration
+profile is then fitted with a mathematical equation that takes
+into account diffusion, the tortuosity of the extracellular space,
+and uptake. In the current study, we used an ionophoretic
+source to release D-serine and measured its concentration with
+a D-serine microelectrode biosensor placed a few hundred
+micrometers away from the pipet (Figure 1A). D-Serine is a
+neutral molecule at physiological pH and can be ejected using
+the electro-osmotic flow created by the applied potential in the
+microionophoresis pipet.35,36 Following this protocol, the
+microelectrode biosensor detected an increase in D-serine
+oxidation current followed by a return to baseline. This pattern
+was reproducible over multiple injections (Figure 1A). In such
+conditions, the concentration of D-serine, at a distance r from
+the releasing point can be described with the equation:37
+Figure 1. Identification of a D-serine reuptake mechanism in vivo. (A) Experimental design in which D-serine is injected by microionophoresis near a
+biosensor in the rat frontal cortex. Overlay of six successive D-serine microinjections showing a reproductible D-serine signal detected by the
+biosensor. (B) D-Serine clearance in 0.3% agarose can be modeled with free diffusion and almost no uptake. (C) The kinetics of D-serine clearance in
+vivo reveals an uptake mechanism that limits D-serine lifetime in the extracellular space.
+ACS Chemical Neuroscience Research Article
+dx.doi.org/10.1021/cn4000549| ACS Chem. Neurosci. 2013, 4, 772−781 773
+(TRIAL VER. PDF Extractor SDK 8.0.0.2542.1169831597)
+[Link]
+http://pubs.acs.org/action/showImage?doi=10.1021/cn4000549&iName=master.img-002.jpg&w=430&h=168
+λ α
+∂
+∂
+=
+∂
+∂
+∂
+∂
++ − ′ ⎜ ⎟ 
+⎛
+⎝
+⎞
+⎠
+C
+t
+D
+r r
+r
+C
+r
+Q
+k C
+1
+2 2 
+2
+(1)
+where D is the diffusion coefficient of D-serine, λ is the
+tortuosity, and α is the extracellular fraction of the brain (i.e.,
+the ratio of the volume of the extracellular space by the total
+volume of the tissue, estimated at 0.2 in the cerebral cortex37).
+Q is defined as the source term, which describes the release of
+D-serine during the injection. For ionophoretic ejection of a
+neutral molecule, Q is directly proportional to the applied
+current in the glass pipet.36,38 The last term represents the
+uptake component which, for simplification, is assumed to be
+linear with D-serine concentration (k′C, where k′ is the uptake
+constant). Under these conditions, this equation has an
+analytical solution described by the following equation:37
+π α 
+θ θ =
+*
++ − C r  t 
+Q
+D r 
+h r  t  h r  t ( ,  ) 
+8
+[ ( , , )  ( , ,  ) ]
+(2)
+with
+θ θ  θ θ = − − h r  t  g r  t  g r  t  T  r ( , , )  [ ( , , )  ( , ,  , )]exp( ) 
+0 (3)
+with
+θ θ = * + * g r t  H t  r  D t  D t ( ,  ,  )  ()erfc( /2  ) (4)
+and where T
+0
+is the duration of the injection, D* = D/λ2 is the
+apparent diffusion coefficient in the brain (corrected for
+tortuosity) and θ =( k′/D*)1/2.
+We first validated this model in a gel of 0.3% agar, which has
+been found to be a good model for the diffusion of molecules in
+the brain extracellular fluid.37 In this model, the current
+recorded at our biosensors increased shortly after the initiation
+of D-serine ionophoresis, and decayed when the injection was
+stopped. These experimental curves were then fitted with eq 2
+to yield a computed value of D and k′. In the agar medium, we
+determined a value of D = 8.0 ± 0.8× 10−10 m2·s−1 (n = 15)
+that is in good agreement with the chemical constants
+published in the literature,39 and a very low value of k′ = 1.5
+± 0.08 × 10−5 s−1, which reflects the absence of D-serine
+reuptake in agar (Figure 1B). We then fitted the pattern of D-
+serine extracellular concentrations following the ionophoretic
+application of D-serine to the frontal cortex of anesthetized rats
+with our theoretical model. The distance between the
+ionophoresis pipet and the biosensor ranged from 150 to 300
+μm (as determined at the end of each experiment), and each
+ionophoretic D-serine injection lasted between 5 and 100 s at
+200−1000 nA. For each experiment, we chose a different T
+0
+because the distance between the pipet and the biosensor
+varied (sensitivity of the biosensor and number of D-serine
+molecules ejected by unit of current also varied). When a
+measurable D-serine signal was detected, T
+0
+(always between 5
+and 100s) was then fixed throughout the experiment and used
+for modeling the D-serine curve.
+We fitted eq 2 to our amperometric recordings using a set of
+five coefficients that could be varied during the fitting
+computation. Initial values had to be provided to the model:
+the distance between the sensor and the injection pipet (r), and
+the duration of the injection (T
+0
+) were set equal to their actual
+experimental values; D* was set to 3 × 10−10 m2·s−1 which
+corresponded to D =8× 10−10 m2·s−1 (according to our results
+obtained using 0.3% agar) and λ = 1.6 (according to tortuosity
+values determined by Nicholson and Sykova37); θ was set
+initially at 104, and Q, representing the number of injected D-
+serine molecules, was set to 10−11. This initial value was set
+empirically, but could vary freely during the fitting process to
+end with very different values thatfitted the experimental curve.
+The five parameters r, T
+0
+, D*, θ and Q, were then allowed to
+vary freely until the fit converged. The fit was estimated to be
+correct if the residuals were evenly distributed around zero, and
+if the fitted values of r (distance) and T
+0
+(duration) stayed
+within 20% of their real experimental value (Figure 1C).
+When D-serine was injected by ionophoresis into the cortex,
+its concentration near the biosensor increased rapidly, and
+returned to baseline values much more quickly than did D-
+serine in our experiments in agar (Figure 1). Basal levels of D-
+serine could not be determined using the current approach but
+have been measured around 2.3 μM in the frontal cortex using
+similar biosensors.27 The fact that the D-serine signal returned
+to baseline was a good indication (1) that all of the D-serine
+that had been injected was cleared from the extracellular space,
+and (2) that the sensitivity of the biosensor was not affected by
+the procedure. When we fitted the theoretical equation to our
+in vivo recordings, we obtained an uptake constant of k′ =
+0.128 ± 0.01 s−1 (n = 28), which represents the rate of D-serine
+uptake in the cortical parenchyma.
+Figure 2. Small neutral amino acids interfere with D-serine reuptake. (A) Infusion of L-alanine by reverse microdialysis near the biosensor
+dramatically decreased the efficiency of D-serine reuptake. (B) L-Lysine infusion did not modify D-serine uptake. (C) Summary results of the
+transporter competition experiments using infusion of L-amino acids: D-serine uptake is reduced by the application of L-alanine, L-serine, and L-
+threonine, but not L-lysine or L-arginine, suggesting that D-serine uptake is mediated by ASC transporters. *p < 0.01.
+ACS Chemical Neuroscience Research Article
+dx.doi.org/10.1021/cn4000549| ACS Chem. Neurosci. 2013, 4, 772−781 774
+(TRIAL PDF Extractor SDK 8.0.0.2542-1237615743)
+[Link]
+http://pubs.acs.org/action/showImage?doi=10.1021/cn4000549&iName=master.img-003.jpg&w=325&h=143
+Small Neutral Amino Acids Compete with D-Serine
+Uptake. No specific D-serine transporter has been identified so
+far; however, the Asc and ASCT families of amino acid
+exchangers can transport D-serine.15,16
+D-Serine is reported to
+be taken up by nonspecific small neutral amino acid
+transporters of the alanine-serine-cysteine (ASC) family, such
+as the ASCT2 or Asc-1 transporters.11,14,15 To determine the
+role of ASC transporters in D-serine uptake in vivo, we
+examined D-serine uptake in the presence of interfering small
+neutral amino acids, which would compete with D-serine for
+transporter-mediated uptake. This was accomplished by
+infusing L-threonine, L-alanine, and L-serine near the microelectrode
+biosensor by reverse dialysis (Figure 2A).
+The infusion of L-threonine, L-alanine, and L-serine (100 mM
+in the microdialysis probe) strongly reduced D-serine uptake
+(Figure 2A). In the presence of these amino acids, D-serine
+ionophoresis yielded much higher D-serine peak concentrations
+at the biosensor, and the D-serine decay time increased. The D-
+serine uptake coefficient (k′) was considerably diminished by
+the presence of the small neutral amino acids, reaching 8.2 ± 5
+× 10−4 s−1 in the presence of L-threonine (2.6% of the control
+value, n = 6, p < 0.01), 2.0 ± 0.8 × 10−2 s−1 for L-alanine
+(10.5% of the control value, n =6,p < 0.01), and 4.9 ± 0.8×
+10−2 s−1 for L-serine (28% of the control value, n =6,p < 0.01;
+Figure 2C), indicating that D-serine reuptake was at least
+partially blocked by these amino acids. It should be noted that
+L-amino acids are neither substrates nor inhibitors of the
+DAAO enzyme,40,41 and thus do not a ffect biosensor
+response.42 We also tested two basic amino acids that are not
+substrates for the ASCT2 or Asc-1 transporters: L-arginine and
+L-lysine.11,14 These two amino acids did not interfere
+significantly with D-serine uptake in vivo (Figure 2B). The
+value of the uptake coefficient (k′) was 1.1 ± 0.3 × 10−1 s−1 in
+the presence of L-arginine (89% of the control value, n =6,p =
+0.75) and 1.2 ± 0.3 × 10−1 s−1 in the presence of L-lysine (95%
+of the control value, n =6,p = 0.9; Figure 2C). These results
+indicate that D-serine reuptake in vivo is inhibited by
+competition with small neutral amino acids, suggesting that
+ASC transporters such as ASCT2 or Asc-1 are involved in D-
+serine uptake.
+Distinguishing Asc-1- and ASCT2-Mediated Transport
+Using S-Methyl-L-cysteine or L-Asparagine. Of the Asc
+family, only the Asc-1 subtype is present in the brain, and is
+predominantly expressed in neurons. The high affinity of Asc-1
+for D-serine (K
+M
+=20μM)15 has made it the primary candidate
+for D-serine transport in vivo.11,24,43 ASCT transporters are
+Na+-dependent, and both ASCT1 and ASCT2 are present in
+the brain 16 However, ASCT1 does not appear to transport D-
+serine.44 As the affinity of ASCT2 for D-serine is lower than that
+of Asc-1 (about 1 mM),20 its role in D-serine regulation has
+been underappreciated. However, in synaptosomes prepared
+from Asc-1 knockout mice, a residual D-serine uptake could be
+detected that was likely reliant upon ASCT2 transporters.
+Therefore, significant D-serine uptake through ASCT2 transporters
+could not be excluded a priori.
+To identify the role for each of these subtypes, we infused rat
+cortex with L-asparagine, a specific substrate of ASCT2
+transporters with very low affinity for Asc-116,17 and one of
+the most efficient inhibitors of ASCT2-mediated D-alanine
+transport.12,17 We also administered SMLC, an Asc-1 transporter
+blocker that is inactive on system A transporters or
+serotonin, norepinephrine, and glutamate reuptake.28,29 Benzylserine
+, another pharmacological compound that blocks ASCT2
+transporters,45 could not be used in this study because it
+produced a nonspecific electrochemical signal that was detected
+by our biosensor. We found that L-asparagine (100 mM)
+infused into the vicinity of the D-serine biosensor successfully
+competed with D-serine. Under these conditions, the D-serine
+reuptake constant decreased from 5.6 ± 1.6 × 10−2 s−1 to 4.3 ±
+1.5 × 10−2 s−1 (−24.7%, n = 6, p = 0.011, Figure 3A, C).
+Similarly, SMLC (1 mM) infusion reduced the D-serine uptake
+coefficient from 5.1 ± 1.3 × 10−2 s−1 to 3.3 ± 1 × 10−2 s−1
+(−35.6%, n = 6, p = 0.015, Figure 3B, C). These results
+therefore indicate that D-serine reuptake in vivo is mediated by
+both ASCT2 and Asc-1.
+Interestingly, 1 mM SMLC infusion did not produce any
+significant change in D-serine basal level. However, in a recent
+microdialysis study, Ishiwata et al. detected an increase in
+extracellular D-serine in response to 1 mM, but not 100 μM
+SMLC.29 This apparent discrepancy probably results from the
+fact that our electrochemical recordings were performed at a
+distance of about 500 μm from the microdialysis probe, at
+which the effective SMLC concentration was much lower. The
+fact that SMLC did not change basal D-serine levels at the
+biosensor suggests that its concentration was probably in the
+order of 100 μM or below, at which no change in other L-amino
+acids have been detected.29
+Figure 3. Asc-1 and ASCT2 contribute to D-serine reuptake. (A) Infusion of L-asparagine, a specific substrate of ASCT2 (n = 6) or (B) SMLC, a
+specific Asc-1 inhibitor (n = 6), both decreased D-serine reuptake. (C) Summary results of D-serine uptake inhibition by L-asparagine or SMLC,
+implicating both Asc-1 and ASCT2 transporters in D-serine reuptake. The uptake coefficient k′ is expressed as the percentage of its value when D-
+serine alone is injected. *p < 0.05.
+ACS Chemical Neuroscience Research Article
+dx.doi.org/10.1021/cn4000549| ACS Chem. Neurosci. 2013, 4, 772−781 775
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.631187952)
+[Link]
+http://pubs.acs.org/action/showImage?doi=10.1021/cn4000549&iName=master.img-004.jpg&w=239&h=110
+D-Serine Release Evoked by Small Neutral Amino
+Acids. In our reverse dialysis experiments, we rapidly delivered
+large amounts of L-amino acids into the vicinity of the D-serine
+microelectrode biosensor. Because ASC transporters are known
+to mediate amino acid hetero-exchange in vitro,11,12,25 we were
+interested in determining the effects that increased small
+neutral amino acid concentrations may have upon extracellular
+D-serine levels. The infusion of L-alanine, L-threonine, or L-
+serine into the rat cortex induced a rapid, transient increase in
+the oxidation current measured by the D-serine microelectrode
+biosensor. This transient increase in D-serine level was followed
+by a return to a slightly elevated baseline (Figure 4A). For
+example, L-threonine infusion induced an increase in the D-
+serine extracellular concentration peaking at 16 ± 5 μM (Figure
+4A). By contrast, infusion of basic amino acids such as L-lysine
+or L-arginine, that are not substrate for ASCT2 or Asc-1
+transporters, produced only a small shift in the baseline D-serine
+oxidation current recorded by the microelectrode biosensor
+(Figure 4B). There was no difference between the shift in the
+baseline current at the biosensor after L-arginine or L-lysine
+infusion and that observed 15−20 min after L-serine, L-alanine,
+or L-threonine infusion (well after the peak in D-serine
+concentration). Therefore, there was no evidence that the D-
+serine extracellular concentration remained significantly
+elevated after its transient increase induced by small neutral
+amino acids. The slight shift in the baseline electrochemical
+current was more likely due to a small nonspecific oxidation
+current due to the large amounts of L-amino acids delivered to
+the tissue.
+As L-alanine, L-threonine, and L-serine can compete with D-
+serine reuptake at the ASCT2 and Asc-1 transporters, it could
+be argued that the increase in D-serine concentration evoked by
+infusion of these amino acids may result from an inhibition of
+D-serine reuptake, followed by D-serine accumulation in the
+extracellular space. It is unlikely, however, that reuptake
+blockade alone could explain the kinetics of D-serine
+concentration changes that we observed. Transporter blockade
+usually produces a slow, long lasting increase in neurotransmitter
+levels (see, for example Oldenziel et al.46 for
+blockade of glutamate transporters, or Martina et al.47 for
+blockade of glycine transporters), which is not compatible with
+the biphasic changes produced by the infusion of small neutral
+amino acids. Here, D-serine release probably occurred through
+an amino acid heteroexchange that quickly depleted the
+intracytoplasmic pool of free D-serine, resulting in a transient
+increase in D-serine extracellular concentration lasting only a
+few minutes. The D-serine released locally by heteroexchange
+was probably cleared by free diffusion into the brain
+parenchyma within a few minutes.
+We then sought to discriminate the roles of ASCT2 and Asc-
+1 in D-serine release. By infusing L-asparagine near the
+biosensor, we tested whether ASCT2 transporters would be
+specifically challenged to release endogenous D-serine by a
+heteroexchange mechanism. However, L-asparagine produced
+only modest changes in D-serine-mediated oxidation currents
+that were smaller than those produced by L-alanine, L-
+threonine, or L-serine, and were not significantly different
+from the effects of L-arginine or L-lysine, which are not
+substrates for ASC transporters (area under the curve =
+1031.66 ± 626 μM·s for L-asparagine, 3490.51 ± 1022 for L-
+threonine, and 146.03 ± 35.33 for L-arginine, n = 6). An
+ANOVA followed by an LSD posthoc test revealed a significant
+difference between these amino acids (F(2,17) = 5.62, p =
+0.013) with a significant difference between L-threonine and L-
+asparagine (p = 0.02) but not between L-asparagine and L-
+arginine (p = 0.34).This result indicates that L-asparagine, that
+specifically triggers amino acid heteroexchange through ASCT2
+transporters, does not induce significant D-serine release. In
+separate experiments, we tested the ability of L-serine to induce
+D-serine release in the presence of the Asc-1 blocker SMLC. We
+again detected small deflections in D-serine-mediated oxidation
+currents that were significantly smaller than those produced by
+L-serine alone (2689.44 ± 1002.41 for L-serine, 382.43 ±
+170.38 μM·s for L-serine + SMLC, 146.03 ± 35.33 for arginine,
+n = 6). ANOVA followed by LSD posthoc test (F(2,17) =
+3.624, p = 0.048) indicated that L-serine in the presence of
+SMLC was significantly different from L-serine alone (p =
+0.048) but not from L-arginine (p = 0.83, Figure 5C, D). These
+data demonstrate that D-serine release was impaired when Asc-1
+transporters were blocked by SMLC.
+D-Serine release therefore appeared to be mediated by Asc-1
+but not ASCT2 transporters. The implication of ASCT2
+transporters in D-serine uptake but not release is supported by
+their predominant localization in astrocytes (see however ref
+16), which possess high intracellular L-glutamine and L-serine
+concentration. Therefore, as ASCT2 transporters have a much
+higher affinity for L-glutamine and L-serine, they should
+preferentially release these molecules when challenged by
+extracellular small neutral amino acids.48−50 Previous work has
+shown that astrocytes likely release D-serine through other
+pathways, such as volume-regulated anion channels or
+exocytosis.21,23,24
+Effects of Neuronal Silencing by Tetrodotoxin (TTX)
+on D-Serine Extracellular Concentration. We then
+determined whether such heteroexchange mechanisms could
+be engaged during more physiological functioning of the CNS.
+In this regard, several studies have reported that D-serine levels
+can be modified by changes in neuronal activity.43,51−55 In the
+current experiments, we were unable to observe any obvious
+change in D-serine level in response to electrical stimulation in
+the cortex or in the hippocampus (data not shown). However,
+we clearly detected an increase in D-serine levels in response to
+the blockade of action potentials with TTX (+10.7 ± 5% in D-
+serine oxidation current, n =6,p = 0.04, Figure 6A). Local field
+potentials (LFPs) were apparent on the raw amperometric
+Figure 4. D-Serine release evoked by local infusion of small neutral
+amino acids. (A) L-Threonine infusion near the biosensor evokes an
+initial transient increase in extracellular D-serine concentrations that
+lasts approximately 5 min. In contrast, L-lysine infusion produces only
+a small nonspecific shift in the baseline current. (B) D-Serine release is
+evoked by the infusion of small neutral amino acids like L-alanine, L-
+serine, and L-threonine, but not by L-lysine or L-arginine. This amino
+acid profile suggests that D-serine release is mediated by ASC
+transporters.
+ACS Chemical Neuroscience Research Article
+dx.doi.org/10.1021/cn4000549| ACS Chem. Neurosci. 2013, 4, 772−781 776
+(DEMO PDF Extractor SDK 8.0.0.2542-698972098)
+[Link]
+http://pubs.acs.org/action/showImage?doi=10.1021/cn4000549&iName=master.img-005.jpg&w=239&h=281
+trace, before we averaged the signal to measure oxidation
+currents.56,57 LFPs rapidly diminished following TTX microinjection
+(100 μM), confirming a decrease in neuronal activity
+around the biosensor. This effect was accompanied by a slow
+increase in the D-serine signal. This increase was not detected
+by control biosensors (Figure 6A), and corresponded to an
+elevation of extracellular D-serine levels of 0.4 ± 0.09 μM. This
+effect is consistent with a previous study by Hashimoto et al.58
+Given that NMDA receptor activation can trigger nitric oxide
+(NO) release that inhibits SR,54 it is possible that TTX, by
+blocking neuronal transmission and NMDA receptor activation
+might have relieved this block and induced an increase in D-
+serine synthesis and release at least in part through this
+pathway.
+To determine the involvement of ASC transporters in the
+TTX-induced increase in D-serine, we injected rats systemically
+with a large dose of L-serine or L-lysine (1 g/kg i.p.). We
+reasoned that, as these amino acids cross the blood brain
+barrier, these systemic injections would raise the intracerebral
+concentrations of L-serine or L-lysine. Elevated L-serine (but not
+L-lysine) levels would thus interfere with the normal
+functioning of ASC transporters. In preliminary experiments,
+we quantified L-serine levels in rat brain homogenates using
+HPLC and determined that, 1 h following L-serine administration
+(1 g/kg i.p.), the intracerebral level of L-serine had
+more than doubled (441 ± 26 pmol/mg wet tissue in control
+animals, 1225 ± 276 pmol/mg 1 h after L-serine injection, n =
+6, p = 0.036), confirming an earlier report by Pernot et al.27
+When TTX was applied in vivo in L-serine injected rats, the
+increase in D-serine level was completely blocked. The D-serine
+signal remained stable or slightly decreased, similar to control
+recordings (−1.3 ± 1 pA, n = 6, p < 0.01, Figure 6B, C).
+However, after L-lysine injection, TTX produced an increase in
+the D-serine signal (+ 4.7 ±1 pA, n= 6, Figure 6B, C) of similar
+amplitude to that produced by TTX alone (+4.3 ± 2.1 pA).
+These results indicate that the effects of TTX on D-serine
+extracellular concentration are blocked via competition by small
+neutral amino acids, suggesting an involvement of ASC
+transporters in activity-dependent changes in D-serine levels.
+D-Serine Release: Heteroexchange versus Exocytosis.
+In addition to transporter-mediated D-serine release, some
+studies using astrocyte cultures have suggested that D-serine
+may also be released via Ca2+-dependent exocytosis.21−23 By
+analyzing synaptic currents in hippocampal slices, Henneberger
+et al.55 also suggested that D-serine release could be exocytotic.
+In contrast, a recent study found that D-serine can be released
+by neurons in primary culture and acute brain slices, and that
+this release is essentially Ca2+-insensitive, which is incompatible
+with exocytosis.24 In addition, neuronal D-serine release evoked
+by heteroexchange with exogenous D-isoleucine can modulate
+long-term potentiation in hippocampal slices.25 Although our
+results clearly implicate ASC transporters in extracellular D-
+serine regulation, we cannot rule out the possibility of an
+alternative exocytotic release pathway. Exocytotic D-serine
+release could potentially be specific to the synaptic cleft, and
+therefore not detectable by our microelectrode biosensors,
+which sample the extrasynaptic compartment. D-Serine stores
+have been identified in intracellular organelles present in
+astrocytes,22,33 and represent more than 99% of total D-serine
+present in the brain.27 In our experimental conditions, electrical
+stimulation did not produce detectable D-serine release in the
+extrasynaptic space, suggesting that if D-serine was released in
+response to neuronal stimulation, it would not significantly
+diffuse outside the synaptic cleft. Therefore, it is possible that D-
+serine is differentially regulated by hetero-exchange versus
+exocytosis in the extra- and intrasynaptic compartments,
+respectively. These two mechanisms could thus mediate
+different kinetics of D-serine fluctuation, whereby fast increases
+rely on exocytosis, and slower bidirectional adaptations might
+require mechanisms of hetero-exchange.
+Up to now, the identification of D-serine exocytosis has been
+almost exclusively restricted to astrocytes and Bergman
+glia,21,23,55,59 whereas Asc-1 transporters susceptible to release
+D-serine are preferentially neuronal. It is therefore possible that
+exocytosis and heteroexchange are D-serine release mechanisms
+utilized by glial cells and neurons, respectively. In support of
+this concept, an interesting model suggesting the existence of a
+serine shuttle between astrocytes and neurons has recently been
+proposed.49 Because SR expression is predominantly neuronal,
+D-serine synthesis would occur primarily in neurons, from
+which it would be released into the extracellular space to be
+taken up and stored in astrocytes. Our current study provides in
+vivo evidence that supports this model by placing Asc-1 and
+ASCT2 transporters in key positions to mediate such serine
+shuttle (Figure 7).
+Figure 5. Asc-1 but not ASCT2 contribute to D-serine release. (A) LThreonine
+infusion near the biosensor produced a transient increase in
+D-serine extracellular concentration that was much larger than that
+produced by L-asparagine or L-arginine. (B) Summary results of the
+overall amount of released D-serine (area under the curve in μM·s) by
+L-threonine, L-asparagine, or L-arginine (n = 9). (C) SMLC 
+significantly decreases D-serine release evoked by L-serine (n = 6).
+(D) Summary results of the overall amount of D-serine detected by the
+biosensor in response to the infusion of L-serine, L-serine in the
+presence of SMLC, or L-arginine. A significant proportion of D-serine is
+released through Asc-1 transporters.
+ACS Chemical Neuroscience Research Article
+dx.doi.org/10.1021/cn4000549| ACS Chem. Neurosci. 2013, 4, 772−781 777
+(8.0.0.2542,92544307 PDF Extractor SDK TRIAL)
+[Link]
+http://pubs.acs.org/action/showImage?doi=10.1021/cn4000549&iName=master.img-006.jpg&w=465&h=228
+[Link]
+http://pubs.acs.org/action/showImage?doi=10.1021/cn4000549&iName=master.img-007.png&w=346&h=112
+■ CONCLUSION
+The present results indicate that ASC transporters are
+important players in the regulation of extracellular D-serine
+concentrations in vivo by mediating both D-serine release and
+uptake. As D-serine is a potential new target for therapeutic
+intervention in schizophrenia, amyotrophic lateral sclerosis, and
+ischemia, it is likely that such hetero-exchange mechanisms will
+need to be taken into account in the development of new drugs
+targeting NMDA receptor activity. In particular, the development
+of specific inhibitors of Asc-1 or ASCT2 transporters
+administered alone, or in combination with exogenous D-serine,
+appears to be a promising avenue for the pharmacological
+modulation of D-serine levels in the brain.
+■ MATERIALS AND METHODS
+D-Serine Microelectrode Biosensors. D-Serine microelectrode
+biosensors were prepared as previously described.26,60 Briefly, the
+biosensors employed here consisted of a 25 μm 90% Pt/10% Ir wire
+(Goodfellow, Huntington, U.K.), whose tip (50 or 100 μm long,
+depending on the experiment) extrudes from a pulled glass micropipet.
+The platinum wire was covered with an electropolymerized layer of
+poly-m-phenylenediamine and a manually deposited layer of
+Rhodotorula gracilis D-amino acid oxidase (DAAO, EC 1.4.3.3.41,61),
+immobilized by cross-linking with poly(ethylene glycol) diglycidyl
+ether (PEGDE) at 55 °C during 2 h. This temperature is low enough
+to preserve the activity of the DAAO enzyme. The biosensors made
+using PEGDE at 55 °C showed a better sensitivity than those prepared
+using glutaraldehyde, indicating that denaturation, if present at all, is
+not a major problem for the functioning of the biosensors.62
+In Vivo Experiments. All in vivo experiments were performed on
+male Wistar rats (Elevage Janvier, Le Genest Saint Isle, France)
+weighing 250−350 g. Experimental protocols were approved by the
+local committee on animals in research at the University Claude
+Bernard Lyon I (protocol BH2010-19) and were performed in
+accordance with European directive 86/609/CEE. Rats were
+anesthetized by an intraperitoneal injection of urethane (Sigma,
+Saint Quentin Fallavier, France, 1.5−2 g/kg) and were immobilized in
+a stereotactic apparatus (Stoelting Corporation, Wood Dale, IL). Body
+temperature was maintained at 37 °C using a homeothermic blanket
+(LSI Letica, Barcelona, Spain). An Ag/AgCl reference electrode was
+Figure 6. TTX increases D-serine concentration via an ASC transporter-dependent mechanism. (A) TTX microinjection near the biosensor causes a
+progressive block of neuronal activity, evidenced by the disappearance of local field potentials, together with an increase in D-serine extracellular
+concentration. TTX administered near a control biosensor does not produce any noticeable change in oxidation current. (B) Systemic administration
+of L-serine, but not L-lysine (1 g/kg i.p.), inhibits the effect of TTX on D-serine levels, suggesting the involvement of ASC transporters in this process.
+(C) Summary results showing a significant inhibition of the TTX effect by L-serine.
+Figure 7. Schematic representation of D-serine transport mechanisms through Asc-1 and ASCT2 transporters. D-Serine is synthesized in neurons by
+SR, an enzyme whose activity can be up- or downregulated by multiple cofactors. Newly synthesized D-serine is rapidly released into the extracellular
+space via Asc-1 transporters, before reuptake by neurons via Asc-1, or by astrocytes, via ASCT2. D-Serine transported into astrocytes could be stored
+for subsequent release (forebrain) or degraded by endogenous DAAO (cerebellum). ATP, adenosine triphosphate; PICK1, protein interacting with
+C Kinase 1; GRIP, glutamate receptor interacting protein; NO, nitric oxide; PIP2, phosphatidylinositol biphosphate.
+ACS Chemical Neuroscience Research Article
+dx.doi.org/10.1021/cn4000549| ACS Chem. Neurosci. 2013, 4, 772−781 778
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.511700344)
+[Link]
+mailto:stephane.marinesco@univ-lyon1.fr
+placed on top of the skull and regularly wetted with PBS to maintain
+electrical contact. Biosensors were implanted in the frontal cortex
+(anteroposterior +3 mm from bregma, lateral +1 mm, depth +1.5
+mm). Amperometric recordings, at a potential fixed at 500 mV vs Ag/
+AgCl, began between 60 and 90 min after implantation, when the
+electrochemical current recorded by the biosensor had stabilized. To
+estimate in vivo extracellular D-serine concentrations, the oxidation
+current recorded in vivo was divided by the sensitivity of the biosensor
+in standard solutions at the conclusion of the experiment and
+corrected for temperature.
+D-Serine Microinjections in Vitro. For D-serine administration by
+microionophoresis in vitro, a 50-μm long D-serine microelectrode
+biosensor was inserted into a gel made from 0.3% agar diluted in 10
+mM PBS, An ionophoresis pipet, with a tip diameter of ∼5 μm and
+filled with 1 M D-serine diluted in Ringer’s solution (147 mM NaCl, 4
+mM KCl, 1.3 mM CaCl
+2
+) was placed at 150−800 μm from the tip of
+the D-serine sensor. Following a stabilization period of 10−20 min,
+ionophoretic injections of D-serine were performed during 5−100 s at
+currents of 200−1000 nA with a MVCS-02C ionophoresis amplifier
+(NPI electronics, Tamm, Germany).
+D-Serine Microinjections in Vivo. For D-serine administration by
+microionophoresis in vivo, a 100 μm long D-serine microelectrode
+biosensor was inserted into the frontal cortex of anesthetized rats. An
+ionophoresis pipet, with a tip diameter of ∼5 μm and filled with 1 M
+D-serine dissolved in Ringer’s solution, was placed at 150−800 μm
+from the tip of the D-serine sensor. Following a stabilization period of
+60−90 min, ionophoretic injections of D-serine were performed during
+5−100 s at currents of 200−1000 nA with a MVCS-02C ionophoresis
+amplifier (NPI electronics, Tamm, Germany). The distance between
+the ionophoretic pipet and the biosensor was determined at the end of
+the experiment, after removing the rat from the stereotactic apparatus,
+by placing the biosensor and the pipet at the same coordinates as in
+vivo and measuring the distance with a stereomicroscope. No blank
+biosensor was used to control the specificity of the D-serine signal
+because the signal was always time-locked with the D-serine injection.
+Moreover, D-serine injection experiments have been performed and
+controlled with blank biosensors by Pernot et al.27
+For TTX (citrate salt, Tocris, Bristol, U.K.) pressure microinjections
+, a micropipet was implanted at a distance of 150−300 μm
+from the biosensor. TTX was ejected continuously using constant
+pressure between 12 and 20 psi delivered by a PV820 pneumatic
+picopump (WPI, Stevenage, U.K.).
+Reverse Microdialysis. The infusion of L-amino acids or SMLC
+(Sigma, Saint Quentin Fallavier, France) was performed by reverse
+microdialysis. An Elite 12 microdialysis probe (2 mm long and 0.5 mm
+diameter, CMA Microdialysis, Solna, Sweden) was inserted into the
+brain, near the tip (0.3−1 mm) of the biosensor. Ringer’s solution was
+circulated in the probe at the speed of 3 μL/min by an infusion dual
+syringe pump (Harvard apparatus), linked to a CMA 110 liquid switch
+(CMA microdialysis) allowing rapid changes of the perfusion solution
+from control Ringer’s to a 100 mM L-amino acid solution or a 1 mM
+SMLC solution.
+Recordings. For amperometric recordings, we used a VA-10
+electrochemistry amplifier (NPI electronics, Tamm, Germany) with a
+two electrode potentiostat (500 MΩ feedback resistor). Data
+acquisition was performed using an ITC-18 acquisition board
+(Instrutech, Port Washington, NY) driven with homemade software
+based on Igor Pro 6.0 procedures (Wavemetrics, Eugene, OR). The
+oxidation current was sampled at 1000 Hz with a 20 Hz low-pass filter
+and averaged over 1000 points, yielding afinal sampling frequency of 1
+Hz. The applied potential is 500 mV vs Ag/AgCl.
+Analysis of Uptake Experiments, Statistics. Analysis of the
+uptake experiments was performed with the Igor Pro 6.0 software
+package. The fit of the injection/uptake curves was performed using
+the fitting tool of the software. Data are expressed as mean ± standard
+error of the mean (SEM). Comparisons between two data groups were
+performed using two-tailed Student’s t test for equal or unequal
+variances, as determined by the F test (significance level of p < 0.05).
+For statistical comparisons of three or more data groups, we used an
+ANOVA followed by Fisher’s LSD posthoc test. The analysis tool-pack
+of Igor Pro 6.0 and SPSS 12.0 for Windows were used for the
+statistical analyses.
+■ AUTHOR INFORMATION
+Corresponding Author
+*Mailing address: INSERM U1028, CNRS UMR5292, Centre
+de Recherche en Neurosciences de Lyon, Team WAKING,
+UniversitéClaude Bernard Lyon I, 8 avenue Rockefeller, 69373
+Lyon Cedex 08, France. Tel: +33 (0)4 78777041. Fax: +33 (0)
+4 78777150. E-mail: stephane.marinesco@univ-lyon1.fr.
+Author Contributions
+C.M. and P.P. designed and performed in vivo experiments,
+analyzed the data, and wrote the manuscript. N.V. designed and
+fabricated biosensors and analyzed data. L.P. expressed and
+purified enzymes for biosensor fabrication and wrote the
+manuscript. S.M. supported the project, designed experiments,
+analyzed data, and wrote the manuscript.
+Funding
+This study was supported by Inserm U1028, UniversitéClaude
+Bernard Lyon I, and by grants from Agence Nationale pour la
+Recherche (ANR-09-BLAN-0063 Neurosense) to S.M. L.P.
+thanks the financial support of from Fondo di Ateneo per la
+Ricerca. P.P., C.M., and N.V. are recipients of Ph.D. fellowships
+from Ministère de la Recherche.
+Notes
+The authors declare no competing financial interest.
+■ ACKNOWLEDGMENTS
+We are grateful to Dr. Alison Mungenast for helpful comments
+on an earlier version of the manuscript. We thank Aïcha
+Compard and Animalerie Rockefeller (SCAR) for animal care.
+The Lyon Neuroscience Research Center is part of SFR Santé
+Lyon Est (UCBL, UMS 3453 CNRS, US7 Inserm).
+■ REFERENCES
+(1) Katsuki, H., Nonaka, M., Shirakawa, H., Kume, T., and Akaike, A.
+(2004) Endogenous D-serine is involved in induction of neuronal
+death by N-methyl-D-aspartate and simulated ischemia in rat
+cerebrocortical slices. J. Pharmacol. Exp. Ther. 311, 836−844.
+(2) Bendikov, I., Nadri, C., Amar, S., Panizzutti, R., De Miranda, J.,
+Wolosker, H., and Agam, G. (2007) A CSF and postmortem brain
+study of D-serine metabolic parameters in schizophrenia. Schizophr.
+Res. 90,41 −51.
+(3) Hashimoto, K., Fukushima, T., Shimizu, E., Komatsu, N.,
+Watanabe, H., Shinoda, N., Nakazato, M., Kumakiri, C., Okada, S.,
+Hasegawa, H., Imai, K., and Iyo, M. (2003) Decreased serum levels of
+D-serine in patients with schizophrenia: evidence in support of the N-
+methyl-D-aspartate receptor hypofunction hypothesis of schizophrenia.
+Arch. Gen. Psychiatry 60, 572−576.
+(4) Thompson, M., Marecki, J. C., Marinesco, S., Labrie, V., Roder, J.
+C., Barger, S. W., and Crow, J. P. (2012) Paradoxical roles of serine
+racemase and D-serine in the G93A mSOD1 mouse model of
+amyotrophic lateral sclerosis. J. Neurochem. 120, 598−610.
+(5) Tuominen, H. J., Tiihonen, J., and Wahlbeck, K. (2005)
+Glutamatergic drugs for schizophrenia: a systematic review and metaanalysis. Schizophr. Res. 72, 225−234.
+(6) Pollegioni, L., and Sacchi, S. (2010) Metabolism of the
+neuromodulator D-serine. Cell. Mol. Life Sci. 67, 2387−2404.
+(7) Calcia, M. A., Madeira, C., Alheira, F. V., Silva, T. C., Tannos, F.
+M., Vargas-Lopes, C., Goldenstein, N., Brasil, M. A., Ferreira, S. T., and
+Panizzutti, R. (2012) Plasma levels of D-serine in Brazilian individuals
+with schizophrenia. Schizophr. Res. 142,83 −87.
+(8) Sasabe, J., Chiba, T., Yamada, M., Okamoto, K., Nishimoto, I.,
+Matsuoka, M., and Aiso, S. (2007) D-Serine is a key determinant of
+ACS Chemical Neuroscience Research Article
+dx.doi.org/10.1021/cn4000549| ACS Chem. Neurosci. 2013, 4, 772−781 779
+(EVAL PDF Extractor SDK 8.0.0.2542-1701384309)
+glutamate toxicity in amyotrophic lateral sclerosis. EMBO J. 26, 4149−
+4159.
+(9) Kartvelishvily, E., Shleper, M., Balan, L., Dumin, E., and
+Wolosker, H. (2006) Neuron-derived D-serine release provides a
+novel means to activate N-methyl-D-aspartate receptors. J. Biol. Chem.
+281, 14151−14162.
+(10) Kirschner, D. L., Wilson, A. L., Drew, K. L., and Green, T. K.
+(2009) Simultaneous efflux of endogenous D-ser and L-glu from single
+acute hippocampus slices during oxygen glucose deprivation. J Neurosci
+Res. 87, 2812−2820.
+(11) Ribeiro, C. S., Reis, M., Panizzutti, R., de Miranda, J., and
+Wolosker, H. (2002) Glial transport of the neuromodulator D-serine.
+Brain Res. 929, 202−209.
+(12) Fukasawa, Y., Segawa, H., Kim, J. Y., Chairoungdua, A., Kim, D.
+K., Matsuo, H., Cha, S. H., Endou, H., and Kanai, Y. (2000)
+Identification and characterization of a Na+-independent neutral
+amino acid transporter that associates with the 4F2 heavy chain and
+exhibits substrate selectivity for small neutral D- and L-amino acids. J.
+Biol. Chem. 275, 9690−9698.
+(13) Nakauchi, J., Matsuo, H., Kim, D. K., Goto, A., Chairoungdua,
+A., Cha, S. H., Inatomi, J., Shiokawa, Y., Yamaguchi, K., Saito, I.,
+Endou, H., and Kanai, Y. (2000) Cloning and characterization of a
+human brain Na(+)-independent transporter for small neutral amino
+acids that transports D-serine with high affinity. Neurosci. Lett. 287,
+231−235.
+(14) Helboe, L., Egebjerg, J., Moller, M., and Thomsen, C. (2003)
+Distribution and pharmacology of alanine-serine-cysteine transporter 1
+(asc-1) in rodent brain. Eur. J. Neurosci. 18, 2227−2238.
+(15) Rutter, A. R., Fradley, R. L., Garrett, E. M., Chapman, K. L.,
+Lawrence, J. M., Rosahl, T. W., and Patel, S. (2007) Evidence from
+gene knockout studies implicates Asc-1 as the primary transporter
+mediating d-serine reuptake in the mouse CNS. Eur. J. Neurosci. 25,
+1757−1766.
+(16) Gliddon, C. M., Shao, Z., LeMaistre, J. L., and Anderson, C. M.
+(2009) Cellular distribution of the neutral amino acid transporter
+subtype ASCT2 in mouse brain. J. Neurochem. 108, 372−383.
+(17) Utsunomiya-Tate, N., Endou, H., and Kanai, Y. (1996) Cloning
+and functional characterization of a system ASC-like Na+-dependent
+neutral amino acid transporter. J. Biol. Chem. 271, 14883−14890.
+(18) Hayashi, F., Takahashi, K., and Nishikawa, T. (1997) Uptake of
+D- and L-serine in C6 glioma cells. Neurosci. Lett. 239,85 −88.
+(19) Dun, Y., Mysona, B., Itagaki, S., Martin-Studdard, A., Ganapathy,
+V., and Smith, S. B. (2007) Functional and molecular analysis of D-
+serine transport in retinal Muller cells. Exp. Eye Res. 84, 191−199.
+(20) Shao, Z., Kamboj, A., and Anderson, C. M. (2009) Functional
+and immunocytochemical characterization of D-serine transporters in
+cortical neuron and astrocyte cultures. J. Neurosci. Res. 87, 2520−2530.
+(21) Mothet, J. P., Pollegioni, L., Ouanounou, G., Martineau, M.,
+Fossier, P., and Baux, G. (2005) Glutamate receptor activation triggers
+a calcium-dependent and SNARE protein-dependent release of the
+gliotransmitter D-serine. Proc. Natl. Acad. Sci. U.S.A. 102, 5606−5611.
+(22) Martineau, M., Galli, T., Baux, G., and Mothet, J. P. (2008)
+Confocal imaging and tracking of the exocytotic routes for D-serinemediated
+gliotransmission. Glia 56, 1271−1284.
+(23) Martineau, M., Shi, T., Puyal, J., Knolhoff, A. M., Dulong, J.,
+Gasnier, B., Klingauf, J., Sweedler, J. V., Jahn, R., and Mothet, J. P.
+(2013) Storage and Uptake of D-Serine into Astrocytic Synaptic-Like
+Vesicles Specify Gliotransmission. J. Neurosci. 33, 3413−3423.
+(24) Rosenberg, D., Kartvelishvily, E., Shleper, M., Klinker, C. M.,
+Bowser, M. T., and Wolosker, H. (2010) Neuronal release of D-serine:
+a physiological pathway controlling extracellular D-serine concentration. FASEB J. 24, 2951−2961.
+(25) Rosenberg, D., Artoul, S., Segal, A. C., Kolodney, G., 
+Radzishevsky, I., Dikopoltsev, E., Foltyn, V. N., Inoue, R., Mori, H.,
+Billard, J. M., and Wolosker, H. (2013) Neuronal D-Serine and Glycine
+Release Via the Asc-1 Transporter Regulates NMDA Receptor-
+Dependent Synaptic Activity. J. Neurosci. 33, 3533−3544.
+(26) Pernot, P., Mothet, J. P., Schuvailo, O., Soldatkin, A., Pollegioni,
+L., Pilone, M., Adeline, M. T., Cespuglio, R., and Marinesco, S. (2008)
+Characterization of a yeast D-amino acid oxidase microbiosensor for D-
+serine detection in the central nervous system. Anal. Chem. 80, 1589−
+1597.
+(27) Pernot, P., Maucler, C., Tholance, Y., Vasylieva, N., Debilly, G.,
+Pollegioni, L., Cespuglio, R., and Marinesco, S. (2012) D-Serine
+diffusion through the blood-brain barrier: Effect on D-serine
+compartmentalization and storage. Neurochem. Int. 60, 837−845.
+(28) Thomsen, C., Helboe, L., and Egebjerg, J. (2003) Use of ASC-1
+inhibitors to treat neurological and psychiatric disorders. US Patent
+20050176826 .
+(29) Ishiwata, S., Ogata, S., Umino, A., Shiraku, H., Ohashi, Y., Kajii,
+Y., and Nishikawa, T. (2013) Increasing effects of S-methyl-L-cysteine
+on the extracellular D-serine concentrations in the rat medial frontal
+cortex. Amino Acids,.
+(30) Pollegioni, L., Falbo, A., and Pilone, M. S. (1992) Specificity and
+kinetics of Rhodotorula gracilis D-amino acid oxidase. Biochim. Biophys.
+Acta 1120,11 −16.
+(31) Hamase, K., Konno, R., Morikawa, A., and Zaitsu, K. (2005)
+Sensitive determination of D-amino acids in mammals and the effect of
+D-amino-acid oxidase activity on their amounts. Biol. Pharm. Bull. 28,
+1578−1584.
+(32) Schell, M. J., Brady, R. O., Jr., Molliver, M. E., and Snyder, S. H.
+(1997) D-serine as a neuromodulator: regional and developmental
+localizations in rat brain glia resemble NMDA receptors. J. Neurosci.
+17, 1604−1615.
+(33) Williams, S. M., Diaz, C. M., Macnab, L. T., Sullivan, R. K., and
+Pow, D. V. (2006) Immunocytochemical analysis of D-serine
+distribution in the mammalian brain reveals novel anatomical
+compartmentalizations in glia and neurons. Glia 53, 401−411.
+(34) Rice, M., and Nicholson, C. (1995) Diffusion and ion shifts in the
+brain extracellualr microenvironnement and their relevance for voltametric
+measurements (Boulton, A., Baker, G., and Adams, R., Eds.), Humana
+Press, Totowa, NJ.
+(35) Sieg, A., Jeanneret, F., Fathi, M., Hochstrasser, D., Rudaz, S.,
+Veuthey, J. L., Guy, R. H., and Delgado-Charro, M. B. (2008)
+Extraction of amino acids by reverse iontophoresis: simulation of
+therapeutic monitoring in vitro. Eur. J. Pharm. Biopharm. 70, 908−913.
+(36) Pikal, M. (1992) The role of electroosmotic flow in transdermal
+iontophoresis. Adv. Drug Delivery Rev. 46, 281−305.
+(37) Nicholson, C., and Sykova, E. (1998) Extracellular space
+structure revealed by diffusion analysis. Trends Neurosci. 21, 207−215.
+(38) Sieg, A., Guy, R. H., and Delgado-Charro, M. B. (2004)
+Electroosmosis in transdermal iontophoresis: implications for noninvasive
+and calibration-free glucose monitoring. Biophys. J. 87, 3344−
+3350.
+(39) Zhang, X., Li, C. G., Ye, C. H., and Liu, M. L. (2001)
+Determination of molecular self-diffusion coefficient using multiple
+spin-echo NMR spectroscopy with removal of convection and
+background gradient artifacts. Anal. Chem. 73, 3528−3534.
+(40) Pollegioni, L., Falbo, A., and Pilone, M. S. (1992) Specificity and
+kinetics of Rhodotorula gracilis D-amino acid oxidase. Biochim. Biophys.
+Acta 1120,11 −16.
+(41) Pollegioni, L., Molla, G., Sacchi, S., Rosini, E., Verga, R., and
+Pilone, M. S. (2008) Properties and applications of microbial D-amino
+acid oxidases: current state and perspectives. Appl. Microbiol.
+Biotechnol. 78,1 −16.
+(42) Pernot, P., Mothet, J. P., Schuvailo, O., Soldatkin, A., Pollegioni,
+L., Pilone, M., Adeline, M. T., Cespuglio, R., and Marinesco, S. (2008)
+Characterization of a Yeast D-Amino Acid Oxidase Microbiosensor for
+D-Serine Detection in the Central Nervous System. Anal. Chem. 80,9.
+(43) O’Brien, K. B., and Bowser, M. T. (2006) Measuring D-serine
+efflux from mouse cortical brain slices using online microdialysiscapillary
+electrophoresis. Electrophoresis 27, 1949−1956.
+(44) Shafqat, S., Tamarappoo, B. K., Kilberg, M. S., Puranam, R. S.,
+McNamara, J. O., Guadano-Ferraz, A., and Fremeau, R. T., Jr. (1993)
+Cloning and expression of a novel Na(+)-dependent neutral amino
+acid transporter structurally related to mammalian Na+/glutamate
+cotransporters. J. Biol. Chem. 268, 15351−15355.
+ACS Chemical Neuroscience Research Article
+dx.doi.org/10.1021/cn4000549| ACS Chem. Neurosci. 2013, 4, 772−781 780
+(8.0.0.2542,2120540346 PDF Extractor SDK TRIAL)
+(45) Grewer, C., and Grabsch, E. (2004) New inhibitors for the
+neutral amino acid transporter ASCT2 reveal its Na+-dependent anion
+leak. J. Physiol. 557, 747−759.
+(46) Oldenziel, W. H., Dijkstra, G., Cremers, T. I., and Westerink, B.
+H. (2006) In vivo monitoring of extracellular glutamate in the brain
+with a microsensor. Brain Res. 1118,34 −42.
+(47) Martina, M., Gorfinkel, Y., Halman, S., Lowe, J. A., Periyalwar,
+P., Schmidt, C. J., and Bergeron, R. (2004) Glycine transporter type 1
+blockade changes NMDA receptor-mediated responses and LTP in
+hippocampal CA1 pyramidal cells by altering extracellular glycine
+levels. J. Physiol. 557, 489−500.
+(48) Broer, A., Brookes, N., Ganapathy, V., Dimmer, K. S., Wagner,
+C. A., Lang, F., and Broer, S. (1999) The astroglial ASCT2 amino acid
+transporter as a mediator of glutamine efflux. J. Neurochem. 73, 2184−
+2194.
+(49) Wolosker, H. (2011) Serine racemase and the serine shuttle
+between neurons and astrocytes. Biochim. Biophys. Acta 1814, 1558−
+1566.
+(50) Yang, J. H., Wada, A., Yoshida, K., Miyoshi, Y., Sayano, T., Esaki,
+K., Kinoshita, M. O., Tomonaga, S., Azuma, N., Watanabe, M.,
+Hamase, K., Zaitsu, K., Machida, T., Messing, A., Itohara, S.,
+Hirabayashi, Y., and Furuya, S. (2010) Brain-specific Phgdh deletion
+reveals a pivotal role for L-serine biosynthesis in controlling the level
+of D-serine, an N-methyl-D-aspartate receptor co-agonist, in adult
+brain. J. Biol. Chem. 285, 41380−41390.
+(51) Hashimoto, A., Kanda, J., and Oka, T. (2000) Effects of N-
+methyl-D-aspartate, kainate or veratridine on extracellular concentrations
+of free D-serine and L-glutamate in rat striatum: an in vivo
+microdialysis study. Brain Res. Bull. 53, 347−351.
+(52) Mustafa, A. K., Kim, P. M., and Snyder, S. H. (2004) D-Serine as
+a putative glial neurotransmitter. Neuron Glia Biol. 1, 275−281.
+(53) Kim, P. M., Aizawa, H., Kim, P. S., Huang, A. S., 
+Wickramasinghe, S. R., Kashani, A. H., Barrow, R. K., Huganir, R.
+L., Ghosh, A., and Snyder, S. H. (2005) Serine racemase: activation by
+glutamate neurotransmission via glutamate receptor interacting protein
+and mediation of neuronal migration. Proc. Natl. Acad. Sci. U.S.A. 102,
+2105−2110.
+(54) Mustafa, A. K., Kumar, M., Selvakumar, B., Ho, G. P., Ehmsen, J.
+T., Barrow, R. K., Amzel, L. M., and Snyder, S. H. (2007) Nitric oxide
+S-nitrosylates serine racemase, mediating feedback inhibition of D-
+serine formation. Proc. Natl. Acad. Sci. U.S.A. 104, 2950−2955.
+(55) Henneberger, C., Papouin, T., Oliet, S. H., and Rusakov, D. A.
+(2010) Long-term potentiation depends on release of D-serine from
+astrocytes. Nature 463, 232−236.
+(56) Zhang, H., Lin, S. C., and Nicolelis, M. A. (2009) Acquiring
+local field potential information from amperometric neurochemical
+recordings. J. Neurosci .Methods 179, 191−200.
+(57) Viggiano, A., Marinesco, S., Pain, F., Meiller, A., and Gurden, H.
+(2012) Reconstruction of field excitatory post-synaptic potentials in
+the dentate gyrus from amperometric biosensor signals. J. Neurosci.
+Methods 206,1 −6.
+(58) Hashimoto, A., Oka, T., and Nishikawa, T. (1995) Extracellular
+concentration of endogenous free D-serine in the rat brain as revealed
+by in vivo microdialysis. Neuroscience 66, 635−643.
+(59) Kakegawa, W., Miyoshi, Y., Hamase, K., Matsuda, S., Matsuda,
+K., Kohda, K., Emi, K., Motohashi, J., Konno, R., Zaitsu, K., and
+Yuzaki, M. (2011) D-Serine regulates cerebellar LTD and motor
+coordination through the delta2 glutamate receptor. Nat. Neurosci. 14,
+603−611.
+(60) Vasylieva, N., Barnych, B., Meiller, A., Maucler, C., Pollegioni,
+L., Lin, J. S., Barbier, D., and Marinesco, S. (2011) Covalent enzyme
+immobilization by poly(ethylene glycol) diglycidyl ether (PEGDE) for
+microelectrode biosensor preparation. Biosens. Bioelectron. 26, 3993−
+4000.
+(61) Pollegioni, L., Molla, G., Campaner, S., Martegani, E., and
+Pilone, M. S. (1997) Cloning, sequencing and expression in E. coli of a
+D-amino acid oxidase cDNA from Rhodotorula gracilis active on
+cephalosporin C. J. Biotechnol. 58, 115−123.
+(62) Vasylieva, N., Barnych, B., Meiller, A., Maucler, C., Pollegioni,
+L., Lin, J. S., Barbier, D., and Marinesco, S. (2011) Covalent enzyme
+immobilization by poly(ethylene glycol) diglycidyl ether (PEGDE) for
+microelectrode biosensor preparation. Biosens. Bioelectron. 26, 3993−
+4000.
+ACS Chemical Neuroscience Research Article
+dx.doi.org/10.1021/cn4000549| ACS Chem. Neurosci. 2013, 4, 772−781 781
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.392212736)
+

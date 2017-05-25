@@ -1,0 +1,941 @@
+Research Article
+pubs.acs.org/chemneuro
+
+Pharmacological Characterization of the Newly Synthesized
+5‑Amino‑N‑butyl-2-(4-ethoxyphenoxy)-benzamide Hydrochloride
+(BED) as a Potent NCX3 Inhibitor That Worsens Anoxic Injury in
+Cortical Neurons, Organotypic Hippocampal Cultures, and Ischemic
+Brain
+Agnese Secondo,†,∥ Giuseppe Pignataro,†,∥ Paolo Ambrosino,† Anna Pannaccione,† Pasquale Molinaro,†
+Francesca Boscia,† Maria Cantile,† Ornella Cuomo,† Alba Esposito,† Maria Josè Sisalli,†
+Antonella Scorziello,† Natascia Guida,‡ Serenella Anzilotti,‡ Ferdinando Fiorino,§ Beatrice Severino,§
+Vincenzo Santagada,§ Giuseppe Caliendo,§ Gianfranco Di Renzo,† and Lucio Annunziato*,†,‡
+†
+
+Department of Neuroscience, Reproductive and Odontostomatological Sciences, School of Medicine, “Federico II” University of
+Naples, Via Pansini 5, 80131 Naples, Italy
+‡
+IRCCS SDN, Naples, Italy, §Department of Pharmacy, “Federico II” University of Naples, Via D. Montesano 49, 80131 Naples, Italy
+ABSTRACT: The Na+/Ca2+ exchanger (NCX), a 10-transmembrane
+domain protein mainly involved in the regulation of intracellular Ca2+
+homeostasis, plays a crucial role in cerebral ischemia. In the present paper,
+we characterized the eﬀect of the newly synthesized compound 5-amino-Nbutyl-2-(4-ethoxyphenoxy)-benzamide hydrochloride (BED) on the activity
+of the three NCX isoforms and on the evolution of cerebral ischemia. BED
+inhibited NCX isoform 3 (NCX3) activity (IC50 = 1.9 nM) recorded with the
+help of single-cell microﬂorimetry, 45Ca2+ radiotracer ﬂuxes, and patch-clamp
+in whole-cell conﬁguration. Furthermore, this drug displayed negligible eﬀect
+on NCX2, the other isoform expressed within the CNS, and it failed to
+modulate the ubiquitously expressed NCX1 isoform. Concerning the
+molecular site of action, the use of chimera strategy and deletion mutagenesis
+showed that α1 and α2 repeats of NCX3 represented relevant molecular
+determinants for BED inhibitory action, whereas the intracellular regulatory floop was not involved. At 10 nM, BED worsened the damage induced by oxygen/glucose deprivation (OGD) followed by
+reoxygenation in cortical neurons through a dysregulation of [Ca2+]i. Furthermore, at the same concentration, BED signiﬁcantly
+enhanced cell death in CA3 subregion of hippocampal organotypic slices exposed to OGD and aggravated infarct injury after
+transient middle cerebral artery occlusion in mice. These results showed that the newly synthesized 5-amino-N-butyl-2-(4ethoxyphenoxy)-benzamide hydrochloride is one of the most potent inhibitor of NCX3 so far identiﬁed, representing an useful
+tool to dissect the role played by NCX3 in the control of Ca2+ homeostasis under physiological and pathological conditions.
+KEYWORDS: Sodium calcium exchanger, NCX isoforms, NCX3 inhibitor, cerebral ischemia, OGD
+
+A
+
+identiﬁed in mammals. All these three isoforms share the same
+topology with the amino terminus located in the extracellular
+space, and the carboxyl terminus located in the intracellular
+space. The 10-transmembrane segments can be divided into an
+N-terminal hydrophobic domain and into a C-terminal
+hydrophobic domain, each composed of 5 TMSs. Each group
+of 5 TMSs is separated from the other through a large
+hydrophilic intracellular loop of 550 amino acids, named f loop9
+that is not implicated in Na+ and Ca2+ translocation, but is
+responsible for the regulation of NCX activity. Interestingly,
+
+great deal of interest has been devoted to the discovery of
+clinically eﬀective drugs against cerebral ischemia, and of
+pharmacological tools able to identify potential drugable targets
+in this relevant and frequently observed neurological disease.
+Interestingly, the modulation of the Na+/Ca2+ exchanger
+(NCX)1,2 seems to modify the course of the disease. In fact,
+either the speciﬁc knock-down or gene ablation of ncx leads to
+a worsening of brain damage and neurological deﬁcits induced
+in mice and rats by experimentally induced focal ischemia.3,4
+NCX is a 10-transmembrane domain protein5 that couples the
+eﬄux of Ca2+ to the inﬂux of Na+ into the cell or viceversa by
+operating in a bidirectional way. NCX family belongs to a
+Cation/Calcium Exchanger Superfamily that includes four
+other families. Three diﬀerent genes coding for the three
+diﬀerent NCX1,6 NCX2,7 and NCX38 proteins have been
+© 2015 American Chemical Society
+
+Received: January 30, 2015
+Revised: April 14, 2015
+Published: May 5, 2015
+1361
+
+DOI: 10.1021/acschemneuro.5b00043
+ACS Chem. Neurosci. 2015, 6, 1361−1370
+
+Research Article
+
+ACS Chemical Neuroscience
+
+Figure 1. Dose−response curves of the eﬀects of BED on NCX working in the reverse and forward mode of operation in BHK cells expressing
+distinctly the three NCX isoforms. Top: Chemical structure of BED. (A) BED was applied for 30 min on BHK cells stably transfected with NCX1,
+NCX2, or NCX3, and then Na+-dependent 45Ca2+ uptake was evaluated. Data obtained in BHK cells stably transfected with NCX1, NCX2, or NCX3
+are presented as percentage of the control values obtained in the absence of the drug (control). Data of Na+-dependent 45Ca2+ uptake in BHK-Wt
+was also reported. Values represent means ± SEM (n = 4 experimental sessions). *p < 0.05 versus its respective control; **,***p < 0.05 versus
+previous concentrations; ∧p < 0.05 versus its respective control; ∧∧,∧∧∧p < 0.05 versus previous concentrations and the same concentration on NCX2.
+(B) BED was applied for 10 min on BHK cells stably transfected with NCX1, NCX2, or NCX3, and then Na+-dependent 45Ca2+ eﬄux was evaluated.
+Data obtained in BHK cells stably transfected with NCX1, NCX2, or NCX3 are presented as percentage of the control values obtained in the
+absence of the drug (control). Data of Na+-dependent 45Ca2+ eﬄux in BHK-Wt was also reported. Values represent means ± SEM (n = 4
+experimental sessions). *p < 0.05 versus its control and the same concentration on NCX1 and NCX2. **, ***p < 0.05 versus previous
+concentrations.
+
+with an approach already published.13 In particular, we
+examined the eﬀect of this compound on the activity of NCX
+isoforms and on the evolution of cerebral ischemia
+experimentally modeled in vitro and in vivo, a complex
+pathological process which requires a tight control of Ca2+ and
+Na+ homeostasis through NCX.
+
+this function is elicited by several cytoplasmic messengers and
+transductional mechanisms, such as Ca2+ and Na+ ions, nitric
+oxide (NO),10 phosphatydilinositol 4,5-bisphosphate (PIP2),
+protein kinase C (PKC), protein kinase A (PKA), phosphoarginine (PA), and adenosine trisphosphate (ATP).2 After the
+discovery of NCX activity in 1969, studies have reported that
+some compounds can interfere with this antiporter.11,12 In the
+last 35 years, in fact, several inorganic and organic compounds
+have been reported to activate or block the NCX activity.
+However, the selectivity of this action has often been
+questioned.2 Since then, in an attempt to evaluate NCX
+activity, amiloride has been used as a probe to block NCX
+function.12 However, two major drawbacks have limited its use.
+First, millimolar concentrations are required for its NCX
+inhibitory activity; second, it lacks speciﬁcity, since it can also
+inhibit both the epithelial Na+ channel at micromolar
+concentrations and the Na+/H+ exchanger in the millimolar
+range. Later on, in order to overcome the lack of selectivity and
+to increase the potency of this drug, additional compounds
+belonging to ethoxyanilines, quinazolinone, thiazolidine,
+phenoxypyridine, ylacetamide, benzofuran, and imidazoline
+derivatives were produced by conventional chemical synthesis.
+However, these newly synthesized compounds although
+provided with a higher potency did not display the expected
+selectivity on the mode of operation of the antiporter and on
+the diﬀerent isoforms and splicing variants. In the present paper
+we characterize the molecular mechanism of the new
+compound 5-amino-N-butyl-2-(4-ethoxyphenoxy)-benzamide
+hydrochloride (BED), whose synthesis has been conducted
+
+■
+
+RESULTS
+Eﬀect of BED on NCX1, NCX2, and NCX3 Activity
+Evaluated as Na+-Dependent [Ca2+]i Increase, Na0+Dependent 45Ca2+ Eﬄux, Nai+-Dependent 45Ca2+ Uptake
+and by Patch-Clamp Technique in Stably Transfected
+BHK-NCX1, BHK-NCX2, and BHK-NCX3 Cells. In order to
+evaluate the eﬀect on each isoform of the exchanger of BED,
+whose structure has been reported at the top of Figure 1, NCX
+activity was assessed as Nai+-dependent 45Ca2+ uptake and
+Na0+-dependent 45Ca2+ eﬄux in stably transfected BHK-NCX1,
+BHK-NCX2 and BHK-NCX3 cells in the presence of diﬀerent
+concentrations of the biphenyl ether derivative and in BHK
+Wild type (BHK-Wt) (Figure 1). As a matter of course, Na+free solution failed to produce Nai+-dependent 45Ca2+ uptake in
+BHK-Wt cells (Figure 1A). However, in stably transfected
+BHK-NCX1, BHK-NCX2, and BHK-NCX3 cells, the eﬀect of
+BED was evaluated on the maximum rate of NCX activation
+(100%) elicited by Na+-free. BED was able to reduce the
+reverse mode of operation of NCX2 and NCX3, but not of
+NCX1, in a dose-dependent manner with the following IC50:
+3.49 nM for NCX2 and 1.89 nM for NCX3 (Figure 1A). The
+ability of BED to reduce 45Ca2+ eﬄux was also studied by using
+1362
+
+DOI: 10.1021/acschemneuro.5b00043
+ACS Chem. Neurosci. 2015, 6, 1361−1370
+
+Research Article
+
+ACS Chemical Neuroscience
+
+Figure 2. Eﬀect of BED on Na+-free-induced [Ca2+]i increase in BHK-Wt, BHK-NCX1, BHK-NCX2, and BHK-NCX3 cells. Top: Typical
+superimposed traces representing the eﬀect of Na+-free on [Ca2+]i in BHK-Wt and in the absence or presence of the drug in (A) BHK-NCX1, (B)
+BHK-NCX2, and (C) BHK-NCX3 cells. Bottom: (D) Dose−response curve of the eﬀect of BED on Na+-free- induced NCX activity. BED, at the
+indicated concentrations, was added 10 min before Na+-free application. Values represent means ± SEM of three diﬀerent experiments. The
+percentage of [Ca2+]i increase after Na+-free perfusion was calculated as Δ% of plateau/basal value. For each of the three experiments, 10−20
+individual cells were monitored. *p < 0.05 versus its control group; **p < 0.05 versus its previous concentrations and control; ∧p < 0.05 versus its
+control group; ∧∧p < 0.05 versus its previous concentrations, control, and the same concentration on NCX2.
+
+Ca2+-free-Na+ containing solution plus 2 mM EGTA, as
+reported in Methods. Cells were exposed to the abovementioned solution for 10 s, a time in which no eﬄux was
+detected in BHK Wild type cells (Figure 1B). Interestingly,
+only the forward mode of NCX3 was reduced by the drug in a
+dose-dependent manner with an IC50 of 2.24 nM (Figure 1B).
+Furthermore, NCXs activity was also studied by Fura-2AM
+video-imaging on single-cell as Na+ gradient-dependent [Ca2+]i
+increase elicited by a single pulse of Na+-deﬁcient NMDG+
+medium (Na+-free). To dissect [Ca2+]i increase due to NCX
+component from the other contributors, cells were treated with
+thapsigargin, a speciﬁc and irreversible inhibitor of the
+sarco(endo)plasmic reticulum ATPase SERCA. Before perfusion, cells were exposed for 10 min to thapsigargin (1 μM) in
+order to deplete the endoplasmic reticulum (ER) and to
+prevent Ca2+ reﬁlling into ER upon Na+-free administration.
+With this protocol, thapsigargin did not interfere with Na+-freeinduced NCX activation (data not shown). In BHK-NCX3 and
+BHK-NCX2 cells, Na+-free perfusion caused a rapid rise in
+[Ca2+]i through the reverse mode of operation that was reduced
+by BED in dose dependent way (0.00001−10 μM) with the
+IC50’s of 1 nM for NCX3 and 9 nM for NCX2, respectively
+(Figure 2). As a matter of course, Na+-free solution failed to
+elicit [Ca2+]i rise in wild-type BHK cells (BHK-Wt) (Figure 2),
+which lacked all three NCX isoforms.14 Furthermore, the eﬀect
+
+of BED on NCX1, NCX2, and NCX3 activity was more directly
+assessed by the patch-clamp technique in whole cell
+conﬁguration in stably transfected BHK cells. The whole-cell
+current was measured at +60 and −120 mV using the rampclamp protocol (see Methods). To isolate NCX currents
+(INCX), cells were recorded for 5 min with the well-known NCX
+inhibitor NiCl2 (5 mM). The Ni2+-sensitive component,
+representing the isolated INCX, was obtained as previously
+reported.15 No current corresponding to INCX was recorded in
+BHK-Wt cells (Figure 3). The incubation with BED strongly
+inhibited both the outward (reverse mode) and inward
+(forward mode) direction of INCX3 in dose-dependent way
+with the following IC50: 0.62 nM for NCX3 reverse mode and
+1.01 nM for NCX3 forward mode. However, only the reverse
+mode of operation of NCX2 was aﬀected by the drug with an
+IC50 of 1.08 nM (Figure 3). The IC50 of BED on NCX3 reverse
+and forward modes of operation were compared with those of
+3-amino-6-chloro-5-[(4-chloro-benzyl)amino]-N-[[(2,4dimethylbenzyl)amino]iminomethyl]-pyrazinecarboxamide
+(CB-DMB) (Table 1). BED, in the same experimental
+conditions, showed a higher potency than CB-DMB in
+inhibiting NCX3 activity (Table 1). Furthermore, BED
+inhibited also TTX-sensitive Na+ currents recorded in GH3
+cells with an IC50 of 8.1 μM while CB-DMB inhibited TTXsensitive Na+ currents with an IC50 of 1.6 μM.15
+1363
+
+DOI: 10.1021/acschemneuro.5b00043
+ACS Chem. Neurosci. 2015, 6, 1361−1370
+
+Research Article
+
+ACS Chemical Neuroscience
+
+Figure 3. Eﬀect of BED on INCX recorded in the reverse mode of operation in BHK-Wt and BHK cells stably transfected with NCX1, NCX2, or
+NCX3. INCX was recorded from BHK-Wt, BHK-NCX1, BHK-NCX2, and BHK-NCX3 cells by the patch-clamp technique in whole-cell
+conﬁguration. Currents were recorded as reported in Methods. INCX superimposed traces recorded from (A) BHK-NCX1, (B) BHK-NCX2, and (C)
+BHK-NCX3 cells under control conditions (black trace) and after 10 min preincubation with the drug (gray trace, 10 nM). (D) quantiﬁcation of
+INCX in the presence of BED reported as percent of current inhibition. For each experiment, 4−10 individual cells were monitored. *p < 0.05 versus
+each respective control.
+
+diﬀerent sensitivity to BED. Particularly, the eﬀect of BED was
+studied in N3-227/469 and N3-707/776 chimeras obtained by
+substituting the BED-insensitive NCX1 regions 227/469 and
+707/776 with the homologous segments in NCX3 structure.
+Fura-2 microﬂuorimetry showed that the activity in the reverse
+mode of these two chimeras was inhibited by BED (10 nM) in
+the same extent as NCX3 Wt (Figure 4C,D). In fact, Na+-free
+perfusion caused a rapid rise in [Ca2+]i that was reduced in the
+presence of BED (10 nM) in both in N3-227/469 and N3-707/
+776 chimeras as well as in NCX3 wild type (Figure 4G).
+Finally, we substituted the NCX3 region corresponding to the
+α1 repeat with the homologous 143−167 segment of NCX1,
+thus producing the chimera named N3-143/167 (Figure 4E).
+Furthermore, a chimera between NCX3 and NCX1, named
+N3-777/818, was produced by introducing in the NCX3
+region, corresponding to the α2 repeat, the homologous NCX1
+sequence 777/818 (Figure 4F). Fura-2 microﬂuorimetry
+showed that the activity of these two chimeras was not aﬀected
+by BED (10 nM) (Figure 4G). In fact, Na+-free perfusion
+caused a rapid rise in [Ca2+]i that remained unchanged in the
+presence of BED (10 nM) in both N3-143/167 and N3-777/
+818 chimeras (Figure 4E−G). The eﬀect of BED on NCX
+activity was also determined in the previous described mutant
+and chimeras by means of Na+-dependent 45Ca2+ uptake in the
+presence of 10 nM of the biphenyl ether derivative (Figure
+4H). BED was able to signiﬁcantly inhibit Na+-dependent
+45
+Ca2+ uptake in NCX3Δf and in N3-227/469 and N3-707/776
+chimeras as well as in NCX3 Wt, while it failed to change Na+dependent 45Ca2+ uptake in N3-143/167 and N3-777/818
+
+Table 1. Eﬀect of BED on NCX Reverse and Forward Mode
+of Operation, Comparison with the Previously Characterized
+NCX Inhibitor CB-DMB
+BED (IC50, nM)
+reverse
+Fura-2AM
+45
+Ca2+
+patch-clamp
+
+1
+1.89
+0.62
+
+CB-DMB (IC50, nM)15
+
+forward
+
+reverse
+
+forward
+
+2,24
+1,01
+
+177
+420
+230
+
+600
+260
+
+Eﬀect of BED in NCX1, NCX2, and NCX3 Mutants
+Lacking “f-loop” or NCX1/NCX3 Chimeras Assessed by
+Na+-Dependent [Ca2+]i Increase and Nai+-Dependent
+45
+Ca2+ Uptake in Stably Transfected BHK Cells. To
+investigate the molecular determinants of BED on the
+molecular structure of NCX3 isoform, the intracellular f-loop,
+a region mainly involved in the regulation of NCX function,
+was deleted in NCX3 cDNA (NCX3Δf) (Figure 4A).
+Interestingly, Fura 2-AM single-cell video-imaging experiments
+revealed that the elimination of the f-loop did not produce any
+change in the action proﬁle exerted by the biphenyl ether
+derivative on NCX3 activity (Figure 4B). In fact, Na+-free
+perfusion caused a rapid rise in [Ca2+]i that was reduced in the
+presence of BED by the same extent in both NCX3Δf and in
+NCX3 wild type (Figure 4). These data suggested the existence
+of an inhibitory site located outside the intracellular f-loop of
+NCX3 structure. To establish the site responsible for BEDmediated down-regulation of NCX3 activity, we generated four
+chimeras between NCX3 and NCX1 taking advantage on their
+1364
+
+DOI: 10.1021/acschemneuro.5b00043
+ACS Chem. Neurosci. 2015, 6, 1361−1370
+
+Research Article
+
+ACS Chemical Neuroscience
+
+Figure 4. Eﬀect of BED on NCX3/NCX1 chimera and NCX3Δf mutant. (B−F) typical superimposed traces representing the eﬀect of Na+-free alone
+and Na+-free + BED (10 nM) on [Ca2+]i in N3-227/469, N3-707/776, N3143/167, and N3-777/818 chimeras and in NCX3Δf mutant, whose
+structure derives from NCX1 and NCX3 (A). (G) Quantiﬁcation of the eﬀect of the drug (10 nM) on [Ca2+]i increase induced by Na+-Free in BHKNCX3 and BHK-NCX1 wild type (Wt) cells, in the above-mentioned mutants. Each bar represents the mean (±SEM) of the values obtained in
+three independent experimental sessions. For each experiment, 40−65 individual cells were monitored. *p < 0.05 versus its respective control. (H)
+Quantiﬁcation of the eﬀect of the drug (10 nM) on Na+-dependent 45Ca2+ uptake in the same experimental conditions depicted in (A). Each bar
+represents the mean (±SEM) of the values obtained in four independent experimental sessions. *p < 0.05 versus its control.
+
+chimeras (Figure 4H). This suggested that both the α1 and α2
+regions of NCX3 were involved in the inhibitory eﬃcacy of the
+biphenyl ether derivative.
+Eﬀect of BED on Neuronal Survival in Organotypic
+Hippocampal Cultures Exposed to Oxygen/Glucose
+Deprivation (OGD). The exposure of hippocampal organotypic slices to OGD in the presence of 0.01 μM BED
+signiﬁcantly enhanced cell death in CA3 subregion compared to
+OGD itself, as demonstrated by the increase in PI uptake
+(Figure 5A−D). However, no signiﬁcant eﬀect of BED
+exposure was observed in CA1 and DG hippocampal
+subregions exposed to OGD (Figure 5B,C). The more severe
+cell death observed in CA3 subregion as compared to CA1 and
+DG upon BED exposure might be due to the blockade of
+NCX3 in that regions where this exchanger isoform is greater
+expressed.3,16 The presence of higher BED concentration (10
+μM) in the incubation media per se did not aﬀect neuronal
+viability in this preparation (Figure 5B−D).
+Eﬀect of BED on [Ca2+]i and Cell Survival of Cortical
+Neurons Exposed to OGD Plus Reoxygenation and on
+Infarct Volume in Mice Subjected to tMCAo. Primary
+cortical neurons treated with 10 nM BED and exposed to 2 h
+OGD followed by 24 h reoxygenation displayed a signiﬁcant
+increase in [Ca2+]i as compared to OGD followed by
+
+reoxygenation alone (Figure 6A) and vehicle treated group.
+Furthermore, the addition of 10 nM BED enhanced cell death
+induced by 2 h OGD followed by 24 h reoxygenation (Figure
+6B). On the other hand time-course experiments, evaluating
+basal toxicity of BED on BHK-NCX3 cells, showed that this
+drug did not induce any toxicity even at 100 μM (data not
+shown). Moreover, BED icv administered (1 μL) at a
+concentration of 500 nM dramatically increased the extent of
+the ischemic lesion in C57/BL6 male mice subjected to 60 min
+of MCAO followed by 24 h of reperfusion as compared to
+vehicle administered mice (percent of ischemic damage was
+21.0 ± 0.8 in the vehicle treated group and 39.1 ± 1.6 in the
+BED treated group, respectively) (Figure 6C). Particularly, the
+enlargement of the ischemic core in these mice was particularly
+evident in the more peripheral temporoparietal cortex (9.36 ±
+0.9 vs 28.36 ± 1.6) (Figure 6C).
+
+■
+
+DISCUSSION
+In the present study, we report the characterization of the
+newly synthesized compound 5-amino-N-butyl-2-(4-ethoxyphenoxy)-benzamide hydrochloride, named BED, as a new
+selective NCX3 inhibitor. Furthermore, the eﬀect of BED on
+the neuronal damage induced by in vitro and in vivo cerebral
+ischemia was also examined. As concerns the chemical structure
+1365
+
+DOI: 10.1021/acschemneuro.5b00043
+ACS Chem. Neurosci. 2015, 6, 1361−1370
+
+Research Article
+
+ACS Chemical Neuroscience
+
+Figure 5. Eﬀect of BED on cell death in CA1, CA3, and DG subregions of organotypic hippocampal cultures exposed to hypoxic conditions. (A) PI
+ﬂuorescence staining pattern observed in a representative organotypic hippocampal cultures (OHSCs) exposed to 25 min of OGD followed by 24 h
+of reoxygenation. (B−D) quantiﬁcation of the cell damage in selected hippocampal subregions, CA1, DG, and CA3 evaluated by densitometric
+analysis of PI ﬂuorescence. PI ﬂuorescence intensity recorded in each hippocampal subﬁeld was normalized to that recorded in the respective
+subregion of untreated OHSCs. All the values of the experimental groups were expressed as percentage of PI ﬂuorescence. Each data point is the
+mean ± SEM of the data obtained from 20−24 OHSCs in three separate experiments. Scale bar in (A): 400 μm. *p < 0.05 versus all the other
+groups.
+
+action. Interestingly, these regions represent common molecular determinants required for nitric oxide to downregulate
+NCX3 activity,9 for neurounina-1 to increase20 NCX1, and for
+KB-R7943, SEA0400, and SN-6 to block21 NCX1. Accordingly,
+the substitution of these BED-sensitive regions of NCX3 with
+the corresponding BED-insensitive regions of NCX1 prevented
+the inhibitory eﬀect exerted by the drug on NCX3. This
+suggests that the molecular determinant of NCX3 was found
+outside the f-loop, at the level of both the α1 and α2 repeats. As
+concerns the selectivity of BED against other channels, our
+results showed that this drug inhibited TTX-sensitive Na+
+currents with an IC50 of 8.1 μM that was signiﬁcantly larger
+than that recorded for NCX3 blockade. However, the inhibition
+of voltage-gated Na+ channels should prevent instead of worsen
+hypoxia-induced neuronal injury, thus suggesting that the
+detrimental eﬀects of the drug on neuronal viability may be
+ascribe to the most prominent blockade of NCX3 activity. In
+this respect, we have previously demonstrated that either the
+speciﬁc knock-down or gene ablation of ncx3 leads to a
+worsening of brain damage and neurological deﬁcits induced in
+mice and rats by experimentally induced focal ischemia.3,4 The
+present results obtained with BED on ischemic brain volumes
+was in line with the above-mentioned results and with those
+obtained in primary neurons derived from ncx3−/− mice
+subjected to OGD.4 In the present study, the administration of
+the drug during the OGD phase rendered cortical neurons
+more vulnerable to the reoxygenation phase as occurs for
+ncx3−/− cortical neurons compared with ncx3+/+ neurons when
+
+of the newly synthesized compound, BED was drawn taking
+into consideration the chemical structure of a well-known NCX
+inhibitor, SEA0400.17 In particular, compared with the
+SEA0400 structure, the biphenyl ether moiety was maintained
+unaltered. In addition, two new groups, an amino group and an
+amide group, were inserted on one of the two benzene rings.
+These chemical modiﬁcations have produced dramatic changes
+in the biological activity of this compound, determining a high
+NCX3 isoform selectivity and potency never found in any other
+NCX inhibitor so far described. In fact, the potency of BED
+(i.e., IC50 = 1 nM) is signiﬁcantly higher than that of the
+amiloride derivative 3-amino-6-chloro-5-[(4-chloro-benzyl)amino]-N-[[(2,4-dimethylbenzyl)amino]iminomethyl]-pyrazinecarboxamide (CB-DMB)15 used as reference drug in the
+present study and of the new isothyourea derivative YM244769 which is the most potent available NCX3 inhibitor
+working in the nanomolar range.18 However, YM-244769
+inhibits NCX3 only in the reverse mode of operation, whereas
+BED inhibits NCX3 when it acts bidirectionally. Interestingly,
+the substitution on the amino group with an acetamide group
+abolishes the eﬀect on NCX (data not shown), thus showing
+that the amino group plays an important role in the inhibitory
+eﬀect exerted by the newly synthesized drug. The use of
+deletion mutagenesis showed that the intracellular f-loop of
+NCX3, which is involved in the activity regulation of the
+antiporter,2,19 is not involved in BED inhibitory action. In
+contrast, the use of NCX1/NCX3 chimeras revealed that both
+the α1 and α2 repeats were mainly involved in BED inhibitory
+1366
+
+DOI: 10.1021/acschemneuro.5b00043
+ACS Chem. Neurosci. 2015, 6, 1361−1370
+
+Research Article
+
+ACS Chemical Neuroscience
+
+Figure 6. Eﬀect of BED on [Ca2+]i and cell survival of primary cortical neurons exposed to oxygen and glucose deprivation (OGD) plus
+reoxygenation and evaluation of infarct volume induced by tMCAo in C57/BL6 male treated with BED. (A) [Ca2+]i in cortical neurons (7−10 DIV
+(days in vitro)) under normoxic conditions, pretreated with 10 nM BED and then exposed to 24 h normoxia, exposed to 2 h OGD followed by 24 h
+reoxygenation, or pretreated with 10 nM BED and then exposed to 2 h OGD followed by 24 h reoxygenation. Values represent means ± SEM of
+three diﬀerent experiments. For each of the experiments, 11−25 individual cells were monitored. *p < 0.05 versus control group; **p < 0.05 versus
+all. (B) Cell death quantiﬁcation was performed by PI and ﬂuorescein dyes in 7−10 DIV cortical neurons exposed to 24 h normoxia, pretreated with
+10 nM BED and then exposed to 24 h normoxia, exposed to 2 h OGD followed by 24 h reoxygenation, or pretreated with 10 nM BED and then
+exposed to 2 h OGD followed by 24 h reoxygenation. At the end of the experiments, cells were stained with PI and ﬂuorescein and images were
+acquired as reported in Methods. Each bar represents the mean ± SEM of three diﬀerent experimental values studied in three independent
+experimental sessions. The data are reported as percent of cell death occurring in each group as compared with their respective normoxic cells. *p <
+0.05 versus normoxia and normoxia+BED; **p < 0.05 versus all. (C) Eﬀect of the drug on infarct volume evaluated by 2,3,5-triphenyl tetrazolium
+chloride (TTC) staining in C57/BL6 male mice subjected to tMCAo. Each column represents the mean ± SEM of the percent of the infarct volume
+compared to the ipsilateral hemisphere (n = 9 animals for each group). Ischemic mice were euthanized 24 h after tMCAo. *p < 0.05 versus control.
+
+more, in the same experimental conditions, BHK cells singly
+transfected with NCX3 show a greater resistance to hypoxia
+plus reoxygenation, maintaining the ability to buﬀer intracellular Ca2+ overload.14 This property might be correlated with
+the ability of NCX3 to operate, unlike the other two NCX
+isoforms expressed in the brain, NCX1 and NCX2, even when
+ATP levels are reduced.14 As matter of fact, the three NCX
+isoforms display a diﬀerent sensitivity to ATP levels.27 In
+particular, during ATP depletion, NCX1 and NCX2 isoform
+activity is reduced, whereas NCX3 is still operative.27 In
+agreement with this speciﬁc function proposed for NCX3, our
+previous experiments in vivo, entailing the induction of
+permanent middle cerebral artery occlusion in rats, have
+demonstrated that NCX3 mRNA is upregulated 24 h after the
+injury in brain regions belonging to the periinfarct area.28 This
+NCX3 upregulation, as opposed to NCX2 downregulation, has
+been interpreted as a compensatory mechanism that counterbalances the reduced activity of NCX2 protein, thus counteracting the dysregulation of [Ca2+]i homeostasis in the surviving
+neurons of the penumbra zone.28 This suggests a crucial role of
+neuronal NCX3 isoform in modulating [Ca2+]i homeostasis
+under hypoxic conditions. Collectively, the results obtained in
+the present research work indicate that BED is the most potent
+
+exposed to the hypoxic conditions. This eﬀect was possibly due
+to the increased [Ca2+]i recorded in the reoxygenation phase in
+the presence of BED in comparison to the reoxygenation phase
+alone, thus reinforcing the importance of NCX3 in buﬀering
+[Ca2+]i under hypoxic conditions. Accordingly, the damage of
+CA3 area in organotypic cultures was particularly exacerbated
+during OGD in the presence of BED. However, no signiﬁcant
+eﬀect of the drug was observed in CA1 and DG hippocampal
+sub regions exposed to OGD. This diﬀerent vulnerability of
+CA3 region to NCX3 inhibition exerted by BED might be
+ascribed to the greater expression of this isoform in CA3
+compared with CA1 and DG sub regions.3,16 Furthermore,
+BED, icv administered, dramatically increased the extent of the
+ischemic lesion in rats after MCAO followed by reperfusion,
+thus producing the impairment of several functions. Accordingly, mice lacking ncx3 gene exhibit reduced motor activity,
+weakness of forelimb muscles, and fatigability in comparison
+with ncx3+/+ mice.22 Furthermore, ncx3−/− mice exhibit
+hypomyelination that is accompanied by a reduction of spinal
+cord size23,24 and displays an impairment in hippocampal longterm potentiation and spatial learning and memory.25 At the
+cellular level, NCX3 extrudes Ca2+ from mitochondria, thus
+protecting neurons exposed to hypoxic conditions.26 Further1367
+
+DOI: 10.1021/acschemneuro.5b00043
+ACS Chem. Neurosci. 2015, 6, 1361−1370
+
+Research Article
+
+ACS Chemical Neuroscience
+
+Krebs medium to Na+-deﬁcient NMDG+ medium (Na+-free) (in
+mM): 5.5 KCl, 147 N-methyl glucamine, 1.2 MgCl2, 1.5 CaCl2, 10
+glucose, and 10 Hepes-NaOH (pH 7.4).14,33
+Measurement of Na+-Dependent 45Ca2+ Uptake and 45Ca2+
+Eﬄux. 45Ca2+ inﬂux into the cells was measured by the method
+previously described.14 After treatments, cells cultured in 24-well
+dishes were incubated in normal Krebs (in mM): 5.5 KCl, 145 NaCl,
+1.2 MgCl2, 1.5 CaCl2, 10 glucose, and 10 Hepes-NaOH, pH 7.4
+containing 1 mM ouabain and 10 μM monensin at 37 °C for 10 min.
+Then, 45Ca2+ uptake was initiated by switching the normal Krebs
+medium to Na+-free NMDG (in mM): 5.5 KCl, 147 N-methyl Dglucamine (NMDG), 1.2 MgCl2, 1.5 CaCl2, 10 glucose, and 10 HepesNaOH (pH 7.4) containing 10 μM 45Ca2+ (74 KBq/mL) and 1 mM
+ouabain. After 30 s incubation, cells were washed with an ice-cold
+solution containing 2 mM La3+ to stop 45Ca2+ uptake. Cells were
+subsequently solubilized with 0.1 N NaOH and aliquots were taken to
+determine radioactivity and protein content.34 To measure 45Ca2+
+eﬄux, cells were loaded with 1 μM 45Ca2+ (74 KBq/mL) together with
+1 μM ionomycin for 60 s in normal Krebs. Next, cells were exposed
+either to a Ca2+- and Na+-free solution (a condition that blocks both
+intracellular 45Ca2+ eﬄux and extracellular Ca2+ inﬂux) or to a Ca2+free plus 2 mM EGTA containing 145 mM Na+ (a condition that
+promotes 45Ca2+ eﬄux). Thapsigargin at 1 μM was present in both
+solutions. 45Ca2+ eﬄux was started by using Ca2+-free-Na+ containing
+solution plus 2 mM EGTA. Cells were exposed to this solution, which
+promotes 45Ca2+ eﬄux, for 10 s. At the time chosen (10 s), no eﬄux
+was detected in BHK-Wilde cells. Na0+-dependent 45Ca2+ eﬄux was
+estimated by subtracting 45Ca2+ eﬄux in Ca2+- and Na+-free from that
+in Ca2+-free solution. Cells were subsequently solubilized with 0.1 N
+NaOH, and aliquots were taken to determine radioactivity and protein
+content by Bradford method.34
+Electrophysiology. All currents were recorded by patch-clamp
+technique in whole-cell conﬁguration using a Digidata 1322A interface
+(Molecular Devices). Data were acquired and analyzed using the
+pClamp software (version 9.0, Molecular Devices). The currents were
+recorded by ﬁre-polished borosilicate electrodes with a ﬁnal resistance
+of 2.5−4 MΩ ﬁlled with a speciﬁc internal solution. INCX ﬁltered at 5
+kHz was recorded from BHK wild type (Wt) and BHK-NCX1,
+-NCX2, and -NCX3 stably transfected cells.10,15 Brieﬂy, INCX was
+recorded starting from a holding potential of −60 mV up to a shortstep depolarization at +60 mV (60 ms).35 Then, a descending voltage
+ramp from +60 to −120 mV was applied. The current recorded in the
+descending portion of the ramp (from +60 to −120 mV) was used to
+plot the current−voltage (I−V) relation curve. The magnitudes of INCX
+were measured at the end of +60 mV (reverse mode) and at the end of
+−120 mV (forward mode), respectively. The Ni2+-insensitive
+components were subtracted from total currents to isolate INCX.
+External Ringer solution contained (in mM): 126 NaCl, 1.2 NaHPO4,
+2.4 KCl, 2.4 CaCl2, 1.2 MgCl2, 10 glucose and 18 NaHCO3, 20 TEA,
+10 nM TTX, and 10 μM nimodipine (pH 7.4). The dialysing pipet
+solution contained (mM): 100 K-gluconate, 10 tetraethylammonium
+(TEA), 20 NaCl, 1 Mg-ATP, and 0.1 CaCl2, 2 MgCl2, 0.75 EGTA,
+Hepes 10, adjusted to pH 7.2 with CsOH. TEA (20 mM) and Cs were
+included to block delayed outward rectiﬁer K+ components,
+nimodipine (10 μM) and TTX (50 nM) were added to external
+solution to block L-type Ca-channels and TTX-sensitive Na+-channels,
+respectively. INCX values were normalized for membrane capacitance.
+TTX-sensitive Na+ currents were recorded in pituitary GH3 cells as
+previously shown.15 For TTX-sensitive Na+ channel recordings,
+pituitary GH3 cells were perfused with an extracellular Ringer solution
+containing 20 mM TEA and 5 μM nimodipine. The pipettes were
+ﬁlled with (in mM): 110 CsCl, 10 TEA, 2 MgCl2, 10 EGTA, 8 glucose,
+2 Mg-ATP, 0.25 cAMP, and 10 HEPES, pH 7.3. TTX-sensitive Na+currents were recorded by applying, from an holding potential of −70
+mV, depolarizing voltage steps of 50 ms duration in 10 mV from −100
+to +50 mV elicited at 0.066 Hz frequency (1 pulse every 15 s). The
+current−voltage relationship of Na+ currents were obtained normalizing the peak value for the membrane voltage imposed during the
+step.
+
+and selective inhibitor of NCX3 so far identiﬁed, and suggest
+that this compound may represent a useful tool to dissect the
+diﬀerential role played by NCX3 isoform in all those diseases
+that require a tight control of Ca2+ homeostasis through NCX3
+function.
+
+■
+
+METHODS
+
+Cell Culture, Cortical Neurons, and Organotypic Hippocampal Slice Cultures. Stably transfected Baby Hamster Kidney
+(BHK) cells with canine cardiac NCX1, rat brain NCX2, or NCX3
+were grown on plastic dishes in a mix of DMEM and Ham’s F12 media
+(1:1) (Invitrogen, MI, Italy) supplemented with 5% fetal bovine
+serum, 100 U/mL penicillin, and 100 μg/mL streptomycin (Sigma, St.
+Louis, MO).14 Cortical neurons were prepared from brains of 16-dayold Wistar rat embryos (Charles River) as previously reported29,33 and
+used at 7−10 days in vitro. Cells were cultured in a humidiﬁed 5%
+CO2 atmosphere, and the culture medium was changed every 2 days.
+For microﬂuorimetric and electrophysiological studies, cells were
+seeded on glass coverslips (Fisher, Springﬁeld, NJ) coated with poly-Llysine (30 μg/mL) (Sigma, St. Louis, MO) and used at least 12 h after
+seeding. Organotypic hippocampal slice cultures (OHSCs) were
+prepared as previously described.30 Brieﬂy, 400 μm thick coronal brain
+slices from P5−P7 mouse pups were used. To increase the
+reproducibility of the data, two consecutive slices from the two
+hippocampi of the same animal were always dissected at the same level
+in all the experimental groups. Slices were grown on semi permeable
+ﬁlter inserts (Millipore, GIBCO, Italy) in six-well plates containing
+culture medium (50% minimum essential medium, 25% Hank’s
+balanced salt solution, 25% heat inactivated horse serum, 5 mg/mL
+glucose, 1 mM glutamine, 1% Fungizone). The culture period was 14
+days in vitro.
+Generation and Stable Expression of Wild-Type and Mutant
+Exchangers. BHK cell lines, expressing dog heart NCX1.1, rat brain
+NCX2.1 and NCX3.3 were generous gift from Dr. Kenneth Philipson
+(UCLA, Los Angeles, CA). Deletion mutant NCX3, NCX3Δf, was
+obtained deleting amino acidic region 292−708 of rat brain NCX3
+cDNA by means of quikchange site-directed mutagenesis kit
+(Stratagene, Italy). cDNA of NCX1/NCX3 chimeras were obtained
+from Dr. Takahiro Iwamoto (Fukuoka University, Japan). To stably
+express chimeric and mutant exchangers, pKCRH or pCEFL plasmids
+carrying exchanger cDNAs were transfected in the presence of
+Lipofectamine 2000 (Invitrogen, Italy) into wild-type BHK cell line.
+Cell clones highly expressing Na+/Ca2+ exchange activity were selected
+by a Ca2+-killing procedure with the Ca2+ ionophore Ionomycin. In the
+presence of this ionophore, cells not expressing the exchanger died for
+Ca2+ overload.31
+[Ca2+]i Measurement. [Ca2+]i was measured by single cell
+computer-assisted video imaging as previously shown.14 Brieﬂy, BHK
+cells, grown on glass coverslips, were loaded with 6 μM Fura-2
+acetoxymethyl ester (Fura-2AM) for 30 min at 37 °C in normal Krebs
+solution containing the following (in mM): 5.5 KCl, 160 NaCl, 1.2
+MgCl2, 1.5 CaCl2, 10 glucose, and 10 Hepes-NaOH, pH 7.4. At the
+end of the Fura-2AM loading period, the coverslips were placed into a
+perfusion chamber (Medical System, Co. Greenvale, NY) mounted
+onto the stage of an inverted Zeiss Axiovert 200 microscope (Carl
+Zeiss, Germany) equipped with a FLUAR 40× oil objective lens. The
+experiments were carried out with a digital imaging system composed
+of a MicroMax 512BFT cooled CCD camera (Princeton Instruments,
+Trenton, NJ, USA), LAMBDA 10-2 ﬁlter wheeler (Sutter Instruments,
+Novato, CA), and Meta-Morph/MetaFluor Imaging System software
+(Universal Imaging, West Chester, PA). After loading, cells were
+alternatively illuminated at wavelengths of 340 and 380 nm by a xenon
+lamp. The emitted light was passed through a 512 nm barrier ﬁlter.
+Fura-2 ﬂuorescence intensity was measured every 3 s. Forty to sixtyﬁve individual cells were selected and monitored simultaneously from
+each coverslip. All the results are presented as cytosolic Ca2+
+concentration. Assuming that the KD for FURA-2 was 224 nM, the
+equation of Grynkiewicz32 was used for calibration. NCX activity,
+shown NCX reverse mode was determined by switching the normal
+1368
+
+DOI: 10.1021/acschemneuro.5b00043
+ACS Chem. Neurosci. 2015, 6, 1361−1370
+
+Research Article
+
+ACS Chemical Neuroscience
+Oxygen and Glucose Deprivation. Hypoxic conditions were
+induced by exposing hippocampal cultures to oxygen- and glucose-free
+medium in a humidiﬁed atmosphere containing 95% nitrogen and 5%
+CO2.36 After 25 min of OGD followed by 24 h of reoxygenation, cell
+injury was assessed using the ﬂuorescent dye propidium iodide (PI)
+(Invitrogen). Its uptake was recorded with a digital camera (Media
+Cybernetics, Silver Springs, MD) mounted on a Nikon Eclipse 400
+ﬂuorescence microscope (Nikon Instruments, Florence, Italy). For
+densitometric measurements, the digital photos were analyzed with the
+Image Pro-Plus software (Media Cybernetics), after freehand outlining
+of the CA1, CA3, and dentate gyrus (DG) neuronal layers was
+performed as previously described.37 Densitometric data were
+obtained by an integrated algorithm that considers the mean of
+optical density.30 In primary cortical neurons, cell injury was assessed
+after 3 h of OGD followed by 21 h of reoxygenation. PI (7 μM) and
+ﬂuorescein diacetate (FDA; 36 μM) positive cells were counted in
+three representative high-power ﬁelds of independent cultures, and cell
+death was determined by the ratio of the number of PI-positive cells/
+PI FDA positive cells.
+Experimental Groups for in Vivo Studies. C57/BL6 mice
+(Charles River, Italy) aged between 6 and 8 weeks and weighing 27−
+30 g were housed under diurnal lighting conditions. Experiments were
+performed according to the international guidelines for animal
+research and approved by the Animal Care Committee of “Federico
+II”, University of Naples, Italy.
+Transient Middle-Cerebral Artery Occlusion Model (tMCAo).
+Mice were subjected to tMCAo as previously described.38 A 5-0 nylon
+ﬁlament was inserted through the external carotid artery stump and
+advanced into the left internal carotid artery until it blocked the origin
+of the middle cerebral artery (MCA). After 60 min MCA occlusion,
+the ﬁlament was withdrawn to restore blood ﬂow.
+Monitoring of Blood Gas Concentration and Cerebral Blood
+Flow (CBF) with Laser-Doppler Flowmetry. A catheter was
+inserted into the femoral artery to measure arterial blood gases before
+and after ischemia (Rapid lab 860; Chiron Diagnostic). CBF was
+monitored in the cerebral cortex ipsilateral to the occluded MCA with
+a laser-Doppler ﬂowmeter (Periﬂux system, 5000). Once a stable CBF
+signal was obtained, the MCA was occluded. CBF monitoring was
+continued up to 30 min after the end of the surgical procedure, when
+the occurred reperfusion was veriﬁed.
+Evaluation of the Ischemic Volume. Mice were sacriﬁced 24 h
+after ischemia. Ischemic volume was evaluated by 2,3,5-triphenyl
+tetrazolium chloride (TTC) staining.39 The infarct area was calculated
+with image analysis software (Image-Pro Plus).3 The total infarct
+volume was expressed as percentage of the volume of the hemisphere
+ipsilateral to the lesion.3 Ischemic volumes were evaluated in a blind
+manner.
+Drugs, Statistical Analysis, and Determination of IC50’s. BED
+was solubilized in dimethyl sulfoxide at concentrations of 1 mM, and
+stock solutions were kept at −20 °C. Appropriate drug dilutions were
+prepared daily. Statistical analysis was performed with 2-way ANOVA,
+followed by Newman-Keuel’s test. Statistical signiﬁcance was accepted
+at the 95% conﬁdence level (p < 0.05). Values are expressed as means
+± SEM. To obtain IC50’s of BED, all data were ﬁtted to the following
+binding isotherm: y = max/(11X/IC50)n, where X is the drug
+concentration and n is the Hill coeﬃcient.
+
+■
+
+conducted
+Ambrosino,
+analysis. A.
+Annunziato
+manuscript.
+
+experiments. G. Pignataro, A. Secondo, P.
+A. Pannaccione, and F. Boscia performed data
+Secondo, G. Pignataro, G. Di Renzo, and L.
+wrote or contributed to the writing of the
+
+Funding
+
+This work was supported by PON03PE_00146_1 by MIUR,
+Progetto Giovani Ricercatori GR-2010-2318138 from Ministero della Salute to A. Secondo, FISM 2012/R/1 to F. Boscia,
+and Futuro in Ricerca MIUR (RBFR13M6FN) to P. Molinaro.
+Notes
+
+The authors declare no competing ﬁnancial interest.
+
+■
+■
+
+ACKNOWLEDGMENTS
+We thank Dr. Paola Merolla for editorial revision.
+REFERENCES
+
+(1) Philipson, K. D., and Nicoll, D. A. (2000) Sodium-calcium
+exchange: A molecular perspective. Annu. Rev. Physiol. 62, 111−133.
+(2) Annunziato, L., Pignataro, G., and Di Renzo, G. F. (2004)
+Pharmacology of brain Na+-Ca2+ exchanger: from molecular biology to
+therapeutic perspectives. Pharmacol. Rev. 56, 633−654.
+(3) Pignataro, G., Gala, R., Cuomo, O., Tortiglione, A., Giaccio, L.,
+Castaldo, P., Sirabella, R., Matrone, C., Canitano, A., Amoroso, S., Di
+Renzo, G., and Annunziato, L. (2004) Two sodium/calcium exchanger
+gene products, NCX1 and NCX3, play a major role in the
+development of permanent focal cerebral ischemia. Stroke 35, 2566−
+2570.
+(4) Molinaro, P., Cuomo, O., Pignataro, G., Boscia, F., Sirabella, R.,
+Pannaccione, A., Secondo, A., Scorziello, A., Adornetto, A., Gala, R.,
+Viggiano, D., Sokolow, S., Herchuelz, A., Schurmans, S., Di Renzo, G.,
+and Annunziato, L. (2008) Targeted disruption of Na+-Ca2+ exchanger
+3 (NCX3) gene leads to a worsening of ischemic brain damage. J.
+Neurosci. 28, 1179−1184.
+(5) Ren, X., and Philipson, K. D. (2013) The topology of the cardiac
+Na+/Ca2+ exchanger, NCX1. J. Mol. Cell. Cardiol. 57, 68−71.
+(6) Nicoll, D. A., Longoni, S., and Philipson, K. D. (1990) Molecular
+cloning and functional expression of the cardiac sarcolemmal Na+-Ca2+
+exchanger. Science 250, 562−5.
+(7) Li, Z., Matsuoka, S., Hryshko, L. V., Nicoll, D. A., Bersohn, M.
+M., Burke, E. P., Lifton, R. P., and Philipson, K. D. (1994) Cloning of
+the NCX2 isoform of the plasma membrane Na+-Ca2+ exchanger. J.
+Biol. Chem. 269, 17434−17439.
+(8) Nicoll, D. A., Quednau, B. D., Qui, Z., Xia, Y. R., Lusis, A. J., and
+Philipson, K. D. (1996) Cloning of a third mammalian Na+/Ca2+
+exchanger, NCX3. J. Biol. Chem. 271, 24914−24921.
+(9) Nicoll, D. A., Ottolia, M., Lu, L., Lu, Y., and Philipson, K. D.
+(1999) A new topological model of the cardiac sarcolemmal Na+/Ca2+
+exchanger. J. Biol. Chem. 274, 910−917.
+(10) Secondo, A., Molinaro, P., Pannaccione, A., Esposito, A.,
+Cantile, M., Lippiello, P., Sirabella, R., Iwamoto, T., Di Renzo, G., and
+Annunziato, L. (2011) Nitric oxide stimulates NCX1 and NCX2 but
+inhibits NCX3 isoform by three distinct molecular determinants. Mol.
+Pharmacol. 79, 558−568.
+(11) Sharikabad, M. N., Cragoe, E. J., and Brors, O. (1997) Inhibition
+by 5-N-(4-chlorobenzyl)-2′,4′-dimethylbenzamil of Na+-Ca2+ exchange
+and L-type Ca2+ channels in isolated cardiomyocytes. Pharmacol.
+Toxicol. 80, 57−61.
+(12) Kaczorowski, G. J., Slaughter, R. S., King, V. F., and Garcia, M.
+L. (1989) Inhibitors of sodium-calcium exchange: Identification and
+development of probes of transport activity. Biochim. Biophys. Acta
+988, 287−302.
+(13) Fiorino, F., Eiden, M., Giese, A., Severino, B., Esposito, A.,
+Groschup, M. H., Perissutti, E., Magli, E., Incisivo, G. M., Ciano, A.,
+Frecentese, F., Kretzschmar, H. A., Wagner, J., Santagada, V., and
+Caliendo, G. (2012) Synthesis of benzamide derivatives and their
+evaluation as antiprion agents. Bioorg. Med. Chem. 20, 5001−5011.
+
+AUTHOR INFORMATION
+
+Corresponding Author
+
+*Telephone: +39-81-7463318. Fax: +39-81-7463323. E-mail:
+lannunzi@unina.it.
+Author Contributions
+∥
+
+A. Secondo and G. Pignataro contributed equally to this work.
+A. Secondo, G. Pignataro, V. Santagada, G. Caliendo, G. Di
+Renzo, and L. Annunziato participated in research design. A.
+Secondo, P. Ambrosino, A. Pannaccione, P. Molinaro, M.
+Cantile, F. Boscia, A. Esposito, O. Cuomo, M. J. Sisalli, A.
+Scorziello, N. Guida, S. Anzillotti, B. Severino, and F. Fiorino
+1369
+
+DOI: 10.1021/acschemneuro.5b00043
+ACS Chem. Neurosci. 2015, 6, 1361−1370
+
+Research Article
+
+ACS Chemical Neuroscience
+(14) Secondo, A., Staiano, R. I., Scorziello, A., Sirabella, R., Boscia, F.,
+Adornetto, A., Valsecchi, V., Molinaro, P., Canzoniero, L. M., Di
+Renzo, G., and Annunziato, L. (2007) BHK cells transfected with
+NCX3 are more resistant to hypoxia followed by reoxygenation than
+those transfected with NCX1 and NCX2: Possible relationship with
+mitochondrial membrane potential. Cell Calcium 42, 521−535.
+(15) Secondo, A., Pannaccione, A., Molinaro, P., Ambrosino, P.,
+Lippiello, P., Esposito, A., Cantile, M., Khatri, P. R., Melisi, D., Di
+Renzo, G., and Annunziato, L. (2009) Molecular pharmacology of the
+amiloride analog 3-amino-6-chloro-5-[(4-chloro-benzyl)amino]-n[[(2,4-dimethylbenzyl)-amino ]iminomethyl]-pyrazinecarboxamide
+(CB-DMB) as a pan inhibitor of the Na+-Ca2+ exchanger isoforms
+NCX1, NCX2, and NCX3 in stably transfected cells. J. Pharmacol. Exp.
+Ther. 331, 212−21.
+(16) Papa, M., Canitano, A., Boscia, F., Castaldo, P., Sellitti, S.,
+Porzig, H., Taglialatela, M., and Annunziato, L. (2003) Differential
+expression of the Na+-Ca2+ exchanger transcripts and proteins in rat
+brain regions. J. Comp. Neurol. 461, 31−48.
+(17) Matsuda, T., Arakawa, N., Takuma, K., Kishida, Y., Kawasaki, Y.,
+Sakaue, M., Takahashi, K., Takahashi, T., Suzuki, T., Ota, T., HamanoTakahashi, A., Onishi, M., Tanaka, Y., Kameo, K., and Baba, A. (2001)
+SEA0400, a novel and selective inhibitor of the Na+-Ca2+ exchanger,
+attenuates reperfusion injury in the in vitro and in vivo cerebral
+ischemic models. J. Pharmacol. Exp. Ther. 298, 249−256.
+(18) Iwamoto, T., and Kita, S. (2006) YM-244769, a novel Na+-Ca2+
+exchange inhibitor that preferentially inhibits NCX3, efficiently
+protects against hypoxia/reoxygenation-induced SH-SY5Y neuronal
+cell damage. Mol. Pharmacol. 70, 2075−2083.
+(19) Ryan, C., Shaw, G., and Hardwicke, P. M. (2007) Effect of Ca2+
+on protein kinase A-mediated phosphorylation of a specific serine
+residue in an expressed peptide containing the Ca2+-regulatory
+domain of scallop muscle Na+-Ca2+ exchanger. Ann. N.Y. Acad. Sci.
+1099, 43−52.
+(20) Molinaro, P., Cantile, M., Cuomo, O., Secondo, A.,
+Pannaccione, A., Ambrosino, P., Pignataro, G., Fiorino, F., Severino,
+B., Gatta, E., Sisalli, M. J., Milanese, M., Scorziello, A., Bonanno, G.,
+Robello, M., Santagada, V., Caliendo, G., Di Renzo, G., and
+Annunziato, L. (2013) Neurounina-1, a novel compound that
+increases Na+-Ca2+ exchanger activity, effectively protects against
+stroke damage. Mol. Pharmacol. 83, 142−156.
+(21) Iwamoto, T. (2007) Na+-Ca2+ exchange as a drug target–
+insights from molecular pharmacology and genetic engineering. Ann.
+N.Y. Acad. Sci. 1099, 516−28.
+(22) Sokolow, S., Manto, M., Gailly, P., Molgo, J., Vandebrouck, C.,
+Vanderwinden, J. M., Herchuelz, A., and Schurmans, S. (2004)
+Impaired neuromuscular transmission and skeletal muscle fiber
+necrosis in mice lacking Na/Ca exchanger 3. J. Clin. Invest. 113,
+265−273.
+(23) Boscia, F., D’Avanzo, C., Pannaccione, A., Secondo, A.,
+Casamassa, A., Formisano, L., Guida, N., Sokolow, S., Herchuelz, A.,
+and Annunziato, L. (2012) Silencing or knocking out the Na+-Ca2+
+exchanger-3 (NCX3) impairs oligodendrocyte differentiation. Cell
+Death Differ. 19, 562−572.
+(24) Annunziato, L., Boscia, F., and Pignataro, G. (2013) Ionic
+transporter activity in astrocytes, microglia, and oligodendrocytes
+during brain ischemia. J. Cereb. Blood Flow Metab. 33, 969−982.
+(25) Molinaro, P., Viggiano, D., Nistico, R., Sirabella, R., Secondo, A.,
+Boscia, F., Pannaccione, A., Scorziello, A., Mehdawy, B., Sokolow, S.,
+Herchuelz, A., Di Renzo, G. F., and Annunziato, L. (2012) Na+-Ca2+
+exchanger (NCX3) knock-out mice display an impairment in
+hippocampal long-term potentiation and spatial learning and memory.
+J. Neurosci. 31, 7312−7321.
+(26) Scorziello, A., Savoia, C., Sisalli, M. J., Adornetto, A., Secondo,
+A., Boscia, F., Esposito, A., Polishchuk, E. V., Polishchuk, R. S.,
+Molinaro, P., Carlucci, A., Lignitto, L., Di Renzo, G., Feliciello, A., and
+Annunziato, L. (2013) NCX3 regulates mitochondrial Ca2+ handling
+through the AKAP121-anchored signaling complex and prevents
+hypoxia-induced neuronal death. J. Cell Sci. 126, 5566−5577.
+
+(27) Linck, B., Qiu, Z., He, Z., Tong, Q., Hilgemann, D. W., and
+Philipson, K. D. (1998) Functional comparison of the three isoforms
+of the Na+-Ca2+ exchanger (NCX1, NCX2, NCX3). Am. J. Physiol. 274,
+C415−C423.
+(28) Boscia, F., Gala, R., Pignataro, G., de Bartolomeis, A., Cicale, M.,
+Ambesi-Impiombato, A., Di Renzo, G., and Annunziato, L. (2006)
+Permanent focal brain ischemia induces isoform-dependent changes in
+the pattern of Na+-Ca2+ exchanger gene expression in the ischemic
+core, periinfarct area, and intact brain regions. J. Cereb. Blood Flow
+Metab. 26, 502−517.
+(29) Scorziello, A., Pellegrini, C., Forte, L., Tortiglione, A., Gioielli,
+A., Iossa, S., Amoroso, S., Tufano, R., Di Renzo, G., and Annunziato, L.
+(2001) Differential vulnerability of cortical and cerebellar neurons in
+primary culture to oxygen glucose deprivation followed by
+reoxygenation. J. Neurosci. Res. 63, 20−26.
+(30) Boscia, F., Annunziato, L., and Taglialatela, M. (2006)
+Retigabine and flupirtine exert neuroprotective actions in organotypic
+hippocampal cultures. Neuropharmacology 51, 283−294.
+(31) Iwamoto, T., Wakabayashi, S., Imagawa, T., and Shigekawa, M.
+(1998) Na+-Ca2+ exchanger overexpression impairs calcium signaling
+in fibroblasts: inhibition of the [Ca2+] increase at the cell periphery
+and retardation of cell adhesion. Eur. J. Cell. Biol. 76, 228−236.
+(32) Grynkiewicz, G., Poenie, M., and Tsien, R. Y. (1985) A new
+generation of Ca2+ indicators with greatly improved fluorescence
+properties. J. Biol. Chem. 260, 3440−3450.
+(33) Sirabella, R., Secondo, A., Pannaccione, A., Scorziello, A.,
+Valsecchi, V., Adornetto, A., Bilo, L., Di Renzo, G., and Annunziato, L.
+(2009) Anoxia-induced NF-kappaB-dependent upregulation of NCX1
+contributes to Ca2+ refilling into endoplasmic reticulum in cortical
+neurons. Stroke 40, 922−929.
+(34) Bradford, M. M. (1976) A rapid and sensitive method for the
+quantitation of microgram quantities of protein utilizing the principle
+of protein-dye binding. Anal. Biochem. 72, 248−254.
+(35) He, L. P., Cleemann, L., Soldatov, N. M., and Morad, M. (2003)
+Molecular determinants of cAMP-mediated regulation of the Na+-Ca2+
+exchanger expressed in human cell lines. J. Physiol. 548, 677−689.
+(36) Scorziello, A., Santillo, M., Adornetto, A., Dell’aversano, C.,
+Sirabella, R., Damiano, S., Canzoniero, L. M., Renzo, G. F., and
+Annunziato, L. (2007) NO-induced neuroprotection in ischemic
+preconditioning stimulates mitochondrial Mn-SOD activity and
+expression via Ras/ERK1/2 pathway. J. Neurochem. 103, 1472−1480.
+(37) Boscia, F., Ferraguti, F., Moroni, F., Annunziato, L., and
+Pellegrini-Giampietro, D. E. (2008) mGlu1alpha receptors are coexpressed with CB1 receptors in a subset of interneurons in the CA1
+region of organotypic hippocampal slice cultures and adult rat brain.
+Neuropharmacology 55, 428−439.
+(38) Longa, E. Z., Weinstein, P. R., Carlson, S., and Cummins, R.
+(1989) Reversible middle cerebral artery occlusion without
+craniectomy in rats. Stroke 20, 84−91.
+(39) Bederson, J. B., Pitts, L. H., Germano, S. M., Nishimura, M. C.,
+Davis, R. L., and Bartkowski, H. M. (1986) Evaluation of 2,3,5triphenyltetrazolium chloride as a stain for detection and quantification
+of experimental cerebral infarction in rats. Stroke 17, 1304−1308.
+
+1370
+
+DOI: 10.1021/acschemneuro.5b00043
+ACS Chem. Neurosci. 2015, 6, 1361−1370
+
+

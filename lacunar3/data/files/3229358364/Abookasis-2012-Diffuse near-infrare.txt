@@ -1,0 +1,1486 @@
+﻿Diffuse near-infrared reflectance
+spectroscopy during heatstroke in a
+mouse model: pilot study
+David Abookasis
+Elad Zafrir
+Elimelech Nesher
+Albert Pinhasov
+Shmuel Sternklar
+Marlon S. Mathews
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24226/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+(TRIAL VER. PDF Extractor SDK 8.0.0.2542.28915370)
+[Link]
+http://dx.doi.org/10.1117/1.JBO.17.10.105009
+[Link]
+http://dx.doi.org/10.1117/1.JBO.17.10.105009
+[Link]
+http://dx.doi.org/10.1117/1.JBO.17.10.105009
+[Link]
+http://dx.doi.org/10.1117/1.JBO.17.10.105009
+[Link]
+http://dx.doi.org/10.1117/1.JBO.17.10.105009
+[Link]
+http://dx.doi.org/10.1117/1.JBO.17.10.105009
+Diffuse near-infrared reflectance spectroscopy during
+heatstroke in a mouse model: pilot study
+David Abookasis,a Elad Zafrir,a Elimelech Nesher,b Albert Pinhasov,b Shmuel Sternklar,a and Marlon S. Mathewsc
+aAriel University Center of Samaria, Department of Electrical and Electronic Engineering, Ariel 44837, Israel
+bAriel University Center of Samaria, Department of Molecular Biology, Ariel 44837, Israel
+cUniversity of California Irvine, Department of Neurological Surgery, Medical Center, 101 The City Drive South, Orange, California 92868.
+Abstract. Heatstroke, a form of hyperthermia, is a life-threatening condition characterized by an elevated core body
+temperature that rises above 40°C (104°F) and central nervous system dysfunction that results in delirium, convulsions
+, or coma. Without emergency treatment, the victim lapses into a coma and death soon follows. The
+study presented was conducted with a diffuse reflectance spectroscopy (DRS) setup to assess the effects of
+brain dysfunction that occurred during heatstroke in mice model (n ¼ 6). It was hypothesized that DRS can be
+utilized in small animal studies to monitor change in internal brain tissue temperature during heatstroke injury
+since it induces a sequence of pathologic changes that change the tissue composition and structure. Heatstroke
+was induced by exposure of the mice body under general anesthesia, to a high ambient temperature. A type of DRS
+in which the brain tissue was illuminated through the intact scalp with a broadband light source and diffuse
+reflected spectra was employed, taking in the spectral region between 650 and 1000 nm and acquired at an
+angle of 90 deg at a position on the scalp ∼12 mm from the illumination site. The temperature at the onset of
+the experiment was∼34°C (rectal temperature) with increasing intervals of 1°C until mouse death. The increase
+in temperature caused optical scattering signal changes consistent with a structural alteration of brain tissue, ultimately
+resulting in death. We have found that the peak absorbance intensity and its second derivative at specific
+wavelengths correlate well with temperature with an exponential dependence. Based on these findings, in order to
+estimate the influence of temperature on the internal brain tissue a reflectance-temperature index was established
+and was seen to correlate as well with measured temperature. Overall, results indicate variations in neural tissue
+properties during heatstroke and the feasibility to monitor and assess internal temperature variations using DRS.
+Although several approaches have described the rise in temperature and its impact on tissue, to the best of our
+knowledge no information is available describing the ability to monitor temperature during heatstroke with
+DRS. The motivation of this study was to successfully describe this ability. © 2012 Society of Photo-Optical Instrumentation
+Engineers (SPIE). [DOI: 10.1117/1.JBO.17.10.105009]
+Keywords: heatstroke; diffuse reflectance; optical properties; absorbance; cerebral hemodynamics.
+Paper 12253 received Apr. 24, 2012; revised manuscript received Sep. 12, 2012; accepted for publication Sep. 20, 2012; published
+online Oct. 18, 2012; corrected Nov. 5, 2012.
+1 Introduction
+Systemic hyperthermia in the body is manifested as three separate
+entities: heat cramps, heat exhaustion and heatstroke, the
+latter two being life-threatening.1–3Signs of systemic hyperthermia
+include muscle cramps; excessive fatigue or weakness, or
+both; loss of coordination; a slowing of reaction time; headache;
+decrease comprehension; nausea and vomiting; and dizziness.
+Unlike heat cramps and heat exhaustion, heatstroke is a true
+medical emergency and is often fatal if not properly and
+promptly treated.4–6Heat stroke occurs particularly in non-acclimated
+individuals who are exposed to high environmental temperatures.
+The body normally generates heat as a result of
+metabolism, and the body is usually able to dissipate the heat
+by either radiation of heat through the skin or by evaporation
+of sweat. However, in extreme heat the thermal regulatory
+mechanisms fail, and body temperature rises. Usually, above
+40°C (104°F) brain damage occurs and death follows if vigorous
+measures are not instituted.7,8 Thus, early diagnosis and proper
+treatment are crucial for the patient’s survival. Immediate
+cooling and support of organ-system function are the two
+main therapeutic objectives in patients with heatstroke. Several
+cooling methods have been presented in the literature including
+immersion in water at different temperatures, evaporative
+cooling, ice pack application, pharmacological treatment and
+invasive techniques.9–11 The populations most susceptible to
+heatstrokes are infants, older people in poor health (often
+with associated heart diseases, lung diseases, kidney diseases,
+or on certain medications that make them vulnerable to heat
+strokes), athletes, or outdoor workers physically exerting themselves
+under the sun. Susceptibility is greater in those with a
+disorder of the skin or sweat glands, and those taking anticholinergic
+drugs (which reduce sweating). Overstrenuous activity,
+unsuitable clothing, overeating, and drinking too much alcohol
+are sometimes contributory factors. However, some individuals
+can develop symptoms of heatstroke suddenly and rapidly without
+warning.
+It is widely accepted that heatstroke develops as a result of an
+increase in body temperature leading to multiorgan damage.
+Therefore, methods to monitor and measure changes in internal
+temperature are important. Current clinical methods for
+Address all correspondence to: David Abookasis, Ariel University Center of
+Samaria, Department of Electrical and Electronic Engineering, Ariel 44837, Israel.
+Tel: 972-3-9066357; Fax: 972-3-9755807; E-mail: davida@ariel.ac.il 0091-3286/2012/$25.00 © 2012 SPIE
+Journal of Biomedical Optics 105009-1 October 2012 • Vol. 17(10)
+Journal of Biomedical Optics 17(10), 105009 (October 2012)
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24226/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+(EVALUATION PDF Extractor SDK 8.0.0.2542.448071407)
+monitoring temperature are divided into two categories, invasive
+and noninvasive. Techniques such as tympanic membrane
+thermometry, zero heat flow, microwave radiometry, magnetic
+resonance thermometry, and ultrasound thermometry besides
+the conventional oral or rectal electronic thermometers are in
+use.12,13However, accuracy, complexity, cost, portability, safety,
+and continuous measurements can influence the suitability of
+these techniques. For instance, rectal temperature may not
+accurately reflect brain temperature, especially during global
+ischemia. The development of a non-invasive device which
+overcomes these factors will be vital in medical management
+of heatstroke. Interest in using optical techniques is on the
+rise as they possess many advantages such as being noninvasive,
+portable, relative low cost, easy to maintain, can be used repeatedly
+over a prolonged period of time with no adverse effects, and
+offer both high spatial and temporal resolution.14–16 So far, several
+researchers have successfully demonstrated the
+feasibility of using optical techniques such as near-infrared
+spectroscopy12,17–19 optical coherence tomography,20 laser
+speckle imaging,21 and fiber-optics sensors22 to monitor
+temperature changes in a noninvasive fashion from turbid
+media as well as from living tissue.
+Diffuse reflectance spectroscopy (DRS) is an established tool
+widely studied and used to investigate physiology below tissue
+surface. It is a simple, low-cost, and noninvasive modality with
+great potential for diagnostic applications as it is sensitive to
+absorption and scattering properties of biological molecules
+in tissue. Therefore, it has the potential to provide biochemical
+composition (chromophores content) and morphology (structure
+) information about biological tissue.23–28 The spectroscopy
+of tissue is possible owing to the weak absorption of the tissue in
+the near infrared (NIR) window (650 to 1000 nm). Classical
+DRS platforms include a light source, detector (spectrograph),
+and a pair of optical fibers separated by a fixed distance for
+delivery (illuminating fiber) and collection (collecting fiber)
+of light during measurements. Light entering the tissue undergoes
+a combination of multiple scattering and absorption and the
+reflected light from the tissue, called diffuse reflectance (R
+d
+), is
+recorded by the detector fiber. The light intensity decreases
+during its ‘banana path’ propagation according to the concentration
+of the absorbing chromophores (hemoglobin, fat, and
+water).29–31It has been shown that separation between the source
+and the detection points determines the sensitivity of the measured
+reflectance to the absorption coefficient (large separation
+distances, >∼10 mm) and to the scattering coefficient (short
+separation, <∼1mm ).32–39 Optical properties (absorption and
+scattering) can be extracted from the captured radiation with
+analytical models or Monte Carlo simulations. Even though
+there are several ways to model the measured diffuse reflectance
+spectra, in this work we used the two-source diffusion-based
+model for tissue reflectance as described by Farrel et al.40
+The use of diffusion theory is applicable here since: 1. measurements
+are obtained far from the boundaries, 2. the sourcedetector
+separation is ∼12 mm, and 3. the absorption effects
+in brain tissue are less than the scattering (the brain medium
+is very diffuse).
+As mentioned, several research groups have used NIR spectroscopy
+techniques to study the influence of temperature on
+NIR spectra since both photon path length and refractive indices
+are temperature dependent and because of the strong
+temperature-sensitivity of water absorption, which is reflected
+in intensity changes and wavelength shifts around its peak at
+970 nm.18,41–44 In addition, the effects of temperature on
+major tissue absorbers such as hemoglobin and water have
+been studied elsewhere.45,46 Works were obtained also to measure
+glucose under temperature perturbation.47–50 The aim of
+this study is to continue exploring this possibility in the
+wavelength range from 650 to 1000 nm during heatstroke
+with a different approach and configuration. We point out
+three differences as compared to the other techniques. First,
+we focus here on the temperature dependence of the absorbance
+spectra shift and its second derivative characteristics at specific
+wavelengths to evaluate the internal temperature of brain tissue.
+Second, in our setup the source and detector are orthogonal to
+each other on a curved brain surface with∼12 mm separation.
+Finally, we assume that during changes in temperature there are
+changes in tissue concentrations such as hemoglobin and water.
+These molecules absorb specific wavelengths of light which
+alters the optical properties of tissue and consequentially alter
+the shape of the diffuse optical spectra. Therefore, we hypothesize
+that DRS can be used to monitor change in internal brain
+tissue temperature during heatstroke injury.
+2 Materials and Methods
+2.1 Animal Preparation
+The study protocol described below was reviewed and approved
+by the Institutional Animal Care and Use Committee at Ariel
+University Center. Adult male mice (Sabra, aged eight to ten
+weeks, weight 45 to 50 g) were anesthetized by an intraperitoneal
+(IP) injection of combination of ketamine (100 mg∕kg) and
+xylazine (16 mg∕kg). The depth of anesthesia was ascertained
+by pinching of the toes or tail and by monitoring rate of breathing.
+Head was fixed and the hair was removed using hair
+removal cream. A folded heating plate (Thermo plate, Tokai
+Hit) was placed under the mouse to control the body temperature
+and a thermocouple rectal probe (YSI) was inserted ∼2cmto
+measure core body temperature. Hereafter, the temperature discussed
+is in reference to the measurements provided by the YSI
+probe. The mouse body was wrapped with aluminum foil to
+keep body temperature at a desired level. In live animals,
+heat is rapidly distributed throughout the body by circulating
+blood maintaining a uniform core body temperature. Thus a
+temperature gradient is not a concern for this experimental
+setup. A heating pad is widely used in rodent experiments to
+maintain a physiologic core body temperature during anesthesia.
+Heatstroke could be induced by viral or bacterial toxins, drugs
+(amphetamines, atropine, calcium antagonists, etc.), exercise, or
+exposure to a hot environment. As mentioned above, we choose
+the current model because of its simplicity and its popularity
+among research groups. Future research will consider changing
+this model and animal study. Other physiological parameters
+such as heart rate, and SpO
+2
+(arterial oxygen saturation) were
+monitored simultaneously using pulse oximeter (Nonin,
+8650). All mice were kept in their habitual environment until
+the day of the experiment. Heatstroke was induced by increasing
+the temperature of the folded heating plate (available up to
+50°C). Baseline reflectance measurements were obtained for
+10 min prior to external induction of hyperthermia. Thus
+each mouse served as its own control, decreasing the number
+of animals required for the study. All mice (n ¼ 6) underwent
+the same procedure. The measurements were started from baseline
+body temperature with increases of 1°C in interval times
+of∼3 min between measurements until mouse death. Table 1
+Journal of Biomedical Optics 105009-2 October 2012 • Vol. 17(10)
+Abookasis et al.: Diffuse near-infrared reflectance spectroscopy during heatstroke in a mouse . . .
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24226/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+( 8.0.0.2542.867227444 PDF Extractor SDK EVALUATION)
+presents the experimental details per mouse. As can be seen,
+heatstroke (death) occurred at an average temperature of
+40°C. This is lower than the conventional heatstroke level
+found in other mammals (∼42°C) such as rats, dogs, rabbits51
+and is likely due to the small body feature of the individual
+mouse. The environmental temperature was measured
+continuously during the experiments with an liquid crystal
+display (LCD) digital thermometer (Extech Instrument) and
+was 231°C.
+2.2 Instrumentation
+AschematicdiagramofthesetupisdrawnschematicallyinFig.1.
+The setup consists of a wideband light source, two optical fibers,
+spectrometer, temperature controller, pulse oximeter, rectal
+probe, and a computer station with control software. The lamp
+inside the light source (Stockler & Yale, Inc., M1000) was
+replaced with a broadband quartz-tungsten-halogen (EIKO,
+EXR) to gives a smooth broadband spectral profile along the
+NIRregionandstableintensityovertime.Oneoftheopticalfibers
+(illuminating fiber) is connected to this light source with a
+diameter of D ¼ 5mm . The light emanating from the brain is
+delivered to the spectrometer (Stellarnet, EPP2000) via the secondopticalfiber
+(collectingfiber,D ¼ 2mm )positionedperpendicular
+to the first fiber; That is, the diffuse reflectance was
+collected by the second fiber-optic probe that was mounted on
+the surface of the mice scalp at 90° to the brain surface and
+connected to a spectrometer (see Fig. 1).
+In this configuration, the reflected light collected by the collection
+fiber propagates through the brain layers (scalp, skull,
+CSF, gray, and white matter). But at our source detector separation
+the dominant signal is from photons passing through the
+brain. Hence the detected signal is sensitive to changes in optical
+property from the brain. The reflected signal is then dispersed
+and detected by the charge coupled device (CCD) array in the
+spectrometer. The spectrometer system has a 2048-elements linear
+CCD array with 12-bit resolution, and with a spectral range
+from 240 to 1200 nm. The spectrometer was controlled by a
+laptop computer running Windows operating system and is connected
+to the USB port of the computer. Spectrometer interface
+software was used between the spectrometer and the computer
+to display the optical reflectance in real-time. Both fibers were
+connected to a mechanical stage translation for position control
+and care was taken to ensure full contact between the probes and
+the brain surface throughout the experiments.
+2.3 Calibration
+The measured diffuse reflectance spectra were normalized to
+remove the effects of the light source spectrum, fiber attenuation
+, and the detector response by using the relation;
+^ R
+d
+ðλÞ¼ 
+R
+dmsr
+ðλÞ−R
+dark
+ðλÞ
+R
+whiteSTD
+ðλÞ−R
+dark
+ðλÞ
+; (1)
+where ^ R
+d
+is the normalized diffuse reflectance, R
+dmsr
+measured
+diffuse reflectance (raw spectra),R
+whiteSTD
+is the reflectance of a
+white standard, andR
+dark
+is the reflectance acquired in complete
+darkness, so that it is due to the electrical noise (thermal noise)
+of the CCD array. The spectrometer is programmed to automatically
+subtract a background reading for every reflectance measurement.
+The white surface provided ∼100% reflectance and
+was used to compensate for the spectral shape of the light
+emitted by the lamp and the wavelength-dependent sensitivity
+of the detector and the optics in the detecting system. Calibration
+spectra were routinely measured before data acquisition of the
+brain by placing the probe at a fixed distance from the white
+standard. It is quite usual and convenient to present the results
+in terms of absorbance (signal strength) spectra;A
+s
+. Absorbance
+was calculated by taking the log of the normalized diffuse reflectance ^ R
+d
+defined as,
+A
+s
+ðλÞ¼ −log
+10
+^ R
+d
+ðλÞ: (2)
+It is assumed that changes in spectral response are related to
+concentration as described by Beer’s law;52the absorbance of an
+analyte is equivalent to the product of the molar absorptivity (ε)
+of a specific type of molecular vibration (referred also as a molar
+Table 1 Mice details during experiments. The standard error represents combinations of variations in experimental conditions as well as differences
+in individual mice.
+Mouse1 Mouse2 Mouse3 Mouse4 Mouse5 Mouse6 MeanSE
+Age (weeks) 10 9 11 8 10 9 9.50.51
+Weight (g) 45 45 48 48 46 48 46.40.68
+Baseline temperature (°C) 32 34 33 34 38 32 33.81.01
+Heatstroke (°C) 40 39 38 40 43 39 39.80.83
+Fig. 1 Schematic configuration of the experimental apparatus. Light
+exiting the skull is collected by the collecting fiber mounted at an
+angle of 90 deg with respect to the incident beam. Source-detector
+separation (arc length) is∼12 mm.
+Journal of Biomedical Optics 105009-3 October 2012 • Vol. 17(10)
+Abookasis et al.: Diffuse near-infrared reflectance spectroscopy during heatstroke in a mouse . . .
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24226/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+(8.0.0.2542.1286383481 PDF Extractor SDK TRIAL VERSIOn)
+extinction), the concentration (C) of the molecules in the measurement
+beam and the pathlength (d) of the sample. This relationship
+is most often expressed as: A
+s
+¼ ε · C · d.
+2.4 Reflectance Model
+Numerous models based on the diffusion approximation of the
+transport equation have been described in the literature over the
+past few years.53–58In this study, we utilize the two-source diffusion
+theory model derived by Farrell et al.,40 who calculate the
+diffuse reflectance RðρÞ on the surface of a semi-infinite turbid
+medium in the diffusion approximation, i.e.,&micro
+a
+≪ μ0
+s
+and
+ii) ρ≫ ðμ
+a
+þμ0
+s
+Þ−1. Under these conditions, they obtained the
+following expression:
+R
+d
+ðρÞ¼ 
+k
+1
+ðμ
+a
+þμ0
+s
+Þ
+
+μ
+eff
+þ
+1
+r
+1
+
+·
+e−μeff·r1
+r2
+1
+þ
+
+1þ
+4
+3
+k
+2
+
+μ
+eff
+þ
+1
+r
+2
+
+·
+e−μeff·r2
+r2
+2
+
+; (3)
+with
+μ
+eff
+¼
+ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+3μ
+a
+ðμ
+a
+þμ0
+s
+Þ
+p
+; r 
+1
+¼
+ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+ρ2 þ
+
+1
+μ
+a
+þμ0
+s
+
+2
+s
+;
+r
+2
+¼
+ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+ρ2 þ
+
+1þ 4
+3
+k
+2
+	
+μ
+a
+þμ0
+s
+
+2
+s
+;
+where ρ - source-detector separation, μ
+a
+- the absorption coefficient
+[1∕mm], μ0
+s
+- the reduced scattering coefficient [1∕mm],
+μ
+eff
+is the effective attenuation coefficient obtained from the
+other two optical coefficients, and k
+1
+and k
+2
+are related to
+the light source intensity and the refractive index of the medium,
+respectively. Variations in physiological conditions as a result of
+heatstroke lead to changes of the optical properties since they are
+temperature dependent, and hence to changes in R
+d
+. For the
+given geometry shown in Fig. 1 and fixed source-detector
+separation, we use a tissue-like phantom with known optical
+properties over the wavelength range of 600 to 1000 nm to determine
+the values of k
+1
+and k
+2
+through the measured diffuse
+reflectance. A nonlinear least-squares fit with the Levenberg-
+Marquardt algorithm on Eq. (3) was performed and found k
+1
+¼
+2000 and k
+2
+¼ 1.3. Once the model [Eq. (3)] is calibrated
+against the experimental reflectance [Eq. (1)], it can be applied
+in an inverse manner to recover tissue optical properties. This
+will be demonstrated in the end of the next section.
+2.5 Data Analysis
+Prior to data analysis, the collected diffuse reflectance spectra,
+^ R
+d
+, was preprocessed using the fspecial function in MatLab to:
+1. remove spectral artifacts such as pulsations of the cortex due
+to respiration and heartbeat, and 2. to eliminate high frequency
+noise originated from the spectrometer. All spectra for a given
+temperature were collected sequentially during single data
+collection session. Data analysis was performed off-line using
+in-house scripts written in MatLab. The spectral range of the
+processed spectra was in the range of 650 to 1000 nm with
+2-nm increments. Spectra derivatives conducted during this
+study were performed using the Savitzky-Golay algorithm
+with respect to wavelength. Common statistics metrics such
+as Pearson’s correlation coefficient (R), root mean squared
+error (RMSE), and mean relative error (MRE), were computed
+to assess the fitting ability between reference temperature and
+the predicted data. These metrics were calculated based on
+the following expressions:
+R ¼
+P
+n
+i¼1
+ðy
+i;pred
+− ¯ yÞ2
+P
+n
+i¼1
+ðy
+i;ref
+− ¯ yÞ2
+
+1∕2
+(4)
+RMSE ¼
+ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+P
+n
+i¼1
+ðy
+i;pred
+−y
+i;ref
+Þ2
+n
+s
+MRE ¼
+
+1
+n
+X n
+i¼1
+
+
+
+
+
+
+
+
+y
+i;pred
+−y
+i;ref
+y
+i;ref
+
+
+
+
+
+
+
+
+
+×100:
+In these equations, y
+i;ref
+is the reference (actual) temperature
+value at the i measurements obtained with the YSI probe,
+y
+i;pred
+represent the predicted (estimated) temperature by the
+developed RTI index, ¯ y is the mean of each measurement,
+and n is the total number of measurements used. We will use
+these metrics to evaluate the feasibility of temperature prediction
+on a new mice brain as part of the validation processing. All
+computations for this study were implemented with software
+written in MatLab platform (MathWorks, R2010b).
+3 Results and Discussion
+Figure 2(a) shows the absorbance spectrum measured on a
+representative mouse brain (mouse #1, Table 1) with three
+different temperatures (32°C, 38°C, and 40°C) out of 10
+measurements, conducted on the same animal, for easier visual
+representation. In Fig.2(b)the region between 940 and 1000 nm
+was magnified to emphasize the change in absorbance intensity
+peak around 970 nm. In both panels, the effect of temperature on
+the absorbance spectrum is clearly observed and the difference
+between spectral intensities is noticeable. Based on the effect of
+temperature on the absorbance measurements shown we assume
+that both scattering and absorption alterations occur as a result
+of chromophores and morphological changes. The dominant
+feature is in the absorbance of water that peaks around
+970 nm. As it can be seen, this peak decreased and shifts slightly
+to a shorter wavelengths (left shift) as temperature rises. This
+shift to a lower wavelength as the temperature increases resemble
+the Wien’s displacement law.59 The intensity and shift
+changes at 970 nm are attributed to the fact that an increase
+in temperature results in a change of water absorptivity (and
+concentration) as a result of weakening and reduction of hydrogen
+bonds; water molecules absorb photon energy attributed to
+the vibrational overtone of the O H bond around 970 nm.18,60
+Therefore, the changes at this wavelength can be considered as a
+qualitative indicator of water accumulation in the tissue and
+therefore tissue and cellular edema during heatstroke injury.
+It is important to note the change occurring in the spectral
+shape of the absorbance to understand physiological changes
+during heatstroke. Specifically, we are interested in several
+wavelengths across the spectra that reflect tissue composition;
+i.e., characteristic changes in tissue composition at particular
+wavelengths could be indicative of chromophore behavior.
+The absorption coefficient of oxyhemoglobin differs from
+that of deoxyhemoglobin along most of the NIR spectrum.
+Journal of Biomedical Optics 105009-4 October 2012 • Vol. 17(10)
+Abookasis et al.: Diffuse near-infrared reflectance spectroscopy during heatstroke in a mouse . . .
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24226/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+(8.0.0.2542,1099111727 PDF Extractor SDK TRIAL)
+However, at a certain isosbestic wavelength (∼800 nm), the
+absorption curves cross each other and represent the same
+value. Thus change in reflectance at an isosbestic wavelength
+is affected mainly by blood volume (and hence, blood flow)
+while a change in a non-isosbestic wavelength is affected by
+the oxy-deoxy ratio as well. The absorbance around 650 nm
+is mostly affected by the change in deoxyhemoglobin while
+at 840 nm it is more affected by oxyhemoglobin. Therefore,
+one can consider the difference between the measurements at
+different wavelengths as a qualitative representation of the
+blood oxygenation level. Changes in absorbance intensity spectra
+confirm our hypothesis that heatstroke causes changes in the
+optical properties of brain tissue with resultant morphological
+damage and tissue composition changes. In order to highlight
+spectral differences that result from an increase in temperature,
+the spectral second derivative was calculated and is depicted in
+Fig. 2(c). The spectral region between 700 and 800 nm, magnified
+in Fig. 2(d), reflects the sensitivity to biochemical (specifically
+hemoglobin) variations around the center of 760 nm.
+The changes in absorbance around the isosbestic point
+(800 nm) suggest that cerebral blood flow is affected following
+induction of heatstroke. To evaluate the relationship between
+spectra reflectance and second derivatives versus temperature
+an exponential function were calculated and depicted in
+Fig. 3. As can be seen, as the temperature increases the peak
+reflectance at 970 nm decreases in an exponential fashion as
+a result of increase in absorption while the peak of the second
+derivative reflectance at 760 nm increases as a result of hemoglobin
+variations. We conjecture that heat diffusion to the tissue
+area may causes hemoglobin denaturation and thereby affect its
+ability to bind oxygen although the temperature is relatively low.
+The change in optical absorbance spectra of various hemoglobin
+species with temperature was also noted in earlier reports.45,46
+Figures 2 and 3 show a consistent pattern among the participant
+animals throughout this study and confirm our hypothesis that
+changes in NIR signals can reflect changes in internal temperature
+in injured brain. Simultaneous measurements of the body
+physiologic parameters were monitored during heatstroke concurrent
+to spectral measurements. The variations in heart rate
+and SpO
+2
+versus temperature are indicated by the plot in
+Fig. 4. As shown, an increase in body temperature causes the
+heart rate to increase and concurrently induce a decrease in oxygen
+saturation until death. Please note that theSpO
+2
+is generally
+above 90% because pulse oximeter measures the saturation of
+full-oxygenated arterial blood. However, SpO
+2
+in Fig. 4 is quite
+low (∼75%) even at normal temperature environment. We found
+that in three mice, theSpO
+2
+was around 75% while the other two
+were around 85%. This low SpO
+2
+maybe the result of oximeter
+deviation, or/and anesthesia effect. Since the mice are not ventilated
+, (over) anesthetization can cause respiratory depression
+Fig. 2 (a) Representative reflected absorbance (A
+s
+) spectra measured on the brain surface at three different temperatures out of ten using the setup
+shown in Fig. 1. (b) Enlarged region of Fig. 2(a) between 940 nm≤ λ≤ 1000 nm shows the decrease in the intensity peak around 970 nm as the
+temperature increases. A spectral shift of 10 nm from the baseline to a lower wavelength is demonstrated. (c) Absorbance second-derivative (A00
+s
+)
+of 2(a). (d) Enlarged region of Fig. 2(c) between 700 nm≤ λ≤ 800 nm shows the change in intensity peak around 760 nm as temperature increases.
+Journal of Biomedical Optics 105009-5 October 2012 • Vol. 17(10)
+Abookasis et al.: Diffuse near-infrared reflectance spectroscopy during heatstroke in a mouse . . .
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24226/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+( 8.0.0.2542.747739836 PDF Extractor SDK EVALUATION)
+and lowSpO
+2
+. This is very difficult to precisely control in rodent
+experimental settings.
+As seen from Fig. 3, and as we observed along this study,
+three factors are influenced by increase in temperature:
+1. lower reflectance at∼970 nm accompanied by 2. a spectral
+shift,Δλ, from the baseline temperature and 3. an increase in its
+second derivative intensity at ∼760 nm. These variations
+motivate us to define a following combined function coined
+reflectance-temperature index (RTI), which summarizes these
+significant elements of contrast in a single index. RTI defined
+as
+RTI ¼
+j¨ R
+d@760 nm
+j
+R
+d@970
+×
+< λ >
+Δλ
+: ðdimensionlessÞ (5)
+RTI become more sensitive to temperature elevation as its
+numerator increase and the denominator strongly decrease
+causing a total increase in RTI. To bring RTI into a universal
+index (dimensionless) it was multiply by the average wavelength
+, hλi. Since the peak wavelengths which we determine
+the spectral shift,Δλ, are not sharp but broad [Fig. 2(b)] we calculate
+the average wavelength, hλi, from the spectra band where
+the maximum is. Specifically, to determine hλi, we scan all the
+wavelength points where the maximum is and then we calculate
+the average. For example, in Fig. 2 for the 38°C, we found the
+maximum at the wavelet’s range of 978 to 982 nm.
+Averaging these five wavelengths results in hλi¼ 980 nm. In 
+continuation with Fig. 2, to determine the shift in wavelength
+as temperature increases (Δλ) we found the maximum
+absorbance around 970 nm for each temperature and then we
+calculate the difference between. For example, in Fig.2the maxima
+of the baseline temperature (32°C) found to be at 980 nm
+while at 38°C it was found to be 970 nm which results in a
+10-nm shift. From the entire study we found an average spectral
+shift from the baseline ofΔλ ¼ 6.41.93 nm. The relationship
+between RTI and temperature derived from Figs. 2 to 3 through
+an exponential dependence of the form RTI ¼ a×exp
+ðb · TempÞ is display in Fig. 5(a) for the above specific
+mouse. The points on the graph represent the discrete RTI measurement
+and the solid line represents the results of exponential
+fit to this data. In Fig.5(b)a plot of RTI versus temperature data
+for the entire experiments (n ¼ 5) is presented. The data in the
+graph are the mean and the error bars refer to standard error of
+positive and negative deviation separately, calculated over each
+temperature. The solid curve in this figure is the exponential
+fitting similar to what is shown in Fig. 5(a). As observed,
+increased temperature leads to a measurable increase in RTI,
+indicating the feasibility to follow temperature elevation in a
+non-contact manner using the DRS method. The exponential
+behavior we observed resembles the exponential increase of
+intracranial pressure (ICP) during brain injury although further
+study is necessary to determine the nature of the relationship.
+The central nervous system is very sensitive to hyperthermia
+that results in neurologic complications from injury to the cerebellum
+, basal ganglia, anterior horn cells, and peripheral
+32 34 36 38 40
+0.26
+0.27
+0.28
+0.29
+0.3
+0.31
+0.32
+Temperature (oC)
+As @976nm
+32 34 36 38 40
+1.4
+1.6
+1.8
+2
+2.2
+2.4
+2.6
+2.8
+x 10
+-3
+abs(d2(As) @762nm
+(a)
+(b)
+Temperature (oC)
+Fig. 3 Absorbance (A
+s
+) and its second derivative (A00
+s
+) intensity at
+970 nm and 960 nm, respectively at different temperatures. These
+results are for the mouse of Fig. 2 and reflect the same trend for the
+other mice experiments. The points on the graph represent the discrete
+intensity measurement and the solid line represents the results of exponential
+fit to this data.
+32 33 34 35 36 37 38 39 40 41
+200
+250
+300
+350
+400
+450
+500
+Heart Beat (bpm)
+Temperature (ºC)
+20
+30
+40
+50
+60
+70
+80
+spo2 (%)
+Fig. 4 Graph representation of heart rate (left axis) and SpO
+2
+(right axis)
+versus temperature. Solid lines represent spline interpolation between
+data points. As the temperature increased from 40°C to 41°C the SpO
+2
+is
+reversing its increasing trend, a point where the mouse died and heart
+rate start to decrease.
+Journal of Biomedical Optics 105009-6 October 2012 • Vol. 17(10)
+Abookasis et al.: Diffuse near-infrared reflectance spectroscopy during heatstroke in a mouse . . .
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24226/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+( 8.0.0.2542.560468082 PDF Extractor SDK EVAL VERSION)
+nerves. The increase in absorbance at 760 nm (the dominant
+chromophore being deoxyhemoglobin) with rising body temperature
+can be explained by two phenomena. First, as a result
+of cardiopulmonary compromise61 systemic oxygenation of
+hemoglobin decreases (as evidenced by decreased oxygen
+saturation on pulsoximetry in Fig. 4), second, hyperthermic
+brain injury can result in increased ICP, consistent with previous
+observations.62–67 It should be pointed out that no direct assessment
+of brain function (or dysfunction) was conducted. However
+, the changes in blood flow (800 nm absorption) provide
+indirect evidence of altered brain physiology. Neurobehavioral
+tests were not carried out during this experimental set up due to
+the terminal (end-point being death) nature of the experiments
+but can be studied in future nonterminal experiments.
+As we show above, the relationship between RTI and temperature
+can be derived through an exponential dependence of
+the form RTI ¼ a×expðb · TempÞ. From this expression the
+temperature can be extracted,
+Temp ¼
+1
+b
+×log
+
+RTI
+a
+
+: (6)
+To bring this equation to a more general term and based on
+the entire experiments (n ¼ 5), averagedaandbwere computed
+(¯ a ¼ 0.001750.0011, and ¯ b ¼ 0.11430.022) and Eq. (6)
+was modified accordingly with ¯ a, ¯ binsteada,b. Then, the modified
+Eq. (6) was used back on each of the five mice to predict
+the temperature and to compare it with the actual temperature.
+To obtain high correlation fitting, a k-factor was added to the
+modified equation. Hence,
+T
+pred
+¼
+k
+¯ b
+×log
+
+RTI
+¯ a
+
+: (7)
+To demonstrate the possibility of predicting the temperature
+(T
+pred
+) on a new mouse, not included in the previous experiments
+, we use Eq. (7) and temperature model prediction versus
+actual temperature is presented in Fig. 6 for the new mouse. A
+good correlation between prediction to actual temperature was
+obtained with R ¼ 0.9. Inspection of the correlation plots also
+reveals small RMSE and MRE, respectively. k in this experiment
+was set to 5.75. The good agreement between the prediction
+and actual temperature data implies that: 1. RTI can be a
+candidate marker for temperature assessment during heatstroke
+and 2. temperature can be monitored noninvasively using the
+current DRS and Eq. (7). An important point to stress is that
+Eq. (7) is an empiric mathematical expression and should be
+studied in future works by increasing the number of animals
+and comparison with direct brain temperature measurement
+using conventional probes. This will be the next step in our
+heatstroke research.
+As mentioned previously, optical absorption and scattering
+coefficients can be extracted with the use of the aforementioned
+34 36 38 40
+0.4
+0.6
+0.8
+1
+1.2
+1.4
+1.6
+1.8
+Temperature [ºC]
+RTI [a.u]
+32 34 36 38 40 42
+0.8
+1
+1.2
+1.4
+1.6
+1.8
+Temperature (ºC)
+RTI [a.u]
+(b)
+(a)
+Fig. 5 (a) Plot demonstrating the relationship of the reflectance-temperature
+index (rTI) to temperature for a single mouse of Fig. 2. As 
+noted, an exponential relationship in the form of a · expðb×TempÞ
+was obtained. Here, a ¼ 0.00084, and b ¼ 0.1. (b) Graph showing
+RTI versus of Temperature from the entire experiments (n ¼ 5).
+¯ a ¼ 0.001750.0011, and ¯ b ¼ 0.11430.022. Data are expressed
+as mean  standard error.
+32 34 36 38 40
+32
+34
+36
+38
+40
+42
+Measured Temperature (ºC)
+Predicted Temperature (ºC) R = 0.90576
+SEP = 1.6895ºC
+MRE = 3.9419%
+N = 8
+Fig. 6 Comparison between temperatures obtained from Eq. (7) (model
+predicted) and from the YSI temperature probe measurements. The solid
+line is the best-fit linear regression fits to the data (open circles). The
+statistics were obtained from Eq. (5). High correlation between the predicted
+and actual temperature was obtained with R ¼ 0.9 and slope of
+0.88.
+Journal of Biomedical Optics 105009-7 October 2012 • Vol. 17(10)
+Abookasis et al.: Diffuse near-infrared reflectance spectroscopy during heatstroke in a mouse . . .
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24226/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.1398780156)
+Eq. (3). Since the diffuse reflectanceR
+d
+is measured while ρ,k
+1
+and k
+2
+are known parameters we can find the absorption and
+scattering coefficients by iterating of the both coefficients
+until the calculated values of the reflection match the measured
+ones (Levenberg-Marquardt algorithm). It should be pointed out
+that the increased temperature may affect absorption and
+absorbance spectra differently since absorbance contains both
+absorbing effects caused by the chemical components and the
+scattering effects originated from the structural properties;
+while the absorption only reflects the chemical absorbing effects
+on light. The absorption and scattering behavior is illustrated in
+Fig. 7 at two ranges of temperature; baseline (32°C) and heatstroke
+(41°C) for the above representative mouse. The points on
+the graph of Fig. 7(a) represent the discrete calculated absorption
+coefficient at specific wavelengths and the solid line represents
+the spline interpolation fit to this data. On the other hand,
+in Fig.7(b), the points represents the discrete calculated reduced
+scattering coefficient at specific wavelengths and the solid line
+represents the power-law fit to this data. Several studies have
+shown that the wavelength dependence of scattering in tissue
+in the NIR obeys a power-law dependence of the form,68,69
+μ0
+s
+ðλÞ¼ Aλ−sp; (8)
+where μ0
+s
+¼ μ
+s
+ð1−gÞ is the reduced scattering coefficient, g is
+the anisotropy factor, and μ
+s
+represent the scattering coefficient.
+A is the scattering amplitude which is related to the density of
+the scatterers, their distribution, and refractive index changes
+while sp is the scattering power related to the scatterer
+size.70–73 The effect of increased temperature from baseline
+temperature to heatstroke injury is clearly shown on both panels.
+From the entire experiments the absorption at 970 and 980 nm
+was calculated and the averaged absorption was obtained.
+Results show μ
+a
+¼ 0.0150.003 mm−1 at the baseline and
+μ
+a
+¼ 0.0240.007 mm−1 at the heatstroke, which reflects
+∼37%increase in cerebral tissue absorption following induction
+of heatstroke. However, one should keep in mind that multiple
+light scattering can obscure this temperature-water peak if
+absorption is not separated from the scattering. The change
+in absorption coefficient is influenced by variation in different
+tissue biochemical composition such as oxy- and deoxyhemoglobin
+(650 nm, 830 nm), fat (920 nm), and water (970 nm).
+This is because optical absorption represents the process of
+600 700 800 900 1000
+0
+0.05
+0.1
+0.15
+Wavelength (nm)
+Absorption (mm -1)
+32ºC
+41ºC
+600 700 800 900 1000
+0
+0.5
+1
+1.5
+2
+Wavelength (nm)
+Reduced Scattering (mm-1)
+32oC
+41oC
+32ºC
+41ºC
+600 700 800 900
+0
+0.5
+1
+1.5
+2
+Wavelength (nm)
+Reduced Scattering (mm-1)
+32oC
+41oC
+32ºC
+41ºC
+(a)
+(b) (c)
+Fig. 7 (a) Absorption, and (b) reduced scattering coefficients obtained by the use of Eq. (3) as a function of temperature for the representative mouse of
+Fig. 3. The solid line in (a) represent spline interpolation between data points and the solid line in (b) represent the results of power-law fit to this data
+based on Eq. (7). (c) Improvement in fitting of 7(b) after the last two wavelengths (950 and 970 nm) were taken out.
+Journal of Biomedical Optics 105009-8 October 2012 • Vol. 17(10)
+Abookasis et al.: Diffuse near-infrared reflectance spectroscopy during heatstroke in a mouse . . .
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24226/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+(DEMO PDF Extractor SDK 8.0.0.2542-1211508402)
+[Link]
+http://dx.doi.org/10.1056/NEJMra011089
+[Link]
+http://dx.doi.org/10.1056/NEJM199308123290708
+[Link]
+http://dx.doi.org/10.1007/s004150170056
+[Link]
+http://dx.doi.org/10.1001/jama.1956.02970160005002
+[Link]
+http://dx.doi.org/10.1249/00005768-199002000-00003
+[Link]
+http://dx.doi.org/10.1097/00003246-199102000-00011
+[Link]
+http://dx.doi.org/10.1002/(ISSN)1365-2168
+[Link]
+http://dx.doi.org/10.2165/00007256-200434080-00002
+[Link]
+http://dx.doi.org/10.2165/00007256-200434080-00002
+[Link]
+http://dx.doi.org/10.1186/cc5910
+[Link]
+http://dx.doi.org/10.1186/cc5910
+[Link]
+http://dx.doi.org/10.1109/TBME.2004.840189
+[Link]
+http://dx.doi.org/10.1364/AO.47.002227
+[Link]
+http://dx.doi.org/10.1088/0031-9155/55/13/012
+light attenuation by those chemical components within the
+brain. On the other hand, analyzing the scattering power
+show sp ¼ 1.410.6 at the baseline and sp ¼ 0.540.25 at
+the heatstroke reflects more than a 60% decrease from the baseline.
+The change in scattering is attributed to a change in the size
+and number of scattering particles such as nuclei, mitochondria
+and protein as well as change in refractive indices (sample inhomogenity
+); increase in temperature causes severe morphological
+damage to the tissue, such as denaturation of structural proteins
+and tissue and cellular edema which in turn affect the scattering
+properties and thus the light distribution. These morphological
+changes can be deduced by the slope and amplitude of Fig.7(b).
+As can be seen from Fig.7, while the fitting curve for absorption
+data is good, the fitting curve for reduced scattering data is quite
+difficult. This is because the fitting of the scattering is influence
+greatly from the water peak around 970 nm. Therefore, if we
+take out the last two wavelengths a better fitting can be achieved
+as depicted in Fig. 7(c), although data points at 700 nm are far
+off the curve (may be outliers). Ultimately, these eliminations do
+not affect our results which show clearly decrease in sp (structural
+changes). As we move from baseline temperature to heatstroke
+condition the scattering slope becomes flat, reflecting the
+increase in particle size or the evolution of swelling of the cells
+and cell organelle in the brain. Decrease inAreflects the change
+in the ratio of the refractive index outside (extracellular) to
+inside (intracellular) the scattering particle. i.e., a drop in A
+most likely reflects the fact that water changes increases the
+inhomogeneity of refractive index and thus influence the scattering
+amplitude. Since during heatstroke the morphological
+damage in the brain tissue matrix occur which influenced the
+A and sp parameters, they can therefore serve as a good marker
+during heatstroke. Overall, changes in both optical properties
+indicate variation of the pathophysiologic state of the brain
+and the ability of our setup to follow alteration in temperature
+during heatstroke over time. The observed change in optical
+properties versus the temperature is consistent with previous studies
+that demonstrate that absorption and scattering coefficients
+can be temperature dependent.14,17–19,43,74
+4 Conclusion
+Heatstroke is an abnormally elevated body temperature with
+accompanying physical symptoms including changes in the nervous
+system function. In this work, for the first time to our
+knowledge, we carried out experimental optical DRS on intact
+mice brains to a. assess the changes in tissue optical and hemodynamics
+properties that occurred during heatstroke, and b. to
+predict internal temperature noninvasively. The measurements
+were obtained with a single source-detector system orthogonal
+to each other, and the model of light propagation was employed
+to recover the optical property coefficients of cerebral tissue
+from the experimental data. During heatstroke, we note that
+the intensity peaks of the absorbance at 970 nm and in its second
+derivative at 760 nm correlate well with increased temperature
+through an exponential dependence. Reflectance-temperature
+index (RTI) that reflects changes in reflectance intensity and
+spectral shift from baseline was derived from DRS data. That
+is, we used the difference in spectra properties through RTI
+to estimate the influence of temperature on the internal rodent
+brain tissue. Although our pilot measurements are preliminary,
+results from a mouse show that RTI can be a good predictor for
+temperature measurement (R ¼ 0.9). It should be pointed out
+that the ability to determine the calibration factor k in Eq. (6)
+is to have a complete dataset for calibration containing different
+temperature levels expected to be encountered during routine
+analysis. However, this can be accomplished during the calibration
+process with a dataset that is well representative changes in
+temperature conditions. Our future work will focus on further
+testing of the system on more mice and the applicability of
+Eq. (6) and applying appropriate calibration/validation modeling
+such as partial-least square (PLS) regression.12 We also
+report the change in cerebral optical properties, based on the
+use of diffusion model, which reflects the variation in chromophores
+content and brain structure during heatstroke. The
+reported technique is simple, inexpensive, easy to implement,
+and can therefore be adapted in the future for temperature monitoring
+in clinical and laboratory settings as well.
+Acknowledgments
+Authors would like to gratefully acknowledge the anonymous
+reviewers’ for all their valuable comments and useful suggestions
+making the manuscript clearer and more focused.
+D. Abookasis also gratefully acknowledges both Ariel University
+and the Israeli Ministry of Absorption’s for their support as
+part of the “returning scientists” program.
+References
+1. A. Bouchama and J. P. Knochel, “Heat stroke,” N. Engl. J. Med.
+346(25), 1978–1988 (2002).
+2. H. B. Simon,“Hyperthermia,”N. Engl. J. Med.329(7), 483–487 (1993).
+3. D. M. Hall et al.,“Mechanisms of circulatory and intestinal barrier dysfunction
+during whole body hyperthermia,”Am. J. Physiol. Heart. Circ.
+Physiol. 280(2), H509–H521 (2001).
+4. J. Kalita and U. K. Misra,“Neurophysiological studies in a patient with
+heat stroke,” Neurology 248(11), 993–995 (2001).
+5. M. G. Austin and J. W. Berry, “Observation of one hundred cases of
+heatstroke,” J. Am. Med. Assoc. 161(16), 1525–1529 (1956).
+6. Y. Shapiro and D. S. Seidman, “Field and clinical observations of
+exertional heat stroke patients,” Med. Sci. Sports. Exerc. 22(1), 6–14
+(1990).
+7. A. Bouchama et al., “Ineffectiveness of dantrolene sodium in the treatment
+of heatstroke,” Crit. Care. Med. 19(2), 176–180 (1991).
+8. R. T. Pettigrew et al., “Circulatory and biochemical effects of whole
+body hyperthermia,” Br. J. Surg. 61(9), 727–730 (1974).
+9. C. H. Wyndham, N. B. Strydom, and H. M. Cooke,“Methods of cooling
+subjects with hyperpyrexia,” J. Appl. Physiol. 14(5), 771–776 (1959).
+10. E. Hadad et al., “Heat stroke, a review of cooling methods,” Sports.
+Med. 34(8), 501–511 (2004).
+11. A. Bouchama, M. Dehbi, and E. Chaves-Carballo, “Cooling and hemodynamic
+management in heatstroke: practical recommendations,” Crit.
+Care. 11(3), R54 (2007).
+12. V. S. Hollis, Chapter 4, Non-Invasive Monitoring of Brain Tissue Temperature
+by Near-Infrared Spectroscopy, PhD Dissertation, University
+of London (2002).
+13. A. N. Amini, E. S. Ebbini, and T. T. Georgiou,“Noninvasive estimation
+of tissue temperature via high-resolution spectral analysis techniques,”
+IEEE. Trans. Bio. Eng. 52(5), 221–228 (2005).
+14. V. Tuchin,Tissue Optics: Light Scattering Methods and Instruments for
+Medical Diagnosis, 2nd ed., SPIE Press, Bellingham, WA (2007).
+15. L. V. Wang and H-i. Wu, Biomedical Optics: Principles and Imaging,
+John Wiley & Sons, Inc., Hoboken, New Jersey (2007).
+16. D. A. Boas, C. Pitris, and N. Ramanujam, Handbook of Biomedical
+Optics, CRC Press, Boca Raton, Florida (2011).
+17. N. Kakuta et al., “Temperature measurements of turbid aqueous solutions
+using near-infrared spectroscopy,” Appl. Opt. 47(13), 2227–2233
+(2008).
+18. S. H. Chung et al., “Non-invasive tissue temperaure measurements
+based on quantitative diffuse optical spectroscopy (DOS) of water,”
+Phys. Med. Biol. 55(13), 3753–3765 (2010).
+Journal of Biomedical Optics 105009-9 October 2012 • Vol. 17(10)
+Abookasis et al.: Diffuse near-infrared reflectance spectroscopy during heatstroke in a mouse . . .
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24226/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+(PDF Extractor SDK TRIAL VERSION)
+[Link]
+http://dx.doi.org/10.1088/0031-9155/43/9/004
+[Link]
+http://dx.doi.org/10.1364/AO.49.005686
+[Link]
+http://dx.doi.org/10.1117/1.3610995
+[Link]
+http://dx.doi.org/10.1366/0003702934048424
+[Link]
+http://dx.doi.org/10.1366/0003702934048424
+[Link]
+http://dx.doi.org/10.1366/10-06052
+[Link]
+http://dx.doi.org/10.1366/10-06052
+[Link]
+http://dx.doi.org/10.1364/AO.36.000093
+[Link]
+http://dx.doi.org/10.1366/000370210791114347
+[Link]
+http://dx.doi.org/10.1366/000370210791114347
+[Link]
+http://dx.doi.org/10.1364/AO.38.006628
+[Link]
+http://dx.doi.org/10.1364/JOSAA.18.000584
+[Link]
+http://dx.doi.org/10.1117/1.1502675
+[Link]
+http://dx.doi.org/10.1088/0031-9155/33/12/008
+[Link]
+http://dx.doi.org/10.1088/0031-9155/40/11/015
+[Link]
+http://dx.doi.org/10.1364/AO.36.002286
+[Link]
+http://dx.doi.org/10.1364/OE.17.000860
+[Link]
+http://dx.doi.org/10.1088/0031-9155/44/4/012
+[Link]
+http://dx.doi.org/10.1088/0031-9155/44/4/012
+[Link]
+http://dx.doi.org/10.1364/AO.37.002788
+[Link]
+http://dx.doi.org/10.1088/0031-9155/50/11/009
+[Link]
+http://dx.doi.org/10.1118/1.1760188
+[Link]
+http://dx.doi.org/10.1364/BOE.2.000901
+[Link]
+http://dx.doi.org/10.1364/AO.39.006498
+[Link]
+http://dx.doi.org/10.1118/1.596777
+[Link]
+http://dx.doi.org/10.1142/S1793545811001708
+[Link]
+http://dx.doi.org/10.1117/1.2333613
+[Link]
+http://dx.doi.org/10.1109/10.508546
+[Link]
+http://dx.doi.org/10.1109/10.508546
+[Link]
+http://dx.doi.org/10.1117/1.3290820
+[Link]
+http://dx.doi.org/10.1016/0301-4622(86)85031-1
+[Link]
+http://dx.doi.org/10.1366/000370294775268910
+[Link]
+http://dx.doi.org/10.1366/000370203321165179
+[Link]
+http://dx.doi.org/10.1366/000370203321165179
+[Link]
+http://dx.doi.org/10.1089/dia.2006.0051
+[Link]
+http://dx.doi.org/10.1089/dia.2006.0051
+[Link]
+http://dx.doi.org/10.1117/12.764276
+[Link]
+http://dx.doi.org/10.1016/1056-8719(92)90073-A
+[Link]
+http://dx.doi.org/10.1016/j.ergon.2009.02.011
+[Link]
+http://dx.doi.org/10.1364/AO.28.002311
+[Link]
+http://dx.doi.org/10.1364/JOSAA.11.002727
+[Link]
+http://dx.doi.org/10.1103/PhysRevLett.64.2647
+[Link]
+http://dx.doi.org/10.1364/AO.37.005313
+[Link]
+http://dx.doi.org/10.1364/JOSAB.11.002128
+[Link]
+http://dx.doi.org/10.1364/JOSAB.11.002128
+[Link]
+http://dx.doi.org/10.3171/jns.1984.60.6.1246
+[Link]
+http://dx.doi.org/10.1016/0304-3940(94)90108-2
+[Link]
+http://dx.doi.org/10.1042/CS20030263
+[Link]
+http://dx.doi.org/10.1042/CS20030263
+[Link]
+http://dx.doi.org/10.1007/BF01930459
+[Link]
+http://dx.doi.org/10.1364/AO.30.004507
+19. J. Laufer et al., “Effect of temperature on the optical properties of ex
+vivo human dermis and subdermis,” Phys. Med. Biol. 43(9), 2479–
+2489 (1998).
+20. M. Sato et al.,“Invivorat brain measurements of changes in signal intensity
+depth profiles as a function of temperature using wide-field optical
+coherence tomography,” Appl. Opt. 49(30), 5686–5696 (2010).
+21. M. Li et al., “Functional laser speckle imaging of cerebral blood flow
+under hypothermia,” J. Biomed. Opt. 16(8), 086011 (2011).
+22. J. Lin and C. W. Brown,“Near-IR fiber-optic temperature sensor,”Appl.
+Spect. 47(1), 62–68 (1993).
+23. K. Vishwanath et al., “Portable, fiber-based, diffuse reflection spectroscopy
+(DRS) systems for estimating tissue optical properties,” Appl.
+Spect. 65(2), 206–215 (2011).
+24. M. G. Nichols, E. L. Hull, and T. H. Foster, “Design and testing of a
+white-light, steady-state diffuse reflectance spectrometer for determination
+of optical properties of highly scattering systems,”Appl. Opt.36(1),
+93–104 (1997).
+25. R. J. Mallia et al., “Diffuse reflection spectroscopy: an alternative to
+autofluorescence spectroscopy in tongue cancer detection,” Appl.
+Spect. 64(4), 409–418 (2010).
+26. G. Zonios et al., “Diffuse reflectance spectroscopy of human adenomatous
+colon polyps in vivo,” Appl. Opt. 38(31), 6628–6637 (1999).
+27. E. Hull and T. Foster, “Steady-state reflectance spectroscopy in the P3
+approximation,” J. Opt. Soc. Am. A 18(3), 584–599 (2001).
+28. Y. N. Mirabal et al., “Reflectance spectroscopy for in vivo detection of
+cervical precancer,” J. Biomed. Opt. 7(4), 587–594 (2002).
+29. D. T. Delpy et al., “Estimation of optical pathlength through tissue
+from direct time of flight measurement,” Phys. Med. Biol. 33(12),
+1433–1442 (1988).
+30. M. Cope, “The Development of a Near-Infrared spectroscopy system
+and its application for noninvasive monitoring of cerebral blood and
+tissue oxygenation in the newborn infant,” Ph.D. Dissertation, University
+College London, London (1991).
+31. H. Liu et al., “Determination of optical properties and blood oxygenation
+in tissue using continuous NIR light,” Phys. Med. Biol. 40(11),
+1983–1993 (1995).
+32. G. Kumar and J. M. Schmitt,“Optimal probe geometry for near-infrared
+spectroscopy of biological tissue,” Appl. Opt. 36(10), 2286–2293
+(1997).
+33. S. C. Kanick, H. J. C. M. Sterenborg, and A. Amelink, “Empirical
+model of the photon path length for a single fiber reflectance spectroscopy
+device,” Opt. Express 17(2), 860–871 (2009).
+34. R. M. P. Doornbos et al., “The determination of in vivo human tissue
+optical properties and absolute chromophore concentrations using spatially
+resolved steady-state diffuse reflectance spectroscopy,” Phys.
+Med. Biol. 44(4), 967–982 (1999).
+35. J. M. Schmitt and G. Kumar, “Optical scattering properties of soft tissue
+: a discrete particle model,” Appl. Opt. 37(13), 2788–2797 (1998).
+36. R. L. P. van Veen et al.,“Optical biopsy of breast tissue using differential
+path-length spectroscopy,” Phys. Med. Biol. 50(11), 2573–2581 (2005).
+37. J. C. Finlay and T. H. Foster, “Hemoglobin oxygen saturations in phantoms
+and in vivo from measurements of steady-state diffuse reflectance
+at a single, short source-detector separation,” Med. Phys. 31(7), 1949–
+1959 (2004).
+38. T-Y. Tseng et al., “Quantification of the optical properties of twolayered
+turbid media by simultaneously analyzing the spectral and spatial
+information of steady-state diffuse reflectance spectroscopy,”
+Biomed. Express 2(4), 901–914 (2011).
+39. F. Bevilacqua et al., “Broadband absorption spectroscopy in turbid
+media by combined frequency-domain and steady-state methods,”
+Appl. Opt. 39(34), 6498–6507 (2000).
+40. T. J. Farrell, M. S. Patterson, and B. Wilson, “A diffusion theory model
+of spatially resolved, steady-state diffuse reflectance for the noninvasive
+determination of tissue optical properties in vivo,” Med. Phys. 19(4),
+879–888 (1992).
+41. S. H. Chung et al., “Non-invasive measurement of deep tissue
+temperature changes caused by apoptosis during breast cancer
+neoadjuvant chemotherapy: a case study,” J. Innov. Opt. Health. Sci.
+4(4), 361–372 (2011).
+42. F. J. van der Meer et al., “Temperature-dependent optical properties of
+individual vascular wall components measured by optical coherence
+tomography,” J. Biomed. Opt. 11(4), 041120 (2006).
+43. R. Agah et al., “Dynamics of temperature dependent optical properties
+of tissue: dependence on thermally induced alteration,” IEEE. Trans.
+Biomed. Eng. 43(8), 839–846 (1996).
+44. B. Cletus et al., “Temperature-dependent optical properties of
+Intralipid® measured with frequency-domain photon-migration spectroscopy
+,” J. Biomed. Opt. 15(1), 017003 (2010).
+45. J. M. Steinke and A. P. Shepherd, “Effects of temperature on optical
+absorbance spectra of oxy-, carboxy-, and deoxyhemoglobin,” Clin.
+Chem. 38(7), 1360–1364 (1992).
+46. L. Cordone et al., “Optical absorption spectra of deoxy- and oxyhemoglobin
+in the temperature range 300-20–K. Relation with protein
+dynamics,” Biophys. Chem. 24(3), 259–275 (1986).
+47. K. H. Hazen, M. A. Arnold, and G. W. Small,“Temperature-Insensitive
+Near-Infrared Spectroscopic Measurement of Glucose in Aqueous
+Solutions,” Appl. Spect. 48(4), 477–483 (1994).
+48. P. S. Jensen, J. Bak, and S. Andersson-Engels, “Influence of temperature
+on water and aqueous glucose absorption spectra in the near- and
+mid-infrared regions at physiologically relevant temperatures,” Appl.
+Spect. 57(1), 28–36 (2003).
+49. M. J. Haller et al., “Adverse impact of temperature and humidity on
+blood glucose monitoring reliability: a pilot study,” Diab. Tech.
+Ther. 9(1), 1–9 (2007).
+50. R. Liu et al., “Influence of temperature on the precision of noninvasive
+glucose sensing by near-infrared spectroscopy,” Proc. SPIE 6863,
+68630Q (2008).
+51. Z. A. Damanhouri and O. S. Tayeb, “Animal models for heat stroke
+studies,” J. Pharmacol. Toxicol. Methods 28(3), 119–127 (1992).
+52. R. V. Maikala,“Modified Beer’s Law—historical perspectives and relevance
+in near-infrared monitoring of optical properties of human tissue,”
+J. Indust. Ergon. 40(2), 125–134 (2010).
+53. A. Ishimaru, Wave Propagation and Scattering in Random Media,
+Academic Press, New York (1978).
+54. J. L. Karagiannes et al., “Applications of the 1-D diffusion approximation
+to the optics of tissues and tissue phantoms,” Appl. Opt. 28(12),
+2311–2317 (1989).
+55. R. C. Haskell et al., “Boundary conditions for the diffusion equation in
+radiative transfer,” J. Opt. Soc. Am. A 11(10), 2727–2741 (1994).
+56. K. Yoo, F. Liu, and R. Alfano,“When does the diffusion-approximation
+fail to describe photon transport in random-media,” Phys. Rev. Lett.
+64(22), 2647–2650 (1990).
+57. A. D. Kim and A. Ishimaru, “Optical diffusion of continuous-wave,
+pulsed and density waves in scattering media and comparisons with
+radiative transfer,” Appl. Opt. 37(22), 5313–5319 (1998).
+58. S. Fantini, M. A. Franceschini, and E. Gratton,“Semi-infinite-geometry
+boundary problem for light migration in highly scattering media: a frequency-domain
+study in the diffusion approximation,” J. Opt. Soc. Am.
+B 11(10), 2128–2138 (1994).
+59. M. Riedl, Optical Design Fundamentals for Infrared Systems, 2nd ed.,
+SPIE Press, Bellingham, WA (2001).
+60. J. Workman and L. Weyer, Practical Guide to Interpretive Near-
+Infrared Spectroscopy, CRC Press, Boca Raton, FL (2008).
+61. G. M. Eshel and P. Safar, “The role of the central nervous system in
+heatstroke: reversible profound depression of cerebral activity in a
+primate model,” Aviat. Space. Environ. Med. 73(4), 327–332 (2002).
+62. C. J. Shih, M. T. Lin, and S. H. Tsai, “Experimental study on the
+pathogenesis of heat stroke,” J. Neurosurg. 60(6), 1246–52 (1984).
+63. M.-T.Lin,C.-P.Chang,andS.-H.Chen,“TheEfficacyofOpioidAntagonists
+Against Heatstroke-Induced Ischemia and Injury in Rats,”Chapter
+33,inOpiateReceptors andAntagonists:FromBenchto Clinic,R.Dean,
+E. J. Bilsky, and S. S. Negus, Ed., Humana Press, New York (2009).
+64. M.-T. Lin et al., “Interleukin-1β production during the onset of heat
+stroke in rabbits,” Neurosci. Lett. 174(1), 17–20 (1994).
+65. C. T. McLaughlina, A. G. Kaneb, and A. E. Auberc, “MR Imaging of
+heat stroke: external capsule and thalamic t1 shortening and cerebellar
+injury,” J. Am. Neurorad. 24(7), 1372–1375 (2003).
+66. C. -K. Chang et al.,“Effect of hypervolaemic haemodilution on cerebral
+glutamate, glycerol, lactate and free radicals in heatstroke rats,” Clin.
+Sci. 106(5), 501–509 (2004).
+67. M.T. Lin and S.Z. Lin,“Cerebralischemia is the maincause for theonset
+ofheatstrokesyndromeinrabbits,”Cell.Mol.Sci.48(3),225–227(1992).
+68. H. J. Van Staveren et al.,“Light scattering in Intralipid-10% in the wavelength
+range of 400–1100 nm,” Appl. Opt. 30(31), 4507–4514 (1991).
+Journal of Biomedical Optics 105009-10 October 2012 • Vol. 17(10)
+Abookasis et al.: Diffuse near-infrared reflectance spectroscopy during heatstroke in a mouse . . .
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24226/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+(EVAL PDF Extractor SDK 8.0.0.2542-321492866)
+[Link]
+http://dx.doi.org/10.1364/AO.31.001370
+[Link]
+http://dx.doi.org/10.1364/AO.36.000949
+[Link]
+http://dx.doi.org/10.1364/AO.36.000949
+[Link]
+http://dx.doi.org/10.1364/AO.37.001256
+[Link]
+http://dx.doi.org/10.1364/AO.37.001256
+[Link]
+http://dx.doi.org/10.1117/1.3116708
+[Link]
+http://dx.doi.org/10.1117/1.2098607
+69. R. Graaff et al., “Reduced light-scattering properties for mixtures of
+spherical particles: a simple approximation derived from Mie
+calculations,” Appl. Opt. 31(10), 1370–1376 (1992).
+70. J. R. Mourant et al., “Predictions and measurements of scattering and
+absorption over broad wavelength ranges in tissue phantoms,” Appl.
+Opt. 36(4), 949–957 (1997).
+71. A. M. K. Nilsson et al., “Changes in spectral shape of tissue optical
+properties in conjunction with laser-induced thermotherapy,” Appl.
+Opt. 37(7), 1256–1267 (1998).
+72. C. Lau et al., “Re-evaluation of model-based light-scattering
+spectroscopy for tissue spectroscopy,” J. Biomed. Opt. 14(2), 024031
+(2009).
+73. X. Wang et al., “Approximation of Mie scattering parameters in nearinfrared
+tomography of normal breast tissue in vivo,” J. Biom. Opt. 10
+(5), 051704 (2005).
+74. V. V. Tuchin,Handbook of Optical Biomedical Diagnostics, SPIE Press,
+Bellingham, WA (2002).
+Journal of Biomedical Optics 105009-11 October 2012 • Vol. 17(10)
+Abookasis et al.: Diffuse near-infrared reflectance spectroscopy during heatstroke in a mouse . . .
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/pdfaccess.ashx?url=/data/journals/biomedo/24226/ on 01/11/2017 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+(EVAL PDF Extractor SDK 8.0.0.2542-321492866)
+

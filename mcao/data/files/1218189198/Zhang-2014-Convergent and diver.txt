@@ -1,0 +1,994 @@
+ORIGINAL ARTICLE
+
+Convergent and Divergent Pathways Decoding Hierarchical
+Additive Mechanisms in Treating Cerebral Ischemia–Reperfusion
+Injury
+Ying-Ying Zhang,1 Hai-Xia Li,2 Yin-Ying Chen,1 Hong Fang,3 Ya-Nan Yu,1 Jun Liu,1 Zhi-Wei Jing,1 Zhong Wang1
+& Yong-Yan Wang1
+1 Institute of Basic Research in Clinical Medicine, China Academy of Chinese Medical Sciences, Beijing, China
+2 Guang’anmen Hospital, China Academy of Chinese Medical Sciences, Beijing, China
+3 Z-Tech Corp, an ICE International Company at National Center for Toxicological Research, US Food and Drug Administration, Jefferson, AR, USA
+
+Keywords
+Additive effect; Cerebral ischemia; Drug
+combination; Ingenuity Pathway Analysis;
+Pharmacological mechanism.
+Correspondence
+Z. Wang, Institute of Basic Research in Clinical
+Medicine, China Academy of Chinese Medical
+Sciences, Dongzhimen, Beijing 100700, China.
+Tel.: +86-10-6401-4411-3308;
+Fax: +86-10-8403-2881;
+E-mail: zhonw@vip.sina.com
+Received 25 August 2013; revision 14
+October 2013; accepted 15 October 2013
+
+SUMMARY
+Introduction: Cerebral ischemia is considered to be a highly complex disease resulting
+from the complicated interplay of multiple pathways. Disappointedly, most of the previous
+studies were limited to a single gene or a single pathway. The extent to which all involved
+pathways are translated into fusing mechanisms of a combination therapy is of fundamental
+importance. Aims: We report an integrative strategy to reveal the additive mechanism that
+a combination (BJ) of compound baicalin (BA) and jasminoidin (JA) fights against cerebral
+ischemia based on variation of pathways and functional communities. Results: We identified six pathways of BJ group that shared diverse additive index from 0.09 to 1, which
+assembled broad cross talks from seven pathways of BA and 16 pathways of JA both at horizontal and vertical levels. Besides a total of 60 overlapping functions as a robust integration
+background among the three groups based on significantly differential subnetworks, additive mechanism with strong confidence by networks altered functions. Conclusions: These
+results provide strong evidence that the additive mechanism is more complex than previously appreciated, and an integrative analysis of pathways may suggest an important paradigm for revealing pharmacological mechanisms underlying drug combinations.
+
+doi: 10.1111/cns.12205
+
+Introduction
+Cerebral ischemia is one of the leading causes of death and disability in the world [1], which is considered to be a highly complex
+disease resulting from the complicated interplay of multiple pathways including excitotoxicity, acidotoxicity, and ionic imbalance
+induced by membrane depolarization, release of the pathological
+excitatory neurotransmitter glutamate, and intracellular calcium
+overload; peri-infarct depolarizations caused by cortical spreading
+depression; deleterious levels of reactive oxygen species produced
+by mitochondria due to high levels of intracellular Ca2+, Na+, and
+ADP; the responsibilities of cellular response, cytokine response,
+and response to Toll-like receptor (TLR) activation for inflammation; apoptosis triggered by oxygen free radicals, death receptor
+ligation, DNA damage, protease activation, and ionic imbalance
+[2]; and of course other unknown mechanisms of necroptosis [3].
+These processes share overlapping and redundant features and
+cause injury to neurons, glia, and endothelial cells. Hence, it may
+be unrealistic to expect that a single drug will demonstrate sufficient benefit in cerebral ischemia. Two or more drugs in combination have the potential for improved efficacy through a variety of
+
+ª 2013 John Wiley & Sons Ltd
+
+synergistic or additive mechanisms [4–7]. Disappointedly, most of
+the previous studies were limited to a single gene or a single pathway. Encouragingly, it has been shown recently that compound/
+drug for certain complex diseases could act on multiple genes,
+pathways, and targets [8,9]. Furthermore, based on the theory of
+systems biology, network pharmacology, mapping the polypharmacology network onto the human disease-gene network, reveals
+that drugs often act on multiple targets and these drug targets are
+often involved with multiple diseases, which may provide us a
+new approach of drug discovery for complex diseases [10,11].
+Scutellaria and Gardenia have been used to treat stroke patients
+in China for thousands of years. Baicalin (BA, effective component of Scutellaria) and jasminoidin (JA, effective component of
+Gardenia) were extracted from Qingkailing injection that could
+significantly reduce the ischemic infarct volume in our previous
+studies [8,9]. Additionally, a study found that in the view of pharmacodynamics, the combination of BA and JA based on a new
+model of compatibility was superior to BA or JA monotherapy in
+the treatment for cerebral ischemia in rats [12]. We have a great
+interest in investigating the pharmacological mechanism of combination therapies through the methodology of network pharma-
+
+CNS Neuroscience & Therapeutics 20 (2014) 253–263
+
+253
+
+Y.-Y. Zhang et al.
+
+Decoding Hierarchical Additive Mechanisms
+
+cology, so the Ingenuity Pathway Analysis (IPA) system was
+applied for further analyses. IPA can provide us a knowledge base,
+and a powerful data support about the omics was used to analyze
+the differentially expressed genes, which may help us identify statistically significant signaling pathways and network functions.
+The results of our study will present a network-based analysis of
+the additive mechanism of compound/drug combination therapy
+against cerebral ischemia.
+
+ment, but the filament was not inserted. During the experimental
+process, blood pressure, blood gas, and glucose levels were monitored, rectal temperature was maintained at 37.0–37.5°C with a
+heating pad, body temperature was maintained at 37°C with a
+thermostatically controlled infrared lamp, and brain temperature
+(monitored with a 29-gauge thermocouple in the right corpus striatum) was maintained at 36–37°C with a temperature-regulating
+lamp. EEGs were monitored to ensure isoelectricity during ischemia. Based on the infarction volume or behaviors of these mice,
+we could determine whether the operations were successful.
+
+Materials and methods
+Animals
+
+Drug Administration
+
+Animal use protocols were reviewed and approved by the Ethics
+Review Committee for Animal Experimentation, China Academy
+of Chinese Medical Sciences, and all animal experiments were
+conducted in accordance with the Prevention of Cruelty to Animals Act 1986 and the National Institute of Health guidelines on
+the care and use of laboratory animals for experimental procedures. The process of animal experiment and data analysis is
+showed in Figure 1. A total of 240 healthy, specific pathogen-free,
+adult male Kunming mice, 12 weeks of age, weighted 38–48 g,
+kept at 25°C with a 12 h light/dark cycle, were randomly divided
+into five groups, with 48 mice in each group.
+
+The experimental animals were randomly divided into five
+groups: vehicle group, sham-operated group, BA-treated group
+(5 mg/mL), JA-treated group (25 mg/mL), and BJ-treated group
+(combination of BA and JA, a mixture of equal volumes of BA
+and JA). The herbal preparations were chemically standardized
+products obtained from China Natural Institute for the Control of
+Pharmaceutical and Biological Product or Beijing University of
+Traditional Chinese Medicine, and their compositions had been
+validated using fingerprint chromatographic methodologies. All
+treatment drugs in the form of injection, dissolved in 0.9% NaCl
+just before use, were into the tail vein 1.5 h after the induction of
+focal cerebral ischemia. The animals in the vehicle group and the
+sham-operated group received an injection of saline (2 mL/kg
+body weight) from the tail vein at the same time point.
+
+Middle Cerebral Artery Occlusion
+After being anesthetized with 2% napental (4 mg/kg, i.p.), the
+mice were subjected to middle cerebral artery occlusion (MCAO),
+ligated with an intraluminal filament for 1.5 h, and then reperfused for 24 h. In the sham-operated mice, the external carotid
+artery (ECA) was surgically prepared for the insertion of the fila-
+
+Combination Effect Analysis
+One hundred and fifty mice were employed to analyze the combined effect of BA and JA (chemical structures shown in Figure 1A).
+
+(A)
+
+(B)
+
+(C)
+Figure 1 Validation of additive
+pharmacological effect between baicalin (BA)
+and jasminoidin (JA). Combination of BA and JA
+exerted an additive effect on the infarction
+volume according to the median-effect
+method. (A) The chemical structure of BA and
+JA. (B) BA, JA, and BJ all had dose-dependent
+effects in reducing the infarction volume. (C)
+The concentrations of JA and BA ranging from
+1 to 16 mg/mL had CI values close to 1.0,
+suggesting an additive effect between JA and
+BA.
+
+254
+
+CNS Neuroscience & Therapeutics 20 (2014) 253–263
+
+ª 2013 John Wiley & Sons Ltd
+
+Y.-Y. Zhang et al.
+
+BA, JA, and their combination at five concentrations ranging
+among 1, 2, 4, 8, and 16 mg/mL were combined (1:1) to analyze
+the synergistic or additive effect using the CompuSyn software
+(ComboSyn, Inc., Paramus, NJ, USA). To determine the style of
+combination effect on infarction volume, the dose–effect curves of
+single or combined drug treatment were analyzed based on the
+median-effect method. In the median-effect method, a combination index (CI) value of less than, equal to, or more than 1
+indicated synergy, additivity, or antagonism, respectively. The
+median-effect equation describes dose–effect relationships in the
+simplest possible term [13], which is given by the dose of a drug;
+Fa is the fraction affected by drug’s dose. The effect (Fa) for any
+given dose (D) can be determined in this method.
+
+RNA Isolation
+The left hippocampus of nine mice from each group was homogenized in TRIzol Reagent, and the total RNA was isolated according
+to the manufacturer’s instructions. RNA was further purified to
+remove the genomic DNA contamination and concentrated using
+an RNeasy micro kit (Qiagen, Valencia, CA, USA). The RNA quality was assessed by determining the 26 S/18 S ratio using Bioanalyzer microchip (Agilent, Palo Alto, CA, USA).
+
+Microarray
+The mouse brain array (Boao Capital, Beijing, China), a microarray chip containing 16,463 oligoclones (Incyte Genomics, Santa
+Clara, CA, USA), was used to conduct gene expression profiling.
+On a given chip, each clone was printed in duplicate spots, generating four technical replicates for each clone. A single intensity
+value for each clone was generated by averaging the quadruplet
+measurements after smoothing spline normalization. All clones
+had been verified by DNA sequencing. RNA from the vehicle
+group as a pool was labeled with Cy3, while RNA from the other
+groups was labeled with Cy5. The microarrays were hybridized,
+washed, and scanned according to standard protocols. For each
+group, the above procedures were repeated in at least biological
+triplicates and technical quadruplets.
+
+Microarray Data Analysis
+All experimental data were uploaded to the ArrayTrack system. Experimental analysis was based on the Minimum Information about a Microarray Experiment guidelines and
+Microarray Quality Control project. The results were submitted
+to the Array Express database. All microarray data were normalized by locally weighted linear regression (Lowess) so as to
+reduce the experimental variability (smoothing factor, 0.2;
+robustness iterations, 3). A one-way ANOVA model and significance analysis of microarrays (SAM) were used to compare
+the means of the altered genes between sham and vehicle,
+BA and vehicle, JA and vehicle, and BJ and vehicle groups.
+Genes with a P value <0.05 and a fold change >1.5 were
+picked out for further analysis. In addition, an increase >1.5fold or a decrease <0.5-fold of expression levels indicated
+up-regulation or down-regulation, respectively. And then, all
+of the significantly differentially expressed genes were
+
+ª 2013 John Wiley & Sons Ltd
+
+Decoding Hierarchical Additive Mechanisms
+
+uploaded to the IPA system (http://www.ingenuity.com/). A
+cutoff was set to identify molecules whose expression was significantly differentially regulated. These molecules were called
+network-eligible molecules. Networks of network-eligible molecules were then algorithmically generated based on their connectivity. Right-tailed Fisher’s exact test was used to calculate
+a P value determining the probability that each biological
+function assigned to that network was due to chance alone.
+The significance of association between these genes and the
+canonical pathway was measured in two ways: (1) a ratio of
+the number of genes from the data set that mapped to the
+pathway divided by the total number of genes that mapped to
+the canonical pathway was displayed, and (2) Fischer’s exact
+test was used to calculate a P value determining the probability that the association between the genes and the canonical
+pathway was explained by chance alone. The level of statistical significance was set at P < 0.05. Finally, canonical pathways with a P value <0.05 and a fold change >1.5 were
+screened out and analyzed.
+
+Defining Additive Index
+Multiple pathways coordinate or interact with one another to
+achieve a complex biological process that can contribute to the
+additive effect. On the basis of pathway-components-related variation, we defined the additive exponent additive index (AI) of
+node j by
+AI ðjÞ ¼ 1 
+
+k
+T
+P
+Pi
+
+(1)
+
+i¼1
+
+where AI (j) refers to the additive index of any pathway j in
+drug combination group, P represents the number of statistically
+significant pathway, which is induced by every compound from
+i, and k is defined as the total number of pathways stimulated
+by all the compounds connected with j.
+
+Real-Time RT-PCR Analysis
+Three animals from each group were anesthetized with chloral
+hydrate (400 mg/kg) and decapitated. Real-time polymerase
+chain reaction (PCR) (50 lL) was performed using Thermo-fast 96
+PCR plates (Bio-Rad Laboratories, Hercules, CA, USA), which
+were sealed with iCycler IQ optical-quality tapes (Bio-Rad Laboratories) on an iCycler IQ thermocycler (Bio-Rad Laboratories).
+Each measurement was taken in three replicates. A dilution series
+of positive control DNA was used in the same plates as the calibration standards. Positive control DNA was generated by the amplification of the gene from samples. The amplicon was purified,
+cloned into TOPO TA cloning vector (Invitrogen, Carlsbad, CA,
+USA), and reamplified. After purification, the concentrations of
+PCR products were determined using a fluorometer as described
+above and were serially diluted to generate calibration standards.
+Data analysis was carried out with iCycler software (Bio-Rad
+Laboratories). Based on the standard curve, a threshold cycle
+measured in a sample was converted to the copy number of the
+gene in a sample. Forward and reverse premiers of regulators of
+
+CNS Neuroscience & Therapeutics 20 (2014) 253–263
+
+255
+
+Y.-Y. Zhang et al.
+
+Decoding Hierarchical Additive Mechanisms
+
+G-protein signaling 6 (Rgs6) (NM_015812) and SH2-B mRNA
+(AF036355) were as follows: -f ATGCCCAGGAGCACATCTACA,
+-rGCGACTTTCCCTTCTTCTTGG; and -fTGGCTCCCATGGTGTCTTCTT, -rTTAGTGACAAGCGCAGGTGCT, respectively.
+
+Western Blot Analysis
+The hippocampus was removed from the brains of the remaining
+six mice from each group. The proteins (40 lg per lane) were
+separated by sodium dodecyl sulfate (SDS)–polyacrylamide gel
+electrophoresis (PAGE) and transferred to nitrocellulose membranes (Hybond-C, Amersham, Buckinghamshire, UK) by electroblotting. Blots were stained with the mice anticyclic
+adenosine monophosphate cAMP-response-element-binding
+protein (CREB) (Santa Cruz Biotechnology, Santa Cruz, CA,
+USA), which was developed by enhanced chemiluminescence
+(Amersham). Band density was determined with a GS-700
+densitometer (Bio-Rad). Each measurement was taken in three
+replicates.
+
+Results
+Effects on Ischemia-Induced Infarction
+It was found that BJ was more effective than BA or JA monotherapy in reducing the ischemic infarction volume (P < 0.05)
+[14,15]. The dose–effect curves of BA, JA, and combination therapy (Figure 1B) at concentrations of 1–16 mg/mL had CI values
+close to 1.0 (Figure 1C), indicating additive effects between the
+agents.
+
+Canonical Pathways between Different Groups
+Compared with the sham group, six statistically significant canonical pathways involving the differentially expressed genes were
+identified in the vehicle group, this result has been reported in
+our previous study [16]. In addition, a total of 7, 16, and 6 statistically significant canonical pathways involving the differentially
+expressed genes were found in BA, JA, and BJ groups (vs. vehicle), respectively ([16] and Figure 2). No more overlapping path-
+
+Figure 2 Significant canonical pathways in all treatment groups. A total of 7, 16, and 6 significant canonical pathways were identified between
+baicalin (BA) versus vehicle, jasminoidin (JA) versus vehicle, and BJ versus vehicle groups, respectively. The orange vertical line indicates a threshold
+of P < 0.05.
+
+256
+
+CNS Neuroscience & Therapeutics 20 (2014) 253–263
+
+ª 2013 John Wiley & Sons Ltd
+
+Y.-Y. Zhang et al.
+
+ways were found between two or three groups except Huntington’s Disease Signaling existing between JA and BJ groups. All
+canonical pathways in the three treatment groups presented a certain relationship with cerebral ischemia in previous research
+(Table S1).
+
+(A)
+
+Decoding Hierarchical Additive Mechanisms
+
+Reconstructing Pathway Network
+A network containing 29 nodes and 176 edges was reconstructed
+based on IPA knowledge (Figure 3A). Diverse relationships were
+found between these pathways except arachidonic acid metabo-
+
+(B)
+
+(C)
+
+Figure 3 Construction of pathway network and additive index distribution. (A) The network contains 29 nodes and 176 edges. The pathway in the three
+treatment groups is regarded as a node, and common components as pathways relationship that confirms an edge between the pathway of monotherapy
+and combination therapy groups (pink and blue lines). The yellow lines represent relationships between pathways of BJ and BJ group, and the gray lines
+represent relationships between pathways of baicalin (BA) and jasminoidin (JA) group. Network reconstruction is based on pathway correlation in
+Ingenuity Pathway Analysis (IPA) knowledge base. (B) Histogram illustrates the additive index of the pathway in BJ group based on pathway correlation.
+(C) Pathway integration from both compounds; this micronetwork is divided into three regions, that is, immune-related cluster, neuron-related cluster,
+and ERK/MAPK signaling cascade-related cluster (gray shaded area).
+
+ª 2013 John Wiley & Sons Ltd
+
+CNS Neuroscience & Therapeutics 20 (2014) 253–263
+
+257
+
+Y.-Y. Zhang et al.
+
+Decoding Hierarchical Additive Mechanisms
+
+lism in BA group and sulfur metabolism in BJ group. When sharing a component between two pathways, a line linked the two
+pathways. More lines indicated more relations to other pathways.
+
+Distribution of AI
+The histogram presenting the AIs of BJ pathways illustrated a
+hierarchical distribution (Figure 3B). The AI score of sulfur
+metabolism was 1, representing soundly additive change from the
+original pathways in BA and JA groups. However, the AI score of
+neuropathic pain signaling in dorsal horn neurons was 0.09, indicating a lower additive degree in which many of the original compounds in BA and JA groups could be found in BJ group.
+
+Horizontal and Vertical Pathway Convergence or
+Divergence
+Besides the analysis of additive degrees, additive direction of pathway convergence or divergence was also explored in this study.
+Those significant pathways of the BA and JA treatment groups
+could be divided into three regions, that is, immune-related cluster, neuron-related cluster, and ERK/MAPK signaling cascaderelated cluster (Figure 3C). When different drugs targeted different clusters, a horizontal additive action might emerge; while a
+vertical pathway convergence took place between the upperstream and downstream in a same cluster, broad horizontal and
+vertical pathway convergences or divergences were identified
+among those pathways in BJ group. Moreover, both pathway convergence and divergence might appear even in a same cluster.
+Some additive pathways followed a similar pattern in horizontal
+or vertical pathway convergence; for example, four pathways of
+Huntington’s disease signaling, CDK5 signaling, cAMP-mediated
+signaling, and neuropathic pain signaling in dorsal horn neurons
+in BJ group similarly targeted T Cell receptor signaling in BA
+group and B Cell receptor signaling in JA group in the immunerelated cluster.
+
+Evidence of Pathways Convergence and
+Divergence
+Pathways not only showed convergence or divergence through
+overlapping nodes, but also acted on sandy targets to produce
+novel pathways, such as fusing T Cell receptor signaling in BA
+group and ERK/MAPK signaling in JA group to form Huntington’s
+disease signaling in BJ group. As AI was only 0.13, many original
+genes in monotherapy groups were still found in this pathway of
+BJ group. BA and JA affected different pathways and fused those
+differentially expressed genes to contribute to the additive effects
+of BJ (Figure 4).
+The fold change in gene expression was demonstrated to be
+consistent in all treatment groups, determined by real-time
+reverse transcriptase (RT)-PCR and by microarray. For example,
+Rgs6 had the highest decreasing activity according to both analyses. However, SH2-B expression did not show any significant variation between these groups (Figure 5A). Results of Western blot
+analysis indicated that the CREB was increased significantly in the
+pathway of JA and BJ groups; and the p-ERK1/2 level was
+increased significantly in the pathway of BA, JA, and BJ groups
+
+258
+
+CNS Neuroscience & Therapeutics 20 (2014) 253–263
+
+(Figure 5B), both of which were consistent with the findings displayed in Figure 4.
+
+Subnetworks between Different Groups and
+Biofunctions Distribution
+A total of 726, 361,414, and 465 significantly differentially
+expressed genes were found between vehicle versus sham, BA
+versus vehicle, JA versus vehicle, and BJ versus vehicle, respectively. Based on the IPA analysis of those network-eligible identifiers, 5, 8, 9, and 7 high score subnetworks were identified in
+vehicle, BA, JA, and BJ groups, respectively ([16] and Table S2).
+The top five networks in the BJ group were shown in Figure 6A–
+E. According to the molecular functions, IPA analysis indicated
+that compared with the vehicle group, 70, 74, and 76 statistically
+significant functions were identified in BA, JA, and BJ groups,
+respectively, and the percentage of overlapping functions (60)
+among these three groups was 71.43%. Each function represented
+a cluster, including the same functional molecules, and these biofunctions were divided into three categories, that is diseases and
+disorders, molecular and cellular functions, and physiological system development and function (Table S3). Those biofunctions
+indicated not only the same regulation process in each group but
+also their own unique tendencies (Figure 6F). Three functions of
+protein synthesis, RNA posttranscriptional modification, and psychological disorders contributed special actions to the additive
+mechanism in networks analysis. All of these functions were also
+demonstrated to have certain relationships with cerebral ischemia
+in previous literatures (Table S3).
+
+Discussion
+We displayed a vivid example that each of the monotherapy drugs
+and the combination therapy not only shared common targets,
+but also had their unique targets that may play an important role
+in the emergence of additive effect. Obviously, as a network, the
+wiring diagram is determined by overlapping components
+between pathways, and such a complicated relationship reflects
+that pathways of BA and JA groups could work together through
+shared genes, where the additive effect of BJ is created. Evidence
+suggests that pathways convergence and divergence often intersect and regulate each another to trigger a response to a complex
+set of stimulation, whether it is positive or negative [17–19]. In
+our study, multiple pathways coordinate or interact with one
+another to achieve a complex biological process that may contribute to the additive effect of the combination therapy. A high AI
+represents a strong variation, even though merely for the pathways of sulfur metabolism and cell cycle regulation by BTG family
+proteins in this reconstructed network. Beyond that, the construction of another network different from the component correlation-based network reveals pathway integration from both
+compounds (Figure 3C), and this micronetwork is divided into
+three regions, namely immune-related cluster, neuron-related
+cluster, and ERK/MAPK signaling cascade-related cluster. We find
+that the pathways in BA and JA groups present an interactive connection, including horizontal regulation such as TGF-b signaling
+and EGF signaling regulating ERK/MAPK signaling, and Amyotrophic Lateral Sclerosis signaling and Huntington’s disease signal-
+
+ª 2013 John Wiley & Sons Ltd
+
+Figure 4 Additive mechanism of pathway convergence and divergence in Huntington’s disease signaling pathway. On the basis of Ingenuity Pathway Analysis (IPA) knowledge base, the overlapping
+components between T Cell Receptor Signaling of baicalin (BA) group and Huntington’s disease signaling of BJ group were Ca2+, PIP3, c-Jun, JNK1, PIP2, IP3, DAG, PI3K, GRB2, SOS, hRas, and ERK/1/2;
+those between ERK/MAPK signaling of jasminoidin (JA) group and Huntington’s disease signaling of BJ group were CREB, SHC, PIP2, IP3, DAG, PI3K, GRB2, SOS, hRas, and ERK/1/2; and the overlapping
+ones among the three groups were PIP2, IP3, DAG, PI3K, GRB2, SOS, hRas, and ERK/1/2. Differentially expressed genes in the three groups are marked with pink, blue, green, and yellow arrows, up- and
+down-regulated genes were labeled with the up and down arrow, respectively. The overlapping components between the different groups are marked with different color stars.
+
+Y.-Y. Zhang et al.
+
+ª 2013 John Wiley & Sons Ltd
+
+Decoding Hierarchical Additive Mechanisms
+
+CNS Neuroscience & Therapeutics 20 (2014) 253–263
+
+259
+
+Decoding Hierarchical Additive Mechanisms
+
+(A)
+
+(B)
+
+Figure 5 Validation of Rgs6, SH2-B, cAMP-response-element-binding
+protein (CREB), p-ERK1/2 expression levels using both real-time polymerase
+chain reaction (RT-PCR) and Western blot analysis. (A) No significant
+discrepancies were found between the findings of microarray and real-time
+RT-PCR analyses. (B) Western blot analysis was employed to identify CREB
+and p-ERK1/2 between different groups. *P < 0.05 versus vehicle.
+
+ing regulating Apoptosis signaling, as well as vertical regulation
+such as VDR/RXR activation regulating PDGF signaling and IGF-1
+signaling, primary immunodeficiency signaling regulating T Cell
+receptor signaling and B Cell receptor signaling. Cross talk
+between pathways in this network displays cross-inhibition, crossactivation, and pathway convergence [20]. In fact, the additive
+effect of drug combination does not mean the sum of pathways
+simply, but transmitting information each other, triggering different space-time effect by drug interactions, and generating firenew phenotypic correlation information set. Specifically, to illustrate the therapeutic mechanism of the combination group, we
+base on the published literatures to further explain the differentially expressed genes of the pathways in BJ group. Neuropathic
+pain signaling in dorsal horn neurons arises from an injury discharge originating at the site of nerve injury which may result
+from stroke and other causes [21]. Molecules such as BDNF and
+CAMK1G in this pathway in our experimental data showed
+down-regulated expressions, which can directly or indirectly
+activate N-methyl-D-aspartate-(NMDA) and a-amino-3-hydroxy5-methyl-4-isoxazolepro-pionic acid (AMPA) receptor, the
+dependent receptor of calcium ions, leading to calcium influx
+restrictedly. NMDA and AMPA receptor antagonists resulted in
+almost complete neuroprotection [22]. FOSB, BDNF, and EGR1
+can cause down-regulation of MAPK cascade, which were downregulated in CDK5 signaling. A very early expression of MAPKs
+suggested that MAPKs might be closely involved in signal transduction during cerebral ischemia [23]. Activation of MAPK
+cascades was involved in neuroprotection against gerbil global
+ischemia/reperfusion injury [24]. Dnajb1-Hsp70 as a complex
+structure had a down-regulated expression in Huntington’s
+disease signaling, and this would weaken the expression of HD,
+whose reduction can effectively control the influx of calcium by
+
+260
+
+CNS Neuroscience & Therapeutics 20 (2014) 253–263
+
+Y.-Y. Zhang et al.
+
+calcium channel and GRIN2B, against the excitotoxic death and
+release of cytochrome c, cut down the action of calpain, a type of
+calcium-dependent protease that can activate caspase 3/7 to
+induce apoptosis. Moreover, a low expression of BDNF can block
+cell death that exists in the path of suppression of gene transcription from Hdac-Rcor-Rest-Sin3a. Interestingly, recent research
+shows similar molecular pathological mechanisms between
+Huntington’s disease and cerebral ischemia, such as endoplasmic
+reticulum (ER) dysfunction, mitochondrial disturbances, excitotoxicity, and neuroinflammation [25–28]. As a second messenger
+central to a number of biological processes, cAMP-mediated signaling has four down-regulated genes in our findings, that is,
+GRM3, CAMK1G, DUSP6, and DUSP4. Low expressions of
+CAMK1G and GRM3 would contribute to the activation from
+cAMP to ERK; meanwhile, DUSP6 and DUSP4, members of MKP,
+would weaken the inhibition of ERK. This complex process can
+help CREB, the cAMP-response-element-binding protein, to perform transcriptional regulation, which plays a critical role in synaptic plasticity and neuronal survival [29]. Consistently, another
+study revealed that the number of new neurons was increased in
+cerebral ischemic stroke, which was correlated with the activation
+of CREB [30]. A down-regulation of BTG2 would reduce the level
+of activation of the complex structure CDC2-CDK4-BTG1-CNOT7,
+together with the PPP2R1B lower expression, and resist antiproliferation effectively. Although research on the relationship
+between BTG family and cerebral ischemia is very limited, BTG
+protein is considered to be a modulator of cell survival and differentiation and could help to protect against cell death by inhibition
+of necrosis and/or apoptotic signaling pathways [31]. In the treatment of cerebral ischemia, sulfur metabolism is a very novel factor
+in the additive mechanism of combination therapies, which may
+play an important neuroprotective role in the brain during cerebral hypoxia [32]. Previous studies indicated that inorganic sulfur
+significantly inhibited MMP-2 and MMP-9 expressions in the cells
+[33], and MMP inhibitors might have an important significance in
+the treatment for cerebral ischemia, especially antineuroinflammation and reestablishment of cerebral blood flow [34,35].
+As a functional community [36], genes with a same molecular
+function are listed together, which present a kind of biofunction.
+A high frequency of overlapping biofunctions indicates that a similar regulatory process between BA and JA has been inherited
+after drug combination, constituting a fusion background. Amino
+acid metabolism, lipid metabolism, cell cycle, cell death, and
+immune response from the overlapping functions were thought to
+have important relevance to cerebral ischemia. It has been shown
+that branched chain amino acids are reduced in ischemic stroke,
+and the degree of reduction correlates with worse neurological
+outcome [37]. Moreover, glutamate as a nonessential amino acid
+is an excitatory neurotransmitter that plays a major role in the
+pathogenesis of ischemia brain injury [2]. Excitatory amino acid
+transporters may provide neuroprotection during cerebral ischemic insult [38]. A relation between lipid alterations and dysfunction of energy metabolism has also been confirmed after brain
+infarction in rats [39]. Phospholipid degradation with subsequent
+free fatty acid release and alteration in membrane-bound enzymes
+may have a direct effect on metabolic machinery and may slow
+cerebral metabolic rate. Brain lipid metabolism was studied by
+bilateral common carotid artery ligation, a model for chronic cere-
+
+ª 2013 John Wiley & Sons Ltd
+
+Y.-Y. Zhang et al.
+
+Decoding Hierarchical Additive Mechanisms
+
+(A)
+
+(B)
+
+(D)
+
+(E)
+
+(C)
+
+(F)
+
+Figure 6 The top five statistically significant signaling pathway networks between BJ and vehicle groups and Wayne figures of network functions among
+baicalin (BA), jasminoidin (JA), and BJ groups. The top five statistically significant signaling pathway networks involving the differentially expressed genes
+between BJ and vehicle groups, with functions in organ morphology, reproductive system development and function, cellular compromise (A); cell-to-cell
+signaling and interaction, nervous system development and function, cellular movement (B); skeletal and muscular system development and function,
+tissue morphology, connective tissue disorders (C); cell-to-cell signaling and interaction, cell-mediated immune response, organ morphology (D); and cell
+signaling, molecular transport, vitamin, and mineral metabolism (E). The red node denotes an up-regulated gene, and the green node denotes a downregulated gene. The intensity of colors indicates the degree of up-regulation or down-regulation. (F) Only significant functions are shown in this figure
+based on a P value <0.05 and a fold change >1.5 between groups.
+ª 2013 John Wiley & Sons Ltd
+
+CNS Neuroscience & Therapeutics 20 (2014) 253–263
+
+261
+
+Y.-Y. Zhang et al.
+
+Decoding Hierarchical Additive Mechanisms
+
+bral hypoperfusion, which showed that dysbolism might be
+caused by compensatory secretory phospholipase A (2)-mediated
+vasodilation [40]. Another experiment used compound to prevent
+membrane lipid loss and suggested that lipid metabolism was
+important for the development of ischemic damage [41]. A recent
+study suggested that cell cycle modulation resulted in neuroprotection in ischemia, which was mediated at least in part through
+inhibition of microglia proliferation and production of inflammatory cytokines [42]. Besides that, researchers also confirmed that
+the application of natural medicine induced cell cycle arrest and
+cell survival to resist cerebral ischemia injury [43]. It is essential to
+understand the different cell death mechanisms after cerebral
+ischemia [44]. Furthermore, autophagy-like injury may contribute to ischemia-induced cell death in the brain, which could be
+regulated by the NF-jB pathway, suggesting potential treatments
+for ischemic stroke [45]. Confidently, T cells were required for
+stroke-induced reductions in non-T immune cells, and they were
+the most crucial lymphocytes for stroke-induced immunodepression [46]. A study analyzing the temporal dynamics of immune
+cell accumulation in a rodent stroke model showed that peculiar
+activation pattern and massive increase of antigen-presenting cells
+in temporal conjunction with regulatory cells might provide additional insight into poststroke immune regulation [47]. A better
+understanding of the roles of the different T-lymphocyte subpopulations and their temporal profile of damage versus repair will help
+to clarify whether T-lymphocyte targeting may be a viable poststroke therapy for clinical use [48].
+A novel nonoverlapping function, RNA posttranscriptional
+modification, was identified in BJ group, which might turn out to
+be a factor of more general importance in gene expression, and
+was identified as a participant in precise decoding of the genetic
+code that had been demonstrated to be associated with the treat-
+
+References
+
+ment for cerebral ischemia [49]. An investigation focusing on the
+role of miRNAs in ischemia indicated that miRNAs played a role in
+the regulation of gene expression at the posttranscriptional level,
+which may serve as biomarkers and therapeutic targets in cerebral
+ischemia [50]. Another review examined the implicated RNAbased networks in the molecular pathogenesis of stroke and
+revealed therapeutic strategies that more effective neuroprotective
+and neural regenerative responses may be developed through the
+modulation of RNA transcription, posttranscriptional RNA processing, and RNA translation [51]. Although found to be associated with ischemia in previous studies, other special functions of
+psychological disorders and protein synthesis in BJ group may
+need to be studied further in order to get a more complete understanding of the underlying additive mechanism of the combination therapy.
+
+Conclusions
+In conclusion, system-pathways hierarchical analysis may need a
+kind of integrative and quantitative method, and analysis of
+known pathways convergence and divergence may suggest an
+interdependent paradigm of revealing pharmacological additive
+mechanisms of drug combinations, such as BA and JA.
+
+Acknowledgment
+This work was supported by National 11th Five-years-plan Supporting R&D Project (2006BAI08B04-06).
+
+Conflict of Interest
+The authors declare no conflict of interest.
+
+8. Zhang ZJ, Wang LY, Wang Z, Li PT, Wang YY.
+
+1. Goldstein LB, Bushnell CD, Adams RJ, et al. Guidelines
+
+signaling pathways and networks reveal two
+
+and their combination on focal cerebral
+
+complementary pharmacological mechanisms. CNS Neurol
+
+for the primary prevention of stroke: A guideline for
+
+ischemia-reperfusion injury. Zhongguo Zhong Yao Za Zhi
+
+healthcare professionals from the American Heart
+
+2006;31:907–910.
+
+Association/American Stroke Association. Stroke
+
+9. Jing ZW, Zhou CX, Wang Z, et al. Principal component
+
+2011;42:517–584.
+
+analysis of gene expression of baicalin, jasminoidin and
+
+2. Degterev A, Huang Z, Boyce M, et al. Chemical inhibitor
+
+their combination in experimental stroke. J Tradit Chin
+Med 2010;51:164–167.
+
+of nonapoptotic cell death with therapeutic potential for
+ischemic brain injury. Nat Chem Biol 2005;1:112–119.
+
+10. Hopkins AL. Network pharmacology: The next paradigm
+
+3. Doyle KP, Simon RP, Stenzel-Poore MP. Mechanisms of
+ischemic brain damage. Neuropharmacology 2008;55:310–
+
+in drug discovery. Nat Chem Biol 2008;4:682–690.
+11. Hopkins AL. Network pharmacology. Nat Biotechnol
+
+318.
+4. Andersen M, Overgaard K, Meden P, Boysen G, Choi SC.
+
+2007;25:1110–1111.
+12. Wang J, Wang YY, Yang G. The research methods and
+
+Effects of citicoline combined with thrombolytic therapy
+
+mode of compatibility theory of traditional Chinese
+
+in a rat embolic stroke model. Stroke 1999;30:1464–
+
+medicine and prescription. China Journal of Chinese Materia
+
+1471.
+
+Medica 2005;30:6–8.
+
+5. Zhu H, Fan X, Yu Z, et al. Annexin A2 combined with
+
+13. Chou TC. Theoretical basis, experimental design, and
+
+low-dose tPA improves thrombolytic therapy in a rat
+
+computerized simulation of synergism and antagonism in
+
+model of focal embolic stroke. J Cereb Blood Flow Metab
+
+drug combination studies. Pharmacol Rev 2006;58:621–
+
+2010;30:1137–1146.
+6. Haddad M, Beray-Berthat V, Coqueran B, Plotkine M,
+
+16. Chen Y, Meng F, Fang H, et al. Hierarchical profiles of
+
+Pharmacological evaluation of baicalin and jasminoidin
+
+681.
+14. Chen Y, Zhou C, Yu Y, et al. Variations in target gene
+
+Disord Drug Targets 2013;12:882–893.
+17. Konsavage WM Jr, Yochum GS. Intersection of Hippo/
+YAP and Wnt/beta-catenin signaling pathways. Acta
+Biochim Biophys Sin (Shanghai) 2013;45:71–79.
+18. Nowsheen S, Yang E. The intersection between DNA
+damage response and cell death pathways. Exp Oncol
+2012;34:243–254.
+19. Zeidan Q, Hart GW. The intersections between
+O-GlcNAcylation and phosphorylation: Implications for
+multiple signaling pathways. J Cell Sci 2010;123:13–22.
+20. Mendoza MC, Er EE, Blenis J. The Ras-ERK and
+PI3K-mTOR pathways: Cross-talk and compensation.
+Trends Biochem Sci 2011;36:320–328.
+21. Halder SK, Yano R, Chun J, Ueda H. Involvement of
+LPA1 receptor signaling in cerebral ischemia-induced
+neuropathic pain. Neuroscience 2013;235:10–15.
+22. Arias RL, Tasse JR, Bowlby MR. Neuroprotective
+interaction effects of NMDA and AMPA receptor
+antagonists in an in vitro model of cerebral ischemia.
+Brain Res 1999;816:299–308.
+
+Marchand-Leroux C, Margaill I. Combined therapy with
+
+expression and pathway profiles in the mouse
+
+PJ34, a poly (ADP-ribose)polymerase inhibitor, reduces
+
+hippocampus following treatment with different
+
+tissue plasminogen activator-induced hemorrhagic
+
+effective compounds for ischemia-reperfusion injury.
+
+mitogen-activated protein kinases after permanent
+
+transformations in cerebral ischemia in mice. Fundam Clin
+
+Naunyn Schmiedebergs Arch Pharmacol 2012;385:797–
+
+cerebral artery occlusion in mouse brain. J Cereb Blood
+
+Pharmacol 2013;27:393–401.
+
+806.
+
+7. Wang Z, Jing ZW, Zhou CX, et al. Fusion of core
+
+15. Lin G, Meng FY, Zhang GD, et al. Baicalin and
+
+23. Wu DC, Ye W, Che XM, Yang GY. Activation of
+
+Flow Metab 2000;20:1320–1330.
+24. Dai J, Chen L, Qiu YM, et al. Activations of GABAergic
+
+pathways reveals a horizontal synergistic mechanism
+
+jasminoidin effects on gene expression and compatibility
+
+signaling, HSP70 and MAPK cascades are involved in
+
+underlying combination therapy. Eur J Pharmacol
+
+in the hippocampus following focal cerebral ischemia.
+
+baicalin’s neuroprotection against gerbil global ischemia/
+
+2011;667:278–286.
+
+Neural Regen Res 2011;6:165–170.
+
+reperfusion injury. Brain Res Bull 2013;90:1–9.
+
+262
+
+CNS Neuroscience & Therapeutics 20 (2014) 253–263
+
+ª 2013 John Wiley & Sons Ltd
+
+Y.-Y. Zhang et al.
+
+25. Stone TW, Forrest CM, Stoy N, Darlington LG.
+
+Decoding Hierarchical Additive Mechanisms
+
+33. Kim JJ, Ha AW, Kim HS, Kim WK. Inorganic sulfur
+
+IL-1beta, MIP-1alpha, and NO after focal cerebral
+
+Involvement of kynurenines in Huntington’s disease and
+
+reduces the motility and invasion of MDA-MB-231
+
+stroke-induced brain damage. J Neural Transm
+
+human breast cancer cells. Nutr Res Pract 2011;5:375–380.
+
+2012;119:261–274.
+26. Mehta A, Prabhakar M, Kumar P, Deshmukh R, Sharma
+PL. Excitotoxicity: Bridge to various triggers in
+neurodegenerative disorders. Eur J Pharmacol 2013;698:6–
+18.
+27. Zadori D, Klivenyi P, Szalardy L, Fulop F, Toldi J, Vecsei
+L. Mitochondrial disturbances, excitotoxicity,
+neuroinflammation and kynurenines: Novel therapeutic
+
+34. Cunningham LA, Wetzel M, Rosenberg GA. Multiple
+
+PI3K/Akt. Eur J Pharmacol 2013;708:44–55.
+
+35. Candelario-Jalil E, Yang Y, Rosenberg GA. Diverse roles of
+
+death mechanisms in the mediation of excitotoxicity and
+
+metalloproteinases in neuroinflammation and cerebral
+
+ischemic brain damage: A challenge for neuroprotection.
+
+ischemia. Neuroscience 2009;158:983–994.
+
+Metabolite profiling identifies a branched chain amino
+acid signature in acute cardioembolic stroke. Stroke
+
+48. Brait VH, Arumugam TV, Drummond GR, Sobey CG.
+
+enzyme activities after brain infarction in rats. Stroke
+
+2004;101:9453–9457.
+
+1987;18:418–425.
+
+immunodeficiency, and recovery after cerebral ischemia.
+J Cereb Blood Flow Metab 2012;32:598–611.
+
+40. Bhattacharjee AK, White L, Chang L, et al. Bilateral
+common carotid artery ligation transiently changes brain
+
+neurons after ischaemic stroke. Pathobiology
+
+lipid metabolism in rats. Neurochem Res 2012;37:1490–
+
+and alternative folding of RNA. Nucleic Acids Res
+2006;34:721–733.
+50. Ouyang YB, Stary CM, Yang GY, Giffard R. microRNAs:
+
+1498.
+
+Innovative targets for cerebral ischemia and stroke. Curr
+
+41. Simao F, Matte A, Breier AC, et al. Resveratrol prevents
+
+Drug Targets 2013;14:90–101.
+
+global cerebral ischemia-induced decrease in lipid content.
+Neurol Res 2013;35:59–64.
+
+51. Qureshi IA, Mehler MF. The emerging role of epigenetics
+in stroke: II. RNA regulatory circuitry. Arch Neurol
+
+42. Zhang Q, Chen C, Lu J, et al. Cell cycle inhibition
+
+2010;67:1435–1441.
+
+attenuates microglial proliferation and production of
+
+Supporting Information
+The following supplementary material is available for this article:
+Table S1. Relationships between canonical pathways and cerebral
+ischemia which were supported by published literatures.
+
+ª 2013 John Wiley & Sons Ltd
+
+Importance of T lymphocytes in brain injury,
+
+49. Helm M. Post-transcriptional nucleotide modification
+
+translocation gene 2 is over-expressed in peri-infarct
+
+protein 90 pathway. Neuroscience 2010;167:277–286.
+
+accumulation in stroke. Stroke 2009;40:1849–1857.
+
+2010;35:1224–1230.
+
+adult dentate gyrus. Proc Natl Acad Sci U S A
+
+kinase C/extracellular signal-regulated kinase/heat shock
+
+and spatial dynamics of cerebral immune cell
+
+transporters in cerebral ischemia. Neurochem Res
+
+metabolism, cerebral metabolic rate, and some related
+
+stimulation of ATP-sensitive potassium channel/protein
+
+One 2013;8:e59602.
+
+38. Chao XD, Fei F, Fei Z. The role of excitatory amino acid
+
+39. Bralet J, Beley P, Jemaa R, Bralet AM, Beley A. Lipid
+
+sulfide protects neurons against hypoxic injury via
+
+contribute to stroke-induced lymphopenia in rats. PLoS
+47. Gelderblom M, Leypoldt F, Steinbach K, et al. Temporal
+
+focal cerebral ischemia stimulates neurogenesis in the
+
+2009;76:129–135.
+
+46. Gu L, Xiong X, Wei D, Gao X, Krams S, Zhao H. T cells
+
+2013;44:1389–1395.
+
+cAMP-response-element-binding protein (CREB) after
+
+32. Tay AS, Hu LF, Lu M, Wong PT, Bian JS. Hydrogen
+
+NF-kappaB in autophagy-like cell death after focal
+cerebral ischemia in mice. Neuroscience 2013;244:16–30.
+
+neurological disease. Lancet Neurol 2013;12:105–118.
+
+31. Slevin M, Sanfeliu C, Turu MM, et al. B-cell
+
+45. Li WL, Yu SP, Chen D, et al. The regulatory role of
+
+37. Kimberly WT, Wang Y, Pham L, Furie KL, Gerszten RE.
+
+DA, Marciniak SJ. Endoplasmic reticulum dysfunction in
+
+30. Zhu DY, Lau L, Liu SH, Wei JS, Lu YM. Activation of
+
+Prog Neurobiol 2013;105:24–48.
+
+36. Barabasi AL, Gulbahce N, Loscalzo J. Network medicine:
+Genet 2011;12:56–68.
+
+the brain. Rinsho Shinkeigaku 2012;52:904–907.
+
+44. Puyal J, Ginet V, Clarke PG. Multiple interacting cell
+
+matrix metalloproteinases and tissue inhibitors of
+
+A network-based approach to human disease. Nat Rev
+
+CREB activation is a key player for ischemic tolerance in
+
+reperfusion and correlations with p53/cyclin D1 and
+
+2005;50:329–339.
+
+2012;322:187–191.
+
+29. Kitagawa K, Sasaki T, Terasaki Y, Yagita Y, Mochizuki H.
+
+cycle arrest and cell survival during cerebral ischemia and
+
+roles for MMPs and TIMPs in cerebral ischemia. Glia
+
+strategies for neurodegenerative disorders. J Neurol Sci
+28. Roussel BD, Kruppa AJ, Miranda E, Crowther DC, Lomas
+
+ischemia in the rat. Glia 2009;57:908–920.
+43. Chai YS, Hu J, Lei F, et al. Effect of berberine on cell
+
+Table S2. Statistically significant signaling pathway networks
+between BJ and vehicle groups.
+Table S3. Cerebral ischemia/stroke-related overlapping functions
+among BA, JA and BJ groups which were supported by published
+literatures.
+
+CNS Neuroscience & Therapeutics 20 (2014) 253–263
+
+263
+
+

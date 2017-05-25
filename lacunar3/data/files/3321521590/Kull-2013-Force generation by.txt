@@ -1,0 +1,1545 @@
+﻿[Link]
+mailto:sharyn.endow@duke.edu
+Journal of Cell Science
+Force generation by kinesin and myosin cytoskeletal
+motor proteins
+F. Jon Kull1 and Sharyn A. Endow2,*
+1Department of Chemistry, Dartmouth College, Hanover, NH 03755, USA
+2Department of Cell Biology, Duke University Medical Center, Durham, NC 27710, USA
+*Author for correspondence (sharyn.endow@duke.edu)
+Journal of Cell Science 126, 9–19
+ 2013. Published by The Company of Biologists Ltd
+doi: 10.1242/jcs.103911
+Summary
+Kinesins and myosins hydrolyze ATP, producing force that drives spindle assembly, vesicle transport and muscle contraction. How
+do motors do this? Here we discuss mechanisms of motor force transduction, based on their mechanochemical cycles and
+conformational changes observed in crystal structures. Distortion or twisting of the central b-sheet–proposedtotriggeractininduced P
+i
+and ADP release by myosin, and microtubule-induced ADP release by kinesins – is shown in a movie depicting the
+transition between myosin ATP-like and nucleotide-free states. Structural changes in the switch I region form a tube that governs
+ATP hydrolysis and P
+i
+release by the motors, explaining the essential role o f switch I in hydrolysis. Comparison of the motor power
+strokes reveals that each stroke begins with the force-amplifying structure oriented opposite to the direction of rotation or swing.
+Motors undergo changes in their mechanochemical cycles in response to small-molecule inhibitors, several of which bind to kinesins
+by induced fit, trapping the motors in a state that resembles a force- producing conformation. An unusual motor activator specifically
+increases mechanical output by cardiac myosin, potentially providin g valuable information about its mechanism of function. Further
+study is essential to understand motor mechanochemical coupling and energy transduction, and could lead to new therapies to treat
+human disease.
+Key words: Motor proteins, Kinesins, Myosins, Force generation, Mechanochemical cycles, Kinesin inhibitors, Myosin activator
+Introduction
+Cytoskeletal motors have been intensively studied over the past
+25 years, but our understanding of how force is produced by the
+motors is still incomplete. The first crystal structure of a kinesin
+motor domain (Kull et al., 1996) revealed an unexpected
+structural homology between the kinesins and myosins – the
+motor domain of both proteins is formed by the same core
+structural elements, organized in the same way to form the
+nucleotide- or filament-binding site on opposite sides of the
+motor domain. These structural elements and their organization
+are conserved within the kinesin and myosin superfamilies,
+implying a common mechanism of force generation by the
+motors. By contrast, the dyneins deviate in overall structure
+from the kinesins and myosins, and presumably also in their
+mechanism of energy transduction (Carter et al., 2011; Kon
+et al., 2011; Kon et al., 2012; Ho ¨o ¨k and Vallee, 2012; Schmidt
+et al., 2012). The focus of this Commentary is on the kinesins
+and myosins, for which more is known regarding the motor
+force-producing mechanism than for the dyneins. We discuss
+the mechanochemical cycles of the motors and the
+conformational changes they undergo, based on crystal
+structures of the motors in different nucleotide states. We
+propose possible force-producing mechanisms of the motors
+and compare their working strokes. We also discuss smallmolecule
+inhibitors of the kinesins and an activator of myosin,
+whose analysis has resulted in further insights into motor
+function. Further information on kinesin inhibitors can be found
+in a recent review (Good et al., 2011).
+Motor mechanochemical cycles and force
+production
+Molecular motor proteins are fascinating enzymes as they have
+the ability to link chemical catalysis to the production of directed
+force along a protein filament. The mechanism of force
+production by motor proteins is not certain, but is thought to
+involve structural changes in a deformable element of the motor
+that undergoes changes in structure under load, creating strain,
+followed by a strain-relieving structural change that causes the
+element to recoil back into its original conformation, producing
+force (Howard, 2001).
+In order to produce force, motor proteins couple a chemical
+cycle of ATP hydrolysis to a mechanical cycle of motor
+interactions with its filament (Bustamante et al., 2004) (Fig. 1).
+When coupled, the mechanochemical cycle of motor proteins can
+be incredibly complex. Even at the simplest level, a minimal
+chemical cycle involves ATP binding, hydrolysis, and subsequent
+release of P
+i
+and ADP. These changes occur within the relatively
+small motor domain of the protein and appear to involve small
+movements by specific structural elements. The mechanical cycle
+is coupled to the chemical cycle and involves binding to its
+filament by the motor, a lever-like movement of a rigid structural
+element and/or generation of strain that produces the large
+displacements observed for the motors, release of the motor from
+its filament and repositioning of the force-amplifying element(s)
+in preparation for the next step (Fig. 2). A key goal in the field is
+to determine how these mechanochemical cycles are coupled in
+different motor proteins, which amino acids and structural motifs
+Commentary 9
+(EVALUATION PDF Extractor SDK 8.0.0.2542.371920387)
+Journal of Cell Science are crucial for the mechanochemistry of the motors, and how
+motor proteins differ to fulfil specific cellular functions.
+Several key components and capabilities are common to all
+motor proteins. First, motors must be able to bind to and
+hydrolyze nucleotide, and then release P
+i
+and ADP. Second, the
+motor domain must be able to sense the presence or absence ofcphosphate
+in the nucleotide-binding pocket. Response to this
+seemingly small difference, for example, when ATP rather than
+ADP is bound, triggers an initial conformational response that is
+then transmitted to other regions of the motor protein, inducing a
+force-producing conformational change and altering interactions
+between the motor and its filament. Finally, for some motors,
+such as many dimeric kinesins, processive movement – the
+ability to take successive steps along its filament – requires
+communication between the two heads, which is thought to be
+achieved by chemical and/or physical ‘gating’, in which the
+attached head remains bound until a chemical or mechanical
+signal, such as binding of ATP by the front head or detachment of
+the rear head from the microtubule (Rosenfeld et al., 2003; Yildiz
+et al., 2008; Clancy et al., 2011), causes it to release. This would
+keep the two heads working synchronously, so that both heads do
+not release from the filament at the same time, which would
+cause the motor to diffuse rapidly away from its filament.
+Structural elements involved in force production
+An important goal of the motors field is to identify the structural
+elements that undergo conformational changes and the steps of
+the ATP hydrolysis cycle in which they occur. Many of the
+elements that are thought to play crucial roles in the
+mechanochemical cycle of the kinesins and myosins have now
+been identified (Box 1) through experimental approaches that
+include structural analysis by X-ray crystallography and highresolution
+cryoelecton microscopy, coupled to functional studies
+by mutant analysis, together with kinetic assays and cell
+biological studies.
+In kinesins and myosins, several conserved structural motifs in
+the nucleotide-binding pocket play a crucial role. These include the
+P-loop, which interacts with the nucleotide and associated Mg2+
+ion, primarily through the a-, b-and c-phosphates, and two loops,
+switch I and switch II, which act as c-phosphate sensors (Vale,
+1996) (Box 1). The P-loop, also called a Walker A motif (Walker
+et al., 1982), has the consensus sequence GxxxxGK(T/S), and is
+one of the most common protein motifs. In kinesins and myosins,
+the P-loop has a more highly conserved sequence GQ(T/
+S)xSGK(T/S). In addition to the P-loop, two other motifs are
+essential for motor protein function, the so-called switch I and
+switch II motifs (Sablin et al., 1996) (Box 1). As these flexible
+switch regions are responsible for sensing the presence or absence
+of c-phosphate, they move in and out of the nucleotide-binding
+pocket by several angstroms during the catalytic cycle. Their
+relatively small movements are transmitted to other regions of the
+motor domain and amplified in different kinesins by the neck linker
+(Rice et al., 1999) or coiled-coil stalk (Yun et al., 2003), or in
+myosins by the converter (Houdusse and Cohen, 1996) and lever
+arm (Rayment et al., 1993) (supplementary material Movies 1, 2
+and 3, respectively).
+Force-producing structural pathways in kinesins
+Movements in each of the two switch regions are linked through
+distinct pathways of conformational change to other regions in the
+Force
+M.ATP
+P
+i
+ADP M.ADP
+M.ADP.P
+i
+ATP
+Myosin mechanochemical cycle
+Mechanical cycle
+Force
+Chemical cycle
+M
+M.ATP M.ADP
+M.ADP.P
+i
+ADP
+P
+i
+ATP
+M.ADP.P
+i
+M.ADP
+M
+Force
+M.ATP
+Kinesin mechanochemical cycle
+M.ADP.P
+i
+P
+i
+M.ADP
+ADP
+ATP
+A
+BC
+Fig. 1. Motor mechanochemical cycles.
+(A) Mechanical (left) and chemical (right) cycles
+of a simple ATP-fueled molecular motor protein;
+coupling of the mechanical and chemical cycles
+produces the motor force-generating cycle.
+(B) Myosin and (C) kinesin mechanochemical
+cycles, simplified here to show the shift in the
+cycles between the two motors. The myosin
+force-producing step occurs with P
+i
+release,
+whereas ATP binding is thought to be the forceproducing
+step for kinesin motors (Rice et al.,
+1999; Endres et al., 2006; Hallen et al., 2011).
+Journal of Cell Science 126 (1) 10
+(WITH PDF Extractor SDK TRIAL VERSION)
+Journal of Cell Science
+motor domain. Following the switch II motif is a loop, L11,
+frequently disordered in kinesins, which leads to an a-helix, helixa4
+(referred to as the relay helix in myosins) (Box 1), on the opposite
+side of the motor domain as the P-loop and switch I. In kinesins, this
+helix is a major component of the microtubule-binding interface
+(Fig. 2) and has been observed in a number of different nucleotidedependent
+orientations and lengths. This pathway links the
+nucleotide- and filament-binding sites, allowing interactions with
++
++
++
+A  Kinesin-5 Eg5
+B  Kinesin-14 Ncd
+C  Myosin II
+Stalk
+Lever arm
+Neck linker
+α4-L12-α5
+α6
+α4-L12-α5
+β-sheet
+Neck linker
+Neck linker
+Relay helix
+SH1
+Converter
+Myosin–ATP Myosin–no-nucleotide
+ADP
+Ncd–ADP Ncd–ATP
+Eg5–ADP
+β-sheet
+Eg5–ATP
+ADP
+ATP
+ATP
+ADP
+P
+i
+Fig. 2. Structural changes of the motors during their mechanochemical cycles. Changes in motor structure during their cycles are illustrated using crystal
+structures that show one head of the dimeric motors docked onto a schematically represented filament. (A) Kinesin-5 Eg5 in the ADP state (left, PDB 1II6), the
+ATP-like state (right, PDB 3HQD), and an intermediate interpolated between the two states (see supplementary material Movie 1). The microtubule-binding
+elements (a4-L12-a5, magenta) interact with the microtubule. Loop L11, adjacent to helix a4, is also part of the major microtubule-binding complex, but is
+frequently disordered in crystal structures, and is not shown here with the rest of the complex. Release of ADP and binding of ATP by the motor are associated
+with movement of switch I (red) and a large change in the angle of the neck linker (blue), which extends toward the minus end in the ADP state (left), then swings
+toward the plus end (black arrow) and docks onto the motor in the ATP-like state (right) (supplementary material Movie 1). Central b-sheet, tan; N-terminus,
+yellow; helixa6 C-terminus, blue. (B) Kinesin-14 Ncd is a dimer with two heads; in stalk-rotated Ncd crystal structures, one of the heads (PDB 3L1C, chain A) is
+in the same conformation as motor-ADP crystal structures – the pre-stroke state or ADP state (left) – whereas the other head (chain B) assumes a distinctly
+different stalk-rotated conformation, which is thought to represent the post-stroke (Lakkaraju and Hwang, 2011) or ATP-bound state (Heuston et al., 2010) (right).
+The Ncd stalk (green) tilts towards the plus end in the ADP state (left) and rotates toward the minus end (black arrow) when the motor releases ADP and binds
+ATP (Endres et al., 2006; Hallen et al., 2011) (right) (supplementary material Movie 2). The microtubule-binding region conformation resembles that of kinesin-5
+Eg5. (C) Myosin II in an ATP transition state (PDB 1DFL) (left) shows the lever arm (cyan) tilted towards the actin minus end; the motor undergoes large changes
+as it hydrolyzes ATP and releases P
+i
+and ADP, transitioning into the nucleotide-free state (PDB 1DFK) (right), accompanied by a large rotation of the lever arm
+(black arrow) towards the plus end (right) (supplementary material Movie 3). The so-called ‘relay’ helix (magenta) corresponds to helix a4 of the kinesins; it is
+kinked in the ATP-like state (left) but straightens and rotates with the lever arm, converter (orange) and SH1 helix (blue) upon P
+i
+release and transition into the
+nucleotide-free state (right). Microtubule (A), (B) and actin filament (C) schematic diagrams are oriented with the minus end to the left. Intermediate states
+between crystal structures were interpolated using Chimera (Pettersen et al., 2004).
+Force generation by kinesins and myosins 11
+(WITH PDF Extractor SDK TRIAL VERSION)
+Journal of Cell Science Box 1. Motor elements involved in force production
+Kinesin and myosin switch I and II regions share structural and functional similarities with G-proteins. Switch I (red), a flexible loop with the conserved sequence NxxSSR, assumes different con- formations during the force-generating cycle, switching between open (left) and closed con- formations (right), as shown in kinesin-5 Eg5, allowing the motors to function as c-phosphate sensors. Specific interactions of each switch element with the nucleotide determine whether it is in an open or closed conformation (Geeves and Holmes, 1999), although some differences exist between myosins and kinesins in the switch I open conformation. In the closed conformation, the side chain hydroxyl of the first serine interacts with the c-phosphate, and the side chain of the second serine forms a bond to the bound Mg 2+, moving towards the nucleotide from its position in the open conformation (Kull and Endow, 2002). In kinesins, the movement of switch I from open to closed occurswithachangeinitsstructurefromashort
+a-helix (left) to an extended hairpin loop (right). In switch II, a loop with the conserved sequence DxxGxE, the closed conformation is defined by the formation of a hydrogen bond between the glycine and c-phosphate of the bound nucleotide (Kull and Endow, 2002). This interaction positions the loop 1–4 A ˚ closer to the nucleotide than its more variable open positions. When both switch regions are closed, a catalytically active Pi tube is formed (Kikkawa and Hirokawa, 2006; Sindelar and Downing, 2010) (Fig. 3), in which two key water molecules in the active site are positioned to allow a nucleophilic attack on the c-phosphate by one of them, leading to nucleotide hydrolysis (Fisher et al., 1995; Parke et al., 2010). The nucleotide-binding P-loop (green) shows the side chains interacting with the bound
+nucleotide (AMP ?PNP, orange). Two water molecules (red sphere s) contribute to the octahedral coordination of the Mg 2+ (magenta). The P-loop conformation does not change substantially with or without bound nucleotide. The switch II loop (cyan) acts as a secondary c- phosphate sensor by forming a bond between the main chain amide of the conserved glycine
+and c-phosphate of the bound nucleotide in the ‘closed’ conformation; the glycine has moved back too far to form this interaction in the ‘open’
+conformation. Essential structural elements of kinesins and myosins shown in kinesin-5 Eg5. Left, nucleotide-binding P-loop (green), bound nucleotide (AMP?PNP, orange), switch I (red) and switch II (cyan). Right, microtubule-binding a4-L12-a5
+(magenta), a6 C-terminus and neck linker (blue) and motor N-terminus (yellow). Left, Eg5–ADP helices a4 and a5 (magenta) block neck linker docking. Right, Eg5–AMP?PNP a4 and a5 have rotated, allowing the neck linker (blue; along with a6 C-terminus) to dock onto the motor. The loop extending from the N- terminal b-strand of the motor (yellow), the cover strand, has not been fully visualized in crystal structures, but is thought to interact with the kinesin-1 neck linker, forming a cover neck bundle. Front
+Back
+Journal of Cell Science 126 (1) 12
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.470135196)
+Journal of Cell Science
+the nucleotide in the catalytic pocket to be transmitted to the
+microtubule-binding interface, and vice-versa.
+The pathway of conformational changes leading from the
+switch I region is less clear, but has come into focus recently
+when a crystal structure of kinesin 5 (Eg5, also known as KSP),
+in which both switch I and switch II are closed, was solved (Parke
+et al., 2010). In addition to the helix-to-loop transition of switch I
+between the open and closed states (Box 1), comparison of the
+ADP and ATP-like (bound to the nonhydrolysable ATP analogue,
+AMP?PNP) structures shows substantial movement of helix a3,
+which is adjacent to helixa2 following the P-loop. As helixa3in
+kinesins is adjacent to a region containing loop L8, which also
+binds microtubules, it is possible that movements in switch I
+provide a second, distinct pathway of communication between
+the nucleotide-binding site and the microtubule-binding interface,
+allowing for fine-tuning of the kinesin mechanochemical cycle.
+It is also essential that changes in the microtubule-binding
+region are transmitted to the regions of the motor that are
+responsible for force generation. Interestingly, in kinesins this
+appears to be governed primarily by the same movements in helix
+a4, discussed above, that affect interactions with the microtubule
+and are observed in the ATP-bound state. The C-terminus of
+helix a4 in kinesins is close to helix a6, the last helix of the
+conserved motor domain, as well as the N-terminus of the first bstrand
+of the motor domain. In kinesin family members with an
+N-terminal motor domain, helixa6 is followed by the neck linker
+(Kozielski et al., 1997) (Box 1), which has been shown to be
+crucial for movement (Clancy et al., 2011), whereas in C-
+terminal kinesin motors, the neck helix precedes the firstb-strand
+of the motor domain, b-strand 1. For both N-terminal and C-
+terminal motors, movement of helix a4 allows the loop region
+following helixa6 to pack down into a small pocket on the motor
+core, which is also associated with rearrangement of the end ofbstrand
+1. In this way, conformational changes in the nucleotidebinding
+region are transmitted to the C-terminal end of helix a4,
+resulting in nearly identical rearrangements of the loops C-
+terminal to helix a6 and N-terminal to b-strand 1 in both the N-
+and C-terminal kinesin motors (Heuston et al., 2010). At this
+point, the N- and C-terminal kinesins diverge. In N-terminal,
+plus-end directed kinesins, these movements result in a packing
+of the neck linker against the motor core in the microtubule plus
+direction (Box 1 and Fig. 2). In C-terminal, minus-end kinesins,
+the initial movements appear to trigger a rotation of the helical
+neck and coiled-coil stalk in the minus-end direction (Fig. 2).
+Similarities in mechanochemistry between
+kinesins and myosins
+Although kinesin and myosin motor proteins are similar in that
+they are both powered by ATP hydrolysis, it was unexpected
+when the first kinesin crystal structure was shown to overlap with
+the myosin motor core structure (Kull et al., 1996). Despite an
+almost complete lack of sequence identity, a substantial
+difference in size, and interactions with different cytoskeleton
+filament tracks, the kinesin and myosin motor domains share a
+common core composed of a seven-stranded b-sheet flanked by
+six a-helices, three on each side of the b-sheet. Although each
+family of motors has distinct insertions between these structural
+elements, their topological order is the same, suggesting a
+common evolutionary ancestor (Kull et al., 1998). Comparison of
+the kinesin and myosin catalytic pockets shows that these motors
+also share a number of common mechanistic features. Both have
+P-loops as well as switch I and switch II motifs that are conserved
+in sequence and structure between the two motor families
+(described above), and both have a helix known as the relay helix
+in the myosins and helix a4 in the kinesins (Fig. 2). All of the
+conserved active site residues make similar interactions with the
+nucleotide and bound Mg2+. Furthermore, comparison of myosin
+and kinesin crystal structures determined in the presence of
+different nucleotides show similar movements and
+rearrangements of switch I and switch II as they transition
+between open and closed conformations. This similarity in active
+site elements is shared with G-proteins, which bind to and
+hydrolyze GTP and function as molecular switches, cycling
+between GTP-bound active forms and GDP-bound inactive forms
+(Bourne et al., 1991). Although the P-loop, and switch I and II
+regions of G-proteins share a very similar structure to those of
+kinesin and myosin, their sequence motifs differ somewhat (Vale,
+1996).
+Even though substantial differences exist between the kinesin
+and myosin motors in their mechanochemistry, more similarities
+than differences exist when they are closely compared. That is,
+kinesin and myosin hydrolyze ATP at different points in their
+mechanical cycles – kinesin, while bound to microtubules, and
+myosin, while detached from actin. However, this is not due to
+substantial changes in the nucleotide state-induced
+conformational changes in the motor, but is caused by the
+mechanical and chemical cycles of kinesin and myosin being out
+of phase with respect to one another (Fig. 1B,C). For kinesins,
+microtubule binding results in loss of ADP from the motor
+domain, which is followed by ATP binding and hydrolysis,
+coupled to a force-generating conformational change, and
+subsequent release of P
+i
+by the motor and release of the ADP-
+bound motor domain from the microtubule. By contrast, myosin
+binding to actin induces a conformational change leading to the
+release of P
+i
+and a force-producing rotation of the lever arm.
+ADP is then lost, resulting in the rigor state, and ATP binding
+then releases myosin from actin, at which point hydrolysis
+occurs, repositioning the lever arm for the next cycle. In both
+motors, the order of conformational changes is the same, and the
+changes themselves are very similar. What is different is the
+function of the filament in each motor – for kinesins,
+microtubules act both as a nucleotide exchange factor, and,
+perhaps more importantly, as an activator of the motor ATPase
+(Kikkawa and Hirokawa, 2006), whereas for myosin, actin
+functions exclusively as a nucleotide exchange factor.
+From this common mechanochemistry, kinesins and myosins
+have subtly diverged in parts of the cycle to adapt to their specific
+cellular roles. For example, in kinesins, the loop between switch
+II and helix a4 (the relay helix of myosins), loop L11, is longer
+than the analogous loop in myosin and is frequently disordered in
+kinesin crystal structures. It has been suggested that this loop
+becomes stabilized upon microtubule binding and forms an
+extension of helix a4 (Hirose et al., 2006; Kikkawa and
+Hirokawa, 2006; Nitta et al., 2008; Sindelar and Downing,
+2010). Helix a4 forms the primary microtubule-binding site, and
+acts as a fixed fulcrum upon which the plus-end directed kinesin-
+1 motor domain can tilt (Sindelar and Downing, 2010). In the
+ADP and nucleotide-free states, switch II would be open and the
+kinesin-1 motor tilted toward the minus direction. ATP binding
+then induces a tilt towards the plus end, closing switch II and
+activating the ATPase in a microtubule-dependent manner. In
+myosin, the corresponding loop between switch II and the relay
+Force generation by kinesins and myosins 13
+(EVAL PDF Extractor SDK 8.0.0.2542-1659819161)
+Journal of Cell Science
+helix is much shorter, so that the connection between them is
+stronger – because ATP hydrolysis occurs when myosin is
+detached from actin and functions to reposition the relay helix,
+converter domain and lever arm, a tight link between the relay
+helix and switch II is necessary.
+One structural feature of myosin that has not yet been captured
+in kinesin crystal structures is seen in the nucleotide-free state of
+myosin V (Coureux et al., 2003) and myosin II (Reubold et al.,
+2003). In these structures, a substantial rearrangement of the core
+b-sheet has occurred, resulting in a more pronounced twist
+compared with the nucleotide-bound structures (supplementary
+material Movie 4). This twist causes the actin-binding cleft in
+myosin to close, which is predicted to occur during rigor binding
+to actin, and also moves switch I almost 10 A ˚ away from the
+nucleotide-binding site, thereby disrupting the interactions
+between switch I and the nucleotide and Mg2+.
+Structural analysis of the nucleotide-free conformation of
+myosin and comparisons with crystal and EM structures of
+kinesin suggest possible mechanisms for two steps in the motor
+mechanism that remain unclear: microtubule-induced ADP
+release in kinesins and actin-induced P
+i
+release in myosin. In
+kinesin, it is clear that ADP can remain bound with relatively
+high affinity, even when switch I is open, as this has been
+observed in a number of crystal structures. Therefore, release of
+ADP upon microtubule binding could occur in kinesin if filament
+binding induces a twisted-sheet conformation, thus opening
+switch II even more and disrupting all interactions with the
+Mg2+?ADP, as in the nucleotide-free myosin structures.
+Comparison of high-resolution (10–12 A ˚ ) cryo-electron
+microscopy images of kinesin–microtubule complexes in the
+nucleotide-free and ADP states shows density in the b-sheet
+region that is unaccounted for, and which might be due to such a
+twist of the central b-sheet (Hirose et al., 2006).
+Following hydrolysis, it is clear that P
+i
+must exit the
+nucleotide-binding pocket by a path that differs from that of
+ATP entry, as Mg2+?ADP, switch I and switch II completely
+cover the P
+i
+in both kinesin and myosin. It has been suggested
+that P
+i
+release in myosin occurs through a ‘back door’ opening at
+the back of the active site, which is observed in a number of
+myosin structures (Yount et al., 1995; Sweeney and Houdusse,
+2010; Llinas et al., 2012). However, this opening is not observed
+in the rigor-like myosin structures. Furthermore, there is no
+evidence for a back door in kinesin or G-proteins, and several
+studies suggest that P
+i
+could not be released through this route
+(Lawson et al., 2004; Kaliman et al., 2009), casting doubt on this
+theory. An alternate route for P
+i
+release that would be consistent
+for both kinesin and myosin structures involves the opening of
+switch I. This could occur in a manner similar to that observed in
+the nucleotide-free myosin structures, where closing of the actinbinding
+cleft causes switch I to move away from the nucleotidebinding
+site, or as observed in the switch I open conformations of
+kinesin (Fig. 3). In either case, switch I rearrangements would
+not only disrupt coordination of the P
+i
+, but would also open up an
+exit route. It should be noted that ADP would remain bound
+because of interactions with the P-loop and switch II, as observed
+in many kinesin crystal structures, and P
+i
+release via the switch I
+A
+Eg5 SwI closed
+Eg5 SwI open
+MyoV SwI closed
+MyoV SwI open
+P-loop
+P-loop
+P-loop
+P-loop
+SwI
+SwI
+SwI
+SwI
+SwII
+SwII
+α4
+α4
+B
+Fig. 3. Formation of a tube by switch I for ATP hydrolysis andP
+i
+release. The switch I and II regions of the kinesins and myosins undergo structural changes
+prior to ATP hydrolysis that result in a closed, hydrolysis-competent state. Switch I (SwI) in the closed conformation encloses the c-phosphate of the bound
+nucleotide, forming a ‘P
+i
+tube’ in the motors (Kikkawa and Hirokawa, 2006; Sindelar and Downing, 2010) (top). Following ATP hydrolysis, switch I undergoes
+movements that disrupt the P
+i
+tube and open the active site, providing a pathway for release of P
+i
+(bottom). This pathway differs from the ‘back door’ opening in
+the active site that has been proposed to provide an exit route for P
+i
+release (Yount et al., 1995; Sweeney and Houdusse, 2010; Llinas et al., 2012),
+but is now considered unlikely (Lawson et al., 2004; Kaliman et al., 2009). Formation of a P
+i
+tube by switch I appears to facilitate ATP hydrolysis and also helps
+explain the essential role of switch I in the catalytic cycle. The structures were aligned by the P-loops; bound ATP-like nucleotide (AMP?PNP for Eg5 and
+ADP?BeFx for Myo V) is in the same position for each to highlight where the c-phosphate would be in the open structure. Top, SwI (red) closed; bottom, SwI
+open; P-loop (green); SwII (cyan); helixa4 N-terminus (magenta). (A) Kinesin-5 Eg5 with bound AMP?PNP (orange;c-phosphate, arrow) (PDB 3HQD, top; PDB
+1II6, bottom). (B) Myosin V with bound ADP (white; position of c-phosphate, arrow) (PDB 1W7J, top; PDB 1W8J, bottom). Images were rendered in PyMol
+(DeLano, 2002). Myo, myosin; SwII, switch II.
+Journal of Cell Science 126 (1) 14
+(8.0.0.2542.2071884265 PDF Extractor SDK TRIAL VERSIOn)
+Journal of Cell Science
+opening would not necessarily be directly coupled to release of
+ADP.
+Finally, it is interesting to note that the similarities between
+kinesins and myosins extend beyond the realm of motor domains
+that are related by divergent evolution, as it appears that kinesin
+and myosin subfamilies have used similar approaches to solve
+problems associated with being nonprocessive or processive. It
+has been known for many years that conventional myosin II
+motors, such as the myosin powering muscle contraction,
+produce force by rotation of a rigid lever arm (Fig. 2,
+supplementary material Movie 3). In the case of myosin II, the
+lever arm extends out of the converter domain, which is, in turn,
+involved in tight hydrophobic contacts with the helical lever arm.
+As described above, movement of switch II is linked to a
+movement of the relay helix, which leads to a rigid body
+movement of the converter domain and lever arm, resulting in the
+force-generating power stroke of myosin. Similarly, in the
+kinesin-14 motor Ncd, movement of helix a4 appears to lead to
+a large rotation of the Ncd helical neck and stalk, very similar to
+the myosin power stroke (Fig. 2, supplementary material Movie
+2). Interestingly, both myosin II and Ncd are nonprocessive
+motors; however, myosin V, a processive motor, is thought to
+move along actin utilizing an extended lever arm with a
+mechanism similar to that of myosin II. By contrast,
+conventional dimeric kinesin-1 motors move processively
+(Howard et al., 1989; Block et al., 1990), taking multiple steps
+along a microtubule protofilament (Ray et al., 1993; Schaap et al.,
+2011) utilizing a different mechanism. This hand-over-hand
+movement is achieved by the sequential docking and undocking
+of a flexible ‘neck linker’ that connects the motor domain to the
+coiled-coil stalk (Kozielski et al., 1997; Rice et al., 1999) (Fig. 2,
+supplementary material Movie 1). The neck linker extends in
+length to allow both heads of the dimeric motor to bind
+simultaneously to the microtubule and produce force, acting
+together with the ‘cover strand’ (Hwang et al., 2008; Khalil et al.,
+2008) (Box 1). It has been suggested that strain between the
+heads, transmitted though the neck linkers, coordinates the
+mechanochemical cycles of the two heads (see Clancy et al.,
+2011). Recent studies on myosin VI, a dimeric processive myosin
+motor, point to a similar mechanism involving the unfolding of
+an insertion between the converter domain and lever arm.
+Regions of compliance in the lever arm and insertion regions that
+are unique to myosin VI allow the motor to walk processively in
+a manner similar to that of the kinesin ‘neck-linker’ mechanism
+(Me ´ne ´trey et al., 2012) with the two heads stepping along actinbinding
+sites and taking highly variable steps averaging 30–
+36 nm and up to 65 A ˚ apart (Rock et al., 2001). It is therefore
+doubly remarkable that kinesin and myosin motor proteins
+evolved divergently from a common ancestor, but then appear to
+have convergently evolved a similar set of strategies that are
+employed in various ways to achieve processive versus nonprocessive
+movement along their respective filaments.
+Inhibitors and activators of the
+mechanochemical cycle – insights into motor
+function
+Kinesin inhibitors
+An early realization in the motors field was that the kinesins,
+because of their essential roles in mitosis, might serve as
+effective targets for drugs against cancer (Mayer et al., 1999).
+Small molecules that bind to specific kinesin proteins could
+disrupt motor function and block cell division during tumor
+formation or metastasis. These compounds offer potential
+advantages over currently used antimitotic drugs, many of
+which target microtubules, in that they are expected to be
+specific to dividing cells, rather than affecting all cells – they
+could thus reduce the side effects caused by known microtubule
+drugs due to the disruption of other microtubule-based processes.
+Compounds specific for given kinesin motors are also potentially
+useful in unraveling the motor force-producing mechanism in
+live cells.
+The first small-molecule inhibitor to be reported that targeted a
+kinesin was monastrol, a compound discovered in a chemical
+genetics screen for inhibitors of mitosis (Mayer et al., 1999). A
+screen for cell-permeable compounds that affected mitosis
+identified five that were found to have effects on mitosis but
+not on microtubules. Their effects thus differed from taxol, a
+widely used anti-cancer drug that affects microtubules in all cells,
+including those in mitosis. Monastrol, one of the five compounds,
+was especially interesting because of its striking effects on
+dividing cells – the cells were arrested in mitosis with a ring-like
+array of mitotic chromosomes attached to a monoastral spindle
+(Mayer et al., 1999). These cellular effects are remarkably similar
+to the mutant phenotype of the kinesin-5 BimC protein (Enos and
+Morris, 1990) and led the authors to test the effects of monastrol
+on kinesin motors. Tests of monastrol on the kinesin-5 Eg5
+vertebrate homologue KSP showed that the compound
+specifically blocks kinesin-5 motility in vitro, but does not
+inhibit kinesin-1 motility (Mayer et al., 1999). The specificity of
+monastrol for vertebrate kinesin-5 motors has been further
+demonstrated by others (DeBonis et al., 2003).
+Kinetic studies showed that monastrol binds to the kinesin-5
+motor domain and inhibits its ATPase activity but does not
+compete with nucleotide or microtubule binding (Maliga et al.,
+2002; DeBonis et al., 2003). The effects of monastrol on kinesin-
+5 became clearer with the report of a crystal structure of human
+kinesin-5 Eg5 complexed with monastrol (PDB 1Q0B) that
+revealed the compound bound to a newly formed site near the
+nucleotide-binding cleft (Yan et al., 2004) (Fig. 4). This
+‘induced-fit’ pocket is formed by the restructuring of loop L5
+just below the active site. Remarkably, the new conformation of
+L5 resembles the loop in the ATP-like state, as noted in
+superpositions (Fig. 4). Thus, binding by monastrol restructures
+loop L5, stabilizing the loop in the ATP-like state. Although it
+can still be referred to as induced fit, it does not involve the
+formation of a new fold in the motor. Binding by monastrol also
+induces changes in the motor distal to the binding site, including
+a loop-to-helix transition in switch I, tilting of switch II helices
+a4 and a5, and docking of the neck linker against the motor
+(Fig. 4). These latter changes in switch II and the neck linker are
+also observed in kinesin motors bound to ATP analogues
+(Kikkawa et al., 2001; Parke et al., 2010), and are thought to
+be characteristic of the ATP state of the kinesins. The two
+available crystal structures (PDB 1Q0B and 1X88) both show
+Eg5 bound to monastrol and ADP, trapped in a conformation that
+resembles an ATP-like, force-producing state. Because of its
+effects in slowing ATP hydrolysis, monastrol inhibits motility,
+reducing crosslinking and sliding of spindle microtubules in
+dividing cells.
+The discovery of monastrol was a game-changer for
+antimitotic cancer therapeutics – it shifted the target of new
+screens from microtubules to specific kinesin motors. With the
+Force generation by kinesins and myosins 15
+( 8.0.0.2542.1884612511 PDF Extractor SDK EVAL VERSION)
+[Link]
+http://clinicaltrials.gov
+[Link]
+http://clinicaltrials.gov
+Journal of Cell Science
+excitement accompanying the discovery of a small-molecule
+inhibitor specific for kinesin-5 came the realization that the
+inhibitory activity of monastrol was too weak for it to be effective
+clinically, although it was still a potentially important reagent for
+use in clarifying the role of kinesin-5 in the spindle (Kapoor et al.,
+2000). This recognition led to the search for more potent secondgeneration
+kinesin inhibitors, and their discovery and
+characterization. One of the most promising of the new smallmolecule
+inhibitors is ispinesib, which was discovered in a screen
+for inhibitors of human kinesin-5 Eg5 ATPase activity (Lad et al.,
+2008). Despite its structural differences compared with
+monastrol, the effects of the two compounds on Eg5 are
+remarkably similar – both bind specifically to Eg5 by induced
+fit (Lad et al., 2008; Zhang et al., 2008; Talapatra et al., 2012),
+stabilizing L5 in an ATP-like conformation, and both inhibit
+ADP release and motility (Maliga et al., 2002; Lad et al., 2008)
+(Box 2). Ispinesib is more potent than monastrol and is currently
+being evaluated in phase II clinical trials for its effectiveness in
+improving the outcome of different cancers (see http://
+clinicaltrials.gov). Current success in identifying kinesin-5
+inhibitors on the basis of structures of ispinesib and related
+compounds is already spurring the search for further inhibitors to
+circumvent the threat of resistance, which could potentially limit
+their clinical use.
+Other kinesin motors have also been targeted to identify new
+inhibitors. Among them is kinesin-7 CENP-E, a kinetochore
+motor that is thought to silence a mitotic checkpoint protein to
+permit progression into anaphase (Mao et al., 2005). Loss of
+CENP-E function causes prolonged mitotic delay, during which
+chromosomes are clustered at either pole of the intact bipolar
+α4
+NL
+NL
+Eg5–ADP
+Eg5–AMP.PNP
+α3
+L8
+α5
+Eg5–Monastrol
+Eg5–AMP.PNP
+L5
+α4
+Eg5–ADP
+α3
+L8
+ADP or AMP.PNP
+Monastrol
+Eg5–AMP.PNP
+SwI
+L5
+Eg5–Monastrol
+Eg5–ADP
+ADP or AMP.PNP
+Monastrol
+Eg5–Monastrol
+L5
+Eg5–ADP
+Eg5–AMP.PNP
+A
+C
+α3
+α α3
+L12
+B
+Fig. 4. Monastrol inhibition of kinesin-5. (A) Crystal structures of kinesin-5 Eg5–ADP–monastrol (PDB 1Q0B, 1X88) show monastrol bound to a new site near
+the nucleotide-binding cleft, formed by restructuring loop L5. L5 is highly mobile without monastrol, but less flexible when monastrol is bound. Superpositions
+show that L5 of Eg5–ADP–monastrol (white or green, PDB 1Q0B) resembles L5 of Eg5 bound to the ATP analogue, AMP?PNP (light or medium blue, PDB
+3HQD), rather than Eg5–ADP (light or dark purple, PDB 1II6) (see enlarged view below A). (B) The structural changes in Eg5–ADP–monastrol follow a pathway
+from L5 to the adjacent helix a3 and then L8 [(A) and (B), green arrow]. Along this pathway, Eg5–ADP–monastrol follows Eg5–AMP?PNP somewhat more
+closely than Eg5–ADP. Loop L8 contributes to microtubule binding by the motor and is adjacent to the major microtubule-binding complex L11-a4-L12-a5, and
+also assumes an ATP-like conformation. Eg5–ADP–monastrol helices a4 and a5 are tilted, resembling the helices in the ATP-like state, although helix a4is
+shorter than Eg5–AMP?PNP by three turns, which might explain the weak microtubule binding by the motor bound to monastrol, compared with Eg5 in the ATP-
+like state. Tilting of a4 and a5 forms an opening that allows the neck linker (NL) to dock; the motors with a docked neck linker are interpreted to represent the
+force-producing ATP state (Kikkawa et al., 2001; Parke et al., 2010). (C) Despite the resemblance of L5, L8,a4,a5 and the neck linker of Eg5–ADP–monastrol to
+the ATP-like state, switch I of the motor has undergone a short loop-to-helix transition, which causes it to more closely resemble Eg5-ADP than Eg5–ATP. This is
+also true of the central b-sheet, indicating that the twisting of the b-sheet that is predicted to promote ADP release by the kinesins has not taken place. This is
+consistent with the effects of monastrol in inhibiting ADP release, and slowing or blocking the ATP hydrolysis cycle (Maliga et al., 2002; Cochran et al., 2005).
+The structural effects of monastrol on switch I could also inhibit the formation of a switch I closed conformation (Box 1), which is thought to be essential for ATP
+hydrolysis. The structural changes induced by monastrol thus cause the motor, still bound to ADP and inhibited in ATPase activity, to assume a conformation that
+resembles a force-producing ATP-bound state. Superposition of the protein chains was performed using Matchmaker of Chimera (Pettersen et al., 2004) and
+default parameters by designating Eg5–ADP–monastrol as the reference chain and first aligning Eg5–ADP, then Eg5–AMP?PNP. The structures were displayed
+and analyzed in Chimera.
+Journal of Cell Science 126 (1) 16
+(EVAL PDF Extractor SDK 8.0.0.2542-1406662079)
+Journal of Cell Science
+spindle after failing to congress to the metaphase plate (Schaar
+et al., 1997; McEwen et al., 2001). A screen of an organic
+compound library for inhibitors of CENP-E microtubulestimulated
+ATPase activity identified GSK923295 (Wood et al.,
+2010). Tests showed that the effects of GSK923295 were highly
+specific to CENP-E. Assays of GSK923295 on vertebrate
+cultured cells showed delayed mitosis with failure of
+metaphase chromosome alignment, similar to the effects
+observed previously for loss of CENP-E function.
+The site of GSK923295 binding to CENP-E has been mapped to a
+site adjacent to loop L5 near the active site (Box 2). Remarkably,
+this site is analogous to the site of monastrol and ispinesib binding to
+kinesin-5 Eg5 and might involve restructuring of L5, as is the case
+for the other two small molecules. Despite the fact that the three
+compounds bind to a highly similar site on the two motors, their
+kinetic effects on the motors are different, probably because of
+differences in their structural effects on motor microtubule-binding
+elements. Further attempts to obtain a crystal structure of CENP-E
+complexed with GSK923295 (Wood et al., 2010) could reveal the
+mechanism of motor inhibition by the compound; it could also
+potentially provide valuable information about one of the missing
+states in the kinesin cycle – the no-nucleotide, or possibly the
+ADP?P
+i
+state.
+The discovery of small-molecule inhibitors of the kinesin
+motors have thus contributed to our knowledge of their
+mechanism of function and might also play have an important
+clinical role in improving the outcome for patients with tumors or
+malignancies, particularly those resistant to currently used
+microtubule drugs, such as taxol.
+Myosin activator
+Small-molecule screens have also been performed on the
+myosins; however, in contrast to those performed on the
+kinesins, one of the screens was designed to identify
+compounds that activate rather than inhibit a specific myosin
+motor. A small-molecule activator specific for cardiac myosin II
+was discovered in a high-throughput screen for compounds that
+activate cardiac myosin in a reconstituted sarcomere or myofibril
+assay (Morgan et al., 2010). Tests of the optimized compound,
+omecamtiv mecarbil, showed that it accelerates P
+i
+release and
+ATP hydrolysis by cardiac myosin in the presence of actin, but
+slows P
+i
+release and ATP hydrolysis in its absence (Malik et al.,
+2011). P
+i
+release by myosin occurs at the transition between the
+Box 2. Kinesin inhibition by small molecules
+Kinesin-5 inhibition by ispinesib
+Like monastrol (Cochran et al., 2005), ispinesib inhibits ADP
+release by kinesin-5 and slows motor binding to microtubules (Lad
+et al., 2008). Crystal structures show ispinesib bound to Eg5–ADP
+at the same induced-fit cleft near loop L5 as monastrol (Zhang et
+al., 2008; Talapatra et al., 2012). Superpositions show that L5 and
+L8, the tilted switch II helices a4 and a5, and the docked neck
+linker of Eg5–ADP–ispinesib are in the ATP-like conformation,
+resembling Eg5–ADP–monastrol. Thus, both monastrol and
+ispinesib induce structural changes in kinesin-5 at the site of
+binding that are propagated to the microtubule-binding interface,
+allowing the neck linker to dock. At the same time, the switch I
+helix of Eg5 bound to either monastrol or ispinesib is slightly
+extended and remains in an ADP-like conformation, which might
+prevent its helix-to-loop transition into the closed conformation
+thought to be essential for ATP hydrolysis. The central b-sheet
+shows a somewhat closer resemblance to Eg5–ADP than Eg5–
+AMP?PNP, suggesting that the predicted twisting of the b-sheet is
+not induced by binding to either compound, inhibiting the release
+of ADP.
+Kinesin-7 inhibition by GSK923295
+The binding site of the kinesin-7 CENP-E inhibitor, GSK923295,
+has been mapped by photo-affinity labeling and mutational
+analysis to a site between helices a2 and a3, adjacent to L5,
+near the nucleotide-binding cleft, a site that corresponds to the
+monastrol and ispinesib binding site (Wood et al., 2010).
+GSK923295 inhibits P
+i
+production or release, consistent with a
+block in ATP hydrolysis, and slows microtubule-stimulated ADP
+release. CENP-E bound to GSK923295 binds tightly to
+microtubules, even in the presence of ADP, which is normally
+the weak binding state of the motor (Wood et al., 2010). This
+differs from the effect by monastrol of causing Eg5 to bind weakly
+to microtubules in the presence of ADP (Cochran et al., 2005).
+Overall, GSK923295 slows or blocks ATP hydrolysis by CENP-E
+and traps the motor in a tight microtubule-binding state, in contrast
+to the weak microtubule-binding state induced by monastrol. The
+motor might be locked in the no-nucleotide state, or possibly the
+ADP?P
+i
+state, caused by the structural effects of the compound on
+the motor. Thus, GSK923295 binds by induced fit to a site
+corresponding to that of monastrol, yet the two inhibitors have
+different effects on the motor when bound.
+Box 3. Motors with increased mechanical output
+Mechanical output by a motor can be increased in the following
+ways:
+Increased number of strokes per unit time
+N An increase in the rate of P
+i
+release, which triggers the myosin
+power stroke, is predicted to result in an increased rate of ATP
+hydrolysis and the number of strokes per unit time by myosin.
+This was found for cardiac myosin bound to omecamtiv
+mecarbil (Malik et al., 2011). A crystal structure of myosin
+complexed with omecamtiv mecarbil is not yet available, but
+should shed light on the mechanism by which the compound
+increases the rate of P
+i
+release by the motor.
+N An increase in the rate of ADP release, usually the rate-limiting
+step in the kinesin cycle, is expected to increase ATP hydrolysis
+rates and the number of strokes/unit time for kinesin. Kinesin-14
+Ncd mutants that affect a conserved residue in a loop of the
+central b-sheet have recently been reported that increase ADP
+release and ATPase rates by the motor, resulting in faster
+microtubule gliding in motility assays and strikingly elongated
+spindles in vivo (Liu et al., 2012).
+Increased distance per stroke
+N An increase in the length of the myosin lever arm or kinesin
+stalk increases the gliding velocity of the motors (Stewart et al.,
+1993; Chandra et al., 1993; Uyeda et al., 1996; Yun et al., 2003;
+Endres et al., 2006); this has been inferred to increase the force
+produced per motor, although increased force per motor has not
+been directly demonstrated by single-molecule assays.
+N An increase in the angle of lever arm or stalk rotation is
+expected to increase the step size (Hallen et al., 2011; Me ´ne ´trey
+et al., 2012) and the force produced per motor.
+N Mutants that alter the free energy of motor binding to nucleotide
+or its filament could increase the distance per motor stroke; such
+mutants have not yet been reported.
+Force generation by kinesins and myosins 17
+(DEMO PDF Extractor SDK 8.0.0.2542-2057702399)
+[Link]
+http://jcs.biologists.org/lookup/suppl/doi:10.1242/jcs.103911/-/DC1
+[Link]
+http://dx.doi.org/10.1038/348348a0
+[Link]
+http://dx.doi.org/10.1038/348348a0
+[Link]
+http://dx.doi.org/10.1074/jcs103911
+[Link]
+http://dx.doi.org/10.1074/jcs103911
+[Link]
+http://dx.doi.org/10.1074/jcs103911
+[Link]
+http://dx.doi.org/10.1038/349117a0
+[Link]
+http://dx.doi.org/10.1038/349117a0
+[Link]
+http://dx.doi.org/10.1146/annurev.biochem.72.121801.161542
+[Link]
+http://dx.doi.org/10.1146/annurev.biochem.72.121801.161542
+[Link]
+http://dx.doi.org/10.1126/science.1202393
+[Link]
+http://dx.doi.org/10.1126/science.1202393
+[Link]
+http://dx.doi.org/10.1038/nsmb.2104
+[Link]
+http://dx.doi.org/10.1038/nsmb.2104
+[Link]
+http://dx.doi.org/10.1038/nsmb.2104
+[Link]
+http://dx.doi.org/10.1016/S0140-6736(11)61126-4
+[Link]
+http://dx.doi.org/10.1016/S0140-6736(11)61126-4
+[Link]
+http://dx.doi.org/10.1016/S0140-6736(11)61126-4
+[Link]
+http://dx.doi.org/10.1016/S0140-6736(11)61126-4
+[Link]
+http://dx.doi.org/10.1016/S0140-6736(11)61126-4
+[Link]
+http://dx.doi.org/10.1074/jbc.M413140200
+[Link]
+http://dx.doi.org/10.1074/jbc.M413140200
+[Link]
+http://dx.doi.org/10.1038/nature01927
+[Link]
+http://dx.doi.org/10.1038/nature01927
+[Link]
+http://dx.doi.org/10.1038/nature01927
+[Link]
+http://dx.doi.org/10.1038/sj.emboj.7600458
+[Link]
+http://dx.doi.org/10.1038/sj.emboj.7600458
+[Link]
+http://dx.doi.org/10.1038/sj.emboj.7600458
+[Link]
+http://dx.doi.org/10.1021/bi026716j
+[Link]
+http://dx.doi.org/10.1021/bi026716j
+[Link]
+http://dx.doi.org/10.1021/bi026716j
+[Link]
+http://dx.doi.org/10.1038/nature04320
+[Link]
+http://dx.doi.org/10.1038/nature04320
+[Link]
+http://dx.doi.org/10.1016/0092-8674(90)90350-N
+[Link]
+http://dx.doi.org/10.1016/0092-8674(90)90350-N
+Journal of Cell Science
+weak and strong actin-binding state (Fig. 1). It is thought to be
+required for myosin to enter the strongly bound state, which is
+accompanied by rotation of the lever arm – the force-generating
+stroke of the motor (Rayment et al., 1993). The overall effect of
+omecamtiv mecarbil on cardiac myosin is predicted to be an
+increase in the number of myosin heads interacting with actin in a
+strong binding state and producing force, thus it is expected to
+increase mechanical output by the motor (Box 3). The binding
+site for omecamtiv mecarbil was mapped using a derivative as an
+affinity label and identifying labeled cardiac myosin peptides by
+mass spectrometry, and was found to be near the base of the lever
+arm, close to the relay helix and converter. Further study of the
+effects of residue changes in this region could lead to new
+information regarding the myosin force-generating mechanism –
+mutational changes that increase myosin mechanical output, such
+as those reported recently for kinesin-14 Ncd (Liu et al., 2012)
+(Box 3), would have important implications for understanding the
+motor mechanism and also for potential clinical applications.
+Consistent with its proposed effect in increasing mechanical
+output by cardiac muscle, functional studies showed that
+omecamtiv mecarbil increases the contractility of rat
+cardiomyocytes and improves cardiac function in dogs with
+induced heart failure (Malik et al., 2011). This is noteworthy,
+given that it is easier to disrupt motor function than to increase it,
+although ‘improved’ motors could potentially be produced in a
+number of different ways (Box 3). These findings have potential
+for therapeutic intervention in humans with heart disease or
+failure. Recent reports of initial clinical trials in humans show
+that omecamtiv mecarbil improves cardiac function in patients
+with cardiac dysfunction or failure (Teerlink et al., 2011; Cleland
+et al., 2011).
+The properties of omecamtiv mecarbil provide a striking
+confirmation of important differences between the myosins and
+kinesins. For the myosins, the force-producing cycle is triggered
+by P
+i
+release, which results in tight actin binding and the power
+stroke, followed by ATP binding, which releases the motor from
+actin. For the kinesins, the cycle begins with ADP release, which
+results in tight microtubule binding, followed by ATP binding,
+which triggers the force-producing stroke of the motor, Pi
+release
+and release of the motor from the microtubule.
+Conclusions and Perspectives
+Future progress in understanding the kinesin and myosin forcegenerating
+mechanism is likely to come from further structural
+analysis that defines the features of the tight, no-nucleotide
+microtubule-bound state of the kinesins and the weak, ADP?P
+i
+actin-bound state of the myosins. The structural changes between
+these states compared with the ATP-bound kinesin state and the
+rigor myosin state, respectively, are expected to provide currently
+missing information regarding key conformational changes that
+are involved in force production by the motors. New structural
+information, especially for kinesins with their much smaller
+motor domain, could come from high-resolution cryo-electron
+microscopy, which has currently reached resolutions of 8–10 A ˚
+(Hirose et al., 2006; Kikkawa and Hirokawa, 2006; Sindelar and
+Downing, 2010). These projected studies, together with the
+characterization of mutant proteins to obtain information relevant
+to function, should resolve currently outstanding issues, such as
+the escape route of free Pi
+from the motor after ATP hydrolysis,
+and whether the central b-sheet of kinesins distorts or twists in
+the same way as in myosins, and produce a more detailed
+understanding of force generation by the kinesin and myosin
+motors. This information will be of vital interest for comparison
+with dyneins, for which unraveling the force-producing
+mechanism is at a much earlier stage. The dynein motors differ
+substantially from kinesins and myosins in overall structure –
+their force-generating mechanism is anticipated to show
+unexpected differences that will lend further insight into energy
+transduction by ATP-hydrolyzing enzymes.
+Acknowledgements
+We thank Anne Houdusse and Frank Kozielski for sending preprints
+prior to publication, Frank Kozielski for coordinates of a crystal
+structure (PDB 4AP0) prior to publication, and Amalia Cong for
+assistance with Fig. 2.
+Funding
+Work on motor proteins in our laboratories is supported by grants
+from the National Institutes of Health [grant numbers GM097079 to
+F.J.K. and GM046225 to S.A.E.]; and the March of Dimes
+Foundation [grant number NO. 1-FY07-443 to S.A.E.]. Deposited
+in PMC for release after 12 months.
+Note added in proof
+While our Commentary was being prepared for publication, we
+became aware of a report by Behnke-Parks et al. noting the
+resemblance of Eg5–ADP–monastrol loop L5 to the ATP-like
+conformation, while switch I resembles the ADP state (Behnke-
+Parks et al., 2011).
+Supplementary material available online at
+http://jcs.biologists.org/lookup/suppl/doi:10.1242/jcs.103911/-/DC1
+References
+Block, S. M., Goldstein, L. S. B. and Schnapp, B. J. (1990). Bead movement by single
+kinesin molecules studied with optical tweezers. Nature 348, 348-352.
+Behnke-Parks, W. M., Vendome, J., Honig, B., Maliga, Z., Moores, C. and
+Rosenfeld, S. S. (2011). Loop L5 acts as a conformational latch in the mitotic kinesin
+Eg5. J. Biol. Chem. 286, 5242-5253.
+Bourne, H. R., Sanders, D. A. and McCormick, F. (1991). The GTPase superfamily:
+conserved structure and molecular mechanism. Nature 349, 117-127.
+Bustamante, C., Chemla, Y. R., Forde, N. R. and Izhaky, D. (2004). Mechanical
+processes in biochemistry. Annu. Rev. Biochem. 73, 705-748.
+Carter, A. P., Cho, C., Jin, L. and Vale, R. D. (2011). Crystal structure of the dynein
+motor domain. Science 331, 1159-1165.
+Chandra, R., Salmon, E. D., Erickson, H. P., Lockhart, A. and Endow, S. A. (1993).
+Structural and functional domains of the Drosophila ncd microtubule motor protein.
+J. Biol. Chem. 268, 9005-9013.
+Clancy, B. E., Behnke-Parks, W. M., Andreasson, J. O. L., Rosenfeld, S. S. and
+Block, S. M. (2011). A universal pathway for kinesin stepping. Nat. Struct. Mol. Biol.
+18, 1020-1027.
+Cleland, J. G. F., Teerlink, J. R., Senior, R., Nifontov, E. M., Mc Murray, J. J. V.,
+Lang, C. C., Tsyrlin, V. A., Greenberg, B. H., Mayet, J., Francis, D. P. et al.
+(2011). The effects of the cardiac myosin activator, omecamtiv mecarbil, on cardiac
+function in systolic heart failure: a double-blind, placebo-controlled, crossover, doseranging
+phase 2 trial. Lancet 378, 676-683.
+Cochran, J. C., Gatial, J. E., 3rd, Kapoor, T. M. and Gilbert, S. P. (2005). Monastrol
+inhibition of the mitotic kinesin Eg5. J. Biol. Chem. 280, 12658-12667.
+Coureux, P.-D., Wells, A. L., Me ´ne ´trey, J., Yengo, C. M., Morris, C. A., Sweeney,
+H. L. and Houdusse, A. (2003). A structural state of the myosin V motor without
+bound nucleotide. Nature 425, 419-423.
+Coureux, P.-D., Sweeney, H. L. and Houdusse, A. (2004). Three myosin V structures
+delineate essential features of chemo-mechanical transduction. EMBO J. 23, 4527-
+4537.
+DeBonis, S., Simorre, J. P., Crevel, I., Lebeau, L., Skoufias, D. A., Blangy, A., Ebel,
+C., Gans, P., Cross, R., Hackney, D. D. et al. (2003). Interaction of the mitotic
+inhibitor monastrol with human kinesin Eg5. Biochemistry 42, 338-349.
+DeLano, W. L. (2002). The PyMOL Molecular Graphics System. San Carlos, CA:
+DeLano Scientific.
+Endres, N. F., Yoshioka, C., Milligan, R. A. and Vale, R. D. (2006). A lever-arm
+rotation drives motility of the minus-end-directed kinesin Ncd. Nature 439, 875-878.
+Enos, A. P. and Morris, N. R. (1990). Mutation of a gene that encodes a kinesin-like
+protein blocks nuclear division in A. nidulans. Cell 60, 1019-1027.
+Journal of Cell Science 126 (1) 18
+(PDF Extractor SDK TRIAL VERSION)
+[Link]
+http://dx.doi.org/10.1021/bi00028a004
+[Link]
+http://dx.doi.org/10.1021/bi00028a004
+[Link]
+http://dx.doi.org/10.1021/bi00028a004
+[Link]
+http://dx.doi.org/10.1021/bi00028a004
+[Link]
+http://dx.doi.org/10.1146/annurev.biochem.68.1.687
+[Link]
+http://dx.doi.org/10.1146/annurev.biochem.68.1.687
+[Link]
+http://dx.doi.org/10.1016/j.semcdb.2011.09.023
+[Link]
+http://dx.doi.org/10.1016/j.semcdb.2011.09.023
+[Link]
+http://dx.doi.org/10.1016/j.semcdb.2011.09.023
+[Link]
+http://dx.doi.org/10.1016/j.bpc.2011.01.001
+[Link]
+http://dx.doi.org/10.1016/j.bpc.2011.01.001
+[Link]
+http://dx.doi.org/10.1186/1472-6807-10-19
+[Link]
+http://dx.doi.org/10.1186/1472-6807-10-19
+[Link]
+http://dx.doi.org/10.1016/j.molcel.2006.07.020
+[Link]
+http://dx.doi.org/10.1016/j.molcel.2006.07.020
+[Link]
+http://dx.doi.org/10.1016/j.molcel.2006.07.020
+[Link]
+http://dx.doi.org/10.1038/nsmb.2290
+[Link]
+http://dx.doi.org/10.1016/S0969-2126(96)00006-8
+[Link]
+http://dx.doi.org/10.1016/S0969-2126(96)00006-8
+[Link]
+http://dx.doi.org/10.1073/pnas.200376897
+[Link]
+http://dx.doi.org/10.1073/pnas.200376897
+[Link]
+http://dx.doi.org/10.1038/342154a0
+[Link]
+http://dx.doi.org/10.1038/342154a0
+[Link]
+http://dx.doi.org/10.1016/j.str.2007.11.008
+[Link]
+http://dx.doi.org/10.1016/j.str.2007.11.008
+[Link]
+http://dx.doi.org/10.1083/jcb.150.5.975
+[Link]
+http://dx.doi.org/10.1083/jcb.150.5.975
+[Link]
+http://dx.doi.org/10.1083/jcb.150.5.975
+[Link]
+http://dx.doi.org/10.1073/pnas.0805147105
+[Link]
+http://dx.doi.org/10.1073/pnas.0805147105
+[Link]
+http://dx.doi.org/10.1073/pnas.0805147105
+[Link]
+http://dx.doi.org/10.1038/sj.emboj.7601299
+[Link]
+http://dx.doi.org/10.1038/sj.emboj.7601299
+[Link]
+http://dx.doi.org/10.1038/sj.emboj.7601299
+[Link]
+http://dx.doi.org/10.1038/35078000
+[Link]
+http://dx.doi.org/10.1038/35078000
+[Link]
+http://dx.doi.org/10.1038/nsmb.2074
+[Link]
+http://dx.doi.org/10.1038/nsmb.2074
+[Link]
+http://dx.doi.org/10.1038/nature10955
+[Link]
+http://dx.doi.org/10.1038/nature10955
+[Link]
+http://dx.doi.org/10.1038/nature10955
+[Link]
+http://dx.doi.org/10.1016/S0092-8674(00)80489-4
+[Link]
+http://dx.doi.org/10.1016/S0092-8674(00)80489-4
+[Link]
+http://dx.doi.org/10.1016/S0092-8674(00)80489-4
+[Link]
+http://dx.doi.org/10.1016/S0092-8674(00)80489-4
+[Link]
+http://dx.doi.org/10.1038/380550a0
+[Link]
+http://dx.doi.org/10.1038/380550a0
+[Link]
+http://dx.doi.org/10.1038/380550a0
+[Link]
+http://dx.doi.org/10.1023/A:1005489907021
+[Link]
+http://dx.doi.org/10.1023/A:1005489907021
+[Link]
+http://dx.doi.org/10.1023/A:1005489907021
+[Link]
+http://dx.doi.org/10.1021/bi702061g
+[Link]
+http://dx.doi.org/10.1021/bi702061g
+[Link]
+http://dx.doi.org/10.1021/bi702061g
+[Link]
+http://dx.doi.org/10.1016/j.bpj.2011.07.017
+[Link]
+http://dx.doi.org/10.1016/j.bpj.2011.07.017
+[Link]
+http://dx.doi.org/10.1371/journal.pone.0047148
+[Link]
+http://dx.doi.org/10.1371/journal.pone.0047148
+[Link]
+http://dx.doi.org/10.1111/j.1742-4658.2011.08449.x
+[Link]
+http://dx.doi.org/10.1111/j.1742-4658.2011.08449.x
+[Link]
+http://dx.doi.org/10.1111/j.1742-4658.2011.08449.x
+[Link]
+http://dx.doi.org/10.1111/j.1742-4658.2011.08449.x
+[Link]
+http://dx.doi.org/10.1016/S1074-5521(02)00212-0
+[Link]
+http://dx.doi.org/10.1016/S1074-5521(02)00212-0
+[Link]
+http://dx.doi.org/10.1126/science.1200113
+[Link]
+http://dx.doi.org/10.1126/science.1200113
+[Link]
+http://dx.doi.org/10.1126/science.1200113
+[Link]
+http://dx.doi.org/10.1126/science.1200113
+[Link]
+http://dx.doi.org/10.1083/jcb.200505040
+[Link]
+http://dx.doi.org/10.1083/jcb.200505040
+[Link]
+http://dx.doi.org/10.1126/science.286.5441.971
+[Link]
+http://dx.doi.org/10.1126/science.286.5441.971
+[Link]
+http://dx.doi.org/10.1126/science.286.5441.971
+[Link]
+http://dx.doi.org/10.1016/j.molcel.2012.07.034
+[Link]
+http://dx.doi.org/10.1016/j.molcel.2012.07.034
+[Link]
+http://dx.doi.org/10.1016/j.molcel.2012.07.034
+[Link]
+http://dx.doi.org/10.1016/j.molcel.2012.07.034
+[Link]
+http://dx.doi.org/10.1021/ml100138q
+[Link]
+http://dx.doi.org/10.1021/ml100138q
+[Link]
+http://dx.doi.org/10.1021/ml100138q
+[Link]
+http://dx.doi.org/10.1021/ml100138q
+[Link]
+http://dx.doi.org/10.1038/nsmb.1487
+[Link]
+http://dx.doi.org/10.1038/nsmb.1487
+[Link]
+http://dx.doi.org/10.1038/nsmb.1487
+[Link]
+http://dx.doi.org/10.1074/jbc.M109.071233
+[Link]
+http://dx.doi.org/10.1074/jbc.M109.071233
+[Link]
+http://dx.doi.org/10.1074/jbc.M109.071233
+[Link]
+http://dx.doi.org/10.1002/jcc.20084
+[Link]
+http://dx.doi.org/10.1002/jcc.20084
+[Link]
+http://dx.doi.org/10.1002/jcc.20084
+[Link]
+http://dx.doi.org/10.1083/jcb.121.5.1083
+[Link]
+http://dx.doi.org/10.1083/jcb.121.5.1083
+[Link]
+http://dx.doi.org/10.1126/science.8316858
+[Link]
+http://dx.doi.org/10.1126/science.8316858
+[Link]
+http://dx.doi.org/10.1126/science.8316858
+[Link]
+http://dx.doi.org/10.1038/nsb987
+[Link]
+http://dx.doi.org/10.1038/nsb987
+[Link]
+http://dx.doi.org/10.1038/nsb987
+[Link]
+http://dx.doi.org/10.1038/45483
+[Link]
+http://dx.doi.org/10.1038/45483
+[Link]
+http://dx.doi.org/10.1038/45483
+[Link]
+http://dx.doi.org/10.1073/pnas.191512398
+[Link]
+http://dx.doi.org/10.1073/pnas.191512398
+[Link]
+http://dx.doi.org/10.1073/pnas.191512398
+[Link]
+http://www.jbc.org/content/278/20/18550.long
+[Link]
+http://www.jbc.org/content/278/20/18550.long
+[Link]
+http://www.jbc.org/content/278/20/18550.long
+[Link]
+http://www.nature.com/nature/journal/v380/n6574/abs/380555a0.html
+[Link]
+http://www.nature.com/nature/journal/v380/n6574/abs/380555a0.html
+[Link]
+http://dx.doi.org/10.1016/j.bpj.2011.04.015
+[Link]
+http://dx.doi.org/10.1016/j.bpj.2011.04.015
+[Link]
+http://dx.doi.org/10.1016/j.bpj.2011.04.015
+[Link]
+http://dx.doi.org/10.1083/jcb.139.6.1373
+[Link]
+http://dx.doi.org/10.1083/jcb.139.6.1373
+[Link]
+http://dx.doi.org/10.1083/jcb.139.6.1373
+[Link]
+http://dx.doi.org/10.1038/nsmb.2272
+[Link]
+http://dx.doi.org/10.1038/nsmb.2272
+[Link]
+http://dx.doi.org/10.1073/pnas.0911208107
+[Link]
+http://dx.doi.org/10.1073/pnas.0911208107
+[Link]
+http://dx.doi.org/10.1073/pnas.90.11.5209
+[Link]
+http://dx.doi.org/10.1073/pnas.90.11.5209
+[Link]
+http://dx.doi.org/10.1073/pnas.90.11.5209
+[Link]
+http://dx.doi.org/10.1146/annurev.biophys.050708.133751
+[Link]
+http://dx.doi.org/10.1146/annurev.biophys.050708.133751
+[Link]
+http://dx.doi.org/10.1107/S0907444912027965
+[Link]
+http://dx.doi.org/10.1107/S0907444912027965
+[Link]
+http://dx.doi.org/10.1107/S0907444912027965
+[Link]
+http://dx.doi.org/10.1016/S0140-6736(11)61219-1
+[Link]
+http://dx.doi.org/10.1016/S0140-6736(11)61219-1
+[Link]
+http://dx.doi.org/10.1016/S0140-6736(11)61219-1
+[Link]
+http://dx.doi.org/10.1016/S0140-6736(11)61219-1
+[Link]
+http://dx.doi.org/10.1073/pnas.93.9.4459
+[Link]
+http://dx.doi.org/10.1073/pnas.93.9.4459
+[Link]
+http://dx.doi.org/10.1073/pnas.93.9.4459
+[Link]
+http://dx.doi.org/10.1083/jcb.135.2.291
+[Link]
+http://dx.doi.org/10.1083/jcb.135.2.291
+[Link]
+http://dx.doi.org/10.1073/pnas.0915068107
+[Link]
+http://dx.doi.org/10.1073/pnas.0915068107
+[Link]
+http://dx.doi.org/10.1073/pnas.0915068107
+[Link]
+http://dx.doi.org/10.1073/pnas.0915068107
+[Link]
+http://dx.doi.org/10.1016/j.jmb.2003.10.074
+[Link]
+http://dx.doi.org/10.1016/j.jmb.2003.10.074
+[Link]
+http://dx.doi.org/10.1016/j.jmb.2003.10.074
+[Link]
+http://dx.doi.org/10.1016/j.jmb.2003.10.074
+[Link]
+http://dx.doi.org/10.1016/j.cell.2008.07.018
+[Link]
+http://dx.doi.org/10.1016/j.cell.2008.07.018
+[Link]
+http://dx.doi.org/10.1093/emboj/cdg531
+[Link]
+http://dx.doi.org/10.1093/emboj/cdg531
+[Link]
+http://dx.doi.org/10.1093/emboj/cdg531
+[Link]
+http://dx.doi.org/10.1016/j.bbrc.2008.05.074
+[Link]
+http://dx.doi.org/10.1016/j.bbrc.2008.05.074
+[Link]
+http://dx.doi.org/10.1016/j.bbrc.2008.05.074
+Journal of Cell Science
+Fisher, A. J., Smith, C. A., Thoden, J. B., Smith, R., Sutoh, K., Holden, H. M. and
+Rayment, I. (1995). X-ray structures of the myosin motor domain of Dictyostelium
+discoideum complexed with MgADP.BeFx and MgADP.AlF4-. Biochemistry 34,
+8960-8972.
+Geeves, M. A. and Holmes, K. C. (1999). Structural mechanism of muscle contraction.
+Annu. Rev. Biochem. 68, 687-728.
+Good, J. A., Skoufias, D. A. and Kozielski, F. (2011). Elucidating the functionality of
+kinesins: an overview of small molecule inhibitors. Semin. Cell Dev. Biol. 22, 935-
+945.
+Hallen, M. A., Liang, Z.-Y. and Endow, S. A. (2011). Two-state displacement by the
+kinesin-14 Ncd stalk. Biophys. Chem. 154, 56-65.
+Heuston, E., Bronner, C. E., Kull, F. J. and Endow, S. A. (2010). A kinesin motor in a
+force-producing conformation. BMC Struct. Biol. 10, 19.
+Hirose, K., Akimaru, E., Akiba, T., Endow, S. A. and Amos, L. A. (2006). Large
+conformational changes in a kinesin m otor catalyzed by interaction with
+microtubules. Mol. Cell 23, 913-923.
+Ho ¨o ¨k, P. and Vallee, R. (2012). Dynein dynamics. Nat. Struct. Mol. Biol. 19, 467-469.
+Houdusse, A. and Cohen, C. (1996). Structure of the regulatory domain of scallop
+myosin at 2 A resolution: implications for regulation. Structure 4, 21-32.
+Houdusse, A., Szent-Gyorgyi, A. G. and Cohen, C. (2000). Three conformational
+states of scallop myosin S1. Proc. Natl. Acad. Sci. USA 97, 11238-11243.
+Howard, J. (2001). Mechanics of Motor Proteins and the Cytoskeleton. Sunderland,
+MA: Sinauer Associates.
+Howard, J., Hudspeth, A. J. and Vale, R. D. (1989). Movement of microtubules by
+single kinesin molecules. Nature 342, 154-158.
+Hwang, W., Lang, M. J. and Karplus, M. (2008). Force generation in kinesin hinges
+on cover-neck bundle formation. Structure 16, 62-71.
+Kapoor, T. M., Mayer, T. U., Coughlin, M. L. and Mitchison, T. J. (2000). Probing
+spindle assembly mechanisms with monastrol, a small molecule inhibitor of the
+mitotic kinesin, Eg5. J. Cell Biol. 150, 975-988.
+Khalil, A. S., Appleyard, D. C., Labno, A. K., Georges, A., Karplus, M., Belcher,
+A. M., Hwang, W. and Lang, M. J. (2008). Kinesin’s cover-neck bundle folds
+forward to generate force. Proc. Natl. Acad. Sci. USA 105, 19247-19252.
+Kikkawa, M. and Hirokawa, N. (2006). High-resolution cryo-EM maps show the
+nucleotide binding pocket of KIF1A in open and closed conformations. EMBO J. 25,
+4187-4194.
+Kikkawa, M., Sablin, E. P., Okada, Y., Yajima, H., Fletterick, R. J. and Hirokawa,
+N. (2001). Switch-based mechanism of kinesin motors. Nature 411, 439-445.
+Kon, T., Sutoh, K. and Kurisu, G. (2011). X-ray structure of a functional full-length
+dynein motor domain. Nat. Struct. Mol. Biol. 18, 638-642.
+Kon, T., Oyama, T., Shimo-Kon, R., Imamula, K., Shima, T., Sutoh, K. and Kurisu,
+G. (2012). The 2.8 A ˚ crystal structure of the dynein motor domain. Nature 484, 345-
+350.
+Kozielski, F., Sack, S., Marx, A., Thorma ¨hlen, M., Scho ¨nbrunn, E., Biou, V.,
+Thompson, A., Mandelkow, E.-M. and Mandelkow, E. (1997). The crystal
+structure of dimeric kinesin and implications for microtubule-dependent motility.Cell
+91, 985-994.
+Kull, F. J. and Endow, S. A. (2002). Kinesin: switch I & II and the motor mechanism.
+J. Cell Sci. 115, 15-23.
+Kull, F. J., Sablin, E. P., Lau, R., Fletterick, R. J. and Vale, R. D. (1996). Crystal
+structure of the kinesin motor domain reveals a structural similarity to myosin.Nature
+380, 550-555.
+Kull, F. J., Vale, R. D. and Fletterick, R. J. (1998). The case for a common ancestor:
+kinesin and myosin motor proteins and G proteins.J. Muscle Res. Cell Motil.19, 877-
+886.
+Lad, L., Luo, L., Carson, J. D., Wood, K. W., Hartman, J. J., Copeland, R. A. and
+Sakowicz, R. (2008). Mechanism of inhibition of human KSP by ispinesib.
+Biochemistry 47, 3576-3585.
+Lakkaraju, S. K. and Hwang, W. (2011). Hysteresis-based mechanism for the directed
+motility of the Ncd motor. Biophys. J. 101, 1105-1113.
+Liu, H.-L., Hallen, M. A. and Endow, S. A. (2012). Altered nucleotide-microtubule
+coupling and increased mechanical output by a Kinesin mutant.PLoS ONE7, e47148.
+Llinas, P., Pylypenko, O., Isabet, T., Mukherjea, M., Sweeney, H. L. and Houdusse,
+A. M. (2012). How myosin motors power cellular functions: an exciting journey from
+structure to function: based on a lecture delivered at the 34th FEBS Congress in
+Prague, Czech Republic, July 2009. FEBS J. 279, 551-562.
+Maliga, Z., Kapoor, T. M. and Mitchison, T. J. (2002). Evidence that monastrol is an
+allosteric inhibitor of the mitotic kinesin Eg5. Chem. Biol. 9, 989-996.
+Malik, F. I., Hartman, J. J., Elias, K. A., Morgan, B. P., Rodriguez, H., Brejc, K.,
+Anderson, R. L., Sueoka, S. H., Lee, K. H., Finer, J. T. et al. (2011). Cardiac
+myosin activation: a potential therapeutic approach for systolic heart failure. Science
+331, 1439-1443.
+Mao, Y., Desai, A. and Cleveland, D. W. (2005). Microtubule capture by CENP-E
+silences BubR1-dependent mitotic checkpoint signaling. J. Cell Biol. 170, 873-880.
+Mayer, T. U., Kapoor, T. M., Haggarty, S. J., King, R. W., Schreiber, S. L. and
+Mitchison, T. J. (1999). Small molecule inhibitor of mitotic spindle bipolarity
+identified in a phenotype-based screen. Science 286, 971-974.
+McEwen, B. F., Chan, G. K., Zubrowski, B., Savoian, M. S., Sauer, M. T. and Yen,
+T. J. (2001). CENP-E is essential for reliable bioriented spindle attachment, but
+chromosome alignment can be achieved via redundant mechanisms in mammalian
+cells. Mol. Biol. Cell 12, 2776-2789.
+Me ´ne ´trey, J., Isabet, T., Ropars, V., Mukherjea, M., Pylypenko, O., Liu, X., Perez,
+J., Vachette, P., Sweeney, H. L. and Houdusse, A. M. (2012). Processive steps in
+the reverse direction require uncoupling of the lead head lever arm of myosin VI.Mol.
+Cell 48, 75-86.
+Morgan, B. P., Muci, A., Lu, P.-P., Qian, X., Tochimoto, T., Smith, W. W., Garard,
+M., Kraynack, E., Collibee, S., Suehiro, I. et al. (2010). Discovery of omecamtiv
+mecarbil the first, selective, small molecule activator of cardiac myosin. ACS Med.
+Chem. Lett. 1, 472-477.
+Nitta, R., Okada, Y. and Hirokawa, N. (2008). Structural model for strain-dependent
+microtubule activation of Mg-ADP release from kinesin. Nat. Struct. Mol. Biol. 15,
+1067-1075.
+Parke, C. L., Wojcik, E. J., Kim, S. and Worthylake, D. K. (2010). ATP hydrolysis in
+Eg5 kinesin involves a catalytic two-water mechanism. J. Biol. Chem. 285, 5859-
+5867.
+Pettersen, E. F., Goddard, T. D., Huang, C. C., Couch, G. S., Greenblatt, D. M.,
+Meng, E. C. and Ferrin, T. E. (2004). UCSF Chimera–a visualization system for
+exploratory research and analysis. J. Comput. Chem. 25, 1605-1612.
+Ray, S., Meyho ¨fer, E., Milligan, R. A. and Howard, J. (1993). Kinesin follows the
+microtubule’s protofilament axis. J. Cell Biol. 121, 1083-1093.
+Rayment, I., Holden, H. M., Whittaker, M., Yohn, C. B., Lorenz, M., Holmes, K. C.
+and Milligan, R. A. (1993). Structure of the actin-myosin complex and its
+implications for muscle contraction. Science 261, 58-65.
+Reubold, T. F., Eschenburg, S., Becker, A., Kull, F. J. and Manstein, D. J. (2003). A
+structural model for actin-induced nucleotide release in myosin. Nat. Struct. Biol. 10,
+826-830.
+Rice, S., Lin, A. W., Safer, D., Hart, C. L., Naber, N., Carragher, B. O., Cain, S. M.,
+Pechatnikova, E., Wilson-Kubalek, E. M., Whittaker, M. et al. (1999). A structural
+change in the kinesin motor protein that drives motility. Nature 402, 778-784.
+Rock, R. S., Rice, S. E., Wells, A. L., Purcell, T. J., Spudich, J. A. and Sweeney,
+H. L. (2001). Myosin VI is a processive motor with a large step size. Proc. Natl.
+Acad. Sci. USA 98, 13655-13659.
+Rosenfeld, S. S., Fordyce, P. M., Jefferson, G. M., King, P. H. and Block, S. M.
+(2003). Stepping and stretching. How kinesin uses internal strain to walk
+processively. J. Biol. Chem. 278, 18550-18556.
+Sablin, E. P., Kull, F. J., Cooke, R., Vale, R. D. and Fletterick, R. J. (1996). Crystal
+structure of the motor domain of the kinesin-related motor ncd. Nature 380, 555-559.
+Schaap, I. A., Carrasco, C., de Pablo, P. J. and Schmidt, C. F. (2011). Kinesin walks
+the line: single motors observed by atomic force microscopy. Biophys. J. 100, 2450-
+2456.
+Schaar, B. T., Chan, G. K. T., Maddox, P., Salmon, E. D. and Yen, T. J. (1997).
+CENP-E function at kinetochores is essential for chromosome alignment. J. Cell Biol.
+139, 1373-1382.
+Schmidt, H., Gleave, E. S. and Carter, A. P. (2012). Insights into dynein motor domain
+function from a 3.3-A ˚ crystal structure. Nat. Struct. Mol. Biol. 19, 492-497.
+Sindelar, C. V. and Downing, K. H. (2010). An atomic-level mechanism for activation
+of the kinesin molecular motors. Proc. Natl. Acad. Sci. USA 107, 4111-4116.
+Stewart, R. J., Thaler, J. P. and Goldstein, L. S. B. (1993). Direction of microtubule
+movement is an intrinsic property of the motor domains of kinesin heavy chain and
+Drosophila ncd protein. Proc. Natl. Acad. Sci. USA 90, 5209-5213.
+Sweeney, H. L. and Houdusse, A. (2010). Structural and functional insights into the
+Myosin motor mechanism. Annu. Rev. Biophys. 39, 539-557.
+Talapatra, S. K., Schu ¨ttelkopf, A. W. and Kozielski, F. (2012). The structure of the
+ternary Eg5-ADP-ispinesib complex. Acta Crystallogr. D Biol. Crystallogr. 68, 1311-
+1319.
+Teerlink, J. R., Clarke, C. P., Saikali, K. G., Lee, J. H., Chen, M. M., Escandon, R.
+D., Elliott, L., Bee, R., Habibzadeh, M. R., Goldman, J. H. et al. (2011). Dosedependent
+augmentation of cardiac systolic function with the selective cardiac myosin
+activator, omecamtiv mecarbil: a first-in-man study. Lancet 378, 667-675.
+Uyeda, T. Q. P., Abramson, P. D. and Spudich, J. A. (1996). The neck region of the
+myosin motor domain acts as a lever arm to generate movement. Proc. Natl. Acad.
+Sci. USA 93, 4459-4464.
+Vale, R. D. (1996). Switches, latches, and amplifiers: common themes of G proteins and
+molecular motors. J. Cell Biol. 135, 291-302.
+Walker, J. E., Saraste, M., Runswick, M. J. and Gay, N. J. (1982). Distantly related
+sequences in the a- and b-subunits of ATP synthase, myosin, kinases and other ATP-
+requiring enzymes and a common nucleotide binding fold. EMBO J. 1, 945-951.
+Wood, K. W., Lad, L., Luo, L., Qian, X., Knight, S. D., Nevins, N., Brejc, K., Sutton,
+D., Gilmartin, A. G., Chua, P. R. et al. (2010). Antitumor activity of an allosteric
+inhibitor of centromere-associated protein-E. Proc. Natl. Acad. Sci. USA 107, 5839-
+5844.
+Yan, Y., Sardana, V., Xu, B., Homnick, C., Halczenko, W., Buser, C. A., Schaber,
+M., Hartman, G. D., Huber, H. E. and Kuo, L. C. (2004). Inhibition of a mitotic
+motor protein: where, how, and conformational consequences. J. Mol. Biol. 335, 547-
+554.
+Yildiz, A., Tomishige, M., Gennerich, A. and Vale, R. D. (2008). Intramolecular strain
+coordinates kinesin stepping behavior along microtubules. Cell 134, 1030-1041.
+Yount, R. G., Lawson, D. and Rayment, I. (1995). Is myosin a ‘‘back door’’ enzyme?
+Biophys. J. 68, 44S-47S.
+Yun, M., Bronner, C. E., Park, C.-G., Cha, S.-S., Park, H.-W. and Endow, S. A.
+(2003). Rotation of the stalk/neck and one head in a new crystal structure of the
+kinesin motor protein, Ncd. EMBO J. 22, 5382-5389.
+Zhang, B., Liu, J.-F., Xu, Y. and Ng, S.-C. (2008). Crystal structure of HsEg5 in
+complex with clinical candidate CK0238273 provides insight into inhibitory
+mechanism, potency, and specificity. Biochem. Biophys. Res. Commun.372, 565-570.
+Force generation by kinesins and myosins 19
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.1750943037)
+

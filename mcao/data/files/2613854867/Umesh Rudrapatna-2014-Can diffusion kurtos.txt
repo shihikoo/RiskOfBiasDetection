@@ -1,0 +1,979 @@
+NeuroImage 97 (2014) 363–373
+
+Contents lists available at ScienceDirect
+
+NeuroImage
+journal homepage: www.elsevier.com/locate/ynimg
+
+Can diffusion kurtosis imaging improve the sensitivity and speciﬁcity of
+detecting microstructural alterations in brain tissue chronically after
+experimental stroke? Comparisons with diffusion tensor imaging
+and histology
+S. Umesh Rudrapatna a,⁎, Tadeusz Wieloch b, Kerstin Beirup b, Karsten Ruscher b, Wouter Mol a, Pavel Yanev a,
+Alexander Leemans c, Annette van der Toorn a, Rick M. Dijkhuizen a,⁎
+a
+b
+c
+
+Biomedical MR Imaging and Spectroscopy Group, Image Sciences Institute, University Medical Center Utrecht, Heidelberglaan 100, 3584 CX Utrecht, The Netherlands
+Laboratory for Experimental Brain Research, Department of Clinical Sciences, Division of Neurosurgery, Lund University, BMC A13, S-22184 Lund, Sweden
+PROVIDI Lab, Image Sciences Institute, University Medical Center Utrecht, Utrecht, The Netherlands
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Accepted 4 April 2014
+Available online 15 April 2014
+Keywords:
+Diffusion kurtosis imaging
+DKI
+DTI
+Diffusion
+Microstructure
+Chronic stroke
+
+a b s t r a c t
+Imaging techniques that provide detailed insights into structural tissue changes after stroke can vitalize development of treatment strategies and diagnosis of disease. Diffusion-weighted MRI has been playing an important
+role in this regard. Diffusion kurtosis imaging (DKI), a recent addition to this repertoire, has opened up further
+possibilities in extending our knowledge about structural tissue changes related to injury as well as plasticity.
+In this study we sought to discern the microstructural alterations characterized by changes in diffusion tensor
+imaging (DTI) and DKI parameters at a chronic time point after experimental stroke. Of particular interest was
+the question of whether DKI parameters provide additional information in comparison to DTI parameters in
+understanding structural tissue changes, and if so, what their histological origins could be. Region-of-interest
+analysis and a data-driven approach to identify tissue abnormality were adopted to compare DTI- and DKIbased parameters in post mortem rat brain tissue, which were compared against immunohistochemistry of
+various cellular characteristics.
+The unilateral infarcted area encompassed the ventrolateral cortex and the lateral striatum. Results from regionof-interest analysis in the lesion borderzone and contralateral tissue revealed signiﬁcant differences in DTI and
+DKI parameters between ipsi- and contralateral sensorimotor cortex, corpus callosum, internal capsule and striatum. This was reﬂected by a signiﬁcant reduction in ipsilateral mean diffusivity (MD) and fractional anisotropy
+(FA) values, accompanied by signiﬁcant increases in kurtosis parameters in these regions. Data-driven analysis to
+identify tissue abnormality revealed that the use of kurtosis-based parameters improved the detection of tissue
+changes in comparison with FA and MD, both in terms of dynamic range and in being able to detect changes to
+which DTI parameters were insensitive. This was observed in gray as well as white matter. Comparison against
+immunohistochemical stainings divulged no straightforward correlation between diffusion-based parameters
+and individual neuronal, glial or inﬂammatory tissue features.
+Our study demonstrates that DKI allows sensitive detection of structural tissue changes that reﬂect post-stroke
+tissue remodeling. However, our data also highlights the generic difﬁculty in unambiguously asserting speciﬁc
+causal relationships between tissue status and MR diffusion parameters.
+© 2014 Elsevier Inc. All rights reserved.
+
+Introduction
+Discovery of curative treatments for chronic-phase stroke patients
+may beneﬁt immensely from improved understanding of post-stroke
+structural tissue (re)organization. For the past few years, diffusion
+
+⁎ Corresponding authors.
+E-mail addresses: umesh@invivonmr.uu.nl (S. Umesh Rudrapatna),
+r.m.dijkhuizen@umcutrecht.nl (R.M. Dijkhuizen).
+
+http://dx.doi.org/10.1016/j.neuroimage.2014.04.013
+1053-8119/© 2014 Elsevier Inc. All rights reserved.
+
+tensor imaging (DTI) has been a popular method to assess changes in
+tissue structure after stroke (Dijkhuizen et al., 2012; Sotak, 2002;
+Sundgren et al., 2004), e.g., in an experimental stroke model, it has
+been shown that fractional anisotropy (FA) in the corpus callosum and
+ipsilesional corticospinal tracts has a signiﬁcant correlation with functional recovery (van Meer et al., 2012).
+Recently, diffusion kurtosis imaging (DKI), an extension to DTI that
+can capture the non-Gaussian nature of water diffusion in tissues, has
+been shown to exhibit enhanced sensitivity to microstructural changes
+in comparison with the conventional DTI parameters, FA and mean
+
+364
+
+S. Umesh Rudrapatna et al. / NeuroImage 97 (2014) 363–373
+
+diffusivity (MD) (Gooijers et al., 2013; Hui et al., 2008; Jensen et al.,
+2005; Lu et al., 2006; van Cauter et al., 2012; Wu and Cheung, 2010).
+While DTI has played a signiﬁcant role in understanding (changes in)
+tissue architecture, especially in cerebral white matter studies, DKI parameters can potentially be more effective in elucidating cerebral gray
+matter changes (Jensen et al., 2005).
+The advantages offered by DKI over DTI have been reported
+in several recent studies. In an experimental traumatic brain injury
+model in rats, Zhuo et al. (2012) observed the continued sensitivity of
+mean kurtosis (MK) to structural tissue changes even into sub-acute
+stages, when DTI parameters had re-normalized. Raab et al. (2010)
+reported that gliomas of two different grades could be separated only
+by using MK values. In an experimental stroke study on the spatiotemporal evolution of kurtosis parameters (Hui et al., 2012a), the differences in MK between healthy and injured tissue areas were found to
+persist up to seven days post stroke, when MD values had normalized.
+Hui et al. (2012b) also reported the distinct patterns on kurtosis and
+MD maps and the greater dynamic range of kurtosis parameters in
+comparison with MD. Recently, Vanhoutte et al. (2013) reported the
+suitability of DKI metrics to detect amyloid deposition in a mouse
+model of Alzheimer's disease, when plain DTI metrics failed to do so.
+These studies indicate that kurtosis parameters bring in original information, which DTI parameters may not be able to provide. Furthermore,
+studies on brain maturation (Cheung et al., 2009), temporal lobe
+epilepsy (Gao et al., 2012) and stroke lesion visualization (Grinberg
+et al., 2012) have reported the enhanced sensitivity of DKI parameters
+over DTI parameters in discerning differences in tissue status. In other
+studies (Blockx et al., 2012; Cheung et al., 2012; Grossman et al.,
+2012), a combined use of kurtosis and DTI parameters proved to be
+advantageous in detecting tissue changes. These observations
+indicate that kurtosis parameters can discriminate healthy from abnormal tissue under various pathophysiological conditions. Thus, given
+that perilesional white and gray matter undergo signiﬁcant changes
+following stroke (Floyd, 2012; Schaechter et al., 2006), DKI holds
+promise in furthering our understanding of restructuring in both cerebral
+tissue types.
+Although kurtosis parameters may provide additional information
+over DTI parameters in assessing microstructural changes after stroke
+(Grinberg et al., 2012; Hui et al., 2012a, 2012b), there are few DKI
+studies (Blockx et al., 2012; Zhuo et al., 2012) which empirically link
+the changes in diffusion kurtosis-based contrasts to possible biological
+underpinnings, or ascertain their speciﬁcity to particular tissue alterations. These issues are central to the application of any contrast in
+imaging, and especially so in the case of diffusion-based contrasts,
+since it is known that many different but concurrent biological processes
+can affect diffusion parameters in a similar manner (Beaulieu, 2002;
+Wang et al., 2011). In addition, there are several other factors that
+may further modulate diffusion metrics in a nontrivial way, such as the
+tensor estimation approach (Veraart et al., 2013), partial volume effects
+(Szczepankiewicz et al., 2013; Vos et al., 2011), and violations of model
+assumptions (Tournier et al., 2011; Vos et al., 2012). A better understanding of the biological processes at play and how they can affect
+diffusion contrasts is therefore crucial for evaluating the beneﬁt of one
+contrast over the other and more importantly, in correctly interpreting
+what is being observed.
+In this work, we chose to apply a high-resolution post-mortem MRI
+approach, to elucidate the possible advantages of DKI parameters over
+DTI parameters in characterizing altered tissue structure chronically
+after stroke, when injury and plasticity mechanisms are known to
+have induced tissue remodeling around a stroke lesion (Schaechter
+et al., 2006). We used discrepancies in the relative status of DTI and
+DKI parameters (in homologous ipsi- and contralateral regions) to
+deduce if DKI parameters provide enhanced sensitivity in comparison
+with DTI parameters under these circumstances. A data-driven approach was used to further identify regions with abnormal DKI
+and DTI contrasts (in comparison to the values in the contralateral
+
+hemisphere), with the aim of detecting whether DKI provides information unavailable from DTI parameters. To understand the histological
+underpinnings of the observed changes in diffusion parameters and
+thus discern what the speciﬁc information conveyed by DKI contrasts
+could be, we performed immunohistochemistry and compared histological stainings with various MR diffusion parameters in the same
+tissue samples.
+
+Methods
+Stroke model
+Transient middle cerebral artery occlusion (MCAO) was induced in
+adult male Wistar rats (320–400 g), housed under diurnal light conditions as described in Memezawa et al. (1992). They were anesthetized
+(initially with 4% Isoﬂurane, Intervet, Schering Plough in N2O/O2
+(70:30), and during surgery with 2% Isoﬂurane in N2O/O2). The right
+common carotid artery (CCA) and external carotid artery were occluded
+permanently and the internal carotid artery (ICA) was exposed. A nylon
+ﬁlament (top diameter 0.3–0.4 mm) was introduced into the ICA via a
+small incision into the distal end of the CCA and advanced to occlude
+the origin of the MCA. The subsequent decrease in cortical blood ﬂow
+during MCA occlusion was monitored with a laser-Doppler device and
+arterial pO2, pCO2, pH and rectal temperatures were measured. After
+occlusion of the MCA, the wounds were sutured and the rats were
+allowed to wake up. At 90 min after occlusion, the neurological score
+was assessed and only rats showing rotational asymmetry and dysfunctional limb placement were included in the study. At 120 min after MCA
+occlusion, the animals were reperfused under anesthesia by removing
+the nylon ﬁlament. All wounds were sutured and the rats were allowed
+to wake up. After a recovery period of eight weeks, the animals were
+perfusion-ﬁxed with paraformaldehyde, and decapitated. After overnight post-ﬁxation at 4 °C, brains inside intact skulls were cold-stored
+in phosphate-buffered saline with sodium azide (0.5 g/l). Twenty-two
+brain samples were collected in this manner and used for scanning
+with MRI.
+
+MRI data acquisition
+Within 15 days after perfusion-ﬁxation, DKI acquisitions of the
+brains inside the intact skull were performed on a 9.4 T pre-clinical
+MRI scanner (Varian Inc., Palo Alto, CA, USA), equipped with a gradient
+insert capable of operating at 100 G/cm, with the following DKI scan
+parameters: 2d-multislice echo-planar imaging (EPI) sequence;
+repetition time (TR): 3.4 s; echo time (TE): 26 ms; interleaves: 10;
+ﬁeld-of-view (FOV): 20 × 30 × 11 mm; matrix size: 100 × 150 × 55
+(read-out × phase encoding × slices) (isotropic resolution of 200 μm).
+Diffusion-weighting was performed in 30 optimized directions (Cook
+et al., 2007) with parameters δ: 3.63 ms and Δ: 13.67 ms.
+Choosing the set of appropriate b-values for a DKI study needs several considerations to be taken into account, like the applicability of
+DKI ﬁtting under the range of b-values in use, the achievable signalto-noise ratio (SNR) etc. To date, most in-vivo DKI studies have used
+maximum b-values of around 2000–3000 s/mm2 (Jensen and Helpern,
+2010). In animals, the mean diffusivity in perfusion-ﬁxed brains has
+been observed to be nearly half of that compared to in-vivo brain tissue
+(D'Arceuil et al., 2007). Thus, the b-value range for ex-vivo DKI studies
+in rodent brains needs to be nearly double of those used for in-vivo
+studies, in order to achieve levels of signal attenuation where the DKI
+model is relevant. Thus, we used four b-values (1125, 2250, 3375 and
+4500 s/mm2) along with eight b = 0 scans for this study. Test scans
+were performed on one sample to ensure the suitability of this range
+of b-values for DKI. For each brain-sample, seven averages of such 128
+(30 × 4 + 8) EPI datasets were acquired over a period of 8.5 h.
+
+S. Umesh Rudrapatna et al. / NeuroImage 97 (2014) 363–373
+
+Estimation of DTI and DKI parameters
+Mean kurtosis (MK), parallel kurtosis (ParK) and perpendicular kurtosis (PerK) were estimated (Tabesh et al., 2011) from the reconstructed
+DKI data after co-registering (Avants et al., 2008) diffusion-weighted
+datasets to the b = 0 dataset (to minimize eddy-current-related image
+distortions). Separately, DTI ﬁts were also performed on the same data
+to calculate MD and FA. Both the DKI and DTI ﬁtting routines were developed in-house using Matlab. Since deviations from the single tensor diffusion model manifest at high b-values, DTI ﬁts were performed with data
+weighted at the lower three b-values, namely, 0, 1125 and 2250 s/mm2.
+Analysis of predeﬁned regions-of-interest
+In order to assess if DKI and DTI parameters were signiﬁcantly
+altered in the ipsilateral hemisphere (as compared to the contralateral
+side), four regions-of-interest (ROIs), namely the forelimb region of
+the sensorimotor cortex (S1FL), the striatum, the internal capsule and
+the corpus callosum, as well as their homologous counterparts in the
+contralateral hemisphere were carefully delineated by an expert with
+knowledge of rat brain anatomy. Portions of the internal capsule that
+were used for the analysis ranged from ≈ 0.7 to 1.7 mm posterior to
+bregma (5 slices). The other three ROIs ranged from ≈0 to 1.0 mm posterior to bregma. Mean data values from these regions were expressed
+in ratio estimates, and statistically analyzed with pairwise t-tests to
+assess if the DTI and DKI parameters in the ipsilateral hemisphere
+were signiﬁcantly different from their contralateral counterparts.
+Data-driven identiﬁcation of tissue abnormality
+While the ROI-based procedure could show whether kurtosis parameters and DTI parameters differed in bilaterally homologous regions,
+it would not allow identiﬁcation of other regions where these parameters were abnormal. To test this, a data-driven analysis based on
+support-vector-classiﬁcation was used. The adopted approach involved
+training a v-support vector one-class classiﬁer (Chang and Lin, 2011;
+Chung and Jen, 2002) with parametric data from the contralateral hemisphere, and subsequent classiﬁcation of the ipsilateral parametric maps.
+The goal was to identify those regions in the ipsilateral hemisphere that
+had drastically altered parameter values as compared with those on the
+contralateral side. In this approach, no anatomical distinctions were
+made within the hemisphere, except for the broad classiﬁcation of
+gray and white matter. Thus, regions that were classiﬁed as not belonging to the training class differed drastically from all possible parameter
+combinations that occur on the contralateral side. So, only largely outstanding differences would come out of this analysis.
+Ipsi- and contralateral hemispheres were separated by ﬁtting a
+polynomial surface to manually identiﬁed control points on the midline
+in various slices of FA maps. Automatic thresholding of FA values was
+used to distinguish gray and white matter (Otsu, 1979). Gray and
+white matter data were trained and tested separately. The testing was
+performed on data from both ipsi- and contralateral hemispheres.
+In practical implementation, one-class classiﬁcation needs a threshold (v) to be speciﬁed. In our implementation, we derived classiﬁcation
+results over a series of v values, ranging from 0.005 to 0.2, in steps of
+0.01, thus leading to 21 classiﬁcation results. A tissue abnormality incidence map was created by adding all the classiﬁcation results. Thus,
+regions with high numbers would indicate more dramatic deviations
+from all parametric data on the contralateral side. Since v roughly indicates the fraction of training errors and support vectors, one way to
+interpret the classiﬁcation results is, all voxels classiﬁed as not belonging
+to the training class at a particular v are further away from at least
+v ∗ 100% of voxels with extreme parameter combinations in the training
+(contralateral) dataset.
+In order to compare DTI and kurtosis parameters, three such abnormality incidence maps were created. The ﬁrst was obtained by training
+and testing only with DTI parameters (FA and MD) obtained from DTI ﬁt
+(denoted by FA,MD[DTI]). The second was obtained by training and
+
+365
+
+testing with FA and MD obtained from DKI ﬁt (denoted by FA,MD
+[DKI]). The third abnormality incidence map was created by training
+and testing with only kurtosis parameters, namely, MK, ParK and PerK
+(abbreviated as K[DKI]). To visualize the spatial localization of these
+maps, the three abnormality incidence maps were combined into
+an RGB image with the red channel representing K[DKI], the green
+channel representing FA,MD[DKI] and the blue channel representing
+FA,MD[DTI]. Thus, a particular color and intensity combination would
+represent contributions from various channels in different proportions.
+Two such RGB images were obtained per sample, one from gray matter
+classiﬁcation and the other from white matter classiﬁcation.
+To quantitatively assess the similarity between the classiﬁcations
+with various parameter combinations, sequentially increasing thresholds were applied to each tissue abnormality incidence map, and
+Dice similarity index and Overlap coefﬁcients were determined at
+each threshold for the various combinations of abnormality incidence
+maps, i.e., between K[DKI] and FA,MD[DKI], K[DKI] and FA,MD[DTI]
+and FA,MD[DKI] and FA,MD[DTI]. Dice similarity index is deﬁned as
+2 ∗ nt / (nx + ny), where nt denotes the number of overlapping voxels
+in the binary images and nx and ny refer to the non-zero voxels in
+each of the binary images, x and y. The higher the Dice similarity
+index, the better the overlap between the abnormality classiﬁcations.
+However, it is penalized if the overlap is not one-on-one. The Overlap
+coefﬁcient is given by nt/min(nx, ny), with high values indicating good
+overlap in the classiﬁcation. In this case, if one dataset forms a proper
+subset of the other, it would still yield the maximum coefﬁcient, 1.0,
+i.e., it is only inﬂuenced by the size of the smaller classiﬁcation region.
+Immunohistochemistry
+Immunohistochemical analysis was performed on coronal sections
+from ﬁve brains after DKI scanning. In each brain, one section-ofinterest at approximately 0.05 mm posterior to bregma was chosen,
+and ten different stainings were prepared on 40 μm thick sections
+around this level. The sections were stained with established markers
+for neurons (NeuN, NFH), astroglia (GFAP), microglia/macrophages
+(OX42), myelin (LFB), synapses (APP), scar tissue (CSPGs), protein
+aggregates (Aβ), nuclei (HTX) and blood–brain-barrier integrity (EBA)
+as described in Appendix A. The information provided by these histological markers under normal and pathological conditions are summarized
+in the Supplementary information, Table S1.
+For comparison with DKI, images of the abovementioned stainings
+were captured using a light microscope (Olympus BX41) at two different resolutions. An overall picture of the whole section was captured
+with 2.5 fold magniﬁcation. In addition, ﬁve ipsilateral regions-ofinterest, i.e. intact sensorimotor cortex, corpus callosum, striatum,
+anterior commissure and ventral part of the basal ganglia, and their
+homotopic contralateral areas were imaged at 40 fold magniﬁcation
+factor, covering an area of about 200 × 150 μm2, corresponding to an
+area of about 1 pixel in the DKI/DTI maps.
+Correlation between diffusion-based MRI parameters and
+immunohistochemical stainings
+For quantitative analysis, a notion of “amount of contrast” was deﬁned in both MRI and histology domains. These values were analyzed
+in non-parametric Kendall's τ association tests to determine if any of
+the MRI parameters showed signiﬁcant associations with any of the
+histological stains.
+For MRI parameters, the amount of contrast was deﬁned as the mean
+value of the given particular parameter in a 3 × 3 voxel-sized volume
+covering the region-of-interest. The amount of contrast on histological
+sections was related to the notion of degree of staining. This was obtained by ﬁrst converting a given histological image from RGB format to HSV
+space (hue/saturation/value), and then averaging the values in the
+inverted (1-V) plane. The inversion step was necessary to maintain
+
+366
+
+S. Umesh Rudrapatna et al. / NeuroImage 97 (2014) 363–373
+
+the convention that higher values reﬂect a greater degree of staining.
+We made sure that the images used in the analysis were free of voids.
+Given that the diffusion-based MRI contrasts are mostly sensitive
+to the arrangement of microstructures rather than to the amounts of
+constituents, a second notion of amount of contrast was deﬁned.
+We adopted an approach to quantify local differences in structural
+composition by decomposing images into different constituent length
+scales and comparing them across the length-scale decompositions. The
+assumption here is that any change in tissue microstructure would inﬂuence the length-scale decomposition of the corresponding histological
+image. To this end, we used a popular method of length-scale representation based on Gabor-ﬁlters, which has found its way into the arena of
+automated analysis of histological images (Kovesi, 1999; Manohar et al.,
+2011; Naik et al., 2008). This second notion of “amount of contrast” was
+based on the rotationally averaged (6 orientations) Gabor amplitude
+vector (Kovesi, 1999), obtained by decomposing the inverted V (value)
+gray-scale histological images into ten different length-scales.
+Given the fact that all the diffusion parameters under consideration
+are quantitative in nature, and that histological stainings were prepared
+in batches (slices from all samples were stained simultaneously), there
+was no need to normalize data from either of these modalities for
+performing Kendall's-τ association tests. The tests were performed in
+four different ways. First, we used data from both ipsi- and contralateral
+
+sides for the tests. Thus, for every diffusion parameter–histological
+staining pair, we had 50 values (10 ROIs in 5 samples) to perform the
+analysis. We then tested for correlations separately with the ipsilateral
+and contralateral values only (25 values each). Finally, we performed
+correlation tests using the differences between contralateral and ipsilateral values, obtained from bilaterally homologous ROIs. In the case of
+Gabor amplitude vector representation for histology, separate tests
+were performed for each length-scale.
+Results
+Region-of-interest analysis of DKI/DTI data
+Fig. 1A shows example parametric maps obtained from a typical
+brain sample. The unilateral tissue infarct encompassed the ventrolateral
+cortex and the lateral striatum. It was characterized by high MD, low FA
+and reduced kurtosis parameters, indicative of destructed tissue. The
+intact perilesional tissue regions displayed altered contrast as compared
+to homologous contralateral areas. Fig. 1B shows typical bilaterally
+homologous ROIs demarcated in the same dataset. SNR (mean signal intensity/standard deviation of air signal) estimates in the demarcated
+ROIs were obtained at all b-values (Supplementary Fig. S1). The SNR varied between 100 and 25 over the entire b-value range (0–4500 s/mm2),
+
+A)
+
+B)
+
+Fig. 1. Example parametric maps and areas used for region-of-interest analysis.
+
+S. Umesh Rudrapatna et al. / NeuroImage 97 (2014) 363–373
+
+suggesting that the data quality was sufﬁcient for obtaining reliable DKI
+ﬁts, assuming Gaussian noise (Veraart et al., 2011).
+In order to be able to assess the relative sensitivity of DKI and DTI
+parameters to the altered tissue status, mean ratios of DKI parameters
+(ipsilateral/contralateral) and mean ratios of DTI parameters
+(contralateral/ipsilateral) from various regions were compared. Given
+the reversed nature of signal changes, this swapping of ratios allowed
+for a more direct interpretation of sensitivity of the different parameters.
+Estimated ratios and their 95% conﬁdence intervals (Schaarschmidt
+and Gerhard, 2009) are given in Fig. 2. In general, FA and MD were
+reduced in the ipsilateral ROIs, whereas kurtosis was increased. FA
+and MD measurements obtained with DTI and DKI ﬁts were similar. In
+nearly all cases, the conﬁdence intervals were either above or below
+1.0, indicating signiﬁcant differences between ipsi- and contralateral
+regions. A greater dynamic range was observed for kurtosis-based
+parameters in comparison to FA and MD in striatum, perilesional cortex
+and corpus callosum. Bar plots for the same data, and results from
+paired t-tests are presented in Supplementary information Fig. S2.
+Data-driven identiﬁcation of tissue abnormality on DKI/DTI maps
+Fig. 3 shows results from one-class classiﬁcation of parameters in
+gray matter as obtained from ﬁve random brain samples. Bright white
+spots indicate regions where all three abnormality incidence maps
+(K[DKI], FA,MD[DKI] and FA,MD[DTI]) showed very high values, indicating highly altered parameters in comparison with values in the contralateral hemisphere. Predominantly red regions show where only the
+kurtosis parameters drastically differed. Similarly, predominantly
+green and blue regions show where signiﬁcant FA and MD changes in
+DKI and DTI ﬁts were found, respectively. We found relatively large
+areas showing altered kurtosis parameters, as compared to areas with
+changes in FA or MD.
+A large increase in kurtosis parameter values (and accompanied
+decrease in FA and MD) was observed in the ipsilateral basal ganglia
+in 18 of the 22 samples. Signiﬁcant changes in perilesional cortical tissue
+were observed in 11 samples. The abnormality incidence maps in Fig. 3
+have been thresholded at 16 (corresponding to v = 0.05) indicating
+that the values in the highlighted regions differed from the rest by a
+large margin.
+Fig. 4 shows the variation of Dice similarity index and Overlap
+coefﬁcient as a function of applied threshold (i.e., varying v) on the
+gray matter abnormality incidence maps. These results indicate that
+the classiﬁcations based on kurtosis parameters differed drastically
+from those based on FA and MD (obtained from DKI or DTI ﬁts), as
+
+367
+
+evidenced by the low Dice indices, and the low Overlap coefﬁcients.
+In cortical regions, we observed mostly kurtosis-related changes,
+and not as much FA and MD changes. As expected, FA,MD[DKI] and
+FA,MD[DTI] essentially identiﬁed similar regions.
+For the same brain samples, the results obtained from white matter
+classiﬁcation are shown in Figs. 5 and S3. 16 out of 22 brain samples
+revealed clear differences in kurtosis parameters between ipsi- and contralateral hemispheres, especially in the corpus callosum and internal
+capsule. We observed that kurtosis parameters are more adept at
+showing interhemispheric white matter differences as compared with
+FA and MD, which displayed a more patchy pattern. However, it should
+be noted that the white matter abnormality incidence maps shown in
+Fig. 5 were not thresholded, indicating that these results are not as
+robust as those obtained from gray matter abnormality analysis.
+Correlation between MRI-detected diffusion parameters and histology
+Fig. 6 shows example images of various histological stainings at the
+level of whole coronal slices, and the regions-of-interest chosen for
+correlation analysis with MRI data. Fig. 7 shows magniﬁed (40 ×)
+images of homologous ipsi- and contralateral cortical regions depicted
+in Fig. 6. Contrast differences between these regions were used in
+correlation analysis with MR data.
+Increased GFAP, APP, OX42, Aβ, and CSPG stainings could be
+observed in perilesional cortical and subcortical tissue, whereas LFB,
+NeuN, NFH and APP were mostly reduced in the lesion borderzone. Yet,
+no clear trend could be established between contrast on MRI-based
+diffusion parameters and histological stainings by visual inspection.
+Quantitative analysis, however, revealed some signiﬁcant correlations.
+Fig. 8 represents results obtained from the four different association
+tests performed on all diffusion parameter/histological staining pairs,
+using both methods of contrast quantiﬁcation (i.e. degree-of-stainingbased and Gabor-amplitude-based). All references to FA and MD in
+this table correspond to those obtained using DKI ﬁt (similar signiﬁcant
+values were obtained with DTI ﬁtting). We found a large number of signiﬁcant correlations when either all data from contra- and ipsilateral
+hemispheres were used, or when only data from the contralateral
+hemisphere were used. With data from the ipsilateral hemisphere
+only, and from difference between contra- and ipsilateral values, we
+found fewer signiﬁcant correlations between diffusion parameters and
+histology. The sense of correlation (positive or negative) between the
+histological stains and MR parameters mostly agreed with the results
+from visual observations and known histopathological connections
+between MR parameters and tissue status. While similarities could be
+identiﬁed in the two quantitative methods in the case of correlations
+with NeuN, EBA, Aβ, CSPG and GFAP stains, notable differences were
+found in identifying correlations with NFH, LFB and HTX. The Gaboramplitude-based method identiﬁed several strong correlations which
+were not observed using the notion of degree of staining. We observed
+that many stains that showed a strong association with a diffusion parameter (e.g., MK) when considering data only from the contralateral
+side, failed to do so when data from the ipsilateral hemisphere alone
+was considered. Considering only kurtosis-based parameters, the most
+signiﬁcant correlations that persisted across hemispheres were with
+NeuN and CSPG.
+Discussion
+
+Fig. 2. Estimated ratio of ipsi-/contralateral mean values for DKI parameters and contra-/
+ipsilateral mean values for DTI parameters and corresponding 95% conﬁdence intervals
+in the different ROIs. Notation: CC: corpus callosum, IC: internal capsule, S: striatum,
+SMCX: sensorimotor cortex.
+
+In the current study, we assessed the potential of DKI to measure
+contrast changes in brain regions that are known to undergo signiﬁcant
+structural alterations after stroke, such as perilesional cortex, striatum,
+internal capsule and corpus callosum, which may affect post-stroke
+functional status (van Meer et al., 2012).
+Results from our study indicate that DKI can be more sensitive
+than DTI in detecting microstructural changes throughout the brain
+at a chronic time point after stroke. Analysis of perilesional regions,
+
+S. Umesh Rudrapatna et al. / NeuroImage 97 (2014) 363–373
+
+Rat 5
+
+Rat 4
+
+Rat 3
+
+Rat 2
+
+Rat 1
+
+368
+
+Fig. 3. Results from gray matter one-class classiﬁcation showing areas with the most signiﬁcant abnormality, overlaid on the corresponding FA maps of ﬁve randomly selected multislice
+brain datasets (each row represents an individual dataset). The gray matter abnormality incidence maps were thresholded at a value of 16 (up to v = 0.05). FA maps were scaled down by
+a factor of 3 to highlight the classiﬁcation results. For visualization purposes, K[DKI], FA,MD[DKI] and FA,MD[DTI] were stacked (as R, G and B channels) and converted to an RGB image. The
+slice positions (left to right) ranged approximately from −4.16 mm to 0.4 mm with respect to Bregma (posterior–anterior direction).
+
+exhibiting clear glial, neuronal and inﬂammatory changes on immunohistochemistry, displayed relatively larger changes in kurtosis as
+compared to FA or MD. The observed simultaneous decrease in FA and
+MD, and concurrent increases in kurtosis parameters in the ipsilateral
+ROIs indicate reduction in mobility and directionality of diffusing
+water, combined with formation of barriers to diffusion. This picture is
+consistent with the known formation of glial scars on the ipsilateral
+
+side after stroke, wherein, glial processes intertwine heavily, reducing
+and hindering diffusion in a non-orientation-speciﬁc manner.
+In addition to ROI analysis, we applied a data-driven machinelearning-based methodology for unbiased identiﬁcation of other brain
+areas that may be structurally altered. Our data-driven approach was
+shown to be effective in detecting prominent differences between
+ipsi- and contralateral tissues in gray and white matter areas, especially
+
+Fig. 4. Dice similarity index and Overlap coefﬁcient between thresholded gray matter abnormality incidence map pairs at various thresholds calculated from different DKI and
+DTI ﬁts (K[DKI], FA,MD[DKI] and FA,MD[DTI]). A threshold of 1 corresponds to all v ≤ 0.2 and a threshold of 20 corresponds to v = 0.005.
+
+369
+
+Rat 5
+
+Rat 4
+
+Rat 3
+
+Rat 2
+
+Rat 1
+
+S. Umesh Rudrapatna et al. / NeuroImage 97 (2014) 363–373
+
+Fig. 5. Results from white matter one-class classiﬁcation showing areas with most signiﬁcant abnormality, overlaid on the corresponding FA maps of ﬁve randomly selected multislice
+brain datasets (each row represents an individual dataset). The incidence maps were not thresholded. FA maps were scaled down by a factor of 3 to highlight the classiﬁcation results.
+For visualization purposes, K[DKI], FA,MD[DKI] and FA,MD[DTI] were stacked (as R, G and B channels) and converted to an RGB image.
+
+characteristics that inform on tissue structure, or provide complementary information on the microenvironment in which tissue water diffuses
+(Cheung et al., 2009; Gao et al., 2012; Grinberg et al., 2012; Hui et al.,
+2012a, 2012b; Raab et al., 2010; Zhuo et al., 2012). The notion of complementary information conjures the possibility of DKI parameters
+being sensitive to microstructural tissue features that would not inﬂuence DTI parameters. Results obtained from our data-driven analysis
+may shed light on this important aspect. The observed mismatches between tissue regions with abnormal kurtosis and DTI parameter values
+in post-stroke brain suggest that kurtosis parameters may indeed be
+sensitive to microstructural environments that would have little inﬂuence on DTI parameters and vice versa. Nevertheless, certain brain regions, particularly in the ipsilateral basal ganglia, displayed strong
+overlap between kurtosis and DTI parameter abnormalities. Moreover,
+regions highlighted by abnormal kurtosis parameter values often
+encompassed regions highlighted by abnormal FA and MD. Our results
+therefore seem to indicate that kurtosis parameters inform on microstructural environments that may not inﬂuence DTI parameters, as
+well as provide enhanced sensitivity to structural changes that may
+
+based on kurtosis parameters. These areas included the a priori selected
+regions for ROI analysis, but also exposed other areas, displaying
+the spatial extent to which the brain may structurally remodel after
+stroke. Moreover, abnormal regions highlighted by kurtosis and tensor
+parameters did not necessarily overlap, which indicates that kurtosis
+parameters could be sensitive to certain microstructural characteristics
+that would not inﬂuence DTI parameters.
+Immunohistochemical analysis of various cellular features to identify the histological origins of the DKI and DTI contrasts indicated inconsistent association between MRI contrasts and histological stains in
+the contralateral- and the stroke-affected ipsilateral hemisphere. The
+substantial differences in the association between histology and MR
+parameters depending on the hemisphere under study call for careful
+interpretation of such results.
+DKI vs DTI: Enhanced sensitivity or unique information?
+Previous studies that compared DKI with DTI have concluded that
+DKI parameters either provide increased sensitivity for diffusion
+
+GFAP
+
+LFB
+
+APP
+
+NeuN
+
+OX42
+
+FA Map with ROI
+
+Fig. 6. Example of histological images at the whole slice level, from one of the brain samples, along with ROIs chosen for correlation analysis superimposed on FA map corresponding to the
+same slice in MR acquisitions (il: ipsilateral; cl: contralateral).
+
+370
+
+S. Umesh Rudrapatna et al. / NeuroImage 97 (2014) 363–373
+
+il Aβ
+
+il CSPG
+
+il GFAP
+
+il NFH
+
+il LFB
+
+cl Aβ
+
+cl CSPG
+
+cl GFAP
+
+cl NFH
+
+cl LFB
+
+il NeuN
+
+il OX42
+
+il EBA
+
+il APP
+
+il HTX
+
+cl NeuN
+
+cl OX42
+
+cl EBA
+
+cl APP
+
+cl HTX
+
+Fig. 7. Magniﬁed (40×) images obtained with various histological stains from ipsilateral (il) and contralateral (cl) perilesional cortex, corresponding to the cortical regions marked in Fig. 6.
+
+also be detected with DTI parameters. In this context, it is important to
+mention that we also found a few regions highlighted by DTI parameter
+abnormalities without DKI parameter abnormalities. However, given
+that DKI data also provide DTI information, it would be possible to detect these regions with DKI ﬁtting, as we have conﬁrmed by comparison
+of FA and MD calculations from DTI- and DKI-based measurements.
+Thus, the application of DKI to assess (changes in) brain tissue structure
+can provide a unique set of parameters whose combined range of microstructural sensitivity forms a superset of that provided by DTI.
+Correlation between MR diffusion parameters and histological features
+In order to establish the relationship between various diffusion
+contrasts and underlying histological characteristics, an informed
+choice of immunohistochemical stainings was made based on various
+cellular features that allow characterization of post-stroke tissue status.
+The immunohistochemical data showed clear signs of neuronal
+
+degeneration (reduced NeuN and NFH), synaptic deterioration (reduced APP), myelin loss (reduced LFB), gliosis (increased GFAP), inﬂammatory cell activation (increased OX42), scar formation (increased
+CSPGs) and extracellular modiﬁcations (increased Aβ) in perilesional tissue, in line with previous studies (Andsberg et al., 1988; Bidmon et al.,
+1998; Davies et al., 1998; Irving et al., 2001; van Groen et al., 2005). Although we measured signiﬁcant associations between various diffusion
+parameters (including kurtosis parameters) and histological features,
+we found that most of the correlations were not unequivocally
+parameter-speciﬁc. e.g., NeuN was found to correlate signiﬁcantly with
+most diffusion parameters. While we did ﬁnd exceptions, e.g., signiﬁcant
+correlations between OX42 and ParK, NeuN, CSPG and OX42 with MK, the
+lack of agreement between ipsi- and contralateral tissues underscores
+the complexity of the relationship(s) between tissue architecture and
+diffusion behavior.
+Astrogliosis, identiﬁed by increased GFAP expression, has been associated earlier with increases in kurtosis-related parameters (Zhuo et al.,
+
+371
+
+Degree of Staining
+
+S. Umesh Rudrapatna et al. / NeuroImage 97 (2014) 363–373
+
+Contra only
+
+Ipsi only
+
+Contra - Ipsi
+
+Gabor Amplitude
+
+Contra & Ipsi
+
+Fig. 8. Signiﬁcant associations (p b 0.05) between MRI-based diffusion parameters and histological stainings using Kendall's-τ test from all ipsi- and contralateral data (‘Contra & Ipsi’),
+with data from only the contralateral (‘Contra Only’) or the ipsilateral side (‘Ipsi Only’), or with the difference of values in bilaterally homologous regions (‘Contra–Ipsi’). Top row: results
+from analysis using degree of staining (DoS), Bottom row: results from analysis using Gabor-amplitude vectors (GA). In the DoS results, various colors indicate the Kendall's τ coefﬁcient
+and the numbers in the boxes represent the signiﬁcance (p-values). For GA-based analysis, the number in the boxes represents the total number of length-scales (out of 10) that showed
+signiﬁcant (p b 0.05) associations.
+
+2012). Zhuo et al. (2012) reported increased contralateral expression of
+GFAP and increased MK in the same regions seven days after induction
+of traumatic brain injury. We found no such signiﬁcant association in
+our data. However, we do ﬁnd a strong positive correlation between
+ParK and to a lesser extent, MK, with OX42, a marker for microglia
+and macrophages (Hughes et al., 2010), in the contralateral hemisphere
+(Fig. 8). The differences in the nature of injuries under study (7 days
+after traumatic brain injury, i.e. in the subacute phase vs chronic state
+8 weeks after stroke) could explain the differing observations.
+While our results indicate that diffusion parameters in the relatively
+unaffected contralateral brain tissue are more straightforwardly associated with underlying tissue structure, data from the ipsilateral hemisphere
+reﬂect loss of such a correlation in the case of signiﬁcant tissue abnormality as a result of stroke injury. This brings us to the question as to whether
+diffusion-related contrasts should, for some reason, be expected to show
+speciﬁc behavior vis-a-vis histological stainings at all, and if so why?
+From the perspective of MRI acquisition, diffusion-weighted scans
+probe tissue microstructure. The fact that diffusion signal is mostly
+inﬂuenced by the structural organization of the different tissue
+constituents rather than by the sheer amount of different substances is
+fairly well established (Basser, 1995). The diffusion-weighted signal
+from a voxel of MRI data represents the summation of the effects
+that all the microstructures in that voxel have on diffusing water
+molecules. However, many different micro-environments may lead to
+similar diffusion-weighted signals, making it a many-to-one mapping
+(Mulkern et al., 2009; Wang et al., 2011; Yablonskiy and Sukstanskii,
+2010). Besides, the obtained voxel signal is an average of all such microstructural effects. Thus, the inverse problem of teasing out the sources
+from diffusion-weighted signals is complicated, unless, only few microstructures dominate the signal formation process. Hence, unless one of
+the constituents depicted by the stains had the most profound inﬂuence
+
+on the diffusion signal and the rest in combination or otherwise had
+none, results from such an analysis would be hard to interpret.
+We attempted to satisfy this constraint by restricting analysis to a small
+3 × 3 voxel grid of MR data and sub-voxel-sized histology sections.
+The picture from the perspective of cerebral changes that continue
+to manifest into chronic stages after stroke is not a simple one either.
+Processes like neuronal degeneration, neuronal plasticity, reactive
+astrogliosis, extracellular matrix modiﬁcation, glial scar formation, etc.,
+occurring in concert or independently, dynamically alter the (micro)
+structural status of remodeling brain tissue during recovery from stroke.
+However their effect on MR diffusion signals can be different, or sometimes even similar. Given the difﬁculty in disentangling the sources of
+diffusion-based signals, associating speciﬁc diffusion parameter changes to particular biological processes is even more fraught with difﬁculties, unless at most a few dominant biological processes are at play.
+Thus, the myriad pathological and plastic processes in post-stroke
+brain, combined with the non-speciﬁc nature of MR diffusion signal
+formation, should be carefully taken into account when interpreting
+changes on DTI/DKI-based tissue maps.
+Our proposed approach at quantifying the relationship between MRI
+and histology data based on length-scale decomposition does seem to
+elicit several correlations which would otherwise go undetected. Eventually, approaches such as the one proposed here, or recently proposed
+by Budde and Frank (2012), may improve our understanding of the
+interaction between diffusion parameter changes and the underlying
+tissue microstructure.
+Limitations of the study
+The process of brain reorganization continues for weeks after stroke,
+leading to structural changes in the ipsilateral as well as contralateral
+
+372
+
+S. Umesh Rudrapatna et al. / NeuroImage 97 (2014) 363–373
+
+hemispheres (Overman and Carmichael, 2014). Discrete structural
+changes of neurons and astrocytes have been observed in the contralateral hemisphere, accompanied by changes in the morphology of
+dendritic spines (Takatsuru et al., 2014), at least until the early chronic
+phase. Pathological changes can also result from secondary neurodegeneration as a consequence of axonal and trans synaptic degeneration
+(Zhang et al., 2012), even at chronic time points. Thus, the assertion that
+the contralateral brain tissue would be near normal at 56 days after
+large unilateral stroke in rats may need more careful considerations.
+However, that assumption is not critical for the conclusions drawn in
+this study, since we were mostly interested in eliciting hemispheric
+differences, rather than their actual causes and changes from baseline.
+Another limitation is the fact that the diffusion properties were derived from ﬁxed brain samples, which may differ from in-vivo brains.
+Nevertheless, comparable values of diffusion anisotropy measures
+have been reported for ﬁxed and in-vivo brain tissue (Guilfoyle et al.,
+2003; Sun et al., 2003).
+Lastly, among all the possible sets of DTI and DKI parameters that
+could have been considered for the study, we have used those that
+are commonly reported in applied diffusion studies. Whether the observations on these sets of parameters can be generalized to other parameters, remains to be shown.
+Acknowledgments
+We are grateful to the following funding agencies for supporting this
+research. Utrecht University's High Potential program; The European
+Union's Seventh Framework Programme (FP7/2007–2013) under
+grant agreements no. 201024 and no. 202213 (European Stroke
+Network); The Swedish Research Council (No. 2008-3134); The
+Swedish Brain Fund and the Wachtmeister Foundation.
+Appendix A. Immunohistochemical staining procedures
+Paraformaldehyde-ﬁxed, free ﬂoating brain sections were rinsed
+three times in phosphate buffered saline (PBS). Endogenous peroxide
+was quenched with 10% hydrogen peroxide and 10% methanol in PBS
+for 15 min. After blocking in PBS containing 0.25% Triton X-100 and
+5% normal donkey serum (NDS; Jackson ImmunoResearch, Suffolk,
+UK), sections were incubated at 4 °C overnight with primary antibodies
+listed in Table A1 diluted in PBS containing 5% NDS and 0.25% Triton
+X-100 (PBS/Tx). On the following day, sections were washed three
+times in PBS with 2% NDS and 0.25% Triton X-100, and incubated with
+a biotinylated donkey anti-mouse IgG (Jackson ImmunoResearch, dilution 1:400) at room temperature for 90 min. Signals were ampliﬁed
+using the Vectastain ABC Kit (Vector Labs, Burlingame, CA, USA).
+For Luxol Fast Blue (LFB) staining, 1% Solvent Blue solution was prepared by dissolving 0.2 g Solvent Blue 38 in 200 mL 95% alcohol and
+then 1 mL of 10% acetic acid was added. Free ﬂoating sections were
+rinsed in PBS and thereafter mounted to positively charged glass slides
+and dried. After dehydration, sections were placed in the Solvent Blue
+solution and incubated at 56 °C for 16 h. Slides were then rinsed in
+95% alcohol and distilled water followed by differentiation in lithium
+
+carbonate solution for 25 min and 70% alcohol for 20 s. Thereafter, the
+slides were dehydrated and mounted with Pertex Mounting Medium.
+For Hematoxylin (HTX) staining, paraformaldehyde ﬁxed, free
+ﬂoating sections were washed in PBS and then put on positively charged
+glass slides to dry. Slides were then rinsed in distilled water for
+2 × 5 min and then put in Mayer's Hematoxylin Solution for 5 min.
+After a short rinse in distilled water, slides were put in running tap
+water for 5 min followed by 5 min in Scott's Tap Water Substitute.
+After another 5 min in tap water the slides were rinsed in 2 × 2 min distilled water. The slides were then dehydrated in increasing concentrations of alcohol (95% and 99.5%) and after a ﬁnal 2 × 5 min rinse in
+Xylene mounted with Pertex Mounting Medium (Histolab, Gothenburg,
+Sweden).
+Appendix B. Supplementary data
+Supplementary data to this article can be found online at http://dx.
+doi.org/10.1016/j.neuroimage.2014.04.013.
+References
+Andsberg, G., Kokaia, Z., Björklund, A., Lindvall, O., Martinez-Serrano, A., 1988. Amelioration of ischaemia-induced neuronal death in the rat striatum by NGF-secreting neural
+stem cells. Eur. J. Neurosci. 10, 2026–2036.
+Avants, B.B., Epstein, C.L., Grossman, M., Gee, J.C., 2008. Symmetric diffeomorphic image
+registration with cross-correlation: evaluating automated labeling of elderly and
+neurodegenerative brain. Med. Image Anal. 12, 26–41.
+Basser, P.J., 1995. Inferring microstructural features and the physiological state of tissues
+from diffusion-weighted images. NMR Biomed. 333–344.
+Beaulieu, C., 2002. The basis of anisotropic water diffusion in the nervous system — a
+technical review. NMR Biomed. 15, 435–455.
+Bidmon, H.J., Jancsik, V., Schleicher, A., Hagemann, G., Witte, O.W., Woodhams, P., Zilles, K.,
+1998. Structural alterations and changes in cytoskeletal proteins and proteoglycans
+after focal cortical ischemia. Neuroscience 82, 397–420.
+Blockx, I., Groof, G.D., Verhoye, M., Audekerke, J.V., Raber, K., Poot, D., Sijbers, J., Osmand,
+A.P., Hörsten, S.V., der Linden, A.V., 2012. Microstructural changes observed with DKI
+in a transgenic Huntington rat model: evidence for abnormal neurodevelopment.
+NeuroImage 59, 957–967.
+Budde, M.D., Frank, J.A., 2012. Examining brain microstructure using structure tensor
+analysis of histological sections. NeuroImage 63, 1–10.
+Chang, C.C., Lin, C.J., 2011. LIBSVM: a library for support vector machines. ACM Trans.
+Intell. Syst. Technol. 2, 27:1–27:27 (Software available at http://www.csie.ntu.edu.
+tw/cjlin/libsvm).
+Cheung, M.M., Hui, E.S., Chan, K.C., Helpern, J.A., Qi, L., Wu, E.X., 2009. Does diffusion kurtosis imaging lead to better neural tissue characterization? A rodent brain maturation
+study. NeuroImage 45, 386–392.
+Cheung, J.S., Wang, E., Lo, E.H., Sun, P.Z., 2012. Stratiﬁcation of heterogeneous diffusion
+MRI ischemic lesion with kurtosis imaging: evaluation of mean diffusion and kurtosis
+MRI mismatch in an animal model of transient focal ischemia. Stroke 43, 2252–2254.
+Chung, C.C., Jen, L.C., 2002. Training v-support vector regression: theory and algorithms.
+Neural Comput. 14, 1959–1977 (Software available at http://www.csie.ntu.edu.tw/
+cjlin/libsvm).
+Cook, P.A., Symms, M., Boulby, P.A., Alexander, D.C., 2007. Optimal acquisition orders of
+diffusion-weighted MRI measurements. J. Magn. Reson. Imaging 25, 1051–1058.
+D'Arceuil, H.E., Westmoreland, S., de Crespigny, A.J., 2007. An approach to high resolution
+diffusion tensor imaging in ﬁxed primate brain. NeuroImage 35, 553–565.
+Davies, C.A., Loddick, S.A., Stroemer, R.P., Hunt, J., NJ R., 1998. An integrated analysis of
+the progression of cell responses induced by permanent focal middle cerebral artery
+occlusion in the rat. Exp. Neurol. 154, 199–212.
+Dijkhuizen, R.M., van der Marel, K., Otte, W.M., Hoff, E.I., van der Zijden, J.P., van der
+Toorn, A., van Meer, M.P.A., 2012. Functional MRI and diffusion tensor imaging of
+brain reorganization after experimental stroke. Transl. Stroke Res. 3, 36–43.
+Floyd, C.L., 2012. Animal models of acute neurological injuries II. Springer Protocols
+Handbooks.
+
+Table A1
+Monoclonal antibodies used for immunohistochemical stainings.
+Antibody
+
+Source
+
+Clone
+
+Dilution
+
+Amyloid precursor protein (APP)
+Beta amyloid (Aβ)
+Chondroitin sulfate proteoglycan (CSPG) (mouse)
+Glial ﬁbrillary acidic protein (GFAP)
+Neuronal nuclei (NeuN)
+Anti-CD11b (OX42) (mouse)
+Neuroﬁlament H non-phosphorylated (NFH)
+Endothelial barrier antigen (EBA)
+
+Merck Millipore
+Covance
+Merck Millipore
+Sigma Aldrich
+Merck Millipore
+AbD Serotec
+Covance
+Covance
+
+22C11
+6E10
+Cat-315
+G-A-5
+A60
+
+1:1500
+1:3000
+1:3000
+1:5000
+1:1500
+1:800
+1:10,000
+1:1000
+
+SMI 32
+SMI 71
+
+S. Umesh Rudrapatna et al. / NeuroImage 97 (2014) 363–373
+Gao, Y., Zhang, Y., Wong, C.S., Wu, P.M., Zhang, Z., Gao, J., Qiu, D., Huang, B., 2012. Diffusion
+abnormalities in temporal lobes of children with temporal lobe epilepsy: a preliminary diffusional kurtosis imaging study and comparison with diffusion tensor
+imaging. NMR Biomed. 25, 1369–1377.
+Gooijers, J., Leemans, A., Cauter, S.V., Sunaert, S., Swinnen, S.P., Caeyenberghs, K., 2013.
+White matter organization in relation to upper limb motor control in healthy
+subjects: exploring the added value of diffusion kurtosis imaging. Brain Struct.
+Funct. http://dx.doi.org/10.1007/s00429-013-0590-y.
+Grinberg, F., Ciobanu, L., Farrher, E., Shah, N.J., 2012. Diffusion kurtosis imaging and lognormal distribution function imaging enhance the visualisation of lesions in animal
+stroke models. NMR Biomed. 25, 1295–1304.
+Grossman, E.J., Ge, Y., Jensen, J.H., Babb, J.S., Miles, L., Reaume, J., Silver, J.M., Grossman, R.I.,
+Inglese, M., 2012. Thalamus and cognitive impairment in mild traumatic brain injury:
+a diffusional kurtosis imaging study. J. Neurotrauma 29, 2318–2327.
+Guilfoyle, D.N., Helpern, J.A., Lim, K.O., 2003. Diffusion tensor imaging in ﬁxed brain tissue
+at 7.0 T. NMR Biomed. 16, 77–81.
+Hughes, J.L., Beech, J.S., Jones, P.S., Wang, D., Menon, D.K., Baron, J.C., 2010. Mapping selective neuronal loss and microglial activation in the salvaged neocortical penumbra in
+the rat. NeuroImage 49, 19–31.
+Hui, E.S., Cheung, M.M., Qi, L., Wu, E.X., 2008. Towards better MR characterization of
+neural tissues using directional diffusion kurtosis analysis. NeuroImage 42, 122–134.
+Hui, E.S., Du, F., Huang, S., Shen, Q., Duong, T.Q., 2012a. Spatiotemporal dynamics of diffusional kurtosis, mean diffusivity and perfusion changes in experimental stroke. Brain
+Res. 1451, 100–109.
+Hui, E.S., Fieremans, E., Jensen, J.H., Tabesh, A., Feng, W., Bonilha, L., Spampinato, M.V.,
+Adams, R., Helpern, J.A., 2012b. Stroke assessment with diffusional kurtosis imaging.
+Stroke 43, 2968–2973.
+Irving, E.A., Bentley, D.L., Parsons, A.A., 2001. Assessment of white matter injury following
+prolonged focal cerebral ischemia in the rat. Acta Neuropathol. 102, 627–635.
+Jensen, J.H., Helpern, J.A., 2010. MRI quantiﬁcation of non-Gaussian water diffusion by
+kurtosis analysis. NMR Biomed. 23, 698–710.
+Jensen, J.H., Helpern, J.A., Ramani, A., Lu, H., Kaczynski, K., 2005. Diffusional kurtosis
+imaging: the quantiﬁcation of non-Gaussian water diffusion by means of magnetic
+resonance imaging. Magn. Reson. Med. 53, 1432–1440.
+Kovesi, P., 1999. Image features from phase congruency. J. Comput. Vis. Res. 1.
+Lu, H., Jensen, J.H., Ramani, A., Helpern, J.A., 2006. Three-dimensional characterization of
+non-Gaussian water diffusion in humans using diffusion kurtosis imaging. NMR
+Biomed. 19, 236–247.
+Manohar, K., Wang, Y.F., Kalasannavar, V., Khan, M., Rajpoot, N., 2011. Local isotropic phase
+symmetry measure for detection of beta cells and lymphocytes. J. Pathol. Inform. 2.
+Memezawa, H., Minamisawa, H., Smith, M.L., Siesjö, B.K., 1992. Ischemic penumbra in a
+model of reversible middle cerebral artery occlusion in the rat. Exp. Brain Res. 89, 67–78.
+Mulkern, R.V., Haker, S.J., Maier, S.E., 2009. On high b diffusion imaging in the human
+brain: ruminations and experimental insights. Magn. Reson. Imaging 27, 1151–1162.
+Naik, S., Doyle, S., Agner, S., Madabhushi, A., Feldman, M., Tomaszewski, J., 2008.
+Automated gland and nuclei segmentation for grading of prostate and breast cancer
+histopathology. IEEE International Symposium on Biomedical Imaging (ISBI).
+Otsu, N., 1979. A threshold selection method from gray-level histograms. IEEE Trans. Syst.
+Man Cybern. B 9, 62–66.
+Overman, J.J., Carmichael, S.T., 2014. Plasticity in the injured brain: more than molecules
+matter. The Neuroscientist 20, 15–28.
+Raab, P., Hattingen, E., Franz, K., Zanella, F.E., Lanfermann, H., 2010. Cerebral gliomas:
+diffusional kurtosis imaging analysis of microstructural differences. Neuroradiology
+254, 876–881.
+Schaarschmidt, F., Gerhard, D., 2009. pairwiseCI: conﬁdence intervals for two sample
+comparisons, version 0.1-19, r package. http://cran.r-project.org/web/packages/
+pairwiseCI/index.html.
+
+373
+
+Schaechter, J.D., Moore, C.I., Connell, B.D., Rosen, B.R., Dijkhuizen, R.M., 2006. Structural
+and functional plasticity in the somatosensory cortex of chronic stroke patients.
+Brain 129, 2722–2733.
+Sotak, C.H., 2002. The role of diffusion tensor imaging in the evaluation of ischemic brain
+injury — a review. NMR Biomed. 15, 561–569.
+Sun, S.W., Neil, J.J., Song, S.K., 2003. Relative indices of water diffusion anisotropy are
+equivalent in live and formalin-ﬁxed mouse brains. Magn. Reson. Med. 50, 743–748.
+Sundgren, P.C., Dong, Q., Gomez-Hassan, D., Mukherji, S.K., Maly, P., Welsh, R., 2004.
+Diffusion tensor imaging of the brain: review of clinical applications. Neuroradiology
+46, 339–350.
+Szczepankiewicz, F., Lätt, J., Wirestam, R., Leemans, A., Sundgren, P., van Westen, D.,
+Stå̊hlberg, F., Nilsson, M., 2013. Variability in diffusion kurtosis imaging: impact on
+study design, statistical power and interpretation. NeuroImage 76, 145–154.
+Tabesh, A., Jensen, J.H., Ardekani, B.A., Helpern, J.A., 2011. Estimation of tensors and tensorderived measures in diffusional kurtosis imaging. Magn. Reson. Med. 65, 823–836.
+Takatsuru, Y., Nabekura, J., Koibuchi, N., 2014. Contribution of neuronal and glial circuit in intact hemisphere for functional remodeling after focal ischemia. Neurosci. Res. 78, 38–44.
+Tournier, J.D., Mori, S., Leemans, A., 2011. Diffusion tensor imaging and beyond. Magn.
+Reson. Med. 65, 1532–1556.
+van Cauter, S., Veraart, J., Sijbers, J., Peeters, R.R., Himmelreich, U., Keyzer, F.D., Gool, S.W.
+V., Calenbergh, F.V., Vleeschouwer, S.D., Hecke, W.V., Sunaert, S., 2012. Gliomas:
+diffusion kurtosis MR imaging in grading. Radiology 263, 492–501.
+van Groen, T., Puurunen, K., Mäki, H.M., Sivenius, J., Jolkkonen, J., 2005. Transformation of
+diffuse beta-amyloid precursor protein and beta-amyloid deposits to plaques in the
+thalamus after transient occlusion of the middle cerebral artery in rats. Stroke 36,
+1551–1556.
+van Meer, M.P.A., Otte, W.M., van der Marel, K., Nijboer, C.H., Kavelaars, A., van der
+Sprenkel, J.W.B., Viergever, M.A., Dijkhuizen, R.M., 2012. Extent of bilateral neuronal
+network reorganization and functional recovery in relation to stroke severity. J. Neurosci.
+13, 4495–4507.
+Vanhoutte, G., Pereson, S., Delgado y Palacios, R., Guns, P.J., Asselbergh, B., Veraart, J.,
+Sijbers, J., Verhoye, M., Van Broeckhoven, C., Van der Linden, A., 2013. Diffusion
+kurtosis imaging to detect amyloidosis in an APP/PS1 mouse model for Alzheimer's
+disease. Magn. Reson. Med. 69, 1115–1121.
+Veraart, J., Van Hecke, W., Sijbers, J., 2011. Constrained maximum likelihood estimation of the
+diffusion kurtosis tensor using a Rician noise model. Magn. Reson. Med. 66, 678–686.
+Veraart, J., Sijbers, J., Sunaert, S., Leemans, A., Jeurissen, B., 2013. Weighted linear least
+squares estimation of diffusion MRI parameters: strengths, limitations, and pitfalls.
+NeuroImage 81, 335–346.
+Vos, S.B., Jones, D.K., Viergever, M.A., Leemans, A., 2011. Partial volume effect as a hidden
+covariate in DTI analyses. NeuroImage 55, 1566–1576.
+Vos, S.B., Jones, D.K., Jeurissen, B., Viergever, M.A., Leemans, A., 2012. The inﬂuence of
+complex white matter architecture on the mean diffusivity in diffusion tensor MRI
+of the human brain. NeuroImage 59, 2208–2216.
+Wang, Y., Wang, Q., Haldar, J.P., Yeh, F.C., Xie, M., Sun, P., Tu, T.W., Trinkaus, K., Klein, R.S.,
+Cross, A.H., Song, S.K., 2011. Quantiﬁcation of increased cellularity during inﬂammatory
+demyelination. Brain 134, 3590–3601.
+Wu, E.X., Cheung, M.M., 2010. MR diffusion kurtosis imaging for neural tissue characterization. NMR Biomed. 23, 836–848.
+Yablonskiy, D.A., Sukstanskii, A.L., 2010. Theoretical models of the diffusion weighted MR
+signal. NMR Biomed. 23, 661–681.
+Zhang, J., Zhang, Y., Xing, S., Liang, Z., Zeng, J., 2012. Secondary neurodegeneration in
+remote regions after focal cerebral infarction: a new target for stroke management?
+Stroke 43, 1700–1705.
+Zhuo, J., Xu, S., Proctor, J.L., Mullins, R.J., Simon, J.Z., Fiskum, G., Gullapalli, R.P., 2012.
+Diffusion kurtosis as an in vivo imaging marker for reactive astrogliosis in traumatic
+brain injury. NeuroImage 59, 467–477.
+
+

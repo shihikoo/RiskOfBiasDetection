@@ -1,0 +1,675 @@
+Experimental Neurology 272 (2015) 160–169
+
+Contents lists available at ScienceDirect
+
+Experimental Neurology
+journal homepage: www.elsevier.com/locate/yexnr
+
+Sphingosine kinase 1 mediates neuroinﬂammation following
+cerebral ischemia
+Shuli Zheng a,b,1, Shanwen Wei a,1, Xiaoyu Wang c, Yingxiu Xu a, Yunqi Xiao a, Hui Liu a, Jia Jia c,⁎, Jian Cheng a,⁎⁎
+a
+b
+c
+
+Jiangsu Key Laboratory of Translational Research and Therapy for Neuro-Psycho-Diseases and Institute of Neuroscience, Soochow University, Suzhou, China
+Department of Skin & Cosmetic Research, Shanghai Skin Disease Hospital, Shanghai, China
+College of Pharmaceutical Sciences, Soochow University, Suzhou, China
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 17 December 2014
+Revised 10 March 2015
+Accepted 13 March 2015
+Available online 19 March 2015
+Keywords:
+Cerebral ischemia
+Sphingosine kinase 1
+Neuroinﬂammation
+Microglia
+
+a b s t r a c t
+Sphingosine kinases (Sphks) are the rate-limiting kinases in the generation of sphingosine-1-phosphate, which is
+a well-established intracellular pro-survival lipid mediator. Sphk2 has been reported to be protective following
+experimental stroke. We investigated the role of Sphk1 in cerebral ischemia using a mouse middle cerebral artery
+occlusion (MCAO) model and an in vitro glucose–oxygen deprivation (OGD) model. Sphk expression and activity
+were assessed in the ischemic brain with quantitative PCR (qPCR), Western blot, immunohistochemistry and
+enzyme-linked immunosorbent assay (ELISA). Pharmacological and gene knockdown approaches were utilized
+to investigate the effects of Sphk1 on stroke outcomes. The expression of Sphk1 but not that of Sphk2 was rapidly
+induced in the cortical penumbra over 96 h after MCAO, and the microglia were one of the major cellular sources
+of Sphk1 induction. Consistently, Sphk activity was enhanced in the cortical penumbra. In contrast to the protective role of Sphk2, pharmacological inhibition and cortical knockdown of Sphk1 reduced infarction at 24 and 96 h
+after reperfusion. Additionally, the Sphk1 inhibitor improved the neurological deﬁcits at 96 h after reperfusion.
+Mechanistically, Sphk1 inhibition and knockdown signiﬁcantly attenuated MCAO-induced expression of inﬂammatory mediators in the cortical penumbra. Moreover, using a conditioned medium transfer approach, we demonstrated that OGD-treated neurons induced the expression of Sphk1 and pro-inﬂammatory mediators in
+primary microglia, and the microglial induction of pro-inﬂammatory mediators by ischemic neurons was blunted
+by Sphk1 inhibition. Taken together, our results indicate that Sphk1 plays an essential role in mediating poststroke neuroinﬂammation.
+© 2015 Elsevier Inc. All rights reserved.
+
+Introduction
+Sphingosine kinases 1 and 2 (Sphk1 and Sphk2) convert sphingosine
+into sphingosine-1-phosphate (S1P) and are the rate-limiting enzymes
+in the process of endogenous S1P generation (Bryan et al., 2008). S1P,
+both as an extracellular signaling molecule via G-protein coupled
+receptors and as an intracellular signaling molecule, plays essential
+roles in regulating cell proliferation, apoptosis, adhesion and migration
+(Hofmann et al., 2008; Neubauer and Pitson, 2013; Shida et al., 2008).
+Speciﬁcally, the Sphk2/S1P axis has emerged as an important player in
+cerebral ischemia (Pfeilschifter et al., 2011). The expression of Sphk2
+but not that of Sphk1 is enhanced by a short-duration of ischemia that
+induces preconditioning protection (Blondeau et al., 2007; Wacker
+
+⁎ Correspondence to: J. Jia, College of Pharmaceutical Sciences, Soochow University,
+China.
+⁎⁎ Correspondence to: J. Cheng, Institute of Neuroscience, Soochow University, 199 Renai
+Road, Suzhou, Jiangsu 215123, China.
+E-mail addresses: jialijia8@sina.com (J. Jia), jiancheng8@hotmail.com (J. Cheng).
+1
+Authors contributed to the work equally.
+
+http://dx.doi.org/10.1016/j.expneurol.2015.03.012
+0014-4886/© 2015 Elsevier Inc. All rights reserved.
+
+et al., 2009). Consequently, the induction of Sphk2 by isoﬂurane or
+hypoxic preconditioning acts through neuronal and microvascular
+mechanisms to mediate ischemic tolerance (Wacker et al., 2009, 2012a,
+b; Yung et al., 2012). Moreover, the sphingosine analog ﬁngolimod
+(FTY720), which is speciﬁcally phosphorylated by Sphk2, confers protection in rodent stroke models in a Sphk2-dependent manner (Wei et al.,
+2011; Yung et al., 2012). Additionally, Sphk2 knockout mice exhibit larger infarcts compared to wild-type littermates (Pfeilschifter et al., 2011).
+Although accumulating evidence suggests that Sphk2 is essential for
+brain protection following stroke, we currently know very little about
+the role of Sphk1 following ischemic stroke. Sphk1 and Sphk2 might
+not play redundant roles as suggested by their tissue-speciﬁc expression
+patterns and differential sub-cellular localizations (Blondeau et al.,
+2007). Speciﬁcally, increasing evidence suggests that Sphk1 and its
+product S1P are essential mediators of the inﬂammatory responses induced by various inﬂammatory stimuli (Dixon et al., 2012; Herrera
+et al., 2007; van Leyen et al., 2005). Thus, in contrast to the protective
+role of Sphk2, Sphk1 possibly exacerbates stroke outcomes via a proinﬂammatory mechanism. We tested the hypothesis in this study and
+provided evidence suggesting that Sphk1 plays a deleterious role
+
+S. Zheng et al. / Experimental Neurology 272 (2015) 160–169
+
+following cerebral ischemia by acting as an important mediator of poststroke neuroinﬂammation.
+
+Methods
+Mouse model of transient focal cerebral ischemia
+All animal protocols were conducted according to the regulations of
+the Laboratory Animal Care of Soochow University. Male CD-1 mice (8to 9-week-old) were purchased from the SLAC Company (Shanghai,
+China). Middle cerebral artery occlusion (MCAO) was induced in the
+mice using an intraluminal monoﬁlament technique as described previously (Wang et al., 2014; Zhu et al., 2010). Brieﬂy, the mice were anesthetized with isoﬂurane. A laser probe was afﬁxed to the mouse skull to
+monitor cortical perfusion (Periﬂux System 5000, PERIMED Inc.,
+Stockholm, Sweden). For the MCA occlusion, the tip of a nylon thread
+(6-0) was heat-blunted and further coated with silicon. The thread was
+introduced into the right internal carotid artery through the right external
+carotid artery. The thread was advanced until the tip of the thread
+reached the origin of the middle cerebral artery as evidenced by an abrupt
+drop in cortical perfusion. After 60 min of occlusion, the thread was withdrawn to allow reperfusion. The mice that displayed cortical perfusions
+below 25% of the baseline value during the occlusion and cortical reperfusion exceeding 75% of the baseline were included. Sham surgeries were
+performed exactly as the MCAO procedures were conducted with the exception of the thread insertion. Body temperatures were maintained at
+37 ± 0.5 °C with a heating lamp during the MCAO surgeries.
+Animal groups
+To investigate post-MCAO induction of Sphk1, mice were subjected to
+1 h of MCAO and brain tissue was harvested at 6, 12, 24, 48, 72 and 96 h
+after reperfusion for qPCR assessment of Sphk1 or Sphk2 mRNA levels
+(n = 4 for each point). Brain tissue was also harvested at 6, 12, 24 and
+48 h after reperfusion for Western blot analysis of post-ischemic induction of Sphk1 protein (n = 5 for each time point). To investigate the effects of post-ischemic induction of Sphk1 on stroke outcomes, mice
+were randomly divided into the following groups: the mice receiving vehicle or the Sphk1 inhibitor 5C at 3 h after reperfusion (n = 8 for infarction analysis at 24 h and n = 13 for infarction and behavioral analysis at
+96 h after reperfusion) and mice receiving intracerebroventricular (ICV)
+injection of nonsense (NS) siRNA or Sphk1 siRNA and subsequent
+MCAO at 2 days after ICV injection (n = 10 for infarction analysis at
+24 h after reperfusion). To investigate the effects of Sphk1 inhibition or
+knockdown on post-MCAO neuroinﬂammation, qPCR assessment of
+pro-inﬂammatory mediators was performed on brain tissue harvested
+at 24 h after reperfusion from the cortexes of the mice receiving vehicle
+or the Sphk1 inhibitor 5C and the mice receiving ICV injection of NS or
+Sphk1 siRNA (n = 3–4).
+Drug administration
+At 3, 12, 24, 48 and 72 h after reperfusion, the mice were injected
+with 2 mg/kg of the Sphk1 inhibitor 5C (CAY10621, Cayman Chemical,
+Ann Arbor, MI, USA) via the tail vein. 5C is a selective inhibitor of
+Sphk1 (IC50 = 3.3 μM) that does not have inhibitory effects on Sphk2
+(Park et al., 2012; Wong et al., 2009). Speciﬁcally, the inhibitory effects
+of 5C on Sphk1 have been validated in an in vivo mouse model at the
+dose of 2 mg/kg (Tu et al., 2010). The inhibitor 5C was supplied as a
+methyl acetate solution. To prepare the 5C solution for intravenous injection, a vial containing 5C was exposed to a gentle stream of nitrogen
+until all of the methyl acetate solvent evaporated. Next, the 5C was
+dissolved in DMSO and further diluted with saline. Mice that received
+intravenous injections of vehicle (0.1% DMSO in saline) served as
+control animals.
+
+161
+
+Intracerebroventricular injection of siRNA
+The siRNA knockdown technique was used to reduce target gene
+expression in the cortical penumbra in the mouse MCAO model, as
+previously reported (Hayakawa et al., 2012). Brieﬂy, the mice were
+intracerebroventricularly injected with Sphk1 siRNA or NS siRNA at
+2 days before MCAO. The coordinates for the right lateral ventricle
+were 0.5 mm posterior to, 0.8 mm lateral to and 2.5 mm below bregma.
+The siRNA complexes were prepared according to the in vivo siRNA
+transfection protocol for brain delivery outlined in the PolyPlus Transfection reagent instructions (PolyPlus Transfection, IIIkirch, France).
+Each mouse was administered 2 μg of siRNA in a 4-μL mixture. The sequences of the siRNAs were as follows: Sphk1 sense strand (5′-GGGC
+AAGGCUCUGCAGCUCdTT-3′), and NS sense strand (5′-UAGGCGCAGC
+UCCGGAUCGdTT-3′).
+Quantitative PCR (qPCR)
+At the indicated time-points, samples were harvested from the cortical penumbral areas as described in our previous publication (Cheng
+et al., 2011) or from primary microglial cultures. Total RNA was isolated
+with TRIzol reagent (Invitrogen, Camarillo, CA, USA). cDNA was reverse
+transcribed from 1 μg of total RNA using a high-capacity cDNA synthesis
+kit (Applied Biosystems, Foster City, CA, USA). Real-time PCR was
+performed with the cDNA on a 7900HT Fast Real-Time PCR System
+(Applied Biosystems, Foster City, CA, USA) using the SYBR Green technique. The thermal cycling parameters for the qPCR were as follows: incubation at 50 °C for 2 min and 95 °C for 10 min, followed by 40 cycles at
+95 °C for 15 s and 60 °C for 1 min. The mRNA levels of the target genes
+were normalized to the 18S mRNA levels. The qPCR primers were as
+follows:
+Sphk1 forward primer: 5′-ACAGTGGGCACCTTCTTTC-3′
+Sphk1 reverse primer: 5′-CTTCTGCACCAGTGTAGAGGC-3′
+Sphk2 forward primer: 5′-CGGATGCCCATTGGTGTCCTC-3′
+Sphk2 reverse primer: 5′-TGAGCAACAGGTCAACACCGAC-3′
+iNOS forward primer: 5′-CAGGAGGAGAGAGATCCGATTTA-3′
+iNOS reverse primer: 5′-GCATTAGCATGGAAGCAAAGA-3′
+TNF-α forward primer: 5′-CTGAGGTCAATCTGCCCAAGTAC-3′
+TNF-α reverse primer: 5′-CTTCACAGAGCAATGACTCCAAAG-3′
+IL-1β forward primer: 5′-TGGAAAAGCGGTTTGTCTTC-3′
+IL-1β reverse primer: 5′-TACCAGTTGGGGAACTCTGC-3′
+IL-6 forward primer: 5′-GAGGATACCACTCCCAACAGACC-3′
+IL-6 reverse primer: 5′-AAGTGCATCATCGTTGTTCATACA-3′
+18S forward primer: 5′-TCAACACGGGAAACCTCAC-3′
+18S reverse primer: 5′-CGCTCCACCAACTAAGAAC-3′
+Western blot analysis
+The mice were decapitated at 6, 12, 24 and 48 h after reperfusion.
+The cortical tissues were harvested and homogenized on ice in RIPA
+lysis buffer (Millipore, Billerica, MA, USA) containing a protease inhibitor cocktail (Roche Diagnostics GmbH, Mannheim, Germany). The homogenates were centrifuged at 13,200 rpm for 20 min at 4 °C, and the
+supernatants were collected. The protein concentrations of the supernatants were determined using a BCA protein assay kit (Thermo Scientiﬁc,
+MA, USA). Equal amounts of denatured proteins (denatured at 95 °C for
+5 min) were electrophoresed on 10% Tris-glycine gels and transferred to
+a PVDF membrane. Next, the membrane was blocked in phosphatebuffered saline (PBS) containing 0.1% Tween-20 and 5% non-fat milk
+for 2 h at room temperature. The membranes were incubated with primary antibodies against Sphk1 (1:300, Abgent, San Diego, CA, USA) or
+β-actin (1:2000, Huaan Biotechnology Company, Hangzhou, China)
+overnight at 4 °C. Then, the membranes were washed and incubated
+with horseradish peroxidase-labeled secondary antibodies (1:2000,
+
+162
+
+S. Zheng et al. / Experimental Neurology 272 (2015) 160–169
+
+Table 1
+Mortality rate.
+Group
+
+Sham
+Vehicle
+5C
+NS siRNA
+Sphk1 siRNA
+
+Mortality
+(dead mice/total number)
+24-hour
+
+96-hour
+
+0/16
+5/23
+5/24
+5/20
+6/22
+
+/
+13/27
+12/25
+/
+/
+
+Cell Signaling Technology, Danvers, MA, USA) for 2 h at room temperature. The bands of protein were visualized by enhanced chemiluminescence (Millipore, Billerica, MA, USA), and the optical densities of the
+protein bands were analyzed using ImageJ software. The ﬁnal results
+are expressed as the ratios of the optical densities of Sphk1 to those of
+β-actin.
+Immunohistochemistry
+Under deep anesthesia, the mice that were subjected to MCAO
+were transcardially perfused with saline and 4% paraformaldehyde
+24 h after reperfusion. The brains were collected, post-ﬁxed in 4%
+
+paraformaldehyde and subsequently maintained in 30% sucrose solution overnight. Brain blocks that surrounded the ischemic lesion
+(+1.18 to −0.10 mm from bregma) were cut into 16-μm-thick coronal
+sections with a cryostat. After blocking with PBS containing 3% BSA, the
+sections were incubated at 4 °C overnight with the following primary
+antibodies: rabbit-anti-Sphk1 (Abgent, San Diego, CA, USA), mouseanti-NeuN (Millipore, Billerica, MA, USA), or goat anti-Iba1 (Abcam,
+Cambridge, UK). The expressions of Sphk1, NeuN and Iba1 were detected with secondary antibodies conjugated with AlexaFluor (Invitrogen,
+Carlsbad, CA, USA). The images were digitized with a Zeiss confocal microscope (Jena, Germany).
+
+Evaluation of infarct volumes
+The mice were decapitated under anesthesia 24 and 96 h after
+MCAO. The brains were collected and cut into 2-mm-thick coronal
+slices. The sections were stained using 1% 2, 3, 5-tripheyltetrazolium
+chloride (TTC, Sigma, St. Louis, MO) for 10 min at 37 °C and further
+ﬁxed in 10% paraformaldehyde solution for 24 h. The images were
+photographed, and the infarct volumes were analyzed across the sections with image analysis software. The hemispheric infarct volumes
+were also analyzed after correction for edema and expressed as
+corrected hemispheric infarction.
+
+Fig. 1. Sphk1 but not Sphk2 expression was induced following MCAO. A–B) Time courses of the Sphk1 and Sphk2 mRNA levels in the cortical penumbra and the contralateral cortex (n = 4).
+C) Representative images and a bar graph of the Western blot analysis of Sphk1 protein in the cortical penumbra following MCAO (n = 5). D) Colocalization of NeuN, Iba1 and Sphk1 expression in the cortical penumbra at 24 h following MCAO (scale bar: 50 μM). * P b 0.05, ** P b 0.01, vs. the contralateral side (Contra) and Sham. Ipsil: ipsilateral side.
+
+S. Zheng et al. / Experimental Neurology 272 (2015) 160–169
+
+Neurological deﬁcit assessment
+Neurological deﬁcits were evaluated 96 h after reperfusion in a
+blinded manner using the following 5-point neurological scoring system: 0, no neurological deﬁcit; 1, failure to extend the left forelimb
+fully when the mouse was lifted by the tail; 2, circling toward the contralateral side; 3, rolling or leaning to the contralateral side; 4, no spontaneous locomotor activity; and 5, death.
+
+163
+
+30 min. Next, ATP detector was added to stop the reactions, and the
+plates were maintained at room temperature for 10 min to stabilize
+the luminescent signal. Luminescence, which was negatively correlated
+with Sphk kinase activity, was recorded with a microplate Reader
+(FilterMax F5, Molecular devices, US). Kinase activities are expressed
+as the percentage of the kinase activity of the cortical samples collected
+from the sham-operated mice.
+Primary microglia cultures
+
+Sphk activity assay
+To determine the post-ischemic induction of Sphk activity, tissue
+samples were collected from the cortical penumbra of the mice at 6 h
+after reperfusion and from the corresponding regions of the shamoperated mice. To investigate whether Sphk1 siRNA and 5C blunted
+the post-ischemic induction of Sphk activity, Sphk1 siRNA or NS siRNA
+were injected 2 days before MCAO, and 5C or vehicle were administered
+3 h after reperfusion. Tissue samples were collected from the cortical
+penumbrae at 6 h after reperfusion. Sphingosine kinase activity was
+assessed using a commercial enzyme-linked immunosorbent assay
+(ELISA) kit (Echelon, Salt Lake City, UT, USA) per the manufacturer's instructions. Brieﬂy, cortical samples were lysed with 50 mM Tris buffer
+(pH = 7.5) containing 1 mM EDTA, 150 mM NaCl, 0.1% lauryl sulfate,
+0.5% deoxycholic acid and 1% Igepal CA-630. After centrifugation at
+13,200 rpm/min for 20 min, the supernatants were collected. The protein concentrations were determined with a commercial BCA kit
+(Pierce, Thermo Fisher Scientiﬁc, Rockford, IL, USA). Ten-microliter extracts were added to a 96-well plate containing 10 μL sphingosine solution/well. To initiate the reactions, 20 μL ATP solution was added into
+the wells, and the plates were maintained at room temperature for
+
+Primary microglia were prepared from 1- or 2-day-old mouse pups as
+previously described (Hu et al., 2012). Brieﬂy, after the removal of the meninges and blood vessels, the whole brain was cut into ∼1 mm3 pieces and
+incubated at 37 °C in Ca2+- and Mg2+-free Eagle's balanced salt solution
+containing 0.01% trypsin. After 10 min of incubation, regular microglial
+medium (DMEM/F12 supplemented with 2 mM L-glutamine, 50 U/mL
+penicillin/streptomycin and 10% heat-inactivated FBS) was added to neutralize the activity of trypsin. Next, the tissue was triturated with a pipette.
+After centrifugation at 1000 rpm for 5 min, the cells were collected and resuspended in microglial medium. The cell suspensions were ﬁltered
+through a 200-μm nylon cell drainer. The cells were seeded in 150-cm3
+culture ﬂasks and maintained with regular microglial medium. After a
+conﬂuent monolayer of glial cells was obtained, the microglia were shaken off, collected and seeded onto 24-well plates.
+Primary cultures of cortical neurons and oxygen–glucose deprivation
+(OGD)
+Primary cortical neurons were prepared from 16-day-old mouse
+embryos as previously reported (Cheng et al., 2011). Brieﬂy, the cortical
+
+Fig. 2. Sphk1 inhibition reduced infarct volumes and improved the neurologic deﬁcits following MCAO. A) Infarct volumes 24 h after MCAO with the Sphk1 inhibitor 5C or vehicle (Veh)
+treatment (n = 10). B) Representative TTC staining images. C) Infarct volumes at 96 h after MCAO with the Sphk1 inhibitor 5C or vehicle (Veh) treatment (n = 8). D) The mice that received the Sphk1 inhibitor also displayed improved neurological deﬁcits 96 h after MCAO (n = 13). * P b 0.05 and ** P b 0.01. CTX: cortex; CP: striatum; HEMI: hemisphere; CORRECT:
+hemispheric infarction corrected for edema.
+
+164
+
+S. Zheng et al. / Experimental Neurology 272 (2015) 160–169
+
+tissue was dissected, cut into ∼1 mm3 pieces and incubated at 37 °C in
+Ca2 +- and Mg2 +-free Eagle's balanced salt solution containing 0.01%
+trypsin. After 10 min of incubation, bovine fetal serum was added to
+neutralize the activity of trypsin and the tissue was triturated with a
+pipette. After centrifugation at 1000 rpm, the cells were collected and
+resuspended in neuronal culture media (Neurobasal medium supplemented with 2% B27 and 2 mmol/L Glutamax). The cell suspensions
+were ﬁltered through a 70-μm nylon cell drainer. The cells were seeded
+onto 24-well plates pre-coated with poly-D-lysine and maintained at
+37 °C in an atmosphere consisting of 95% air and 5% CO2. Beginning
+3 days in vitro (DIV), one-half of the medium was replaced with fresh
+medium twice weekly. The neurons were subjected to OGD at 11 DIV.
+Brieﬂy, the neuronal culture medium was replaced with OGD buffer
+(Dulbecco PBS supplemented with 1 mmol/L CaCl2 and 0.8 mmol/L
+MgCl2). Next, the neurons were maintained in anoxic chamber ﬁlled
+with 95% N2 and 5% CO2 for 3 h. For reoxygenation, the OGD buffer
+was replaced with the neuronal culture medium, and the cells were
+then removed from the anoxic chamber and returned to normoxia. At
+24 h after the re-oxygenation, the OGD-conditioned media were
+collected and stored at — 70 °C for later use. Neuronal culture media
+collected from neurons without OGD treatment served as the control.
+Induction of neuroinﬂammation in primary microglia with conditioned media collected from OGD-treated neurons
+Primary microglia were seeded on 24-well plates and maintained in
+regular microglia media. At 24 h after seeding, the media were replaced
+with conditioned media collected from OGD-treated neurons (OGD
+Neuron CM) or media from control neurons without OGD treatment
+(Neuron media). Microglia that were maintained in regular microglia
+
+media (Media) served as controls. To investigate whether the Sphk1 inhibitor 5C suppressed neuroinﬂammation in this in vitro model, microglia exposed to OGD neuron CM were co-treated with vehicle or
+the Sphk1 inhibitor 5C at the concentrations of 1, 10 and 50 μM. To
+quantify the Sphk1 mRNA and mRNA expressions of the inﬂammatory
+mediators, the total RNA was isolated from the primary microglia at
+6 h after exposure to CM and quantitative real-time PCR was performed
+as described earlier.
+Statistical analyses
+The data are presented as the means ± the SEMs with the exception
+of the neurological scores, which are depicted as the medians ± the
+ranges. The data were analyzed using one-way ANOVAs with the
+Tukey's post-hoc tests. The neurological scores were analyzed using
+the Mann–Whitney rank-sum test. Differences were considered statistically signiﬁcant when P b 0.05.
+Results
+Sphk1 but not Sphk2 was induced by pathological ischemic insults
+The mortality of mice following MCAO was reported in Table 1.
+There was no difference in mortality among the treatment groups. In
+our study, 1 h of MCAO resulted in signiﬁcant infarct damage in the
+mice. Compared to the Sphk1 mRNA in the non-ischemic, contralateral
+cortex or that in the cortex of the sham-operated mice, Sphk1 mRNA in
+the cortical penumbra was signiﬁcantly increased by 1 h of MCAO, and
+this increase began at 6 h and persisted until 96 h after reperfusion
+(Fig. 1A). Interestingly, Sphk2 mRNA levels were not altered in the
+
+Fig. 3. Cerebral knockdown of Sphk1 with siRNA reduced infarct volumes at 24 h after MCAO. A) The knockdown efﬁciency of Sphk1 siRNA on the Sphk1 mRNA in the cortical penumbra
+24 h after MCAO (n = 3). B) Sphk1 protein expression in the cortical penumbra of the mice treated with Sphk1 siRNA and those treated with the non-sense (NS) siRNA 24 h after MCAO. C–
+D) Infarct volumes at 24 h after MCAO with NS siRNA or Sphk1 siRNA treatment (n = 10) and representative TTC staining images. * P b 0.05, ** P b 0.01 vs. NS siRNA treatment. CTX: cortex;
+CP: striatum; HEMI: hemisphere; CORRECT: hemispheric infarction corrected for edema.
+
+S. Zheng et al. / Experimental Neurology 272 (2015) 160–169
+
+cortical penumbra following 1 h of MCAO (Fig. 1B). Western blot further
+showed the induction of Sphk1 protein in the cortical penumbra following MCAO (Fig. 1C). Immunohistochemical results revealed that the
+Sphk1 signal (red) was largely co-localized with the microglial marker
+Iba1 and the neuronal marker NeuN in the cortical penumbra at 24 h
+after reperfusion (Fig. 1D), suggesting that microglia and neurons
+were the major cellular sources responsible for Sphk1 induction following cerebral ischemia.
+
+165
+
+Inhibition of Sphk1 reduced infarct volumes and improved behavioral
+outcomes
+To investigate the role of Sphk1 following cerebral ischemia, we examined the effects of the Sphk1 inhibitor 5C on the infarct volumes and
+behavioral outcomes at 24 and 96 h after reperfusion using the mouse
+MCAO model. To ensure that comparable ischemic insults were induced
+in mice, we used laser Doppler to monitor the decrease in cortical
+
+Fig. 4. Sphk1 inhibition and knockdown attenuated the ischemic induction of pro-inﬂammatory mediators following MCAO. A) qPCR measurements of the pro-inﬂammatory mediators IL1β, iNOS, IL-6 and TNF-α in the ischemic cortex 24 h after MCAO with the Sphk1 inhibitor 5C or vehicle treatment (n = 3–4). B) The post-MCAO mRNA expressions of the pro-inﬂammatory mediators in the cortexes of the mice that were treated with the Sphk1 siRNA or NS siRNA (n = 3–4). * P b 0.05, ** P b 0.01 vs. vehicle or NS siRNA treatment.
+
+166
+
+S. Zheng et al. / Experimental Neurology 272 (2015) 160–169
+
+perfusion at 5 min after MCAO. The decrease in cortical perfusion,
+expressed as % baseline, was not different between the vehicle and
+5C-injection group (vehicle vs. the 5C-injection group: 12.3 ± 0.6% vs.
+11.6 ± 0.5% for infarction analysis at 24 h after reperfusion, and
+12.0 ± 0.7% vs. 12.0 ± 0.8% for infarction and behavioral analysis at
+96 h after reperfusion). Compared to the vehicle, daily injections of 5C
+beginning 3 h after reperfusion reduced infarct volumes at 24 h
+(Figs. 2A and B) and 96 h after reperfusion (Fig. 2C). Moreover, postischemic inhibition of Sphk1 with 5C improved the behavioral outcomes at 96 h following MCAO (Fig. 2D).
+We further used the siRNA knockdown approach to investigate the
+role of Sphk1 in cerebral ischemia. Intracerebroventricular injection of
+siRNAs has been reported to decrease target gene expression in the cortical penumbra in the mouse MCAO model (Hayakawa et al., 2012). We
+used this strategy to blunt post-ischemic induction of Sphk1 in the cortical penumbra. Nonsense (NS) siRNA or Sphk1 siRNA was administered
+via ICV injection 2 days prior to MCAO. As expected, compared to the
+nonsense (NS) siRNA, Sphk1 siRNA effectively attenuated the ischemic
+induction of Sphk1 mRNA and protein in the cortical penumbra at
+24 h after MCAO (Figs. 3A and B). The Sphk1 siRNA-injected mice
+displayed cortical infarcts that were smaller than those of the NS
+siRNA-injected mice at 24 after reperfusion (Figs. 3C and D). Moreover,
+the decrease in cortical perfusion, expressed as % baseline, was not different between the scramble and Sphk1 siRNA-injection group
+(11.2 ± 0.4% vs. 11.6 ± 0.5%).
+
+Sphk1 inhibition and knockdown decreased neuroinﬂammation following
+MCAO
+Neuroinﬂammation contributes to the pathogenesis of stroke (An
+et al., 2014; Leak et al., 2014; Zhou et al., 2014). Because Sphk1 has
+been reported to play essential roles in regulating inﬂammation (van
+Leyen et al., 2005) and because we found that microglia were the
+major cellular sources of Sphk1 induction following MCAO, we investigated whether Sphk1 mediated post-stroke neuroinﬂammation. To
+that end, we performed qPCR to determine whether if Sphk1 inhibition or knockdown suppressed the expression of pro-inﬂammatory
+mediators in the ischemic brain following MCAO. At 24 h after
+MCAO, the mRNA levels of IL-1β, iNOS, IL-6 and TNF-α were signiﬁcantly increased in the ischemic cortex compared to the contralateral cortex and the cortexes of the sham-operated mice.
+Compared to the vehicle and the NS siRNA, the Sphk1 inhibitor 5C
+and Sphk1 siRNA signiﬁcantly attenuated the ischemic induction of
+these pro-inﬂammatory mediators (Fig. 4).
+
+MCAO enhanced Sphk activity in the ipsilateral cortex, which was attenuated by Sphk1 knockdown or inhibition
+To investigate whether MCAO-induced expression of Sphk1 resulted
+in enhanced Sphk activity and whether Sphk1 and 5C attenuated the
+post-ischemic induction of Sphk activity in the ischemic brain, we measured Sphk activity at 6 h after reperfusion following MCAO. We chose
+this early time-point based on our observation that Sphk1 expression
+was induced as early as 6 h after reperfusion (Fig. 1). Moreover, if
+Sphk1 activity contributed to the infarct evolution and the enhanced
+neuroinﬂammation at 24 h after reperfusion, we think that the activity
+increase should occur earlier than the timepoint of 24 h. Consistent
+with the results regarding Sphk1 expression, we observed that Sphk activity was signiﬁcantly enhanced in the cortical penumbra compared to
+the contralateral cortex and the cortexes of the sham-operated mice
+(Fig. 5). Furthermore, compared to the NS siRNA and the vehicle,
+Sphk1 siRNA injected 2 days before MCAO and the administration of
+5C 3 h after reperfusion signiﬁcantly blunted ischemia-induced Sphk activity in the cortical penumbra at 6 h after reperfusion (Fig. 5).
+
+Fig. 5. MCAO-induced Sphk activity in the ipsilateral cortex and the attenuation of this induction by Sphk1 knockdown and inhibition. Sphk activity in the cortical penumbra was
+measured in sham-operated mice and the mice treated with NS siRNA, Sphk1 siRNA, the
+Sphk1 inhibitor 5C or vehicle at 6 h after reperfusion following MCAO (n = 3). * P b 0.05
+and ** P b 0.01 vs. the indicated groups.
+
+Sphk1 inhibition suppressed microglia-mediated neuroinﬂammation in the
+in vitro ischemia condition
+OGD-treated neurons have been shown to prime primary microglia
+to the pro-inﬂammatory phenotype with a conditioned medium transfer approach (Hu et al., 2012). To further investigate whether the postischemic induction of Sphk1 acted through a microglial mechanism to
+modulate neuroinﬂammation under the ischemic condition, we utilized
+this conditioned medium transfer approach in vitro. Primary microglia
+were treated with conditioned media (CM) collected from control neurons without OGD treatment or from post-OGD neuronal cultures. Compared to the microglia that were maintained in regular microglial
+medium and the microglia that were treated with CM collected from
+control neurons, Sphk1 mRNA was induced in the primary microglia
+that were treated with CM collected from the post-OGD neurons at
+6 h after CM treatment (Fig. 6A). Furthermore, compared to the regular
+microglial medium and the CM collected from the control neurons, the
+CM from the post-OGD neurons remarkably induced the mRNA expressions of the pro-inﬂammatory mediators (IL-1β, iNOS, IL-6 and TNF-α).
+This induction was dose-dependently attenuated by the Sphk1 inhibitor
+5C. At doses above the IC50 (IC50 = 3.3 μM), 5C robustly inhibited the
+mRNA expression of the pro-inﬂammatory mediators induced by the
+OGD-conditioned neuronal media, whereas at 1 μM (bIC50), 5C only
+partially inhibited the induction of the pro-inﬂammatory mediators.
+5C per se had no effect on cell viability at the tested concentrations
+(data not shown). Collectively, these results suggest that Sphk1 inhibition suppressed microglia-mediated neuroinﬂammation under the ischemic condition in vitro.
+
+Discussion
+This study presented two novel ﬁndings. First, the expression of
+Sphk1 but not that of Sphk2 was rapidly and persistently induced in
+the ischemic brain over 96 h following MCAO. Second, in sharp contrast
+to the protective role of Sphk2 following cerebral ischemia, the postischemic induction of Sphk1 exacerbated stroke outcomes by promoting neuroinﬂammation possibly via a microglial mechanism. Our results
+
+S. Zheng et al. / Experimental Neurology 272 (2015) 160–169
+
+167
+
+Fig. 6. Induced expression of Sphk1 and attenuation of neuroinﬂammation by the Sphk1 inhibitor in primary microglia primed to the inﬂammatory phenotype by post-OGD neurons.
+A) The mRNA expression of Sphk1 in the primary microglia at 6 h after exposure to regular microglia media (Media), conditioned medium from control neurons (Neuron CM) or CM
+from post-OGD neurons (OGD neuron CM). n = 3, * P b 0.05 vs. microglia exposed to Media or Neuron CM. B–E) The mRNA expression of the proinﬂammatory mediators IL-1β, iNOS,
+IL-6 and TNF-α by the primary microglia exposed to regular microglia media (Media), normal neuron CM or OGD neuron CM. The microglia exposed to OGD neuron CM were co-treated
+with vehicle or different concentrations of the Sphk1 inhibitor 5C. n = 3, ** P b 0.01 vs. microglia exposed to regular microglia media (Media), microglia exposed to neuron CM or microglia
+treated with OGD neuron CM plus 5C at 1, 10, or 50 μM.
+
+suggest that Sphk1 is an important mediator of neuroinﬂammation following stroke.
+Although stroke is one of the leading causes of death and adult disability, current therapies for stroke are rather limited (Chen et al.,
+2014; Deng et al., 2014; Leak et al., 2014). Thus, investigations of the
+mechanisms underlying stroke pathogenesis and the identiﬁcation
+novel targets for the treatment of stroke are urgently needed (Lai
+et al., 2014). Sphingosine kinases (Sphks) are the rate-limiting enzymes
+responsible for the synthesis of the lipid signal transducer S1P. Sphk2
+has been implicated in stroke pathogenesis (Blondeau et al., 2007;
+Pfeilschifter et al., 2011; Wacker et al., 2009, 2012b; Yung et al., 2012).
+Although the cerebral expression of Sphk2 is induced by short-
+
+duration hypoxia that preconditions the brain against later noxious ischemic insults, Sphk2 expression in the ischemic brain remains unaltered following the long-duration ischemia that leads to brain damage
+(Blondeau et al., 2007; Yung et al., 2012). In our study, 1 h of MCAO resulted in signiﬁcant infarct damage and had no effect on cerebral Sphk2
+expression over 96 h after reperfusion, which is consistent with the
+ﬁndings of the above-mentioned publications. In contrast, we observed
+that Sphk1 mRNA and protein were persistently induced in the cortex
+penumbra by 1 h of MCAO over 96 h after reperfusion. We further conﬁrmed that the stroke-induced expression of Sphk1 resulted in elevated
+Sphk activity in the cortical penumbra. A recent publication showed
+that the cerebral protein levels of Sphk1 are remarkably reduced in
+
+168
+
+S. Zheng et al. / Experimental Neurology 272 (2015) 160–169
+
+the ischemic core at 24 h after MCAO (Hasegawa et al., 2013). It is generally acknowledged that the majority of cells die within 24 h of MCAO
+in the core of ischemic lesion. Thus, the decrease in Sphk1 expression at
+24 h after MCAO might reﬂect the universal degradation of cellular proteins in dying cells. In the present study, we observed the induction of
+Sphk1 expression in the cortical penumbra, which is an area that consists of potentially viable and reversibly injured tissues and is considered to be a target area for stroke therapies (Lo, 2008).
+Using the immunohistochemical approach, we revealed that the microglia were one of the major cellular sources of the post-ischemic induction of Sphk1 in vivo. Moreover, in the in vitro model, Sphk1
+expression was induced in the primary microglia that were primed to
+the inﬂammatory phenotype by ischemic neurons. Emerging evidence
+suggests that Sphk1 is induced by various proinﬂammatory stimuli,
+such as LPS and sepsis (Herrera et al., 2007; Tu et al., 2010). Moreover,
+it is well established that neuroinﬂammation is rapidly induced in the
+ischemic brain following cerebral ischemia (An et al., 2014; Hu et al.,
+2012; Zhou et al., 2014). Thus, our observation that the expression of
+Sphk1 was induced in the microglia under ischemic conditions is
+consistent with the previous reports about Sphk1 induction in proinﬂammatory conditions (Herrera et al., 2007; Tu et al., 2010).
+Using pharmacologic and siRNA knockdown approaches, we further
+showed that the post-ischemic induction of Sphk1 played a deleterious
+role in cerebral ischemia. In contrast to our ﬁndings, it has been reported
+that Sphk1 gene knockout mice exhibit infarct volumes that are comparable to those observed in wild-type mice at 24 h after MCAO
+(Pfeilschifter et al., 2011). The different approaches (gene knockdown
+vs. knockout) utilized might account for this discrepancy. Indeed, in
+the Sphk research ﬁeld, it is not uncommon for gene knockout and
+siRNA knockdown approaches to yield contradictory results in vivo.
+For example, in the thioglycollate-induced peritonitis and collageninduced arthritis models, Sphk1 knockout mice exhibit normal immune
+responses during both the acute and chronic phases (Michaud et al.,
+2006). In contrast, treatment with Sphk1 siRNA signiﬁcantly ameliorates disease severity and articular inﬂammation in the collageninduced arthritis model, whereas Sphk2 siRNA contradictorily exacerbates inﬂammation (Lai et al., 2009). It has been speculated that mice
+with a deletion in Sphk1 from embryonic development adapted to not
+rely on the Sphk1 pathway because the Sphk isoenzymes are, at least
+partially, functionally redundant. However, such adaption is unlikely
+to occur when Sphk is transiently decreased by siRNA in normal animals
+(Lai et al., 2009).
+We further investigated the mechanisms by which Sphk1 induction
+exacerbated stroke outcomes. Increasing evidence suggests that Sphk1
+is a critical mediator that promotes inﬂammation (Spiegel and
+Milstien, 2011). The induced expression of Sphk1 has been reported to
+act through its product, the second messenger S1P, to lead to systematic
+inﬂammation and the release of various pro-inﬂammatory cytokines
+(Spiegel and Milstien, 2011). Both our in vivo and in vitro results indicated that microglia were one of the cellular sources of the postischemic induction of Sphk1. Moreover, the Sphk1 inhibitor and
+cerebral knockdown of Sphk1 signiﬁcantly attenuated the MCAOinduced neuroinﬂammation in the ischemic brains. To further reveal
+the microglial mechanism underlying the deleterious effects of Sphk1
+on stroke outcomes, we utilized a previously reported in vitro ischemia
+model in which primary microglia are polarized to the inﬂammatory
+phenotype by conditioned media collected from OGD-treated neurons
+(Hu et al., 2012). Using this in vitro strategy, we provided evidence
+that the Sphk1 inhibitor was able to act through microglia to suppressed
+neuroinﬂammation under the ischemic condition. 5C is a selective inhibitor of Sphk1 that does not have inhibitory effects on Sphk2 (Park
+et al., 2012; Wong et al., 2009). In the in vitro ischemia model, 5C
+dose-dependently inhibited microglia-mediated neuroinﬂammation,
+and robust effects were at doses higher than the IC50 for Sphk1. At
+doses lower than the IC50 for Sphk1, 5C only partially inhibited the neuroinﬂammation induced by neuronal ischemia. These dose-dependent
+
+effects of 5C strongly suggested that the suppressive effects of 5C on
+microglia-mediated neuroinﬂammation were mediated by Sphk1
+inhibition.
+One limitation of this study is that we did not investigate whether
+Sphk1 acted through neuronal mechanisms to exacerbate stroke outcomes. Using the immunohistochemical approach, we observed that
+neurons were another major type of cells that expressed Sphk1 following MCAO. Thus, neuronal Sphk1 might also play important roles in
+stroke pathogenesis. Our ﬁndings that the knockdown and inhibition
+of Sphk1 conferred protection following MCAO contrast the traditional
+view that Sphk1 is pro-survival (Neubauer and Pitson, 2013). Therefore,
+the mechanism by which the neuronal induction of Sphk1 exacerbates
+stroke outcomes needs further investigation.
+Moreover, we did not investigate in the study how post-ischemic induction of Sphk1 exacerbated neuroinﬂammation following stroke. It
+has been reported that Sphk1 and its production of S1P are essential
+to the canonical NF-κB activation pathway that is important in inﬂammation (Alvarez et al., 2010). S1P binds with TRAF2 (tumor necrosis factor receptor-associated factor 2) and serves as an indispensible cofactor
+for TRAF2 E3 ubiquitin ligase activity, leading to phosphorylation of IκB
+kinase and subsequent phosphorylation and degradation of IκB. Degradation of IκB in turn activates NF-κB. Since NF-κB activation is a wellrecognized mechanism underlying stroke-induced neuroinﬂammation,
+it is likely that post-ischemic Sphk1 exacerbates neuroinﬂammation via
+the S1P–TRAF2–NF-κB axis.
+In conclusion, Sphk1 but not Sphk2 was induced in the ischemic
+brain. The post-ischemic induction of Sphk1 signiﬁcantly contributed
+to acute infarct damage by promoting microglia-mediated neuroinﬂammation. Thus, our study indicated that Sphk1 is an important mediator
+of post-stroke neuroinﬂammation. Dissecting the mechanisms underlying the deleterious effects of Sphk1 might provide new therapeutic
+strategies for stroke.
+Sources of funding
+This work is supported by the National Science Foundation of China
+(81171246, 81471336, 81371278), the Priority Academic Program Development of Jiangsu Higher Education Institutions of China (PAPD)
+and funding from BM2013003.
+Disclosures
+None.
+References
+Alvarez, S.E., Harikumar, K.B., Hait, N.C., Allegood, J., Strub, G.M., Kim, E.Y., Maceyka, M.,
+Jiang, H., Luo, C., Kordula, T., Milstien, S., Spiegel, S., 2010. Sphingosine-1-phosphate
+is a missing cofactor for the E3 ubiquitin ligase TRAF2. Nature 465, 1084–1088.
+An, C., Shi, Y., Li, P., Hu, X., Gan, Y., Stetler, R.A., Leak, R.K., Gao, Y., Sun, B.L., Zheng, P., Chen,
+J., 2014. Molecular dialogs between the ischemic brain and the peripheral immune
+system: dualistic roles in injury and repair. Prog. Neurobiol. 115, 6–24.
+Blondeau, N., Lai, Y., Tyndall, S., Popolo, M., Topalkara, K., Pru, J.K., Zhang, L., Kim, H., Liao,
+J.K., Ding, K., Waeber, C., 2007. Distribution of sphingosine kinase activity and mRNA
+in rodent brain. J. Neurochem. 103, 509–517.
+Bryan, L., Kordula, T., Spiegel, S., Milstien, S., 2008. Regulation and functions of sphingosine kinases in the brain. Biochim. Biophys. Acta 1781, 459–466.
+Chen, F., Qi, Z., Luo, Y., Hinchliffe, T., Ding, G., Xia, Y., Ji, X., 2014. Non-pharmaceutical therapies for stroke: mechanisms and clinical implications. Prog. Neurobiol. 115,
+246–269.
+Cheng, J., Uchida, M., Zhang, W., Grafe, M.R., Herson, P.S., Hurn, P.D., 2011. Role of saltinduced kinase 1 in androgen neuroprotection against cerebral ischemia. J. Cereb.
+Blood Flow Metab. Off. J. Int. Soc. Cereb. Blood Flow Metab. 31, 339–350.
+Deng, J., Lei, C., Chen, Y., Fang, Z., Yang, Q., Zhang, H., Cai, M., Shi, L., Dong, H., Xiong, L.,
+2014. Neuroprotective gases—fantasy or reality for clinical use? Prog. Neurobiol.
+115, 210–245.
+Dixon, S.J., Lemberg, K.M., Lamprecht, M.R., Skouta, R., Zaitsev, E.M., Gleason, C.E., Patel,
+D.N., Bauer, A.J., Cantley, A.M., Yang, W.S., Morrison III, B., Stockwell, B.R., 2012.
+Ferroptosis: an iron-dependent form of nonapoptotic cell death. Cell 149, 1060–1072.
+Hasegawa, Y., Suzuki, H., Altay, O., Rolland, W., Zhang, J.H., 2013. Role of the sphingosine
+metabolism pathway on neurons against experimental cerebral ischemia in rats.
+Transl. Stroke Res. 4, 524–532.
+
+S. Zheng et al. / Experimental Neurology 272 (2015) 160–169
+Hayakawa, K., Pham, L.D., Katusic, Z.S., Arai, K., Lo, E.H., 2012. Astrocytic high-mobility
+group box 1 promotes endothelial progenitor cell-mediated neurovascular remodeling during stroke recovery. Proc. Natl. Acad. Sci. U. S. A. 109, 7505–7510.
+Herrera, F., Martin, V., Garcia-Santos, G., Rodriguez-Blanco, J., Antolin, I., Rodriguez, C.,
+2007. Melatonin prevents glutamate-induced oxytosis in the HT22 mouse hippocampal cell line through an antioxidant effect speciﬁcally targeting mitochondria.
+J. Neurochem. 100, 736–746.
+Hofmann, L.P., Ren, S., Schwalm, S., Pfeilschifter, J., Huwiler, A., 2008. Sphingosine kinase 1
+and 2 regulate the capacity of mesangial cells to resist apoptotic stimuli in an opposing manner. Biol. Chem. 389, 1399–1407.
+Hu, X., Li, P., Guo, Y., Wang, H., Leak, R.K., Chen, S., Gao, Y., Chen, J., 2012. Microglia/
+macrophage polarization dynamics reveal novel mechanism of injury expansion after focal cerebral ischemia. Stroke J. Cereb. Circ. 43, 3063–3070.
+Lai, W.Q., Irwan, A.W., Goh, H.H., Melendez, A.J., McInnes, I.B., Leung, B.P., 2009. Distinct
+roles of sphingosine kinase 1 and 2 in murine collagen-induced arthritis.
+J. Immunol. 183, 2097–2103.
+Lai, T.W., Zhang, S., Wang, Y.T., 2014. Excitotoxicity and stroke: identifying novel targets
+for neuroprotection. Prog. Neurobiol. 115, 157–188.
+Leak, R.K., Zheng, P., Ji, X., Zhang, J.H., Chen, J., 2014. From apoplexy to stroke: historical
+perspectives and new research frontiers. Prog. Neurobiol. 115, 1–5.
+Lo, E.H., 2008. A new penumbra: transitioning from injury into repair after stroke. Nat.
+Med. 14, 497–500.
+Michaud, J., Kohno, M., Proia, R.L., Hla, T., 2006. Normal acute and chronic inﬂammatory
+responses in sphingosine kinase 1 knockout mice. FEBS Lett. 580, 4607–4612.
+Neubauer, H.A., Pitson, S.M., 2013. Roles, regulation and inhibitors of sphingosine kinase
+2. FEBS J. 280, 5317–5336.
+Park, S.W., Kim, M., Brown, K.M., D'Agati, V.D., Lee, H.T., 2012. Inhibition of sphingosine 1phosphate receptor 2 protects against renal ischemia–reperfusion injury. J. Am. Soc.
+Nephrol. 23, 266–280.
+Pfeilschifter, W., Czech-Zechmeister, B., Sujak, M., Mirceska, A., Koch, A., Rami, A.,
+Steinmetz, H., Foerch, C., Huwiler, A., Pfeilschifter, J., 2011. Activation of sphingosine
+kinase 2 is an endogenous protective mechanism in cerebral ischemia. Biochem.
+Biophys. Res. Commun. 413, 212–217.
+Shida, D., Takabe, K., Kapitonov, D., Milstien, S., Spiegel, S., 2008. Targeting SphK1 as a new
+strategy against cancer. Curr. Drug Targets 9, 662–673.
+
+169
+
+Spiegel, S., Milstien, S., 2011. The outs and the ins of sphingosine-1-phosphate in immunity. Nat. Rev. Immunol. 11, 403–415.
+Tu, X.K., Yang, W.Z., Wang, C.H., Shi, S.S., Zhang, Y.L., Chen, C.M., Yang, Y.K., Jin, C.D., Wen,
+S., 2010. Zileuton reduces inﬂammatory reaction and brain damage following permanent cerebral ischemia in rats. Inﬂammation 33, 344–352.
+van Leyen, K., Siddiq, A., Ratan, R.R., Lo, E.H., 2005. Proteasome inhibition protects HT22
+neuronal cells from oxidative glutamate toxicity. J. Neurochem. 92, 824–830.
+Wacker, B.K., Park, T.S., Gidday, J.M., 2009. Hypoxic preconditioning-induced cerebral ischemic tolerance: role of microvascular sphingosine kinase 2. Stroke J. Cereb. Circ.
+40, 3342–3348.
+Wacker, B.K., Freie, A.B., Perfater, J.L., Gidday, J.M., 2012a. Junctional protein regulation by
+sphingosine kinase 2 contributes to blood–brain barrier protection in hypoxic
+preconditioning-induced cerebral ischemic tolerance. J. Cereb. Blood Flow Metab.
+Off. J. Int. Soc. Cereb. Blood Flow Metab. 32, 1014–1023.
+Wacker, B.K., Perfater, J.L., Gidday, J.M., 2012b. Hypoxic preconditioning induces stroke
+tolerance in mice via a cascading HIF, sphingosine kinase, and CCL2 signaling pathway. J. Neurochem. 123, 954–962.
+Wang, Y., Jia, J., Ao, G., Hu, L., Liu, H., Xiao, Y., Du, H., Alkayed, N.J., Liu, C.F., Cheng, J., 2014.
+Hydrogen sulﬁde protects blood–brain barrier integrity following cerebral ischemia.
+J. Neurochem. 129, 827–838.
+Wei, Y., Yemisci, M., Kim, H.H., Yung, L.M., Shin, H.K., Hwang, S.K., Guo, S., Qin, T., Alsharif,
+N., Brinkmann, V., Liao, J.K., Lo, E.H., Waeber, C., 2011. Fingolimod provides long-term
+protection in rodent models of cerebral ischemia. Ann. Neurol. 69, 119–129.
+Wong, L., Tan, S.S., Lam, Y., Melendez, A.J., 2009. Synthesis and evaluation of sphingosine
+analogues as inhibitors of sphingosine kinases. J. Med. Chem. 52, 3618–3626.
+Yung, L.M., Wei, Y., Qin, T., Wang, Y., Smith, C.D., Waeber, C., 2012. Sphingosine kinase 2
+mediates cerebral preconditioning and protects the mouse brain against ischemic injury. Stroke J. Cereb. Circ. 43, 199–204.
+Zhou, Y., Wang, Y., Wang, J., Anne Stetler, R., Yang, Q.W., 2014. Inﬂammation in intracerebral hemorrhage: from mechanisms to clinical translation. Prog. Neurobiol. 115,
+25–44.
+Zhu, W., Wang, L., Zhang, L., Palmateer, J.M., Libal, N.L., Hurn, P.D., Herson, P.S., Murphy,
+S.J., 2010. Isoﬂurane preconditioning neuroprotection in experimental focal stroke
+is androgen-dependent in male mice. Neuroscience 169, 758–769.
+
+

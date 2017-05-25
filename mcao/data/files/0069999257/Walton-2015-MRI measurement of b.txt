@@ -1,0 +1,343 @@
+Biochemical and Biophysical Research Communications 463 (2015) 479e482
+
+Contents lists available at ScienceDirect
+
+Biochemical and Biophysical Research Communications
+journal homepage: www.elsevier.com/locate/ybbrc
+
+MRI measurement of bloodebrain barrier transport with a rapid
+acquisition refocused echo (RARE) method
+Jeffrey H. Walton a, *, Kit Fai Ng b, Steven E. Anderson c, John C. Rutledge b
+a
+
+NMR Facility and Biomedical Engineering Graduate Group, University of California, Davis, USA
+Division of Cardiovascular Medicine, University of California, Davis, USA
+c
+Department of Physiology and Membrane Biology, University of California, Davis, USA
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 16 April 2015
+Available online 19 May 2015
+
+Dynamic Contrast Enhanced (DCE) MRI is increasingly being used to assess changes in capillary
+permeability. Most quantitative techniques used to measure capillary permeability are based on the Fick
+equation that requires measurement of signal reﬂecting both plasma and tissue concentrations of the
+solute being tested. To date, most Magnetic Resonance Imaging (MRI) methods for acquiring appropriate
+data quickly rely on gradient recalled echo (GRE) type acquisitions, which work well in clinical low ﬁeld
+settings. However, acquiring this type of data on high ﬁeld small animal preclinical MRIs is problematic
+due to geometrical distortions from susceptibility mismatch. This problem can be exacerbated when
+using small animal models to measure blood brain barrier (BBB) permeability, where precise sampling
+from the superior sagittal sinus (SSS) is commonly used to determine the plasma concentration of the
+contrast agent. Here we present results demonstrating that a standard saturation recovery rapid
+acquisition refocused echo (RARE) method is capable of acquiring T1 maps with good spatial and temporal resolution for Patlak analysis (Patlak, 1983) to assess changes in BBB Gd-DTPA permeability
+following middle cerebral artery occlusion with reperfusion in the rat. This method limits known
+problems with magnetic susceptibility mismatch and may thus allow greater accuracy in BBB permeability measurement in small animals.
+© 2015 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY license
+(http://creativecommons.org/licenses/by/4.0/).
+
+Keywords:
+Rat brain capillary transport
+DCE-MRI
+Rapid acquisition refocused echo
+RARE
+
+1. Introduction
+Changes in blood brain barrier permeability are often characterized using Dynamic Contrast Enhanced (DCE) imaging, specifically, by injecting a bolus of contrast agent such as Gd-DTPA
+intravenously and following changes in tissue and plasma spin
+lattice relaxation rate, R1 (¼1/T1) over time. Under these conditions, changes in R1 (DR1) are commonly treated as linear with
+changes in [Gd-DTPA] [1]. Measurement of R1 vs. time and space
+yields the spatial distribution of [Gd-DTPA] over time. This permits
+examination of the dynamics of the exchange of Gd-DTPA across
+the blood brain barrier that can be modeled with the Fick equation
+for diffusional ﬂux and analyzed using a Patlak plot [2e4].
+
+* Corresponding author. UC Davis NMR Facility, 4303 Tupper Hall, One Shields
+Ave., University of California, Davis, CA 95616, USA.
+E-mail address: jhwalton@ucdavis.edu (J.H. Walton).
+
+Critical to this analysis is measurement of T1 with maximum
+resolution in time and space. Typically this is done via a LookLocker method [5,6] with TOMROP [7] and echo planar modiﬁcations [8] that work quite well on humans at clinical ﬁelds. However,
+gradient echo type sequences have drawbacks at high ﬁelds due to
+well-documented distortion from magnetic susceptibility
+mismatch at tissue boundaries and air tissue interfaces [9,10]. These
+known drawbacks are exacerbated in small animals. Susceptibility
+mismatch effects also increase with ﬁeld and preclinical small animal MRI systems are now being delivered at 17.6 T. Moreover,
+TOMROP uses only a fraction of the magnetization for acquiring
+each image in the T1 map.
+Rapid acquisition refocused echo (RARE) [11] imaging is well
+established to be relatively insensitive to susceptibility mismatch.
+Thus it produces good images at high ﬁeld [10] without spending
+extensive time shimming. Furthermore, because it is refocused, all
+the available magnetization is used for image acquisition. But the
+trade off is that there are many RF pulses potentially heating the
+animal and the echo times are longer, sometimes leading to a loss of
+signal due to T2 relaxation. RARE has recently been used to better
+
+http://dx.doi.org/10.1016/j.bbrc.2015.05.034
+0006-291X/© 2015 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+
+480
+
+J.H. Walton et al. / Biochemical and Biophysical Research Communications 463 (2015) 479e482
+
+establish baseline values of T1 and T2 at 17.6 T in mice [12]. Thus,
+we examined RARE with a variable relaxation delay for the measurement of T1 in small animals at high ﬁeld with the purpose of
+obtaining data with adequate S/N and resolution for DCE-MRI
+measurements suitable for Patlak analysis.
+
+2. Materials and methods
+This study was conducted in accordance with the Animal Use
+and Care Guidelines issued by the National Institutes of Health
+using a protocol approved by the Animal Use and Care Committee
+at University of California Davis (IACUC protocol #15946). All surgery was performed under sodium pentobarbital anesthesia, and
+all efforts were made to minimize suffering. The experiments
+described were conducted using SpragueeDawley rats (Charles
+River Laboratories, Wilmington, MA, USA) weighing 180e250 g.
+Animals were anesthetized with i.p. injection of sodium pentobarbital (60 mg/kg body weight) and surgical plane anesthesia was
+maintained with a quarter dose (15 mg/kg body weight) every
+30e45 min. Body temperature was maintained using an electric
+heating pad during surgery and a water heating pad (Gaymar Inc.,
+Orchard Park, NY, USA) during MRI data acquisition. The left
+femoral vein was cannulated with PE-10 polyethylene tubing for
+infusion of gadopentetate dimeglumine (Gd-DTPA - Magnevist;
+Bayer Healthcare Pharmaceuticals, Wayne, NJ, USA). Animals used
+for the Patlak experiments were prepared using the middle cerebral
+artery occlusion (MCAO) model as previously described [13] but
+reperfused for 18 h after 3 h occlusion as modiﬁed from Nagaraja
+et al. [3].
+The RARE experiment was performed on a Bruker Biospec 7T
+imaging system using ParaVision Version 4 with a modiﬁed RAREVTR method. The imaging parameters were: TE ¼ 10.26 ms, TR
+array ¼ 168.4, 500.2, 927.1, 1525.9, 2538 and 7500 ms, RARE
+factor ¼ 16, slice thickness ¼ 2 mm, FOV ¼ 64  64 mm,
+matrix ¼ 128 x 128, and total experiment time ¼ 105 s for each T1
+map. MRI data were collected in a saturation recovery mode where
+TR was varied to collect a series of T1 weighted images from which
+a T1 map was generated. The measured T1 values for the rat brain
+were 1772 ± 227 and 2138 ± 384 ms (mean ± SD) for the right (unoccluded) and left (occluded) hemispheres, respectively. This
+agrees well with previous studies using a similar MCAO with
+reperfusion model [14]. A representative T1 map is shown as an
+inset to Fig. 2. Such maps are converted to R1 maps and delta R1 vs.
+time was calculated. Rectal temperature was monitored with a type
+T thermocouple to assess possible heating due to SAR (Speciﬁc
+Absorption Rate). During the experiment core temperatures
+nominally increased at a rate of 0.05  F/min independent of RARE
+imaging and did not exceed the normal rat body temperature
+range.
+The data were analyzed using the Patlak Model [2e4] with
+locally written Matlab code. Brieﬂy, transport is modeled using the
+equation Ct(t) ¼ Ki!Cp(t)dt þCp(t)Vp where Ct is the Gd-DTPA tissue
+concentration (per volume), and Cp is the Gd-DTPA arterial plasma
+concentration (per volume). Ki is the product of the permeability
+and the surface area per volume (per minute), i.e. the transfer
+constant for contrast agent movement from the blood to the tissue.
+Vp ¼ fractional “volume of the various tissue compartments in
+which water with intravascular-Gd-changed relaxation rates
+distribute” [1] (ml/g) prior to Gd-DTPA crossing the BBB. In the fast
+exchange limit R1 ¼ R10 þ R1*[Gd-DTPA] for both tissue and
+plasma. In general, DR1 is the change in pixel R1 following Gd-DTPA
+infusion. Thus in tissue, DR1t(t) can be substituted for Ct(t). When
+Hct ¼ the fraction of blood that is cells, DR1p(t)/(1-Hct) in the superior sagittal sinus (SSS) can be substituted for Cp(t). Plotting (1-
+
+Hct)Ct(t)/Cp(t) vs. “stretch time” ¼ !Cp(t)dt/Cp(t), the data can be
+ﬁt linearly with slope Ki [1].
+3. Results
+Results showing R1 for the SSS and representative pixels from
+both hemispheres after MCAO/reperfusion are shown in Fig. 1 along
+with the Patlak plot for the same data.
+Further analysis gave Ki values of 0.00012 ± 0.00085 and
+0.00177 ± 0.00254 min1 (mean ± SD) for the right (un-occluded)
+hemisphere and the left (occluded) hemisphere respectively. These
+values compare well with those previously published for a similar
+rat model [3]. The Ki distributions of the left and right hemispheres
+are plotted in Fig. 2 and mapped in the insert. These results
+compare well with those published by others [3,15].
+4. Discussion
+The criteria for obtaining DCE-MRI data useful for characterizing
+changes in capillary permeability using Patlak analysis are, 1)
+acquisition intervals short enough that repeated acquisitions capture the dynamics of the process, 2) sufﬁcient spatial resolution to
+sample precisely from the structures of interest, and 3) sufﬁcient
+signal to noise to measure changes in contrast agent concentration,
+both in the tissue and within the vascular space. Given common
+limitations in MRI imaging, criterion 1 is in conﬂict with criteria 2
+and 3. Criterion 2 is also in conﬂict with 3 and all of these criteria
+present a challenge in small animals because almost all structures
+one wishes to sample are diminished in size.
+Most researchers address issues of acquisition time using LookLocker [5,6] type sequences such as TOMROP [7] or IR/SE EPI [8], but
+these are known to have limited spatial resolution especially where
+magnetic susceptibility mismatch can occur [16]. TOMROP is fast
+due to using a low tip angle (and thus only some of the magnetization) and acquiring a line of k-space for several delays after an
+inversion. EPI acquires several lines of k-space for each inversion
+thus increasing acquisition speed. RARE also acquires multiple lines
+of k-space in a single shot, but uses all of the magnetization. The
+gradient echo type sequences (TOMROP, IR/SE EPI) also use inversion recovery (IR) to measure T1. Here we use saturation recovery
+rather than IR to speed up the process. Time is saved with saturation recovery over IR because 5T1's are not required between each
+scan. Saturation recovery sacriﬁces some dynamic range in the T1
+measurement, but with sufﬁcient S/N this is an acceptable tradeoff.
+Using higher ﬁeld magnets can resolve some of these issues
+because higher ﬁeld increases signal to noise thus allowing higher
+spatial resolution and/or shorter acquisitions times. Currently
+preclinical imaging is commercially available at 17.6 T. However
+conducting experiments at higher ﬁeld also leads to image distortion such as those due to magnetic susceptibility mismatch and
+thus loss of signal from intravoxel dephasing [10]. Moreover, these
+effects become worse as the ﬁeld increases. RARE has the advantage
+that signal is not lost due to intravoxel dephasing. Moreover, the
+geometric distortions associated with shimming and tissue interfaces in gradient echo type sequences are in large part corrected
+for in RARE. In some small animal experiments this is a potential
+advantage because time spent shimming should be diminished.
+The issue of spatial distortion is likely to be troublesome when
+attempting to assess changes in contrast agent concentration
+within vessels and particularly in the SSS in small animals where a
+number of tissue borders including bone and air are in close
+proximity. Some investigators have attempted to limit problems
+with MRI measurement of plasma contrast agent concentration by
+using literature values for the arterial input function [17,18] but this
+
+J.H. Walton et al. / Biochemical and Biophysical Research Communications 463 (2015) 479e482
+
+481
+
+Fig. 1. The graph on the left shows R1 values for 3 pixels before and after Gd-DTPA injection. Closed diamonds correspond to data acquired from the superior sagittal sinus (SSS); the
+other two sets of data are from symmetrically sampled pixels in the occluded (left) and un-occluded (right) hemispheres. The ﬁgure on the right shows the Patlak plot for the same
+two tissue pixels. Note the F-test shows the data from the un-occluded right hemisphere has a slope ¼ Ki not signiﬁcantly different from zero, while the slope for the data from the
+occluded left hemisphere is signiﬁcantly greater than zero.
+
+Fig. 2. The Ki distribution. The histogram shows the number of pixels vs. measured Ki has a distribution similar to normal brain [15] but with a subpopulation of pixels corresponding to the ischemia/reperfused region. The left inset shows the T1 map for this data set generated in ParaVision by ﬁtting to a single exponential and using the M∞ map to
+segment and mask the noise outside the head. The right inset shows the map of Ki values superimposed on the T1 map. The color table has its max set at 0.01 min1. The Ki overlay
+includes all brain Ki values greater than the meanþ2SD measured for the un-occluded hemisphere. The 95% conﬁdence limit was calculated using the mean Ki and standard
+deviation (0.00012 ± 0.00085) from the un-occluded hemisphere yielding an upper 95% conﬁdence limit of 0.00178. Note that the right hemisphere is on the left side of the images.
+(For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+is likely to introduce a variety of errors unless contrast agent injection and intravascular mixing are identical in all experiments.
+RARE is a fast imaging protocol collecting multiple lines of kespace
+for each acquisition. In general the image resolution is much better
+than necessary to adequately sample the brain tissue in which one
+desires to measure the transfer of Gd-DTPA. However, of equal or
+greater importance, is resolving the blood vessel that is used to
+measure the arterial input function (AIF). We use the superior
+
+sagittal sinus (SSS) as it has been previously shown to provide a
+satisfactory sample of the AIF, especially for relatively low permeability vessels such as those of the blood brain barrier [1]. Ideally
+the acquired images should have one pixel entirely within the SSS.
+Assuming square pixels (our case) and the SSS is oriented
+perpendicular to the imaging plane, based upon geometrical considerations, a  d/(2(2^0.5)) where d ¼ SSS diameter and a ¼ the
+resolution, would guarantee at least one pixel entirely within the
+
+482
+
+J.H. Walton et al. / Biochemical and Biophysical Research Communications 463 (2015) 479e482
+
+SSS. Recent optical [19] and CT [20] studies have measured the SSS
+diameter to be ~700e750 mm. Our resolution of 500 mm is larger
+than optimum, but the criteria can be relaxed. If the voxel of interest has a majority of spins from the SSS, since the R1 of the SSS is
+the largest rate in the voxel, i.e. larger than R1 from non-SSS tissue
+within the voxel, the R1 of the SSS will dominate the measurement.
+Again using geometrical arguments, assuming square pixels with
+side a, and a circular SSS with radius r, the minimum overlap between the SSS and a pixel is when the intersection of four pixels is
+at the center of the SSS. Thus the criteria for a pixel to have part of
+the SSS occupy more than 50% of the pixel is (p/4)r2 > a2/2 and with
+a ¼ 500 micron and r ~ 350 micron, we are very close to fulﬁlling
+this condition.
+We also note that in principle we have the ﬂexibility to measure
+the arterial input function (AIF) in the SSS in a slice different than
+the imaging slice, thus picking out the SSS at it largest dimension.
+This would naturally fall out in multislice acquisition.
+Enhancement of spatial resolution has been addressed recently
+using a radial keyhole sampling strategy [18]. It remains to be seen
+whether this technique will gain acceptance, but we note that these
+investigators also used literature values for the AIF function rather
+than using their own measurement.
+Another advantage of the gradient echo type sequences over
+RARE is that many fewer pulses are used. Thus the issue of animal
+heating due to SAR is generally not considered in gradient echo
+type sequences. However, RARE has many pulses drastically
+increasing SAR. Here we observed no heating, however these were
+single slice experiments so this should be carefully tested in multislice experiments.
+Most methods used to measure BBB permeability in rodents
+have been ex vivo and involve measurement of a labeled molecule
+in the brain after a period of perfusion with blood. These techniques
+have been used to measure catastrophic brain injury, such as that
+occurring after MCAO. The technique describe herein will enable
+the investigator to serially measure subtle changes in BBB permeability over time. This approach will enable evaluation of chronic
+diseases, such as Alzheimer's disease and vascular dementia, where
+disease progression is incremental rather than catastrophic.
+In conclusion, although current methods for DCE-MRI measurement of capillary permeability are satisfactory for clinical use
+with relatively large subjects at low ﬁeld strength, preclinical imaging is trending toward using DCE-MRI in small animals at high
+ﬁeld strength for basic science research. Here we have demonstrated that a RARE pulse sequence, previously demonstrated to
+limit errors due to magnetic susceptibility mismatch to improve
+resolution, combined with a saturation recovery measurement of
+T1, previously demonstrated to improve sensitivity, can be used
+successfully for measuring blood brain barrier permeability at high
+ﬁeld in small animals.
+Conﬂict of interest
+The authors declare no conﬂict of interest.
+Acknowledgments
+This work was conducted in part with support from NSF OSTI
+97-24412 and NIH R01-AG039094 and the Richard A. and Nora
+
+Eccles Harrison Endowed Chair in Diabetes Research. The funding
+agencies had no involvement in study design, collection, analysis
+and interpretation of data, writing of the report or the decision to
+submit the article for publication.
+
+Transparency document
+The transparency document associated with this article can be
+found in the online version at http://dx.doi.org/10.1016/j.bbrc.2015.
+05.034.
+
+References
+[1] J.R. Ewing, R.A. Knight, T.N. Nagaraja, et al., Patlak plots of Gd-DTPA MRI data
+yield bloodebrain transfer constants concordant with those of 14C-sucrose in
+areas of bloodebrain opening, Magn. Reson Med. 50 (2003) 283e292.
+[2] J.R. Ewing, S.L. Brown, M. Lu, et al., Model selection in magnetic resonance
+imaging measurements of vascular permeability: gadomer in a 9L model of rat
+cerebral tumor, J. Cereb. Blood Flow. Metab. 26 (2006) 310e320.
+[3] T.N. Nagaraja, K. Karki, J.R. Ewing, et al., Identiﬁcation of variations in bloodbrain barrier opening after cerebral ischemia by dual contrast-enhanced
+magnetic resonance imaging and T 1sat measurements, Stroke 39 (2008)
+427e432.
+[4] C.S. Patlak, R.G. Blasberg, J.D. Fenstermacher, Graphical evaluation of blood-tobrain transfer constants from multiple-time uptake data, J. Cereb. Blood Flow
+Metab. 3 (1983) 1e7.
+[5] D.R. Locker, D.C. Look, Measurement of electron spin-lattice relaxation times
+using ordinary EPR spectrometers, J. Appl. Phys. 39 (1968) 6119e6120.
+[6] D.C. Look, D.R. Locker, Time saving in measurement of NMR and EPR relaxation times, Rev. Sci. Instrum. 41 (1970) 250e251.
+[7] G. Brix, L.R. Schad, M. Deimling, et al., Fast and precise T1 imaging using a
+TOMROP sequence, Magn. Reson Imaging 8 (1990) 351e356.
+[8] R. Sood, S. Taheri, E.Y. Estrada, et al., Quantitative evaluation of the effect of
+propylene glycol on BBB permeability, J. Magn. Reson Imaging 25 (2007)
+39e47.
+[9] R.A. de Graaf, D.L. Rothman, K.L. Behar, Adiabatic RARE imaging, NMR Biomed.
+16 (2003) 29e35.
+[10] S.M. Grieve, A.M. Blamire, P. Styles, The effect of bulk susceptibility on murine
+snapshot imaging at 7.0 T: A comparison of snapshot imaging techniques,
+Magn. Reson Med. 43 (2000) 747e755.
+[11] J. Hennig, A. Nauerth, H. Friedburg, RARE imaging: a fast imaging method for
+clinical MR, Magn. Reson Med. 3 (1986) 823e833.
+[12] F. Kara, F. Chen, I. Ronen, et al., In vivo measurement of transverse relaxation time in the mouse brain at 17.6 T, Magn. Reson Med. 70 (2013)
+985e993.
+[13] M.E. O'Donnell, Y.-J. Chen, T.I. Lam, et al., Intravenous HOE-642 reduces brain
+edema and Na uptake in the rat permanent middle cerebral artery occlusion
+model of stroke: evidence for participation of the blood-brain barrier Na/H
+exchanger, J. Cereb. Blood Flow. Metab. 33 (2013) 225e234.
+[14] P.A. Barber, L. Hoyte, D. Kirk, et al., Early T1- and T2-weighted MRI signatures
+of transient and permanent middle cerebral artery occlusion in a murine
+stroke model studied at 9.4T, Neurosci. Lett. 388 (2005) 54e59.
+[15] S. Taheri, C. Gasparovic, N.J. Shah, et al., Quantitative measurement of bloodbrain barrier permeability in human using dynamic contrast-enhanced MRI
+with fast T1 mapping, Magn. Reson Med. 65 (2011) 1036e1042.
+[16] R.T. Constable, J.C. Gore, The loss of small objects in variable TE imaging:
+implications for FSE, RARE, and EPI, Magn. Reson Med. 28 (1992) 9e24.
+[17] N.G. Harris, V. Gauden, P.A. Fraser, et al., MRI measurement of blood-brain
+barrier permeability following spontaneous reperfusion in the starch microsphere model of ischemia, Magn. Reson Imaging 20 (2002) 221e230.
+[18] E. Subashi, E.J. Moding, G.P. Cofer, et al., A comparison of radial keyhole
+strategies for high spatial and temporal resolution 4D contrast-enhanced MRI
+in small animal tumor models, Med. Phys. 40 (2013) 022304.
+[19] P. Miao, H. Lu, Q. Liu, et al., Laser speckle contrast imaging of cerebral blood
+ﬂow in freely moving animals, J. Biomed. Opt. 16 (2011) 090502.
+[20] E. Stolz, M. Yeniguen, M. Kreisel, et al., Angioarchitectural changes in subacute
+cerebral venous thrombosis. A synchrotron-based micro- and nano-CT study,
+Neuroimage 54 (2011) 1881e1886.
+
+

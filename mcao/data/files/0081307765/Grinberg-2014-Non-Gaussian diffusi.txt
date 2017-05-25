@@ -1,0 +1,1669 @@
+Non-Gaussian Diffusion Imaging for Enhanced Contrast
+of Brain Tissue Affected by Ischemic Stroke
+Farida Grinberg1,3*., Ezequiel Farrher1., Luisa Ciobanu2., Françoise Geffroy2, Denis Le Bihan2,
+N. Jon Shah1,3
+1 Institute of Neuroscience and Medicine - 4, Forschungszentrum Juelich GmbH, Juelich, Germany, 2 NeuroSpin, Commissariat à l’énergie atomique et aux énergies
+alternatives (CEA Saclay), Gif-sur-Yvette, France, 3 Department of Neurology, Faculty of Medicine, JARA, RWTH Aachen University, Aachen, Germany
+
+Abstract
+Recent diffusion MRI studies of stroke in humans and animals have shown that the quantitative parameters characterising
+the degree of non-Gaussianity of the diffusion process are much more sensitive to ischemic changes than the apparent
+diffusion coefficient (ADC) considered so far as the ‘‘gold standard’’. The observed changes exceeded that of the ADC by a
+remarkable factor of 2 to 3. These studies were based on the novel non-Gaussian methods, such as diffusion kurtosis
+imaging (DKI) and log-normal distribution function imaging (LNDFI). As shown in our previous work investigating the
+animal stroke model, a combined analysis using two methods, DKI and LNDFI provides valuable complimentary information.
+In the present work, we report the application of three non-Gaussian diffusion models to quantify the deviations from the
+Gaussian behaviour in stroke induced by transient middle cerebral artery occlusion in rat brains: the gamma-distribution
+function (GDF), the stretched exponential model (SEM), and the biexponential model. The main goal was to compare the
+sensitivity of various non-Gaussian metrics to ischemic changes and to investigate if a combined application of several
+models will provide added value in the assessment of stroke. We have shown that two models, GDF and SEM, exhibit a
+better performance than the conventional method and allow for a significantly enhanced visualization of lesions.
+Furthermore, we showed that valuable information regarding spatial properties of stroke lesions can be obtained. In
+particular, we observed a stratified cortex structure in the lesions that were well visible in the maps of the GDF and SEM
+metrics, but poorly distinguishable in the ADC-maps. Our results provided evidence that cortical layers tend to be differently
+affected by ischemic processes.
+Citation: Grinberg F, Farrher E, Ciobanu L, Geffroy F, Le Bihan D, et al. (2014) Non-Gaussian Diffusion Imaging for Enhanced Contrast of Brain Tissue Affected by
+Ischemic Stroke. PLoS ONE 9(2): e89225. doi:10.1371/journal.pone.0089225
+Editor: Noam Harel, University of Minnesota, United States of America
+Received October 25, 2013; Accepted January 16, 2014; Published February 27, 2014
+Copyright: ß 2014 Grinberg et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: The authors have no support or funding to report.
+Competing Interests: The authors have declared that no competing interests exist.
+* E-mail: f.grinberg@fz-juelich.de
+. These authors contributed equally to the work.
+
+Most of the reported diffusion stroke studies were performed in
+the low range of diffusion-weightings (b-value), #1 mm22 ms,
+typical for conventional diffusion MRI. In this range, the diffusionweighted (DW) signal of water in the brain tissue as a function of
+the b-value can be approximated by a monoexponential function,
+under the assumption of a Gaussian diffusion propagator [11]. For
+larger b-values, the deviations from the monoexponential function
+become significant [12–14] and a concept of the ADC [15]
+becomes insufficient to describe the signal attenuation curve. The
+exact mechanisms underlying these deviations are not yet fully
+elaborated. Generally, they are attributed to various motional
+restrictions and barriers imposed by tissue microstructure, such as
+cellular membranes or myelin, and may involve complex
+interactions with cellular proteins and membrane permeability.
+Due to the enormous complexity of tissue organisation, various
+contributions to the measured DW signal cannot be decomposed
+easily. However, as recently emphasized [16], it is imperative to
+employ higher b-values in order to get a better access to the
+intracellular space and membrane interactions and thus render the
+DW signal more representative of the cellular microstructure than
+surrounding extracellular water.
+
+Introduction
+Diffusion magnetic resonance imaging (MRI) is known as an
+important tool in early diagnostics and assessment of stroke [1,2].
+Usually, the apparent diffusion coefficient (ADC) exhibits a strong
+reduction within the first half an hour after the onset of infarction
+and allows for a visualisation of the ischemic lesion prior to
+manifestation by other conventional MRI modalities. Diffusion
+changes are associated with a failure of the sodium/potassium
+pump, giving rise to an inter-compartmental water shift and cell
+swelling (cytotoxic oedema). In spite of the high clinical relevance
+and intensive studies, the biophysical mechanisms of the observed
+ADC reduction are not yet well understood [3]. They are most
+frequently ascribed to the combined effects of restricting more
+water in swollen cells and an increased tortuosity of the
+extracellular space. Additional mechanisms may include changes
+in membrane permeability [4], amount of bound water [5],
+destruction of intracellular organelles [6] and cytoplasmic streaming [7]. More recent studies suggest focal enlargements of cellular
+projections (the so-called neurite beading) [8–10] as an essential
+mechanism of decreasing the diffusion coefficient.
+
+PLOS ONE | www.plosone.org
+
+1
+
+February 2014 | Volume 9 | Issue 2 | e89225
+
+Non-Gaussian Diffusion Imaging in Stroke
+
+In recent years, non-Gaussian diffusion methods permitting the
+analysis of the DW signal over a larger range of b-values have
+gained an increasing importance in brain research. During the last
+one and a half decades several approaches, such as diffusion
+kurtosis imaging (DKI) [17,18], biexponential diffusion tensor
+analysis (BEDTA) [13,14,19–21], the statistical model by Yablonskiy [22], the stretched-exponential model (SEM) [12,23] or
+its modifications to describe anomalous diffusion [24–28], have
+been suggested to account for deviations from the Gaussian model.
+Although a link with tissue microscopic features is not straightforward, all these approaches permit the quantification of the degree
+of non-monoexponentiality of the DW signal based on different
+assumptions [29,30]. Some approaches, such as DKI, are
+empirical in their nature and aim to describe the attenuation of
+the MRI signal using a set of phenomenological parameters. Other
+models use geometric schemes [31–33], such as a set of oriented
+cylinders describing axonal formations in white matter (WM), or a
+set of macroscopically disordered cylinders as an approximate of
+neuronal processes in gray matter (GM). In particular, DKI is a
+model-free extension of conventional diffusion MRI (in particular,
+diffusion tensor imaging, DTI), making use of a higher order
+quadratic term in the Taylor series expansion of the natural
+logarithm of the DW signal. BEDTA represents the simplest
+realization of the frequency distribution of the ADCs given by a
+discrete sum of two exponentials. It assumes the existence of two
+water pools with different ADCs. These pools can be attributed,
+for example, to different compartments (intracellular, ICS, and
+extracellular, ECS, space) [32], or to free and bound water [5].
+The statistical model [22] extends a discrete number of pools to a
+continuous distribution of ADCs. In this way it accounts for the
+complexity and heterogeneity of the tissue microstructure that
+imposes motional restrictions and hindrances on various length
+scales and models different local diffusion environments for
+diffusion of different spin ensembles. Further models specify
+axonal sizes and densities as a source of the ADC distribution and
+support the experimental protocols for their determination
+[34,35].
+These models provide a more accurate approximation of the
+DW signal than conventional diffusion MRI in the moderate to
+high b-value ranges [36] and enrich the information on the brain
+tissue microstructure [37,38]. Nevertheless, regarding their applications to the study of diseases, non-Gaussian approaches are still
+at an early stage since the related progress remained rather slow,
+mainly, due to technical problems. In the early implementations,
+the impediment to clinical adoption was primarily due to a severe
+decrease in the signal-to-noise ratio with increasing b-values,
+leading to a prolongation of the acquisition time above the clinical
+requirements. In recent years, however, more and more applications have been reported to provide enhanced information on
+microstructural properties of healthy and pathological tissues. A
+real breakthrough was achieved with DKI in recent years as it has
+been demonstrated to provide promising biomarkers in healthy
+aging [39,40], stroke [9,10,41–43] and in neurodegenerative
+diseases, such as Parkinson’s [44], Huntington’s [45], and
+Alzheimer’s diseases [46]. Besides, DKI has been demonstrated
+to be helpful in glioma grading [47,48]. Promising applications of
+the SEM have been reported by Bennett et al. to investigate brain
+tumours [49], and also BEDTA has been shown to provide
+interesting results in the study of tumours [49,50].
+Regarding stroke, an enhancement of DKI metrics in ischemic
+lesions was observed by Jensen et al. [10] in humans and a similar
+enhancement was reported in the animal stroke model by
+Grinberg et al. [41]. Interestingly, the amount of change in DKI
+parameters reported in these two works was very similar in spite of
+PLOS ONE | www.plosone.org
+
+the differences in the substrate tissues carrying the lesions, that is,
+WM in the human brain [10] and GM in the rat brain [41]. In
+both tissue types, the ADC has changed by 30–40%, typical for
+stroke, whereas the mean kurtosis (MK) changed up to 100–150%
+within the first 24 hours after symptom onset. A larger absolute
+percent change in kurtosis metrics in comparison to the ADC was
+also reported by Hui et al. [9] for a large group of stroke patients
+(retrospective study of 44 patients) who underwent investigations
+within the first 2 weeks after the onset. Based on a WM model that
+describes the microstructure in terms of extra- and intra-axonal
+environments, the observed changes in diffusion metrics were
+attributed to a significant drop in the intra-axonal diffusion
+microenvironment as a dominating factor, consistent with a
+proposed mechanism of axonal beading [8].
+In our previous work [41], the DKI study of the animal stroke
+model was complemented by the investigation of another nonGaussian model called log-normal distribution function imaging
+(LNDFI). It is based on the statistical approach and describes the
+diffusion behaviour in terms of the log-normal distribution
+function of ADCs. It was shown to provide a good signal
+description of the DW signal down to 4% of the initial non-DW
+value. Previous results have demonstrated that the peak diffusivity,
+DLD, and the scale parameter, sLD, of the LNDFI model exhibit
+an enhanced sensitivity to ischemic lesions, i.e. ,60% change in
+sLD and ,50% in DLD.
+These findings raised our interest in the following question:
+what are the advantages of other non-Gaussian models suggested
+in the literature and how they will perform in the assessment of
+stroke in comparison to each other? In this work we provide a
+characterisation of the ischemic lesions in animals by three nonGaussian models: a) SEM, b) the statistical model based on the
+gamma distribution function (GDF), and c) BEDTA. Our goal was
+to investigate the applicability and sensitivity of the quantitative
+metrics in these models as biomarkers of stroke-induced microstructural changes in animals. We compared the performance of
+these models with previously investigated DKI and LNDFI. We
+hypothesized that simultaneous application of several models can
+provide added value in the assessment of stroke.
+
+Theoretical Background
+Monoexponential and kurtosis models
+In isotropic non-confined media, diffusion is described by the
+Gaussian propagator. The conjunct normalised DW signal (i.e. the
+signal intensity divided by its value in absence of diffusionweighting gradients), S(b), is given by a monoexponential function
+[51]
+S(b)~exp({bDm ),
+
+ð1Þ
+
+where Dm is the diffusivity and b is the diffusion-weighting factor
+depending on the strength, duration, and separation intervals of
+the magnetic field gradient pulses. In isotropic ordinary liquids,
+Eq. (1) provides an estimate of the intrinsic diffusion coefficient
+determined merely by viscosity and temperature. In brain tissue,
+Eq. (1) provides a good approximation of the signal decay only for
+low b-values used in conventional diffusion MRI. However, the
+experimental values of Dm appear reduced with respect to the
+intrinsic diffusivity value due to the influence of various motional
+barriers (cellular membranes, myelin sheaths, organelles, etc.) and
+other interactions during the typical observation times. Moreover,
+in macroscopically anisotropic media, such as WM, the experimental values of Dm are reduced by an amount that depends also
+on the direction of the diffusion-weighting magnetic field
+2
+
+February 2014 | Volume 9 | Issue 2 | e89225
+
+Non-Gaussian Diffusion Imaging in Stroke
+
+Figure 1. Photomicrograph showing the cortical lamination pattern in a normal rat brain. Superimposed photomicrograph of NeuN
+(antibody against neuronal nuclei), green, and DAPI (49,69-diamidino-2-phenylindole), blue, staining demonstrating the cortical lamination. Scale bar
+100 mm.
+doi:10.1371/journal.pone.0089225.g001
+
+gradients. Using the measurements of the DW signal in at least 6
+gradient directions DTI describes the diffusion behaviour in terms
+of scalar metrics such as mean diffusivity (MD) or fractional
+anisotropy (FA) [52]. In complex media, the measured metrics will
+depend not only upon the genuine features of the underlying
+microstructure itself but also on the experimental parameters such
+as sequence timings. To keep these factors in mind, the diffusion
+coefficient evaluated from the pulsed field gradient MRI
+experiments in brain tissue is conventionally referred to as the
+ADC [15].
+DKI accounts for deviations from the pattern of Gaussian
+diffusion by including a second-order term in the Taylor
+expansion of the natural logarithm of the DW signal. The DW
+signal then can be written as [17]
+1
+S(b)&exp({bDK z b2 D2K K)
+6
+
+ð
+LSðbÞ
+~ PðDÞDdD:SDT:
+b?0 Lb
+
+{ lim
+
+A comparison with the monoexponential model shows that SDT
+will be close to Dm evaluated via Eq. (1) in the range of very low bvalues. It should be noted that a similar differentiation between the
+intrinsic and reduced diffusion coefficients as in the case of
+monoexponential function applies for distributed diffusivities. As
+an example, the diffusivity distributions in polymer solutions are
+most frequently due to a distribution of macromolecular sizes. In
+that case, the measured distribution refers to intrinsic diffusivities
+and allows one to deduce information on polymer polydispersity
+[53,54]. In contrast, the statistical model of diffusion in biological
+tissue [22] attributes the distribution to a large number of spin
+packets each characterised by its individual reduced (or apparent)
+diffusivity. The reason for the distribution is that, because of
+restrictions and hindrances in a disordered media, various spin
+packets tend to explore somewhat different local environments
+during the observation time. In general, the individual spin packets
+are due to heterogeneity of the environment and do not necessarily
+require an existence of separated physical compartments in the
+tissue. The distribution of reduced diffusivities due to motional
+barriers, giving rise to non-monoexponential signal attenuations,
+can originate also from the same compartment as was demonstrated, for example, by Monte Carlo simulations [55] and
+phantom studies [56] for diffusion in the interstitial space between
+oriented cylindrical objects.
+According to Eq. (4), the distribution function P(D) can be
+found from the experimental data via inverse Laplace transform.
+However, the latter represents a well-known, ill-conditioned
+mathematical problem and leads to unstable computational
+solutions [57]. Therefore, for practical purposes, it is more
+convenient to assume an explicit form of P(D) and to fit it to the
+experimental values. In general, many functional forms may
+provide satisfactory fits to the experimental data points. The
+choice of such a function is usually done empirically since the
+related theories usually do not provide predictions for the specific
+shape of the distribution. The principal requirement is that the
+distribution function does not contain unphysical negative
+diffusivities and is thus asymmetric. Examples are the truncated
+normal distribution function [22] and the log-normal distribution
+function [58].
+In the past, the log-normal distribution function was applied in
+the study of polymer diffusion [53] and, more recently, it has been
+
+ð2Þ
+
+where DK and K denote the apparent diffusivity and the apparent
+kurtosis for an individual gradient direction, respectively. DK
+determines the initial slope of the signal attenuation curve
+{ lim
+
+b?0
+
+LSðbÞ
+~DK ,
+Lb
+
+ð3Þ
+
+and coincides with the ADC evaluated for the same gradient
+direction under the assumption of monoexponential approximation in the low b-value range. MK can be evaluated as the
+arithmetic average of K along various gradient directions [37].
+Due to the truncation of higher order terms, applicability of DKI
+is limited to a moderate range of b-values, bƒ3=DK K.
+
+Statistical model
+Generally, heterogeneous systems give rise to more than one
+single diffusion coefficient. Assuming a continuous distribution of
+diffusion coefficients, P(D), the DW signal can be written as
+follows
+ð
+SðbÞ~ PðDÞexpð{bDÞdD
+
+ð4Þ
+
+with the initial slope of the attenuation curve yielding the mean
+diffusivity, SDT, of the distribution
+
+PLOS ONE | www.plosone.org
+
+ð5Þ
+
+3
+
+February 2014 | Volume 9 | Issue 2 | e89225
+
+Non-Gaussian Diffusion Imaging in Stroke
+
+Figure 2. Experimental DW signal, fits and residuals. Diffusion-weighted signal as a function of b-value for two selected voxels in the ischemic
+and healthy regions. The fits (A, B, C) are shown for the gamma-distribution function (A), the stretched-exponential model (B), and the biexponential
+diffusion tensor analysis (C) for two fitting ranges. Absolute residuals (D–G) as a function of b. The bars indicate standard deviations around the
+means.
+doi:10.1371/journal.pone.0089225.g002
+
+used with the animal stroke model [41]. Being positive-definite it
+does not require an artificial cut off for negative diffusivity values.
+However, the disadvantage of this function is that, in combination
+with Eq. (4), it does not yield an analytically tractable integral and
+therefore requires time consuming numerical solutions. As an
+alternative, the gamma distribution function, PG(D) has been
+suggested recently and applied in the study of polymer diffusion
+[54]:
+
+PLOS ONE | www.plosone.org
+
+PG ðD,k,hÞ~Dk{1
+
+expð{D=hÞ
+,
+CðkÞhk
+
+ð6Þ
+
+where C is the gamma function, h is the scale parameter of the
+same dimensionality as the diffusivity, and k is the shape
+parameter. Replacing P(D) in Eq. (4) by PG(D), Eq. (6), gives
+the following expression for the DW signal attenuation [54]:
+
+4
+
+February 2014 | Volume 9 | Issue 2 | e89225
+
+Non-Gaussian Diffusion Imaging in Stroke
+
+Table 1. The values of fit parameters for GDF (h, s), SEM
+(DDC, aSE), and BEDTA (ADCf, ADCs, and ff) in two fitting
+ranges; the values of SADCTGD and sGD correspond to fit
+parameters of GDF.
+
+model
+GDF
+
+SEM
+
+BEDTA
+
+b = 3.5 ms mm22
+
+b = 6.0 ms mm22
+
+parameter
+
+healthy
+
+stroke
+
+healthy
+
+stroke
+
+SADCTGD
+
+0.7160.02
+
+0.5260.03
+
+0.7260.02
+
+0.5160.02
+
+sGD
+
+0.3060.05
+
+0.4960.06
+
+0.3560.04
+
+0.4760.04
+
+h
+
+0.1360.04
+
+0.4660.12
+
+0.1760.04
+
+0.4360.08
+
+k
+
+5.6061.89
+
+1.1360.30
+
+4.2360.99
+
+1.1860.22
+
+DDC
+
+0.6360.01
+
+0.3260.01
+
+0.6260.02
+
+0.3160.01
+
+aSE
+
+0.9260.03
+
+0.7860.04
+
+0.8960.03
+
+0.7460.03
+
+ADCf
+
+0.7460.01
+
+0.6660.19
+
+0.7760.05
+
+0.8960.15
+
+ADCs
+
+0.0160.49
+
+0.0160.19
+
+0.1560.01
+
+0.1560.03
+
+ff
+
+0.9360.14
+
+0.7260.26
+
+0.8860.08
+
+0.4660.09
+
+SðbÞ~ð1zbhÞ{k :
+
+ð7Þ
+
+The free parameters, h and k, can be expressed through the mean
+diffusion coefficient and standard deviation, sG, as [54]:
+
+h~s2G SDT,
+
+ð8Þ
+
+
+k~SDT2 s2G :
+
+ð9Þ
+
+In application to polydisperse polymers, Röding et al. [54] have
+shown that both functions, log-normal distribution function and
+GDF, provide strongly correlated estimates. However, the
+computational speed for GDF was much faster than for the lognormal distribution function making it a preferable choice in
+studies of macromolecular polydispersity.
+
+Biexponential model
+
+The experimental curves together with their fits are shown in Figure 2. All
+diffusivity values are in ms21 mm2.
+doi:10.1371/journal.pone.0089225.t001
+
+The biexponential model represents a simple realisation of the
+distribution function with only two mode contributions
+
+Figure 3. Dependence of the x2-maps on the fitting range. Anatomical RARE (Rapid Acquisition with Refocused Echoes) images (upper panel)
+and x2-maps (lower panel) for various b-values and four slices in animal 1. The errors increase throughout the image with increasing b. In lesions and
+white matter regions the increase is especially strong, leading to a more clear contrast at larger b. The regions-of-interest used for averaging of the
+measured parameters are shown in RARE images in cyan and green. Red arrows indicate the locations of the voxels used in Figure 2.
+doi:10.1371/journal.pone.0089225.g003
+
+PLOS ONE | www.plosone.org
+
+5
+
+February 2014 | Volume 9 | Issue 2 | e89225
+
+Non-Gaussian Diffusion Imaging in Stroke
+
+Figure 4. Estimates of the goodness-of-fits. x2- and R2-maps and the corresponding histograms in ranges 1 and 2.
+doi:10.1371/journal.pone.0089225.g004
+
+SðbÞ~ff expð{bDf Þzð1{ff Þexpð{bDs Þ,
+
+or one of the component fractions is equal to 0 or to 1. In the
+opposite limit of the strongest non-monoexponentiality,
+aBEDTA = 1, both fractions are equal to each other (ff ~0:5) and
+one of the diffusivities is negligibly small (for instance,
+Ds = 0 mm2 ms21).
+
+ð10Þ
+
+where Df and Ds are the (apparent) diffusivities of the fast and slow
+attenuation components, and ff and fs :1{ff are the relative
+fractions of the fast and slow components, respectively. The
+biexponential function has been frequently evoked in the frame of
+‘‘two-compartment’’ models [32,59] for water in the extra-cellular
+and intra-cellular spaces, respectively. An alternative interpretation attributes the biexponential behaviour of the diffusion signal
+to the presence of ‘‘bound’’ and ‘‘free’’ water pools [5] that may
+exist within the same compartment. Statistically uniform but
+disordered media can also exhibit quasi-biexponential behaviour
+which then reflects the presence of distinct disorder length scales
+rather than the presence of separate compartments or pools [60].
+Under certain circumstances, in the short time limit, a quasibiexponential behaviour can be caused by the so-called ‘‘edge
+enhancement effects’’ due to restricting boundaries within the
+same compartment [61,62]. In general, interpretation of the fast
+and slow diffusion processes in the brain tissue remains elusive [15]
+and requires caution in its application. Nevertheless, the
+biexponential function remains a useful model, especially in
+WM, as it captures significant features of the diffusion behaviour.
+BEDTA allows one to evaluate a single parameter, aBEDTA,
+quantifying the degree of non-monoexponentiality and sensitive to
+the presence of a slow diffusion fraction [14]:
+
+aBEDTA ~
+
+qﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+ff ðDf {SDTÞ2 z(1{ff )ðDs {SDTÞ2
+SDT
+
+,
+
+Stretched-exponential model
+The stretched-exponential function is well known with regard to
+the global time relaxation behaviour of a disordered system that
+can be described by a superposition of independently relaxing
+exponential modes [63]. Bennett et al. [12] adapted this model to
+characterize heterogeneity of the DW signal as follows
+S(b)~S0 expf{ðb|DDC ÞaSE g,
+
+ð12Þ
+
+where DDC is the distributed diffusion coefficient, and aSE is the
+stretching exponent characterising deviations from the monoexponential behaviour (the so-called heterogeneity index,
+0#aSE#1). For the Gaussian model, aSE = 1. Note that the initial
+slope of the function does not provide the mean diffusivity, since
+the first derivative of Eq. (12) exhibits a singularity at b = 0.
+Obviously, the characteristic parameter of this model, DDC, does
+not coincide with the mean diffusivity except for aSE = 1.
+The stretched exponential function also arises in the context of a
+continuous time random walk model [64]. This model gives rise to
+anomalous diffusion behaviour by assuming that either jump
+lengths or time steps obey the power law distribution. In the
+anomalous and fractal model approaches [23,25,28], lower aSE
+values indicate increasing disorder of the microenvironment in
+which the molecules diffuse.
+
+ð11Þ
+
+where SDT:ff Df zð1{ff ÞDs . aBEDTA = 0 corresponds to a
+monoexponential decay, which implies that either Df = Ds = Dm
+PLOS ONE | www.plosone.org
+
+6
+
+February 2014 | Volume 9 | Issue 2 | e89225
+
+Non-Gaussian Diffusion Imaging in Stroke
+
+Figure 6. Zoomed regions. Zoomed regions of the maps shown in
+Figure 5 for selected parameters best representing the layered structure
+in the lesions (left, slice 1) and WM tracts (right, slice 3).
+doi:10.1371/journal.pone.0089225.g006
+
+Figure 5. Parameter maps (animal 1). The maps of the investigated
+model parameters of the four slices in animal 1. The numbers on the
+scale bars that refer to ADCm, h, SADCTGD , DDC, ADCf, and ADCs, are
+in units ms21 mm2.
+doi:10.1371/journal.pone.0089225.g005
+
+sucrose solution for 12 h and in 30% sucrose solution for 24 h for
+cryoprotection. 10 mm thick tissue slices were sectioned using a
+cryostat (Microm HM 560, Thermo Scientific, Courtaboeuf
+Cedex, France). Fluorescence microscopy was performed on an
+Axio Observer Z1 microscope (Carl Zeiss MicroImaging, Jena,
+Germany). One slice was treated with an antibody against
+neuronal nuclei (NeuN, Millipore, MAB377X, alexa 488 conjugated) and with 49,69-diamidino-2-phenylindole (DAPI) staining in
+order to highlight the different cell densities within the cortex.
+Figure 1 demonstrates NeuN/DAPI labeled photomicrograph
+showing the cortical lamination. Scale bar = 100 mm.
+
+Materials and Methods
+Animals
+Transient middle cerebral artery occlusion (MCAO) was
+induced [65] in three animals (300 g, Sprague-Dawley male rats)
+for the stroke experiments. The rats underwent a 90 min transient
+occlusion and were imaged 24 hours after reperfusion. The
+animals were anaesthetised with isoflurane (2%) administered in
+a mixture of air/oxygen through a nose cone and maintained at
+constant temperature (37uC) using a feedback-controlled air
+heating system (MR-compatible small animal heating system, SA
+Instruments, Inc., NY). The diffusion weighted acquisitions were
+respiration triggered. All experiments complied with French
+legislation and guidelines for animal research. The animal protocol
+was approved by the Comité d’EThique en Expérimentation
+Animale Commissariat à l’Energie Atomique et aux énergies
+alternatives Direction des Sciences du Vivant Ile de France
+(CETEA CEA DSV IdF).
+
+MRI experiments
+MRI experiments were performed on a 7T system (Bruker,
+PharmaScan) equipped with magnetic field gradients with
+maximum strength of 760 mT/m and a home-built RF surface
+coil (2.5 cm diameter). Rapid Acquisition with Refocused Echoes
+(RARE) T2-weighted images were acquired to localize the lesions
+(TR = 5530 ms, effective TE = 76 ms, FOV = 363 cm2, matrix
+size = 1286128, slice thickness = 1 mm, NEX = 2). Four-segment
+DW SE EPI images were acquired with the following acquisition
+parameters: TR/TE = 3000/30 ms, FOV = 363 cm2, matrix size
+1286128, in-plane voxel size 2346234 mm2, slice thickness 1 mm,
+number of slices 4, slice gap 0.2 mm, diffusion field gradient
+duration d = 5 ms, NEX = 4, and interpulse spacing between the
+gradient pulses D = 17 ms. The number of gradient directions was
+
+Immunohistochemistry and fluorescence microscopy
+Brains were perfused with a saline solution and, after complete
+blood removal, with 4% paraformaldehyde, and extracted. They
+were kept in paraformaldehyde for 2 h for tissue fixation, in 15%
+PLOS ONE | www.plosone.org
+
+7
+
+February 2014 | Volume 9 | Issue 2 | e89225
+
+Non-Gaussian Diffusion Imaging in Stroke
+
+The fits of the investigated models were compared for two bvalue ranges (range 1 and range 2). The fit quality was quantified
+via evaluation of x2- and R2-maps according to:
+
+x2 ~
+
+N
+1X
+½yi {Sðbi Þ2 ,
+g i
+
+N
+P
+2
+
+R ~1{
+
+ð13Þ
+
+½yi {S ðbi Þ2
+
+i
+N
+P
+
+,
+
+ð14Þ
+
+½yi {
+y2
+
+i
+
+20 (we omit a specification of the unit vectors since this
+investigation is focused mainly on the orientationally averaged
+parameters). The following five b-values were used for all animals:
+0, 0.5, 1, 2.5, 3,5 mm22 ms. Two more b-values at 5 and
+6 mm22 ms were added to the measurement protocol of animal 1
+in order to produce a stronger attenuation and check its influence
+on the fitting procedure. In the following, the fitting ranges with
+b#3.5 mm22 ms and b#6 mm22 ms will be denoted as range 1
+and range 2, respectively.
+
+where yi is the normalised signal amplitude of the i-th
+experimental point, S(bi) is value of the fitting function,
+g~N{n with n being the number of free parameters and N
+being the number of experimental points, 
+y is the mean of the
+normalized signal amplitude. The mean absolute residuals were
+evaluated for each b-value as SjrjTi ~Sjyi {Sðbi ÞjT, where the
+average is taken over all voxels in a region of interest (ROI) in all
+slices and all animals. x2-maps were evaluated also for the
+monoexponential fits for different b-value ranges in order to
+visualize the deviations for increasing b.
+The anisotropy of the DW signal in all ROIs was practically
+negligible since the ischemic lesions studied were located only in
+GM. Therefore, to enhance the SNR, the non-Gaussian models
+were fitted to the mean experimental curves averaged over all
+gradient directions. In the following, to appreciate the ‘‘apparent’’
+nature of the evaluated diffusivities, we shall denote them as ADCs
+with subscripts indicating the model (‘‘m’’ for monoexponential,
+‘‘K’’ for DKI, ‘‘GD’’ for GDM, ‘‘LD’’ for LNDFI. Subscripts ‘‘f’’
+and ‘‘s’’ will denote fast and slow diffusivities in BEDTA. The
+maps were constructed for DDC and aSE (SEM), h and k (GDF),
+and ADCf, ADCs, and fs (BEDTA). In addition, we evaluated
+SADCTGD and sGD with Eqs. (8, 9) in order to enable a
+comparison with typical parameters such as the mean ADC and
+standard deviation. The histograms of the investigated parameters
+were taken over all slices for animal 1. The average values of
+different metrics were evaluated for two ROIs located in the
+ischemic lesions, and compared with the corresponding values in
+healthy counterparts. The ROIs were placed in the cerebral cortex
+(CT) and caudate putamen (CPu). The relative changes of the
+parameters in lesions compared to the healthy counterparts were
+evaluated, in per cent, as the ratio of the difference between the
+average values of a given parameter in the ischemic and healthy
+ROIs with respect to the average value in the healthy ROI. The
+averages were taken over all slices and animals (12 slices in total).
+Further details regarding the MR experiments and data processing
+are described elsewhere [41].
+
+Data analysis
+
+Results
+
+Figure 7. Parameter maps (all animals). Anatomical RARE ((Rapid
+Acquisition with Refocused Echoes)) images and maps of ADCm, h, k,
+SADCTGD , sGD, DDC, aSE for one selected slice best representing the
+ischemic lesion in each of the three animals. All diffusivities are in units
+ms21mm2. The regions-of-interest used for averaging of the measured
+parameters are shown in RARE images in cyan and green.
+doi:10.1371/journal.pone.0089225.g007
+
+Bias in the DW images due to the background noise was
+corrected using the power-images method [66,67]. Computation
+of parameter maps was performed with in-house Matlab scripts
+(Matlab, The MathWorks, Natick, MA, USA). The normalized
+DW signal intensities, S(b), were fitted on a voxel-by-voxel basis
+using the functions described above, Eqs. (1, 2, 7, 10, 12), with the
+help of the nonlinear least-squares Nelder-Mead algorithm in the
+range of b-values indicated above, except for the monoexponential
+fits which were performed for b#1 mm22 ms. An upper boundary
+constraint (#3 mm2 ms21) was set according to the diffusivity of
+free water at 37uC.
+
+PLOS ONE | www.plosone.org
+
+Typical diffusion attenuation curves for two representative
+voxels located in healthy and affected regions are shown in
+Figures 2a–2c, together with their fits using GDF, SEM and
+BEDTA, respectively. Fit parameters are listed in Table 1. The
+monoexponential function is shown as a black dashed line for the
+healthy voxel as an example. Clear deviations from the
+monoexponential behaviour occur for b.1 mm22 ms. In
+Figure 3, x2-maps of the monoexponential fits visualise how these
+deviations increase with increasing b-value. The maps are shown
+for 4 different slices in animal 1. At b = 1 mm22 ms, the x2-maps
+look rather homogeneous but exhibit increasing contrast between
+8
+
+February 2014 | Volume 9 | Issue 2 | e89225
+
+Non-Gaussian Diffusion Imaging in Stroke
+
+Figure 8. Histograms of parameter metrics. Histograms of parameter metrics of the investigated models evaluated separately for affected and
+contralateral hemispheres taken over all slices (animal 1).
+doi:10.1371/journal.pone.0089225.g008
+
+to other models), indicating larger errors. A more detailed
+statistical analysis is represented by the values of SjrjT evaluated
+separately for the four ROIs studied (CT healthy, CT lesion, CPu
+healthy, CPu lesion) and averaged over all slices in animal 1. The
+mean residuals exhibited no tendency for systematically increasing
+errors with increasing b-values, indicating robustness of the fits
+regarding the range. At any b-values, the values of SjrjT did not
+exceed approximately 60.02 for GDF and BEDTA, and 60.04
+for SEM. SEM shows, in general, larger errors than GDF and
+BEDTA. However, based on the analysis of the residuals and of
+standard deviations of the fitted values, both the GDF and SEM
+models provided satisfactory fits. For BEDTA, a satisfactory
+reliability of the fitted parameters was found only in the range 2,
+whereas the standard deviations of the fitted parameters in range 1
+were too high, see Table 1. This is because, in range 1, the DW
+signal was dominated by the fast component, and the slow
+component could not be reliably estimated. Therefore, we omitted
+the results of the statistical analysis for BEDTA in range 1 from
+further consideration.
+
+GM and WM (see the ‘‘brightening’’ of WM tracts such as the
+corpus callosum) in accordance with similar findings in human
+brain [68]. Moreover, stroke lesions cannot be recognised in x2maps for b#1 mm22 ms (see anatomic RARE-maps for their
+locations) but become strikingly enhanced for larger b. Thus, the
+x2-maps provide a clear evidence for that the degree of nonGaussianity is higher in stroke lesions than in healthy tissue.
+The fit values (see Table 1) were similar for both ranges of bvalues with the exception of ADCs in BEDTA. The overall fit
+quality by all three models was good in both fitting ranges as
+demonstrated in Figure 4 by the corresponding x2- and R2-maps
+and their histograms averaged over all slices in animal 1, as an
+example, as well as in Figures 2d–2g by the analysis of the mean
+absolute residuals as a function of b-value. In both ranges, the x2and R2-maps look similar to each other for all three models
+demonstrating a satisfactory homogeneity across most parts of
+images with rather low values for x2, and values close to 1 for R2.
+Somewhat increased lesion-to-tissue and WM-GM contrasts can
+be recognised for SEM in range 2 (when comparing to range 1 and
+
+PLOS ONE | www.plosone.org
+
+9
+
+February 2014 | Volume 9 | Issue 2 | e89225
+
+Non-Gaussian Diffusion Imaging in Stroke
+
+Table 2. Relative changes of the model parameters evaluated in two lesions, CT and CPu, averaged for 4 slices in animal 1.
+
+CT
+
+CPu
+
+Healthy
+
+Stroke
+
+Relative
+change
+[%]
+
+Healthy
+
+Stroke
+
+Relative
+change
+[%]
+
+SADCTGD
+
+0.7960.10
+
+0.4960.11
+
+238
+
+0.7960.05
+
+0.5660.07
+
+228
+
+sGD
+
+0.4160.11
+
+0.4360.14
+
+5
+
+0.4560.07
+
+0.4960.08
+
+8
+
+h
+
+0.2160.09
+
+0.3760.17
+
+75
+
+0.2660.07
+
+0.4260.09
+
+61
+
+k
+
+4.1461.94
+
+1.4360.32
+
+265
+
+3.2360.79
+
+1.3860.21
+
+257
+
+DDC
+
+0.6760.07
+
+0.3360.04
+
+251
+
+0.6560.03
+
+0.3760.04
+
+242
+
+aSE
+
+0.8860.03
+
+0.8160.05
+
+27.9
+
+0.8660.03
+
+0.7960.03
+
+27.6
+
+ADCf
+
+1.0560.25
+
+0.8660.24
+
+218
+
+1.0660.17
+
+0.8560.10
+
+220
+
+ADCs
+
+0.3260.10
+
+0.1560.03
+
+254
+
+0.3060.07
+
+0.1360.02
+
+256
+
+ff
+
+0.6460.14
+
+0.4760.07
+
+226
+
+0.6360.11
+
+0.5760.05
+
+29.4
+
+a
+
+0.4460.08
+
+0.7360.09
+
+65
+
+0.5360.09
+
+0.6460.07
+
+20
+
+All diffusivity values are in ms21 mm2.
+doi:10.1371/journal.pone.0089225.t002
+
+Figure 5 shows the maps of ADCm, h, k, SADCTGD , sGD,
+DDC, aSE, ADCf, ADCs, fs, and aBEDTA for animal 1, all of them
+providing a clear contrast for two of the ischemic lesions. These
+maps refer to the fitting range 2. The values of ADCm, k,
+SADCTGD , DDC and aSE, ADCs, and fs and aBEDTA were
+strongly decreased in the ischemic regions, whereas h and sGD
+were significantly enhanced. The t-tests performed on these values,
+comparing healthy against affected ROIs, showed that the changes
+in all above parameters were significant (p,0.001).
+The contrasts provided by the various model parameters exhibit
+essential differences. When comparing them to the conventional
+ADCm-map, the most similar contrast was produced by
+SADCTGD . This is not surprising since ADCm, evaluated in the
+low b-value range must be rather close to the mean diffusivity
+represented by SADCTGD , see Eq. (5). This finding confirms the
+robustness of the GDF model: the values of SADCTGD were
+directly evaluated from the fitted values of h and k using the large
+range of b-values, up to 6 mm22 ms, where the signal was reduced
+by a factor 5 to 10. The DDC-maps provided a somewhat greater
+
+contrast than the ADCm-maps. Considering BEDTA, we may
+state that the corresponding parameter maps were much noisier
+than the maps of the other models. Nevertheless, the BEDTAmaps provided useful information showing that, in stroke, ADCs
+decreases more than ADCf, and that fs increases. This emphasises
+that the dominant changes in diffusion are associated with the slow
+diffusion component. aBEDTA-maps produced much more clear
+visualization of the lesions than each of the three fitting parameters
+taken separately.
+In several maps of non-Gaussian quantities, h, k, aSE and
+aBEDTA, an apparent stratified laminar structure of the cortex can
+be observed in the lesions whereas it is difficult to be recognised in
+the ADCm-maps. This is demonstrated in detail by the zoomed
+areas of the selected parameters in Figure 6, left column. The
+laminar structure is best visualised in the aSE -map. Interestingly, it
+is apparent only in the stroke-affected tissue providing evidence for
+differences in the ischemic response by different cortical layers. In
+general, the non-Gaussian parameters tended to capture microstructural features in more detail than the diffusivity maps: see
+
+Figure 9. Overview of the average parameter changes. Relative changes in per cent of the values of the investigated model parameters
+averaged over all slices in each animal and over all three animals; error bars indicate the standard deviations. For a better overview, we included here
+the data for DKI (Dm and MK) and LNDFI (DLD and sLD) investigated in the previous work [41].
+doi:10.1371/journal.pone.0089225.g009
+
+PLOS ONE | www.plosone.org
+
+10
+
+February 2014 | Volume 9 | Issue 2 | e89225
+
+Non-Gaussian Diffusion Imaging in Stroke
+
+Figure 10. Scatter plots. Scatter plots for different combinations of parameters: h vs. k (gamma-distribution function, GDF) DDC vs. aSE (stretched
+exponential model, SEM), and ADCm vs. each of the GDF and SEM parameters. The Pearson’s, r, and Spearman’s, r, correlation coefficients are shown
+in Table 3.
+doi:10.1371/journal.pone.0089225.g010
+
+WM tracts that appear much brighter in h-, k-, and aSE-maps than
+in the ADCm-maps in Figures 5 and 6 (zoomed areas, right panel).
+These effects remained when fitting the data over the smaller
+range of b-values, b#3.5 mm22 ms, as demonstrated in Figure 7
+for one selected slice in each of the animals. Here also the
+structural details were more favourably visualised in the h-, k- ,
+sGD- and aSE -maps rather than in the ADCm-, SADCTGD - or
+DDC-maps.
+The observed contrasts were accompanied by significant shifts
+of the parameter histograms shown in Figure 8. The histograms of
+diffusivities, ADCm, SADCTGD and DDC, exhibit similar shifts of
+their substantial parts towards significantly smaller values. The
+histograms of non-Gaussianity metrics, k and aSE, were also
+shifted towards smaller values with a clear peak-like feature in the
+k-histogram compared to a shoulder-like spread in aSE. Shifts
+towards higher values were observed in the histograms of h and fs.
+Table 2 summarises the average values of various metrics as well
+as their relative changes in the affected versus healthy regions (all
+
+parameters refer to animal 1, range 2). When comparing two
+models, GDF and SEM, the largest changes were observed for h in
+GDF (75% in CT and 61% in CPu) followed by k (265% in CT
+and 257% in CPu). The changes of SADCTGD (238% in CT
+and 228% in CPu) were similar to that of ADCm (242% in CT
+and 232% in CPu). SEM exhibited larger changes of DDC
+(251% in CT and 242% in CPu) than ADCm. However, the
+relative changes in aSE (about 8%) were low compared to other
+metrics. BEDTA parameters exhibited a larger decrease of ADCs
+(254% in CT and 256% in CPu) relative to both ADCf (218% in
+CT and 220% in CPu) and ADCm.
+Figure 9 summarises the relative parameter changes in GDF
+and SEM averaged over all slices measured for all three animals
+(four slices in each). For a better visual comparison of the new
+(GDF and SEM) and old (DKI and LNDFI) models, the data is
+complimented by the relative changes observed for parameters
+ADCK, MK, ADCLD, and sLD investigated in the previous work
+[41]. Most of the parameters tend to show somewhat larger
+
+Table 3. The Pearson’s, r, and Spearman’s, r, correlation coefficients for the data shown in Figure 10.
+
+GDF
+
+r
+
+r
+
+SEM
+
+h vs. k
+
+ADCm vs. h
+
+ADCm vs. k
+
+DDC vs. aSE
+
+ADCm vs. DDC
+
+ADCm vs. aSE
+
+healthy
+
+20.89
+
+0.58
+
+20.40
+
+20.09
+
+0.88
+
+20.54
+
+stroke
+
+20.70
+
+0.47
+
+0.26
+
+20.04
+
+0.95
+
+20.33
+
+healthy
+
+20.99
+
+0.56
+
+20.44
+
+20.06
+
+0.83
+
+20.53
+
+stroke
+
+20.71
+
+0.46
+
+0.25
+
+20.08
+
+0.95
+
+20.34
+
+All correlations were statistically significant (p,0.001) except for DDC vs. aSE.
+doi:10.1371/journal.pone.0089225.t003
+
+PLOS ONE | www.plosone.org
+
+11
+
+February 2014 | Volume 9 | Issue 2 | e89225
+
+Non-Gaussian Diffusion Imaging in Stroke
+
+applicability of DKI in our work corresponds to the range 1. If the
+applicability range is limited, more caution is required when
+comparing results obtained by different research groups since the
+evaluated metrics and their variation may significantly depend on
+the selected range of b. Although a detailed analysis of the b-value
+dependence of fitting parameters was beyond the scope of this
+work, we checked the applicability of the investigated models in
+two fitting ranges, moderate and extended. GDF and SEM, to
+their advantage, occurred to be relatively robust with respect to
+the selected range of b-values. The same applies also to LNDFI
+studied in the previous work [41]. BEDTA, on the other hand, was
+applicable only in range 2. In comparison to the other investigated
+models, BEDTA is less robust as it contains one more fitting
+parameter (3, if signal intensities are normalised), and is more
+vulnerable to low signal-to-noise ratio [36,68]. Therefore, it is less
+beneficial for stroke analysis as it demands more scanning time.
+Nevertheless, application of BEDTA allowed us to receive
+additional useful information as it directly showed that the
+dominant contribution to the reduction of the mean diffusivity is
+due to the slow diffusion component and includes both the
+decrease of ADCs and increase of fs. An increase of fs in ischemic
+human brain was reported also in Ref. [71], although the authors
+observed an increase rather than a decrease of ADCs. In ouabain
+induced cell swelling in a perfused rat hippocampal slice, Buckley
+et al. [72] also observed an increase of fs, however, not
+accompanied with any significant changes in the values of ADCf
+and ADCs. Based on observations related to biexponential
+behaviour, Le Bihan et al. [5,15] emphasized the dominant role
+of membranes, bound water and the residence times near tissue
+boundaries affecting the diffusion behaviour in stroke.
+Several parameters map studied in this work were able to
+provide a better visual contrast than the conventional ADCm map
+and exhibited larger relative changes in ischemic versus healthy
+tissues. The smallest change was detected for aSE in SEM. In
+contrast, the DDC of this model provided a somewhat larger
+change than ADCm. Analogously, smaller sensitivity of the
+stretched exponent, aSE, in comparison to other non-Gaussian
+parameters, was observed also as a function of fibre density, which
+modulates the tortuosity of the interstitial space, in the physical
+diffusion fibre phantoms [73]. A cancer study using SEM has
+shown that, in tumours, aSE had similar values to that in WM but
+much lower values than the typical tumours in GM [49]. In
+general, based on the amount of the average change over all slices
+and animals, the parameters of the four models (GDF, SEM, DKI,
+and LNDFI), see Figure 9, demonstrate that the largest changes
+were observed in MK, followed by h, k, sLD, DDC, ADCLD,
+ADCK, ADCm, and, finally, by aSEM. The non-Gaussianity
+metrics (with the exception of aSE) provided a spectacular gain
+in contrast relative to the ‘‘gold standard’’, ADCm.
+More detailed information can be gathered from the analysis of
+the histograms and scatter plots. The histograms of various
+parameters exhibited significant differences in their shapes that
+can explain the different sensitivities to stroke of the mean values.
+In particular, the histogram of DDC exhibits a splitting into two
+distinguished peaks similar to that of ADCm (attributed to the
+healthy and affected areas). In contrast, the histogram of aSE shows
+a continuous broadening towards the lower values. Although the
+associated change of the mean is not very large, we see that a
+significant part of the histogram does not overlap with that of the
+healthy counterpart. This can explain an observed high laminar
+contrast in lesions produced by aSE-maps although the sensitivity
+of the mean value was low.
+In most of the studies, the model parameters were usually
+analysed separately from each other. At the same time, their
+
+changes in CT than in CPu. All data refer to range 1. It should be
+noted that the larger range would be inapplicable for DKI. On the
+contrary, BEDTA requires a larger range of b-values and,
+therefore, is not included in this overview. Figure 9 shows that
+both non-Gaussian models, GDF and SEM, are more sensitive to
+lesions than conventional diffusion MRI. Amongst the two models,
+GDF and SEM, better sensitivity was provided by GDF: the
+parameters h and k exhibited relative changes of ,75% and
+,260%, respectively, versus 2(40–46)% for DDC and ,9% in
+aSE. However, a comparison between four models (GDF, SEM,
+DKI and LNDF) has shown that DKI provides the largest
+sensitivity followed by GDF, LNDF and SEM.
+Figure 10 demonstrates the scatter plots for the model
+parameters, h and k, and DDC versus aSE, as well as between
+ADCm and h, k, DDC or aSE, for ROIs in lesions and
+contralateral tissue. The data refer to animal 1 and all slices.
+One can clearly see that the scatter plots allow one to separate the
+voxels belonging to the affected and healthy tissue with practically
+no overlap. The corresponding Pearson’s, r, and Spearman’s, r,
+correlation coefficients are represented in Table 3 for completeness. However, more detailed analysis of these coefficients was
+outside the focus of this paper.
+
+Discussions and Conclusion
+Development of non-Gaussian diffusion imaging is emerging as
+a novel tool providing clinically useful information on brain tissue.
+Related to stroke, investigation of non-Gaussian models has a very
+short history represented by a few papers published during the last
+couple of years [9,10,41–43]. These works have shown promising
+potentials in using those models for stroke assessment. In the
+present work we examined three additional non-Gaussian
+approaches, SEM, GDF and BEDTA. The two former models
+have not been previously applied to stroke. Moreover, while GDF
+was used to characterise the distribution of axon diameters [34]
+and of macromolecular diffusivities in polymers [54], it has not
+been used to model the diffusion response in the brain tissue. We
+compared the results with the conventional monoexponential
+model and two previously investigated models, DKI and LNDFI,
+using the same data sets. To date, few reports exist in which
+several non-Gaussian models are compared on the same data sets
+of in vivo [36,69] or in vitro [70] experiments. The emphasis of
+those studies was put more on the methodological issues such as
+goodness-of-fit, influence of noise, or model ranking. While we also
+made an estimations of the fit quality, our main interest was
+focused on the comparison of the performance of the nonGaussian metrics as biomarkers of the pathological state. Given
+the effect of ischemic events on the tissue microstructure and
+diffusion properties, the animal stroke model is well suited for a
+comparison of various methods. Similar to DKI and LNDFI, the
+GDF and SEM models demand a minimum of 3 b-values so that,
+with no extra time for measurements, all parameters of these 4
+models can be obtained in post-processing based on the same data.
+We assume that our comparative investigation should contribute
+to further development and improvement of diagnostic tools in
+stroke.
+Ideally, one would like to fit the experimental curves over the
+largest b-value range possible, to yield maximal attenuation of the
+signal from its initial value. However, various factors limit the
+usable b-value range, with noise being the most typical problem at
+high b-values. An applicability of each model is, in turn, another
+important issue. As well-known examples, DTI is limited to the
+low b-values range (b#1 mm22 ms), whereas DKI can be applied
+to more extended but also limited (bƒ3=(D|MK)) range. The
+PLOS ONE | www.plosone.org
+
+12
+
+February 2014 | Volume 9 | Issue 2 | e89225
+
+Non-Gaussian Diffusion Imaging in Stroke
+
+simultaneous changes may be more informative. We demonstrated
+that ischemic lesions tend to be well separated from the healthy
+tissues using the correlation plots. We expect this kind analysis to
+be helpful in diagnostics, as it should allow one to increase the
+certainty and reliability of the pathological state assessment. The
+scatter plots may also be valuable for post-stroke monitoring of the
+patients as, with time after onset, the diffusivity values begin to
+normalise and do not provide clear characteristics for the tissue
+state. The same approach can be useful regarding other
+pathologies, especially if they are related to GM. This is because
+DTI metrics important in WM, such as FA and axial or radial
+diffusivities, are not predicative in GM due to its isotropy. NonGaussianity parameters, in contrast, are thought to quantify the
+complexity of the tissue microstructure rather than its anisotropy.
+An interesting finding of this work is the appearance of laminar
+cortical structures in stroke lesions. The genuine differences in
+cortical layer microstructure are well-known from histology, as
+shown in Figure 1. However, observation of cortical layers with
+MRI is a challenging task [74–76] and requires special efforts,
+such as using manganese-enhanced methods [75]. In healthy
+regions, no clear laminar contrast was observed but became
+distinguishable in the lesions represented via aSE- , h- and k-maps.
+Retrospectively, the laminar structure can also be recognised in
+sLD-maps of LNDFI shown in Figures 2 and 4 of the previous
+work [41]. However, it is hardly visible in the diffusivity maps. Our
+finding allows us to propose that the cascade of ischemic processes
+tends to non-uniformly affect the cortical layers differentiating by
+their cyto- and myeloarchitecture [74]. Based on diffusion studies,
+such phenomenon has not been reported before. However, a
+significant difference between cortical layers in the time profile of
+eosinophilic neurons in the post-ischemic cortex was reported by
+Sun et al. [77]. Furthermore, the layered structure as a response to
+stroke was observed in MRI images one week after MCAO [78].
+Sbarbati et al. [78] observed three layers and interpreted their
+origin due to enlargement of the pial space in the external layer,
+degenerating nervous tissue accompanied by a massive accumulation of macrophages in the middle layer, and by the presence of
+edematous nerve tissue without a marked accumulation of
+macrophages in the deepest layer. In our study, in difference, a
+stratified structure was observed only 24 hours after stroke.
+Selective vulnerability of cortical layers to ischemia can also be
+due to higher metabolic demand and denser concentration of
+receptors for excitatory amino acids [79]. In this context, it should
+be noted that the larger parameter changes observed in CT (GM)
+than in CPu (mixture of GM and WM) might also be due to
+microstructural differences in these anatomical regions and
+different susceptibility of GM and WM to ischemic injury.
+However, elucidation of the underlying mechanisms requires a
+special focus in a dedicated future work, and was beyond the scope
+of this paper.
+Understanding of how ischemic processes are related with the
+fine microstructural features could greatly improve our knowledge
+of the biophysical mechanisms of the ischemic damage [80]. These
+mechanisms have not been understood in detail so far and remain
+
+a subject of debate. Swollen cells, increased tortuosity of the ECS,
+changes in membrane permeability, increases in the amount of
+bound water and, proposed more recently, neurite beading may all
+come into play [81]. In this context, non-Gaussian metrics provide
+complementary data to infer valuable microstructural information
+for comparison with existing models of stroke. Useful models
+should be able to explain not only the average decrease of the
+mean diffusivity by about 40% but also a simultaneous large
+increase of deviations from the Gaussian model as quantified
+above. For example, increasing tortuosity of the ECS alone is not
+likely to be sufficient to explain the amount of the observed
+changes. This consideration is based on a comparison of our
+results with those obtained for anisotropic fibre phantoms [73],
+where the tortuosity was modulated by the fibre density. It was
+shown that changing fibre density from 0.45 to 0.7 (close packing
+density) is accompanied by a three-fold decrease of the diffusivity
+whereas kurtosis and sLD have increased by rather moderate 50%.
+Qualitatively, our results would be compatible with the model of
+cell swelling accompanied by neurite beading already suggested to
+explain observed increases in kurtosis in human stroke [9,10]. This
+model would non-uniformly increase the contribution of slow
+diffusion fractions by more restricted environments both in the
+ICS and ECS. Also increases in the amount of bound water or a
+reduction in the membrane permeability could lead to an increase
+in the slow diffusion fraction. More work is required to understand
+the complex cascade of pathological processes in stroke that
+change an environmental landscape for diffusing water molecules.
+Among others, one needs to perform the studies with a large group
+of animals in order to reduce inter-subject variability and enhance
+a statistical significance. However, with further theoretical and
+experimental developments, these biophysical changes can be
+expected to be better quantified with non-Gaussianity metrics.
+In conclusion, we have shown that non-Gaussian metrics are
+useful in the elucidation of stroke and provide potentially valuable
+information. This refers, in particular, to enhanced contrast of the
+lesions and its quantification with respect to healthy tissue and to
+the fine microstructure differences within the lesions, such as the
+observation of cortical laminar structures. Two-dimensional
+scatter plots allow one to delineate affected tissue with better
+reliability.
+
+Acknowledgments
+F. Grinberg thanks Dr. D. S. Grebenkov and Dr. I. I. Maximov for
+valuable discussions and Dr. M. S. Poole for careful proofreading of the
+manuscript.
+
+Author Contributions
+Conceived and designed the experiments: F. Grinberg LC EF. Performed
+the experiments: LC F. Geffroy. Analyzed the data: F. Grinberg EF LC F.
+Geffroy DLB NJS. Contributed reagents/materials/analysis tools: F.
+Grinberg EF LC F. Geffroy DLB NJS. Wrote the manuscript: F. Grinberg.
+Discussion Of the results: F. Grinberg EF LC DLB NJS. Revision of the
+manuscript: F. Grinberg EF LC DLB NJS.
+
+References
+exchange mechanisms in sub-acute ischaemic lesions. NMR Biomed 22: 619–
+628.
+5. Le Bihan D (2007) The ‘wet mind’: water and functional neuroimaging. Phys
+Med Biol 52: R57–90.
+6. van Pul C, Jennekens W, Nicolay K, Kopinga K, Wijn PF (2005) Ischemiainduced ADC changes are larger than osmotically-induced ADC changes in a
+neonatal rat hippocampus model. Magn Reson Med 53: 348–355.
+7. Dijkhuizen RM, de Graaf RA, Tulleken KA, Nicolay K (1999) Changes in the
+diffusion of water and intracellular metabolites after excitotoxic injury and global
+ischemia in neonatal rat brain. J Cereb Blood Flow Metab 19: 341–349.
+
+1. Moseley ME, Cohen Y, Mintorovitch J, Chileuitt L, Shimizu H, et al. (1990)
+Early detection of regional cerebral ischemia in cats: comparison of diffusionand T2-weighted MRI and spectroscopy. Magn Reson Med 14: 330–346.
+2. Sotak CH (2002) The role of diffusion tensor imaging in the evaluation of
+ischemic brain injury - a review. NMR Biomed 15: 561–569.
+3. Schaefer PW, Copen WA, Lev MH, Gonzalez RG (2006) Diffusion-weighted
+imaging in acute stroke. Magn Reson Imaging Clin N Am 14: 141–168.
+4. Latt J, Nilsson M, van Westen D, Wirestam R, Stahlberg F, et al. (2009)
+Diffusion-weighted MRI measurements on stroke patients reveal water-
+
+PLOS ONE | www.plosone.org
+
+13
+
+February 2014 | Volume 9 | Issue 2 | e89225
+
+Non-Gaussian Diffusion Imaging in Stroke
+
+39. Falangola MF, Jensen JH, Babb JS, Hu C, Castellanos FX, et al. (2008) Agerelated non-Gaussian diffusion patterns in the prefrontal brain. J Magn Reson
+Imaging 28: 1345–1350.
+40. Latt J, Nilsson M, Wirestam R, Stahlberg F, Karlsson N, et al. (2013) Regional
+values of diffusional kurtosis estimates in the healthy brain. J Magn Reson
+Imaging 37: 610–618.
+41. Grinberg F, Ciobanu L, Farrher E, Shah NJ (2012) Diffusion kurtosis imaging
+and log-normal distribution function imaging enhance the visualisation of lesions
+in animal stroke models. NMR Biomed 25:1295–1304.
+42. Hui ES, Du F, Huang S, Shen Q, Duong TQ (2012) Spatiotemporal dynamics
+of diffusional kurtosis, mean diffusivity and perfusion changes in experimental
+stroke. Brain Res 1451: 100–109.
+43. Cheung JS, Wang E, Lo EH, Sun PZ (2012) Stratification of heterogeneous
+diffusion MRI ischemic lesion with kurtosis imaging: evaluation of mean
+diffusion and kurtosis MRI mismatch in an animal model of transient focal
+ischemia. Stroke 43: 2252–2254.
+44. Wang JJ, Lin WY, Lu CS, Weng YH, Ng SH, et al. (2011) Parkinson disease:
+diagnostic utility of diffusion kurtosis imaging. Radiology 261: 210–217.
+45. Blockx I, De Groof G, Verhoye M, Van Audekerke J, Raber K, et al. (2012)
+Microstructural changes observed with DKI in a transgenic Huntington rat
+model: evidence for abnormal neurodevelopment. Neuroimage 59: 957–967.
+46. Gong NJ, Wong CS, Chan CC, Leung LM, Chu YC (2013) Correlations
+between microstructural alterations and severity of cognitive deficiency in
+Alzheimer’s disease and mild cognitive impairment: a diffusional kurtosis
+imaging study. Magn Reson Imaging 31: 688–694.
+47. Van Cauter S, Veraart J, Sijbers J, Peeters RR, Himmelreich U, et al. (2012)
+Gliomas: diffusion kurtosis MR imaging in grading. Radiology 263: 492–501.
+48. Raab P, Hattingen E, Franz K, Zanella FE, Lanfermann H (2010) Cerebral
+gliomas: diffusional kurtosis imaging analysis of microstructural differences.
+Radiology 254: 876–881.
+49. Bennett KM, Hyde JS, Rand SD, Bennett R, Krouwer HG, et al. (2004)
+Intravoxel distribution of DWI decay rates reveals C6 glioma invasion in rat
+brain. Magn Reson Med 52: 994–1004.
+50. Maier SE, Sun Y, Mulkern RV (2010) Diffusion imaging of brain tumors. NMR
+Biomed 23: 849–864.
+51. Stejskal EO, Tanner JE (1965) Spin Diffusion Measurements: Spin Echoes in the
+Presence of a Time-Dependent Field Gradient. Journal of Chemical Physics 42:
+288–292.
+52. Basser PJ, Pierpaoli C (1998) A simplified method to measure the diffusion tensor
+from seven MR images. Magn Reson Med 39: 928–934.
+53. Zhao TJ, Beckham HW, Ricks HL, Bunz UHF (2005) Self-diffusion of poly(pphenyleneethynylene)s in dilute solution determined by pulsed-field-gradient
+NMR. Polymer 46: 4839–4844.
+54. Röding M, Bernin D, Jonasson J, Sarkka A, Topgaard D, et al. (2012) The
+gamma distribution model for pulsed-field gradient NMR studies of molecularweight distributions of polymers. J Magn Reson 222: 105–111.
+55. Grinberg F, Farrher E., Oros-Peusquens A.-M., Shah N.J. (2011) Random
+Walks in Model Brain Tissue. AIP Conf Proc 1330: 31–34.
+56. Farrher E, Kaffanke J, Celik AA, Stocker T, Grinberg F, et al. (2012) Novel
+multisection design of anisotropic diffusion phantoms. Magn Reson Imaging 30:
+518–526.
+57. Callaghan PT (2011) Translational Dynamics and Magnetic Resonance:
+Principles of Pulsed Gradient Spin Echo NMR: Oxford University Press. 576 p.
+58. Limpert E, Stahel WA, Abbt M (2001) Log-normal distributions across the
+sciences: Keys and clues. Bioscience 51: 341–352.
+59. Fieremans E, Jensen JH, Helpern JA (2011) White matter characterization with
+diffusional kurtosis imaging. Neuroimage 58: 177–188.
+60. Novikov DS, Kiselev VG (2010) Effective medium theory of a diffusion-weighted
+signal. NMR Biomed 23: 682–697.
+61. Sukstanskii AL, Yablonskiy DA (2002) Effects of restricted diffusion on MR
+signal formation. Journal of Magnetic Resonance 157: 92–105.
+62. Sukstanskii AL, Ackerman JJ, Yablonskiy DA (2003) Effects of barrier-induced
+nuclear spin magnetization inhomogeneities on diffusion-attenuated MR signal.
+Magn Reson Med 50: 735–742.
+63. Johnston DC (2006) Stretched exponential relaxation arising from a continuous
+sum of exponential decays. Phys Rev B 74: 184430–184437.
+64. Metzler R, Klafter J (2000) The random walk’s guide to anomalous diffusion: a
+fractional dynamics approach. Physics Reports-Review Section of Physics
+Letters 339: 1–77.
+65. Belayev L, Alonso OF, Busto R, Zhao W, Ginsberg MD (1996) Middle cerebral
+artery occlusion in the rat by intraluminal suture. Neurological and pathological
+evaluation of an improved model. Stroke 27: 1616–1622; discussion 1623.
+66. Miller AJ, Joseph PM (1993) The use of power images to perform quantitative
+analysis on low SNR MR images. Magn Reson Imaging 11: 1051–1056.
+67. McGibney G, Smith MR (1993) An unbiased signal-to-noise ratio measure for
+magnetic resonance images. Med Phys 20: 1077–1078.
+68. Kristoffersen A (2012) Estimating non-Gaussian diffusion model parameters in
+the presence of physiological noise and Rician signal bias. J Magn Reson
+Imaging 35: 181–189.
+69. Kristoffersen A (2013) Optimized quantification of diffusional non-gaussianity in
+the human brain. J Magn Reson Imaging 38: 1434–1444.
+70. Panagiotaki E, Schneider T, Siow B, Hall MG, Lythgoe MF, et al. (2012)
+Compartment models of the diffusion MR signal in brain white matter: a
+taxonomy and comparison. Neuroimage 59: 2241–2254.
+
+8. Budde MD, Frank JA (2010) Neurite beading is sufficient to decrease the
+apparent diffusion coefficient after ischemic stroke. Proc Natl Acad Sci U S A
+107: 14472–14477.
+9. Hui ES, Fieremans E, Jensen JH, Tabesh A, Feng W, et al. (2012) Stroke
+assessment with diffusional kurtosis imaging. Stroke 43: 2968–2973.
+10. Jensen JH, Falangola MF, Hu C, Tabesh A, Rapalino O, et al. (2011)
+Preliminary observations of increased diffusional kurtosis in human brain
+following recent cerebral infarction. NMR Biomed 24: 452–457.
+11. Jones DK (2011) Diffusion MRI : theory, methods, and applications Oxford:
+Oxford University Press. 767 p.
+12. Bennett KM, Schmainda KM, Bennett RT, Rowe DB, Lu H, et al. (2003)
+Characterization of continuously distributed cortical water diffusion rates with a
+stretched-exponential model. Magn Reson Med 50: 727–734.
+13. Mulkern RV, Haker SJ, Maier SE (2009) On high b diffusion imaging in the
+human brain: ruminations and experimental insights. Magn Reson Imaging 27:
+1151–1162.
+14. Grinberg F, Farrher E, Kaffanke J, Oros-Peusquens AM, Shah NJ (2011) NonGaussian diffusion in human brain tissue at high b-factors as examined by a
+combined diffusion kurtosis and biexponential diffusion tensor analysis. Neuroimage 57: 1087–1102.
+15. Le Bihan D, Johansen-Berg H (2012) Diffusion MRI at 25: exploring brain tissue
+structure and function. Neuroimage 61: 324–341.
+16. Le Bihan D (2013) Apparent Diffusion Coefficient and Beyond: What Diffusion
+MR Imaging Can Tell Us about Tissue Structure. Radiology 268: 318–322.
+17. Jensen JH, Helpern JA, Ramani A, Lu HZ, Kaczynski K (2005) Diffusional
+kurtosis imaging: The quantification of non-Gaussian water diffusion by means
+of magnetic resonance imaging. Magnetic Resonance in Medicine 53: 1432–
+1440.
+18. Chabert S, Mecca CC, Le Bihan D (2004) Relevance of the information about
+the diffusion distribution in invo given by kurtosis in q-space imaging 12th
+ISMRM annual meeting pp. 1938.
+19. Maier SE, Vajapeyam S, Mamata H, Westin CF, Jolesz FA, et al. (2004)
+Biexponential diffusion tensor analysis of human brain diffusion data. Magn
+Reson Med 51: 321–330.
+20. Niendorf T, Dijkhuizen RM, Norris DG, Campagne MV, Nicolay K (1996)
+Biexponential diffusion attenuation in various states of brain tissue: Implications
+for diffusion-weighted imaging. Magnetic Resonance in Medicine 36: 847–857.
+21. Clark CA, Le Bihan D (2000) Water diffusion compartmentation and anisotropy
+at high b values in the human brain. Magn Reson Med 44: 852–859.
+22. Yablonskiy DA, Bretthorst GL, Ackerman JJ (2003) Statistical model for
+diffusion attenuated MR signal. Magn Reson Med 50: 664–669.
+23. Hall MG, Barrick TR (2008) From diffusion-weighted MRI to anomalous
+diffusion imaging. Magn Reson Med 59: 447–455.
+24. Palombo M, Gabrielli A, De Santis S, Cametti C, Ruocco G, et al. (2011)
+Spatio-temporal anomalous diffusion in heterogeneous media by nuclear
+magnetic resonance. Journal of Chemical Physics 135: 034504.
+25. Zhou XJ, Gao Q, Abdullah O, Magin RL (2010) Studies of anomalous diffusion
+in the human brain using fractional order calculus. Magn Reson Med 63: 562–
+569.
+26. Magin RL, Akpa BS, Neuberger T, Webb AG (2011) Fractional Order Analysis
+of Sephadex Gel Structures: NMR Measurements Reflecting Anomalous
+Diffusion. Commun Nonlinear Sci Numer Simul 16: 4581–4587.
+27. Capuani S, Palombo M, Gabrielli A, Orlandi A, Maraviglia B, et al. (2013)
+Spatio-temporal anomalous diffusion imaging: results in controlled phantoms
+and in excised human meningiomas. Magn Reson Imaging 31: 359–365.
+28. Ozarslan E, Basser PJ, Shepherd TM, Thelwall PE, Vemuri BC, et al. (2006)
+Observation of anomalous diffusion in excised tissue by characterizing the
+diffusion-time dependence of the MR signal. J Magn Reson 183: 315–323.
+29. Yablonskiy DA, Sukstanskii AL (2010) Theoretical models of the diffusion
+weighted MR signal. NMR Biomed 23: 661–681.
+30. Minati L, Weglarz WP (2007) Physical foundations, models, and methods of
+diffusion magnetic resonance imaging of the brain: A review. Concepts in
+Magnetic Resonance Part A 30A: 278–307.
+31. Sen PN, Basser PJ (2005) Modeling diffusion in white matter in the brain: a
+composite porous medium. Magn Reson Imaging 23: 215–220.
+32. Assaf Y, Basser PJ (2005) Composite hindered and restricted model of diffusion
+(CHARMED) MR imaging of the human brain. Neuroimage 27: 48–58.
+33. Jespersen SN, Kroenke CD, Ostergaard L, Ackerman JJ, Yablonskiy DA (2007)
+Modeling dendrite density from magnetic resonance diffusion measurements.
+Neuroimage 34: 1473–1486.
+34. Assaf Y, Blumenfeld-Katzir T, Yovel Y, Basser PJ (2008) AxCaliber: a method
+for measuring axon diameter distribution from diffusion MRI. Magn Reson
+Med 59: 1347–1354.
+35. Alexander DC, Hubbard PL, Hall MG, Moore EA, Ptito M, et al. (2010)
+Orientationally invariant indices of axon diameter and density from diffusion
+MRI. Neuroimage 52: 1374–1389.
+36. Kristoffersen A (2011) Statistical assessment of non-Gaussian diffusion models.
+Magn Reson Med 66: 1639–1648.
+37. Hui ES, Cheung MM, Qi L, Wu EX (2008) Towards better MR
+characterization of neural tissues using directional diffusion kurtosis analysis.
+Neuroimage 42: 122–134.
+38. Cheung MM, Hui ES, Chan KC, Helpern JA, Qi L, et al. (2009) Does diffusion
+kurtosis imaging lead to better neural tissue characterization? A rodent brain
+maturation study. Neuroimage 45: 386–392.
+
+PLOS ONE | www.plosone.org
+
+14
+
+February 2014 | Volume 9 | Issue 2 | e89225
+
+Non-Gaussian Diffusion Imaging in Stroke
+
+71. Brugieres P, Thomas P, Maraval A, Hosseini H, Combes C, et al. (2004) Water
+diffusion compartmentation at high b values in ischemic human brain. AJNR
+Am J Neuroradiol 25: 692–698.
+72. Buckley DL, Bui JD, Phillips MI, Zelles T, Inglis BA, et al. (1999) The effect of
+ouabain on water diffusion in the rat hippocampal slice measured by high
+resolution NMR imaging. Magn Reson Med 41: 137–142.
+73. Grinberg F, Farrher E, Maximov II, Shah NJ (2013) Complex patterns of nonGaussian diffusion in artificial anisotropic tissue models. Microporous and
+Mesoporous Materials 178: 44–47.
+74. Barazany D, Assaf Y (2012) Visualization of cortical lamination patterns with
+magnetic resonance imaging. Cereb Cortex 22: 2016–2023.
+75. Silva AC, Lee JH, Wu CW, Tucciarone J, Pelled G, et al. (2008) Detection of
+cortical laminar architecture using manganese-enhanced MRI. J Neurosci
+Methods 167: 246–257.
+76. Aoki I, Wu YJ, Silva AC, Lynch RM, Koretsky AP (2004) In vivo detection of
+neuroarchitecture in the rodent brain using manganese-enhanced MRI.
+Neuroimage 22: 1046–1059.
+
+PLOS ONE | www.plosone.org
+
+77. Sun L, Kuroiwa T, Ishibashi S, Katsumata N, Endo S, et al. (2006) Time profile
+of eosinophilic neurons in the cortical layers and cortical atrophy. Acta
+Neurochir Suppl 96: 272–275.
+78. Sbarbati A, Reggiani A, Nicolato E, Arban R, Bernardi P, et al. (2002)
+Correlation MRI/ultrastructure in cerebral ischemic lesions: application to the
+interpretation of cortical layered areas. Magn Reson Imaging 20: 479–486.
+79. Rabinstein AA, Resnick SJ (2009) Practical Neuroimaging in Stroke: A Casebased Approach. Oxford: Saunders. 401 p.
+80. Zille M, Farr TD, Przesdzing I, Muller J, Sommer C, et al. (2012) Visualizing
+cell death in experimental focal cerebral ischemia: promises, problems, and
+perspectives. J Cereb Blood Flow Metab 32: 213–231.
+81. Nilsson M, van Westen D, Stahlberg F, Sundgren PC, Latt J (2013) The role of
+tissue microstructure and water exchange in biophysical modelling of diffusion in
+white matter. MAGMA 26: 345–370.
+
+15
+
+February 2014 | Volume 9 | Issue 2 | e89225
+
+

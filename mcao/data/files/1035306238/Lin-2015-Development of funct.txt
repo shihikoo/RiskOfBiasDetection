@@ -1,0 +1,565 @@
+Home
+
+Search
+
+Collections
+
+Journals
+
+About
+
+Contact us
+
+My IOPscience
+
+Development of functional in vivo imaging of cerebral lenticulostriate artery using novel
+synchrotron radiation angiography
+
+This content has been downloaded from IOPscience. Please scroll down to see the full text.
+2015 Phys. Med. Biol. 60 1655
+(http://iopscience.iop.org/0031-9155/60/4/1655)
+View the table of contents for this issue, or go to the journal homepage for more
+
+Download details:
+IP Address: 129.215.141.98
+This content was downloaded on 04/10/2016 at 21:07
+
+Please note that terms and conditions apply.
+
+You may also be interested in:
+Melatonin mitigate cerebral vasospasm after experimental subarachnoid hemorrhage: a study of
+synchrotron radiation angiography
+J Cai, C He, L Chen et al.
+In-vivo brain blood flow imaging based on laser speckle contrast imaging and synchrotron radiation
+microangiography
+Peng Miao, Xiaojie Lin, Shihan Feng et al.
+The effect of oxygen therapy on brain damage and cerebral pO2
+Huagang Hou, Oleg Grinberg, Benjamin Williams et al.
+Sodium-23 magnetic resonance imaging during and after transient cerebral ischemia: multinuclear
+stroke protocols for double-tuned 23Na/1H resonator systems
+Friedrich Wetterling, Saema Ansar and Eva Handwerker
+EEG patterns from acute to chronic stroke phases in focal cerebral ischemic rats: correlations with
+functional recovery
+Shao-jie Zhang, Zheng Ke, Le Li et al.
+Brain pO2 in reversible focal ischemia
+Huagang Hou, Oleg Y Grinberg, Stalina A Grinberg et al.
+
+Institute of Physics and Engineering in Medicine
+Phys. Med. Biol. 60 (2015) 1655–1665
+
+Physics in Medicine & Biology
+doi:10.1088/0031-9155/60/4/1655
+
+Development of functional in vivo imaging
+of cerebral lenticulostriate artery using
+novel synchrotron radiation angiography
+Xiaojie Lin1, Peng Miao1,2, Zhihao Mu1,3, Zhen Jiang1,3,
+Yifan Lu1, Yongjing Guan4, Xiaoyan Chen1,
+Tiqiao Xiao5,Yongting Wang1 and Guo-Yuan Yang1,3,6
+1
+
+  School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai
+200030, People’s Republic of China
+2
+  School of Communication and Information Engineering, Shanghai University,
+Shanghai 200444, People’s Republic of China
+3
+  Department of Neurology, Ruijin Hospital, School of Medicine, Shanghai Jiao Tong
+University, Shanghai 200025, People’s Republic of China
+4
+  Department of Radiology,Ruijin Hospital, School of Medicine, Shanghai Jiao Tong
+University, Shanghai 200025, People’s Republic of China
+5
+  Shanghai Institute of Applied Physics, Chinese Academy of Sciences, Shanghai
+201204, People’s Republic of China
+E-mail: gyyang0626@gmail.com
+Received 3 October 2014
+Accepted for publication 1 December 2014
+Published 29 January 2015
+Abstract
+
+The lenticulostriate artery plays a vital role in the onset and development of
+cerebral ischemia. However, current imaging techniques cannot assess the in vivo
+functioning of small arteries such as the lenticulostriate artery in the brain of rats.
+Here, we report a novel method to achieve a high resolution multi-functional
+imaging of the cerebrovascular system using synchrotron radiation angiography,
+which is based on spatio-temporal analysis of contrast density in the arterial cross
+section. This method provides a unique tool for studying the sub-cortical vascular
+elasticity after cerebral ischemia in rats. Using this technique, we demonstrated
+that the vascular elasticity of the lenticulostriate artery decreased from day 1 to
+day 7 after transient middle cerebral artery occlusion in rats and recovered from
+day 7 to day 28 compared to the controls (p < 0.001), which paralleled with brain
+6 
+
+Author to whom any correspondence should be addressed.
+The first two authors contributed equally
+Content from this work may be used under the terms of the Creative Commons Attribution 3.0 licence. Any further distribution of this work must maintain attribution to
+the author(s) and the title of the work, journal citation and DOI.
+
+0031-9155/15/041655+11$33.00  © 2015 Institute of Physics and Engineering in Medicine  Printed in the UK
+
+1655
+
+X Lin et al
+
+Phys. Med. Biol. 60 (2015) 1655
+
+edema formation and inversely correlated with blood flow velocity (p < 0.05).
+Our results demonstrated that the change of vascular elasticity was related to
+the levels of brain edema and the velocity of focal blood flow, suggesting that
+reducing brain edema is important for the improvement of the function of the
+lenticulostriate artery in the ischemic brain.
+Keywords: angiography, elasticity, lenticulostriate artery, synchrotron radiation
+S Online supplementary data available from stacks.iop.org/PMB/60/1655
+(Some figures may appear in colour only in the online journal)
+1. Introduction
+Lenticulostriate arteries (LSAs), branching from the middle cerebral artery (MCA) in the
+human and rodent brain, are major feeding arteries for the corpus striatum in the sub-cortex
+and extremely important for ensuring regular brain nutrition supply (Marinkovic et al 2001).
+The restoration of blood flow in LSAs is highly related to neural survival and functional
+recovery in corpus striatum after ischemic stroke. During the acute phase of ischemia, blood
+flow is absent in LSAs and then restored after reperfusion. The endothelial cells of LSAs can
+be damaged during the ischemic phase, which further affects the reperfusion ability of LSAs.
+According to our previous study (Lu et al 2012), functional angiogenesis of micro-vasculature
+is a main target of ischemic neural repair which firstly requires a sufficient blood supply from
+major arteries. Therefore, restoration of LSAs is a key point in therapy and rehabilitation of
+ischemic stroke in the sub-cortex. Development of new therapeutic methods is facilitated by
+an in vivo imaging technique which can monitor the restoration ability of LSAs with high
+spatial resolution, especially for pre-clinical small animal studies.
+However, current in vivo techniques for assessing cerebral vasculature and arterial functions still suffer from insufficient imaging resolution. Microscopic computed tomography
+(Micro-CT) provides a good resolution (about 10 μm) for tissue samples but with a much
+lower resolution (larger than 100 μm) in vivo. Furthermore, Micro-CT imaging cannot provide blood flow or functional information (Holdsworth and Thornton 2002). Digital subtraction angiography (DSA) is another x-ray based imaging method for assessment of vascular
+abnormalities in both clinical and animal studies, but with limited spatial resolution (larger
+than 100 μm). Magnetic resonance angiography (MRA) has better resolution (about 50 μm)
+in imaging and shows the cerebral vasculature and hemodynamics of small animals in vivo
+(Shih et al 2012, Liu et al 2014). Nevertheless, all of these techniques still do not allow
+direct visualization of small intracranial arteries such as penetrating arteries, LSAs and newly
+formed small vessels. Doppler micro-ultrasonography is the most useful method to obtain the
+vascular hemodynamics in clinic and animal studies, but its spatial resolution is reduced with
+an increased depth of penetration (Greco et al 2012). Laser speckle contrast imaging (LSCI)
+and near-infrared fluorescence imaging provide sufficient resolution (about 15 μm) and could
+provide both vasculature and hemodynamic information in vivo. Unfortunately, the penetrating depth of the optical imaging intrinsically limits their applications in sub-cortex studies
+(Welsher et al 2011, Hong et al 2012, Lin et al 2013). For imaging vascular functions, radial
+artery pulse wave analysis of optical imaging data is proposed to examine the arterial elasticity
+(Cohn et al 1995, Zheng and Mayhew 2009).
+Synchrotron radiation x-ray based angiography (SRA), a state-of-the-art technique, provides a useful in vivo imaging tool for rodent cerebral vasculature (Kidoguchi et al 2006,
+1656
+
+X Lin et al
+
+Phys. Med. Biol. 60 (2015) 1655
+
+Figure 1. The setup of synchrotron radiation angiography (a) and arterial cannula
+
+implantation (b). CCA: common carotid artery; ECA: external carotid artery; PPA:
+pterygopalatine artery; PCA: posterior cerebral artery; MCA: middle cerebral artery;
+ACA: anterior cerebral artery; A: anterior, L: left hemisphere.
+
+Lu et al 2012, Lin et al 2013, Shirai et al 2013, Yuan et al 2013). Previous studies demonstrated the SRA was capable of investigating the morphology of LSAs in mice with 30 μm
+high spatial resolution (Yuan et al 2013). Here, we reported the application of in vivo functional SRA (fSRA) for measuring the elasticity and blood flow velocity (BFV) of the LSAs
+in rats based on a transient middle cerebral artery occlusion (tMCAO) model. To explore the
+potential mechanism, we further analyzed the relationships among the elasticity of LSAs,
+blood flow velocity (BFV) and brain edema after ischemic injury.
+
+2.  Materials and methods
+2.1. fSRA
+
+An SRA experiment was conducted at the BL13W beamline of Shanghai Synchrotron
+Radiation Facility (SSRF). The imaging setup is shown in figure 1(a). After monochromatization of x-ray light sprouting out from a bending magnet, x-ray energy of 33.2 KeV with
+flux of 2.38  ×  1010 photons second−1 mm−2 was obtained for the imaging purpose. To control the ionizing radiation dose, a x-ray shutter was placed before the sample stage. A PCO
+x-ray charge-coupled device (CCD) camera (pixel size of 9  ×  9 μm, FOV of 20  ×  4.5 mm,
+PCO-TECH Inc, Germany) was placed 65 cm away from the sample stage and used to
+obtain x-ray transmission images continuously with a 4 fps frame rate and exposure time
+of 35 ms.
+For animal preparation, an angiographic tube (connecting a PE10 tube to a PE50 tube) was
+inserted into the external carotid artery (ECA) to the bifurcation of common carotid artery
+(CCA) for contrast agent injection (figure 1(b)). Before imaging, the rat was placed vertically
+to the beam path on its left side. During imaging, 150 μl of non-ionic iodine contrast agent
+(Ipamiro, Shanghai, China) with a concentration of 175 mgI ml−1 (350 mgI ml−1, diluted to
+50% volume ratio with saline) was injected into the ECA through the angiographic tube at
+an injecting rate of 133.3 µl s−1 which was controlled by a micro-syringe pump (LSP01-1 A,
+1657
+
+X Lin et al
+
+Phys. Med. Biol. 60 (2015) 1655
+
+Figure 2.  Relative blood flow and vascular elasticity estimation in fSRA. (a) One x-ray
+transmission image of rat brain. (b) Processing flow chart of blood flow and elasticity
+estimation. (c) Spatio-temporal dynamics of contrast agent in one cross-section
+(indicated by a blue line in (a)) of LSA. Bar =1 mm (whole brain image) and 0.1 mm
+(enlarged image).
+
+Longerpump, Baoding, China). Two layers of angiographic images were acquired to obtain
+the entire hemisphere vasculature. In other words, we conducted SRA twice in each animal by
+moving the animal up and down.
+In the imaging procedure, sequential x-ray transmission images I(x, y, t) of the rat brain
+were recorded (figure 2(a)). Because the injected contrast agent provided sufficient absorption
+contrast of blood flow and vasculature, Berr–Lambert’s law was used to obtain the absorption
+maps Iabs (x, y, t ) which were proportional to the density distributions of contrast agent (equation (1)). In this study, relative blood flow and vascular elasticity were estimated from the
+absorption maps Iabs (x, y, t ) .
+Iabs (x, y, t ) = ln (I (x, y, 0)) − ln (I (x, y, t ))
+
+(1)
+
+where I(x, y, t) was the recorded images (there is no contrast agent injection when t = 0).
+Before the estimation of relative blood flow and vascular elasticity, image sequences
+Iabs (x, y, t ) were firstly calculated. Then based on the absorption map, the blood vessels were
+manually segmented. The binary images of blood vessels were used to obtain the vessel center
+line (ridge) and corresponding outlines automatically. The diameter r0 of each vessel was calculated for each ridge point (figure 2(b)). Then, the absorption data of the cross-section line
+at each ridge point in Iabs (x, y, t ) was extracted based on the perpendicular relation between
+ridge and cross-section. Then the spatio-temporal dynamics Irt(r, t) of each cross-section were
+constructed from the image sequences Iabs (x, y, t ) (figure 2(c), figure  S1(b))(stacks.iop.org/
+PMB/60/1655).
+As the first-pass of the contrast agent (time = 0), the Irt(r, t) demonstrated diffusion shape
+and reached saturation after time t0. During this period, the spatial range and density of contrast agent were spreading and accumulated. In this study, the spatio-temporal dynamics of the
+contrast agent in Irt(r, t) (t < t0) were fitted to a Gaussian surface (equation (2)). As an absorption imaging technique, the contrast agent at other depths along the light path may introduce
+noise in the Irt(r, t) of the corresponding cross-section. However, a surface fitting technique
+can efficiently suppress the noise and provide a robust estimation of fitting parameters.
+1658
+
+X Lin et al
+
+Phys. Med. Biol. 60 (2015) 1655
+
+Irt (r , t ) = a ⋅ e−((r − r0 )
+
+2
+
+/ σr2 + (t − t0 )2 / σr2 )
+
++b
+
+(2)
+
+Based on a recent study (Hong et al 2012) the normalized slope of density versus time is proportional to the blood velocity. Therefore, after the estimation of fitting parameters in equation (2), the relative velocity v of each cross-section was calculated using equation (3).
+t0
+
+v =
+
+r0
+2
+
+∫∫
+0
+
+−
+
+r0
+2
+
+Irt (r , t )
+dr dt
+t0r0
+
+(3)
+
+The elasticity E of each cross-section was calculated using equation (4).
+v
+E
+ = r
+0
+
+(4)
+
+2.2.  Experimental design
+
+Protocols of animal experiments used in this study were approved by the Institutional Animal
+Care and Use Committee (IACUC), Shanghai Jiao Tong University, Shanghai, China. Thirtysix adult male Sprague–Dawley rats (Sppir-BK Inc, Shanghai, China) weighing 250–280 grams
+were used in this study. Animals (5 groups, n = 6 per group) underwent magnetic resonance
+imaging (MRI) and SRA 1, 3, 7, 14 and 28 d after tMCAO to detect brain lesions. Animals
+characterized with MRI and SRA without tMCAO were used as sham (n = 6). The mean arterial blood pressure (MABP) was measured before MRI by an automatic sphygmomanometer
+(BP-98A, Softron, Tokyo, Japan), using the noninvasive tail cuff technique.
+2.3.  Surgery procedure of transient middle cerebral artery occlusion
+
+The surgical procedure for tMCAO was described previously (Tang et al 2014). Briefly, rats were
+anesthetized with ketamine (100 mg kg−1) and xylazine (10 mg kg−1) intraperitoneally. Rats were
+then supinely placed on a surgical board and body temperature was maintained at 37 °C by a
+heating pad (RWD Life Science, Shenzhen, China). After a midline neck incision was made, the
+ECA, the CCA and the internal carotid artery (ICA) were isolated under an operating microscope
+(Leica, Wetzlar, Germany). Then, the pterygopalatine artery (PPA) was ligated to improve the
+model stability and to eliminate interference. A 4-0 suture (20 mm, Dermalon, 1744-31, Covidien,
+OH) coated with silicone rubber (length = 3 mm, diameter = 0.4 mm, Heraeus Kulzer, Hanau,
+Germany) was inserted into the ECA stump, reversed into the ICA and finally to the ostium of the
+MCA (a slight resistance was felt). The success of occlusion was characterized as the reduction
+of cortical blood flow down to 20% of the baseline, which was measured by a laser Doppler flowmetry (Moor Instruments, Devon, England). After 90 min of occlusion with ligation of the CCA,
+the suture was removed and the CCA was released for the reperfusion procedure.
+2.4.  Magnetic resonance imaging examination
+
+A MRI examination was performed before and after the tMCAO using a 3T MR apparatus
+(Signa3T, GE Healthcare, CT) using an animal head coil with T2-weighted fast spin-echo
+sequence (TR = 2000 ms, TE = 40 ms, matrix = 160  ×  192, FOV = 6.0  ×  6.0 cm; slice thickness =1.0 mm; inter slice distance = 0 mm). Rats were anesthetized with ketamine/xylazine
+intraperitoneally during MRI. After MRI reconstruction, brain edema volume was measured
+1659
+
+X Lin et al
+
+Phys. Med. Biol. 60 (2015) 1655
+
+Figure 3. Changes of elasticity in LSAs after tMCAO. Pseudocolor images
+demonstrated the vascular elasticity in LSAs in sham rats (a, c) and rats after 1 (d), 3
+(e), 7 (f), 14 (g) and 28 (h) days of tMCAO. Statistical analysis of vascular elasticity
+in LSAs was shown in (b). Bar =1 mm. ***p < 0.001, sham versus day 1, 3, 7 and 14;
+n = 6 per group.
+
+using ImageJ and calculated by subtracting the non-edema volume in the ipsilateral hemisphere from the total volume in the contralateral hemisphere and then dividing by the volume
+of the contralateral hemisphere.
+2.5.  Statistical analysis
+
+Brain edema volume, MABP and diameter of ICA, posterior cerebral artery (PCA), MCA
+and anterior cerebral artery (ACA) were presented as mean ± SD. Vascular elasticity, blood
+flow velocity and diameter of the LSAs were expressed as median ± (25th, 75th centiles).
+All data were compared using a one-way ANOVA followed by Student’s t-test. A probability
+value of less than 5% was considered statistically significant.
+3. Results
+3.1.  Elasticity changes of LSAs after tMCAO
+
+We manually segmented the LSAs from the vasculature of each rat and calculated the elasticity of the LSAs using the fSRA method (equation (4)). The elasticity map of the entire
+vasculature and enlarged view of LSAs are shown in figure 3. Statistical results demonstrated
+that the elasticity of the LSAs was reduced from day 1 to day 7 after tMCAO (p < 0.001) and
+then increased from day 7 to day 28. Compared to LSAs, the elasticity of the MCA was not
+changed after tMCAO (Data not shown).
+1660
+
+X Lin et al
+
+Phys. Med. Biol. 60 (2015) 1655
+
+Figure 4.  Brain edema volume and mean arterial blood pressure after tMCAO. (a) MRI
+showed the brain edema in sham rats and rats after 1, 3, 7, 14 and 28 d of tMCAO.
+(b) Statistical analysis of normalized brain edema volume in sham and tMCAO rats.
+(c) Statistical analysis of mean arterial blood pressure changes after tMCAO. Bar =2 mm.
+*
+p < 0.05, day 1 versus day 14; **p < 0.01, day 1 versus day 3 and 7; n = 6 per group.
+
+3.2.  Changes of LSAs’ elasticity paralleled with brain edema developments
+after tMCAO
+
+To assess the developments of brain edema after tMCAO, we calculated the brain edema
+volume using T2-weighted MRI. We found that the brain edema occurred in MCA area and
+increased until day 3, following which, edema volume decreased at day 7. Then, tissue hydration appeared at day 14 and continued to increase to day 28 (figure 4). Tissue hydration is
+presented as the lack of tissue structure with high-intensity signal. The changes of LSAs’
+elasticity paralleled with brain edema after tMCAO, which was gradually decreased until day
+7 and then recovered after day 7 (figure 4). MABP shows no significant changes after tMCAO
+(figure 4), indicating that the brain edema and LSAs’ elasticity were not influenced by MABP
+in this study.
+3.3.  Changes of LSAs’ elasticity were inversely correlated to BFV after tMCAO
+
+We also calculated the relative BFV in LSAs using fSRA method (equation (3)) to investigate
+the relations between vascular elasticity and BFV. Interestingly, the changes in BFV were
+inversely correlated to vascular elasticity. The relative BFV of LSAs was reduced at day 1 and
+then increased from day 1 to day 7, peaked at day 7, finally decreased and recovered from day
+7 to day 28 (figure 5).
+3.4.  Diameter of LSAs was not changed after tMCAO
+
+Using SRA, we studied the ipsilateral brain vascular morphology after tMCAO. The morphology of the ICA, the PCA, the MCA and their branches such as LSAs and cortical penetrating
+arteries can be obtained in vivo. There are no statistically significant changes in the diameters
+of LSAs, ICA, PCA and MCA after tMCAO, even though brain edema changed after tMCAO
+(figure 6, table 1). This result indicated that the evaluation of LSAs’ elasticity was not due to
+the morphology changes of LSAs (figure 6).
+1661
+
+X Lin et al
+
+Phys. Med. Biol. 60 (2015) 1655
+
+Figure 5.  Changes in blood flow velocity (BFV) in LSAs after tMCAO. Pseudocolor
+images show the relative BFV in LSAs in sham rats (a, c) and rats after 1 (d), 3 (e), 7 (f),
+14 (g) and 28 (h) days of tMCAO. Statistical analysis of BFV in LSAs was presented in
+(b). Bar =1 mm. *p < 0.05, sham versus day 1 and 28; ***p < 0.001, sham versus day 7;
+n = 6 per group.
+
+To increase image contrast, the original data of figure  2(a) was enhanced by an adaptive histogram equalization method. However, for quantitatively comparing the morphologic
+changes under different conditions, figure  6 just presented the original data. Additionally,
+­figure  2(a) showed the entire brain vasculature while figure  6(a) was only a small region.
+So the contrast in figure 6(c–h) seems reduced with respect to figure 2(a).
+4. Discussion
+The functional recovery of LSAs is closely related to rehabilitation after cerebral ischemia.
+Current imaging methods for arterial functions cannot provide sub-cortical arterial elasticity
+and BFV both in high resolution. Here, we report fSRA technique as a new tool to simultaneously obtain anatomical, hemodynamic and elastic information in rodent arteries.
+In this study, changes in LSAs after tMCAO are investigated using the fSRA method.
+After tMCAO, the changes in LSAs’ elasticity demonstrate a correlation with the changes
+in BFV and brain edema. However, the pathogenesis of this phenomenon was still unclear.
+Brain edema was mainly caused by cytotoxicity in the early stage and angioedema in the later
+stage after stroke. The cerebral blood volume can be changed after stroke and is promoted
+by exchange of water between capillaries and surrounding tissues (Krieger et al 2012). In
+consideration of the self-adjusting capacity of the brain, the arterial functions may be selfregulating to maintain the cerebral water content after stroke. Fluctuations in small arterial
+elasticity may also be caused by functional or structural alterations that are closely linked
+to endothelial dysfunction (Grey et al 2003). During brain ischemia, the LSAs lack blood
+1662
+
+X Lin et al
+
+Phys. Med. Biol. 60 (2015) 1655
+
+Figure 6. Changes of LSAs diameter after tMCAO. SRA images showed LSAs
+(arrows) in sham rats (a, c) and rats after 1 (d), 3 (e), 7 (f), 14 (g) and 28 (h) d of
+tMCAO. Statistical analysis of LSAs’ diameter is shown in (b). ICA: internal carotid
+artery, PCA: posterior cerebral artery, MCA: middle cerebral artery, L: left hemisphere,
+A: anterior. Bar =1 mm.
+Table 1.  Diameters
+
+of ICA, PCA, MCA and ACA after tMCAO. Data were
+presented as mean ± SD.
+
+Group
+
+ICA (μm)
+
+PCA (μm)
+
+MCA (μm)
+
+ACA (μm)
+
+Sham
+Day 1
+Day 3
+Day 7
+Day 14
+Day 28
+
+387.6  ±  29.5
+393.8  ±  25.8
+389.1  ±  11.9
+398.1  ±  27.2
+382.7  ±  27.1
+373.7  ±  19.8
+
+320.7  ±  20.5
+310.0  ±  28.8
+309.9  ±  21.0
+306.3  ±  18.5
+311.7  ±  12.0
+302.7  ±  38.2
+
+313.9  ±  23.7
+324.2  ±  36.6
+302.1  ±  15.3
+308.1  ±  7.0
+310.2  ±  20.1
+301.8  ±  15.6
+
+298.8  ±  15.4
+300.2  ±  21.8
+305.9  ±  15.5
+307.2  ±  17.7
+298.2  ±  9.9
+303.4  ±  13.0
+
+supply, which seriously impacts the endothelial cells’ survival (Hayashi et al 1998). Many
+studies have reported that protecting the endothelial cells by VEGF treatment can significantly improve the blood flow after brain reperfusion ( Hayashi et al 1998, Ferrara et al
+2003). The alteration of vascular functions was also related to the changes in the Nitric
+oxide-dependent vasodilatation pathway, which may be associated with endothelial dysfunction (Lamireau et al 2002). Therefore, up-regulation of vasoconstrictor receptors (for example, endothelin type B, angiotensin type 1 and 5-hydroxytryptamine type 1B/1D receptors)
+in cerebral arteries after different types of stroke was revealed in recent studies (Edvinsson
+and Povlsen 2011). It implied that those therapies may improve the outcome after stroke via
+improving the vascular functions.
+1663
+
+X Lin et al
+
+Phys. Med. Biol. 60 (2015) 1655
+
+Lin et al (Lin et al 2002) reported that the cerebral blood flow velocity increased in the ipsilateral cortex from day 1 to day 14 and peaked at day 7 after stroke monitored by MRI, however, our results showed that the BFV of LSAs was only increased from day 1 to day 7, and
+peaked on day 7. This result suggests that the blood flow alteration may differ between cortex
+and sub-cortex after stroke. It is also interesting that the cerebral blood flow was decreased
+to less than 50% of baseline between 1 and 2 d after intracranial hemorrhage (ICH), which is
+contradictory with ischemic stroke (Yang et al 1994).
+Given the many benefits of fSRA over other basic imaging methodologies, this imaging
+technique could also be utilized in other cerebrovascular and cardiovascular research, such as
+intracranial aneurysms and atherosclerosis, which is often due to hemodynamic and arterial
+dysfunction (Cebral et al 2011, Rautou et al 2011). fSRA may also have potential applications
+for monitoring arterial functions in hypertension, diabetes and arthrosclerosis caused by high
+cholesterol which may cause cerebrovascular and cardiovascular disease (Grey et al 2003).
+Furthermore, due to the similar principles of SRA and DSA, the theory of fSRA may also be
+used in clinical diagnoses of hemodynamic and vascular elasticity to analyze arterial functions
+in patients by post processing the DSA data.
+However, fSRA still has some disadvantages that need to be overcome in the future. Firstly,
+the ionizing radiation effects caused by the synchrotron radiation x-ray still are uncertain, which
+is a major challenge to transferring it to clinical use, though it has already been used in clinical
+research (Elleaume et al 2000). Secondly, the limited frames per second of the CCD camera
+makes it difficult to accurately track the BFV for small arteries (Lin et al 2013). The frame frequency in Spring-8 was 30 fps when small animal SRA was conducted, which makes the measurement of the BFV more accurate (Kidoguchi et al 2006, Jenkins et al 2012, Shirai et al 2013).
+5. Conclusion
+In summary, we reported a reliable in vivo technique, fSRA, to measure the sub-cortical arterial elasticity and BFV based on synchrotron radiation angiography in small animals. Using
+this novel method, we found that the LSAs’ elasticity fluctuated after ischemic stroke and may
+be related to BFV and brain edema change.
+Acknowledgments
+The study was supported by the National Key Basic Research Program of China, 973 Program, 2011CB504405 (GYY), the National Natural Science Foundation of China, U1232205
+(GYY), 61201057 (PM) and 81201214 (YG) and KC Wong Foundation (GYY). P Miao was
+also funded by ‘Chen Guang’ project, Innovation Program of Shanghai Municipal Education
+Commission, Innovation Funds of Shanghai University, Science Foundation for The Excellent
+Youth Scholars in Shanghai.
+References
+Cebral  J R, Mut  F, Weir  J and Putman  C 2011 Quantitative characterization of the hemodynamic
+environment in ruptured and unruptured brain aneurysms AJNR. Am. J. Neuroradiol. 32 145–51
+Cohn J N, Finkelstein S, McVeigh G, Morgan D, LeMay L, Robinson J and Mock J 1995 Noninvasive
+pulse wave analysis for the early detection of vascular disease Hypertension 26 503–8
+Edvinsson L I and Povlsen G K 2011 Vascular plasticity in cerebrovascular disorders J. Cereb. Blood
+Flow Metab. 31 1554–71
+
+1664
+
+X Lin et al
+
+Phys. Med. Biol. 60 (2015) 1655
+
+Elleaume  H et al 2000 First human transvenous coronary angiography at the european synchrotron
+radiation facility Phys. Med. Biol. 45 L39–43
+Ferrara N, Gerber H P and LeCouter J 2003 The biology of VEGF and its receptors Nat. Med. 9 669–76
+Greco  A, Mancini  M, Gargiulo  S, Gramanzini  M, Claudio  P P, Brunetti  A and Salvatore  M 2012
+Ultrasound biomicroscopy in small animal research: applications in molecular and preclinical
+imaging J. Biomed. Biotechnol. 2012 519238
+Grey E, Bratteli C, Glasser S P, Alinder C, Finkelstein S M, Lindgren B R and Cohn J N 2003 Reduced
+small artery but not large artery elasticity is an independent risk marker for cardiovascular events
+Am. J. Hypertens. 16 265–9
+Hayashi  T, Abe  K and Itoyama  Y 1998 Reduction of ischemic damage by application of vascular
+endothelial growth factor in rat brain after transient ischemia J. Cereb. Blood Flow Metab.
+18 887–95
+Holdsworth D W and Thornton M M 2002 Micro-CT in small animal and specimen imaging Trends
+Biotechnol. 20 S34–9
+Hong G, Lee J C, Robinson J T, Raaz U, Xie L, Huang N F, Cooke J P and Dai H 2012 Multifunctional
+in vivo vascular imaging using near-infrared II fluorescence Nat. Med. 18 1841–6
+Jenkins M J, Edgley A J, Sonobe T, Umetani K, Schwenke D O, Fujii Y, Brown R D, Kelly D J, Shirai M
+and Pearson J T 2012 Dynamic synchrotron imaging of diabetic rat coronary microcirculation in
+vivo Arterioscler. Thromb. Vasc. Biol. 32 370–7
+Kidoguchi  K, Tamaki  M, Mizobe  T, Koyama  J, Kondoh  T, Kohmura  E, Sakurai  T, Yokono  K and
+Umetani K 2006 In vivo x-ray angiography in the mouse brain using synchrotron radiation Stroke
+37 1856–61
+Krieger S N, Streicher M N, Trampel R and Turner R 2012 Cerebral blood volume changes during brain
+activation J. Cereb. Blood Flow Metab. 32 1618–31
+Lamireau  D, Nuyt  A M, Hou  X, Bernier  S, Beauchamp  M, Gobeil  F Jr, Lahaie  I, Varma  D R and
+Chemtob S 2002 Altered vascular function in fetal programming of hypertension Stroke 33 2992–8
+Lin X, Miao P, Wang J, Yuan F, Guan Y, Tang Y, He X, Wang Y and Yang G Y 2013 Surgery-related
+thrombosis critically affects the brain infarct volume in mice following transient middle cerebral
+artery occlusion PLoS One 8 e75561
+Lin T N, Sun S W, Cheung W M, Li F and Chang C 2002 Dynamic changes in cerebral blood flow
+and angiogenesis after transient focal cerebral ischemia in rats. Evaluation with serial magnetic
+resonance imaging Stroke 33 2985–91
+Liu J, Wang Y, Akamatsu Y, Lee C C, Stetler R A, Lawton M T and Yang G Y 2014 Vascular remodeling
+after ischemic stroke: mechanisms and therapeutic potentials Prog. Neurobiol. 115C 138–56
+Lu  H et al 2012 Netrin-1 hyperexpression in mouse brain promotes angiogenesis and long-term
+neurological recovery after transient focal ischemia Stroke 43 838–43
+Marinkovic S, Gibo H, Milisavljevic M and Cetkovic M 2001 Anatomic and clinical correlations of the
+lenticulostriate arteries Clin. Anat. 14 190–5
+Rautou P E, Vion A C, Amabile N, Chironi G, Simon A, Tedgui A and Boulanger C M 2011 Microparticles,
+vascular function and atherothrombosis Circ. Res. 109 593–606
+Shih  Y Y, Muir  E R, Li  G, De La Garza  B H and Duong  T Q 2012 High-resolution 3D MR
+microangiography of the rat ocular circulation Radiology 264 234–41
+Shirai M, Schwenke D O, Tsuchimochi H, Umetani K, Yagi N and Pearson J T 2013 Synchrotron radiation
+imaging for advancing our understanding of cardiovascular function Circ. Res. 112 209–21
+Tang  Y, Cai  B, Yuan  F, He  X, Lin  X, Wang  J, Wang  Y and Yang  G Y 2014 Melatonin pretreatment
+improves the survival and function of transplanted mesenchymal stem cells after focal cerebral
+ischemia Cell Transplant. 23 1279–91
+Welsher K, Sherlock S P and Dai H 2011 Deep-tissue anatomical imaging of mice using carbon nanotube
+fluorophores in the second near-infrared window Proc. Natl Acad. Sci. USA 108 8943–8
+Yang  G Y, Betz  A L, Chenevert  T L, Brunberg  J A and Hoff  J T 1994 Experimental intracerebral
+hemorrhage: relationship between brain edema, blood flow and blood-brain barrier permeability in
+rats J. Neurosurg. 81 93–102
+Yuan F, Wang Y, Guan Y, Ren Y, Lu H, Xiao T, Xie H, Vosler P S, Chen J and Yang G Y 2013 Real-time
+imaging of mouse lenticulostriate artery following brain ischemia Front. Biosci. (Elite Ed) 5 517–24
+Zheng Y and Mayhew J 2009 A time-invariant visco-elastic windkessel model relating blood flow and
+blood volume Neuroimage 47 1371–80
+
+1665
+
+

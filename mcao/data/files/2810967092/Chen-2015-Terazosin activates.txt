@@ -1,0 +1,1430 @@
+article
+published online: 10 november 2014 | doi: 10.1038/nchembio.1657
+
+Terazosin activates Pgk1 and Hsp90 to promote
+stress resistance
+Xinping Chen1,2,9, Chunyue Zhao1,2,9, Xiaolong Li3,4,9, Tao Wang1,2,9, Yizhou Li5, Cheng Cao5, Yuehe Ding6,
+Mengqiu Dong6, Lorenzo Finci4, Jia-huai Wang3,4,7*, Xiaoyu Li5,8* & Lei Liu2*
+
+npg
+
+© 2015 Nature America, Inc. All rights reserved.
+
+Drugs that can protect against organ damage are urgently needed, especially for diseases such as sepsis and brain stroke. We
+discovered that terazosin (TZ), a widely marketed 1-adrenergic receptor antagonist, alleviated organ damage and improved
+survival in rodent models of stroke and sepsis. Through combined studies of enzymology and X-ray crystallography, we discovered that TZ binds a new target, phosphoglycerate kinase 1 (Pgk1), and activates its enzymatic activity, probably through
+2,4-diamino-6,7-dimethoxyisoquinoline′s ability to promote ATP release from Pgk1. Mechanistically, the ATP generated from
+Pgk1 may enhance the chaperone activity of Hsp90, an ATPase known to associate with Pgk1. Upon activation, Hsp90 promotes
+multistress resistance. Our studies demonstrate that TZ has a new protein target, Pgk1, and reveal its corresponding biological
+effect. As a clinical drug, TZ may be quickly translated into treatments for diseases including stroke and sepsis.
+
+S
+
+ymptoms of a wide variety of human diseases, such as neurodegenerative diseases, autoimmune diseases, heart failure, stroke
+and sepsis, are caused by the overwhelming activation of cell
+death and tissue damage. Sepsis, for example, is initiated by bacterial infection, which triggers massive apoptosis in immune systems
+and the failure of multiple organ functions1. However, the clinical
+treatment of sepsis has extensively relied on antimicrobial treatment
+and supportive care, which have limited efficacy owing to complications such as drug resistance, antibiotic toxicity, endotoxins, cell
+death and organ dysfunction2,3. Similarly, brain stroke, an agerelated vascular disease involving massive cell death in the brain, is
+another leading cause of death worldwide. Currently, no effective
+neuroprotective therapy has been developed beyond thrombolytic
+therapy to restore clotted blood vessels4.
+Apoptosis, which is mediated by caspases, was discovered in the
+1990s5. Since then, no caspase inhibitor has passed clinical trials,
+and the discovery of new inhibitors remains a major challenge in
+biomedical research6. To manipulate apoptosis, efforts have been
+focused on the endogenous regulatory factors, including the inhibitor of apoptosis family proteins, Bcl-2 family proteins and chaperone
+proteins7,8. For example, the inhibitor of apoptosis family proteins
+are heavily pursued drug targets for cancer therapeutics9. Hsp90,
+a taxonomically highly conserved chaperone, has been reported
+to have important roles in the regulation of cellular homeostasis
+and stress response10. It has been reported that Hsp90 has many
+biologically important client proteins, especially kinases and hormone receptors11,12. Hsp90 is highly dynamic, and its conformational change is regulated by its ATPase activity, which stabilizes its
+interactions with client proteins10. Considering its prominent antiapoptotic and protective effects in cancer cells, many Hsp90 inhibitors have been developed as potential anticancer drugs to attenuate
+cancer cell survival. However, no Hsp90 activator that may protect
+cells from stresses and cell death has been reported.
+
+Here, we devised a screen to search for new antiapoptotic drugs
+from a pool of bioactive small molecules13. Once a candidate compound is identified, investigations of its targets and mode of action
+may enable its rapid translation to clinical applications. We found
+that TZ could rescue rodent models of sepsis and stoke in vivo.
+Notably, it inhibited apoptosis in macrophages, most likely through
+activation of Pgk1 and Hsp90.
+
+RESULTS
+TZ rescued reaper-mediated apoptosis in Drosophila
+
+We designed our search for apoptosis inhibitors in Drosophila on
+the rationale that its apoptotic pathway is conserved in mammals14
+and that flies are economical for compound screening. To induce
+apoptosis, the expression of reaper (rpr) was driven by a heatactivated promoter, HS-Gal4 (we refer to their progeny as HS>rpr).
+Consistent with the previous report that ectopically expressed rpr
+can induce widespread apoptosis and organ death in Drosophila15,
+we observed that approximately 75% of the progeny was dead after
+24 h upon heat shock at 37 °C for 45 min (Supplementary Results,
+Supplementary Fig. 1a,b).
+To screen for apoptosis inhibitors, we first assessed global transcriptional alteration during apoptosis using Affymetrix microarrays.
+Comparing the HS>rpr flies to the genetic background–matched control HS × y w67c23 flies (progeny of HS-Gal4 flies crossed with y w67c23
+flies), 2,169 genes showed more than 50% altered expression levels
+(genes identified from the microarrays are listed in Supplementary
+Data Set 1). Then, these genes were converted to homologous
+human genes (the apoptotic signature genes after conversion
+into human homologs are listed in Supplementary Data Set 2)
+and entered into Cmap for compound matching13 (matched drugs
+are listed in Supplementary Data Set 3). Twenty-five compounds
+were selected (Supplementary Data Set 4) and were fed to the
+HS>rpr flies with the concentrations indicated in Supplementary
+
+State Key Laboratory of Biomembrane and Membrane Biotechnology, School of Life Sciences, Peking University, Beijing, China. 2Beijing Institute for Brain
+Disorder and Beijing Tiantan Hospital, Capital Medical University, Beijing, China. 3School of Life Sciences, University of Science and Technology of China,
+Hefei, China. 4School of Life Science, Peking University, Beijing, China. 5Key Laboratory of Bioorganic Chemistry and Molecular Engineering, College of
+Chemistry and Molecular Engineering, Peking University, Beijing, China. 6National Institute of Biological Sciences, Beijing, China. 7Dana-Farber Cancer
+Institute, Harvard Medical School, Boston, Massachusetts, USA. 8Key Laboratory of Chemical Genomics, School of Chemical Biology and Biotechnology,
+Peking University Shenzhen Graduate School, Shenzhen, China. 9These authors contributed equally to this work. *e-mail: jwang@red.dfci.harvard.edu,
+xiaoyuli@pku.edu.cn or lei_liu_2005@yahoo.com
+1
+
+nature CHEMICAL BIOLOGY | vol 11 | january 2015 | www.nature.com/naturechemicalbiology	
+
+19
+
+Nature chemical biology doi: 10.1038/nchembio.1657
+a
+
+LPS + IFN-γ
++ TZ
+
+LPS + IFN-γ
+
+Control
+
+50
+
+© 2015 Nature America, Inc. All rights reserved.
+
+npg
+
+TZ was an activator of Pgk1
+
+To test whether the effect of TZ on apoptosis was mediated through
+the α1-adrenergic receptor, we modified TZ by replacing a nitrogen
+positioned on the quinazoline ring with a carbon (Fig. 2a; TZ-md, 2),
+which is known to reduce its binding to the α1-adrenoceptor by
+approximately 1,000-fold17. Indeed, TZ-md could not block intracellular calcium elevation induced by metaraninol, an α1 receptor
+agonist (Supplementary Fig. 3a). However, TZ-md still had an
+antiapoptotic effect in RAW 264.7 cells (Supplementary Fig. 3b).
+This result suggested that TZ might exert an antiapoptotic effect via
+an unknown target.
+To search for potential new targets, we synthesized a TZ
+derivative, ‘TZ-TA’ (3), by conjugating a chemical handle at the
+4-amino position of the quinazoline motif (Fig. 2a). TZ-TA
+had preserved the antiapoptotic property of TZ in RAW 264.7
+cells (Supplementary Fig. 3b). Then, TZ-TA was immobilized
+onto an Affi-Gel support to immobilize any binding proteins
+(Supplementary Note 1). Comparing the pulldown results from
+the RAW 264.7 cell lysate and the lysate containing saturated TZ as
+a soluble competitor, we observed a distinct protein band specifically bound to the Affi-Gel–TZ-TA beads, with a molecular weight
+of ~46 kDa (Fig. 2b). This band was extracted and identified by
+MS as Pgk1 (Supplementary Fig. 3c and Supplementary Note 2).
+Moreover, the purified His-tagged mouse Pgk1 could be pulled
+down by the Affi-Gel–TZ-TA beads (Fig. 2c), suggesting that TZ
+directly bound Pgk1.
+As one of the core enzymes in glycolysis, Pgk1 had been reported
+to act as a suppressor of apoptosis in yeast and improve the viability in the human SH-SY5Y cell line upon amyloid stimulus18,19.
+To test the effect of TZ on Pgk1 activity, we performed an in vitro
+assay by providing the purified Pgk1 with substrates (ADP and
+1,3-bisphosphoglycerate) and measured the forward reaction in
+which NADH accumulated (Online Methods). Notably, at higher
+dosages (2.5 μM and 25 μM), TZ inhibited Pgk1, whereas at lower
+dosages (0.5 μM to 2.5 nM) it activated Pgk1 (Fig. 2d). To further
+validate the TZ effect on Pgk1, we measured ATP (a product of
+Pgk1) and pyruvate (a downstream product of glycolysis) levels in
+the cell lysate. The ATP level was transiently elevated by nearly 40%
+in the first minute of the reaction, and the pyruvate level was stably
+increased by approximately 30% (Fig. 2e). Together, these results
+suggested that TZ activated Pgk1 at low concentrations.
+Furthermore, we determined the effective dosages of TZ
+to inhibit H2O2-induced apoptosis in macrophages. The results
+20	
+
+% of cell death
+(LDH assay)
+
+Annexin V
+
+TZ inhibited apoptosis in cultured mammalian cells
+
+c
+Caspase/actin
+(fold change)
+
+To examine whether TZ inhibits apoptosis in cultured mammalian
+cells, RAW 264.7 cells were pretreated for 18–24 h before induction
+of apoptosis by lipopolysaccharide (LPS) and interferon-γ (IFN-γ)16.
+After treatment for 18–24 h, apoptosis was determined by annexin V
+staining. The result showed that TZ suppressed apoptosis in these cells
+(Fig. 1a and Supplementary Fig. 2a), and these results were further
+verified by the lactate dehydrogenase (LDH) assay (Supplementary
+Fig. 2b). Furthermore, to test whether TZ blocks apoptosis induced
+by a different stressor, hydrogen peroxide (H2O2) was applied, which
+induces caspase-mediated apoptosis, a type of cell death that can be
+blocked by zVad, a pan-caspase inhibitor (Supplementary Fig. 2c).
+Again, TZ exhibited a protective effect against H2O2-induced apoptosis by an LDH release assay (Fig. 1b), active caspase-3 western
+blot (Fig. 1c and Supplementary Fig. 2d) and caspase activity assay
+(Fig. 1d). These results demonstrated that TZ inhibited caspasemediated apoptosis triggered by diverse inducers in macrophages.
+
+b
+40
+30
+
+*
+
+10
+Control H2O2 H2O2 + H2O2 +
+Z-vad
+TZ
+
+d
+
+1.5
+1.0
+
+*
+
+0.5
+0
+
+*
+
+20
+0
+
+H2O2
+
+H2O2 +
+Z-vad
+
+*
+H 2O 2 +
+TZ
+
+DEVDase activity
+(fold change)
+
+Data Set 5. From this screen, we identified TZ, an α1-adrenergic
+receptor antagonist and a widely marketed antihypertension drug,
+as the only compound that significantly (P = 0.0018) improved survival of the HS>rpr flies (Supplementary Fig. 1b).
+
+Bright field
+
+article
+
+2.0
+1.5
+1.0
+0.5
+0
+
+***
+
+***
+
+Control H2O2 H2O2 + H2O2 +
+Z-vad
+TZ
+
+Figure 1 | TZ blocks apoptosis in cultured mammalian cells. (a) Examples
+of bright-field and fluorescent images of the RAW 264.7 cells stained
+with annexin V after induction by LPS and IFN-γ. Scale bar, 25 μm. Three
+independent experiments were performed. (b) The LDH assay of cell death
+induced by H2O2. RAW 264.7 cells were treated with 0.1% DMSO (control),
+H2O2 (1 mM), H2O2 plus Z-vad (100 μM) or H2O2 plus TZ (10 μM) in 0.1%
+DMSO. The percentage of cell death = LDHmedium/(LDHmedium + LDHcell) ×
+100%; n = 3. All data are presented as the mean + s.e.m., unless otherwise
+indicated. The P values of a two-tailed t-test for the comparison of the
+two data sets, the one-way analysis of variance with post-hoc multiple
+comparison Sidak for three or more data sets and the Kaplan-Meier survival
+analysis with a log-rank algorithm are ***P < 0.001, **P < 0.01 and *P < 0.05,
+respectively, throughout all figures. (c) The statistical results of western
+blotting to detect the active form of caspase 3 are shown. Conditions are
+the same as in b. The relative ratio of caspase 3/β-actin from the H2O2
+treatment was set as 1, and the relative ratio of other treatments were
+shown; n = 3. (d) The effect of TZ on the activity of caspase 3 and caspase 7,
+measured by a DEVDase activity assay. The data were normalized to the
+control conditions (without treatment); n = 3.
+
+showed that TZ suppressed apoptosis with concentrations as low
+as 0.1 μM (Supplementary Fig. 4a).
+To further explore the functional role of Pgk1 in modulating
+apoptosis, we knocked down Pgk1 in RAW 264.7 cells by stably
+expressing Pgk1 short hairpin RNA (shRNA). The knockdown efficiency was shown (Supplementary Fig. 4b). Although knocking
+down Pgk1 did not affect cell survival, the protective effect of TZ
+against H2O2-induced apoptosis was abolished by the Pgk1 shRNA,
+as determined by LDH release assays (Fig. 2f); caspase 3 activation and PARP-1 cleavage were determined by western blotting
+(Supplementary Fig. 4c). These results indicated that the antiapoptosis activity of TZ required Pgk1. Consistently, stable expression
+of Pgk1 in the RAW 264.7 cells by lentiviral transfection reduced
+PARP-1 cleavage and LDH release after H2O2 treatment (Fig. 2g,
+and Supplementary Fig. 4d,e). Collectively, these results indicated
+that Pgk1 was required for the protective effect of TZ.
+
+Crystallization of Pgk1 with TZ
+
+To investigate how TZ interacts with Pgk1, we crystallized mouse
+and human Pgk1 (Supplementary Fig. 5 shows protein purification of Pgk1). Pgk1 consists of N-terminal and C-terminal domains
+of roughly equal size and a similar Rossman fold. Human Pgk1
+(hPgk1) has been crystallized in open20 and closed21 forms. The
+enzyme spends most of its time in a fully open and resting conformation for substrate binding and product release, with a short
+period of time in a closed form, which is used for quick catalysis22.
+Although the mPgk2 structure has been resolved23, there have been
+no reports on mPgk1 structure. First, we grew mPgk1 crystals in
+
+nature chemical biology | vol 11 | january 2015 | www.nature.com/naturechemicalbiology
+
+article
+
+Nature chemical biology doi: 10.1038/nchembio.1657
+
+O
+the presence of 3-phosphoglycerate (3PG), a a
+O
+O
+O
+N
+O
+substrate of Pgk1. Next, we obtained the terO
+N
+N
+MeO
+N
+N
+nary co-crystallization complexes for both MeO
+MeO
+N
+N
+N
+N
+mouse and human Pgk1–3PG–TZ, with
+MeO
+N
+N
+MeO
+OH
+HN
+the addition of a saturating amount of TZ MeO
+O
+NH
+NH
+(10 mM). The structures were determined using
+TZ-md (2)
+TZ-TA (3)
+TZ
+molecular replacement to 2.1 Å. Consistent
+c
+b
+d
+with the 98% sequence identity between Pgk1
+6
+** **
+of these two species (Supplementary
+4
+*
+* **
+2
+Fig. 6a), the structure of hPgk1–3PG–TZ
+0
+MW
+MW
+could be superposed onto mPgk1–3PG–TZ (kDa)
+–2
+(kDa)
+–4
+Pgk1
+55
+well, indicating an identical TZ-binding
+55
+–6
+43
+His-Pgk1
+–8
+***
+mode to hPgk1 and mPgk1 (Fig. 3a and
+43
+Supplementary Fig. 6b–g). The only differ–60
+***
+ence between these two structures occurred
+g GFP GFP + H O Pgk1 Pgk1 + H O
+e 2.0
+f 80
+within a small disordered loop region between
+2 2
+2 2
+NS
+**
+2.0
+60
+*
+residues Thr378 and Asp387 in mPgk1 that was
+1.5
+1.5
+*
+PARP1
+40
+1.0
+located near the C terminus but was structurally
+1.0
+20
+0.5
+located at the junction between the N- and
+0.5
+HSP 90
+0
+0
+0
+C-terminal domains (Supplementary Fig. 6c).
+Vehicle TZ
+Vehicle TZ
+HSP 70
+(10 µM)
+(10 µM)
+From the structure of mPgk1–3PG–TZ, we
+observed that the three hydrophobic rings of
+β-actin
+the TZ molecule were surrounded by many
+H2O2
+H2O2
+hydrophobic residues of the Pgk1 molecule, Figure 2 | Pgk1 as the target of TZ. (a) The chemical structures of TZ, modified TZ (TZ-md; 2)
+including the aromatic side chains of Phe242, and the bait compound (TZ-TA; 3). (b) The in vitro pull-down assay to identify the TZ target.
+Phe292, Phe348, Trp345 as well as Leu257, Naked Affi-Gel beads and Affi-Gel–TZ-TA beads with saturated soluble competitor of TZ were
+Met312 and Leu314 (Fig. 3b). Markedly, the used as controls. The full gel is shown in Supplementary Figure 15. (c) The in vitro pulldown
+oxygen and nitrogen atoms of TZ formed a of the recombinant mouse His-tagged Pgk1 protein by Affi-Gel–TZ-TA. The full gel is shown in
+network of hydrogen bonds directly or through Supplementary Figure 15. MW, molecular weight. (d) The effect of TZ on purified mouse Pgk1
+water molecules to Pgk1, indicating that drug enzymatic activity. TZ dosage is indicated; n = 4. Error bars represent s.e.m. (e) The effect of TZ
+and enzyme recognition was quite specific on the ATP and pyruvate production in the cell lysate of RAW 264.7 cells. For the ATP level, the
+(Fig. 3b). We displayed the electrostatic sur- transient first minute was measured; n = 5. For the pyruvate production, the steady state (the
+face of the mPgk1–3PG–TZ structure to dem- tenth minute) was measured; n = 3. (f) The effect of stably expressed shRNA for Pgk1 (using
+onstrate the relative position of ADP, ATP and scrambled shRNA as the control) on cell death mediated by H O . The percentage of cell death was
+2
+TZ (Fig. 3a). We observed that the phosphate determined by the LDH assay; n = 5. Error bars represent s.e.m.2 (g)
+The effect of stably expressing
+groups of ADP and ATP were oriented toward Pgk1 or EGFP (control) on the PARP1 cleavage upon H O treatment. The full gel is shown in
+2 2
+a positively charged well, whereas the TZ mole- Supplementary Figure 15; n = 3.
+cule extended its hydrophobic tail further away
+on the opposite direction toward the end of the
+domain (Fig. 3a). Further, we overlaid the mPgk1–3PG–TZ structure of activated Pgk1 is unclear. We have observed that the ATP level
+onto the structures of the ADP-bound open form of the hPgk1 (Fig. 3c) increased upon TZ treatment in cell lysate (Fig. 2e). However, the
+and the ATP-bound closed form of the hPgk1 (Fig. 3d). These results ATP level declined to 90% of the baseline level after 10 min of incuindicated that the six-membered benzene ring of TZ’s quinazoline bation with TZ (Fig. 4a). This suggests that ATP consumption is
+core has the same site as the six-membered pyrimidine ring of the increased, most likely through activation of an ATPase. Notably, Pgk1
+purine in ADP and ATP. Together, our results demonstrated that has been reported to interact with Hsp90, a highly abundant chapthe TZ binding site overlaps with the ADP and ATP binding site to erone protein with ATPase activity11,12. To test whether Hsp90 was
+the enzyme, and they were all inserted deeply into the same hydro- the ATPase activated by TZ, we examined the effect of geldanamycin
+phobic cleft at the C-terminal domain of Pgk1.
+(GA), a potent inhibitor of the ATPase of Hsp90. With GA treatment
+The binding mode revealed by the Pgk1–3PG–TZ structures alone, the ATP level was not altered in the cell lysate (Fig. 4a), suggestraises a paradox: in vitro enzymatic activity assays (Fig. 2d) indicated ing that the basal ATPase activity of Hsp90 is very low, as reported26.
+that TZ was stimulatory for Pgk1 at lower concentrations; however, However, GA reversed the decrease in ATP triggered by TZ (Fig. 4a).
+as TZ occupies the binding site of ADP and ATP, it should be a com- To verify the interaction between Pgk1 and Hsp90, we overexpressed
+petitive inhibitor instead of an activator. We rationalize that, on the hemagglutinin (HA)-tagged mPgk1 (Pgk1-HA) in RAW 264.7 cells.
+basis of the chemical equilibrium principle, the effective TZ dos- We found that immunoprecipitation (IP) with an anti-HA antibody,
+age for either inhibition or activation should depend on the relative Hsp90 could be pulled down (Fig. 4b). Consistently, IP with an
+affinity and the concentration of TZ, ADP and ATP for Pgk1. The anti-Hsp90 antibody pulled down endogenous p23 (a known bindPgk1 binding affinity (Kd) of ADP and ATP is 2.9 × 10−5 M and 3.3 × ing partner of Hsp90)27 as well as Pgk1 (Supplementary Fig. 8a).
+10−4 M, respectively24. According to our measurement by isothermal These results suggest a possible interaction between Pgk1 and Hsp90.
+titration calorimetry (ITC), TZ and TZ-TA bind to Pgk1 with a Kd Moreover, we expect more proteins associating with Hsp90 upon actiof 2.78 × 10−6 M and 2.5 × 10−6 M, respectively (Supplementary vating the ATPase of Hsp90 by TZ27. Indeed, the anti-Hsp90 antibody
+Fig. 7a,b), which is approximately 10 times and 100 times stronger could pull down more proteins upon addition of TZ than without TZ
+than ADP and ATP, respectively.
+(Supplementary Fig. 8b), suggesting that TZ may activate Hsp90.
+Next, we asked whether the function of Hsp90 was required
+for TZ to block apoptosis. Quantified by the LDH release and casThe antiapoptotic effect of TZ might depend on Hsp90
+Although upregulation of glycolytic pathway has been reported to pase activity assays, we found that the antiapoptotic effect of TZ
+benefit cell survival25, the mechanism for the antiapoptotic activity was completely abolished in the presence of GA (10 nM), whereas
+
+25 µM
+
+250 pM
+
+25 nM
+
+2.5 nM
+
+50 nM
+
+0.5 µM
+
+0.25 µM
+
+Affi
+
+2.5 µM
+
+ZTA
++T
+Z
+ZTA
+l–T
+
+l–T
+
+l
+
+-G
+e
+
+-G
+e
+
+Affi
+
+% cell death
+(LDH assay)
+
+Affi
+
+npg
+
+© 2015 Nature America, Inc. All rights reserved.
+
+Sh
+
+-s
+Sh cra
+- m
+Sh scr ble
+-s am
+cr b
+am le
++T ble
+Sh Z
+-P
+Sh gk1
+-P
+Sh gk1
+-P
++T gk1
+Z
+
+Pyruvate
+(fold change)
+
+-G
+e
+
+-G
+
+l
+
+e
+Affi l-TZ
+-G -TA
+el
+-T +TZ
+ZTA
+
+-G
+e
+
+Affi
+
+Affi
+
+ATP level
+(fold change)
+
+NADH change
+(%)
+
+2
+
+2
+
+nature CHEMICAL BIOLOGY | vol 11 | january 2015 | www.nature.com/naturechemicalbiology	
+
+21
+
+article
+
+Nature chemical biology doi: 10.1038/nchembio.1657
+
+a
+
+b
+
+P339
+
+H 2O
+E344
+
+G341
+A215
+
+W345
+V342
+F348
+
+G239
+
+TZ
+ADP
+ATP
+
+L314
+
+F242
+L257
+
+M312
+
+G313-CO
+
+T255
+
+TZ
+
+d
+
+ADP
+ADP
+ATP
+
+TZ
+
+TZ
+
+Figure 3 | Crystal structure of Pgk1 and TZ binding. (a) The relative positions of TZ, ADP and ATP are shown. Red, white and blue indicate
+acidic, neutral and alkalic distributions, respectively. (b) The structure of mPgk1–3PG–TZ. The enlarged view shows a hydrophobic cleft at the
+C-terminal domain of Pgk1. The dashed lines indicate predicted hydrogen bonds of TZ with the amino acids from Pgk1. Interactions of potential
+water molecules with TZ are also shown (pink). (c) Overlay of the mPgk1–3PG–TZ structure onto the ADP-bound open form structure of human
+Pgk1. ‘2XE7’ indicates the open form of hPgk1. (d) Overlay of the mPgk1–3PG–TZ structure onto the ATP-bound closed form structure of human Pgk1.
+‘2X15’ indicates the closed form of hPgk1.
+
+22 	
+
+10
+
+GA
+
+GA
+
++
+
++
+2
+
+TZ
+
+O
+2
+
+H
+
+2
+
+O
+
+2
+
++
+
+TZ
+
+2
+
+O
+H
+
+GA
+
+O
+
+2
+
+l
+
+0
+
+2
+
+Anti-HA
+
+ro
+
+GA
+
+GA
+
++
+TZ
+
+ro
+l
+
+Input
+
+Anti-Hsp90
+
+H
+
+Anti-HA
+
+0
+
+*
+
+30
+20
+
++
+
+Anti-Hsp90
+
+2
+
+–
++
+
+50
+40
+
+nt
+
++
+–
+
+c
+
+H
+
+Control IgG
+Anti-HA
+
+Transfection
+Pgk1-HA
++
+–
+–
++
+
+Co
+
+b
+
+% of cell death
+(LDH assay)
+
+0.5
+
+TZ
+
+To examine the effect of TZ in vivo, we first
+studied several stress conditions, including
+hypoxia, oxidative stress and apoptosis in
+Drosophila, with the rationale that Hsp90 activation induced by TZ may promote multistress
+resistance. To induce hypoxia, fly larvae were
+immersed in Drosophila HL3 saline for 2 h, and
+then their lethality was determined 6 h later
+after reoxygenation. The result showed that TZ
+reduced lethality in a dose-dependent manner
+(Supplementary Fig. 9a). For oxidative stress,
+we determined the lethality induced by feeding
+the flies with 20 mM paraquat. The results
+
+demonstrated that TZ (10 μM) was protective against paraquat
+(Fig. 5a). Moreover, the expression of Pgk1 RNAi or Hsp83 (the
+Drosophila homolog of mammalian Hsp90) RNAi, which effectively
+knocked down the targeted transcripts (Supplementary Fig. 9b),
+abolished the TZ effect (Fig. 5a), suggesting that the TZ effect was
+dependent on Pgk1 and Hsp83. In contrast, overexpression of Pgk1
+
+IP: Anti-HA
+
+nt
+
+TZ protects from multiple stresses
+
+Relative ATP level
+
+GA alone did not affect cell survival (Fig. 4c and Supplementary
+Fig. 8c). In a control experiment, the antiapoptotic effect of zVad
+was unaffected by 10 nM GA (Supplementary Fig. 8c). We further
+verified this result by PARP1 cleavage (Supplementary Fig. 8d).
+Notably, GA treatment could increase Hsp70, as reported by others28 (Supplementary Fig. 8d). This result further suggested that
+the protective effect was mediated by Hsp90
+but not Hsp70. Together, these data suggested
+a
+1.5
+that TZ may require the ATPase activity of
+***
+Hsp90 to block apoptosis.
+1.0
+*
+
+Co
+
+npg
+
+© 2015 Nature America, Inc. All rights reserved.
+
+c
+
+F292
+
+Figure 4 | The antiapoptosis effect of TZ was dependent on Hsp90. (a) The effect of TZ and GA
+on the ATP levels in the cell lysate of RAW 264.7 cells. The steady state (after the tenth minute)
+ATP level in the cell lysate was measured after addition of 0.1% DMSO (control), TZ (10 μM), GA
+alone (100 μM) or TZ plus GA (100 μM); n = 3 trials. (b) Co-IP of Pgk1-HA and Hsp90. Pgk1-HA
+was transfected into RAW 264.7 cells. An anti-HA antibody was used to pull down protein from
+the cell lysate. The full gel is shown in Supplementary Figure 15. (c) Effect of TZ against H2O2induced cell death in the presence of GA (10 nM). The LDH release assay is shown; n = 3 trials.
+Error bars represent s.e.m.
+nature chemical biology | vol 11 | january 2015 | www.nature.com/naturechemicalbiology
+
+article
+
+Nature chemical biology doi: 10.1038/nchembio.1657
+
+npg
+
+© 2015 Nature America, Inc. All rights reserved.
+
+nature CHEMICAL BIOLOGY | vol 11 | january 2015 | www.nature.com/naturechemicalbiology	
+
+Infarct volume (%)
+
+% survival
+
+Survival (%)
+
+was sufficient to rescue rpr-mediated apoptosis
+a 100
+b
+in the fly eye (Fig. 5b). Together, these results
+WT
+GMR-rpr;
+GMR-rpr;
+80
+GMR-Gal4
+GMR-Gal4
+GMR-Gal4/UAS-Pgk1
+suggest that TZ protects flies from multiple
+WT + TZ
+stresses, and this effect depends on the func60
+Pgk1 RNAi
+tion of Pgk1 and Hsp83.
+Next, we assessed the effect of TZ in mamPgk1 RNAi + TZ
+40
+mals and studied two mouse models of sepsis.
+Hsp83 RNAi
+For the LPS model of sepsis, we used immu20
+nocompetent BALB/C mice because of their
+Hsp83 RNAi +TZ
+high sensitivity to septic stress29. We found
+0
+TZ
+d Control
+that intraperitoneal injection of TZ (0.4 mg
+1
+2
+3
+4
+Time
+(d)
+per kg body weight) at 1.5 h after LPS infusion
+30
+significantly (P = 0.002) improved the mouse
+c 100
+survival (Supplementary Fig. 9c). Similarly,
+TZ (n = 15)
+80
+20
+subcutaneous injection of TZ (0.08 mg per kg
+*
+body weight) at 1.5 h and 24 h after the surgery
+60
+*
+showed protection against the cecal ligation and
+10
+40
+puncture (CLP) model of sepsis, which is con20
+sidered a better model to reflect the complex
+0
+Vehicle (n = 15)
+nature of human sepsis30 (Fig. 5c). Notably, TZ
+Control
+TZ
+0
+(n = 5)
+(n = 5)
+still exhibited protective effects when admin0
+24 48 72 96 120 144 168
+Time after CLP (h)
+istered 6 h after surgery (Supplementary
+Fig. 9d). For the pharmacodynamic marker,
+we measured the serum lactate level because
+Figure 5 | TZ shows multiple stress resistance in flies and rodents. (a) The TZ effect on adult
+serum acidosis has been considered as a bioflies under oxidative stress. Survival rates of different genotypes of flies feeding on 20 mM
+marker of sepsis correlating with lethality in
+paraquat are shown with or without feeding with 10 μM TZ. n = 3 trials, with 60 flies tested in
+patients31. We observed that TZ was able to
+each. WT, wild type. (b) The effect of Pgk1 overexpression on apoptosis in Drosophila. GMRreduce the serum lactate level in the CLP mice
+rpr represents a transgene with the GMR promoter directly upstream of the reaper cDNA,
+(Supplementary Fig. 9e). This was consistent
+which causes eye-specific apoptosis in flies. Scale bars, 50 μm. (c) The CLP model of sepsis.
+with the rescue of septic survival by TZ.
+TZ (0.08 mg per kg body weight was injected subcutaneously at 1.5 h and 24 h after CLP), or
+To determine the drug effect on apoptosaline (vehicle) was injected as a control. Kaplan-Merier survival analysis was performed, and
+sis, we observed that DNA fragmentation,
+the number of mice tested is shown. (d) Effect of TZ on MCAO in rats. The micrograph shows
+a marker of apoptosis, occurred in the thyrepresentative TTC staining from a sectioned whole brain. Quantification data are shown on the
+mus in both septic models (Supplementary
+bar graph. Error bars represent s.e.m.
+Fig. 10a), which is consistent with previous
+reports6. Markedly, TZ reduced DNA fragmentation in these sep- dosage we used (0.4 mg per kg body weight on LPS and 0.08 mg
+tic models (Supplementary Fig. 10a). We further confirmed this per kg body weight on CLP) was much lower than the 10 mg per kg
+observation by staining the thymus with terminal deoxynucleoti- body weight dose, which can affect blood pressure in mice35. We also
+dyl transferase dUTP nick end labeling (TUNEL; Supplementary measured the blood pressure change after intraperitoneal injection
+Fig. 10b). Collectively, these results demonstrated that TZ was of 0.4 mg per kg body weight TZ and observed no blood pressure
+protective against mouse models of sepsis.
+reduction (Supplementary Fig. 14a). These results suggested that
+As for the TZ dose at the site of action, we measured TZ con- the antiseptic effect of TZ was not mediated through inhibition of
+centrations in the blood serum at various time points of after the sympathetic nervous system.
+intraperitoneal injection of TZ (0.4 mg per kg body weight) in
+Finally, we tested the effect of TZ on the unilateral middle ceremice. Its concentration decreased from 200 nM to 1 nM in 2 h bral artery occlusion (MCAO) model in rat. The coronal sectioned
+(Supplementary Fig. 11a). Meanwhile, we also determined TZ brain slices were stained with triphenyl-tetrazolium chloride (TTC),
+concentrations in tissues, including the thymus, heart, spleen, liver which can be oxidized by dehydrogenase from intact mitochonand kidney at 20 min, 1 h, 2 h and 6 h after TZ injection. The result dria to yield formazan, a red color product36. Therefore, the defecshowed that concentrations of TZ declined with time and became tive brain area is not stained by TTC and appears white. We found
+undetectable after 6 h (Supplementary Fig. 11b). Within this time, that intraperitoneal injection of TZ (0.08 mg per kg body weight)
+we found that the pyruvate level was increased in the thymus, where at 30 min before occlusion had no protective effect on the infarct
+prominent apoptosis occurred in sepsis (Supplementary Fig. 11c). volume compared with the control rats (Supplementary Fig. 14b).
+On the basis of our data, we proposed that gain of function Pgk1 We then reduced the TZ dosage to 0.03 mg per kg body weight and
+may phenocopy TZ effect; therefore, we infected mice with Pgk1 or observed significant (P = 0.016) protection in MCAO (Fig. 5d).
+the control EGFP lentivirus32. The transfection efficiency of lenti- This result suggested that TZ was protective in neural cells during
+EGFP was low but detectable (Supplementary Fig. 12a,b). After the stroke, and a lower dose was required for treatment of stroke than
+CLP treatment, we observed that mice expressing Pgk1 showed sig- for treatment of sepsis.
+nificant (P = 0.03) reduction of lethality (Supplementary Fig. 12c)
+and apoptosis in thymus (Supplementary Fig. 12d). This result fur- DISCUSSION
+ther confirmed the functional role of Pgk1 in sepsis.
+Our studies demonstrated that TZ inhibits apoptosis in fruit flies
+One caveat for the in vivo effect of TZ is that it may have inhib- and mammalian cells as well as in models of mouse sepsis and rat
+ited the sympathetic nervous system33, resulting in reduced cytokine brain stroke. In contrast to its well-known role in antagonizing
+release during sepsis34. We found that administration of TZ or over- the α1-adrenergic receptor, our results demonstrated that TZ recexpression of Pgk1 could not alter the elevated levels of cytokines onciles its effects through the activation of a new target Pgk1, as
+including IL-6, IL-10, HMGB1 and TNF-α at multiple time points shown by the fact that the antiapoptotic effect of TZ was abolished
+after CLP surgery (Supplementary Fig. 13a,b). In addition, the TZ by the loss of Pgk1. Consistent with this protective role, Pgk1
+23
+
+npg
+
+© 2015 Nature America, Inc. All rights reserved.
+
+article
+
+Nature chemical biology doi: 10.1038/nchembio.1657
+
+deficiency in humans causes muscle stiffness, hemolytic anemia and
+mental retardation37, whereas the overexpression of Pgk1 renders a
+multi-drug-resistant phenotype in human ovarian cancer cells or
+the progression of hepatic carcinoma38,39.
+Regarding the mechanism of TZ activation of Pgk1, our cocrystal structure data from both the mouse and the human Pgk1
+with TZ suggested that the 2,4-diamino-6,7-dimethoxyisoquinoline
+structural motif fits into the pocket of the ADP or ATP binding
+site. Because ATP release is likely to be a key rate-limiting step for
+the enzymatic reaction40, TZ may kinetically facilitate the reaction
+through accelerating ATP release. However, the binding affinity of
+TZ to Pgk1 was approximately tenfold higher than the substrate
+ADP, and therefore the concentration of TZ needs to be sufficiently
+low for ADP to compete off TZ for the next catalytic cycle.
+Our mechanistic studies suggested that activated Pgk1 might promote the ATPase activity of Hsp90. Under basal conditions, Hsp90
+is known to have a very low ATPase activity41, and activation of its
+ATPase can enhance its interaction with client proteins8. Hsp90 is
+a well-known inhibitor of caspase-mediated apoptosis through
+diverse mechanisms. For instance, Hsp90 may interact with Apaf-1
+to prevent the formation of the apoptosome42 or prevent Bid cleavage43. Activated Hsp90 may also promote prosurvival pathways by
+increasing NF-κB activity or by maintaining Akt kinase activity44,45.
+Consistent with our hypothesis, Hsp90 has been shown to protect
+mice from LPS-induced sepsis46. Although our results suggest that
+TZ may enhance the ATPase activity of Hsp90, this observation is
+indirect and so warrants further investigation.
+Different from of our hypothesis, some studies have suggested
+that the administration of some Hsp90 inhibitors such as GA and
+17-AAG were protective against sepsis47,48. However, these inhibitors were also known to activate the function of HSF-1 through
+inactivation of Hsp90 to release HSF-1 (refs. 28, 49). The effect of
+TZ on Hsp90 activation warrants further investigation, especially
+during sepsis and stroke.
+The discovery of TZ as a new protective agent and Pgk1 as a new
+target has great potential to be implemented in many medical conditions to protect cells from damage. The fact that TZ is an approved
+drug with well-established pharmacokinetic and safety profiles in
+humans may accelerate its potential development and repurposing
+as a new clinical drug.
+Received 9 November 2013; accepted 27 August 2014;
+published online 10 November 2014
+
+Methods
+
+Methods and any associated references are available in the online
+version of the paper.
+Accession codes. Protein Data Bank. The crystal structure data
+have been deposited under accession codes 4O33 and 4O3F.
+
+References
+1.	 Annane, D. et al. Corticosteroids in the treatment of severe sepsis and septic
+shock in adults: a systematic review. J. Am. Med. Assoc. 301, 2362–2375
+(2009).
+2.	 Kumar, A. Optimizing antimicrobial therapy in sepsis and septic shock.
+Crit. Care. Nurs. Clin. North Am. 23, 79–97 (2011).
+3.	 Ulloa, L., Brunner, M., Ramos, L. & Deitch, E.A. Scientific and clinical
+challenges in sepsis. Curr. Pharm. Des. 15, 1918–1935 (2009).
+4.	 Yuan, J. Neuroprotective strategies targeting apoptotic and necrotic cell death
+for stroke. Apoptosis 14, 469–477 (2009).
+5.	 Yuan, J.Y. & Horvitz, H.R. The Caenorhabditis elegans genes ced-3 and ced-4
+act cell autonomously to cause programmed cell death. Dev. Biol. 138, 33–41
+(1990).
+6.	 Lang, J.D. & Matute-Bello, G. Lymphocytes, apoptosis and sepsis: making the
+jump from mice to humans. Crit. Care 13, 109 (2009).
+7.	 Jana, S. & Paliwal, J. Apoptosis: potential therapeutic targets for new drug
+discovery. Curr. Med. Chem. 14, 2369–2379 (2007).
+24 	
+
+8.	 Lanneau, D., de Thonel, A., Maurel, S., Didelot, C. & Garrido, C. Apoptosis
+versus cell differentiation: role of heat shock proteins HSP90, HSP70 and
+HSP27. Prion 1, 53–60 (2007).
+9.	 Ndubaku, C., Cohen, F., Varfolomeev, E. & Vucic, D. Targeting inhibitor of
+apoptosis proteins for therapeutic intervention. Future Med Chem 1,
+1509–1525 (2009).
+10.	Taipale, M., Jarosz, D.F. & Lindquist, S. HSP90 at the hub of protein
+homeostasis: emerging mechanistic insights. Nat. Rev. Mol. Cell Biol. 11,
+515–528 (2010).
+11.	Falsone, S.F., Gesslbauer, B., Tirk, F., Piccinini, A.M. & Kungl, A.J.
+A proteomic snapshot of the human heat shock protein 90 interactome. FEBS
+Lett. 579, 6350–6354 (2005).
+12.	Zhao, R. et al. Navigating the chaperone network: an integrative map of
+physical and genetic interactions mediated by the hsp90 chaperone. Cell 120,
+715–727 (2005).
+13.	Lamb, J. et al. The Connectivity Map: using gene-expression signatures to
+connect small molecules, genes, and disease. Science 313, 1929–1935 (2006).
+14.	Fuchs, Y. & Steller, H. Programmed cell death in animal development and
+disease. Cell 147, 742–758 (2011).
+15.	White, K., Tahaoglu, E. & Steller, H. Cell killing by the Drosophila gene
+reaper. Science 271, 805–807 (1996).
+16.	Albina, J.E., Cui, S., Mateo, R.B. & Reichner, J.S. Nitric oxide–mediated
+apoptosis in murine peritoneal macrophages. J. Immunol. 150, 5080–5085
+(1993).
+17.	Bordner, J., Campbell, S.F., Palmer, M.J. & Tute, M.S. 1,3-Diamino-6,7dimethoxyisoquinoline derivatives as potential α1-adrenoceptor antagonists.
+J. Med. Chem. 31, 1036–1039 (1988).
+18.	Han, J., Miyamae, Y., Shigemori, H. & Isoda, H. Neuroprotective effect of
+3,5-di-O-caffeoylquinic acid on SH-SY5Y cells and senescence-acceleratedprone mice 8 through the up-regulation of phosphoglycerate kinase-1.
+Neuroscience 169, 1039–1045 (2010).
+19.	Mazzoni, C., Torella, M., Petrera, A., Palermo, V. & Falcone, C. PGK1, the
+gene encoding the glycolitic enzyme phosphoglycerate kinase, acts as a
+multicopy suppressor of apoptotic phenotypes in S. cerevisiae. Yeast 26, 31–37
+(2009).
+20.	Banks, R.D. et al. Sequence, structure and activity of phosphoglycerate kinase:
+a possible hinge-bending enzyme. Nature 279, 773–777 (1979).
+21.	Bernstein, B.E., Michels, P.A. & Hol, W.G. Synergistic effects of substrateinduced conformational changes in phosphoglycerate kinase activation.
+Nature 385, 275–278 (1997).
+22.	Zerrad, L. et al. A spring-loaded release mechanism regulates domain
+movement and catalysis in phosphoglycerate kinase. J. Biol. Chem. 286,
+14040–14048 (2011).
+23.	Sawyer, G.M., Monzingo, A.F., Poteet, E.C., O′Brien, D.A. & Robertus, J.D.
+X-ray analysis of phosphoglycerate kinase 2, a sperm-specific isoform from
+Mus musculus. Proteins 71, 1134–1144 (2008).
+24.	Flachner, B. et al. Substrate-assisted movement of the catalytic Lys 215 during
+domain closure: site-directed mutagenesis studies of human
+3-phosphoglycerate kinase. Biochemistry 44, 16853–16865 (2005).
+25.	Vander Heiden, M.G., Cantley, L.C. & Thompson, C.B. Understanding the
+Warburg effect: the metabolic requirements of cell proliferation. Science 324,
+1029–1033 (2009).
+26.	Jackson, S.E. Hsp90: structure and function. Top. Curr. Chem. 328, 155–240
+(2013).
+27.	Kamal, A. et al. A high-affinity conformation of Hsp90 confers tumour
+selectivity on Hsp90 inhibitors. Nature 425, 407–410 (2003).
+28.	Guo, F. et al. Abrogation of heat shock protein 70 induction as a strategy to
+increase antileukemia activity of heat shock protein 90 inhibitor 17allylamino-demethoxy geldanamycin. Cancer Res. 65, 10536–10544
+(2005).
+29.	Remick, D.G., Newcomb, D.E., Bolgos, G.L. & Call, D.R. Comparison of the
+mortality and inflammatory response of two models of sepsis:
+lipopolysaccharide vs. cecal ligation and puncture. Shock 13, 110–116
+(2000).
+30.	Rittirsch, D., Huber-Lang, M.S., Flierl, M.A. & Ward, P.A. Immunodesign of
+experimental sepsis by cecal ligation and puncture. Nat. Protoc. 4, 31–36
+(2009).
+31.	Maciel, A.T., Noritomi, D.T. & Park, M. Metabolic acidosis in sepsis. Endocr.
+Metab. Immune Disord. Drug Targets 10, 252–257 (2010).
+32.	Naldini, L. et al. In vivo gene delivery and stable transduction of nondividing
+cells by a lentiviral vector. Science 272, 263–267 (1996).
+33.	Akduman, B. & Crawford, E.D. Terazosin, doxazosin, and prazosin: current
+clinical experience. Urology 58, 49–54 (2001).
+34.	Miksa, M., Wu, R., Zhou, M. & Wang, P. Sympathetic excitotoxicity in sepsis:
+pro-inflammatory priming of macrophages by norepinephrine. Front. Biosci.
+10, 2217–2229 (2005).
+35.	Lee, D.L., Webb, R.C. & Brands, M.W. Sympathetic and angiotensindependent hypertension during cage-switch stress in mice. Am. J. Physiol.
+Regul. Integr. Comp. Physiol. 287, R1394–R1398 (2004).
+
+nature chemical biology | vol 11 | january 2015 | www.nature.com/naturechemicalbiology
+
+36.	Rupadevi, M., Parasuraman, S. & Raveendran, R. Protocol for middle cerebral
+artery occlusion by an intraluminal suture method. J. Pharmacol.
+Pharmacother. 2, 36–39 (2011).
+37.	Shirakawa, K., Takahashi, Y. & Miyajima, H. Intronic mutation in the PGK1
+gene may cause recurrent myoglobinuria by aberrant splicing. Neurology 66,
+925–927 (2006).
+38.	Ai, J. et al. FLNA and PGK1 are two potential markers for progression in
+hepatocellular carcinoma. Cell. Physiol. Biochem. 27, 207–216 (2011).
+39.	 Duan, Z. et al. Overexpression of human phosphoglycerate kinase 1 (PGK1)
+induces a multidrug resistance phenotype. Anticancer Res. 22, 1933–1941
+(2002).
+40.	Geerlof, A., Schmidt, P.P., Travers, F. & Barman, T. Cryoenzymic studies on
+yeast 3-phosphoglycerate kinase. Attempt to obtain the kinetics of the
+hinge-bending motion. Biochemistry 36, 5538–5545 (1997).
+41.	Jackson, S.E. Hsp90: structure and function. Top. Curr. Chem. 328, 155–240
+(2012).
+42.	Pandey, P. et al. Negative regulation of cytochrome c-mediated
+oligomerization of Apaf-1 and activation of procaspase-9 by heat shock
+protein 90. EMBO J. 19, 4310–4322 (2000).
+43.	Zhao, C. & Wang, E. Heat shock protein 90 suppresses tumor necrosis factor
+α induced apoptosis by preventing the cleavage of Bid in NIH3T3 fibroblasts.
+Cell. Signal. 16, 313–321 (2004).
+44.	Sato, S., Fujita, N. & Tsuruo, T. Modulation of Akt kinase activity by binding
+to Hsp90. Proc. Natl. Acad. Sci. USA 97, 10832–10837 (2000).
+45.	Lewis, J. et al. Disruption of hsp90 function results in degradation of the
+death domain kinase, receptor-interacting protein (RIP), and blockage of
+tumor necrosis factor-induced nuclear factor-κB activation. J. Biol. Chem.
+275, 10519–10526 (2000).
+46.	Li, X. et al. The role of the Hsp90/Akt pathway in myocardial calpain-induced
+caspase-3 activation and apoptosis during sepsis. BMC Cardiovasc. Disord. 13,
+8 (2013).
+47.	Chatterjee, A. et al. Heat shock protein 90 inhibitors prolong survival,
+attenuate inflammation, and reduce lung injury in murine sepsis. Am. J.
+Respir. Crit. Care Med. 176, 667–675 (2007).
+48.	Chatterjee, A. et al. Heat shock protein 90 inhibitors attenuate LPS-induced
+endothelial hyperpermeability. Am. J. Physiol. Lung Cell. Mol. Physiol. 294,
+L755–L763 (2008).
+
+article
+
+49.	Zou, J., Guo, Y., Guettouche, T., Smith, D.F. & Voellmy, R. Repression
+of heat shock transcription factor HSF1 activation by HSP90 (HSP90
+complex) that forms a stress-sensitive complex with HSF1. Cell 94,
+471–480 (1998).
+
+Acknowledgments
+
+This work was supported by the Chinese Ministry of Science and Technology
+(2013CB530700), the National Natural Science Foundation of China (NSFC31171324)
+and the Beijing Institute for Brain Disorder and Beijing Tiantan Hospital, Capital
+Medical University, China to L.L. and by the Ministry of Education of China and
+US National Institutes of Health grant HL48675 and funds from the Peking-Tsinghua
+Center for Life Sciences to J.W. We also acknowledge the Ministry of Science and
+Technology Basic Research Program (2011CB809100), the National Natural Science
+Foundation of China (21272016) and the Doctoral Fund of Ministry of Education of
+China (20120001110083) to Xiaoyu Li. We thank. L. Lai (Peking University) for her
+generous support in the ITC experiments. We thank the staff members at the Shanghai
+Synchrotron Radiation Facility and KEK-PF for generous support.
+
+Author contributions
+
+X.C., C.Z., T.W. and L.L. designed the experiments. X.C., C.Z. and T.W. performed the
+biological experiments. Xiaolong Li, L.F. and J.W. performed the crystal structure study.
+Y.D. and M.D. performed MS analysis. Y.L. and C.C. performed the chemical synthesis.
+Xiaoyu Li designed the chemical study. X.C., C.Z., J.W., Xiaoyu Li and L.L. wrote
+the manuscript.
+
+Competing financial interests
+
+The authors declare competing financial interests: details accompany the online version
+of the paper.
+
+Additional information
+
+Supplementary information, chemical compound, and chemical probe information is
+available in the online version of the paper. Reprints and permissions information is
+available online at http://www.nature.com/reprints/index.html. Correspondence and
+requests for materials should be addressed to J.W., Xiaoyu Li or L.L.
+
+npg
+
+© 2015 Nature America, Inc. All rights reserved.
+
+Nature chemical biology doi: 10.1038/nchembio.1657
+
+nature CHEMICAL BIOLOGY | vol 11 | january 2015 | www.nature.com/naturechemicalbiology	
+
+25
+
+ONLINE METHODS
+
+Fly stocks and compound screen. UAS-rpr and HS-Gal4 flies were obtained
+from Bloomington Stock Center. The F1 progenies (HS>rpr) from the cross
+of these two lines were raised at 18 °C for the compound screen. The Pgk1
+transgenic fly was generated using a pUAST vector. For the compound screen,
+chemicals (purchased from Sigma and Santa Cruz; the purity of each chemical was shown in Supplementary Data Set 4) were dissolved in 5% sucrose at
+the concentrations listed in the Cmap. The compound solution (150 μl) was
+added to a vial containing three layers of filter papers. Twenty adult HS>rpr
+flies aged 1–3 d were then placed into each vial for 24 h. Expression of rpr was
+subsequently induced by placing the vials in a 37 °C incubator for 45 min.
+These flies were then placed at 25 °C for another 24 h before calculation of the
+survival rate.
+
+npg
+
+© 2015 Nature America, Inc. All rights reserved.
+
+Antibody information. Caspase 3 (9662, Cell Signaling, 1:1,000); PARP1 (9532,
+Cell Signaling, 1:1,000); HSP70 (4872, Cell Signaling, 1:1,000); HSP90 for IP
+(ab1429, Abcam, 1:50); β-actin (P30002, Abmart, 1:1,000); HA (H6908, sigma,
+1:1,000); Hsp90 for WB (4874, Cell Signaling, 1:1,000); Pgk1 for IP (sc-17943,
+Santa Cruz, 1:50); P23 (sc-376725, Santa Cruz, 1:200); GFP (BE2001, Easybio,
+1:1,000); Pgk1 for WB (sc-48342, Santa Cruz, 1:200); HSF-1 (12972, Cell
+Signaling, 1:1,000); IgG (Invitrogen, 1:150).
+
+Western blotting and co-IP. Proteins were extracted with RIPA buffer (50 mM
+Tris-HCl, pH 7.8, 150 mM NaCl, 1% NP-40, 0.25% sodium deoxycholate and
+1 mM EDTA), and then protease inhibitors were added (Roche). After
+disrupting on ice for 30 min, the cell lysates were centrifuged at 13,000g and
+boiled with SDS sample buffer at 95 °C for 5 min.
+For the co-IP experiment, Pgk1-HA was transfected in the RAW264.7 cells for
+36 h. The cells were lysed in the lysis buffer (20 mM Tris-HCl, pH 8.0, 130 mM
+NaCl, 10 mM KCl, 1.5 mM MgCl2, 10% glycerol, 0.25% Triton X-100 and
+protease inhibitors). After centrifugation at 13,000g for 10 min at 4 °C, the
+supernatant was incubated with HA antibody or control IgG at 4 °C overnight.
+The protein A/G-agarose beads were added to precipitate the complexes. After
+washing with lysis buffer six times, the agarose beads were boiled in a 2× SDS
+loading buffer. For endogenous co-IP, the same sample preparation protocol
+was followed.
+Activity assay of caspase 3/7. Cell lysates were analyzed with a caspase-GloR
+3/7 Assay kit (Promega).
+
+Microarray processing and data analysis. Ten vials of HS>rpr flies and progeny of HS-Gal4 and yw67c23 (a genetic background–matched control line)
+aged 1–3 d were collected and frozen in liquid nitrogen before heat shock
+(as time 0), and after heat shock at 1 h, 2 h, 3 h, 4 h, 5 h, 6 h, 7 h, 8 h and 12 h.
+Total RNA was prepared by RNeasy mini kit (Qiagen). Drosophila 2.0 DNA
+microarrays from Affymetrix were used (Affymetrix). Data analysis was
+performed using the Arrayassist 5.0 (Affymetrix). The algorithm of ‘RMA’
+was used to analyze the data. The fold changes of transcripts were listed in
+Supplementary Table 1.
+
+Target identification of TZ with affinity chromatography. RAW 264.7 cells
+were sonicated in modified RIPA buffer (50 mM Tris-HCl, pH 7.8, 150 mM
+NaCl, 1% NP-40, 0.25% sodium deoxycholate and 1 mM EDTA) supplemented
+with a protease inhibitor cocktail (Roche). For the control experiment, 50 μl of
+naked Affi-Gel 102 (Bio-Rad) beads were added to 1 ml of 4 mg/ml cytosolic
+extracts. For the soluble competitor experiment, 10 mg of TZ was incubated
+with 1 ml of cell lysates for 1 h before being combined with 50 μl of TZ-TA
+immobilized Affi-Gel (Affi-Gel–TZ-TA). For the bait beads experiment, 50 μl
+of Affi-Gel–TZ-TA was directly incubated with 1 ml of cell lysates. The incubation lasted overnight at 4 °C. The beads were then washed with the RIPA buffer
+three times. Bound proteins were eluted by boiling the beads in 0.1% SDS and
+were analyzed on a 12% SDS-PAGE gel and visualized by Coomassie brilliant
+blue staining.
+
+Exploration of candidate compounds by Cmap. We converted upregulated
+and downregulated genes from the Drosophila microarray to mammalian
+homologous genes based on an online database (http://www.affymetrix.com/)
+(Supplementary Table 2). The signature files were then generated on the
+basis of the protocol provided by Cmap, and the list of predicted compounds
+with the best positive or negative correlations was generated (Supplementary
+Table 3). The 25 tested compounds are listed in Supplementary Table 4, and
+their concentrations used in the microarrays are listed in Supplementary
+Table 5.
+
+MS analysis. The bands on the protein gels were excised and digested using the
+standard tryptic digestion method (from ABRF). The peptides from digestion
+were analyzed on an LTQ-Orbitrap mass spectrometer (Thermo Scientific).
+The analytical reverse phase column was 100 μm (ID) × 8 cm (length) with a
+pulled tip, packed with 3 μm, 125 Å Aqua C18 resin (Phenomenex). Gradients
+from 5% to 80% of ACN were used. The MS2 data was acquired in datadependent mode, as one full scan followed by eight CID MS2 scans for the top
+eight peaks. The MS2 spectra were searched against an NCBI-mouse database
+using Prolucid and filtered with DTASelect2.
+
+Cell culture and apoptosis induction. The RAW 264.7 cells and 293T cells were
+cultured in DMEM medium (Gibco) supplemented with 10% FBS (Gibco),
+streptomycin (0.1 mg/ml) and penicillin (0.06 mg/ml) (Gibco). To induce
+apoptosis, RAW 264.7 cells at 40% confluence were incubated in DMEM
+(10% FBS) containing 2 μg/ml LPS (2 μg/ml LPS; Escherichia coli O111:B4,
+Sigma-Aldrich, >500,000 EU/mg) and mouse IFN-γ in 0.1% DMSO (50 U/ml,
+Peprotech, ≥98%), or LPS and IFN-γ plus TZ in 0.1% DMSO (10 μM) for 18 h
+to 30 h. For H2O2 treatment, the final concentration of H2O2 was 1 mM. For GA
+(Biovision, ≥99%) treatment, the concentration was 10 nM. Z-Val-Ala-D/L-Asp
+(OMe)-fluoromethylketone (Z-vad, Bachem) was used at the final concentration of 100 μM.
+
+Measurement of intracellular calcium level. The intracellular Ca2+ concentration ([Ca2+]i) was measured using the Fura-2 staining kit (Invitrogen). Cells
+were loaded with Fura 2-a.m. (2 μM) for 30 min at 37 °C in the dark and then
+washed three times in standard external solution (141 mM NaCl, 2.5 mM KCl,
+2.4 mM CaCl2, 1.3 mM MgCl2, 1.25 mM NaH2PO4, 10 mM HEPES and 11 mM
+glucose). Imaging was performed on an inverted Olympus microscope, and
+Fura-2 was excited at 340 nm and 380 nm. The emission was then collected
+with a 480- to 540-nm bandpass filter. The 340 nm/380 nm ratio was calculated and normalized to the baseline ratio at the beginning of the experiment.
+The Ca2+ signals are plotted as relative Fura-2 intensity, which denotes the
+340 nm/380 nm ratio (background intensity was subtracted). Metaraminol
+(Sigma, ≥98%) was used at 200 μM. TZ and TZ-md were used at 4 μg/ml.
+
+Drugs. Terazosin was purchased from Sigma-Aldrich (T4680).
+Annexin V staining and analysis in the RAW 264.7 cells. After incubating
+with LPS and IFN-γ, the cells were stained with anti–annexin V antibody
+(Invitrogen) for 15 min. The cells were then washed once with annexinbinding buffer and imaged with a confocal microscope (TCS SP5, Leica).
+The percentage of apoptotic cells was calculated as the number of annexin
+V–positive cells to the number of total cells.
+LDH assay. The LDH assay (Promega) was performed according to the
+manufacturer′s instructions with minor modifications. Cells were plated
+in 96-well plates and treated as indicated in Figures 1b, 2f and 4c and
+Supplementary Figures 2b, 3b and 4a–e for 24 h. LDH levels in both
+medium and cells were measured. The absorbance at 490 nm was obtained
+from SpectraMax M2 Microplate Reader (Molecular Devices). The cytotoxicity is calculated as LDHmedium/(LDHmedium + LDHcell).
+nature chemical biology
+
+Pgk1 activity assay. To induce Pgk1 expression in vitro, mouse Pgk1 cDNA
+was cloned into a pEASYTM-E2 vector containing a His tag (TransGen Biotech).
+Protein expression was induced with 0.5 mM IPTG in BL21 (DE3) chemically
+competent cells (TransGen Biotech). After the cells were lysed in an extraction buffer (20 mM sodium phosphate, 500 mM NaCl, 5 mM imidazole,
+5% glycerol, protease inhibitor cocktail, pH 7.9), the supernatant was purified
+with nickel beads (AdarBiotech). Elution buffer (20 mM sodium phosphate,
+500 mM NaCl, 80 mM imidazole, protease inhibitor cocktail, pH 7.9) was used
+to elute His-tagged Pgk1.
+To measure the Pgk1 activity, a saturated amount of the substrates
+(1.6 mM GAP, 1 mM β-NAD, 1 mM ADP and 20 ng/μl GAPDH) was mixed
+with purified recombinant mouse Pgk1-His protein (2 μg/ml), and the reaction was conducted in buffer (20 mM Tris, 100 mM NaCl, 0.1 mM MgSO4,
+10 mM Na2HPO4, 2 mM DTT at pH 8.6). The forward reaction of Pgk1 can
+lead to a reduction of ADP level, and this will promote GAPDH to produce
+doi:10.1038/nchembio.1657
+
+more NADH. NADH can be detected at an absorbance wavelength of 339 nm.
+Therefore, the levels of relative NADH changes to the baseline can indicate
+Pgk1 activity.
+
+npg
+
+© 2015 Nature America, Inc. All rights reserved.
+
+Affinity assay of TZ and Pgk1. To examine whether TZ and Pgk1 bind directly,
+naked Affi-Gel, Affi-Gel–TZ-TA with competitor TZ or Affi-Gel–TZ-TA
+alone was incubated with His-tagged Pgk1 overnight at 4 °C. The proteins on
+the beads were eluted and analyzed on a 15% SDS-PAGE.
+Cloning expression and purification. Recombinant mPgk1 was produced in
+BL21 E. coli cells harboring the mPgk1-PET28a expression plasmid with a TEV
+cleavage sequence inserted. Protein expression was induced with 0.5 mM IPTG
+overnight at 16 °C. After the cells were lysed in the extraction buffer (20 mM
+sodium phosphate, 500 mM NaCl, 5 mM imidazole, 5% glycerol, pH 7.9), the
+supernatant was loaded onto a nickel affinity column (GE Healthcare) and
+washed with the buffer containing 10 mM imidazole. The bound protein to
+the column was eluted using 100 mM imidazole in the same buffer. The elution was then mixed with TEV enzyme and dialyzed in the buffer containing
+20 mM sodium phosphate, 500 mM NaCl, pH 7.9. After dialysis, the nickel
+affinity column was used to remove the peptide with the His tag and the
+TEV sequence. The mPgk1 without the His tag was concentrated and further
+purified by size-exclusion chromatography (GE Healthcare), and final fractions containing pure mPgk1 in the buffer containing 20 mM Tris-HCl, pH 7.0,
+100 mM NaCl, 2 mM DTT were pooled and concentrated to 20–30 mg/ml.
+Crystallization. The mPgk1–3PG crystals were crystallized at room temperature using the hanging drop vapor diffusion method from 25–30% PEG 4000
+0.2 M sodium acetate trihydrate and 0.1 M Tris-HCl, pH 8.0. The drop contained 1 μl of the protein solution mixed with 2 μl of the reservoir solution. The
+protein solution (10 mg/ml) consisting of Tris-HCl, pH 7.0, contained 25 mM
+MgCl2, 50 mM PG, 10 mM DTT and 0.02% NaN3.
+To obtain the Pgk1–3PG–TZ complex, both co-crystallization and soaking methods were used. The mPgk1–3PG–TZ co-crystals were grown from
+the same crystallization condition described previously. The protein solution
+contained the same components as mPgk1–3PG solution, with the addition
+of 10 mM TZ. Meanwhile, hPgk1–3PG–TZ co-crystals were obtained from
+25–30% PEG 4000, 0.1 M Tris-HCl, pH 8.0. To ensure complex formation,
+mPgk1–3PG crystals were soaked in the buffer containing 30% PEG 4000 0.1M
+Tris-HCl, pH 8.0, 25 mM MgCl2, 50 mM PG and 10 mM TZ.
+Cryoprotection. Crystallization buffer contained 30% PEG 4,000, which was
+sufficient for cryoprotection in both human and mouse Pgk. Therefore, no
+additional cryoprotectant was needed to freeze the crystals. Individual crystals
+were mounted in a cryoloop (Hampton), followed by flash cooling in liquid
+nitrogen for data collection.
+Data collection and refinement of crystal structures. Diffraction data of
+mPgk1–3PG–TZ was collected from cryo-cooled crystals to a resolution of
+2.1 Å (Supplementary Table 2) at the KEK Photon Factory Synchrotron
+located in Japan, using the BL17A beamline using the Q270 X-ray diffractometer. Diffraction data for hPgk1–3PG–TZ was collected at the Shanghai
+Synchrotron Radiation Facility, BL17U1 beamline, with a resolution of 2.1 Å
+(Structure Statistic Table, Supplementary Data Set 6). Data were processed
+with the program HKL2000, and molecular replacement was carried out using
+MolRep in the CCP4 Program Suite. The search model for the mPgk1–3PG–TZ structure has PDB code 3C39, and the structure with PDB code 2XE6
+was used to determine hPgk1–3PG–TZ structure. Refinement was performed
+in PHENIX with rigid body refinement and alternating cycles of TLS, positional, and individual B-factor refinement. The resulting model was manually
+inspected and modified with the program COOT.
+ITC. The raw heat values were measured over a series of injections of TZ or
+TZ-TA into mPgk1 at 25 °C by MicroCal iTC200 (GE Healthcare).
+RT-qPCR. The method for qRT-PCR followed the ‘relative study’ standard
+protocol from Applied Biosystem (7500 real-time PCR system, ABI Inc.). Actin
+was used as a reference for total RNA quantity.
+Lentivirus package. The coding sequences of EGFP and mouse Pgk1 were
+amplified by PCR and separately cloned into the pLentiCMVMCSSVBsd vector.
+doi:10.1038/nchembio.1657
+
+Lenti-EGFP and Lenti-Pgk-1 viruses were produced by cotransfection with
+the VSV-G/pMD2G and pCMV-dR8.74 plasmids into the packaging cell line
+HEK 293T by Lipofectamine 2000 (Invitrogen). The shRNA lentiviruses were
+packaged in a similar fashion.
+Infection of cells and mice with lentivirus. RAW264.7 cells were incubated
+with the virus and the polybrene (8 μg/ml) overnight. On second day, stable
+cell lines were selected in a growth medium supplemented with 5–10 μg/ml
+blasticidin for 1 week. To infect a mouse, 2 × 107 infection units (IU) of virus
+were diluted in 200 μl saline and injected (subcutaneous) twice on day 1 and 4
+before CLP. One week later, the mice were subjected to CLP.
+Detection of ATP and pyruvate in cell lysate and mouse tissue. The ATP level
+was detected using the kit from Promega. The cell lysates from RAW 264.7 cells
+were prepared as described previously. After adding DMSO or TZ (10 μM)
+into the cell lysates, the total ATP in the reaction system was detected immediately or 10 min after the reaction system was established. For the GA treatment,
+it was added directly into the reaction system, and the final concentration was
+100 μM. Pyruvate measurement was followed a protocol from a kit (EnzyChrom
+pyruvate Assay Kit, BioAssay Systems).
+Drosophila hypoxia assay. The third instar larvae were immersed in a
+1.5-ml tube filled with HL3 saline for 2 h. Then, the saline was removed to
+allow reoxygenation of the larvae. After 6 h recovery, their survival rate
+was determined.
+Drosophila oxidative stress assay. The wild type, UAS-Pgk1RNAi and UASHsp83RNAi flies were crossed with the Actin5c-Gal4 promoter line. Their progeny male flies were collected at age 1–3 d. The 20 flies then were put into a
+testing vial containing 450 μl of solutions (20 mM paraquat in 5% of sucrose)
+on three layers of filter papers. Their lethality was recorded each day for 4 d.
+Mouse models of sepsis. Male BALB/C mice from the Vital River (Beijing,
+China) were housed in the Animal Center of Peking University. The animal
+studies were approved by the Institutional Animal Care and Use Committee
+(IACUC) of the Peking University (Approve number: LSC-LiuL-1 and LSCLiuL-2). For the LPS model of sepsis, each mouse was injected with LPS
+(13.5 mg per kg body weight, intraperitoneal injection) once. TZ (0.4 mg per
+kg body weight) or saline was then injected (intraperitoneally) 1.5 h after LPS
+infusion. Lethality was recorded every 12 h for 7 d.
+For the CLP model of sepsis, mice were anesthetized with Avertin (240 mg
+per kg body weight, intraperitoneally). Then, a 1.5- to 2.0-cm-long abdominal
+midline incision was made, and the cecum was exposed. After ligation at 5 mm
+from the cecal tip, the cecum was punctured once with a 22-gauge needle, and
+about 1 mm of stool was squeezed out. TZ (0.08 mg per kg body weight) or
+saline was injected after 1.5 h and 24 h after surgery. Lethality was recorded
+every 12 h for 7 d.
+Rat permanent MCAO model. We used adult male Sprague-Dawley rats
+(250–270 g, Vital River, Beijing). The animal studies were approved by the
+Institutional Animal Care and Use Committee (IACUC) of Peking University.
+Briefly, a suture was inserted through the left external carotid artery of the
+anesthetized rats. A laser Doppler blood flow monitor was used to ensure successful occlusion (>80% drop from prestroke baseline). Then, TZ or saline
+(control) was injected intraperitoneally at a concentration of 0.08 mg per kg
+body weight and 0.03 mg per kg body weight, respectively, 30 min before occlusion. The infarct volume was determined 4 h later by TTC staining (1%, at
+37 °C for 15 min).
+DNA fragmentation in mouse thymus. The thymi were collected from each
+mouse, 6–48 h after CLP. The genomic DNA of thymus was then extracted with
+a genomic DNA purification kit (Biofuture). DNA fragmentation was assessed
+on a 1% agarose gel.
+TUNEL assay. The assay was performed according to the manufacturer’s
+protocol (Millipore).
+Cytokine detection. Blood samples were collected from mice 6–48 h after LPS
+infusion or CLP surgery. The samples were then incubated at room temperature for 45 min, and serum was obtained by centrifugation at 1,900g for 15 min.
+nature CHEMICAL BIOLOGY
+
+The serum samples were then analyzed by TNF-α, IL-6 and IL-10 ELISA kits
+(Boster) and a mouse HMGB-1 ELISA kit (SUNBIO).
+
+Statistical analyses. A one-way ANOVA test was used for group comparison
+(Figs. 1b–d, 2d,f and 4a,c and Supplementary Figs. 1b, 2a,b, 3a,b, 4a,e, 8c,
+9a,e, 10b, 11a–c, 12d, 13a,b and 14a). Student t-tests were used to compare
+two data sets (Figs. 2e and 5d and Supplementary Fig. 9b). Kaplan-Meier
+tests were used under the log-rank algorithm for survival analysis (Fig. 5c and
+Supplementary Figs. 9c,d and 12c).
+
+npg
+
+© 2015 Nature America, Inc. All rights reserved.
+
+Pharmacokinetics of TZ. After intraperitoneal injection of TZ, blood or
+tissue samples were collected at various time points. The tissues were ground
+and sonicated in RIPA buffer (50 mM Tris-HCl, pH 7.8, 150 mM NaCl,
+1% NP-40, 0.25% sodium deoxycholate and 1 mM EDTA). For the standard curve of TZ, 30 μl of TZ (200 nM) was added to a 100-μl blood sample
+and mixed with 40 μl of 1 M NaOH. Then, 200 μl of acetic ether was added
+and mixed for 2 min. After centrifugation at 2,000g for 3 min, the supernatant was harvested, and 200 μl of acetic ether was added again. Then, the
+
+extracts were combined (600 μl of acetic ether total), and the samples were
+analyzed by a WATERS UPLC system (Phenomenex Kinetex) coupled with
+an AB API4000Q mass spectrometer. Mass signals were collected under
+positive mode.
+
+nature chemical biology
+
+doi:10.1038/nchembio.1657
+
+

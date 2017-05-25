@@ -1,0 +1,733 @@
+Journal of Neuroscience Methods 256 (2015) 212–219
+
+Contents lists available at ScienceDirect
+
+Journal of Neuroscience Methods
+journal homepage: www.elsevier.com/locate/jneumeth
+
+Basic Neuroscience
+
+So you think you can jump? A novel long jump assessment
+to detect deﬁcits in stroked mice
+Nitish Mittal a,∗ , Jie Pan b,c , Julie Palmateer c , Lianna Martin d , Arushi Pandya d ,
+Sungita Kumar d , Adaora Ofomata d , Patricia D. Hurn c,e , Timothy Schallert d
+a
+
+College of Pharmacy, University of Texas at Austin, Austin, TX, United States
+Nanjing University Medical School, Nanjing, PR China
+c
+Department of Neuroscience, University of Texas at Austin, Austin, TX, United States
+d
+Department of Psychology, University of Texas at Austin, Austin, TX, United States
+e
+University of Texas System, Austin, TX, United States
+b
+
+h i g h l i g h t s
+•
+•
+•
+•
+•
+
+The ‘long jump test’ can assess potential psychosomatic deﬁcits produced by stroke.
+Male and female mice differ in latency to jump, but not in jump success rate.
+Cerebral stroke does not affect jump success rate, but increases latency to jump.
+Higher jump latencies could not be explained by increased anxiety.
+Acute ﬂuoxetine did not have any effect on jump latency or success rate.
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 10 July 2015
+Received in revised form 1 September 2015
+Accepted 2 September 2015
+Available online 11 September 2015
+Keywords:
+Stroke
+MCAO
+Behavior
+Anxiety
+Depression
+
+a b s t r a c t
+Background: Stroke survivors suffer from persistent disability, as well as severe sensorimotor and cognitive deﬁcits. The preclinical assessment of such deﬁcits is important for the development of novel
+interventions and therapeutics.
+New method: The aim of this study was to develop a quantitative behavioral measure of hindlimb functionality in rodents, which could be used to assess deﬁcits after a neural injury, such as stroke. Here we
+introduce a test to measure long jump behavior in mice.
+Results: Using this test we ﬁrst showed that while male and female mice exhibited no differences in jump
+success rate, the female mice showed lower baseline jumping latencies. Next we demonstrated that the
+induction of a cerebral stroke via middle cerebral artery occlusion (MCAO) for 45 min did not affect the
+jump success rate in either group; however, it did signiﬁcantly increase jump latencies in both male and
+female mice. Finally, we used therapeutic interventions to explore mechanisms that may be involved in
+producing this increase in jump latency by administering the anti-depressant ﬂuoxetine prior to the long
+jump assay, and also tested for potential changes in anxiety levels after stroke.
+Comparison with existing methods: Other methods to assess hindlimb functionality are not speciﬁc,
+because they measure behaviors that rely not only on hindlimbs, but also on forelimbs and tail.
+Conclusions: This study introduces a novel assay that can be used to measure a stroke induced behavioral
+deﬁcit with great sensitivity, and raises interesting questions about potential mechanisms regulating this
+effect.
+© 2015 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+∗ Corresponding author at: PHR 5.224, Pharmacology and Toxicology, College of
+Pharmacy, The University of Texas at Austin, 107 W. Dean Keeton Stop C0875, Austin,
+TX 78712, United States. Tel.: +1 512 471 6141.
+E-mail address: mittal.n@utexas.edu (N. Mittal).
+http://dx.doi.org/10.1016/j.jneumeth.2015.09.003
+0165-0270/© 2015 Elsevier B.V. All rights reserved.
+
+Stroke is a debilitating neural injury resulting in persistent
+disability, as well as severe sensorimotor and cognitive deﬁcits
+(Bouët et al., 2007). Interventions directed at treating these outcomes are important in reducing the overall impact of stroke
+in patients and in restoring their ability to carry out normal
+
+N. Mittal et al. / Journal of Neuroscience Methods 256 (2015) 212–219
+
+day-to-day functions (Schallert, 2006). Rodents have served as
+important models in studying the pathophysiology of, and the functional behavioral deﬁcits arising from a variety of neural injuries,
+such as cerebral stroke. The middle cerebral artery occlusion
+method of stroke induction in rodents has been an invaluable tool
+in studying the short and long term neurological deﬁcits resulting
+from cerebral stroke (Rosell et al., 2013). The preclinical assessment
+of such deﬁcits allows for a better understanding of the progression of this injury and is important for the development of novel
+interventions and therapeutics.
+Many behavioral assays have been designed to evaluate a wide
+array of functional outcomes following focal cerebral ischemia
+induced injury in rats and mice (Schaar et al., 2010). Some such tests
+include composite scores of general welfare such as the Benderson Neurological Scoring Scales, the Modiﬁed Neurological Severity
+Scores (Bederson et al., 1986; Zhang et al., 2002), and tests for cognitive deﬁcits such as the Modiﬁed Morris Water Maze and the
+Radial Arm Maze (Volpe et al., 1984; Schallert, 2006). Furthermore,
+a battery of tests have been developed to measure sensorimotor
+deﬁcits, some of which are speciﬁc for forelimb use, such as: the
+Cylinder Test, the Reaching Pellet Retrieval Task, the Staircase Test,
+the Vibrissae Elicited Forelimb Placing Test, the Corner Test, the
+Accelerated Rotarod Test and the Adhesive Removal Test (Schallert
+et al., 2000, 1982; Montoya et al., 1991; Markgraf et al., 1992; Baird
+et al., 2001; Chen et al., 2001; Gharbawie et al., 2004; Schallert,
+2006; Allred and Jones, 2008; Allred et al., 2008; Bouet and Freret,
+2012); and others that are speciﬁc for hindlimb use, such as: the
+Grid Walking Test, the Ledged Tapered Beam Test and the Ladder Rung Walking Test (Metz and Whishaw, 2002; Schallert and
+Woodlee, 2005; Allred and Jones, 2008). While it is apparent that
+there are various tests measuring deﬁcits in forelimb use, there
+are far fewer tests that measure hindlimb functionality. Moreover,
+these hindlimb assays are not very speciﬁc, because they measure
+behaviors that rely not only on hindlimbs, but also on forelimbs and
+tail.
+Improved limb mobility, and walking in particular, are considered to be the primary goals of many patients recovering from
+stroke (Bohannon et al., 1991; Mayo et al., 1999). Therefore, it is
+important to develop reliable and valid assays of hindlimb function in animals, which can then be useful for designing therapeutic
+interventions directed at achieving these goals. One of the difﬁculties with designing ways to measure hindlimb use is that rodents
+usually do not use their hindlimbs, as often as they use forelimbs,
+for complex motor functions. Moreover, the assays that have been
+shown to be associated with hindlimb use, typically measure balance and walking ability, both of which are markedly different
+in rodents. This is because they are able to use their forelimbs
+as well as their tails for balance, something that is not applicable to humans. Identiﬁcation of behaviors that rely primarily on
+hindlimbs, and that cannot be easily compensated with forelimbs
+or tail, may be required for the development of novel assays to measure hindlimb function. One such behavior may be the innate ability
+to jump in mice and rats alike (Hart et al., 2009). Jumping requires
+the animal to kick off with the hindlimbs in a fashion that cannot easily be compensated. As such, it may be possible to quantify
+the jumping ability of rodents and measure changes in this ability
+following a neural injury.
+Here we introduce a novel test to measure long jump behavior
+in mice. We hypothesized that the induction of stroke will produce
+a deﬁcit in the jumping ability of mice, and that this deﬁcit will
+represent a loss of hindlimb functionality. In order to test this idea,
+we quantiﬁed the long jump ability in mice using two variables over
+four distances: (1) the percent of successful jumps at each distance
+and (2) the latency to initiate a jump per trial. Using this test we
+ﬁrst established baseline measures of jumping ability in mice, and
+sought to identify any basal sex differences that may exist. Next, we
+
+213
+
+tested the mice for potential deﬁcits in these measures after the
+induction of stroke via middle cerebral artery occlusion (MCAO).
+Lastly we sought to identify potential neural mechanisms that may
+regulate long jump behavior in mice.
+2. Materials and methods
+2.1. Animals
+All mice in the study were purchased from Charles River
+(Wilmington, MA); male and female C57BL/6 mice between 18
+and 24 g of weight were used. The animals were group housed
+in a 12/12 h light/dark cycle, and the housing room temperature
+was maintained between 75 and 85 ◦ F. For behavioral studies, the
+experimenter was blinded to the treatment. All experimental procedures were conducted in accordance with, and pre-approved by
+the Institutional Animal Care and Use Committee.
+2.2. Ischemia
+Transient focal cerebral ischemia was induced via right middle cerebral occlusion (MCAO) as previously described, with some
+modiﬁcation (Pan et al., 2014). Reversible right MCAO was induced
+for 45 min, using the intraluminal ﬁlament technique (6-0 suture)
+under isoﬂuorane anesthesia. Core and temporalis muscle temperatures were maintained between 35.5 and 37.5 ◦ C throughout the
+procedure with the use of a heating lamp. Occlusion, and subsequent reperfusion, were conﬁrmed via laser-doppler ﬂowmetry
+(LDF). Sham operations were conducted in a similar fashion, with
+the exception of cauterizing the common, external, and internal
+carotid arteries. The animals were monitored for food and ﬂuid consumption, as well as general health status, for three days following
+the procedure.
+2.3. Cylinder test
+The cylinder test was used to conﬁrm stroke induced forelimb
+bias in animals, as previously described (Schallert et al., 2000). The
+animal was placed in a transparent plastic cylinder (H: 15 cm, D:
+7 cm), and independent use of right or left forelimb to touch the
+cylinder during a full rear was measured using video recordings.
+The test was carried out for at least 15 touches or a maximum
+of 10 min. Data are represented as the percent of right forepaw
+touches following the MCAO or sham procedure vs. the baseline touches. A Student’s t-test was used for statistical analyses
+(StatView, Cary, NC).
+2.4. Elevated plus maze
+The elevated plus maze test (EPM) was used as previously
+described (Pellow et al., 1985), with some modiﬁcations. The apparatus was a ‘+’ shaped maze, which was raised 52 cm from the ﬂoor.
+The four arms were 34 cm long and 9.5 cm wide. The ‘closed’ arms
+were surrounded by plywood walls 14 cm in height, while the open
+arms had no walls. The animals were placed in the middle of the
+maze facing either the open or the closed arm at random. Each
+test was carried out for 5 min. The total time spent in the open
+and the closed arm, and the number of entries into each arm were
+measured. The data are represented as the percent of time spent
+or entries into the open arm, over total time spent and entries
+into both arms. For male vs. female experiments, a Student’s t-test
+was conducted to determine signiﬁcant differences. For the treatment experiments, a repeated measures ANOVA, with Fisher’s PLSD
+post hoc test was used to asses group by interaction differences. A
+higher ratio suggests increased anxiety, while a lower ratio suggests
+
+214
+
+N. Mittal et al. / Journal of Neuroscience Methods 256 (2015) 212–219
+
+decreased anxiety according to previous research sources (Pellow
+et al., 1985).
+2.5. Long jump test
+The long jump test was performed using a wooden beam with
+dimensions H: 1.5 cm × W: 4.5 cm × L: 100 cm. The beam was raised
+80 cm from the ﬂoor using a saw horse, and one end of the beam
+was covered with a surgery drape to provide additional padding for
+the jump. An empty plastic housing cage was placed on its side, on
+a table, at level with the beam (80 cm from the ﬂoor), such that the
+open end was facing the beam. A bag of bubble wrap and packing
+peanuts was placed on the ﬂoor between the beam and the cage to
+provide cushion for any potential falls due to failed jump attempts.
+The cage was covered to occlude the mice’s view of the surrounding
+areas. The bottom edge of the cage was lined with a strip of drape
+to allow the mice to better grip the cage after a successful jump.
+All the cage mates, along with saw dust from the home cage and a
+food pellet coated with peanut butter, were included to make the
+cage more appealing for the mice.
+All mice underwent a training session, during which they were
+trained to jump up to 30 cm. 10 min before the beginning of the
+session, all the cage mates were placed in the testing cage for habituation. Then, at the beginning of the training session, the beam was
+placed in a way such that it was touching the cage and the mice
+were placed on the beam such that they could simply walk into the
+cage. After three successful entries at each distance, the beam was
+slowly moved further away from the cage in 5 cm increments (see
+schematic in Fig. 1a). Two days after the training session, a pretest was conducted to acquire baseline data. Success rate and jump
+latency data were measured at 10, 20, 25, and 30 cm distances. At
+each distance the mice were given a maximum of ﬁve attempts to
+complete three successful jumps. The success rate at each distance
+was calculated as the total number of successful jumps divided by
+the total number of attempts. The latency to jump was measured
+from the moment the mouse reached the edge of the beam until
+the initiation of a jump. The mice were gently tapped, at the base of
+their tail, at 30-s intervals to encourage them to jump. A maximum
+cut off time of 105 s was used. If a mouse did not initiate a jump
+within 105 s, the base of their tail was lightly tapped repeatedly
+until a jump was made, and the mouse received a latency score of
+105 s. The mice were retested using the same parameters 3 days
+after induction of stroke. The data are represented as the percentage of successful jumps and the average latency to jump in seconds.
+A repeated measures ANOVA was used, with Fisher’s PLSD post hoc
+test for multiple comparisons (StatView). The statistical comparisons are shown as group by interaction effects for all experiments.
+For a visualization of the long jump test, please refer to the video
+provided in the online supplements.
+3. Results
+3.1. Focal cerebral ischemia and cylinder test
+Focal cerebral ischemia was successfully induced via middle
+cerebral artery occlusion for 45 min. Occlusion decreased local
+blood ﬂow to 10.66 ± 0.26% of basal levels, as conﬁrmed by laser
+doppler ﬂowmetry (LDF). The core and temporalis muscle temperatures were maintained at 36.3 ± 0.1 ◦ C. Please refer to Table 1
+for the total number of animals that underwent MCAO or sham
+procedure, and their respective day 3 survival rates. Three days
+after the ischemia procedure all mice underwent long jump testing. On post-surgery day 4, one day after the long jump test,
+cylinder test was performed as a marker of functional deﬁcits
+produced by stroke. As expected, stroke produced a signiﬁcant
+
+increase in ipsilateral forelimb use in both female (MCAO vs. sham:
+p < 0.01, F1,11 = 10.766; Fig. 1b), and male mice (MCAO vs. sham:
+p < 0.01, F1,17 = 10.648; Fig. 1c). There were no sex differences in
+stroke-induced forelimb asymmetry (male vs. female: p = 0.140,
+F1,18 = 2.380). Moreover, treatment with either saline (untreated vs.
+saline: p = 0.432, F1,23 = 0.640), or ﬂuoxetine (untreated vs. ﬂuoxetine; p = 0.263, F1,22 = 1.132) prior to long jump test on day 3 did not
+affect the functional outcome of stroke, as measured by the cylinder test on day 4. It should be noted that since our focus was on
+behavioral and functional outcomes of stroke, we did not perform
+histological analysis of ischemia-induced infarction in the present
+study. We have previously shown that the occlusion measured by
+LDF, and the behavioral deﬁcits measured by the cylinder test are
+at least sufﬁcient functional markers of stroke, and correlate well
+with infarctions produced by the MCAO procedure (Li et al., 2004;
+Craft et al., 2006; Akiyoshi et al., 2011; Pan et al., 2014).
+3.2. Basal sex differences in long jump
+We ﬁrst sought to identify potential sex differences in baseline
+jumping ability in mice. While we did not expect to ﬁnd any sex
+differences, we thought it was prudent to collect these data, so
+that they are available as reference for future studies. For this purpose, we measured the basal success rate and latency to jump in
+these mice. As expected, male (n = 19) and female (n = 15) subjects
+exhibited similar success rates across all distances (male vs. female:
+p = 0.504, F1,32 = 0.457; Fig. 2a). However, they markedly differed in
+their latency to jump. Female mice demonstrated a shorter latency
+to jump as compared to male mice, at 20, 25, and 30 cm distances
+(male vs. female: p < 0.001, F1,32 = 15.420; Fig. 2b). These mice were
+then re-tested on the same task after the MCAO procedure to assess
+stroke-induced deﬁcits.
+3.3. Stroke induced deﬁcits in long jump
+Although the stroke procedure successfully produced a functional deﬁcit, as measured by the cylinder test, no signiﬁcant
+deﬁcits in jump success rate were observed three days after
+the MCAO (n = 21) or sham (n = 13) surgery (sham vs. MCAO:
+p = 0.193, F1,30 = 1.769; Fig. 3a). Furthermore, there were no significant sex × procedure interactions on this measure (sex × success
+rate: p = 0.6018, F1,30 = 0.278). However, the induction of stroke did
+produce a signiﬁcant increase in the latency to jump as compared to
+the sham mice (sham vs. MCAO: p < 0.001, F1,30 = 40.554; Fig. 3b).
+Moreover, this increase was seen in both male and female subjects, and no further sex × procedure interactions were observed
+(sex × latency: p = 0.673, F1,30 = 0.182). These data suggest that the
+long jump test is not able to sufﬁciently assess potential strokeinduced deﬁcits in hindlimb functionality in mice. However, the
+lack of a deﬁcit in success rate, coupled with the increase in jump
+latency may reﬂect a cognitive or affective, rather than a sensorimotor, deﬁcit in these mice.
+3.4. Acute ﬂuoxetine treatment does not alleviate stroke induced
+deﬁcits in long jump
+One affective pathology that has frequently been associated
+with stroke is post-stroke depression. Therefore, we tested whether
+the acute administration of an anti-depressant, ﬂuoxetine, before
+the long jump test would be sufﬁcient to blunt the increase in jump
+latency produced by stroke. Given the basal sex differences in jump
+latency, all treatment studies were conducted in male mice in order
+to remove any confounding effects of sex on stroke induction or
+ﬂuoxetine administration.
+On post stroke day 3, male mice were treated with either saline
+(n = 13) or ﬂuoxetine (10 mg/kg, n = 14) 30 min before the long jump
+
+N. Mittal et al. / Journal of Neuroscience Methods 256 (2015) 212–219
+
+215
+
+Fig. 1. Stroke induced functional deﬁcits and the long jump test. (a) A schematic of the long jump test procedure. On training day mice were placed on a beam that was
+touching the cage such that they could simply walk into the cage. After three successful jumps at each distance, the beam was slowly moved further away from the cage
+in 5 cm increments, until a maximum distance of 30 cm was achieved. (b) Stroke-induced increase in ipsilateral forelimb use in female mice (sham vs. MCAO: p < 0.01,
+F1,11 = 10.766). (c) Stroke-induced increase in ipsilateral forelimb use in male mice (sham vs. MCAO: p < 0.01, F1,17 = 10.648). No measurable effect of treatment with either
+saline (untreated vs. saline: p = 0.432, F1,23 = 0.640), or ﬂuoxetine (untreated vs. ﬂuoxetine: p = 0.263, F1,22 = 1.132) administered prior to the long jump test on day 3, on the
+cylinder test conducted on day 4. Student’s t-test was used for statistical analyses. Data are represented as mean ± SEM. Line represents pre-stroke baseline.
+Table 1
+Post-stroke survival rate following 45 minute MCAO procedure.
+n
+
+Total sham
+
+Total MCAO
+
+Day 3 sham
+
+Day 3 MCAO
+
+Day 3 MCAO survival rate
+
+Male
+Female
+
+7
+6
+
+64
+14
+
+7
+6
+
+45
+9
+
+70.3%
+64.3%
+
+Fig. 2. Long jump test baseline sex differences. (a) Male (n = 19) and female (n = 15) subjects exhibited similar success rates across all distances measured (male vs. female:
+p = 0.504, F1,32 = 0.457). (b) Female mice demonstrated a shorter latency to jump as compared to male mice, at 20 cm (male: 29.7 ± 2.6 vs. female: 17.4 ± 1.6 s), 25 cm (male:
+33.9 ± 3.4 vs. female: 16.5 ± 2.0 s) and 30 cm (male: 32.6 ± 3.8 vs. female: 16.4 ± 2.4 s) distances (male vs. female: ***p < 0.001, F1,32 = 15.420). Repeated measures ANOVA was
+used to determine statistical differences with a Student’s t-test for post hoc measures. Data are represented as mean ± SEM.
+
+test. For statistical analyses, the data for all three post-stroke groups
+(untreated, saline treated or ﬂuoxetine treated) were combined,
+and a three way repeated measures ANOVA was used. There was
+no effect of treatment on success rate (treatment × success rate:
+p = 0.8874, F2,36 = 0.120; Fig. 4a). However, a main effect of treatment was observed in the latency to jump (treatment × latency:
+p = 0.022, F2,36 = 4.232; Fig. 4b). Post hoc analyses revealed that
+while the latency to jump for the untreated group was signiﬁcantly
+higher than both the saline treated (p < 0.05) and ﬂuoxetine treated
+(p < 0.01) groups, there were no further differences between the
+saline and ﬂuoxetine treated mice (saline vs. ﬂuoxetine: p = 0.5073).
+
+3.5. No differences in the elevated plus maze test
+While these data suggest that the change in jump latency may
+not necessarily be a marker of post-stroke depression, it is possible that this represents a shift in another affective modality, such
+as anxiety. To explore this possibility, we used an EPM test to
+measure differences in anxiety levels. First we tested for potential sex differences in basal anxiety between male (n = 12) and
+female (n = 12) mice. Both groups spent an equal time exploring
+the arms (total time: males: 253.8 ± 5.1 s, females: 252.1 ± 4.1 s)
+and there were no signiﬁcant differences in either the ratio of
+
+216
+
+N. Mittal et al. / Journal of Neuroscience Methods 256 (2015) 212–219
+
+Fig. 3. Stroke induced changes in the long jump test: (a) There were no signiﬁcant deﬁcits in jump success rate were observed, three days after the MCAO (n = 21) or
+sham (n = 13) surgery (sham vs. MCAO: p = 0.193, F1,30 = 1.769). There was also no signiﬁcant sex × procedure interactions on this measure (sex × success rate: p = 0.6018,
+F1,30 = 0.278). (b) The induction of stroke did produce an increase in the latency to jump as compared to the sham mice (sham vs. MCAO: ***p < 0.001, F1,30 = 40.554). However,
+this increase was seen in both male and female subjects, and no further sex × procedure interactions were observed (sex × latency: p = 0.673, F1,30 = 0.182). Repeated measures
+ANOVA was used to determine statistical differences with a Student’s t-test for post hoc measures. Data are represented as mean ± SEM.
+
+Fig. 4. Fluoxetine treatment does not alleviate stroke induced deﬁcits in the long jump test. (a) In male mice, there was no effect of saline (n = 13) or ﬂuoxetine (10 mg/kg,
+n = 14) treatment on success rate (p = 0.8874, F2,36 = 0.120). (b) A main effect of treatment was observed in the latency to jump (p = 0.022, F2,36 = 4.232). Post hoc analyses
+revealed that while the latency to jump for the untreated group was signiﬁcantly higher than both the saline treated (untreated vs. saline: *p < 0.05) and ﬂuoxetine treated
+(untreated vs. ﬂuoxetine: **p < 0.01) groups, there were no further differences between the saline and ﬂuoxetine treated mice (saline vs. ﬂuoxetine: p = 0.5073). For statistical
+analyses, the data for all three post-stroke groups (untreated, saline treated or ﬂuoxetine treated) was combined, and a three way repeated measures ANOVA was used. Post
+hoc differences were determined using a Student’s t-test. Data are represented as mean ± SEM. Gradient represents untreated post stroke male group from Fig. 3b.
+
+time spent in the open arms (males: 30.21 ± 3.21%, females:
+25.01 ± 2.41%; p = 0.204; Fig. 5a) or the ratio of entries into the
+open arm (males: 40.50 ± 2.16%, females: 37.12 ± 1.41%; p = 0.203;
+Fig. 5b). Next we explored the effect of ischemia-induced stroke
+on anxiety levels. In a cohort of male mice, we observed no effect
+of stroke in either the time spent (baseline: 30.21 ± 3.21%, MCAO:
+37.91 ± 8.14%; Fig. 5c), or the entries (baseline: 40.50 ± 2.16%,
+MCAO: 46.45 ± 4.55%; Fig. 5d) into the open arm. Moreover,
+ﬂuoxetine treatment did not further affect EPM behavior. All
+groups spent an equal amount of time exploring both arms (baseline: 253.8 ± 5.1 s; MCAO + saline: 246.5 ± 8.5 s; MCAO + ﬂuoxetine:
+248.9 ± 10.0 s). There was no effect of procedure or treatment on
+the ratio of time spent in the open arm (procedure × treatment:
+p = 0.635, F2,38 = 0.460), nor the ratio of entries into the open arm
+(procedure × treatment: p = 0.330, F2,38 = 1.141).
+4. Discussion
+The aim of this study was to develop a novel long jump task
+which could be used to assess deﬁcits in hindlimb functionality in
+rodents after a neural injury, such as stroke. First we demonstrated
+that although male and female mice exhibited no differences in
+jump success rate, the female mice showed lower baseline jumping latencies at all distances measured. Moreover, this difference
+in jump latency was not associated with any differences in basal
+anxiety levels between the male and female mice. Next we tested
+
+the effect of stroke on this behavior and found that while the induction of stroke did not affect the jump success rate in either group, it
+signiﬁcantly increased jumping latencies in both male and female
+mice. We then sought to identify the factors contributing to this
+increase in jump latency by administering anti-depressants prior to
+the long jump assay, as well as testing for potential changes in anxiety levels after stroke. Contrary to our hypothesis, the long jump
+test was unable to detect stroke-induced sensorimotor deﬁcits in
+hindlimb function. However, it did detect a potential psychological or cognitive deﬁcit, resulting in an increased latency to jump,
+with great sensitivity. Although we were unable to attribute this
+stroke-induced increase in jump latency to either depression or
+anxiety in the current study, these results raise interesting questions about the potential mechanisms regulating this change that
+may be addressed by future investigations.
+The presence of a stroke induced deﬁcit in jump latency, but
+not success rate, was an interesting ﬁnding. One explanation for
+this phenomenon might be that the stroke induced by a unilateral
+45 min MCAO procedure was not sufﬁcient to induce measurable
+damage to the hindlimbs, and therefore did not affect the ability
+to jump in these mice. Although, previous studies have shown that
+strokes produced by transient and focal MCAO procedures can sufﬁciently induce measurable hindlimb damage, we did not use a
+speciﬁc assay to directly measure hindlimb deﬁcits in the current
+study (Schallert et al., 2000; Lim et al., 2008). Therefore, it is possible that future studies using longer occlusion times or a bilateral
+
+N. Mittal et al. / Journal of Neuroscience Methods 256 (2015) 212–219
+
+217
+
+Fig. 5. Differences in the long jump test are not associated with differences on the EPM test. Both male (n = 12) and female (n = 12) mice spent an equal time exploring the arms
+(total time: males: 253.8 ± 5.1 s, females: 252.1 ± 4.1 s) and there were no signiﬁcant differences in either (a) the ratio of time spent in the open arms (males: 30.21 ± 3.21%
+vs. females: 25.01 ± 2.41%; p = 0.204) or (b) the ratio of entries into the open arm (males: 40.50 ± 2.16% vs. females: 37.12 ± 1.41%; p = 0.203). In male mice, all treatment
+groups spent an equal amount of time exploring both arms (baseline: 253.8 ± 5.1 s; MCAO + saline: 246.5 ± 8.5 s; MCAO + ﬂuoxetine: 248.9 ± 10.0 s). There was no effect of
+procedure or treatment on (c) the ratio of time spent in the open arm (baseline: 30.21 ± 3.21%, MCAO + saline: 37.91 ± 8.14%, MCAO + ﬂuoxetine: 36.61 ± 5.10%; p = 0.635,
+F2,38 = 0.460), or (d) the ratio of entries into the open arm (baseline: 40.50 ± 2.16%, MCAO + saline: 46.45 ± 4.55%, MCAO + ﬂuoxetine: 47.70 ± 3.05%; p = 0.330, F2,38 = 1.141).
+Repeated measures ANOVA was used to determine statistical differences. Data are represented as mean ± SEM. Gradient represents male baseline group from panels a and
+b, respectively.
+
+occlusion may be able to detect changes in jump success rate. Furthermore, the change in jump latency, but not success rate, may
+also suggest that the stroke-induced damage could have produced
+a cognitive rather than a sensorimotor alteration. Indeed, studies
+have shown that ischemic insults can result in cognitive decline
+(Shih et al., 2013). Therefore, it is possible that this shift in jump
+latency may be a marker of altered cognitive function, resulting
+from the induction of ischemic stroke, in these mice.
+Post-stroke depression has been shown to increase cognitive
+impairment and mortality after stroke. Furthermore, it has also
+been shown to be the single strongest correlate of impairment in
+activities of daily living (Robinson and Spalletta, 2010; Cojocaru
+et al., 2013). As such, we sought to determine whether the increase
+in jumping latency may be a marker of post-stroke depression.
+Fluoxetine is one of the most widely used selective serotonin reuptake inhibitors (SSRI) for the treatment of depression. There is also
+evidence, both clinical and preclinical, that ﬂuoxetine treatment
+may induce neuroprotection and attenuate stroke-induced spatial cognitive deﬁcits in rodents (Jolkkonen et al., 2000; Windle
+and Corbett, 2005; Li et al., 2009; Lim et al., 2009), as well as,
+improve motor recovery in human patients (Pariente et al., 2001;
+Fruehwald et al., 2003; Choi-Kwon et al., 2006; Chollet et al., 2011)
+alike. Moreover, acute ﬂuoxetine treatment has been shown to produce antidepressant effects in rodents (Liu et al., 2010). As such, we
+tested whether the administration of ﬂuoxetine 30 min prior to the
+long jump test was sufﬁcient to blunt the increase in long jump
+
+latency in mice. We did not ﬁnd an effect of acute ﬂuoxetine on
+long jump latency at a 10 mg/kg dose. While the saline and ﬂuoxetine treated mice displayed similar jump latencies, the untreated
+mice had higher jump latencies, than both the saline and ﬂuoxetine
+treated mice. This alteration may be a result of stress caused by the
+i.p. administration of treatment solutions 30 min before the experiment. This observation further sheds light upon the sensitivity of
+this test to potential changes in stress and anxiety levels following
+the induction of ischemic stroke. In an additional cohort of animals
+we tested the effects of a double dose of ﬂuoxetine (20 mg/kg) on
+this measure, but this dose was also without effect on the strokeinduced increase in jump latency (data not shown).
+While these results may suggest that the change in jump latency
+is not a marker of post-stroke depression, it is also possible that
+a single administration of ﬂuoxetine may not be sufﬁcient to
+eliminate all depression-like symptoms in these mice. Indeed,
+ﬂuoxetine is usually prescribed chronically for the treatment of
+clinical depression and it often takes several weeks for the antidepressive effects to manifest themselves (Blier, 2003; Dulawa
+et al., 2004). Such chronic treatment would entail daily ﬂuoxetine
+injections over 14 or 21 days, which was not feasible in the current
+study due to the low survival rates in post-ischemic mice over such
+a long timeline. It is possible that the use of a rapid acting antidepressant such as ketamine (Browne and Lucki, 2013; Kavalali
+and Monteggia, 2015) may yield better results in the post-stroke
+mice. However, known models of depression, such as social defeat,
+
+218
+
+N. Mittal et al. / Journal of Neuroscience Methods 256 (2015) 212–219
+
+learned helplessness or chronic mild stress (McArthur and Borsini,
+2006), which are not nuanced by added sensorimotor deﬁcits, and
+can allow for chronic pharmacological treatment may serve as better tools to investigate the role of depression in the long jump
+test.
+Several studies have reported post-stroke anxiety as a widely
+recognized disorder with a prevalence of 12–28% (Sharpe et al.,
+1990; Burvill et al., 1995; Astrom, 1996). Moreover, there is also
+evidence of sex-based differences in various measure of anxiety
+in rodents (Johnston and File, 1991; Palanza, 2001; Võikar et al.,
+2001), which could potentially explain the baseline differences
+in jump latency between male and female mice. Therefore, we
+sought to investigate whether the differences in jump latency can
+be explained by concomitant differences in anxiety levels in these
+mice. At baseline, we found no differences between the male and
+female mice in either the ratio of time spent, or the ratio of entries,
+into the open arms. Moreover, there were no measureable effects
+of stroke induction or ﬂuoxetine treatment on the anxiety levels of
+these mice. Thus, it is likely that the increase in jump latency cannot be explained by potential changes in anxiety levels. However,
+it is also well known that tests of anxiety can vary in their reliability, and that despite its popularity as a classical test of anxiety, the
+EPM test is certainly not a comprehensive measure of all types of
+anxiety. Some deﬁciencies of the EPM test are discussed in the cited
+reviews (Ramos, 2008; Haller and Alicki, 2012). Thus it is possible
+that in this case the EPM test may not be sensitive enough to identify stroke-induced differences in anxiety, and that such differences
+may be detected with greater sensitivity by other assays such as the
+open ﬁeld test or the light/dark box test (Ramos, 2008). However,
+given that MCAO induced stroke is not typically considered to be a
+reliable model of anxiety, we did not pursue further investigation of
+a potential role of anxiety in regulating long jump latency with this
+model. Future studies employing established models of anxiety, or
+pharmacological manipulations, aimed at increasing or decreasing
+anxiety, will be better suited for this purpose.
+In this study, we introduced a new test to measure long jump
+behavior in mice. We showed that male and female mice differ in
+their latency to initiate a jump. We found that while stroke did not
+produce differences in jumping ability, it increased the latency to
+jump in both male and female mice. We then tested whether these
+differences could be attributed to post-stroke depression, using
+pharmacological anti-depression treatment, or to anxiety, by measuring open arm exploration on the EPM test, but we were unable
+to attribute the differences in latency to changes in these measures. It is clear that the long jump test measures a stroke-induced
+behavioral change with great sensitivity. However, we have not
+yet identiﬁed the mechanisms responsible for this change. Additional studies are needed to systematically explore the mechanisms
+involved in the jump-making process. Once fully understood, the
+long jump test may serve as an important addition to the battery
+of assays used to assess neurological functions in rodents.
+Acknowledgements
+We would like to thank Matt Pomrenze and Angelo Blasio from
+the lab of Dr. Robert Messing for providing the equipment for the
+Elevated Plus Maze test. The research was supported by funding
+from NIH 5R01NR003521 to Patricia Hurn and The Gates Millennium Scholars Program to Nitish Mittal.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.jneumeth.2015.
+09.003.
+
+References
+Akiyoshi K, Dziennis S, Palmateer J, Ren X, Vandenbark A, Offner aH, et al. Recombinant T cell receptor ligands improve outcome after experimental cerebral
+ischemia. Trans Stroke Res 2011;2(3):404–10.
+Allred RP, Adkins DL, Woodlee MT, Husbands LC, Maldonado Ma, Kane JR,
+et al. The vermicelli handling test: a simple quantitative measure of dexterous forepaw function in rats. J Neurosci Methods 2008;170(2):229–44,
+Available at: http:// www. pubmedcentral. nih. gov/ articlerender. fcgi?artid=
+2394277&tool=pmcentrez&rendertype=abstract [accessed 13.12.14].
+Allred RP, Jones Ta. Maladaptive effects of learning with the less-affected forelimb after focal cortical infarcts in rats. Exp Neurol 2008;210(1):172–81,
+Available at: http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=
+2733868&tool=pmcentrez&rendertype=abstract [accessed 13.12.14].
+Astrom M. Generalized anxiety disorder in stroke patients: a 3-year longitudinal
+study. Stroke 1996:270–5.
+Baird AL, Meldrum A, Dunnett SB. The staircase test of skilled reaching in mice.
+Brain Res Bull 2001;54(2):243–50 http://linkinghub.elsevier.com/retrieve/pii/
+S0361923000004573.
+Bederson JB, Pitts LH, Tsuji M, Nishimura MC, Davis RL, Bartkowski H. Rat middle cerebral artery occlusion: evaluation of the model and development of a
+neurologic examination. Stroke 1986;17(3):472–6, Available at: http://stroke.
+ahajournals.org/cgi/doi/10.1161/01.STR.17.3.472 [accessed 02.12.14].
+Blier P. The pharmacology of putative early-onset antidepressant strategies.
+Eur Neuropsychopharmacol 2003;13(2):57–66, Available at: http://linkinghub.
+elsevier.com/retrieve/pii/S0924977X02001736 [accessed 30.12.14].
+Bohannon RW, Horton MG, Wikholm JB. Importance of four variables of walking to
+patients with stroke. Int J Rehabil Res 1991;14(3):246–50, Available at: http://
+www.ncbi.nlm.nih.gov/pubmed/1938039 [accessed 13.12.14].
+Bouet V, Freret T. A master key to assess stroke consequences across species: the
+adhesive removal test. Adv Preclin Study 2012. http://www.intechopen.com/
+books/advances-in-the-preclinical-study-of-ischemic-stroke/a-master-key-toassess-stroke-consequences-across-species-the-adhesive-removal-test-.
+Bouët V, Freret T, Toutain J, Divoux D, Boulouard M, Schumann-Bard P. Sensorimotor
+and cognitive deﬁcits after transient middle cerebral artery occlusion in the
+mouse. Exp Neurol 2007;203(2):555–67, Available at: http://www.ncbi.nlm.nih.
+gov/pubmed/17067578 [accessed 13.12.14].
+Browne C, Lucki AI. Antidepressant effects of ketamine: mechanisms underlying
+fast-acting novel antidepressants. Front Pharmacol 2013;4(December):1–18.
+Burvill PW, Johnson GA, Jamrozik KD, Anderson CS, Stewart-Wynne EG, Chakera TM.
+Anxiety disorders after stroke: results from the Perth Community Stroke Study.
+Br J Psychiatry 1995:328–32 http://bjp.rcpsych.org/content/166/3/328.short.
+Chen J, Sanberg PR, Li Y, Wang L, Lu M, Willing AE, et al. Intravenous administration of human umbilical cord blood reduces behavioral deﬁcits after stroke in
+rats. Stroke 2001;32(11):2682–8 http://stroke.ahajournals.org/cgi/doi/10.1161/
+hs1101.098367.
+Choi-Kwon S, Han SW, Kwon SU, Kang D-W, Choi JM, Kim JS. Fluoxetine treatment in
+poststroke depression, emotional incontinence, and anger proneness: a doubleblind, placebo-controlled study. Stroke 2006;37(1):156–61, Available at: http://
+www.ncbi.nlm.nih.gov/pubmed/16306470 [accessed 14.12.14].
+Chollet F, Tardy J, Albucher J-F, Thalamas C, Berard E, Lamy C, et al. Fluoxetine for
+motor recovery after acute ischaemic stroke (FLAME): a randomised placebocontrolled trial. Lancet Neurol 2011;10(2):123–30, Available at: http://www.
+ncbi.nlm.nih.gov/pubmed/21216670 [accessed 15.09.14].
+Cojocaru GR, Popa-Wagner A, Stanciulescu EC, Babadan L, Buga A-M. Poststroke depression and the aging brain. J Mol Psychiatry 2013;1(1):14
+http:// www.pubmedcentral.nih.gov/articlerender.fcgi?artid=4223891&tool=
+pmcentrez&rendertype=abstract.
+Craft TKS, Zhang N, Glasper ER, Hurn PD, DeVries aC. Neonatal factors inﬂuence adult
+stroke outcome. Psychoneuroendocrinology 2006;31(5):601–13.
+Dulawa SC, Holick Ka, Gundersen B, Hen R. Effects of chronic ﬂuoxetine
+in animal models of anxiety and depression. Neuropsychopharmacology 2004;29(7):1321–30, Available at: http://www.ncbi.nlm.nih.gov/pubmed/
+15085085 [accessed 30.12.14].
+Fruehwald S, Gatterbauer E, Rehak P, Baumhackl U. Early ﬂuoxetine treatment of post-stroke depression – a three-month double-blind placebocontrolled study with an open-label long-term follow up. J Neurol
+2003 Mar;250(3):347–51, Available at: http://www.ncbi.nlm.nih.gov/pubmed/
+12638027 [accessed 14.12.14].
+Gharbawie Oa, Whishaw Pa, Whishaw IQ. The topography of three-dimensional
+exploration: a new quantiﬁcation of vertical and horizontal exploration, postural support, and exploratory bouts in the cylinder test. Behav Brain Res
+2004;151(1–2):125–35, Available at: http://www.ncbi.nlm.nih.gov/pubmed/
+15084428 [accessed 29.11.14].
+Haller J, Alicki M. Current animal models of anxiety, anxiety disorders, and anxiolytic
+drugs. Curr Opin Psychiatry 2012;25(1):59–64, Available at: http://www.ncbi.
+nlm.nih.gov/pubmed/22156938 [accessed 14.12.14].
+Hart PC, Bergner CL, Dufour BD, Smolinsky AN, Egan RJ, Laporte JL, et al. Analysis of abnormal repetitive behaviors in experimental animal models. In:
+Warnik JE, A VK, editors. Translational neuroscience in animal research:
+advancement, challenges, and research ethics. Hauppauge, NY: Nova Science
+Publishers; 2009. p. 71–82 http:// www. kaluefﬂab.com/ pdfs/ chapters/
+TransNeuroAdvAnimalResearchEthics%28Hart&AVK%29.pdf.
+Johnston AL, File SE. Sex differences in animal tests of anxiety. Physiol Behav
+1991;49:245–50.
+
+N. Mittal et al. / Journal of Neuroscience Methods 256 (2015) 212–219
+Jolkkonen J, Puurunen K, Rantakömi S, Sirviö J, Haapalinna A, Sivenius J. Effects-of
+ﬂuoxetine on sensorimotor and spatial learning deﬁcits following focal cerebral
+ischemia in rats. Restor Neurol Neurosci 2000;17(4):211–6, Available at: http://
+www.ncbi.nlm.nih.gov/pubmed/11490091 [accessed 14.12.14].
+Kavalali ET, Monteggia LM. ScienceDirect How does ketamine elicit a
+rapid antidepressant response? Curr Opin Pharmacol 2015;20:35–9,
+http://dx.doi.org/10.1016/j.coph.2014.11.005.
+Li W-L, Cai H-H, Wang B, Chen L, Zhou Q-G, Luo C-X, et al. Chronic
+ﬂuoxetine treatment improves ischemia-induced spatial cognitive deﬁcits
+through increasing hippocampal neurogenesis after stroke. J Neurosci
+Res 2009;87(1):112–22, Available at: http://www.ncbi.nlm.nih.gov/pubmed/
+18711744 [accessed 14.12.14].
+Li X, Blizzard KK, Zeng Z, DeVries a C, Hurn PD, McCullough LD. Chronic behavioral
+testing after focal ischemia in the mouse: functional recovery and the effects
+of gender. Exp Neurol 2004;187(1):94–104, Available at: http://www.ncbi.nlm.
+nih.gov/pubmed/15081592 [accessed 08.11.14].
+Lim C-M, Kim S-W, Park J-Y, Kim C, Yoon SH, Lee J-K. Fluoxetine affords robust
+neuroprotection in the postischemic brain via its anti-inﬂammatory effect. J
+Neurosci Res 2009;87(4):1037–45, Available at: http://www.ncbi.nlm.nih.gov/
+pubmed/18855941 [accessed 14.12.14].
+Lim SH, Lee JS, Lee JI, Im S, Ko YJ, Kim HW. The quantitative assessment of functional
+impairment and its correlation to infarct volume in rats with transient middle
+cerebral artery occlusion. Brain Res 2008;1230:303–9.
+Liu J, Garza JC, Bronner J, Kim CS, Zhang W, Lu X-Y. Acute administration of leptin
+produces anxiolytic-like effects: a comparison with ﬂuoxetine. Psychopharmacology 2010;207(4):535–45, Available at: http://www.pubmedcentral.nih.
+gov/articlerender.fcgi?artid=4057895&tool=pmcentrez&rendertype=abstract
+[accessed 14.12.14].
+Markgraf CG, Green EJ, Hurwitz BE, Morikawa E, Dalton Dietrich W, McCabe PM, et al.
+Sensorimotor and cognitive consequences of middle cerebral artery occlusion
+in rats. Brain Res 1992;575(2):238–46 http://linkinghub.elsevier.com/retrieve/
+pii/000689939290085N.
+Mayo NE, Wood-Dauphinee S, Ahmed S, Gordon C, Higgins J, McEwen S, et al. Disablement following stroke. Disabil Rehabil 1999;21(5–6):258–68, Available at:
+http://www.ncbi.nlm.nih.gov/pubmed/10381238 [accessed 13.12.14].
+McArthur R, Borsini F. Animal models of depression in drug discovery: a historical
+perspective. Pharmacol Biochem Behav 2006;84:436–52.
+Metz GA, Whishaw IQ. Cortical and subcortical lesions impair skilled walking in the
+ladder rung walking test: a new task to evaluate fore- and hindlimb stepping,
+placing, and co-ordination. J Neurosci Methods 2002;115(2):169–79, Available
+at: http://www.ncbi.nlm.nih.gov/pubmed/11992668 [accessed 13.12.14].
+Montoya CP, Campbell-Hope LJ, Pemberton KD, Dunnett SB. The “staircase test”:
+a measure of independent forelimb reaching and grasping abilities in rats. J
+Neurosci Methods 1991;36(2–3):219–28, Available at: http://www.ncbi.nlm.
+nih.gov/pubmed/2062117 [accessed 13.12.14].
+Palanza P. Animal models of anxiety and depression: how are females different?
+Neurosci Biobehav Rev 2001;25:219–33.
+Pan J, Palmateer J, Schallert T, Hart M, Pandya A, Vandenbark AA, et al. Novel
+humanized recombinant T cell receptor ligands protect the female brain
+after experimental stroke. Transl Stroke Res 2014;5(5):577–85, Available at:
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=4121525&tool=
+pmcentrez&rendertype=abstract [accessed 18.11.14].
+Pariente J, Loubinoux I, Carel C, Albucher JF, Leger A, Manelfe C, et al. Fluoxetine
+modulates motor performance and cerebral activation of patients recovering
+from stroke. Ann Neurol 2001;50(6):718–29, Available at: http://www.ncbi.nlm.
+nih.gov/pubmed/11761469 [accessed 14.12.14].
+
+219
+
+Pellow S, Chopin P, File SE, Briley M. Validation of open: closed arm entries in
+an elevated plus-maze as a measure of anxiety in the rat. J Neurosci Methods 1985;14(3):149–67, Available at: http://linkinghub.elsevier.com/retrieve/
+pii/0165027085900317 [accessed 12.11.14].
+Ramos A. Animal models of anxiety: do I need multiple tests? Trends Pharmacol Sci 2008;29(10):493–8, Available at: http://www.ncbi.nlm.nih.gov/pubmed/
+18755516 [accessed 14.12.14].
+Robinson RG, Spalletta G. Poststroke depression: a review. Can J Psychiatry 2010;55(6):341–9, Available at: http:// www.pubmedcentral.nih.
+gov/articlerender. fcgi?artid=3647458&tool=pmcentrez&rendertype=abstract
+[accessed 14.12.14].
+Rosell A, Agin V, Rahman M, Morancho A, Ali C, Koistinaho J, et al. Distal occlusion of
+the middle cerebral artery in mice: are we ready to assess long-term functional
+outcome? Transl Stroke Res 2013;4(3):297–307, Available at: http://www.ncbi.
+nlm.nih.gov/pubmed/24323300 [accessed 13.12.14].
+Schaar KL, Brenneman MM, Savitz SI. Functional assessments in the rodent stroke
+model. Exp Transl Stroke Med 2010;2(1):13 http://www.pubmedcentral.nih.
+gov/articlerender.fcgi?artid=2915950&tool=pmcentrez&rendertype=abstract.
+Schallert T. Behavioral tests for preclinical intervention assessment. NeuroRx
+2006;3(4):497–504,
+Available
+at:
+http://www.pubmedcentral.nih.gov/
+articlerender.fcgi?artid=3593401&tool=pmcentrez&rendertype=abstract
+[accessed 02.12.14].
+Schallert T, Fleming SM, Leasure JL, Tillerson JL, Bland ST. CNS plasticity
+and assessment of forelimb sensorimotor outcome in unilateral rat models
+of stroke, cortical ablation, parkinsonism and spinal cord injury. Neuropharmacology 2000;39(5):777–87 http://linkinghub.elsevier.com/retrieve/
+pii/S0028390800000058.
+Schallert T, Upchurch M, Lobaugh N, Farrar SB, Spirduso WW, Gilliam
+P, et al. Tactile extinction: Distinguishing between sensorimotor and
+motor asymmetries in rats with unilateral nigrostriatal damage. Pharmacol
+Biochem Behav 1982;16(3):455–62 http://linkinghub.elsevier.com/retrieve/pii/
+009130578290452X.
+Schallert T, Woodlee MT. Orienting and placing. In: Whishaw IQ, Kolb B, editors. The behavior of the laboratory rat. Oxford: Oxford University Press;
+2005. p. 129–40 http:// www. homepage.psy.utexas.edu/HomePage/Group/
+SchallertLAB/ tim marty chapter. pdf.
+Sharpe M, Hawton K, House A, Molyneux A, Sandercock P, Bamford J, et al. Mood disorders in long-term survivors of stroke: associations with brain lesion location
+and volume. Psychol Med 1990;20:815–28.
+Shih AY, Blinder P, Tsai PS, Friedman B, Stanley G, Lyden PD, et al. The smallest stroke:
+occlusion of one penetrating vessel leads to infarction and a cognitive deﬁcit. Nat
+Neurosci 2013;16(1):55–63 http://www.pubmedcentral.nih.gov/articlerender.
+fcgi?artid=3952571&tool=pmcentrez&rendertype=abstract.
+Võikar V, Kõks S, Vasar E, Rauvala H. Strain and gender differences in the
+behavior of mouse lines commonly used in transgenic studies. Physiol Behav
+2001;72:271–81.
+Volpe BT, Pulsinelli Wa, Tribuna J, Davis HP. Behavioral performance of rats following transient forebrain ischemia. Stroke 1984;15(3):58–62 http://stroke.
+ahajournals.org/cgi/doi/10.1161/01.STR.15.3.558.
+Windle V, Corbett D. Fluoxetine and recovery of motor function after focal ischemia
+in rats. Brain Res 2005;1044(1):25–32, Available at: http://www.ncbi.nlm.nih.
+gov/pubmed/15862786 [accessed 14.12.14].
+Zhang L, Schallert T, Zhang ZG, Jiang Q, Arniego P, Li Q, et al. A test for detecting long-term sensorimotor dysfunction in the mouse after focal cerebral
+ischemia. J Neurosci Methods 2002;117(2):207–14 http://linkinghub.elsevier.
+com/retrieve/pii/S0165027002001140.
+
+

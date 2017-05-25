@@ -1,0 +1,639 @@
+Toxicology and Applied Pharmacology 286 (2015) 53–63
+
+Contents lists available at ScienceDirect
+
+Toxicology and Applied Pharmacology
+journal homepage: www.elsevier.com/locate/ytaap
+
+Curcumin attenuates glutamate neurotoxicity in the hippocampus by
+suppression of ER stress-associated TXNIP/NLRP3 inﬂammasome
+activation in a manner dependent on AMPK
+Ying Li a,b, Jia Li a,b, Shanshan Li a,b, Yi Li a,b, Xiangxiang Wang a,b, Baolin Liu a,b, Qiang Fu a,b,⁎, Shiping Ma a,b,⁎
+a
+b
+
+Department of Pharmacology of Chinese Materia Medica, China Pharmaceutical University, Nanjing, 639, Longmian Road, Nanjing 211198, PR China
+Jiangsu Provincial Key Laboratory for TCM Evaluation and Translational Research, China Pharmaceutical University, 639, Longmian Road, Nanjing 211198, PR China
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 5 February 2015
+Revised 5 March 2015
+Accepted 6 March 2015
+Available online 16 March 2015
+Keywords:
+Curcumin
+Glutamate neurotoxicity
+Endoplasmic reticulum stress
+NLRP3 inﬂammasome
+AMPK
+Ischemia
+
+a b s t r a c t
+Curcumin is a natural polyphenolic compound in Curcuma longa with beneﬁcial effects on neuronal protection.
+This study aims to investigate the action of curcumin in the hippocampus subjected to glutamate neurotoxicity.
+Glutamate stimulation induced reactive oxygen species (ROS), endoplasmic reticulum stress (ER stress) and
+TXNIP/NLRP3 inﬂammasome activation, leading to damage in the hippocampus. Curcumin treatment in the hippocampus or SH-SY5Y cells inhibited IRE1α and PERK phosphorylation with suppression of intracellular ROS production. Curcumin increased AMPK activity and knockdown of AMPKα with speciﬁc siRNA abrogated its
+inhibitory effects on IRE1α and PERK phosphorylation, indicating that AMPK activity was essential for the suppression of ER stress. As a result, curcumin reduced TXNIP expression and inhibited NLRP3 inﬂammasome activation by downregulation of NLRP3 and cleaved caspase-1 induction, and thus reduced IL-1β secretion.
+Speciﬁc ﬂuorescent probe and ﬂow cytometry analysis showed that curcumin prevented mitochondrial malfunction and protected cell survival from glutamate neurotoxicity. Moreover, oral administration of curcumin reduced brain infarct volume and attenuated neuronal damage in rats subjected to middle cerebral artery
+occlusion. Immunohistochemistry showed that curcumin inhibited p-IRE1α, p-PERK and NLRP3 expression in
+hippocampus CA1 region. Together, these results showed that curcumin attenuated glutamate neurotoxicity
+by inhibiting ER stress-associated TXNIP/NLRP3 inﬂammasome activation via the regulation of AMPK, and thereby protected the hippocampus from ischemic insult.
+© 2015 Published by Elsevier Inc.
+
+Introduction
+Brain ischemia is a common brain injury impacting millions of
+people worldwide accompanied with a high death and disability rate
+(Burke et al., 2012). Due to the high metabolic demand, the brain is particularly susceptible to ischemic insult, during which extrasynaptic glutamate release plays a critical role in neuronal damage (Soria et al.,
+2014). Acting as a plentiful excitatory neurotransmitter in the central
+nervous system, glutamate mediates synaptic transmission in the
+brain. Glutamate is required for neuronal growth, maturation and synaptic plasticity (Lai et al., 2014), whereas an excessive release of
+
+Abbreviations: ACSF, artiﬁcial cerebro-spinal ﬂuid; AMPK, adenosine 5′-monophosphate
+(AMP)-activated protein kinase; ER stress, endoplasmic reticulum stress; MCAO, middle cerebral artery occlusion; ROS, reactive oxygen species; TG, thapsigargin; TTC, 2,3,5-triphenyltetrazolium chloride; TUDCA, tauroursodeoxycholic acid; TXNIP, thioredoxin-interacting
+protein; UPR, unfolded-protein response; NLRP3, NOD-like receptor family, pyrin domain
+containing 3.
+⁎ Corresponding authors.
+E-mail addresses: fuqiang@cpu.edu.cn (Q. Fu), spma@cpu.edu.cn (S. Ma).
+
+http://dx.doi.org/10.1016/j.taap.2015.03.010
+0041-008X/© 2015 Published by Elsevier Inc.
+
+glutamate triggers neuronal death during brain ischemia. In brain ischemia, it is generally accepted that glutamate receptor activation is
+responsible for glutamate-induced neuronal damage, and more molecular pathways, such as ionic mechanism, calcium homeostasis, and oxidative and inﬂammatory response, are proposed to be involved (Lai
+et al., 2014; Tymianski, 2011). Recently, emerging evidence demonstrates the implication of endoplasmic reticulum stress (ER stress) in
+neuronal damage. Brain ischemia leads to neuronal injury through increasing ER stress and inﬂammatory response in mice (Dong et al.,
+2013) and oxygen/glucose deprivation induces ER stress in cultured
+cortical neurons (Maier et al., 2014). Calcium release and oxidative
+stress are manifested in ER stress (Zhang and Kaufman, 2008), and
+these alternations along with ER stress activation are also observed in
+the ischemic brain (Caldeira et al., 2014; Hayashi et al., 2004,). These
+events raise the possibility that ER stress is an initial cause of glutamate
+neurotoxicity.
+The endoplasmic reticulum is a membranous organelle responsible
+for protein folding and maturation. In addition, it is also a critical site
+for cellular homeostasis. Cellular stress elicits an elaborate and adaptive
+unfolded-protein response (UPR), while the altered or persistent UPR
+
+54
+
+Y. Li et al. / Toxicology and Applied Pharmacology 286 (2015) 53–63
+
+can lead to ER stress, which is characterized by the over-activation of
+ER-located protein sensor and downstream cascading reactions, leading
+to inﬂammation and cell death in special tissues, including the brain
+(Zhang and Kaufman, 2008). A recently published study demonstrates
+that TXNIP/NLRP3 inﬂammasome activation links ER stress to inﬂammation and cell death in pancreatic β cell (Oslowski et al., 2012).
+Thioredoxin-interacting protein (TXNIP), combined with thioredoxin
+in usual situation, is sensitive to oxidative stress. As a member of the
+NLR family, NLRP3, together with the adaptor molecule ASC and the
+preform of caspase-1, can form the NLRP3 inﬂammasome complex,
+which regulates innate immune and inﬂammatory responses (Choi
+and Ryter, 2014). In response to ER stress, TXNIP induction leads to
+NLRP3 inﬂammasome activation, which regulates IL-1β maturation in
+a caspase-1-dependent manner, and thereby induces inﬂammation
+and cell apoptosis. Consistent with this, TXNIP induction and NLRP3 induction are also shown in brain injury (Ishrat et al., 2015; Kim et al.,
+2012; Yang et al., 2014), suggesting the potential role of TXNIP/NLRP3
+activation in neuronal damage.
+Curcumin is a natural polyphenolic compound in Curcuma longa
+and exhibits a wide range of biological activities. The neuroprotective action of curcumin has been well documented, but these studies
+are mainly limited in neurodegenerative disorders (Andrade, 2014;
+Lim et al., 2001). Some studies also report that curcumin attenuates
+ER stress by controlling inﬂammation in brain injury and prevents
+neurotoxicity through suppressing oxidative stress (Chhunchha
+et al., 2013; J. Wu et al., 2013). Curcumin positively regulates AMPkinase (AMPK) activity and this action contributes to the management of metabolic disorders (Soetikno et al., 2013), but up to now,
+little is known about the regulation in neuroprotection. AMPK regulates energy metabolism and plays an important role in the maintenance of cellular homeostasis. Moreover, it is demonstrated that
+AMPK suppresses ER stress and inhibits TXNIP induction by phosphorylation and accelerated degradation (Dong et al., 2010; N. Wu
+et al., 2013). Therefore, we hypothesized that the regulation of
+AMPK by curcumin should contribute to protecting neural tissue
+against ER stress. For this, we stimulated the hippocampus tissue
+with glutamate and investigated the protective effect of curcumin
+on neuronal cell survival by focusing on the regulation of TXNIP/
+NLRP3 inﬂammasome activation in the setting of ER stress. Our
+work demonstrated the molecular pathway for glutamate neurotoxicity in the hippocampus and showed that curcumin prevented glutamate neurotoxicity by suppressing ER stress-associated TXNIP/NLRP3
+inﬂammasome activation in a manner dependent on AMPK. These ﬁndings provided a novel insight into the molecular mechanism by which
+curcumin protected the brain against ischemic brain injury.
+
+Materials and methods
+Material. Curcumin (purity: 98%) was obtained from Nanjing Zelang
+Medical Technology Co., Ltd (Nanjing, China). L -glutamic acid,
+thapsigargin (TG), tauroursodeoxycholic acid (TUDCA) and compound
+C were products of Sigma-Aldrich (St. Louis, MO, USA). BAPTA-AM was
+provided by TCI (Shanghai) Development Co., Ltd. (Shanghai, China).
+These agents were dissolved in dimethyl sulfoxide (DMSO) as stock solution and diluted with culture medium before use. The following items
+were purchased from the cited commercial sources: anti-phosphoIRE1α (S724, ab104157), anti-IRE1α (ab37073) and anti-caspase-1
+(ab108362) were from Abcam (Cambridge, MA, USA); anti-phosphoAMPKα (T172, 2531s), anti-PERK (#3192), anti-phospho-AMPKα
+(T172) (2531s), anti-AMPKα (2532s), and anti-β-actin (#4967S) were
+from Cell Signaling Technology (Beverly, MA, USA); anti-phosphoPERK (Thr 981, sc-32577) and goat anti-rabbit IgG (H + L) HRP
+(sc-45101) were from Santa Cruz Biotechnology, Inc. (Santa Cruz,
+CA, USA); NLRP3 (NBP2-12446) and TXNIP (NBP1-54578) were
+from Novus Biologicals (Littleton, CO, USA).
+
+Animals. Male ICR mice (6–8 weeks of age) and Sprague–Dawley rats
+(200–250 g) were obtained from the Experimental Animal Center of
+Nanjing Qinglongshan. All the experiments in animal care were executed rigorously in conformity to the Provision and General Recommendation of Chinese Experimental Animals Administration Legislation and
+the protocol was approved by Animal Ethics Committee of School of
+Chinese Materia Medica, China Pharmaceutical University.
+Cell culture. Human neuroblastoma SH-SY5Y cells were obtained from
+the cell bank of the Chinese Academy of Sciences (Shanghai, China).
+Cells were grown in DMEM/Ham's F-12 requiring supplementation
+with 10% fetal bovine serum, 100 U/mL penicillin and 100 μg/mL streptomycin and maintained at 37 °C in a humidiﬁed 5% CO2 incubator. The
+conﬂuent cells were washed twice with PBS and cultured in serum-free
+medium for 2 h before the treatment.
+Preparation of the hippocampus from mice. Mice were euthanized by decollation, and the hippocampus was gently dissected from the brain and
+weighted to an equal amount. After washing with precooling PBS, the
+hippocampus was removed into the artiﬁcial cerebro-spinal ﬂuid
+(ACSF) containing: NaCl (125 mM), KCl (3 mM), MgSO4 (1.5 mM),
+NaHCO3 (26 mM), CaCl2 (2 mM), NaH2PO4 (1.25 mM) and glucose
+(10 mM). The isolated hippocampus was transversely sliced and incubated at 37 °C for 30 min before treatment.
+Oxygen and glucose deprivation treatment. The hippocampus was
+pretreated with curcumin (10 μM) and ER stress inhibitor TUDCA
+(100 μM) in the modiﬁed ACSF in which glucose was replaced by sucrose, and then incubated in the hypoxia surroundings (94% N2, 1% O2,
+5% CO2) provided by anaerobic incubator for 3 h. Glutamate in the medium was assayed with a commercial Kit (Nanjing Jiancheng bioengineering institute), while IL-1β was measured with ELISA Kit (R&D,
+USA).
+Glutamate stimulation in the hippocampus. The hippocampus was
+pretreated with curcumin (0.1, 1.0 and 10 μM) and indicated agents at
+given concentrations, and then cultured in ACSF with glutamate
+(100 μM) or TG (1 μM) for 8 h. The supernatant was harvested for the
+assay of IL-1β and IL-6 with ELISA Kits (R&D, USA), and the hippocampus was collected and stored at −70 °C before Western blot assay.
+Intracellular ROS generation. SH-SY5Y cells were pretreated with
+curcumin (0.1, 1, 10 μM), curcumin (10 μM) plus compound C
+(25 μM), TUDCA (100 μM) or BAPTA-AM (10 μM), and then incubated with glutamate (100 μM) for 8 h. After washing with PBS, cells
+were ﬁxed in 4% paraformaldehyde for 5 min at 4 °C, and ROS production was viewed with a ﬂuorescence microscope. For the quantitative analysis of ROS production, cells were treated with DCFH-DA
+and the ﬂuorescence for ROS was determined using a microplate
+reader at an excitation wavelength of 488 nm and an emission wavelength of 525 nm.
+Mitochondrial membrane potential (Δψm) assay with ﬂuorescent
+probe. SH-SY5Y cells were pretreated with curcumin (0.1, 1.0,
+10 μM), curcumin plus compound C or TUDCA (100 μM) and then incubated with glutamate (100 μM) for 8 h. Mitochondrial membrane
+potential was assessed with ﬂuorescent probe JC-1 (Beyotime Institute of Biotechnology, Shanghai, China). JC-1 aggregated in the mitochondria intima emits red ﬂuorescence at 585 nm different from the
+monomeric one which emits green ﬂuorescence at 514 nm, indicative of the collapse of Δψm. After incubation and washing, cells
+were incubated with JC-1 for 20 min at 37 °C. JC-1 ﬂuorescence was
+viewed using inverted ﬂuorescence microscope. The mitochondrial
+membrane potential was determined by the ratio of red to green
+ﬂuorescence intensity. The intensity was quantiﬁed by densitometry
+with Image-Pro Plus6.0 software.
+
+Y. Li et al. / Toxicology and Applied Pharmacology 286 (2015) 53–63
+
+Apoptosis assay. Conﬂuent SH-SY5Y cells were treated with
+curcumin (0.1, 1.0 and 10 μM) or TUDCA (100 μM) and then incubated with glutamate (100 μM) for 8 h. After incubation, the cells were
+harvested and washed with PBS and added with 5 μL of Annexin VFITC (Becton, Dickinson and Company), and maintained at room
+temperature away from light for 20 min. In the treatment, the early
+apoptotic cells exhibit green ﬂuorescence represented at 494 nm,
+while the late apoptotic cells showed red ﬂuorescence at 528 nm.
+Meanwhile, we quantiﬁed apoptotic cells with a FACSCalibur Flow
+Cytometer (BD Biosciences, USA) according to the manufacturer's
+instructions.
+RNA interference. AMPKα1/α2 (sc-45312) and VDUP1 (sc-44943) small
+interfering RNA (siRNA) for human were purchased from Santa Cruz
+Biotechnology. Cells were cultured in 6-well plates and grown to 60%
+conﬂuence for transfection experiment according to the manufacturer's
+instructions. After transfection, the transfected cells were cultured in
+medium for 48 h with replacing fresh medium.
+Rat middle cerebral artery occlusion (MCAO). Rats were administrated
+with curcumin (50 mg/kg, i.p.) or TUDCA (20 mg/kg, i.g.). After 1 h,
+rats were anesthetized with 4% choral hydrate (i.p.) and MCAO was operated according to the methods described by Fu et al. (2014). In brief,
+the left common carotid artery (CCA) was exposed, and the external carotid artery (ECA) and internal carotid artery (ICA) were isolated in
+turn. After the ligation of ECA and CCA, middle cerebral artery (MCA)
+was occluded by inserting a monoﬁlament nylon suture (Beijing Sunbio
+Biotech Co Ltd., Beijing, China) from ICA to the origin of MCA. Rats in the
+sham group received the same procedure without ﬁlament insertion.
+After closing the temporalis and skin, rats were allowed to recover
+from anesthesia and returned to the cages with free access to food and
+water.
+Evaluation of neurological deﬁcit in rats. The impairment of neurological
+function in rats was evaluated 24 h after surgery by observing the movement behavior. According to the standard developed by Lee et al. (2008)
+with a little alteration, a grading scale of 0–7 was used to assess the
+movement behavior after occlusion: 0, no deﬁcits; 1, unable to extend
+contralateral forelimb; 2, decreased grip of contralateral forelimb
+while tail pulled; 3, spontaneous movement in all directions or contralateral circling while tail pulled; 4, circling or walking to the contralateral side; 5, movement only stimulated; 6, unresponsive to stimulated; 7,
+death.
+
+55
+
+Assessment of brain infarct volume. Immediately after behavioral assessment, rats were immobilized with ether and euthanized by cervical dislocation. The brain was removed and then frozen at −20 °C for 30 min.
+The frozen brain was cut into six transverse slices from the frontal tips
+and stained with 2% TTC (2,3,5-triphenyltetrazolium chloride, Sigma,
+St. Louis, MO, USA) at 37 °C for 30 min, and then ﬁxed in 4% paraformaldehyde for 24 h. The presence of infarction was determined by TTCstaining and quantiﬁed by Image-Pro Plus 6.0. The infarct volume
+(white parts) was expressed as a percentage of the whole volume of
+the brain section.
+Western blot analysis. The hippocampus slices were homogenized on ice
+with lysis buffer. The homogenate was centrifuged at 12,000 rpm at 4 °C
+for 20 min and the supernatant was collected. The concentration of protein was detected by the BCA protein assay kit (Beyotime, Jiangsu,
+China). The protein was separated by 10% SDS-polyacrylamide gel electrophoresis and transferred onto PVDF membrane (Millipore, USA). The
+PVDF membrane with protein onto it was blocked in the blocking buffer
+for 2 h at room temperature. Then the membranes were incubated with
+primary antibodies overnight at 4 °C and washed with TBST. After that,
+the membranes were incubated with secondary antibody for 2 h at
+room temperature. The antibody activity was detected by an ECL method, and exposed to Kodak X-OMAT ﬁlm (Eastman Kodak, Rochester, NY,
+USA). Results were processed by Image-Pro Plus 6 (Media Cybernetics,
+U.S.A.).
+Immunohistochemistry. 24 h after MCAO, rats were euthanized by cervical dislocation, and the brain was removed and ﬁxed in 10% formalin for
+24 h. By the method of Nissl staining (toluidine blue as the stains) and
+immunohistochemistry, the morphological alterations and target proteins in the hippocampus were detected and analyzed. Quantitative
+image analysis was processed by Image-Pro Plus 6 (Media Cybernetics,
+U.S.A.).
+Statistics. Data were presented as the mean ± SEM. Statistical analysis
+of data was implemented by one-way analysis of variance (ANOVA),
+followed using Newman–Keuls test for inter-group comparisons.
+Value of p less than 0.05 were regarded statistically signiﬁcant.
+Results
+Oxygen and glucose-deprivation promoted glutamate release and
+IL-1β secretion in the hippocampus
+
+Fig. 1. Oxygen and glucose-deprivation promoted glutamate release and IL-1β secretion in the hippocampus. The mouse hippocampus was pretreated with curcumin and TUDCA and then
+incubated in glucose-free ACSF under hypoxic conditions (1% O2) for 3 h. Glutamate (A) and IL-1β (B) in the culture medium were assayed with commercial kits. Data are expressed as
+mean ± SEM (n = 6). *p b 0.05 vs. the control; #p b 0.05 vs. the indicated treatment.
+
+56
+
+Y. Li et al. / Toxicology and Applied Pharmacology 286 (2015) 53–63
+
+Fig. 2. Curcumin reduced glutamate-induced ROS generation in neuronal cells. SH-SY5Y cells were pretreated with curcumin and indicated agents and then incubated with glutamate for
+8 h. Intracellular ROS labeling with DCFH-DA was observed by ﬂuorescence microscope (A), and the results were derived from three independent experiments (n = 3). To quantify the ROS
+generation, the ﬂuorescence for ROS was determined using a microplate reader (B) (n = 6). Data are expressed as mean ± SEM. *p b 0.05 vs. the control; #p b 0.05 vs. the indicated
+treatment.
+
+To mimic ischemic insult in the brain, we exposed mouse hippocampus to glucose-free ACSF under the hypoxia condition (1% O2) and
+found elevated levels of glutamate and IL-1β in the medium. Pretreatment of the hippocampus with curcumin or ER stress inhibitor TUDCA
+reduced IL-1β concentration in the culture, but no signiﬁcant inﬂuence
+was observed on glutamate concentration (Figs. 1 A & B). The inhibitory
+effect of curcumin on reducing IL-1β production was attenuated by
+AMPK inhibitor compound C (Fig. 1B). These results indicated that
+
+curcumin as well as TUDCA inhibited IL-1β secretion without affecting
+glutamate release.
+Curcumin reduced ROS generation in neuronal cells
+We observed ROS generation in cells with speciﬁc ﬂuorescent
+probe dye DCFH-DA. As shown in Fig. 2A, cells subjected to glutamate exhibited enhanced green ﬂuorescence intensity, indicative of
+
+Fig. 3. Curcumin prevented PERK and IRE1α phosphorylation in the hippocampus. The mice hippocampus was pretreated with curcumin and TUDCA followed by incubation with glutamate for
+8 h. PERK (A) and IRE1α (B) phosphorylation was determined by Western blot. The results were represented as the mean ± SEM. of three or four independent experiments. *p b 0.05 vs. the
+control; #p b 0.05 vs .the blank.
+
+Y. Li et al. / Toxicology and Applied Pharmacology 286 (2015) 53–63
+
+ROS production. Pretreatment of cells with curcumin inhibited ROS
+generation, but this action was abrogated by co-treatment with
+AMPK inhibitor compound C, suggesting the possible involvement
+of AMPK. We further quantiﬁed ROS production with ﬂuorescence
+photometer and found that curcumin inhibited intracellular ROS
+production in a concentration-dependent manner, whereas compound C diminished its inhibitory effect (Fig. 2B). Calcium chelator
+BAPTA-AM reduced ROS generation, suggesting the involvement of
+calcium release in glutamate insult (Fig. 2B). Similarly, TUDCA effectively inhibited ROS production. These results demonstrated that
+curcumin suppressed oxidative stress.
+Curcumin prevented PERK and IRE1α activation in the hippocampus
+Curcumin inhibited ROS production, and then we investigated its
+effect on ER stress by observing the change of ER stress markers in
+the hippocampus. As shown in Figs. 3A & B, glutamate stimulation increased PERK and IRE1α phosphorylation, whereas these alternations were prevented by curcumin treatment at concentrations of
+
+57
+
+1.0 and 10 μM, indicating that curcumin suppressed ER stress. The
+same as curcumin, TUDCA attenuated PERK and IRE1α phosphorylation in the hippocampus.
+Curcumin inhibited ER stress with regulation of AMPK activity
+Glutamate stimulation attenuated AMPK phosphorylation in the
+hippocampus, but this alternation was reversed by curcumin (Fig. 4A).
+We examined the effect of curcumin in AMPKα knockdown cells and
+found that knockdown of AMPKα diminished the inhibitory effect of
+curcumin on PERK and IRE1α phosphorylation (Figs. 4B & C). These results showed that curcumin inhibited ER stress through positive regulation of AMPK.
+Curcumin inhibited TXNIP induction
+To know the possible regulation of TXNIP activity by curcumin
+under ER stress conditions, we investigated TXNIP expression in the
+hippocampus exposed to glutamate stimulation. As shown in Fig. 5A,
+
+Fig. 4. Curcumin inhibited ER stress with regulation of AMPK activity. (A): the mice hippocampus was incubated with curcumin or TUDCA in the presence of glutamate for 8 h. (B) (C): SH-SY5Y
+cells were cultured in 6-well plates and transfected with AMPKα siRNA and control scrambled siRNA and then stimulated with glutamate or thapsigargin (TG) for 8 h. Phosphorylations for
+AMPK, IRE1α and PERK were determined by Western blot. The results were represented as the mean ± SEM. of three or four independent experiments. *p b 0.05 vs. the control; #p b 0.05
+vs. the indicated treatment.
+
+58
+
+Y. Li et al. / Toxicology and Applied Pharmacology 286 (2015) 53–63
+
+Fig. 5. Curcumin inhibited TXNIP induction in an AMPK dependent manner. The mice hippocampus was pretreated with curcumin and indicated agents in the presence of glutamate or
+thapsigargin (TG) for 8 h. The expression of TXNIP (A) was determined by Western blot; (B): the expression of TXNIP in cells transfected with AMPKα1/α2 or control scrambled siRNA. The
+results were represented as the mean ± SEM. of three or four independent experiments. *p b 0.05 vs. the control; #p b 0.05 vs. the indicated treatment.
+
+curcumin reduced glutamate-induced TXNIP expression, indicative of
+the inhibitory role on TXNIP activation. TUDCA treatment also reduced
+TXNIP induction, suggesting the involvement of ER stress in TXNIP
+
+activation. We further observed the action of curcumin in cells
+transfected with AMPKα1/2-speciﬁc siRNA and found that knockdown
+of AMPK blocked the action of curcumin in the inhibition of TXNIP when
+
+Fig. 6. Curcumin suppressed NLRP3 inﬂammasome activation. The mice hippocampus was pretreated with curcumin and TUDCA and then incubated with glutamate for 8 h. The expression of NLRP3 (A) and cleaved caspase-1 (B) were detected by Western blot; IL-1β (C) and IL-6 (D) in the medium were measured with ELISA Kits. The results were derived from three or
+four independent experiments for Western blot or given as mean ± SEM (n = 5–6) for ELISA. *p b 0.05 vs. the control; #p b 0.05 vs. the blank.
+
+Y. Li et al. / Toxicology and Applied Pharmacology 286 (2015) 53–63
+
+cells were exposed to glutamate or thapsigargin (TG, a chemical ER
+stress inducer), indicating that AMPK activation was essential for
+curcumin action (Fig. 5B).
+Curcumin suppressed NLRP3 inﬂammasome activation
+NLRP3 inﬂammasome is a platform for IL-1β maturation in a manner
+dependent on caspase-1 cleavage. Glutamate stimulation increased
+NLRP3 expression accompanied by up-regulation of cleaved caspase-1
+expression. Curcumin, as well as TUDCA, attenuated NLRP3 and cleaved
+caspase-1 expression (Figs. 6A & B), and as expected, reduced IL-1β secretion (Fig. 6C). IL-6 is a downstream target of IL-1β and its production
+was also inhibited by curcumin treatment (Fig. 6D). These results indicated that curcumin suppressed NLRP3 inﬂammasome activation and
+thus inhibited inﬂammatory response.
+
+59
+
+a monomeric form on account of collapse of Δψm exhibits stained
+green. When cells were exposed to glutamate, the Δψm rapidly
+depolarized, indicated by the increased green ﬂuorescence with a
+reduction in red ﬂuorescence, but this alternation was prevented by
+treatment with curcumin at concentration ranging from 0.1 to 10 μM
+(Fig. 7A). Consistent with the regulation of Δψm, curcumin also effectively attenuated cleaved caspase-3 expression in the hippocampus
+exposed to glutamate stimulation (Fig. 7B). Neutralizing IL-1β with
+anti-IL-1β antibody reduced cleaved caspase-3 expression, suggesting
+the contribution of IL-1β to caspase-3 activation. These results showed
+that curcumin protected mitochondrial function and prevented
+caspase-3 activation. Compound C abrogated the action of curcumin
+on the regulation of Δψm and cleaved-caspase-3 expression (Figs. 7A
+& B), indicative of the role of AMPK in curcumin action.
+Curcumin treatment prevented cell apoptosis
+
+Curcumin improved mitochondrial function and reduced caspase-3 activity
+In addition to evoked inﬂammation, NLRP3 inﬂammasome activation is responsible for apoptosis, in which mitochondrial malfunction
+plays a critical role. Therefore, we observed the effect of curcumin on
+the mitochondrial membrane potential (Δψm) with ﬂuorescent probe
+JC-1 dye. JC-1 that accumulates in coupled mitochondria exhibits red
+ﬂuorescence (higher membrane potential), while JC-1 remaining in
+
+To know the protective effects of curcumin on cell survival, we observed the apoptotic characteristics in cells by Annexin-V/PI staining
+examination, in which green aggregates indicated the form of early apoptotic bodies, while the red aggregates indicated the mid-to-late apoptotic bodies accumulation. Pretreatment of cells with curcumin
+effectively prevented glutamate-induced cell apoptosis, indicated by a
+reduction in ﬂuorescent dye aggregates in cells (Fig. 8A). Flow
+
+Fig. 7. Curcumin improved mitochondrial function and reduced caspase-3 activity. The mice hippocampus and SH-SY5Y cells were pretreated with curcumin and indicated agents, and
+then incubated with glutamate for 8 h. (A): The Δψm in cells were viewed with ﬂuorescence microscopy after incubated with JC-1 probe; (B): cleaved caspase-3 expression in the hippocampus was determined with Western blot (B). The results were shown as mean ± SEM of three or four independent experiments. *p b 0.05 vs. the control; #p b 0.05 vs. the indicated
+treatment.
+
+60
+
+Y. Li et al. / Toxicology and Applied Pharmacology 286 (2015) 53–63
+
+Fig. 8. Curcumin treatment prevented cell apoptosis. Cells were pretreated with curcumin and indicated agents followed by the stimulation with glutamate for 8 h. The apoptosis analysis
+was determined with Annexin-V/PI staining by ﬂuorescence microscopy (A) and ﬂow cytometry analysis (B). Data are represented as mean ± SEM of three or four independent experiments. *p b 0.05 vs. the control; #p b 0.05 vs. the indicated treatment.
+
+cytometry analysis further showed that curcumin reduced apoptosis
+cells in a concentration-dependent fashion (Fig. 8B). Consistent with
+the regulation in caspase-3 activity, compound C blocked the action of
+curcumin in the protection of cell survival (Figs. 8A & B).
+
+Curcumin administration attenuated ischemic brain injury in rats
+To conﬁrm the neuroprotective effect of curcumin in vivo, we observed ischemic brain infarction and neurological deﬁcit in rats 24 h
+after MCAO treatment. MCAO treatment induced massive ischemia in
+the brain, indicated by positive TTC staining (Fig. 9A). Nissl staining
+showed cell damage in hippocampus CA1 region after MCAO, as we observed cell shrinkage with condensed nuclei and neuron loss (Fig. 9B).
+Consistent with these changes, neurological deﬁcit in movement was
+observed in rats, demonstrated by movement disorders, less movement
+or irresponsive to stimulation. Curcumin administration reduced infarct
+volume by 2 folds (Fig. 9A) and protected neuronal integrity (Fig. 9B),
+and thereby effectively prevented neurological deﬁcit in rats, evaluated
+by a reduction in deﬁcient scores (Fig. 9C). These results demonstrated
+that curcumin protected the brain against ischemic insult. Similar to the
+action of curcumin, TUDCA administration effectively attenuated brain
+injury in MCAO.
+
+Curcumin treatment inhibited ER stress and NLRP3 expression in rat
+hippocampus
+We further observed the expression of p-IRE1α, p-PERK and NLRP3
+in brain subjected to MCAO treatment by immunohistochemistry staining. As shown in Fig. 10, we observed increased staining for p-IRE1α, pPERK and NLRP3 in rat brain, and these enhanced expressions were
+mainly located in hippocampus CA1 region. Curcumin administration
+prevented these alternations, demonstrating its inhibitory effects on
+ER stress and NLRP3 activation in the hippocampus. TUDCA also effectively attenuated p-IRE1α, p-PERK and NLRP3 expression.
+
+Discussion
+In the present study, we stimulated the hippocampus with glutamate and found that ER stress-associated TXNIP/NLRP3 inﬂammasome
+activation may be another potential pathway for glutamate-induced
+neuronal damage. Our work showed that curcumin inhibited TXNIP/
+NLRP3 inﬂammasome activation by suppressing ER stress, and thereby
+protected neuronal cell survival from glutamate neurotoxicity.
+Brain ischemia induces extrasynaptic glutamate release (Soria et al.,
+2014). Consistent with this, we observed increased glutamate release
+
+Y. Li et al. / Toxicology and Applied Pharmacology 286 (2015) 53–63
+
+61
+
+Fig. 9. Curcumin administration attenuated ischemic brain injury in rats. Rats were administrated with curcumin (i.p.) or TUDCA (i.g.) and brain injury was observed 24 h after middle
+cerebral artery occlusion (MCAO). (A): TTC staining for brain infarct volume (n = 8); (B): Nissl staining of brain section (the result was one from four independent experiments);
+(C): neurological deﬁcit in movement. Arrows indicated the hippocampus CA1 region. The results were expressed as mean ± SEM. *p b 0.05 vs. the control.
+
+and IL-1β secretion in mouse hippocampus subjected to oxygen and
+glucose deprivation treatment. Curcumin treatment inhibited IL-1β secretion, but no inﬂuence was observed on increased glutamate release.
+This result was somewhat different from the published report which
+showed that curcumin inhibited ionomycin-induced glutamate release
+in prefrontal nerve ending (Lin et al., 2012). As a calcium carrier,
+ionomycin-induced glutamate release is an action through regulation
+of synaptic vesicle recruitment and exocytosis, whereas oxygen and glucose deprivation-mediated glutamate release is a result from neuron
+damage, the different stimulations or challenges might be the possible
+explanation for the different results. Similar to the regulation by
+curcumin, ER stress inhibitor TUDCA inhibited IL-1β secretion without
+affection of glutamate release, suggesting that ER stress was an event
+after glutamate release in response to ischemic insult.
+Because oxidative stress is proposed to be involved in glutamate
+neurotoxicity (Lai et al., 2014), and ROS is manifested in ER stress
+(Zhang and Kaufman, 2008), we observed the effect of curcumin on
+ROS production in SH-SY5Y cells. Differentiated SH-SY5Y cells are considered to be tolerant to cytotoxicity and mitochondrial dysfunction
+(Schneider et al., 2011), and therefore we used undifferentiated cells
+in the current study. As a cellular calcium chelator, BAPTA-AM inhibited
+ROS generation, further suggesting that increased cytosolic calcium and
+ROS are involved in glutamate challenge. Curcumin inhibited ROS production, and then it was tempting to know whether this action contributed to suppression of ER stress. As transmembrane sensors for ER
+stress, PERK and IRE1α activation mediate inﬂammatory and apoptotic
+signaling, while ATF6 activation is responsible for acute-phase response
+(Zhang and Kaufman, 2008). Therefore we observed PERK and IRE1α
+phosphorylation for ER stress and found that curcumin inhibited PERK
+and IRE1α activation. The increased protein folding in the endoplasmic
+reticulum leads to ROS accumulation and mitochondrial malfunctionderived ROS exaggerates ER stress (Zhang and Kaufman, 2008). In this
+
+context, ROS is both a causal mediator, and a downstream event, of ER
+stress. As a chemical chaperone, TUDCA modulates endoplasmic reticulum ER function and inhibits ER stress by reducing PERK and eIF2α
+phosphorylation (Ozcan et al., 2006). TUDCA inhibited ROS generation,
+indicating that ER stress inhibition also contributes to reducing ROS
+generation. Curcumin inhibited ROS production and thus prevented
+ER stress. In view of the functional interconnection between ROS and
+ER stress, it is reasonable to believe that the suppression of ER stress
+by curcumin should contribute to attenuating ROS response during ischemic insult.
+AMPK is an energy sensor with regulation of metabolic homeostasis.
+AMPK exerts beneﬁcial effects on neuroprotection in the stroke (Jiang
+et al., 2014; Jiang et al., 2015), but it is not clear whether pharmacological activation of AMPK contributes to protecting the brain against ER
+stress. Curcumin regulates AMPK activity (Soetikno et al., 2013), but
+the action relative with neuroprotection is not known, and therefore
+we wanted to know the potential role of AMPK in the suppression of
+ER stress. AMPKα knockdown using siRNA diminished the inhibitory effects of curcumin on ER stress, indicating that curcumin suppressed ER
+stress through the regulation of AMPK activity. Consistent with the regulation in the hippocampus, AMPKα is shown to be required for inhibition of ER stress in the endothelium (Dong et al., 2010).
+As an endogenous inhibitor of thioredoxin, TXNIP inhibits
+thioredoxin's function to scavenge ROS, leading to cellular oxidative
+stress (Dutta et al., 2005). Recently, TXNIP is documented to be associated with oxidative stress and calcium release in ischemia brain (Kim
+et al., 2012), whereas the relation between TXNIP induction and glutamate neurotoxicity is little known. In the present study, we found that
+glutamate induced TXNIP expression, and this change was abrogated
+by ER stress inhibitor, suggesting the potential connection between ER
+stress and TXNIP induction. Curcumin suppressed ER stress through
+regulation of AMPK, and AMPK knockdown attenuated its inhibitory
+
+62
+
+Y. Li et al. / Toxicology and Applied Pharmacology 286 (2015) 53–63
+
+Fig. 10. Curcumin treatment inhibited ER stress and NLRP3 expression in the rat brain. Rats were administrated with curcumin (i.p.) or TUDCA (i.g.) and expressions for p-IRE1α, p-PERK
+and NLRP3 were examined by immunohistochemistry staining in the brain 24 h after middle cerebral artery occlusion (MCAO). Arrows indicated the hippocampus CA1 region. Data are
+represented as mean ± SEM of four independent experiments. *p b 0.05 vs. the control; #p b 0.05 vs. the indicated treatment.
+
+effect on TXNIP expression, indicating that the action of curcumin in
+the inhibition of TXNIP should be a result derived from its upstream
+suppression of ER stress. In response to ROS stress, TXNIP dissociates
+from thioredoxin, and then binds to NLRP3, leading to NLRP3 activation (Zhou et al., 2010). Given the impact of curcumin on TXNIP induction, it was necessary to know its action in regulation of NLRP3
+inﬂammasome activation. NLRP3 inﬂammasome is a platform for
+IL-1β maturation, during which the cleavage by caspase-1 is
+required for IL-1β secretion. As a result from suppression of ER
+stress-associated TXNIP induction, curcumin inhibited NLRP3 and
+caspase-1 activation, and thereby reduced IL-1β secretion. These results demonstrated that curcumin inhibited NLRP3 inﬂammasome
+activation under ER stress conditions. Consistent with the recently
+published study which shows that curcumin inhibits TLR4/NF-κBdependent inﬂammation in brain injury (Zhou et al., 2010), our ﬁnding
+further provided a potential mechanism through which curcumin inhibits inﬂammatory and oxidative response in the brain (Ahmad et al.,
+2013; Wang et al., 2014; Zhou et al., 2010).
+In addition to regulation of inﬂammation, IL-1β is also responsible
+for mitochondria-dependent apoptosis which is characterized by mitochondrial malfunction and the initiation of caspase cascade. Anti-IL-1β
+antibody inhibited glutamate-mediated caspase-3 activity, indicative
+of the involvement of NLRP3 inﬂammasome activation in apoptosis.
+Curcumin prevented the collapse of mitochondrial membrane potential
+and inhibited caspase-3 activity, and this action should contribute to the
+prevention of cell apoptosis. As expected, curcumin reduced glutamate-
+
+induced apoptosis. These results indicated that curcumin protected
+neuronal survival against glutamate neurotoxicity in a way relative
+with suppression of NLRP3 inﬂammasome activation.
+To conﬁrm the regulation in vivo, we further observed its action in
+rats subjected to brain ischemia. Curcumin reduced infarct area in
+the brain and prevented the damage of neuronal cells, well demonstrated its protection of neuronal integrity against ischemic insult.
+Importantly, immunohistochemistry staining showed the expression of p-IRE1α, p-PERK and NLRP3 in the hippocampus CA1 region
+which is a main location of neuronal bodies and particularly sensitive
+to brain ischemia (Caldeira et al., 2014), indicating that ER stress and
+NLRP3 inﬂammasome in the hippocampus was responsible for neuron damage in brain injury. Curcumin treatment prevented ER stress
+and NLRP3 inﬂammasome activation in the hippocampus, indicating
+the potential molecular target for its action. In line with the observations ex vivo and in vitro, these results further conﬁrmed the beneﬁcial effect of curcumin on the protection of the brain from glutamate
+neurotoxicity.
+In conclusion, our work showed that ER stress-associated TXNIP/
+NLRP3 inﬂammasome activation in the hippocampus was a potential
+molecular pathway for glutamate neurotoxicity in brain injury and elucidated the potential mechanism by which curcumin protected neuronal integrity and function. Moreover, we demonstrated the important
+role of AMPK in curcumin action. Brain ischemia induces glutamate release which evokes ROS-associated ER stress and TXNIP/NLRP3 activation. Due to the regulation of AMPK activity, curcumin suppressed ER
+
+Y. Li et al. / Toxicology and Applied Pharmacology 286 (2015) 53–63
+
+Fig. 11. The proposed molecular pathway for curcumin action in the hippocampus. Brain
+ischemia induces glutamate release which evokes ROS-associated ER stress and downstream TXNIP/NLRP3 activation. Curcumin suppressed ER stress and inhibited TXNIP/
+NLRP3 activation with regulation of AMPK activity, and thereby attenuated glutamate
+neurotoxicity-induced brain injury.
+
+stress, reduced TXNIP expression and inhibited NLRP3 inﬂammasome
+activation by downregulation of NLRP3 and cleaved caspase-1 induction, and thus reduced IL-1β secretion, and ﬁnally attenuated glutamate
+neurotoxicity-induced brain injury. The proposed action pathway was
+shown in Fig. 11. These ﬁndings would contribute to designing novel
+strategies for the application of curcumin in the prevention of brain
+injury.
+Conﬂict of interest statement
+The authors declare that they have no competing interests.
+Acknowledgments
+This study is funded by the Fundamental Research Funds for the
+Central Universities (Program No. JKZD2013009) and the work in our
+department are supported by Priority Academic Program Development
+of Jiangsu Higher Education Institutions (PAPD).
+References
+Ahmad, N., Umar, S., Ashafaq, M., Akhtar, M., Iqbal, Z., Samim, M., Ahmad, F.J., 2013. A
+comparative study of PNIPAM nanoparticles of curcumin, demethoxycurcumin, and
+bisdemethoxycurcumin and their effects on oxidative stress markers in experimental
+stroke. Protoplasma 250, 1327–1338.
+Andrade, C., 2014. A critical examination of studies on curcumin for depression. J. Clin.
+Psychiatry 75, e1110–e1112.
+Burke, J.F., Lisabeth, L.D., Brown, D.L., Reeves, M.J., Morgenstern, L.B., 2012. Determining
+stroke's rank as a cause of death using multicause mortality data. Stroke 43, 2207–2211.
+Caldeira, M.V., Salazar, I.L., Curcio, M., Canzoniero, L.M., Duarte, C.B., 2014. Role of the
+ubiquitin–proteasome system in brain ischemia: friend or foe? Prog. Neurobiol.
+112, 50–69.
+Chhunchha, B., Fatma, N., Kubo, E., Rai, P., Singh, S.P., Singh, D.P., 2013. Curcumin abates
+hypoxia-induced oxidative stress based-ER stress-mediated cell death in mouse hippocampal cells (HT22) by controlling Prdx6 and NF-kappaB regulation. Am. J. Physiol.
+Cell Physiol. 304, C636–C655.
+Choi, A.J., Ryter, S.W., 2014. Inﬂammasomes: molecular regulation and implications for
+metabolic and cognitive diseases. Mol. Cells 37, 441–448.
+Dong, Y., Zhang, M., Liang, B., Xie, Z., Zhao, Z., Asfa, S., Choi, H.C., Zou, M.H., 2010. Reduction of AMP-activated protein kinase alpha2 increases endoplasmic reticulum stress
+and atherosclerosis in vivo. Circulation 121, 792–803.
+
+63
+
+Dong, Y.F., Wang, L.X., Huang, X., Cao, W.J., Lu, M., Ding, J.H., Sun, X.L., Hu, G., 2013. Kir6.1
+knockdown aggravates cerebral ischemia/reperfusion-induced neural injury in mice.
+CNS Neurosci. Ther. 19, 617–624.
+Dutta, K.K., Nishinaka, Y., Masutani, H., Akatsuka, S., Aung, T.T., Shirase, T., Lee, W.H.,
+Yamada, Y., Hiai, H., Yodoi, J., Toyokuni, S., 2005. Two distinct mechanisms for loss
+of thioredoxin-binding protein-2 in oxidative stress-induced renal carcinogenesis.
+Lab. Invest. 85, 798–807.
+Fu, B., Zhang, J., Zhang, X., Zhang, C., Li, Y., Zhang, Y., He, T., Li, P., Zhu, X., Zhao, Y., Zhang, Y.,
+Wang, X., 2014. Alpha-lipoic acid upregulates SIRT1-dependent PGC-1alpha expression and protects mouse brain against focal ischemia. Neuroscience 281C, 251–257.
+Hayashi, T., Saito, A., Okuno, S., Ferrand-Drake, M., Dodd, R.L., Chan, P.H., 2004. Oxidative
+injury to the endoplasmic reticulum in mouse brains after transient focal ischemia.
+Neurobiol. Dis. 15, 229–239.
+Ishrat, T., Mohamed, I.N., Pillai, B., Soliman, S., Fouda, A.Y., Ergul, A., El-Remessy, A.B.,
+Fagan, S.C., 2015. Thioredoxin-interacting protein: a novel target for neuroprotection
+in experimental thromboembolic stroke in mice. Mol. Neurobiol. 51, 766–778.
+Jiang, T., Yu, J.T., Zhu, X.C., Wang, H.F., Tan, M.S., Cao, L., Zhang, Q.Q., Gao, L., Shi, J.Q., Zhang,
+Y.D., Tan, L., 2014. Acute metformin preconditioning confers neuroprotection against
+focal cerebral ischaemia by pre-activation of AMPK-dependent autophagy. Br.
+J. Pharmacol. 171, 3146–3157.
+Jiang, T., Yu, J.T., Zhu, X.C., Zhang, Q.Q., Tan, M.S., Cao, L., Wang, H.F., Shi, J.Q., Gao, L., Qin,
+H., Zhang, Y.D., Tan, L., 2015. Ischemic preconditioning provides neuroprotection by
+induction of AMP-activated protein kinase-dependent autophagy in a rat model of ischemic stroke. Mol. Neurobiol. 51, 220–229.
+Kim, G.S., Jung, J.E., Narasimhan, P., Sakata, H., Chan, P.H., 2012. Induction of thioredoxininteracting protein is mediated by oxidative stress, calcium, and glucose after brain
+injury in mice. Neurobiol. Dis. 46, 440–449.
+Lai, T.W., Zhang, S., Wang, Y.T., 2014. Excitotoxicity and stroke: identifying novel targets
+for neuroprotection. Prog. Neurobiol. 115, 157–188.
+Lee, J.J., Li, L., Jung, H.H., Zuo, Z., 2008. Postconditioning with isoﬂurane reduced ischemiainduced brain injury in rats. Anesthesiology 108, 1055–1062.
+Lim, G.P., Chu, T., Yang, F., Beech, W., Frautschy, S.A., Cole, G.M., 2001. The curry spice
+curcumin reduces oxidative damage and amyloid pathology in an Alzheimer transgenic mouse. J. Neurosci. 21, 8370–8377.
+Lin, T.Y., Lu, C.W., Huang, S.K., Wang, S.J., 2012. Curcumin inhibits glutamate release from
+rat prefrontal nerve endings by affecting vesicle mobilization. Int. J. Mol. Sci. 13,
+9097–9109.
+Maier, P.J., Zemoura, K., Acuna, M.A., Yevenes, G.E., Zeilhofer, H.U., Benke, D., 2014.
+Ischemia-like oxygen and glucose deprivation mediates down-regulation of cell surface gamma-aminobutyric acidB receptors via the endoplasmic reticulum (ER)
+stress-induced transcription factor CCAAT/enhancer-binding protein (C/EBP)-homologous protein (CHOP). J. Biol. Chem. 289, 12896–12907.
+Oslowski, C.M., Hara, T., O'Sullivan-Murphy, B., Kanekura, K., Lu, S., Hara, M., Ishigaki, S.,
+Zhu, L.J., Hayashi, E., Hui, S.T., Greiner, D., Kaufman, R.J., Bortell, R., Urano, F., 2012.
+Thioredoxin-interacting protein mediates ER stress-induced beta cell death through
+initiation of the inﬂammasome. Cell Metab. 16, 265–273.
+Ozcan, U., Yilmaz, E., Ozcan, L., Furuhashi, M., Vaillancourt, E., Smith, R.O., Gorgun, C.Z.,
+Hotamisligil, G.S., 2006. Chemical chaperones reduce ER stress and restore glucose
+homeostasis in a mouse model of type 2 diabetes. Science 313, 1137–1140.
+Schneider, L., Giordano, S., Zelickson, B.R., S Johnson, M., A Benavides, G., Ouyang, X.,
+Fineberg, N., Darley-Usmar, V.M., Zhang, J., 2011. Differentiation of SH-SY5Y cells to
+a neuronal phenotype changes cellular bioenergetics and the response to oxidative
+stress. Free Radic. Biol. Med. 51, 2007–2017.
+Soetikno, V., Sari, F.R., Sukumaran, V., Lakshmanan, A.P., Harima, M., Suzuki, K., Kawachi,
+H., Watanabe, K., 2013. Curcumin decreases renal triglyceride accumulation through
+AMPK–SREBP signaling pathway in streptozotocin-induced type 1 diabetic rats.
+J. Nutr. Biochem. 24, 796–802.
+Soria, F.N., Perez-Samartin, A., Martin, A., Gona, K.B., Llop, J., Szczupak, B., Chara, J.C.,
+Matute, C., Domercq, M., 2014. Extrasynaptic glutamate release through cystine/glutamate antiporter contributes to ischemic damage. J. Clin. Invest. 124, 3645–3655.
+Tymianski, M., 2011. Emerging mechanisms of disrupted cellular signaling in brain ischemia. Nat. Neurosci. 14, 1369–1373.
+Wang, Z., Zhang, Q., Yuan, L., Wang, S., Liu, L., Yang, X., Li, G., Liu, D., 2014. The effects of
+curcumin on depressive-like behavior in mice after lipopolysaccharide administration. Behav. Brain Res. 274, 282–290.
+Wu, J., Li, Q., Wang, X., Yu, S., Li, L., Wu, X., Chen, Y., Zhao, J., Zhao, Y., 2013a. Neuroprotection by curcumin in ischemic brain injury involves the Akt/Nrf2 pathway. PLoS One 8,
+e59843.
+Wu, N., Zheng, B., Shaywitz, A., Dagon, Y., Tower, C., Bellinger, G., Shen, C.-H., Wen, J.,
+Asara, J., McGraw, T.E., 2013b. AMPK-dependent degradation of TXNIP upon energy
+stress leads to enhanced glucose uptake via GLUT1. Mol. Cell 49, 1167–1175.
+Yang, F., Wang, Z., Wei, X., Han, H., Meng, X., Zhang, Y., Shi, W., Li, F., Xin, T., Pang, Q., Yi, F.,
+2014. NLRP3 deﬁciency ameliorates neurovascular damage in experimental ischemic
+stroke. J. Cereb. Blood Flow Metab. 34, 660–667.
+Zhang, K., Kaufman, R.J., 2008. From endoplasmic-reticulum stress to the inﬂammatory
+response. Nature 454, 455–462.
+Zhou, R., Tardivel, A., Thorens, B., Choi, I., Tschopp, J., 2010. Thioredoxin-interacting protein links oxidative stress to inﬂammasome activation. Nat. Immunol. 11, 136–140.
+
+

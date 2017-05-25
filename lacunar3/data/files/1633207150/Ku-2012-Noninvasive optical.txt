@@ -1,0 +1,966 @@
+﻿Noninvasive Optical Measurement of Cerebral Blood
+Flow in Mice Using Molecular Dynamics Analysis of
+Indocyanine Green
+Taeyun Ku1, Chulhee Choi1,2,3*
+1Graduate School of Medical Science and Engineering, KAIST, Daejeon, Republic of Korea, 2Department of Bio and Brain Engineering, KAIST, Daejeon, Republic of Korea,
+3KI for the BioCentury, KAIST, Daejeon, Republic of Korea
+Abstract
+In preclinical studies of ischemic brain disorders, it is crucial to measure cerebral blood flow (CBF); however, this requires
+radiological techniques with heavy instrumentation or invasive procedures. Here, we propose a noninvasive and easy-to-use
+optical imaging technique for measuring CBF in experimental small animals. Mice were injected with indocyanine green
+(ICG) via tail-vein catheterization. Time-series near-infrared fluorescence signals excited by 760 nm light-emitting diodes
+were imaged overhead by a charge-coupled device coupled with an 830 nm bandpass-filter. We calculated four CBF
+parameters including arrival time, rising time and mean transit time of a bolus and blood flow index based on time and
+intensity information of ICG fluorescence dynamics. CBF maps were generated using the parameters to estimate the status
+of CBF, and they dominantly represented intracerebral blood flows in mice even in the presence of an intact skull and scalp.
+We demonstrated that this noninvasive optical imaging technique successfully detected reduced local CBF during middle
+cerebral artery occlusion. We further showed that the proposed method is sufficiently sensitive to detect the differences
+between CBF status in mice anesthetized with either isoflurane or ketamine–xylazine, and monitor the dynamic changes in
+CBF after reperfusion during transient middle cerebral artery occlusion. The near-infrared optical imaging of ICG
+fluorescence combined with a time-series analysis of the molecular dynamics can be a useful noninvasive tool for preclinical
+studies of brain ischemia.
+Citation: Ku T, Choi C (2012) Noninvasive Optical Measurement of Cerebral Blood Flow in Mice Using Molecular Dynamics Analysis of Indocyanine Green. PLoS
+ONE 7(10): e48383. doi:10.1371/journal.pone.0048383
+Editor: Jean-Claude Baron, University of Cambridge, United Kingdom
+Received April 27, 2012; Accepted September 24, 2012; Published October 31, 2012
+Copyright: 2012 Ku, Choi. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: This research was supported by a grant (2011K000286) from the Brain Research Center of the 21st Century Frontier Research Program, funded by the
+Ministry of Education, Science and Technology, the Republic of Korea (to C.C.). The funders had no role in study design, data collection and analysis, decision to
+publish, or preparation of the manuscript.
+Competing Interests: The authors have declared that no competing interests exist.
+* E-mail: cchoi@kaist.ac.kr
+Introduction
+Measurement of cerebral blood flow (CBF) is essential for the
+diagnosis and monitoring of stroke patients. Nuclear imaging
+methods that detect radioactive tracers by positron emission
+tomography [1] and radiological imaging methods, such as
+computed tomography (CT) [2,3] and magnetic resonance
+imaging (MRI) [4,5], are widely used for noninvasive measurement
+of CBF. In basic research involving small animals, the
+application of these methods is restricted especially for longitudinal
+studies due to limitations that include the high cost of equipment,
+risk from radiation, and the low availability of portable devices. As
+an alternative, optical approaches have gained increasing attention
+for detection of CBF.
+Optical methods for measuring CBF include the use of
+fluorescent tracers and label-free techniques. Laser Doppler
+flowmetry, a label-free optical technique, measures the velocity
+of circulating red blood cells in the bloodstream by the Doppler
+effect, and is commonly used to monitor the relative change in
+CBF in experimental animals [6]. Optical micro-angiography,
+based on optical coherence tomography, was recently developed
+for the label-free measurement of blood velocity in small vessels in
+mice [7]; however, practical applications of these techniques in the
+preclinical setting are limited. Laser Doppler flowmetry is not
+sensitive enough to estimate regional CBF and detects only the
+relative changes [8]; whereas optical micro-angiography has a
+critical limitation in that the scalp of small animals must be
+removed to obtain sufficient resolution to identify red blood cell
+movement in small vessels.
+In contrast to label-free techniques, optical techniques using
+fluorescent tracers can significantly enhance the signal-to-noise
+ratio (SNR) using intravascular contrast agents. In addition, these
+techniques have the advantage of extracting kinetic information by
+time-series analysis of fluorescence signals after the bolus injection
+of the tracers. Indocyanine green (ICG) is a fluorescent probe
+clinically used for liver function tests [9] and angiography in
+ophthalmology [10]. ICG is excited in the near-infrared (NIR)
+wavelength range [11], and deeper penetration of NIR wavelength
+light in tissues is enabled due to a lesser degree of absorption and
+scattering [12]. Intravenously injected ICG rapidly binds to serum
+albumin and remains confined in the vessels until it is removed via
+clearance through the liver [11]. Kinetic information of the ICG
+bolus enhances detection of deep organs by enriching of organspecific
+information including differences in filling and wash-out
+patterns [13,14] and detection of tissue blood flow in experimental
+animals [15,16] and humans [17–20]. Hillman et al. described
+PLOS ONE | www.plosone.org 1 October 2012 | Volume 7 | Issue 10 | e48383
+(WITH PDF Extractor SDK TRIAL VERSION)
+such approaches in detail and termed them dynamic contrast
+enhancement (DyCE) technique [21]. We demonstrated recently
+that analysis of ICG molecular dynamics can be used to estimate
+peripheral tissue perfusion semi-quantitatively in mice [16] and
+humans [17,22]. However, this approach has not been applied for
+the detection of CBF due to the different hemodynamic
+characteristics of the brain, which has a rapidly moving and
+abundant blood supply. Near-infrared spectroscopy (NIRS) has
+been used primarily to detect ICG absorption signals in the brain
+[23,24]. Measurement of CBF using NIRS and ICG was first
+demonstrated to be effective in animals [15,25], and was then
+rapidly applied to humans because of its noninvasive characteristics
+[18,26–28]. However, detection of NIRS signals above the
+human scalp is highly limited by the presence of a large amount of
+noise. This limitation is mainly due to the thick extracerebral
+tissues, including the scalp, skull, and dura mater; therefore, there
+have been significant efforts to separate intracerebral from
+extracerebral signals [27,29,30]. While methods such as CT or
+MRI provide two- (2D) or three-dimensional (3D) images that
+provide valuable information about CBF, NIRS can detect blood
+flow information only at several points upon the head due to its
+limited spatial resolution. It is reported that the detection of ICG
+fluorescent signal is more sensitive than the detection of absorption
+signals by NIRS when used as a point detection approach [31,32].
+Woitzik and his colleagues obtained 2D blood flow maps using
+ICG fluorescent imaging, although the method was applicable
+only during an invasive surgical procedure where the scalp and
+skull of the patient were totally removed [33].
+While optical penetration is restricted by the thick extracerebral
+tissues in humans, sufficiently high SNR can be achieved in
+experimental small animals–such as mice–because of their
+relatively thin extracerebral tissues. We propose an optical imaging
+technique that measures CBF in mice noninvasively through a
+combined ICG molecular dynamics analysis. To the best of our
+knowledge, this is the first report to examine the feasibility of
+noninvasive fluorescence imaging for measurement of CBF in
+small animals.
+Results
+Analysis of the Molecular Dynamics of ICG for Twodimensional
+Measurement of CBF in Mice
+To obtain the molecular dynamics of ICG in mouse brain, we
+acquired time-series fluorescence images over the mouse head
+after a bolus injection of ICG (Figure 1B). The dynamics in each
+pixel typically consisted of the first peak followed by subsequent
+peaks formed by systemic recirculation (Figure 1C). The relative
+intensities and time points of each peak were distinct in different
+tissues. The time point of the first peak over the cerebrum was
+earlier than those in the large vein and the extra-cranial skeletal
+muscle. The first peak in the skeletal muscle showed lower
+intensity than later peaks. We extracted T
+rising
+values from the first
+peak as a representative parameter of the status of tissue blood
+supply. T
+rising
+was calculated by subtracting T
+arrival
+, the time of
+appearance of the bolus, from the first peak time (T
+peak
+)
+(Figure 1D). The average T
+rising
+value over a somatosensory
+cortical region of nine mice anesthetized with isoflurane was
+2.760.1 s. T
+rising
+values in each pixel were reconstructed to create
+a 2D CBF map (Figure 1E). The CBF map clearly revealed the
+shape of the mouse brain. This finding indicates that ICG
+fluorescence imaging combined with analysis of molecular
+dynamics can separate the brain from adjacent tissues using the
+differences in hemodynamic parameters in mice with intact skulls.
+Intracranial CBF was Dominantly Detected by Time-series
+Optical Imaging of ICG Fluorescence
+We next investigated whether the blood flow information
+observed in the area of the shape of the mouse cerebrum on the
+CBF map was originated from intracranial brain tissue. Above the
+cerebral cortex of the mouse are multiple layers of extracerebral
+tissues, including the scalp, skull, and dura mater. Because these
+extracerebral tissues also have blood vessels and blood supply, we
+compared fluorescence dynamics over the cranium to those
+directly over the cerebrum. When we removed the extracerebral
+tissues above the hemisphere of a scalp-removed mouse by
+craniotomy with complete excision of the dura mater (Figure 2A),
+we found no difference in the pattern in dynamics between the
+contralateral region with the skull and dura mater and the
+ipsilateral region lacking these extracerebral tissues (Figure 2B).
+We further evaluated whether ICG fluorescence imaging with
+time-series analysis of molecular dynamics could detect CBF
+noninvasively. We shaved only the scalp to minimize the
+invasiveness of the procedure. The CBF maps successfully
+displayed the shape of the underlying brain both in white ICR
+mice and black C57Bl/6 mice (Figure 2C and D). Even though
+the dynamics of the extracerebral flow were not extractable from
+the dynamics of the intracerebral flow, the degree of influence by
+the extracerebral signals warranted further evaluation. Therefore,
+we selectively blocked either the extracerebral or the intracerebral
+blood flow by selective vascular occlusion, and subsequently
+examined the CBF maps. To selectively reduce intracerebral
+blood flow, we ligated the ICA and occluded the MCA by
+inserting a suture filament that preserved the intact ECA
+(Figure 2E). To selectively reduce the extracerebral flow, we
+ligated the ECA (Figure 2F). Selective blockade of the intracerebral
+blood flow prominently increased the T
+rising
+parameters of the
+pixels in the ipsilateral hemisphere, both in a scalp-removed
+mouse and in an intact-scalp mouse (Figure 2G and H). In
+contrast, although ligation of the ECA effectively reduced the
+delivery of ICG to the extracerebral tissues (Figure S1), it did not
+significantly alter the T
+rising
+map regardless of scalp removal
+(Figure 2I and J). These results collectively indicate that the timeseries
+optical imaging of ICG fluorescence can successfully detect
+blood flow, dominantly representing intracerebral blood flow even
+in the presence of extracerebral tissues in mice.
+Four Types of Blood Flow Map and Application to
+Cerebral Ischemia
+We next selected three more parameters in addition to T
+rising
+from the ICG time kinetics, with or without intensity information,
+to improve the CBF estimates (Table 1). T
+arrival
+was selected as the
+time axis. We calculated the mean transit time (MTT) as the
+center of gravity of the dynamic curve and the blood flow index
+(BFI) as the slope of the first peak [3,15]. Four parameters were
+used to generate independent CBF maps. We investigated changes
+in CBF maps under cerebral ischemia conditions. We induced
+focal cerebral ischemia in mice by middle cerebral artery occlusion
+(MCAO) surgery. Representative CBF maps for a normal brain
+before MCAO and an ischemic brain during MCAO are
+displayed in Figure 3A. All four maps showed altered hemodynamic
+parameters in the ischemic hemisphere compared to those
+in the normal hemisphere. Lateral regions of the cerebral cortex
+are supplied primarily by the middle cerebral artery (MCA), but
+they also receive a fraction of their blood supply from the anterior
+cerebral artery (ACA) on the medial side through anastomoses in
+the case of MCAO [34]. In ischemic brains where the MCA is
+occluded, flow from the ACA partially recovers the blood supply of
+Noninvasive Optical Imaging of Brain Perfusion
+PLOS ONE | www.plosone.org 2 October 2012 | Volume 7 | Issue 10 | e48383
+( 8.0.0.2542.1038218255 PDF Extractor SDK EVAL VERSION)
+lateral regions. Consistent with this notion, the T
+arrival
+map
+showed a gradual delay in the arrival of the ICG bolus from the
+medial to the lateral side. However, in the T
+rising
+map, the entire
+cortex in the ipsilateral hemisphere showed increased T
+rising
+values. An increase in MTT was also observed in the ipsilateral
+hemisphere. The dynamic analysis clearly indicated that not only
+the lateral regions primarily supplied by the MCA but also the
+medial regions supplied by the ACA received a decreased blood
+supply by MCAO, although the ACA flow was not disturbed
+directly. Because the dynamics observed in the supra-capillary
+resolution dominantly represent capillary flow (Figure S2), the
+delay in the arrival of the bolus through arterial vessels did not
+match the tissue blood flow status estimated by T
+rising
+and MTT.
+The BFI values, which utilize the rising time as the denominator,
+were lower in the lateral regions, indicating a noticeable decrease
+in blood volume.
+Average values of parameters in the regions over left
+somatosensory cortices in nine mice were calculated and
+compared before and during MCAO (Figure 3B). Because T
+arrival
+is affected by the time of initiation of the bolus injection, only
+Figure 1. Time-series fluorescence imaging of indocyanine green (ICG) on a mouse head and generation of a cerebral blood flow
+(CBF) map. (A) Schematic of imaging setup. (B) Time-series acquisition of fluorescence images after intravenous bolus injection of ICG. The scalp was
+excised and the bregma was positioned at the center of the images (scale bar: 2 mm). (C) ICG dynamics in three pixels after injection of an ICG bolus,
+indicated in (B). Different regions of interest are indicated by colored shapes (red circle, cerebrum; green rectangle, large vein; blue triangle, skeletal
+muscle). (D) Smoothed and interpolated dynamics were plotted as a solid line, and the arrival time (T
+arrival
+) and the first peak time (T
+peak
+) for
+calculating the rising time (T
+rising
+) are indicated on the time axis. (E) A representative CBF map drawn using the T
+rising
+parameter. CCD, charge-coupled
+device; LED, light-emitting diode; a.u., arbitrary unit; T
+max
+, maximum intensity time.
+doi:10.1371/journal.pone.0048383.g001
+Noninvasive Optical Imaging of Brain Perfusion
+PLOS ONE | www.plosone.org 3 October 2012 | Volume 7 | Issue 10 | e48383
+(EVALUATION PDF Extractor SDK 8.0.0.2542.686846364)
+Noninvasive Optical Imaging of Brain Perfusion
+PLOS ONE | www.plosone.org 4 October 2012 | Volume 7 | Issue 10 | e48383
+(EVALUATION PDF Extractor SDK 8.0.0.2542.686846364)
+T
+rising
+, MTT, and BFI showed significant differences between
+groups (t-test, p,0.001). In contrast, when the parameters in the
+ipsilateral ischemic hemispheres were compared to those in the
+contralateral normal hemispheres during MCAO in individual
+mice, all four parameters exhibited statistically significant differences
+(paired t-test, p,0.001) (Figure 3C). These results clearly
+indicate that CBF parameters and maps are capable of detecting
+cerebral ischemia status.
+Detection of Cerebral Hemodynamic Changes using CBF
+Maps
+We expanded our application of CBF maps to other experimental
+conditions accompanying cerebral hemodynamic changes.
+Figure 2. Intracranial blood flow parameters are predominantly measured by dynamic fluorescence imaging analysis. (A) Image of a
+mouse head (in which the extracerebral tissues were totally removed in the left hemisphere) and a T
+rising
+map. To remove extracerebral tissues, the
+scalp was excised, and a craniotomy was applied along with dura mater excision. (B) ICG dynamics of a region from which all extracerebral tissues
+were removed (red line) and a contralateral region with intact skull and dura mater (blue line). (C and D) Representative T
+rising
+maps of a head with an
+intact scalp in an ICR mouse (C) and a C57Bl/6 mouse (D). (E and F) Diagrams of the selective block of blood supply to intracerebral (E) and
+extracerebral (F) tissues. (G and H) Left internal carotid artery (ICA) was ligated, and a nylon suture filament was inserted toward the middle cerebral
+artery (MCA) to block the intracerebral blood supply. The external carotid artery (ECA) was ligated to block the extracerebral blood supply. T
+rising
+maps for the selective block of the intracerebral blood supply in a scalp-removed mouse (G) and an intact-scalp mouse (H). (I and J) T
+rising
+maps for
+the selective block of the extracerebral blood supply in a scalp-removed mouse (I) and an intact-scalp mouse (J). All mice were anesthetized with
+ketamine and xylazine. CCA, common carotid artery.
+doi:10.1371/journal.pone.0048383.g002
+Figure 3. Types of CBF maps and a comparison of CBF parameters in normal and ischemic hemispheres. (A) Representative CBF maps
+using the four parameters described in Table 1 were generated from a normal condition (left panels) and an ischemic condition in which the left MCA
+was occluded (right panels). (B) Average blood flow parameters of regions over left somatosensory cortices of nine mice before and after MCA
+occlusion (MCAO) surgery. T
+rising
+and blood flow index (BFI) parameters showed significant differences between the normal and ischemic conditions
+(t-test, ***p,0.001). (C) Average blood flow parameters of regions over ipsilateral ischemic somatosensory cortices were compared to those regions
+over contralateral normal cortices in nine mice during MCAO. All four parameters showed significant differences (paired t-test, ***p,0.001). MTT,
+mean transit time; Contra, contralateral region; Ipsi, Ipsilateral region.
+doi:10.1371/journal.pone.0048383.g003
+Noninvasive Optical Imaging of Brain Perfusion
+PLOS ONE | www.plosone.org 5 October 2012 | Volume 7 | Issue 10 | e48383
+(DEMO VERSION PDF Extractor SDK 8.0.0.2542.1457374292)
+First, we anesthetized two groups of mice using different
+anesthetics and compared their CBF maps. Inhalation of
+isoflurane increases CBF, and injection of a ketamine–xylazine
+cocktail (K–X) causes a decrease in CBF through its effects on
+systemic hemodynamic functions [35–37]. In T
+rising
+maps, the
+overall T
+rising
+value in mice anesthetized with K–X was larger than
+that in mice anesthetized by isoflurane (Figure 4A). Average values
+in somatosensory regions in the K–X group resulted in significantly
+increased T
+arrival
+,T
+rising
+, and MTT and decreased BFI (ttest
+, p = 0.001 for T
+arrival
+and p,0.001 for others) (Figure 4B).
+Second, we obtained serial CBF maps throughout the time
+course of transient MCAO (Figure 4C). Images were taken before
+MCAO surgery, at 15 min after MCAO induction, and at 5 min,
+and 2, 6, and 24 h after reperfusion following 45 min of occlusion.
+Table 1. Definitions and interpretations of cerebral blood flow (CBF) map parameters.
+Map parameter Definition Interpretation Reference
+Arrival time (T
+arrival
+) Initiation time of rise of the first passage
+after bolus injection.
+T
+arrival
+reflects the fastest vascular path from the heart.
+Marked occlusion of major arteries will alter T
+arrival
+maps. Absolute value of T
+arrival
+is affected largely by
+the bolus injection method.
+[44]
+Rising time (T
+rising
+)* Time taken to reach
+the first peak after arrival of bolus.
+Trising~Tpeak{Tarrival
+T
+rising
+may be a primary choice for evaluation of local
+tissue perfusion. Volume of blood supply is
+represented in T
+rising
+maps with a high contrast.
+[26]
+Mean transit time (MTT) Mean detection time of ICG
+particles in a region of interest. MTT~
+P
+t
+t:I(t)
+P
+t
+I(t)
+MTT calculates whole blood supply including delayed
+collateral flows. MTT may be a better choice in cases
+of low signal-to-noise ratios.
+[27]
+Blood flow index (BFI)* The slope of the first peak in
+a time-intensity curve. BFI~
+Ipeak{Iarrival
+Tpeak{Tarrival
+BFI represents overall blood volume information
+with respect to time.
+[15,33]
+*Other reports may use T
+max
+and I
+max
+instead of T
+peak
+and I
+peak
+, respectively.
+t, observation time point; I(t), intensity function of time; I
+peak
+, intensity of the first peak; T
+peak
+, time of I
+peak
+;I
+arrival
+, intensity at T
+arrival
+;I
+max
+, maximum intensity; T
+max
+, time
+of I
+max
+.
+doi:10.1371/journal.pone.0048383.t001
+Figure 4. Detection of cerebral hemodynamic changes using CBF maps. (A) Representative T
+rising
+maps for mice anesthetized with either
+1.5% isoflurane or 0.1 mg/g ketamine and 0.01 mg/g xylazine. (B) Averaged CBF parameters of regions over left somatosensory cortices of six mice
+anesthetized with isoflurane and six mice anesthetized with ketamine and xylazine. T
+arrival
+,T
+rising
+, and MTT parameters increased significantly, and BFI
+parameter was decreased significantly, in ketamine and xylazine group (t-test, **p,0.01; ***p,0.001). (C) Timeline of the transient MCAO protocol
+(upper diagram) and representative T
+rising
+maps (lower panels). Reperfusion (RP) was induced at 45 min after MCA occlusion. The six time points for
+imaging acquisition are indicated under the timeline.
+doi:10.1371/journal.pone.0048383.g004
+Noninvasive Optical Imaging of Brain Perfusion
+PLOS ONE | www.plosone.org 6 October 2012 | Volume 7 | Issue 10 | e48383
+(TRIAL PDF Extractor SDK 8.0.0.2542-1988927004)
+The CBF status of the two hemispheres could be identified in CBF
+maps at each imaging time-point. These results indicate that CBF
+maps can be used to monitor CBF status affected by hemodynamic
+conditions or CBF changes after cerebral ischemic events.
+Discussion
+We demonstrated that optical imaging using the NIR fluorescence
+dye, ICG, combined with a time-series analysis of the
+molecular dynamics, can be used for noninvasive analysis of CBF.
+The patterns of ICG dynamics were distinct in each tissue, and the
+differences could be successfully expressed using four dynamic
+parameters including the T
+arrival
+, T 
+rising
+, MTT, and BFI. Blood
+flow maps generated using these parameters clearly identified the
+shape of the mouse cerebrum and detected changes in CBF during
+cerebral ischemia. Hair removal alone was sufficient for imaging of
+normal and reduced CBF induced by selective vascular occlusion
+surgery. We further confirmed that this technique can be used to
+compare CBF status in animals anesthetized with different
+anesthetics and to monitor changes in CBF after induction of
+cerebral ischemia followed by reperfusion.
+Our results clearly demonstrate that the dynamics of the
+intracerebral CBF are dominantly detected by dynamic fluorescence
+imaging, even in the presence of extracerebral tissues. Due
+to deeper penetration of NIR wavelength light, signals from
+sufficiently deep brain tissue are collected, and the portion of
+detected signals from the relatively thin extracerebral tissues may
+be negligible. We found that the intensity of fluorescence signals
+that originated below the scalp was up to four times higher than
+those from within the scalp. A large portion of extracerebral
+signals may be masked by strong intracerebral signals, and
+qualitative analysis of intracerebral flow may not be practically
+interrupted, as shown in Figure 2H.
+Repetitive ICG injections and CBF measurements were feasible
+as shown in Figure 4C. Reinduction of anesthesia after a recovery
+period may require repeated catheterization procedures, and the
+number of attempts for venous puncture on tail veins will be
+limited. This may restrict the practical repeatability of ICG
+imaging. During experiments, the injection route was retained
+using catheterization; waiting 10 min was sufficient to carry out
+subsequent ICG injections and imaging. However, excessive
+repetition of injections should be avoided in a single animal over
+a short period considering plasma volume overload.
+Each of the four blood flow parameters provided unique
+information regarding CBF, and the combined analysis enhanced
+the interpretation of the CBF condition such as hypoperfusion,
+anastomoses, and collateral blood supply induced by experimental
+intervention of CBF. T
+arrival
+represents the first detectable bolus to
+arrive through different passages. Under an ischemic condition,
+T
+arrival
+could be used to indicate which blood supply feeds the
+ischemic region. Even in the case in which the decrease in tissue
+blood flow was not so prominent by a T
+rising
+map or a MTT map,
+the T
+arrival
+map could be used to determine the success of an
+attempt to interrupt arterial sources. The T
+rising
+parameter
+provides a highest contrast map between ipsilateral and contralateral
+hemispheres in MCAO and should be the first choice to
+estimate changes in CBF status. Because the T
+rising
+parameter
+eliminates the effect of injection time uncertainty by subtracting
+T
+arrival
+, a direct comparison of T
+rising
+and its derivative, BFI is also
+possible for results obtained from independent experiments. MTT
+is traditionally introduced in radiological imaging methods [3] and
+is currently used for analysis of ICG dynamics detected by
+methods such as NIRS [27]. MTT is theoretically calculated from
+the first passage of the bolus [38] but can also be calculated
+without eliminating recirculation [39]. MTT is referred to as the
+transition time after the bolus arrives at a pixel or a region of
+interest, so it is subtracted by arterial input dynamics suitable for
+the pixel or the region. Practically a large artery observed in the
+same image is chosen for global use as an arterial input function.
+As such large reference arteries are hard to utilize in 2D projected
+fluorescence images, we calculated MTT using fixed interval
+dynamics after T
+arrival
+without compensating for the arterial input
+function. Although this approach may decrease MTT accuracy
+compared to that observed in mice using other methods [40], it is
+sufficient to compare region by region in the same hemisphere or
+between two hemispheres in an identical mouse. Because a
+relatively larger amount of information on the time axis is used to
+calculate MTT than other parameters, the MTT is particularly
+useful for analyzing low SNR dynamics. BFI is a parameter widely
+used to analyze ICG dynamics [15,33]. BFI considers not only
+temporal information but also intensity information. The intensity
+value is used for blood volume information during derivation of
+the BFI [15]. Therefore, the ICG injection volume determines the
+scale of the BFI, and its control is important for comparisons
+among animals.
+Bolus arrival can be greatly affected by injection method, the
+size of the animals, and environmental factors such as room
+temperature. Automatically injecting the ICG bolus using a
+syringe pump and triggered initiation of imaging acquisition will
+reduces the variability of bolus arrival and enhance the accuracy of
+T
+arrival
+parameters. T
+rising
+, MTT, and BFI are free from the
+injection time variation, and they significantly distinguished the
+ischemic hemispheres among individual experiments. However,
+regardless of variation in injection time, all four parameters are
+good candidates for analyzing blood flow in a single mouse to
+compare region by region or an ipsilateral hemisphere with a
+contralateral hemisphere.
+We were not only able to detect local remarkable decreases in
+CBF such as MCAO using CBF maps, but also global CBF
+changes using different anesthetics or subtle changes in local CBF
+using serial imaging during the course of transient MCAO
+(Figure 4). K–X is expected to decrease CBF compared to
+isoflurane [37], and all four CBF parameters showed corresponding
+differences. However, users who compare CBF parameters
+among animals anesthetized with different anesthetics must be
+aware that MTT can be biased by the anesthetic. Decreased
+hepatic ICG clearance by isoflurane, in contrast to increased liver
+enzyme activity by K–X, may reduce the decrease in late-time
+intensity [41,42]. Because MTT takes a larger portion of the
+dynamics into account than do the other parameters, the central
+gravity of the dynamic might be shifted to the right.
+In this study, we used a charge-coupled device (CCD) camera at
+a low frame rate (580 ms per frame) to enhance the SNR of NIR
+fluorescence signals and increased the temporal resolution by postprocessing
+of dynamics, including smoothing and interpolation.
+Signals obtained by high SNR CCD enabled easy and accurate
+determinations of the initiation points and the maximum points of
+the first peak rise to calculate T
+arrival
+and T
+peak
+. Other acquisition
+devices with high frame rates could also be used, and they may
+provide high temporal resolution. However, fine algorithms to
+determine T
+arrival
+and T
+peak
+might be required in the absence of
+proper signal-processing procedures. Imaging with a higher frame
+rate system was reported by Hillman et al., and alternative
+mathematical approaches to extraction of different dynamic
+components from complicated in vivo signals were introduced
+[21]. The technical aspects of tail-vein injection were also
+described in detail in that study. Despite the non-invasiveness
+and accessibility advantages, CBF optical imaging by analysis of
+Noninvasive Optical Imaging of Brain Perfusion
+PLOS ONE | www.plosone.org 7 October 2012 | Volume 7 | Issue 10 | e48383
+(PDF Extractor SDK TRIAL VERSION)
+the molecular dynamics of ICG has limitations in terms of
+dimensionality. The acquired images were projected in two
+dimensions, and this method cannot provide 3D blood flow
+information, as provided by CT or MRI. According to the central
+volume theorem, the regional CBF can be calculated by dividing
+the fractional cerebral blood volume by the MTT [3]. However,
+the reference arterial voxel required to adjust the MTT and to
+calculate the fraction of blood volume cannot be obtained because
+the arterial pixel was not identifiable due to poor resolution of the
+current imaging setting, and the projected pixel contains
+summated information from all of the vertically aligned nonarterial
+voxels. Therefore, several hemodynamic parameters,
+which can be calculated in 3D imaging techniques, may not be
+applied in this 2D optical imaging method.
+Other limitations of the current technique involve quantitative
+calculation of CBF. First, T
+arrival
+,T
+peak
+,T
+max
+,T
+rising
+, and MTT
+are not expressed in terms of volume per unit time per unit tissue
+weight (e.g., mL/100 g/min), the standard unit of tissue blood
+flow. These parameters provide a qualitative rather than
+quantitative comparison of CBF status. Especially under ischemic
+conditions, a bolus can arrive from more than two arteries with
+different time kinetics. Thus, the shape and height of the peaks are
+altered, making it difficult to estimate the status of CBF using
+simple parameters. Therefore, more than one parameter should be
+considered for precise interpretation, and quantitative parameters
+that do not depend on the shape of the peaks must eventually be
+devised.
+Materials and Methods
+Animal Preparation
+Eight-week-old male ICR and C57Bl/6 mice were obtained
+from Samtako (Gyeonggi-do, Republic of Korea) and Koatech
+(Gyeonggi-do, Republic of Korea), respectively. ICR mice were
+used for all experiments except imaging with intact scalps, which
+was performed using C57Bl/6 mice. Animals were anesthetized
+with either 1.5% isoflurane in 70% N
+2
+O and 30% O
+2
+with a
+vaporizer or ketamine (0.1 mg/g wt) and xylazine (0.01 mg/g wt).
+Isoflurane was used as a default anesthetic and the use of K-X was
+indicated in the figure legends. All efforts were made to minimize
+suffering. Body temperatures were monitored by rectal probe and
+maintained at 3761uC using a temperature-controlled heat
+blanket. The scalp was excised for ordinary ICG imaging, and
+the scalp hair was shaved when imaging the intact scalp. A 262-
+mm craniotomy was made with a dental drill above the left
+parieto-temporal cortex and the dura mater was removed to image
+the cerebral cortex without any extracerebral tissue. The head was
+fixed in a stereotaxic frame using two ear-bars and a jaw-holder.
+All procedures were approved by the Institutional Animal Care
+and Use Committee of the Korea Advanced Institute of Science
+and Technology (Permit Number: KA2010-39) and performed in
+accordance with the ARRIVE guidelines (http://www.nc3rs.org/
+ARRIVE).
+ICG Imaging
+Tail veins were catheterized using a 30-gauge needle and
+polyethylene (PE)-10 tubing. Cardiogreen (I2633; Sigma-Aldrich,
+St. Louis, MO) was dissolved in phosphate-buffered saline to a
+concentration of 0.5 g/L. A bolus of 1.5 mL/g wt cardiogreen
+solution was injected manually through a tail vein catheter after
+the start of the time-series imaging experiments. Time-series ICG
+fluorescence signals were acquired using a custom-built device
+manufactured by Vieworks Corp. (Gyeonggi-do, Republic of
+Korea). The device was composed of two light-emitting diode
+arrays emitting light with a peak intensity at 760 nm that passed
+through a 760612 nm band-pass filters and a CCD camera with a
+25 cm TV lens coupled with an 830612 nm band-pass filter
+(Figure 1A). Twelve-bit grayscale images were captured every
+580 ms for ,3 min, and the initial 40 frames were used to
+generate blood flow maps.
+Analysis of Fluorescence Dynamics
+Time-series fluorescence images were analyzed by custom-built
+graphic-user-interface software using Delphi 2009 (Embarcadero
+Technologies, San Francisco, CA). ICG dynamics in each pixel
+were processed to compensate for noise and low temporal
+resolution (Figure 1D). They were smoothed using the Savitzky–
+Golay algorithm with third order polynomials and interpolated to
+a resolution of 11.6 ms per frame using the cubic spline method.
+The half-intensity time (T
+half
+) was first identified to find T
+arrival
+and
+T
+peak
+.T
+half
+was defined as the first time at which the intensity was
+equal or greater than the median intensity. T
+half
+was traced
+backward along the downslope until the intensity did not decrease,
+and the destination time was designated T
+arrival
+. In the same
+manner, T
+half
+was traced forward along the upslope until the
+intensity did not increase, and the destination time was designated
+T
+peak
+.T
+rising
+was calculated as the difference between T
+arrival
+and
+T
+peak
+. MTT was calculated as the center of gravity of the dynamic
+curve [3]. In this study, signals during the 20 s period after T
+arrival
+were used in the calculation. After adjusting the baseline intensity
+to zero, the following equation was applied;
+MTT~
+P
+t
+t:I(t)
+P
+t
+I(t)
+ð1Þ
+BFI was defined as the slope of the first peak [15]. The
+definitions and calculations of the four parameters are summarized
+in Table 1. Blood flow maps were generated by combining each
+parameter in each pixel, and the range of the values matching the
+grayscale intensity was adjusted and displayed under the map in
+arbitrary units for BFI or in seconds for other parameters. BFI
+values were normalized for display of each image, but not for
+comparative analyses among hemispheres. Regions of 262mmin
+left hemispheres whose centers were positioned 2 mm posterior
+and 2 mm lateral from the bregma were used to calculate mean
+blood flow parameters. Symmetric regions in the right hemispheres
+were compared with the ischemic left hemispheres during
+MCAO.
+Selective Vascular Occlusion Surgery
+MCAO surgery was performed to induce focal cerebral
+ischemia using a protocol described previously, with some
+modifications [43]. The neck was incised along the midline, and
+the left common carotid artery (CCA), the external carotid artery
+(ECA), and the internal carotid artery (ICA) were exposed. The
+CCA, ICA, and two positions on the ECA were ligated with 6-0
+silk sutures. The ECA was cut partially between two ligated
+positions, and a 5-0 rounded tip monofilament nylon suture was
+introduced through the opening in the CCA. The ECA was
+completely cut, and the suture direction was reversed toward the
+ICA. We proceeded with the nylon suture for 9 mm from the
+insertion position. Time-series images were obtained before the
+surgery and at 15 min after MCAO. The suture was removed at
+45 min after its insertion, the ECA was permanently ligated, and
+the ligations applied to the ICA and the CCA were released for
+Noninvasive Optical Imaging of Brain Perfusion
+PLOS ONE | www.plosone.org 8 October 2012 | Volume 7 | Issue 10 | e48383
+(8.0.0.2542.1031127322 PDF Extractor SDK TRIAL VERSIOn)
+transient MCAO. A series of ICG images was additionally taken at
+5 min, and 2, 6, and 24 h after reperfusion. Two positions on the
+ICA were ligated to selectively block the intracerebral blood
+supply, and a nylon suture, identical to that used for the MCAO,
+was inserted between the two positions and proceeded until
+bifurcation of the MCA. The ECA was ligated to selectively block
+the extracerebral blood supply.
+Statistical Analysis
+Data are expressed as means 6 standard errors. Statistical
+significance was assessed by two-tailed unpaired t-tests to compare
+before and after MCAO surgery and between groups anesthetized
+with either isoflurane or K–X. The two-tailed paired t-test was
+used to compare the two hemispheres in mice under MCAO.
+Supporting Information
+Figure S1 Reduction of extracerebral flow by occlusion
+of the ECA. (A) Under anesthesia with K-X, two round patches
+that blocked the ICG fluorescence signal were inserted under the
+scalp through a midline incision, and the left ECA was ligated. (B)
+The ECA-ligated (a) and control (b) regions are indicated on the
+BFI map. (C) Fluorescence dynamics of the ECA-ligated and
+control regions. Note that the increase in fluorescence intensity
+was attenuated in concordance with the time delay of the
+maximum intensity in the ECA-ligated region.
+(TIF)
+Figure S2 Dynamics of the averaged fluorescence
+dominantly represents the capillary blood flow in a
+region of an ischemic cortex. (A) Under anesthesia with K-X,
+a fluorescence image was taken above an ischemic cortex of a
+mouse that received left MCAO surgery during time-series
+imaging. The images were obtained from a thinned skull window
+using intravital fluorescence microscopy after a bolus injection of
+2 MDa fluorescein isothiocyanate (FITC)-dextran. The arterial
+branching patterns and their direction indicate that the pial
+arteries shown are branched from the MCA (scale bar: 200 mm).
+(B) Fluorescence dynamics of FITC in three arteries (a1, a2, and
+a3), three regions lacking large vessels (c1, c2, and c3) and three
+veins (v1, v2, and v3) are indicated. The averaged fluorescence
+dynamics of a region of interest (white circle) and of ICG in the
+same region after a bolus injection of ICG were compared.
+(TIF)
+Methods S1
+(DOCX)
+Acknowledgments
+We thank Jungsul Lee (Department of Bio and Brain Engineering, KAIST)
+for valuable discussion and Min-su Kim and Prof. Yun Seon Song (College
+of Pharmacy, Sookmyung Women’s University) for setting up the MCAO
+surgery.
+Author Contributions
+Conceived and designed the experiments: TK CC. Performed the
+experiments: TK CC. Analyzed the data: TK CC. Contributed
+reagents/materials/analysis tools: TK CC. Wrote the paper: TK CC.
+References
+1. Frackowiak RS, Lenzi GL, Jones T, Heather JD (1980) Quantitative
+measurement of regional cerebral blood flow and oxygen metabolism in man
+using 15O and positron emission tomography: theory, procedure, and normal
+values. Journal of Computer Assisted Tomography 4: 727–736.
+2. Axel L (1980) Cerebral blood flow determination by rapid-sequence computed
+tomography: theoretical analysis. Radiology 137: 679–686.
+3. Gobbel GT, Cann CE, Fike JR (1991) Measurement of regional cerebral blood
+flow using ultrafast computed tomography. Theoretical aspects. Stroke 22: 768–
+771.
+4. Rosen BR, Belliveau JW, Vevea JM, Brady TJ (1990) Perfusion imaging with
+NMR contrast agents. Magnetic Resonance in Medicine 14: 249–265.
+5. Rempp KA, Brix G, Wenz F, Becker CR, Guckel F, et al. (1994) Quantification
+of regional cerebral blood flow and volume with dynamic susceptibility contrastenhanced
+MR imaging. Radiology 193: 637–641.
+6. Dirnagl U, Kaplan B, Jacewicz M, Pulsinelli W (1989) Continuous measurement
+of cerebral cortical blood flow by laser-Doppler flowmetry in a rat stroke model.
+Journal of Cerebral Blood Flow and Metabolism 9: 589–596.
+7. Jia Y, Wang RK (2011) Optical micro-angiography images structural and
+functional cerebral blood perfusion in mice with cranium left intact. Journal of
+Biophotonics 4: 57–63.
+8. Fukuda O, Endo S, Kuwayama N, Harada J, Takaku A (1995) The
+characteristics of laser-Doppler flowmetry for the measurement of regional
+cerebral blood flow. Neurosurgery 36: 358–364.
+9. Carson ER, Jones EA (1979) Use of kinetic analysis and mathematical modeling
+in the study of metabolic pathways in vivo: applications to hepatic organic anion
+metabolism (second of two parts). New England Journal of Medicine 300: 1078–
+1086.
+10. Regillo CD (1999) The present role of indocyanine green angiography in
+ophthalmology. Current Opinion in Ophthalmology 10: 189–196.
+11. Desmettre T, Devoisselle JM, Mordon S (2000) Fluorescence properties and
+metabolic features of indocyanine green (ICG) as related to angiography. Survey
+of Ophthalmology 45: 15–27.
+12. Ntziachristos V, Bremer C, Weissleder R (2003) Fluorescence imaging with
+near-infrared light: new technological advances that enable in vivo molecular
+imaging. European Radiology 13: 195–208.
+13. Hillman EM, Moore A (2007) All-optical anatomical co-registration for
+molecular imaging of small animals using dynamic contrast. Nat Photonics 1:
+526–530.
+14. Liu X, Wang D, Liu F, Bai J (2010) Principal component analysis of dynamic
+fluorescence diffuse optical tomography images. Optics Express 18: 6300–6314.
+15. Kuebler WM, Sckell A, Habler O, Kleen M, Kuhnle GE, et al. (1998)
+Noninvasive measurement of regional cerebral blood flow by near-infrared
+spectroscopy and indocyanine green. Journal of Cerebral Blood Flow and
+Metabolism 18: 445–456.
+16. Kang Y, Choi M, Lee J, Koh GY, Kwon K, et al. (2009) Quantitative analysis of
+peripheral tissue perfusion using spatiotemporal molecular dynamics. PLoS
+ONE 4: e4275.
+17. Kang Y, Lee J, Kwon K, Choi C (2010) Dynamic fluorescence imaging of
+indocyanine green for reliable and sensitive diagnosis of peripheral vascular
+insufficiency. Microvascular Research 80: 552–555.
+18. Keller E, Nadler A, Alkadhi H, Kollias SS, Yonekawa Y, et al. (2003)
+Noninvasive measurement of regional cerebral blood flow and regional cerebral
+blood volume by near-infrared spectroscopy and indocyanine green dye dilution.
+Neuroimage 20: 828–839.
+19. Hoffmann C, Compton F, Schafer JH, Steiner U, Fuller TF, et al. (2010)
+Intraoperative assessment of kidney allograft perfusion by laser-assisted
+indocyanine green fluorescence videography. Transplantation Proceedings 42:
+1526–1530.
+20. Mizushima Y, Tohira H, Mizobata Y, Matsuoka T, Yokota J (2003) Assessment
+of effective hepatic blood flow in critically ill patients by noninvasive pulse dyedensitometry.
+Surgery Today 33: 101–105.
+21. Hillman EM, Amoozegar CB, Wang T, McCaslin AF, Bouchard MB, et al.
+(2011) In vivo optical imaging and dynamic contrast methods for biomedical
+research. Philosophical Transactions Series A, Mathematical, Physical, and
+Engineering Sciences 369: 4620–4643.
+22. Kang Y, Lee J, Kwon K, Choi C (2010) Application of novel dynamic optical
+imaging for evaluation of peripheral tissue perfusion. International Journal of
+Cardiology 145: e99–101.
+23. McCormick PW, Stewart M, Lewis G, Dujovny M, Ausman JI (1992)
+Intracerebral penetration of infrared light. Technical note. Journal of
+Neurosurgery 76: 315–318.
+24. Hongo K, Kobayashi S, Okudera H, Hokama M, Nakagawa F (1995)
+Noninvasive cerebral optical spectroscopy: depth-resolved measurements of
+cerebral haemodynamics using indocyanine green. Neurological Research 17:
+89–93.
+25. De Visscher G, van Rossem K, Van Reempts J, Borgers M, Flameng W, et al.
+(2002) Cerebral blood flow assessment with indocyanine green bolus transit
+detection by near-infrared spectroscopy in the rat. Comparative Biochemistry
+and Physiology Part A, Molecular and Integrative Physiology 132: 87–95.
+26. Terborg C, Bramer S, Harscher S, Simon M, Witte OW (2004) Bedside
+assessment of cerebral perfusion reductions in patients with acute ischaemic
+stroke by near-infrared spectroscopy and indocyanine green. Journal of
+Neurology, Neurosurgery and Psychiatry 75: 38–42.
+Noninvasive Optical Imaging of Brain Perfusion
+PLOS ONE | www.plosone.org 9 October 2012 | Volume 7 | Issue 10 | e48383
+(DEMO PDF Extractor SDK 8.0.0.2542-1450283359)
+27. Liebert A, Wabnitz H, Steinbrink J, Moller M, Macdonald R, et al. (2005) Bedside
+assessment of cerebral perfusion in stroke patients based on optical
+monitoring of a dye bolus by time-resolved diffuse reflectance. Neuroimage 24:
+426–435.
+28. Terborg C, Groschel K, Petrovitch A, Ringer T, Schnaudigel S, et al. (2009)
+Noninvasive assessment of cerebral perfusion and oxygenation in acute ischemic
+stroke by near-infrared spectroscopy. European Neurology 62: 338–343.
+29. Kohl-Bareis M, Obrig H, Steinbrink J, Malak J, Uludag K, et al. (2002)
+Noninvasive monitoring of cerebral blood flow by a dye bolus method:
+separation of brain from skin and skull signals. Journal of Biomedical Optics 7:
+464–470.
+30. Steinkellner O, Gruber C, Wabnitz H, Jelzow A, Steinbrink J, et al. (2010)
+Optical bedside monitoring of cerebral perfusion: technological and methodological
+advances applied in a study on acute ischemic stroke. Journal of
+Biomedical Optics 15: 061708.
+31. Liebert A, Wabnitz H, Obrig H, Erdmann R, Moller M, et al. (2006) Noninvasive
+detection of fluorescence from exogenous chromophores in the adult
+human brain. Neuroimage 31: 600–608.
+32. Steinbrink J, Liebert A, Wabnitz H, Macdonald R, Obrig H, et al. (2008)
+Towards noninvasive molecular fluorescence imaging of the human brain.
+Neuro-Degenerative Diseases 5: 296–303.
+33. Woitzik J, Pena-Tapia PG, Schneider UC, Vajkoczy P, Thome C (2006)
+Cortical perfusion measurement by indocyanine-green videoangiography in
+patients undergoing hemicraniectomy for malignant stroke. Stroke 37: 1549–
+1551.
+34. Toriumi H, Tatarishvili J, Tomita M, Tomita Y, Unekawa M, et al. (2009)
+Dually supplied T-junctions in arteriolo-arteriolar anastomosis in mice: key to
+local hemodynamic homeostasis in normal and ischemic states? Stroke 40:
+3378–3383.
+35. Kehl F, Shen H, Moreno C, Farber NE, Roman RJ, et al. (2002) Isofluraneinduced
+cerebral hyperemia is partially mediated by nitric oxide and
+epoxyeicosatrienoic acids in mice in vivo. Anesthesiology 97: 1528–1533.
+36. Janssen BJ, De Celle T, Debets JJ, Brouns AE, Callahan MF, et al. (2004) Effects
+of anesthetics on systemic hemodynamics in mice. American Journal of
+Physiology Heart and Circulatory Physiology 287: H1618–1624.
+37. Lei H, Grinberg O, Nwaigwe CI, Hou HG, Williams H, et al. (2001) The effects
+of ketamine-xylazine anesthesia on cerebral blood flow and oxygenation
+observed using nuclear magnetic resonance perfusion imaging and electron
+paramagnetic resonance oximetry. Brain Research 913: 174–179.
+38. Thompson HK Jr, Starmer CF, Whalen RE, McIntosh HD (1964) Indicator
+Transit Time Considered as a Gamma Variate. Circulation Research 14: 502–
+515.
+39. Kosior JC, Frayne R (2010) Perfusion parameters derived from bolus-tracking
+perfusion imaging are immune to tracer recirculation. Journal of Magnetic
+Resonance Imaging 31: 753–756.
+40. Wiessner C, Allegrini PR, Ekatodramis D, Jewell UR, Stallmach T, et al. (2001)
+Increased cerebral infarct volumes in polyglobulic mice overexpressing
+erythropoietin. Journal of Cerebral Blood Flow and Metabolism 21: 857–864.
+41. Kanaya N, Nakayama M, Fujita S, Namiki A (1995) Comparison of the effects of
+sevoflurane, isoflurane and halothane on indocyanine green clearance. British
+Journal of Anaesthesia 74: 164–167.
+42. Thompson JS, Brown SA, Khurdayan V, Zeynalzadedan A, Sullivan PG, et al.
+(2002) Early effects of tribromoethanol, ketamine/xylazine, pentobarbitol, and
+isoflurane anesthesia on hepatic and lymphoid tissue in ICR mice. Comparative
+Medicine 52: 63–67.
+43. Yang G, Chan PH, Chen J, Carlson E, Chen SF, et al. (1994) Human copperzinc
+superoxide dismutase transgenic mice are highly resistant to reperfusion
+injury after focal cerebral ischemia. Stroke 25: 165–170.
+44. Ostergaard L (2005) Principles of cerebral perfusion imaging by bolus tracking.
+Journal of Magnetic Resonance Imaging 22: 710–717.
+Noninvasive Optical Imaging of Brain Perfusion
+PLOS ONE | www.plosone.org 10 October 2012 | Volume 7 | Issue 10 | e48383
+(DEMO PDF Extractor SDK 8.0.0.2542-1450283359)
+

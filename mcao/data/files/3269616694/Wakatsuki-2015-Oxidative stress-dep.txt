@@ -1,0 +1,1247 @@
+Published November 16, 2015
+
+This article has original data in the JCB Data Viewer
+
+JCB: Article
+
+http://jcb-dataviewer.rupress.org/jcb/browse/11652
+
+Oxidative stress–dependent phosphorylation activates
+ZNRF1 to induce neuronal/axonal degeneration
+Shuji Wakatsuki,1 Akiko Furuno,1 Makiko Ohshima,2 and Toshiyuki Araki1
+1Department
+
+of Peripheral Nervous System Research, National Institute of Neuroscience, National Center of Neurology and Psychiatry, Kodaira, Tokyo 187-8502, Japan
+of Regenerative Medicine and Tissue Engineering, National Cerebral and Cardiovascular Center Research Institute, Suita, Osaka 565-8565, Japan
+
+Oxidative stress is a well-known inducer of neuronal apoptosis and axonal degeneration. We previously showed that
+the E3 ubiquitin ligase ZNRF1 promotes Wallerian degeneration by degrading AKT to induce GSK3B activation. We
+now demonstrate that oxidative stress serves as an activator of the ubiquitin ligase activity of ZNRF1 by inducing epidermal growth factor receptor (EGFR)–mediated phosphorylation at the 103rd tyrosine residue and that the up-regulation
+of ZNRF1 activity by oxidative stress leads to neuronal apoptosis and Wallerian degeneration. We also show that nicotinamide adenine dinucleotide phosphate–reduced oxidase activity is required for the EGFR-dependent phosphorylationinduced activation of ZNRF1 and resultant AKT degradation via the ubiquitin proteasome system to induce Wallerian
+degeneration. These results indicate the pathophysiological significance of the EGFR–ZNRF1 pathway induced by oxidative stress in the regulation of neuronal apoptosis and Wallerian degeneration. A deeper understanding of the regulatory mechanism for ZNRF1 catalytic activity via phosphorylation will provide a potential therapeutic avenue for
+neurodegeneration.
+
+Downloaded from on October 4, 2016
+
+THE JOURNAL OF CELL BIOLOGY
+
+2Department
+
+Introduction
+Neurodegeneration, which is observed in various disorders and
+injuries in the nervous system, consists of neuronal cell death
+and the degeneration of neuronal processes, which precedes the
+death of cell bodies in most cases (Coleman and Freeman, 2010;
+Wang et al., 2012). We previously reported that the ZNRF1–
+AKT–GSK3B–CRMP2 pathway promotes axonal degeneration. The E3 ubiquitin ligase zinc and ring finger 1 (ZNRF1)
+is constitutively expressed in most neurons in the peripheral
+and central nervous systems (Araki and Milbrandt, 2003). We
+showed that upon the initiation of axonal degeneration, ZNRF1
+targets AKT for degradation via the ubiquitin proteasome system (UPS). Glycogen synthase kinase 3B (GSK3B) is activated
+by the loss of AKT-mediated phosphorylation, phosphorylates
+collapsin response mediator protein 2 (CRMP2) at the 514th
+threonine residue (T514), and thereby inactivates CRMP2 to
+induce its degradation. CRMP2 degradation leads to loss of
+cytoskeletal integrity, which promotes Wallerian degeneration
+(Wakatsuki et al., 2011).
+Previous studies have shown that subcellular signaling,
+which promotes axonal degeneration, occurs independently of
+the typical cell death signal (Finn et al., 2000; Raff et al., 2002;
+Whitmore et al., 2003). However, axonal protection mechanisms
+Correspondence to Toshiyuki Araki: taraki@ncnp.go.jp
+Abbreviations used in this paper: 6-CFDA, 6-carboxyfluorescein diacetate;
+6OHDA, 6-hydroxydopamine; ANO​VA, analysis of variance; DPI, diphenylene
+iodonium; DRG, dorsal root ganglion; DTAF, 5-(4,6-dichlorotriazinyl) aminofluorescein; EGFR, EGF receptor; fmk, fluoromethyl ketone; LDH, lactate dehydrogenase; MCAo, middle cerebral artery occlusion; RIPA, radioimmunoprecipitation
+assay; SN, substantia nigra; Tg, transgenic mice; TH, tyrosine hydroxylase; TTC,
+2,3,5-triphenyltetrazolium chloride; UPS, ubiquitin proteasome system; WT,
+wild type.
+
+The Rockefeller University Press  $30.00
+J. Cell Biol. Vol. 211 No. 4  881–896
+www.jcb.org/cgi/doi/10.1083/jcb.201506102
+
+may protect axons and cell bodies against some types of insults. For example, naturally occurring wlds mutant mice, characterized by significantly delayed Wallerian degeneration, are
+protected against neuronal cell death observed in some disease
+models (Coleman, 2005; Coleman and Freeman, 2010; Wang et
+al., 2012). These findings suggest that some types of diseaseassociated neuronal insults elicit signaling that promotes axonal
+degeneration and neuronal cell death. Previous studies reported
+the phosphorylation of CRMP2, including that at T514 in dying
+neuronal cell bodies in animal models of, and patients with,
+brain ischemia, as well as in other neurodegenerative diseases
+including Alzheimer’s disease (Ryan and Pimplikar, 2005; Cole
+et al., 2007; Hou et al., 2009; Williamson et al., 2011). This
+finding prompted us to examine the significance of the activation of the ZNRF1–AKT–GSK3B–CRMP2 pathway in oxidative stress–induced pathology in the nervous system because
+oxidative stress has been implicated in other noted disorders.
+We herein demonstrated that ZNRF1 promotes oxidative
+stress–induced neuronal apoptosis by degrading AKT via the
+UPS. We found that oxidative stress induces the phosphorylation of ZNRF1 at the 103rd tyrosine residue (Y103) and,
+thus, increases the activity of its ubiquitin ligase to target the
+AKT protein in neurons. The overexpression of the phosphorylation-resistant mutant ZNRF1 Y103F protects neurons from
+6-hydroxydopamine (6OHDA)–induced apoptosis to an extent
+© 2015 Wakatsuki et al. This article is distributed under the terms of an Attribution–
+Noncommercial–Share Alike–No Mirror Sites license for the first six months after the
+publication date (see http​://www​.rupress​.org​/terms). After six months it is available under a
+Creative Commons License (Attribution–Noncommercial–Share Alike 3.0 Unported license,
+as described at http​://creativecommons​.org​/licenses​/by​-nc​-sa​/3​.0​/).
+Supplemental Material can be found at:
+/content/suppl/2015/11/04/jcb.201506102.DC1.html
+Original image data can be found at:
+http://jcb-dataviewer.rupress.org/jcb/browse/11652
+JCB
+
+881
+
+Published November 16, 2015
+
+similar to that of the dominant-negative mutant ZNRF1 C184A.
+We found that the oxidative stress–induced activation of
+ZNRF1 by EGF receptor (EGFR)–dependent phosphorylation
+is also involved in the promotion of Wallerian degeneration. We
+also showed that 6OHDA-induced neurotoxicity is attenuated
+in transgenic mice (Tg) expressing ZNRF1 C184A. Collectively, these results provide evidence for ZNRF1 functioning as
+a critical mediator of two major neurodegenerative pathways,
+neuronal apoptosis and Wallerian degeneration, by translating
+oxidative stress into subcellular signaling within neurons.
+
+Results
+ZNRF1 ubiquitin ligase is activated by
+oxidative stress in neurons
+
+882
+
+JCB • Volume 211 • Number 4 • 2015
+
+ZNRF1 is activated by EGFR-mediated
+phosphorylation at Y103
+
+ZNRF1 is widely and constitutively expressed in neurons in the
+central nervous system and peripheral nervous system during
+development and throughout adulthood (Araki and Milbrandt,
+2003). Although we previously demonstrated that ZNRF1–
+AKT–GSK3B–CRMP2 signaling promotes Wallerian degeneration, the expression of ZNRF1 is not sufficient to induce
+Wallerian degeneration (Wakatsuki et al., 2011). Previous studies reported that some E3 ligases are not constitutively active;
+they are subject to regulation by their posttranslational modifications, including phosphorylation (Zhong et al., 2005; Gallagher
+et al., 2006). We hypothesized that subcellular signaling involving the phosphorylation of ZNRF1 regulates ZNRF1 activity.
+Based on this hypothesis, we examined changes in ZNRF1
+phosphorylation in 6OHDA-treated SHSY5Y neuroblastoma
+cells overexpressing ZNRF1. We found that ZNRF1 was significantly phosphorylated at tyrosine residues in SHSY5Y neuroblastoma cells treated with 6OHDA (Fig. S1 C). To identify
+the specific tyrosine residues phosphorylated on ZNRF1 in response to oxidative stress, we used a web-based program that
+predicts the potential tyrosine phosphorylation sites of ZNRF1
+and cognate kinases (NetPhos and NetPhosK, respectively).
+The findings suggest that Y103 is phosphorylated by receptor
+tyrosine kinases, including EGFR tyrosine kinase. In an attempt
+to determine whether ZNRF1 is phosphorylated at Y103, we
+raised antiserum against a synthetic phosphotyrosine peptide
+corresponding to amino acids 88–116 of ZNRF1 and examined
+the status of ZNRF1 phosphorylation at Y103 (ZNRF1 pY103)
+in 6OHDA-treated cultured cortical neurons by an immunoblot
+analysis using this antiserum (Fig. 2, A–D; and Fig. S1, D and E).
+We found that ZNRF1 pY103 was induced by the 6OHDA treatment in cultured cortical neurons in dose- and time-dependent
+manners (Fig. 2, A–D) and that the ZNRF1 Y103F mutant was
+resistant to phosphorylation in response to 6OHDA (Fig. S1, D
+and E). We then used a mouse model of 6OHDA-induced brain
+lesions and the MCAo model to establish whether this phenomenon also occurs in vivo and examined the expression levels of
+ZNRF1 pY103 in each model. We found that ZNRF1 pY103
+was detected in brain lysates prepared from 6OHDA-lesioned
+mice (Fig. S1, F and G). The expression of ZNRF1 pY103
+was also detected in brain lysates using immunoblotting and
+observed in neurons by immunohistochemistry in the ischemic
+penumbra 4  h after MCAo (Fig.  2, E–G). The distribution of
+ZNRF1 pY103 immunoreactivity in MCAo model brain tissue
+was similar to that of CRMP2 pT514 (Fig. 1 A). These results
+indicate that ZNRF1 is specifically phosphorylated at Y103 in
+neurons in response to 6OHDA.
+We examined AKT ubiquitination in 6OHDA-treated
+cultured cortical neurons overexpressing WT ZNRF1 or the
+ZNRF1 Y103F mutant to show that ZNRF1 pY103 is linked
+to its ubiquitin ligase activity. We found that AKT expression
+
+Downloaded from on October 4, 2016
+
+We previously reported that ZNRF1 promotes Wallerian degeneration by degrading AKT to induce GSK3B-dependent
+CRMP2 phosphorylation at T514 (CRMP2 pT514; Wakatsuki
+et al., 2011). CRMP2 degradation, induced by phosphorylation,
+leads to microtubule destabilization, which promotes Wallerian
+degeneration. Therefore, CRMP2 pT514 may be an indicator
+for the activation of ZNRF1-mediated signaling in neurons.
+CRMP2 pT514 is often observed in the neurons of animal models of, and patients with, brain ischemia or neurodegenerative
+diseases (Ryan and Pimplikar, 2005; Cole et al., 2007; Hou et
+al., 2009; Williamson et al., 2011). Oxidative stress is known to
+be involved in the pathogenic mechanisms of these neurological
+disorders (Barnham et al., 2004; Gandhi and Abramov, 2012).
+To demonstrate that ZNRF1-mediated signaling is activated in
+neurons under oxidative stress, we used a focal cerebral ischemia model. Focal ischemia is known to cause different types of
+cell death. Neurons in the ischemic core undergo necrotic cell
+death, whereas neurons in the ischemic penumbra surrounding the ischemic core mostly show delayed neuronal apoptosis, with oxidative stress being strongly implicated in the latter
+(Ueda and Fujita, 2004; Broughton et al., 2009). We generated
+a middle cerebral artery occlusion (MCAo) model in adult male
+mice (Fig. S1, A and B; Taguchi et al., 2010) and examined
+CRMP2 pT514 in neurons in the cerebral cortex 4 h after MCAo
+using immunohistochemistry. We selected this time point based
+on previous findings demonstrating neuronal apoptosis in the
+penumbra in the MCAo model (Guégan et al., 1998; Tsuchiya
+et al., 2003; Zille et al., 2012). We found increased CRMP2
+pT514 immunoreactivity in neurons in the ischemic penumbra,
+but not in the infarct core (Fig. 1 A). These results indicate that
+ZNRF1-mediated AKT degradation is involved in the regulation of oxidative stress–induced neuronal apoptosis.
+The application of 6OHDA has frequently been used as
+an inducer of oxidative stress in cultured neurons as well as in
+animal tissues (Grünblatt et al., 2000; Blandini and Armentero,
+2012). To determine whether oxidative stress induces ZNRF1mediated AKT degradation, we assessed the expression levels
+of AKT in 6OHDA-treated primary cultured cortical neurons
+overexpressing wild-type (WT) ZNRF1, ZNRF1 bearing a
+C184A mutation, which serves as a dominant-negative form of
+ZNRF1 (Fig. 1, B and C; Araki and Milbrandt, 2003; Wakatsuki
+et al., 2011), or under RNAi-mediated ZNRF1 down-regulation
+conditions (Fig. 1, D–I). We found that the degradation of AKT
+was induced in 6OHDA-treated neurons. Importantly, this was
+prevented by the overexpression of ZNRF1 C184A to an extent
+similar to that by the treatment with the proteasome inhibitor
+
+MG132, but was not affected by the overexpression of WT
+ZNRF1 (Fig. 1, B and C). AKT expression levels were maintained in neurons expressing shRNA for ZNRF1 (Fig. 1, D–F).
+AKT ubiquitination was also weaker than that observed under
+nontargeting siRNA–transfected conditions (labeled as siControl), and the expression of siRNA-resistant ZNRF1 rescued
+AKT ubiquitination in 6OHDA-treated neurons (Fig. 1, G–I).
+These results suggest that the ubiquitin ligase activity of ZNRF1
+that degrades AKT is induced by oxidative stress in neurons.
+
+Published November 16, 2015
+
+Downloaded from on October 4, 2016
+
+Figure 1.  ZNRF1 ubiquitin ligase activity to target AKT is induced by oxidative stress in neurons. (A) CRMP2 pT514 expression in neurons in the MCAo
+model. In each set of sham and MCAo panels, the top right is an enlargement of the boxed area in the top left image, and high-power images (bottom)
+show the boxed area in the top right image. The region with a reduced number of NeuN-positive neurons in the MCAo cortex was considered to be the
+infarct core (indicated by asterisks). Dashed lines indicate the border between the ischemic penumbra and infarct core. Bars: (top) 1 mm; (bottom) 50 µm.
+(B and C) ZNRF1 promotes UPS-mediated AKT degradation in 6OHDA-treated primary cultured cortical neurons. Representative immunoblots (B) and
+quantified levels for AKT normalized to β-actin relative to the control (C) are shown. (D–F) ZNRF1 down-regulation results in decreased AKT degradation.
+Representative immunoblots (D) and quantified levels for ZNRF1 (E) and AKT (F) normalized to β-actin relative to the control are shown. (G–I) ZNRF1
+down-regulation decreases AKT ubiquitination in response to 6OHDA. Shown are representative immunoblots (G), immunoprecipitation using an anti-AKT
+antibody analyzed by immunoblotting (H), and quantified levels for polyubiquitinated AKT normalized to β-actin relative to the control (I). Data are presented as the mean ± SEM. n = 5. Significant differences from the control (*, P < 0.05; **, P < 0.01) were determined by a one-way ANO​VA with Tukey’s
+post-hoc test. AU, arbitrary units; IgG H, IgG heavy chain; IgG L, IgG light chain; IP, immunoprecipitate; nd, no significant difference; Ub, ubiquitin.
+ZNRF1 E3 ubiquitin ligase regulates neurodegeneration • Wakatsuki et al.
+
+883
+
+Published November 16, 2015
+
+levels were significantly decreased in 6OHDA-treated neurons
+expressing WT ZNRF1, but not those expressing the ZNRF1
+Y103F mutant (Fig. 3, A and B). However, AKT ubiquitination
+was enhanced in WT ZNRF1-expressing cells, but not in those
+expressing the ZNRF1 Y103F mutant (Fig. 3, C and D). These
+results suggest that ZNRF1 pY103 results in the induction of
+ubiquitin ligase activity. To determine whether EGFR is involved
+in the phosphorylation-dependent activation of ZNRF1, we examined the effects of compound 56 (C56), a potent inhibitor of
+EGFR (Fig. S1, H–J), or RNAi-mediated EGFR down-regulation (Fig. 3, E–G) on ZNRF1 pY103 and ZNRF1-dependent increases in AKT ubiquitination in 6OHDA-treated neurons. We
+found that C56 and EGFR down-regulation by specific siRNAs
+significantly suppressed ZNRF1 phosphorylation and AKT
+ubiquitination. AKT expression in 6OHDA-treated neurons
+without the application of MG132 was significantly reduced,
+and this reduction was reversed in neurons transfected with the
+884
+
+JCB • Volume 211 • Number 4 • 2015
+
+siRNAs for EGFR. These results confirm that the 6OHDA-induced EGFR-dependent phosphorylation of ZNRF1 leads to an
+increase in ZNRF1-dependent AKT degradation via UPS. To
+demonstrate that this mechanism is generally activated in response to oxidative stress, we used hydrogen peroxide (H2O2)
+as an alternative oxidant and obtained essentially the same results as those with 6OHDA (Fig. 3, H–J); we found that AKT
+expression levels were significantly decreased in H2O2-treated
+neurons, and this decrease was suppressed by specific siRNAs
+for EGFR, but not by nontarget control siRNA. In accordance
+with these results, we also found that AKT ubiquitination, induced by H2O2, was suppressed by siRNAs for EGFR. These
+results suggest that ZNRF1 signaling is generally activated in response to oxidative stress. To show that ZNRF1 is a substrate of
+phosphorylation by EGFR, we incubated recombinant ZNRF1
+with EGFR and separated the resultant proteins by phosphateaffinity PAGE (Phos-Tag PAGE) in which phosphorylated
+
+Downloaded from on October 4, 2016
+
+Figure 2.  ZNRF1 is phosphorylated at Y103
+in response to oxidative stress. (A and B)
+ZNRF1 pY103 in primary cultured cortical neurons is dose-dependently induced by 6OHDA.
+Shown are representative immunoblots (A)
+and quantified expression levels for ZNRF1
+pY103 normalized to total ZNRF1 relative to
+the control (B; labeled as 0; n = 5). (C and
+D) Time-dependent increases in ZNRF1 pY103
+in 6OHDA-treated neurons. Shown are representative immunoblots (C) and quantified expression levels for ZNRF1 pY103 normalized
+to ZNRF1 relative to the control (D; labeled as
+0). n = 5.  (E) ZNRF1 pY103 immunoreactivity in neurons in the MCAo model. The region
+with a reduced number of NeuN-positive neurons in the MCAo cortex was considered to
+be the infarct core (indicated by asterisks).
+Dashed lines indicate the border between the
+ischemic penumbra and infarct core. Bar, 50
+µm. (F and G) ZNRF1 pY103 immunoreactivity
+in the MCAo brain lysate. Cell lysates were
+prepared from serial sections of MCAo (+) or
+sham control (−) and subjected to an immunoblot analysis. Each lane represents brain tissue
+samples from different animals (F). Quantified
+levels of ZNRF1 pY103 normalized to ZNRF1
+relative to the sham control are shown (G; n =
+3 in each group). Data are presented as the
+mean ± SEM. Significant differences from the
+control (*, P < 0.05; **, P < 0.01) were determined by a one-way ANO​VA with Tukey’s
+post-hoc test in B and D or two-tailed Student’s
+t test in G. AU, arbitrary units.
+
+Published November 16, 2015
+
+ZNRF1 is distinguishable from the nonphosphorylated form as
+a slower migrating band (Kinoshita et al., 2006). We found that
+ZNRF1 was significantly phosphorylated at Y103 in the presence of recombinant active EGFR (Fig. 4, A–C). The mobility
+shift of ZNRF1 in Phos-Tag PAGE in the presence of recombinant active EGFR was abolished by the treatment with lambda
+protein phosphatase (λPP), confirming that this shift was caused
+by EGFR-dependent phosphorylation. In an effort to show that
+ZNRF1 phosphorylation increases the ubiquitin ligase activity of ZNRF1, we performed an in vitro ubiquitination assay
+(Wakatsuki et al., 2011; Kazlauskaite et al., 2014) to demonstrate that EGFR-dependent ZNRF1 phosphorylation leads to
+an increase in AKT ubiquitination (Fig. 4, D and E). Increases
+in AKT ubiquitination were significantly greater in the presence
+of phosphorylated ZNRF1 than unphosphorylated ZNRF1.
+Collectively, these results suggest that oxidative stress–induced
+ZNRF1 pY103 is mediated by EGFR and leads to an increase in
+ZNRF1-dependent AKT ubiquitination.
+Oxidative stress–induced ZNRF1 activation
+by EGFR-dependent phosphorylation leads
+primary cultured neurons to apoptosis
+
+Downloaded from on October 4, 2016
+
+To determine whether the activation of ZNRF1 by phosphorylation at Y103 in response to oxidative stress in neurons leads
+to apoptosis, we examined the expression of markers for apoptosis and the effects of inhibitors of apoptosis on 6OHDAtreated cultured cortical neurons overexpressing ZNRF1
+C184A or ZNRF1 Y103F (Fig. 5). We used the expression of
+cleaved caspase 3 and annexin V labeling as markers for activation of the prototypical apoptosis pathway (Elmore, 2007).
+We found that the numbers of cleaved caspase 3–positive cells
+(Fig. 5, A and B), cells with nuclei exhibiting highly fluorescent
+and condensed chromatin (Fig.  5, A and C), and annexin V–
+positive cells (Fig. S2, A and B) were lower in neurons overexpressing both ZNRF1 mutants than in control (expressing GFP
+only) neurons. We used lactate dehydrogenase (LDH) release
+as a cell death marker to confirm that the type of cell death
+mediated by ZNRF1 is apoptosis and compared the effects of
+the application of the caspase inhibitor z-VAD fluoromethyl
+ketone (fmk) or the overexpression of BCL2 with that of the
+siRNA-mediated down-regulation of EGFR or expression of
+ZNRF1 C184A or ZNRF1 Y103F (Fig.  5  D). We found that
+the suppression of 6OHDA-induced neuronal cell death by the
+application of z-VAD fmk or overexpression of BCL2 was similar to that by the expression of ZNRF1 mutants. These results
+suggest that the activation of ZNRF1 in neurons by 6OHDA
+enhanced apoptosis signaling.
+To confirm that 6OHDA-induced ZNRF1 phosphorylation
+leading to neuronal apoptosis is mediated by oxidative stress–
+induced EGFR activation, we examined the effects of C56 or
+antioxidants, including N-acetyl-l-cysteine and curcumin, on
+6OHDA-induced ZNRF1 phosphorylation and apoptosis in cultured cortical neurons. We found that these compounds also prevented ZNRF1 phosphorylation and apoptosis in neurons (Fig.
+S2, C–G). We also investigated the effects of the RNAi-mediated down-regulation of EGFR expression on 6OHDA-induced
+ZNRF1 phosphorylation and neuronal apoptosis to confirm the
+involvement of EGFR (Fig. S3). The results of an immunoblot
+analysis revealed that 6OHDA-induced ZNRF1 phosphorylation
+was inhibited by the down-regulation of EGFR. We also found,
+by using the expression of cleaved caspase 3, annexin V labeling, as well as decreased 6-carboxyfluorescein (6-CF) staining
+
+as markers of apoptosis, that the down-regulation of EGFR
+inhibits neuronal apoptosis. Collectively, these results suggest
+that oxidative stress–induced ZNRF1 activation by EGFRdependent phosphorylation leads to apoptosis in neurons.
+To analyze subcellular signaling downstream of ZNRF1,
+we examined the expression of cleaved caspase 3 in 6OHDAtreated cultured cortical neurons overexpressing a myristoylated form of AKT (myrAKT; a constitutively active form of
+AKT) or GSK3B K85M (a kinase-dead form of GSK3B). We
+found that the expression of myrAKT and GSK3B K85M prevented 6OHDA-induced apoptosis to an extent similar to that of
+ZNRF1C184A or ZNRF1 Y103F (Fig. 5). These results suggest
+that the AKT–GSK3B kinase cascade is involved in ZNRF1
+activation–induced neuronal apoptosis signaling. In an attempt
+to establish whether this signaling mechanism exists in multiple types of neurons, we performed a parallel series of studies
+on SHSY5Y neuroblastoma cells and ventral mesencephalic
+neuron cultures, which are known to be rich in dopaminergic
+neurons (Li et al., 2009), and obtained similar results to those
+from primary cultured cortical neurons (unpublished data).
+These results suggest that oxidative stress–induced ZNRF1
+phosphorylation by EGFR in neurons results in apoptosis via
+the ZNRF1-dependent proteasomal degradation of AKT and resultant activation of GSK3B.
+Traumatic injury to axons increases
+oxidative stress in neurons by NAD​PH
+oxidase and induces EGFR-dependent
+phosphorylation of ZNRF1 to promote
+Wallerian degeneration
+
+We herein extended our previous identification of the role of
+ZNRF1 and showed that oxidative stress activates ZNRF1 via
+phosphorylation by EGFR and turns on the downstream kinase
+cascade of AKT–GSK3B to cause neuronal apoptosis. Because
+our previous results showed that the ZNRF1-induced proteasomal degradation of AKT promotes Wallerian degeneration,
+we determined whether the oxidative stress–induced activation
+of ZNRF1 by EGFR-dependent phosphorylation also plays a
+role in promoting Wallerian degeneration. We generated an in
+vitro Wallerian degeneration model using primary cultured dorsal root ganglion (DRG) neurons, as described in our previous
+study (Wakatsuki et al., 2011), and examined ZNRF1 pY103
+in neurites before and after the induction of Wallerian degeneration (Fig.  6). We found that ZNRF1 pY103 was strongly
+induced by the initiation of Wallerian degeneration (Fig. 6, A
+and B). To establish whether ZNRF1 pY103 is necessary for
+Wallerian degeneration, we used DRG neurons overexpressing
+the ZNRF1 Y103F mutant in the in vitro Wallerian degeneration model. We found that the expression of ZNRF1 Y103F
+prevented the progression of Wallerian degeneration to an extent similar to that by the expression of ZNRF1 C184A (Fig. 6,
+C and D) or prevention of the ZNRF1 signaling pathway at
+each step, as reported previously (Wakatsuki et al., 2011).
+We examined the effects of C56 (Fig. S4, A–D) as well as the
+RNAi-mediated down-regulation of EGFR (Fig.  6, E–I) on
+Wallerian degeneration in vitro to demonstrate the involvement
+of EGFR in the phosphorylation of ZNRF1 during Wallerian
+degeneration. We found that the application of C56 and downregulation of EGFR significantly inhibited ZNRF1 phosphorylation as well as Wallerian degeneration. These results suggest
+that ZNRF1 phosphorylation by EGFR affects subcellular signaling to promote Wallerian degeneration and apoptosis.
+
+ZNRF1 E3 ubiquitin ligase regulates neurodegeneration • Wakatsuki et al.
+
+885
+
+Published November 16, 2015
+
+Downloaded from on October 4, 2016
+Figure 3.  Phosphorylation of ZNRF1 at Y103 by EGFR in response to oxidants induces its ubiquitin ligase activity to degrade the AKT protein.
+(A–D) ZNRF1 pY103 in response to 6OHDA results in the induction of ubiquitin ligase activity in cultured cortical neurons. Representative immunoblots (A)
+and quantified levels for AKT normalized to β-actin relative to the control (B) are shown. The immunoprecipitates using antibodies against AKT (C, top) or
+FLAG (C, bottom) analyzed by immunoblotting and quantified levels for polyubiquitinated AKT normalized to β-actin relative to the control (D) are shown.
+(E–G) EGFR down-regulation in 6OHDA-treated cultured cortical neurons results in reduced ZNRF1 pY103 levels and resultant reductions in its ubiquitin
+ligase activity. Shown are representative immunoblots (E), immunoprecipitates using an anti-AKT antibody analyzed by immunoblotting (F), and quantified
+levels for polyubiquitinated AKT normalized to β-actin relative to the control (G; labeled as +siControl/+MG132/−6OHDA). (H–J) EGFR down-regulation
+in H2O2-treated cultured cortical neurons results in reduced ZNRF1 pY103 levels and resultant reductions in its ubiquitin ligase activity. Shown are representative immunoblots (H). Immunoprecipitates using an anti-AKT antibody analyzed by immunoblotting (I) and quantified levels for polyubiquitinated AKT
+normalized to β-actin relative to the control (J; labeled as +siControl/+MG132/−H2O2) are also shown. Data are presented as the mean ± SEM. n = 5. 
+Significant differences from the control (*, P < 0.05; **, P < 0.01) were determined by a one-way ANO​VA with Tukey’s post-hoc test. IgG H, IgG heavy
+chain; IgG L, IgG light chain; IP, immunoprecipitate; Ub, ubiquitin.
+886
+
+JCB • Volume 211 • Number 4 • 2015
+
+Published November 16, 2015
+
+Figure 4.  ZNRF1 is directly phosphorylated
+by EGFR in vitro. (A and B) The His-ZNRF1
+protein was incubated in the presence or absence of a recombinant active EGFR protein in
+vitro. The mixtures were subjected to Phos-Tag
+PAGE and analyzed by immunoblotting using
+an anti-His antibody (A). Quantified levels
+for phosphorylated ZNRF1 (pZNRF1) relative
+to total ZNRF1 are shown (B). (C–E) EGFRdependent ZNRF1 pY103 leads to increased
+ZNRF1 activity to ubiquitinate AKT in vitro.
+In vitro ubiquitination assays of GST or GSTAKT were performed using His-ZNRF1 or
+His-pZNRF1 together with E1, E2, and ubiquitin. Representative immunoblots (C and D)
+and quantified levels for polyubiquitinated
+AKT with pZNRF1 relative to the control with
+ZNRF1 (E) are shown. Data are presented as
+the mean ± SEM. n = 5. Significant differences
+from the control (**, P < 0.01) were determined by two-tailed Student’s t test. nd, no
+significant difference; Ub, ubiquitin.
+
+Downloaded from on October 4, 2016
+
+EGFR-dependent ZNRF1 phosphorylation during Wallerian degeneration suggests that oxidative stress is involved in
+the induction of Wallerian degeneration. To investigate whether
+oxidative stress is generated in our Wallerian degeneration
+model in vitro, we visualized oxidative stress in neurites using a
+cell-permeable fluorogenic probe that emits a strong fluorescent
+signal in response to oxidation (Calixto et al., 2012). We found
+significant increases in fluorescent intensity in neurites 3 h after
+transection (Fig. 7, A and B). This result indicates that oxidative
+stress is induced in degenerating neurites.
+Among the possible generators of oxidative stress in neurons, we hypothesized that NAD​PH oxidases may be involved
+in the generation of oxidative stress in degenerating neurites
+because ZNRF1 is myristoylated and, thus, close to the subcellular location of NAD​PH oxidases. We initially examined
+the effects of a series of inhibitors of NAD​PH oxidases on the
+generation of oxidative stress in transected neurites to demonstrate that NAD​PH oxidase activity is involved in the generation of oxidative stress in degenerating neurites. We found
+that these inhibitors prevented increases in oxidative stress–
+sensitive fluorescent dye staining in transected neurites (Fig. 7,
+A and B). C56 did not significantly affect increases in fluorescent intensity in transected neurites (Fig. 7, A and B), suggesting
+that the NAD​PH oxidase–induced increase in oxidative stress in
+transected neurites is upstream of the activation of EGFR. We
+also determined the effects of antioxidants and NAD​PH oxidase inhibitors on Wallerian degeneration and found that these
+compounds prevented neurite degeneration as well as the phosphorylation of ZNRF1 (Fig. S4). We subsequently expressed
+shRNA for each gene of the rodent NAD​PH oxidase catalytic
+subunits (Bedard and Krause, 2007) in cultured DRG neurons
+and induced Wallerian degeneration in vitro (Fig. 7, C–F; and
+Fig. S5) to validate the results shown in Fig. S4. We found that
+
+down-regulating the expression of the NAD​PH oxidases NOX2,
+3, 4, and DUOX2 prevented the phosphorylation of ZNRF1 and
+delayed neurite degeneration to an extent similar to that demonstrated previously by the down-regulation of ZNRF1 expression
+(Wakatsuki et al., 2011). To confirm the up-regulation of EGFR
+kinase activity in response to the generation of oxidative stress
+in neurites after transection, we directly measured kinase activity using immunopurified EGFR proteins from neurites 3 h
+after transection. We selected this time point because EGFRmediated ZNRF1 phosphorylation was detected in neurites 3 h
+after transection (Fig. 7 G). We found that EGFR kinase activity
+was increased in neurites after transection. Importantly, the upregulation of EGFR kinase activity was significantly suppressed
+in the presence of the NAD​PH oxidase inhibitors apocynin and
+diphenylene iodonium (DPI; Fig. 7 G). Collectively, these results suggest that NAD​PH oxidases are involved in the induction of Wallerian degeneration by generating oxidative stress
+in response to traumatic injury in neurites to activate EGFRdependent ZNRF1 phosphorylation.
+Previous studies reported robust axonal protection by
+the expression of the Wlds protein, which is responsible for
+the delayed axonal degeneration phenotype observed in naturally occurring wlds mutant mice (Araki et al., 2004), and inhibition of SARM1-elicited signaling (Osterloh et al., 2012).
+In an attempt to characterize ZNRF1 inhibition–mediated
+axonal protection in more detail through direct comparisons
+with Wlds- or SARM1-mediated axonal protection, we examined the progression of Wallerian degeneration in vitro
+with these different axonal protection mechanisms under the
+same experimental conditions (Fig. S4, E and F). We found
+that expression of the Wlds protein or the shRNA-mediated
+down-regulation of SARM1 protected axons for up to 72  h
+after the initiation of degeneration, whereas the inhibition
+
+ZNRF1 E3 ubiquitin ligase regulates neurodegeneration • Wakatsuki et al.
+
+887
+
+Published November 16, 2015
+
+Downloaded from on October 4, 2016
+Figure 5.  Inhibition of ZNRF1 ubiquitin ligase activity protects primary cultured cortical neurons from 6OHDA-induced apoptosis. (A–F) Cleaved caspase
+3 expression was assessed in cultured cortical neurons overexpressing AKT, GSK3B, ZNRF1, or their indicated mutants by immunofluorescence. The
+contribution of apoptosis to ZNRF1-elicited signaling-mediated cell death was assessed by an LDH assay in D. An immunoblot analysis for caspase 3
+and cleaved caspase 3 was also performed (E and F). (A) Representative photomicrographs for cleaved caspase 3 immunostaining are shown. Cellular
+nuclei were counterstained with DAPI. The arrowhead indicates one of the apoptotic nuclei exhibiting highly fluorescent condensed chromatin. Bar, 100
+μm. Note that all cells in the photomicrographs labeled as “no 6OHDA GFP” expressed GFP, suggesting that transfection efficiency was ∼100%. (B) The
+ratios of the cleaved caspase 3–positive cell number to the total number of GFP-positive cells (i.e., the number of transgene-expressing cells) for each
+condition are shown relative to the ratio under the GFP-only expressing condition. (C) The ratios of cell numbers with apoptotic nuclei to the total number
+of GFP-positive cells for each condition are shown relative to the ratio under the GFP-only expressing condition. (D) The protective effects of the inhibition
+of ZNRF1 signaling against neuronal cell death by 6OHDA were quantitatively assessed by an LDH release assay using primary cultured cortical neurons.
+Quantified levels for LDH activity in culture media from each condition relative to the no treatment control are shown. Note that the inhibition of ZNRF1
+signaling exerted protective effects against neuronal cell death, similar to that caused by the inhibition of apoptosis with the overexpression of BCL2 or the
+z-VAD fmk treatment, suggesting that the inhibition of ZNRF1-elicited signaling protects 6OHDA-treated neurons from apoptosis. (E and F) Representative
+immunoblots (E) and quantified expression levels for caspase 3 normalized to β-actin relative to the no infection control without the 6OHDA treatment (F)
+are shown. Data are presented as the mean ± SEM. n = 5. Significant differences from the control (**, P < 0.01) were determined by a one-way ANO​VA
+with Tukey’s post-hoc test. AU, arbitrary units.
+888
+
+JCB • Volume 211 • Number 4 • 2015
+
+Published November 16, 2015
+
+of ZNRF1 signaling by the expression of ZNRF1 C184A or
+ZNRF Y103F protected axons for up to 48  h.  These results
+suggest that the axonal protection afforded by the inhibition
+of ZNRF1 is more modest than that by expression of the Wlds
+protein or loss of SARM1.
+Inhibition of ZNRF1 activation protects
+dopaminergic neurons from oxidative
+stress–induced cell death and axonal
+degeneration in vivo
+
+To assess whether the oxidative stress–induced activation of
+ZNRF1 in neurons also results in apoptosis and axonal degen-
+
+Downloaded from on October 4, 2016
+
+Figure 6.  Phosphorylation of ZNRF1 at Y103
+by EGFR is involved in the progression of
+Wallerian degeneration. (A and B) ZNRF1 is
+phosphorylated at Y103 in neurites from cultured DRG explant neurons during Wallerian
+degeneration in vitro. The Wallerian degeneration of neurites was induced by removing
+cell bodies at 10–14 d in vitro using a pipette
+tip. Representative images of immunoblots at
+the indicated time points (A) and quantified
+expression levels for ZNRF1 pY103 normalized to ZNRF1 relative to the control level
+(before injury) are shown (B). n = 3.  (C and
+D) The neurite protective effects induced by
+ZNRF1–AKT–GSK3B pathway molecules were
+assessed using an in vitro Wallerian degeneration model with neurites overexpressing
+the indicated proteins. (C) Representative
+photomicrographs of degenerating neurites
+expressing the indicated proteins 24  h after
+neurite transection are shown. Bar, 25 µm.
+(D) Neurite degeneration index values calculated for each condition at 24  h are shown.
+n = 5. (E–I) EGFR down-regulation decreases
+ZNRF1 pY103 levels and inhibits Wallerian
+degeneration. ZNRF1 pY103 expression levels with shRNA-mediated EGFR down-regulation were assessed by an immunoblot analysis.
+Representative immunoblots (E), efficiency of
+shRNA-mediated EGFR down-regulation (F;
+normalized by β-actin, relative to the no infection condition), and quantified expression
+levels of ZNRF1 pY103 (G; normalized by
+ZNRF1 relative to the no infection condition)
+are shown. Representative photomicrographs
+for the β-tubulin immunostaining of neurites are
+shown in H. Bar, 50 µm. Neurite degeneration
+index values calculated for each condition at
+24 h are shown in I. Data are presented as the
+mean ± SEM. Significant differences from the
+control (*, P < 0.05; **, P < 0.01) were determined by a one-way ANO​VA with Tukey’s
+post-hoc test. AU, arbitrary units.
+
+eration in vivo, we examined 6OHDA-induced apoptosis in Tg
+overexpressing ZNRF1 C184A. We generated two independent
+Tg lines (lines 474 and 492) bearing ZNRF1 C184A–IRES–GFP
+cDNA, the expression of which is inducible by the Cre-mediated
+excision of the loxP-flanked cassette. Using these Tg lines, we
+performed an intranigral injection of adenoviruses expressing
+Cre recombinase and induced transgene expression in the ipsilateral striatum or substantia nigra (SN), as confirmed by immunoblotting or a fluorescent microscopic analysis (Fig. 8, A and B).
+Intrastriatal injections of 6OHDA have been shown to produce
+the degeneration of dopamine neurons in the SN and damage
+their nerve endings in the striatum (Grünblatt et al., 2000; Cheng
+
+ZNRF1 E3 ubiquitin ligase regulates neurodegeneration • Wakatsuki et al.
+
+889
+
+Published November 16, 2015
+
+Downloaded from on October 4, 2016
+Figure 7.  Inhibition of NAD​PH oxidases prevents ZNRF1 phosphorylation and delays Wallerian degeneration in vitro. (A and B) NAD​PH oxidase inhibitors, but
+not C56, an EGFR inhibitor, prevent the generation of oxidative stress in degenerating neurites of cultured DRG neurons. Oxidative stress in the transected neurites
+of cultured DRG neurons with or without the indicated inhibitors was visualized using the fluorogenic probe CellROX deep red. The green fluorescent reagent DTAF
+was used for neurite staining. (A) Representative photomicrographs of the fluorescent signal in transected neurites are shown. Bar, 25 µm. (B) Quantified levels of
+fluorescent intensities for CellROX normalized to DTAF relative to the level in the control (labeled as “no addition, neurite transection”) are shown. Note that the
+generation of oxidative stress in the transected neurites in cultured DRG neurons was blocked by the NAD​PH oxidase inhibitors DPI and apocynin, but not the
+EGFR inhibitor C56. (C–F) Effects of the down-regulation of the catalytic subunits of the NAD​PH oxidases NOX2, 3, 4, DUOX1, and 2 were assessed using an in
+vitro Wallerian degeneration model with cultured DRG neurons. Representative immunoblots for ZNRF1 pY103 and ZNRF1 (C) and quantified expression levels
+for ZNRF1 pY103 normalized to ZNRF1 relative to the control (D; nontarget control shRNA–expressing, neurite-transected condition) are shown. (E) Representative
+photomicrographs for the β-tubulin immunostaining of neurites are shown. Bar, 50 µm. (F) Neurite degeneration index values calculated for each condition at 24 h
+are shown. (G) Up-regulation of EGFR kinase activity in neurites after transection. Immunopurified EGFR protein samples from the neurites of cultured DRG explant
+neurons 3 h after transection in the presence or absence of the NAD​PH oxidase inhibitors, apocynin and DPI, were subjected to the kinase assay. Quantified EGFR
+kinase activity levels in each condition relative to the control (labeled as “−transection/no addition“) are shown. Note that EGFR activity increases in neurites after
+injury are dependent on oxidative stress generated by NAD​PH oxidase activity. Data are presented as the mean ± SEM. n = 5. Significant differences from the
+control (*, P < 0.05; **, P < 0.01) were determined by a one-way ANO​VA with Tukey’s post-hoc test. nd, no significant difference.
+890
+
+JCB • Volume 211 • Number 4 • 2015
+
+Published November 16, 2015
+
+Figure 8.  Inhibition of ZNRF1 ubiquitin ligase activity preserves dopaminergic neurons in an in vivo 6OHDA-lesioned
+model. (A and B) A unilateral intranigral injection of the
+Cre-expressing adenoviral vector was performed to induce
+ZNRF1 C184A expression in the two independent Tg lines
+(lines 474 and 492) bearing ZNRF1 C184A–IRES–GFP
+cDNA, the expression of which is induced by the Cre-mediated
+excision of the loxP-flanked cassette. Transgene expression
+levels in the striatum (A, left) or SN (B) were confirmed by
+immunostaining using anti-GFP and anti-MYC antibodies. An
+immunoblot analysis against cell lysates from the ipsilateral
+(+) or contralateral (−) striatum 5 d after the adenovirus injection was also performed (A, right). Bars: (A) 500 µm; (B, top)
+250 µm; (B, bottom) 25 µm. (C–F) The neuroprotective effects
+of ZNRF1 C184A expression were assessed by TH immunoreactivity 7 d after the 6OHDA injection into the striatum (C
+and D) and SN (E and F). Representative photomicrographs
+for the immunostaining of TH on coronal sections are shown
+in C. Bar, 500 µm. Relative immunofluorescent intensities in
+the ipsilateral to contralateral striatum for each condition are
+shown in D.  Representative photomicrographs of the immunostaining of TH in the SN are shown in E.  Bar, 250 µm.
+Ratios of the number of TH-positive neurons in the ipsilateral to
+contralateral SN for each condition are shown in F. Data are
+presented as the mean ± SEM. n = 3. Significant differences
+from the no infection condition (*, P < 0.05; **, P < 0.01)
+were determined by the two-tailed Student’s t test.
+
+Downloaded from on October 4, 2016
+
+et al., 2011; Blandini and Armentero, 2012). After an injection of
+6OHDA within the striatum, the viability of ipsilateral neurons
+was determined by immunostaining against the marker for dopaminergic neurons, tyrosine hydroxylase (TH), and compared
+with that of the uninfected control. The quantification of TH immunoreactivity at axon terminals within the striatum (Fig. 8, C
+and D) and counting the number of TH-positive neurons within
+the SN (Fig. 8, E and F) in two independent Tg lines revealed the
+protective effects of the expression of ZNRF1 C184A against
+6OHDA-induced axonal degeneration and neuronal cell death,
+respectively. These results strongly suggest that the inhibition
+of ZNRF1 ubiquitin ligase activity protects neurons against
+6OHDA-induced apoptosis and Wallerian-like degeneration in
+vivo. Collectively, the results of this study indicate that the activa-
+
+tion of ZNRF1 by oxidative stress is sufficient to trigger neuronal
+degeneration, whereas the prevention of ZNRF1 activity protects
+neurons from apoptosis and Wallerian-like degeneration.
+
+Discussion
+We herein demonstrated that the inhibition of ZNRF1-elicited
+signaling in neurons prevents oxidative stress–induced neuronal
+apoptosis and axonal degeneration in vitro as well as in vivo.
+Previous studies showed that the Wlds protein, which is responsible for the delayed axonal degeneration phenotype observed
+in naturally occurring wlds mutant mice, provides robust protection against TH-positive fiber loss, but little or no protection
+
+ZNRF1 E3 ubiquitin ligase regulates neurodegeneration • Wakatsuki et al.
+
+891
+
+Published November 16, 2015
+
+892
+
+JCB • Volume 211 • Number 4 • 2015
+
+signaling initiated by the activation of ZNRF1 degrades axons
+through the destabilization of the cytoskeletal structure. Multiple signaling pathways are required to regulate the progression
+of axonal degeneration, presumably because multiple, different
+cellular events need to be targeted with different time frames for
+the efficient progression of axonal degeneration.
+
+Materials and methods
+Generation of Tg
+
+The coding region of ZNRF1 was amplified by PCR using LA-taq
+(Takara Bio Inc.) from an EST-tagged clone (GenBank accession
+no. NM_133206) and then cloned into pcDNA3. The MYC-tagged
+dominant-negative form of ZNRF1 (ZNRF1-MYC C184A, in which
+the cysteine at 184 was converted to alanine) was generated by
+PCR-mediated site-directed mutagenesis (Cormack, 2001; Wakatsuki
+et al., 2011). The integrity of each clone was confirmed by sequencing.
+Tg were generated by a microinjection of the cDNA encoding chicken
+β-actin promoter–loxP–neomycin-resistance gene–loxP–ZNRF1
+C184R-MYC–IRES–EGFP–SV40 polyA (i.e., mice harboring the
+ZNRF1 C184A transgene in a silent state) into fertilized C57BL/6J
+mouse oocytes using the following standard procedure (Conner, 2004).
+The genomic integration of transgenes was examined by PCR with
+the following primer sets: 5′-CTC​TGCAC​ATCGC​ACCCA​GGTGG​
+TTCAGC-3′ and 5′-TCC​TCTTC​AGAGA​TGAGT​TTCTG​CTCG-3′.
+The PCR conditions were 94°C for 2 min, 94°C for 30  s, 63°C for
+30  s, and 72°C for 30  s, performed for 35 cycles. All animals were
+maintained in accordance with the guidelines of the National Center for
+Neurology and Psychiatry. The technical protocols for animal experiments in this study were approved by the Committee for Small Animal
+Research and Animal Welfare of the National Center for Neurology
+and Psychiatry or the Animal Care and Use Committee of the National
+Cerebral and Cardiovascular Center.
+Antibodies
+
+The antibodies used and their sources are as follows: rabbit anti-ZNRF1
+antiserum (Saitoh and Araki, 2010); rabbit anti-AKT antibody (9272;
+Cell Signaling Technology); rabbit anti-CRMP2 antibody (11098;
+IBL-America); rabbit anti–phospho-CRMP2 (threonine 514) antibody
+(9397; Cell Signaling Technology); rabbit anti–caspase 3 and rabbit
+anti–cleaved caspase 3 antibodies (9662 and 9661; Cell Signaling Technology); mouse anti–β-actin antibody (622101; BioLegend); mouse
+antiubiquitin antibodies MMS-258R (Covance) and clone FK2 (Enzo
+Life Sciences); mouse anti-HA antibody (MMS-101R; Covance); mouse
+anti-MYC tag antibody (clone 9E10; Developmental Studies Hybridoma
+Bank); mouse anti-FLAG antibody (clone M2; Sigma-Aldrich); rabbit
+anti-TH antibody (AB152; EMD Millipore); rabbit anti-GFP antibody
+(598; MBL); mouse anti-NeuN antibody (clone A60; EMD Millipore);
+mouse antiphosphotyrosine antibody (clone PY20; Sigma-Aldrich);
+mouse antiphosphoserine antibody (clone 4A4; EMD Millipore); mouse
+antiphosphothreonine antibody (clone 42H4; Cell Signaling Technology); rabbit anti-NOX2 antibody (BS-3889R; Bioss); rabbit anti-NOX3
+antibody (BS-3683R; Bioss); rabbit anti-NOX4 antibody (ABIN702670;
+antibodies-online.com); rabbit anti-DUOX1 antibody (ABIN1386159;
+antibodies-online.com); rabbit anti-DUOX2 antibody (NB110-61576;
+Novus Biologicals); and anti-EGFR antibody (4267; Cell Signaling
+Technology). To generate the antiserum for phosphorylated ZNRF1
+at Y103, a synthetic phosphotyrosine peptide corresponding to amino
+acids 88–116 (GGG​STSDS​TYAHG​NGpYQE​TGGGH​HRDGM​LYL)
+of mouse ZNRF1 was used to immunize rabbits following standard
+procedures (Scrum). An anti–ZNRF1 pY103 antibody was purified by
+
+Downloaded from on October 4, 2016
+
+for dopaminergic neuronal cell bodies in rodent Parkinson’s
+disease models induced by 6OHDA or 1-methyl 4-phenyl
+1,2,3,6-tetrahydropyridine (Sajadi et al., 2004; Press and Milbrandt, 2008). These results suggest that cellular signaling to
+induce neuronal cell death is independent of that for axonal
+degeneration, and also that Wlds protein-mediated protection
+is mainly effective for axons in these models. The present results suggest that ZNRF1 mediates two major neurodegenerative pathways, axonal degeneration and neuronal apoptosis,
+by translating oxidative stress into subcellular signaling within
+neurons. The identification of effective methods that intervene
+in ZNRF1 signaling may lead to the development of therapeutics for neurodegeneration.
+The enzymatic activities of some E3 ligases are subject
+to regulation by protein phosphorylation. For example, the E3
+ligase Itch protein alters its catalytic activity through a conformational change by c-Jun amino-terminal kinase-mediated
+phosphorylation, which induces the disruption of an intramolecular inhibitory interaction (Gallagher et al., 2006). The phosphorylation of ZNRF2, another member of the ZNRF protein
+family, influences its interaction with the substrate, the 14–
+3-3 protein, and its association with intracellular membranes
+(Hoxhaj et al., 2012). In this context, the phosphorylation of
+ZNRF2 at serine 19, which is located outside the zinc finger
+region responsible for substrate binding, releases ZNRF2 from
+the plasma membrane to the cytosol, resulting in decreased catalytic activity. In contrast, ZNRF1 pY103, which also occurs
+outside the zinc finger domain, leads to the up-regulation of its
+catalytic activity. Thus far, we have found that this phosphorylation does not affect its ability to associate with AKT (unpublished data); however, the underlying mechanism regulating
+ZNRF1 activity has not yet been elucidated in detail. Further
+studies are needed to determine whether ZNRF1 pY103 affects
+its intracellular localization and/or other mechanisms to modify
+its ubiquitin ligase activity.
+When taken together with our previous findings (Wakatsuki et al., 2011), the results of the present study demonstrate
+that AKT activity in neurons provides protection against axonal
+degeneration by suppressing the activation of GSK3B. This is
+consistent with previous studies showing that the activation of
+GSK3B is sufficient to promote axonal degeneration (Gerdts
+et al., 2011; Chen et al., 2012). Sterile α-motif–containing and
+armadillo-motif–containing protein 1 (SARM1), a toll-like receptor adapter family member, was recently found to play an
+important role in injury-induced axonal degeneration (Osterloh et al., 2012; Gerdts et al., 2013, 2015). Yang et al. (2015)
+showed that the MAPK pathway plays an important role in
+intracellular signaling downstream of SARM1 and that AKT
+phosphorylates MKK4 at serine 78 in order to inhibit prodegenerative signaling. The apparent difference in the role of AKT between these findings and our results may reflect the complexity
+of kinase signaling regulating axonal degeneration. As shown
+in this study, the activation of ZNRF1 by increased oxidative
+stress in axons is initiated within a few hours of injury and lasts
+for >1 d.  However, Yang et al. (2015) reported that the phosphorylation of MKK4 serine 78 increased 1–5 min after injury,
+suggesting that axonal injury elicits acute signals to activate
+AKT. Although the activation mechanism currently remains unknown, these findings, together with our results, suggest that
+AKT activity is affected by multiple different regulatory signals
+at different time frames. The Sarm1–MAPK pathway is known
+to elicit energy deficits in axons during degeneration, whereas
+
+Published November 16, 2015
+
+chromatography over an affinity column using the antigen peptide. The
+specificity of the affinity-purified anti–ZNRF1 pY103 antibody was confirmed by an immunoblot analysis with lysates of Neuro-2a cells expressing WT ZNRF1 or the phosphorylation-resistant mutant ZNRF1 Y103F
+maintained with 6OHDA. HRP-conjugated (Vector Laboratories), Alexa
+Fluor 565–conjugated, and Alexa Fluor 488–conjugated (Molecular
+Probes) antibodies were used as secondary antibodies for detection.
+
+X-100, 0.5% sodium deoxycholate, 100-mM NaCl, and 20-mM TrisHCl, pH 7.4) containing protease and phosphatase inhibitor cocktails.
+The EGFR protein was eluted with a kinase reaction buffer containing
+10-mM 2-mercaptoethanol and incubated with an immobilized tyrosine
+kinase substrate at 37°C for 30 min in the presence of ATP. Samples
+were washed three times, blocked with blocking solution, and incubated with an antiphosphotyrosine antibody conjugated to HRP. The
+absorbance of the phosphorylated substrate was measured at 450 nm.
+
+Cortical neuron culture
+
+DRG explant culture and in vitro Wallerian degeneration
+
+Murine DRG explants dissected from the E13.5 embryos of wlds (Harlan Bioproducts.) or C57BL/6J mice (Japan SLC) were cultured on
+poly-l-lysine– and laminin-coated 24-well plates in Neuro medium
+containing 10% FBS and 25 ng/ml NGF (Harlan Bioproducts). After
+24 h, the culture medium was changed to Neuro medium supplemented
+with 2% NeuroBrew-21, 25 ng/ml NGF, 1-mM glutamine, and a mixture of 1-mM 5′-fluoro-2′-deoxyuridine and 1-mM uridine to remove
+nonneuronal cells. The in vitro Wallerian degeneration of neurites was
+initiated by removing cell bodies at 10–14 d in vitro using a pipette tip.
+In experiments using adenoviral vectors, the adenovirus solution (5 µl;
+5 × 106–107 pfu) was applied to each DRG explant culture 3 d before
+the initiation of Wallerian degeneration.
+EGFR kinase assay
+
+EGFR kinase activity was quantified using a Universal Tyrosine Kinase Assay kit (Takara Bio Inc.) according to the manufacturer’s instructions. The EGFR protein was collected by immunoprecipitation
+using an anti-EGFR antibody from the cell lysates prepared from neurites of cultured DRG explant neurons after transection in the presence or absence of the NAD​PH oxidase inhibitors apocynin and DPI.
+Immunoprecipitates were washed twice with lysis buffer (1% Triton
+
+Evaluation of oxidative stress
+
+Oxidative stress in the transected neurites of cultured DRG neurons
+was evaluated using CellROX deep red according to the manufacturer’s
+protocol (Life Technologies). Neurites were also stained with 5-(4,6dichlorotriazinyl) aminofluorescein (DTAF; Life Technologies; Zhou
+et al., 2004). Three nonoverlapping images per explant were randomly
+collected for analyses, and more than five explants were examined for
+each experimental condition. To evaluate oxidative stress in the transected neurites, the fluorescent intensities of each image were measured using ImageJ software (National Institutes of Health). Quantified
+levels of fluorescent intensities for CellROX normalized to DTAF were
+averaged and compared with those of the control.
+LDH release assay
+
+Downloaded from on October 4, 2016
+
+Cerebral hemispheres were removed separately from C56BL/6J mice on
+embryonic day (E) 14 and dissociated by papain. Cells were seeded at
+a density of 2 × 105 cells/well onto 24-well plates coated with poly-llysine (Sigma-Aldrich) and laminin (Sigma-Aldrich) in DMEM containing 10% FBS. From the third day in vitro, cultures were maintained in
+Neuro medium (Miltenyi Biotec) containing 2% NeuroBrew-21 (Miltenyi
+Biotec) and 1-mM glutamine. To induce neurotoxicity, cells were treated
+with various concentrations of 6OHDA (Sigma-Aldrich) for the indicated times. Cells were then washed, cultured in Neuro medium containing 2% NeuroBrew-21 and 1-mM glutamine for 24 h, and used in the
+immunoblotting or immunostaining experiments. Staining by 6-CF was
+performed by incubating live cells with 500-µM 6-carboxyfluorescein
+diacetate (6-CFDA; Sigma-Aldrich) at room temperature for 1 h.
+In experiments using adenoviral vectors, the adenovirus solution
+(5 µl; 5 × 106–107 pfu) was added to cultures 48 h before the 6OHDA
+treatment. To achieve proteasomal inhibition, cells were treated
+with 10-µM MG132 for 16 h.
+Cells for siRNA transfection were seeded at a density of 106 cells/
+well on 6-well plates and cultured as described in the first paragraph
+of this subsection. Control or targeting siRNAs for the gene of interest
+were transfected into cultured neurons using DharmaFECT1 transfection reagent according to the manufacturer’s protocol (Thermo Fisher
+Scientific). The siRNA effect was analyzed by immunoblotting 72  h
+after transfection. The siRNAs used in this study were purchased from
+QIA​GEN (negative control siRNA, 1022076, 5′-AAT​TCTCC​GAACG​
+TGTCAC
+​ GT-3′; ZNRF1-targeting siRNA #1, SI05382328; and ZNRF1targeting siRNA #2, SI01483097, 5′-AGA​GGATT​TAATA​ATCAC​
+AAA-3′) or from Bioneer (EGFR-targeting siRNA #1, SDO-10061353550, 5′-GAC​ATCGT​CCAAA​ACGTCT-3′; and EGFR-targeting
+siRNA #2, SDO-1006-1353552, 5′-GAG​GATGT​ACAAC​AACTGT-3′).
+
+The extent of cell death was quantitatively assessed by measuring the release of LDH into the culture media (Lobner, 2000) using the cytotoxicity LDH assay kit (Dojindo) according to the manufacturer’s protocol. In
+brief, primary cultured cortical neurons were treated with 20-µM 6OHDA
+for 3 h and maintained in fresh media. After 24 h, the culture medium from
+each condition was transferred to a 96-well plate for the quantification of
+LDH. The absorbance of each sample was read at 490 nm using a microplate reader (SpectraMax M2; Molecular Devices).
+Immunoblot and immunoprecipitation
+
+In immunoblot analyses, cultured cells or tissues were homogenized
+in radioimmunoprecipitation assay (RIPA) buffer (1% Triton X-100,
+0.5% sodium deoxycholate, 0.1% SDS, 150-mM NaCl, and 50-mM
+Tris-HCl, pH 7.5) containing phosphatase and protease inhibitor cocktails (Nacalai Tesque). Equal amounts of protein were separated by
+SDS-PAGE followed by immunoblotting. Immunoreactivity was visualized using HRP-conjugated secondary antibodies and a chemiluminescent substrate (Wako Pure Chemical Industries). The detection
+of phosphoproteins using Phos-Tag was performed according to the
+manufacturer’s protocol. In brief, the polyvinylidene fluoride membrane was probed using the complex of Phos-Tag Biotin (Phos-Tag =
+1,3-bis[bis(pyridin-2-ylmethyl)amino]propan-2-olato dizinc(II) complex; Wako Pure Chemical Industries) with HRP-conjugated streptavidin, and Phos-Tag–bound phosphoproteins were then detected by using
+the chemiluminescent substrate. Chemiluminescent images were captured by LAS4000-mini and quantified using ImageJ software. Scans at
+multiple exposures were obtained to ensure that the results fell within
+the linear range of the instrument.
+Regarding immunoprecipitation, cells or tissues were lysed in
+TNE buffer (1% Triton X-100, 100-mM NaCl, and 20-mM Tris-HCl,
+pH 7.5) containing protease inhibitor cocktail. After centrifugation at
+15,000 g for 30 min, the supernatant was incubated at 4°C overnight with
+the primary antibody. After being incubated with protein A–coupled
+Dynabeads, proteins were eluted by boiling for 5 min in Laemmli sample buffer and analyzed by immunoblotting.
+In vitro phosphorylation and ubiquitination assays
+
+The AKT protein or ZNRF1 protein was generated in Escherichia
+coli as a GST fusion or His-tagged protein, respectively. Recombinant
+
+ZNRF1 E3 ubiquitin ligase regulates neurodegeneration • Wakatsuki et al.
+
+893
+
+Published November 16, 2015
+
+Viral vectors and infection
+
+The pAxCAL​NLwtit2 cosmid vector (Takara Bio Inc.) was used in
+all experiments involving adenovirus-mediated gene expression for
+the Cre recombinase–mediated activation of the genes of interest and
+EGFP to visualize transgene activation in live cells by way of an internal ribosome entry site. A recombinant adenovirus was generated
+using an adenovirus expression kit (Takara Bio Inc.) according to the
+manufacturer’s instructions. The design of cDNAs used in this study
+involved the generation of the FLAG-tagged phosphorylation-resistant
+form of ZNRF1 (ZNRF1-FLAG Y103F, in which tyrosine at 103 was
+converted to phenylalanine) using PCR-mediated site-directed mutagenesis. The coding regions of GSK3B and CRMP2 were amplified by
+PCR using LA-taq from corresponding ESTs (GenBank accession nos.
+BC006936 for mouse GSK3B and NM_009955 for mouse CRMP2)
+and cloned into the pIRES2-EGFP plasmid (Takara Bio. Inc.). The integrity of each clone was confirmed by sequencing. A MYC tag and
+HA tag were added to the carboxyl termini of GSK3B and CRMP2,
+respectively, for detection. The plasmid expressing AKT was provided
+by Y. Gotoh (The University of Tokyo, Tokyo, Japan; Masuyama et al.,
+2001). The kinase-dead form of AKT (AKT-HA T308A and S473A,
+in which these two amino acids were converted to alanines), the constitutively active form of GSK3B (GSK3B-MYC S9A, in which the
+serine at 9 was converted to alanine), the kinase-dead form of GSK3B
+(GSK3B-MYC K85M, in which the lysine at 85 was converted to methionine), and the dominant-negative form of CRMP2 (CRMP2-HA
+T514A, in which the threonine at 514 was converted to alanine) were
+generated using PCR-mediated site-directed mutagenesis (Cormack,
+2001). The constitutively active form of AKT (myrAKT-HA) was generated by adding a myristoylation site derived from mouse Src tyrosine
+kinase to the amino-terminal end of the AKT-HA construct. The purification and concentration of adenoviral vectors were performed by two
+rounds of cesium chloride density gradient centrifugation and centricon
+centrifugal filter devices (EMD Millipore), respectively, according to
+the manufacturer’s instructions. Viral titers in HEK293 cells were determined with a plaque-forming assay.
+894
+
+JCB • Volume 211 • Number 4 • 2015
+
+In experiments using lentiviral vectors, control and ZNRF1specific shRNAs in the pLKO.1 puromycin-resistant lentiviral vector
+were purchased from Sigma-Aldrich. The following clones were used:
+EGFR #1, TRC000023479; EGFR #2, TRC000023481; NOX2 #1,
+TRC0000435339; NOX2, TRC0000415639; NOX3 #1, TRC000076593;
+NOX3 #2, TRC0000415639; NOX4 #1, TRC000076584; NOX4
+#2, TCR000076585; DUOX1 #1, TTRC0000252145; DUOX2
+#2, TCR0000252147; DUOX2 #1, TTRC000076654; DUOX2
+#2, TCR000076655; ZNRF1 #1, TRCN0000040745; ZNRF1 #2,
+TRCN0000040747; SARM1, TRCN0000193408; and nontarget control, SHC002. Lentiviral packaging was performed using HEK293T
+cells, as previously described (Wakatsuki et al., 2011). pLKO.1 vectors
+with each shRNA were transfected with delta 8.9 and vesicular stomatitis virus glycoprotein plasmids into HEK293FT cells using Lipofectamine 2000. Transfected cells were incubated at 37 °C for 4  h before
+changing media to the target cell culture media. Cells were incubated
+for 20 h before collecting the viral supernatant. Media were replaced,
+and the viral supernatant was collected again 24  h later. All supernatants were filtered using a nylon filter with a pore diameter of 0.45  µm
+and stored at −80 °C.
+6OHDA lesions and intranigral injection of adenoviral vectors
+
+To induce 6OHDA lesions, mice were anesthetized using an intraperitoneal injection of 0.4 g/kg avertin and placed in a stereotaxic frame
+with a mouse adapter. 6OHDA hydrochloride was prepared at 15 µg
+(total weight)/1.0 µl in 0.9% NaCl/0.02% ascorbic acid and infused by
+a Hamilton syringe at a concentration of 5 µg/µl and rate of 0.5 µl/min
+for 8 min at a total dose of 20 µg. The needle of the syringe was inserted
+into the right striatum at the coordinates anterior-posterior (AP) 0.09
+cm, medial-lateral (ML) 0.22 cm, and dorsal-ventral (DV) −0.25 cm,
+relative to the bregma. After 5 min, the needle was withdrawn slowly.
+Regarding the intranigral injection of the adenoviral vector, the adenoviral vector solution (1 µl; 5 × 108–109 pfu) was injected using a Hamilton syringe at a rate of 0.5 µl/min over 20 min. The needle of the syringe
+was inserted into the right striatum at the coordinates AP −0.34 cm,
+ML 0.14 cm, and DV −0.43 cm, relative to the bregma. These coordinates placed the needle tip dorsal to the posterior SN. After 5 min,
+the needle was slowly withdrawn. The successful transduction of the
+transgene in the dopaminergic neurons of the SN was confirmed histologically by immunostaining or immunoblotting.
+Microscopy image acquisition
+
+In immunohistochemical analyses, mice were fixed with 4%
+PFA/0.1-M phosphate buffer, pH 7. To analyze TH immunoreactivity
+in the striatum and SN, the midbrain and forebrain regions were separated. Coronal sections (20 µm thick) were cut on a cryostat (Microm
+HM550; Carl Zeiss). The forebrain ∼3 mm from the bregma was collected, embedded in paraffin, and 5-µm-thick coronal sections were cut
+on a microtome for the analysis of brain tissues after MCAo. In the
+immunocytochemical analysis of the neurites of cultured DRG neurons
+and cortical neurons, cells/neurites were fixed with 4% PFA in PBS
+and then permeabilized with 0.2% Triton X-100 in PBS. An incubation
+with a primary antibody was performed at 4°C overnight, followed by
+a secondary antibody at room temperature for 1  h.  Primary antibodies were as follows: mouse anti-TH antibody (diluted 1:1,000), rabbit
+anti-GFP antibody (diluted 1:500), rabbit anti–βIII-tubulin antiserum
+(diluted 1:1,000), rabbit anti–cleaved caspase 3 antiserum (diluted
+1:200), rabbit anti-GFP antiserum (diluted 1:500), rabbit anti-CRMP2
+pT514 (diluted 1:100), rabbit anti-ZNRF1 pY103 (diluted 1:100), and
+mouse anti-NeuN (diluted 1:100). Secondary antibodies are as follows:
+donkey Alexa Fluor 488–labeled mouse IgG (diluted 1:500), donkey
+Alexa Fluor 488–labeled anti–rabbit IgG (diluted 1:500), sheep Alexa
+
+Downloaded from on October 4, 2016
+
+active EGFR was purchased from GenWay Biotech. Recombinant ubiquitin-activating enzyme E1 (Ube1), recombinant human UbcH5c, and
+recombinant human ubiquitin were purchased from Enzo Life Sciences.
+To achieve in vitro phosphorylation, the His-tagged ZNRF1 protein (0.5 µg) was incubated with or without 0.1 µg of recombinant active
+EGFR in a reaction volume of 25 µl (50-mM Tris-HCl, pH 7.5, 0.1-mM
+EGTA, 10-mM MgAc, 1% DTT, and 0.1-mM ATP) at 30°C for the
+indicated time. The reactions were analyzed by SDS-PAGE using 12%
+polyacrylamide gels containing 50-µM Phos-Tag acrylamide (Wako
+Pure Chemical Industries) and 100-µM MnCl2 (Kinoshita et al., 2006).
+After electrophoresis, Phos-Tag acrylamide gels were washed with gentle shaking in transfer buffer containing 1-mM EDTA for 10 min and
+then incubated in transfer buffer without EDTA for 10 min according
+to the manufacturer’s protocol. Proteins were analyzed using an immunoblot analysis. The direct phosphorylation of ZNRF1 by EGFR was
+confirmed by a treatment with λPP (Santa Cruz Biotechnology, Inc.).
+Regarding in vitro ubiquitination, the ubiquitination assay mastermix (25-mM Tris-HCl, pH 8.0, 100-mM NaCl, 1-mM DTT, 1-mM
+MgCl2, 100-µM ZnSO4, 2-mM ATP, 1 µg ubiquitin, 100 ng Ube1, 150
+ng UbcH5c, and 1 µg GST-AKT) was added to the aforementioned
+assays to a final volume of 50 µl for in vitro phosphorylation. Ubiquitination reactions were incubated at 30°C for 2 h. In all assays, reactions were terminated by adding SDS-PAGE sample buffer, boiling
+for 10 min, and then separating samples on SDS-PAGE. The E3 ligase
+activity of ZNRF1 was assessed by an immunoblot analysis using an
+antiubiquitin antibody.
+
+Published November 16, 2015
+
+Fluor 565–labeled anti–mouse IgG (diluted 1:500), and sheep Alexa
+Fluor 565–labeled rabbit IgG (diluted 1:500). Cell nuclei were identified with DAPI. Specimens were mounted in Vectashield mounting
+medium (Vector Laboratories). Immunofluorescence was analyzed on
+an inverted microscope (DMI 6000B; Leica) equipped with a 40× objective (HCX PL FLU​OTAR. L; NA 1.35; Leica) or a confocal microscope (FluoView FV1000 IX81; Olympus) equipped with a 60×
+objective (UPlanSApo; NA 1.35; Olympus).
+Inverted microscope images were captured by a charge-coupled
+device camera (DFC360FX; Leica) and analyzed using LAS AF software
+(version 3.2; Leica). Confocal microscope images were obtained and analyzed by FluoView FV10-ASW 3.1 software (Olympus). Images were
+taken with a constant exposure time between all the conditions of the
+same experiment and were processed using Photoshop software (Adobe).
+Quantification of TH immunoreactivity in the striatum or SN
+
+MCAo
+
+Adult male CB-17 mice were purchased from CLEA Japan. Permanent MCAo was produced by a previously described method (Taguchi
+et al., 2010). In brief, a skin incision was made between the left eye
+and ear under isoflurane anesthesia (4.0% for induction and 1.5–2.0%
+for maintenance). The zygoma was dissected to visualize the MCA
+through the cranial bone. A hole was made in the temporal bone using
+a miniature drill (MIN​ITOR). The left MCA was electrocauterized and
+disconnected just distal to its crossing of the olfactory tract. Brain tissues were fixed with 4% PFA at the indicated time after MCAo. In
+our MCAo model, the loss of NeuN-positive cells in the ischemic penumbra was observed in coronal sections −3 mm from the bregma. To
+prepare brain homogenates, a series of frozen coronal sections in a similar coronal position from sham control and MCAo mice brains (three
+independent experiments in each group) were collected, lysed in RIPA
+buffer, and subjected to further analyses.
+Statistical analysis
+
+Results were expressed as the mean ± SEM. The significance of differences between groups was examined using a one-way analysis of variance (ANO​VA) with Tukey’s post-hoc test or a two-tailed Student’s t test.
+Online supplemental material
+
+Fig. S1 demonstrates that ZNRF1 is specifically phosphorylated at Y103
+in neurons in response to oxidative stress in vitro and in vivo. Fig. S2
+demonstrates that ZNRF1 signaling is activated in response to oxidative
+stress. Fig. S3 demonstrates that the down-regulated expression of
+EGFR results in the inhibited activation of ZNRF1 and subsequent
+
+Acknowledgments
+We thank Dr. Noriyuki Matsuda for his technical advice.
+This work was supported in part by a Grant-in-Aid for Scientific Research on Innovative Areas (Brain Environment) from the Ministry of
+Education, Culture, Sports, Science and Technology (to S. Wakatsuki);
+a Grant-in-Aid for Scientific Research from the Japan Society for the
+Promotion of Science (to S. Wakatsuki); an Intramural Research Grant
+for Neurological and Psychiatric Disorders from the National Center
+of Neurology and Psychiatry (to T. Araki); and grants from the Takeda
+Science Foundation (to S. Wakatsuki and T. Araki), Suzuken Memorial
+Foundation (to S. Wakatsuki), Japan Foundation for Applied Enzymology (to S. Wakatsuki), and Pfizer academic contributions (to T. Araki).
+
+Downloaded from on October 4, 2016
+
+Morphological changes in the striatum or SN were photographed, and
+the images were processed using Photoshop software. The intensity of
+TH staining on both sides of the striatum was measured using ImageJ
+software. The intensity from the background reading was also measured.
+The difference in intensity between the background and TH staining was
+calculated and used in data analyses. To estimate the number of dopaminergic neurons in the SN, TH-positive neurons were counted in every five
+coronal slices throughout the midbrain, and the sum multiplied by five was
+taken as the total number of TH-positive neurons in the SN. Data were
+obtained from 20–25 slices per mouse. The ipsilateral/contralateral ratios
+of the intensity of TH immunoreactivity for the striatum or the estimated
+number of TH-positive neurons for the SN were averaged and compared
+between the two treatment groups. To prepare brain homogenates, a series
+of frozen coronal sections distributed between the coordinates AP 0.2 and
+0 cm from the bregma in the ipsilateral or contralateral hemisphere (three
+independent experiments in each group) were collected, lysed in RIPA
+buffer, and subjected to further analyses.
+
+apoptosis in cultured cortical neurons in response to 6OHDA. Fig. S4
+demonstrates that the progression of Wallerian degeneration is delayed
+by antioxidants, NAD​PH oxidase inhibitors, and an EGFR inhibitor.
+Fig. S5 shows the down-regulation of the catalytic subunits of NAD​
+PH oxidases by specific shRNA in cultured DRG neurons. Online
+supplemental material is available at http​://www​.jcb​.org​/cgi​/content​
+/full​/jcb​.201506102​/DC1. Additional data are available in the JCB
+DataViewer at http​://dx​.doi​.org​/10​.1083​/jcb​.201506102​.dv.
+
+The authors declare no further competing financial interests.
+Submitted: 22 June 2015
+Accepted: 19 October 2015
+
+References
+Araki, T., and J. Milbrandt. 2003. ZNRF proteins constitute a family of presynaptic E3 ubiquitin ligases. J. Neurosci. 23:9385–9394.
+Araki, T., Y. Sasaki, and J. Milbrandt. 2004. Increased nuclear NAD biosynthesis
+and SIRT1 activation prevent axonal degeneration. Science. 305:1010–
+1013. http​://dx​.doi​.org​/10​.1126​/science​.1098014
+Barnham, K.J., C.L. Masters, and A.I. Bush. 2004. Neurodegenerative diseases
+and oxidative stress. Nat. Rev. Drug Discov. 3:205–214. http​://dx​.doi​.org​
+/10​.1038​/nrd1330
+Bedard, K., and K.H. Krause. 2007. The NOX family of ROS-generating NAD​
+PH oxidases: physiology and pathophysiology. Physiol. Rev. 87:245–313.
+http​://dx​.doi​.org​/10​.1152​/physrev​.00044​.2005
+Blandini, F., and M.T.  Armentero. 2012. Animal models of Parkinson’s disease.
+FEBS J. 279:1156–1166. http​://dx​.doi​.org​/10​.1111​/j​.1742​-4658​.2012​.08491​.x
+Broughton, B.R., D.C. Reutens, and C.G. Sobey. 2009. Apoptotic mechanisms
+after cerebral ischemia. Stroke. 40:e331–e339. http​://dx​.doi​.org​/10​.1161​/
+STR​OKEAHA​.108​.531632
+Calixto, A., J.S.  Jara, and F.A.  Court. 2012. Diapause formation and
+downregulation of insulin-like signaling via DAF-16/FOXO delays
+axonal degeneration and neuronal loss. PLoS Genet. 8:e1003141. http​://
+dx​.doi​.org​/10​.1371​/journal​.pgen​.1003141
+Chen, M., J.A. Maloney, D.Y. Kallop, J.K. Atwal, S.J. Tam, K. Baer, H. Kissel,
+J.S.  Kaminker, J.W.  Lewcock, R.M.  Weimer, and R.J.  Watts. 2012.
+Spatially coordinated kinase signaling regulates local axon degeneration.
+J.  Neurosci. 32:13439–13453. http​://dx​.doi​.org​/10​.1523​/JNE​UROSCI​
+.2039​-12​.2012
+Cheng, H.C., S.R.  Kim, T.F.  Oo, T.  Kareva, O.  Yarygina, M.  Rzhetskaya,
+C. Wang, M. During, Z. Talloczy, K. Tanaka, et al. 2011. Akt suppresses
+retrograde degeneration of dopaminergic axons by inhibition of
+macroautophagy. J.  Neurosci. 31:2125–2135. http​://dx​.doi​.org​/10​.1523​/
+JNE​UROSCI​.5519​-10​.2011
+Cole, A.R., W.  Noble, L.  van Aalten, F.  Plattner, R.  Meimaridou, D.  Hogan,
+M.  Taylor, J.  LaFrancois, F.  Gunn-Moore, A.  Verkhratsky, et al. 2007.
+Collapsin response mediator protein-2 hyperphosphorylation is an early
+event in Alzheimer’s disease progression. J. Neurochem. 103:1132–1144.
+http​://dx​.doi​.org​/10​.1111​/j​.1471​-4159​.2007​.04829​.x
+Coleman, M. 2005. Axon degeneration mechanisms: Commonality amid diversity.
+Nat. Rev. Neurosci. 6:889–898. http​://dx​.doi​.org​/10​.1038​/nrn1788
+
+ZNRF1 E3 ubiquitin ligase regulates neurodegeneration • Wakatsuki et al.
+
+895
+
+Published November 16, 2015
+
+896
+
+JCB • Volume 211 • Number 4 • 2015
+
+Masuyama, N., K. Oishi, Y. Mori, T. Ueno, Y. Takahama, and Y. Gotoh. 2001. Akt
+inhibits the orphan nuclear receptor Nur77 and T-cell apoptosis. J. Biol.
+Chem. 276:32799–32805. http​://dx​.doi​.org​/10​.1074​/jbc​.M105431200
+Osterloh, J.M., J.  Yang, T.M.  Rooney, A.N.  Fox, R.  Adalbert, E.H.  Powell,
+A.E. Sheehan, M.A. Avery, R. Hackett, M.A. Logan, et al. 2012. dSarm/
+Sarm1 is required for activation of an injury-induced axon death pathway.
+Science. 337:481–484. http​://dx​.doi​.org​/10​.1126​/science​.1223899
+Press, C., and J. Milbrandt. 2008. Nmnat delays axonal degeneration caused by
+mitochondrial and oxidative stress. J. Neurosci. 28:4861–4871. http​://dx​
+.doi​.org​/10​.1523​/JNE​UROSCI​.0525​-08​.2008
+Raff, M.C., A.V.  Whitmore, and J.T.  Finn. 2002. Axonal self-destruction and
+neurodegeneration. Science. 296:868–871. http​://dx​.doi​.org​/10​.1126​/
+science​.1068613
+Ryan, K.A., and S.W. Pimplikar. 2005. Activation of GSK-3 and phosphorylation
+of CRMP2 in transgenic mice expressing APP intracellular domain.
+J. Cell Biol. 171:327–335. http​://dx​.doi​.org​/10​.1083​/jcb​.200505078
+Saitoh, F., and T. Araki. 2010. Proteasomal degradation of glutamine synthetase
+regulates Schwann cell differentiation. J. Neurosci. 30:1204–1212. http​://
+dx​.doi​.org​/10​.1523​/JNE​UROSCI​.3591​-09​.2010
+Sajadi, A., B.L. Schneider, and P. Aebischer. 2004. Wlds-mediated protection of
+dopaminergic fibers in an animal model of Parkinson disease. Curr. Biol.
+14:326–330. http​://dx​.doi​.org​/10​.1016​/j​.cub​.2004​.01​.053
+Taguchi, A., Y. Kasahara, T. Nakagomi, D.M. Stern, M. Fukunaga, M. Ishikawa,
+and T. Matsuyama. 2010. A reproducible and simple model of permanent
+cerebral ischemia in CB-17 and SCID mice. J. Exp. Stroke Transl. Med.
+3:28–33. http​://dx​.doi​.org​/10​.6030​/1939​-067X​-3​.1​.28
+Tsuchiya, D., S.  Hong, Y.  Matsumori, H.  Shiina, T.  Kayama, R.A.  Swanson,
+W.H.  Dillman, J.  Liu, S.S.  Panter, and P.R.  Weinstein. 2003.
+Overexpression of rat heat shock protein 70 is associated with reduction
+of early mitochondrial cytochrome C release and subsequent DNA fragmentation after permanent focal ischemia. J. Cereb. Blood Flow Metab.
+23:718–727.
+Ueda, H., and R. Fujita. 2004. Cell death mode switch from necrosis to apoptosis
+in brain. Biol. Pharm. Bull. 27:950–955. http​://dx​.doi​.org​/10​.1248​/bpb​
+.27​.950
+Wakatsuki, S., F.  Saitoh, and T.  Araki. 2011. ZNRF1 promotes Wallerian
+degeneration by degrading AKT to induce GSK3B-dependent CRMP2
+phosphorylation. Nat. Cell Biol. 13:1415–1423. http​://dx​.doi​.org​/10​.1038​
+/ncb2373
+Wang, J.T., Z.A. Medress, and B.A. Barres. 2012. Axon degeneration: Molecular
+mechanisms of a self-destruction pathway. J. Cell Biol. 196:7–18. http​://
+dx​.doi​.org​/10​.1083​/jcb​.201108111
+Whitmore, A.V., T.  Lindsten, M.C.  Raff, and C.B.  Thompson. 2003. The
+proapoptotic proteins Bax and Bak are not involved in Wallerian
+degeneration. Cell Death Differ. 10:260–261. http​://dx​.doi​.org​/10​.1038​/
+sj​.cdd​.4401147
+Williamson, R., L.  van Aalten, D.M.  Mann, B.  Platt, F.  Plattner, L.  Bedford,
+J.  Mayer, D.  Howlett, A.  Usardi, C.  Sutherland, and A.R.  Cole. 2011.
+CRMP2 hyperphosphorylation is characteristic of Alzheimer’s disease
+and not a feature common to other neurodegenerative diseases.
+J.  Alzheimers Dis. 27:615–625. http​://dx​.doi​.org​/10​.3233​/JAD​-2011​
+-110617
+Yang, J., Z.  Wu, N.  Renier, D.J.  Simon, K.  Uryu, D.S.  Park, P.A.  Greer,
+C.  Tournier, R.J.  Davis, and M.  Tessier-Lavigne. 2015. Pathological
+axonal death through a MAPK cascade that triggers a local energy deficit.
+Cell. 160:161–176. http​://dx​.doi​.org​/10​.1016​/j​.cell​.2014​.11​.053
+Zhong, Q., W. Gao, F. Du, and X. Wang. 2005. Mule/ARF-BP1, a BH3-only E3
+ubiquitin ligase, catalyzes the polyubiquitination of Mcl-1 and regulates
+apoptosis. Cell. 121:1085–1095. http​://dx​.doi​.org​/10​.1016​/j​.cell​.2005​.06​.009
+Zhou, F.Q., J. Zhou, S. Dedhar, Y.H. Wu, and W.D. Snider. 2004. NGF-induced
+axon growth is mediated by localized inactivation of GSK-3beta and
+functions of the microtubule plus end binding protein APC. Neuron.
+42:897–912. http​://dx​.doi​.org​/10​.1016​/j​.neuron​.2004​.05​.011
+Zille, M., T.D.  Farr, I.  Przesdzing, J.  Muller, C.  Sommer, U.  Dirnagl, and
+A.  Wunder. 2012. Visualizing cell death in experimental focal cerebral
+ischemia: Promises, problems, and perspectives. J.  Cereb. Blood Flow
+Metab. 32:213–231.
+
+Downloaded from on October 4, 2016
+
+Coleman, M.P., and M.R. Freeman. 2010. Wallerian degeneration, wld(s), and
+nmnat. Annu. Rev. Neurosci. 33:245–267. http​://dx​.doi​.org​/10​.1146​/
+annurev​-neuro​-060909​-153248
+Conner, D.A. 2004. Transgenic mouse production by zygote injection. In Current
+Protocols in Molecular Biology. John Wiley & Sons Inc., New York.
+Cormack, B. 2001. Directed mutagenesis using the polymerase chain reaction. In
+Current Protocols in Molecular Biology. John Wiley & Sons Inc., New York.
+Elmore, S. 2007. Apoptosis: A review of programmed cell death. Toxicol. Pathol.
+35:495–516. http​://dx​.doi​.org​/10​.1080​/01926230701320337
+Finn, J.T., M. Weil, F. Archer, R. Siman, A. Srinivasan, and M.C. Raff. 2000.
+Evidence that Wallerian degeneration and localized axon degeneration
+induced by local neurotrophin deprivation do not involve caspases.
+J. Neurosci. 20:1333–1341.
+Gallagher, E., M.  Gao, Y.C.  Liu, and M.  Karin. 2006. Activation of the E3
+ubiquitin ligase Itch through a phosphorylation-induced conformational
+change. Proc. Natl. Acad. Sci. USA. 103:1717–1722. http​://dx​.doi​.org​/10​
+.1073​/pnas​.0510664103
+Gandhi, S., and A.Y.  Abramov. 2012. Mechanism of oxidative stress in
+neurodegeneration. Oxid. Med. Cell. Longev. 2012:428010. http​://dx​.doi​
+.org​/10​.1155​/2012​/428010
+Gerdts, J., Y. Sasaki, B. Vohra, J. Marasa, and J. Milbrandt. 2011. Image-based
+screening identifies novel roles for IκB kinase and glycogen synthase
+kinase 3 in axonal degeneration. J. Biol. Chem. 286:28011–28018. http​://
+dx​.doi​.org​/10​.1074​/jbc​.M111​.250472
+Gerdts, J., D.W.  Summers, Y.  Sasaki, A.  DiAntonio, and J.  Milbrandt. 2013.
+Sarm1-mediated axon degeneration requires both SAM and TIR
+interactions. J.  Neurosci. 33:13569–13580. http​://dx​.doi​.org​/10​.1523​/
+JNE​UROSCI​.1197​-13​.2013
+Gerdts, J., E.J. Brace, Y. Sasaki, A. DiAntonio, and J. Milbrandt. 2015. SARM1
+activation triggers axon degeneration locally via NAD+ destruction.
+Science. 348:453–457. http​://dx​.doi​.org​/10​.1126​/science​.1258366
+Grünblatt, E., S. Mandel, and M.B. Youdim. 2000. Neuroprotective strategies in
+Parkinson’s disease using the models of 6-hydroxydopamine and MPTP.
+Ann. N.  Y.  Acad. Sci. 899:262–273. http​://dx​.doi​.org​/10​.1111​/j​.1749​
+-6632​.2000​.tb06192​.x
+Guégan, C., B.  Onténiente, Y.  Makiura, M.  Merad-Boudia, I.  Ceballos-Picot,
+and B.  Sola. 1998. Reduction of cortical infarction and impairment of
+apoptosis in NGF-transgenic mice subjected to permanent focal ischemia.
+Brain Res. Mol. Brain Res. 55:133–140. http​://dx​.doi​.org​/10​.1016​/S0169​
+-328X(97)00372​-0
+Hou, S.T., S.X.  Jiang, A.  Aylsworth, G.  Ferguson, J.  Slinn, H.  Hu, T.  Leung,
+J.  Kappler, and K.  Kaibuchi. 2009. CaMKII phosphorylates collapsin
+response mediator protein 2 and modulates axonal damage during
+glutamate excitotoxicity. J.  Neurochem. 111:870–881. http​://dx​.doi​.org​
+/10​.1111​/j​.1471​-4159​.2009​.06375​.x
+Hoxhaj, G., A.  Najafov, R.  Toth, D.G.  Campbell, A.R.  Prescott, and
+C.  MacKintosh. 2012. ZNRF2 is released from membranes by growth
+factors and, together with ZNRF1, regulates the Na+/K+ATPase. J. Cell
+Sci. 125:4662–4675. http​://dx​.doi​.org​/10​.1242​/jcs​.110296
+Kazlauskaite, A., V.  Kelly, C.  Johnson, C.  Baillie, C.J.  Hastie, M.  Peggie,
+T. Macartney, H.I. Woodroof, D.R. Alessi, P.G. Pedrioli, and M.M. Muqit.
+2014. Phosphorylation of Parkin at Serine65 is essential for activation:
+Elaboration of a Miro1 substrate-based assay of Parkin E3 ligase activity.
+Open Biol. 4:130213. http​://dx​.doi​.org​/10​.1098​/rsob​.130213
+Kinoshita, E., E. Kinoshita-Kikuta, K. Takiyama, and T. Koike. 2006. Phosphatebinding tag, a new tool to visualize phosphorylated proteins. Mol.
+Cell. Proteomics. 5:749–757. http​://dx​.doi​.org​/10​.1074​/mcp​.T500024​
+-MCP200
+Li, Y., T.  Perry, M.S.  Kindy, B.K.  Harvey, D.  Tweedie, H.W.  Holloway,
+K.  Powers, H.  Shen, J.M.  Egan, K.  Sambamurti, et al. 2009. GLP-1
+receptor stimulation preserves primary cortical and dopaminergic
+neurons in cellular and rodent models of stroke and Parkinsonism. Proc.
+Natl. Acad. Sci. USA. 106:1285–1290. http​://dx​.doi​.org​/10​.1073​/pnas​
+.0806720106
+Lobner, D. 2000. Comparison of the LDH and MTT assays for quantifying cell
+death: Validity for neuronal apoptosis? J.  Neurosci. Methods. 96:147–
+152. http​://dx​.doi​.org​/10​.1016​/S0165​-0270(99)00193​-4
+
+

@@ -1,0 +1,545 @@
+Intraoperative laser speckle contrast
+imaging improves the stability of
+rodent middle cerebral artery
+occlusion model
+Lu Yuan
+Yao Li
+Hangdao Li
+Hongyang Lu
+Shanbao Tong
+
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/ on 10/04/2016 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+
+Journal of Biomedical Optics 20(9), 096012 (September 2015)
+
+Intraoperative laser speckle contrast imaging
+improves the stability of rodent middle cerebral artery
+occlusion model
+Lu Yuan,† Yao Li,† Hangdao Li, Hongyang Lu, and Shanbao Tong*
+Shanghai Jiao Tong University, Med-X Research Institute, School of Biomedical Engineering, 800 Dongchuan Road, Shanghai 200240, China
+
+Abstract. Rodent middle cerebral artery occlusion (MCAO) model is commonly used in stroke research.
+Creating a stable infarct volume has always been challenging for technicians due to the variances of animal
+anatomy and surgical operations. The depth of filament suture advancement strongly influences the infarct volume as well. We investigated the cerebral blood flow (CBF) changes in the affected cortex using laser speckle
+contrast imaging when advancing suture during MCAO surgery. The relative CBF drop area (CBF50 , i.e., the
+percentage area with CBF less than 50% of the baseline) showed an increase from 20.9% to 69.1% when the
+insertion depth increased from 1.6 to 1.8 cm. Using the real-time CBF50 marker to guide suture insertion during
+the surgery, our animal experiments showed that intraoperative CBF-guided surgery could significantly improve
+the stability of MCAO with a more consistent infarct volume and less mortality. © 2015 Society of Photo-Optical
+Instrumentation Engineers (SPIE) [DOI: 10.1117/1.JBO.20.9.096012]
+
+Keywords: stroke model; middle cerebral artery occlusion; animal surgery; cerebral blood flow; laser speckle contrast imaging.
+Paper 150356R received May 27, 2015; accepted for publication Aug. 17, 2015; published online Sep. 11, 2015.
+
+1
+
+Introduction
+
+Ischemic stroke is a leading cause of disability and mortality
+worldwide. An animal model of middle cerebral artery occlusion (MCAO) has been considered as an effective alternative
+to study the mechanisms and therapy of ischemic stroke.1 So
+far, the intraluminal filament rodent MCAO model introduced
+by Koizumi et al.2 and modified by Longa et al.3 has been
+the most widely used method for its advantages of no craniotomy and the applicability for inducing reperfusion.4
+To ensure a successful and stable MCAO, the depth of filament insertion from the bifurcation of the common carotid artery
+(CCA) toward the middle cerebral artery (MCA) should be carefully controlled.5 However, in practice, the variance of infarct
+volume induced by MCAO is high due to the variability in animal weight, brain vascular anatomy, suture material, filament
+insertion depth, and surgical operations.6–10 Nevertheless, the
+conventional intraluminal filament MCAO model often simply
+calibrates suture with the same insertion depth, which ignores
+the aforementioned variability across animals. Furthermore,
+the success of occlusion can be confirmed mainly by postoperative methods including behavior tests, imaging technologies,
+e.g., computed tomography (CT), magnetic resonance imaging
+(MRI), and/or histologic analysis. So far, the only intraoperative
+method for confirming the success of MCAO is to use the laser
+Doppler flowmetry (LDF) to check the cerebral blood flow
+(CBF) drop in MCA immediately after the surgery. However,
+due to the high sensitivity to motion and the lack in spatial resolution, LDF in most cases could only be used as a postsurgical
+confirmation.11
+
+*Address all correspondence to: Shanbao Tong, E-mail: shanbao.tong@gmail
+.com
+†
+
+These authors contributed equally to this work.
+
+Journal of Biomedical Optics
+
+Our previous work has reported the success of the twodimensional technique of laser speckle contrast imaging
+(LSCI) of CBF as an early and real-time predictor of ischemic
+lesion after stroke in MCAO surgery.12 Compared with LDF,
+LSCI provides full-field CBF information with high spatial
+and temporal resolution.13 Experiments indicated that the area
+with more than 50% CBF drop at the first minute immediately
+after the occlusion had significant prognostic value in lesion volume 24 h after stroke.12 With these inspirations, we propose to
+use real-time LSCI to guide the MCAO surgery so as to adjust
+the filament insertion depth accordingly to improve the consistency of the lesion. The ultimate goal of our work is to improve
+the stability of the intraluminal MCAO model and provide a
+CBF-guide strategy for neurovascular surgery through intraoperative LSCI.
+
+2
+
+Materials and Methods
+
+The experimental protocols in this study were approved by the
+Animal Care and Use Committee of Med-X Research Institute
+of Shanghai Jiao Tong University.
+
+2.1
+
+Animal Preparation
+
+Thirty four adult male Sprague-Dawley rats (260 to 300 g,
+Shanghai Slac Laboratory Animal Co., Ltd., Shanghai, China)
+were used for this study. Each rat was anesthetized with isoflurane (5% initial and 2.0% to 2.5% for maintaining, Abbott
+Laboratories Inc., Shanghai, China) induced with a mask
+(Model No. 68602, RWD Life Science Inc. Shenzhen, China)
+connected to an isoflurane vaporizer (Midmark Co., Dayton,
+Ohio) during the experiment. The rectal temperature was maintained at 37.0°C  0.5°C with a heating pad (the DC temperature
+1083-3668/2015/$25.00 © 2015 SPIE
+
+096012-1
+
+September 2015
+
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/ on 10/04/2016 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+
+•
+
+Vol. 20(9)
+
+Yuan et al.: Intraoperative laser speckle contrast imaging improves the stability. . .
+
+control system, FHC Inc., Bowdoin, Maine). All procedures
+were performed under standard sterile precautions. The rat
+was placed in a stereotaxic frame (Leica Microsystems Inc.,
+Buffalo Grove, Illinois). A midline incision was made on the
+scalp, and the tissues over bones were cleaned with a blade.
+A cranial window centered at 3.5-mm posterior to the bregma
+over the cortex was thinned by a high-speed dental drill (Fine
+Science Tools Inc., North Vancouver, Canada) with ∅1.4-mm
+steel burr until the cortical vessels were clearly visible. Saline
+was used to cool down the skull during thinning. Then a cylinder
+base was fixed onto the skull over the cranial window with reinforced glass ionomer cement (Dental Materials Factory of
+Shanghai Medical Instruments Co., Shanghai, China) as we
+did in the previous study.12 After the cement hardened, the rat
+was placed in a supine position and a full-field LSCI CBF
+imager (RatCap-3, Dolphin BioTech Ltd., Shanghai, China)
+was connected to the cylinder base to acquire intraoperative
+real-time cortical CBF images.12,13 During the experiment, the
+rat skull was illuminated by a 780-nm laser diode (L780P010,
+Thorlabs Inc., Newton, New Jersey) and the laser speckle
+images (640 × 640 pixels) were acquired at 40 fps.
+
+2.2
+
+Real Time Laser Speckle Contrast Imaging
+
+The theories and technical details of LSCI have been documented in the literature.14,15 In this study, the contrast value
+K was calculated using temporal laser speckle contrast analysis
+with 320 frames after registration.16 K 2 is inversely proportional
+to the CBF speed
+
+
+ 
+
+
+σ 2s
+τc
+τ2c
+2T
+þ
+K ¼ 2¼β
+exp −
+−1 ;
+τc
+T 2T 2
+hIi
+2
+
+EQ-TARGET;temp:intralink-;e001;63;418
+
+(1)
+
+where T is the exposure time of the CCD and the autocorrelation
+time τc is inversely proportional to the CBF velocity. β is a constant accounting for the loss of correlation. All data were analyzed with MATLAB® software (Ver. R2013b, Mathworks Inc.,
+Natick, Massachusetts).17
+
+2.3
+
+Middle Cerebral Artery Occlusion Surgery
+
+A neck midline incision was made, and the soft tissues were
+pulled apart to expose the vessels. The right (CCA) and the right
+external carotid artery (ECA) were dissected and ligated using
+
+4-0 suture (Jinhuan Medical Products Co., Ltd., Shanghai,
+China). Then the right internal carotid artery (ICA) was separated and occluded temporally by a microvascular clip. A silk
+suture was loosely tied around the CCA close to the clip, which
+would be fastened to secure the inserted suture after the occlusion was made. A 4-0 endovascular suture with 5-mm silicone
+coating length (Sunbio Biotech Co., Ltd., Beijing, China) was
+advanced via the incision into the right CCA toward the right
+ICA. The clip was then released and then the suture was
+advanced up to a premarked insertion depth.5,18 In the LSCI
+guided group, the suture insertion was adjusted to meet the criteria of CBF changes (see Sec. 2.6). After the MCAO, the
+remaining suture was cut and the neck incision was closed.
+Laser speckle images were continuously recorded starting from
+the beginning of the surgery up to 30 min after the occlusion
+(Fig. 1).
+
+2.4
+
+Infract Volume Calculation
+
+Twenty-four hours after MCAO, the rats were euthanized and
+the brains were isolated and sectioned coronally into five slices
+(thickness: 3 mm) with brain matrices (Model No. 68710, RWD
+Life Science Co., Ltd,). All brain slices were stained with 2,3,5triphenyltetrazolium chloride (TTC, Sigma-Aldrich Co. LLC,
+St. Louis, Missouri) at 37°C for 10 min in a dark chamber.
+The infarct volume was quantitated by ImageJ software (Ver.
+1.44, National Institutes of Health).19 The infarct area for
+each slice was measured by subtracting the non-ischemic
+area of ipsilateral hemisphere from that of the contralateral
+hemisphere. The infarct volume was calculated as the summation of all the slice infarct area multiplied by the slice thickness.
+
+2.5
+
+Data Processing
+
+We investigated the full-field intraoperative CBF variations during the MCAO model. Three regions of interest (ROIs) were
+selected for quantitative CBF analysis, including the vein in
+the right hemisphere (RV), the artery in the right hemisphere
+(RA), and the capillary bed in the somatosensory area of the
+right hemisphere (RC) [Fig. 1(b)]. In the CBF-guided MCAO
+model, we used the ratio of the cortical area with more than
+50% CBF (i.e., CBF50 ) drop as the criterion for its early prognostic value.12 At each recording time, the relative CBF50 reduction area (R50 ) is defined
+
+Fig. 1 Schematic of the cranial window for cerebral blood flow (CBF) imaging during the surgery.
+(a) Laser speckle contrast image in gray scale acquired before surgery overlaid with post-occlusion
+CBF reduction area in pseudo-color. Black box in the figure, region of right hemisphere. (b) The right
+hemispheric CBF images recorded at baseline level and at various suture insertion depths during
+the middle cerebral artery occlusion surgery. Three regions of interest (ROIs) are selected in the pseudocolor image: RV, the vein in the right hemisphere; RA, the artery in the right hemisphere; and RC, the
+capillary bed in the somatosensory area of the right hemisphere.
+
+Journal of Biomedical Optics
+
+096012-2
+
+September 2015
+
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/ on 10/04/2016 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+
+•
+
+Vol. 20(9)
+
+Yuan et al.: Intraoperative laser speckle contrast imaging improves the stability. . .
+
+R50 ð%Þ ¼
+
+EQ-TARGET;temp:intralink-;e002;63;734
+
+Pixles of CBF50
+× 100%;
+N pixel
+
+(2)
+
+where N pixel is the number of all pixels in an ∼4ðhorizontalÞ ×
+7ðverticalÞ mm2 right hemisphere cranial window [centered at
+AP, −3.5 mm; ML, 2 mm, as shown in Fig. 1(a)] over the
+right hemisphere. An illustration of CBF50 right upon MCA
+occlusion is shown in Fig. 1(a), where the CBF50 reduction
+area is presented in pseudocolor overlying the laser speckle contrast image.
+
+2.6
+
+Experiment Design
+
+2.6.1
+
+Experiment A
+
+We monitored the CBF evolution while manipulating the suture
+insertion depth during the standard MCAO surgery. Eight rats
+were used in this experiment. During the surgery, the CBF was
+recorded for the suture insertion starting from 1.4 up to 2.4 cm
+with a step of 0.2 cm. The selection of this insertion range is
+based on the rat vascular anatomical features. The corresponding CBF images for a representative rat were shown in Fig. 1(b).
+2.6.2
+
+Experiment B
+
+We compared the conventional MCAO model and the CBFguided MCAO model. Twenty-six rats were randomly divided
+into two groups. In the conventional MCAO group (N ¼ 16),
+the suture was advanced up to 1.8 cm from the bifurcation of
+right CCA, which followed the standard protocols used in most
+previous literature. In the CBF-guided MCAO group (N ¼ 10),
+the CBF50 reduction area was monitored continuously and the
+insertion of the suture immediately ceased when R50 ¼ 50%
+was reached. This criterion was set according to the correlation
+information between the CBF50 reduction area and lesion volume obtained from Experiment A (see Sec. 3.1). Twenty-four
+hours after the MCAO, infarct volume was calculated after
+euthanizing the rats and removing the brains.
+
+2.7
+
+Statistics Analysis
+
+Statistical comparison of CBF during the entire MCAO surgery
+was carried out using a two-tailed t-test with SPSS (Ver. 21.0,
+SPSS Inc., Chicago, Illinois). All data are presented as the
+mean  SD. Statistical significance was assumed when P < 0.05.
+
+3
+3.1
+
+Results
+Spatiotemporal Changes of Cerebral Blood
+Flow with Varying Suture Insertion
+
+CBF dropped from 61.7%  7.2% to 29.8%  2.8% in artery,
+from 62.3%  5.1% to 35.4%  4.0% in vein, and from
+62.9%  5.6% to 30.1%  2.9% in capillary bed, respectively.
+CBF became stable when the insertion depth was over 1.8 cm.
+Figure 2(b) shows the changes of R50 , which concordantly indicates a significant increase from 20.9%  6.4% to 69.1% 
+9.9% while the suture insertion depth increased from 1.6 to
+1.8 cm. Therefore, 1.6 to 1.8 cm is the critical range of suture
+advancement in this MCAO surgery, which is consistent with
+the fact that 1.8 cm has been recommended for suture insertion by conventional MCAO surgery protocols. It is noted in
+Fig. 2(b) that R50 increased approximately from 30% to 70%
+in the critical suture insertion range, we, therefore, used the
+medium value (50%) as the criterion to guide the MCAO surgery in experiment B.
+
+3.2
+
+First, we investigated the spatiotemporal changes of CBF while
+manipulating the suture insertion depth during MCAO surgery
+in experiment A. Three ROIs representing vein, artery, and
+capillary areas, respectively, were selected for analysis, as
+shown in Fig. 1(b). In addition, the N pixel area was highlighted
+and R50 was estimated when adjusting the insertion depth.
+Figure 2(a) shows the average relative CBF in each ROI when
+the suture insertion depth increased from 1.4 to 2.4 cm (N ¼ 8).
+Overall, the relative CBF in all ROIs decreased when
+advancing the suture into the vessel. It should be noted that
+the CBF drop in vein was less than that in artery or capillary.
+Apparently, the most significant CBF drop occurred when
+suture was advanced from 1.6 to 1.8 cm, e.g., the relative
+Journal of Biomedical Optics
+
+Fig. 2 (a) The variation of relative CBF in different ROIs during the
+increase of suture insertion depth (N ¼ 8); (b) the relative CBF50
+reduction area (R 50 ) during the increase of suture insertion depth
+(N ¼ 8).
+
+Image Guided Middle Cerebral Artery Occlusion
+Versus Conventional Middle Cerebral Artery
+Occlusion Surgery
+
+In the conventional MCAO group (N ¼ 16) without CBF guidance, two rats died within 24 h after the surgery. Therefore, we
+further analyzed the data for the remaining 14 rats in this group.
+When the suture was advanced up to 1.8 cm from the bifurcation
+of the right CCA, we stopped the suture insertion and the corresponding R50 of each rat is shown in Fig. 3(b). Two rats were
+found with no visible lesion in infract volume, and with R50
+equal to about 0. The overall success rate of conventional
+MCAO was 12∕16 ¼ 75%. The average infarct area in the conventional MCAO group was 0.417  0.217 cm3 (N ¼ 14). The
+variance of infarct volume over mean value was 51.87%
+
+096012-3
+
+September 2015
+
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/ on 10/04/2016 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+
+•
+
+Vol. 20(9)
+
+Yuan et al.: Intraoperative laser speckle contrast imaging improves the stability. . .
+
+4
+
+Discussions
+
+A stable rodent model of MCAO is of great importance in stroke
+studies. Though the intraluminal MCAO model has been
+the most common technique in experimental stroke studies,
+high variance of infarct volume has limited its applications.
+Excessive insertion of suture could increase the risk of subarachnoid hemorrhage and thus bring higher mortality rates; while
+insufficient insertion may not completely occlude the MCA
+and thus likely lead to the failure of the model. Except for
+the anatomic variance in animals, the success rate of the surgery
+strongly depends on the skills of the technician. Compared with
+the current “blind” surgery, the new CBF-guided MCAO model
+offers a “closed-loop” surgical guidance for the technician and
+thus improves the stability as well as the success rate.
+Although there are other techniques, including magnetic
+resonance angiography, positron emission tomography, MRI,
+CT perfusion, that can be used to confirm the success of
+MCAO,20,21 the poor temporal resolution hampers them from
+application in intraoperative settings. Although LDF has been
+widely used to monitor the CBF changes and confirm the success of MCAO during the surgery, it offers very limited prognostic information to guide the suture insertion due to its lack of
+consistency.5,22 For example, the infarct volumes could vary a
+lot even though LDF showed similar CBF reduction in
+MCAO surgery.23,24
+One limitation of the CBF-guided MCAO modeling is the
+invasiveness introduced by creating the imaging window for
+LSCI, though the cranial window still keeps the cerebral system
+intact. It should be noted that noninvasiveness could be possible
+for the CBF-guided MCAO model in mice, in which the skull
+remains intact for LSCI.
+
+5
+
+Fig. 3 (a) Comparison of infarct volume between the conventional
+and the CBF-guided groups. The variance is expressed in percentage. (b) R 50 of different rats for suture insertion at 1.8 cm in conventional group. (c) The insertion depths of different rats at R 50 ¼ 50% in
+CBF-guided group. (d) 2,3,5-triphenyltetrazolium chloride stained
+brain slices of representative rats, 6 mm distal from the frontal
+pole, from different groups in experiment B.
+
+[Fig. 3(a)]. In the CBF-guided MCAO group, we immediately
+stopped the suture insertion as long as we observed that R50
+increased to 50%. The insertion depths of different rats are
+shown in Fig. 3(c). The stroke modeling was successful in all
+rats (100%) and the infarct area was 0.477  0.134 cm3 , with a
+ratio of variance over mean equal to 21.12% [Fig. 3(a)]. In addition, we performed F-test analysis (one-sided test) using
+MATLAB® software for statistical comparison of variance
+between the conventional and the CBF-guided groups. The
+results showed that the conventional group had a significantly
+greater variance than the CBF-guided group (51.87% versus
+21.12%, P < 0.05). In Fig. 3(d), TTC-stained brain slices of representative rats from different groups in experiment B are
+shown. Therefore, the CBF-guided surgery improved the infarct
+volume consistency and success rate of stroke.
+Journal of Biomedical Optics
+
+Conclusion
+
+In this study, we confirmed the prognostic value of early CBF in
+different types of vessels and demonstrated dynamic changes of
+CBF during MCAO surgery when manipulating the suture insertion. We proposed the relative CBF50 (R50 ¼ 50% in this study)
+as the criterion to guide the suture advancement to ensure a successful MCAO. Our experiments showed that the CBF-guided
+MCAO significantly reduced the variance of stroke lesion and
+increased the success rate of this model.
+
+Acknowledgments
+This research was supported by the National Natural Science
+Foundation of China (No. 61371018). Hongyang Lu was also supported by the China Scholarship Council (No. 201306230041).
+
+References
+1. A. Devor et al., “Coupling of the cortical hemodynamic response to
+cortical and thalamic neuronal activity,” Proc. Natl. Acad. Sci.
+102(10), 3822–3827 (2005).
+2. J. Koizumi et al., “Experimental studies of ischemic brain edema, I: a
+new experimental model of cerebral embolism in rats in which recirculation can be introduced in the ischemic area,” Jpn. J. Stroke 8, 1–8 (1986).
+3. E. Z. Longa et al., “Reversible middle cerebral artery occlusion without
+craniectomy in rats,” Stroke 20(1), 84–91 (1989).
+4. T. Gerriets et al., “The macrosphere model: evaluation of a new stroke
+model for permanent middle cerebral artery occlusion in rats,” J.
+Neurosci. Methods 122(2), 201–211 (2003).
+5. R. Schmid-Elsaesser et al., “A critical reevaluation of the intraluminal
+thread model of focal cerebral ischemia evidence of inadvertent premature reperfusion and subarachnoid hemorrhage in rats by laser-Doppler
+flowmetry,” Stroke 29(10), 2162–2170 (1998).
+
+096012-4
+
+September 2015
+
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/ on 10/04/2016 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+
+•
+
+Vol. 20(9)
+
+Yuan et al.: Intraoperative laser speckle contrast imaging improves the stability. . .
+6. Y. Guan et al., “Effect of suture properties on stability of middle cerebral
+artery occlusion evaluated by synchrotron radiation angiography,”
+Stroke 43(3), 888–891 (2012).
+7. N. Shimamura et al., “Comparison of silicon-coated nylon suture to
+plain nylon suture in the rat middle cerebral artery occlusion model,”
+J. Neurosci. Methods 156(1–2), 161–165 (2006).
+8. L. Li and Z. Zuo, “Isoflurane preconditioning improves short-term and
+long-term neurological outcome after focal brain ischemia in adult rats,”
+Neuroscience 164(2), 497–506 (2009).
+9. H. S. Oliff et al., “The role of strain/vendor differences on the outcome
+of focal ischemia induced by intraluminal middle cerebral artery occlusion in the rat,” Brain Res. 675(1–2), 20–26 (1995).
+10. P. A. Barber et al., “Temperature-regulated model of focal ischemia in
+the mouse: a study with histopathological and behavioral outcomes,”
+Stroke 35(7), 1720–1725 (2004).
+11. R. Liu et al., “Extendable, miniaturized multi-modal optical imaging
+system: cortical hemodynamic observation in freely moving animals,”
+Opt. Express 21(2), 1911–1924 (2013).
+12. Y. Li et al., “Predicting the ischemic infarct volume at the first minute
+after occlusion in rodent stroke model by laser speckle imaging of cerebral blood flow,” J. Biomed. Opt. 18(7), 076024 (2013).
+13. P. Miao et al., “Laser speckle contrast imaging of cerebral blood flow in
+freely moving animals,” J. Biomed. Opt. 16(9), 090502 (2011).
+14. D. A. Boas and A. K. Dunn, “Laser speckle contrast imaging in biomedical optics,” J. Biomed. Opt. 15(1), 011109 (2010).
+15. J. D. Briers and S. Webster, “Laser speckle contrast analysis (LASCA):
+a nonscanning, full-field technique for monitoring capillary blood flow,”
+J. Biomed. Opt. 1(2), 174–179 (1996).
+16. C. Ayata et al., “Laser speckle flowmetry for the study of cerebrovascular physiology in normal and ischemic mouse cortex,” J.
+Cereb. Blood Flow Metab. 24(7), 744–755 (2004).
+17. J. D. Briers, G. Richards, and X. W. He, “Capillary blood flow monitoring using laser speckle contrast analysis (LASCA),” J. Biomed. Opt.
+4(1), 164–175 (1999).
+18. Q. Zhang et al., “The effects of exercise preconditioning on cerebral
+blood flow change and endothelin-1 expression after cerebral ischemia
+in rats,” J. Stroke Cerebrovasc. Dis. 23(6), 1696–1702 (2014).
+19. J. B. Bederson et al., “Rat middle cerebral artery occlusion: evaluation
+of the model and development of a neurologic examination,” Stroke
+17(3), 472–476 (1986).
+20. T. Gerriets et al., “Middle cerebral artery occlusion during MR-imaging:
+investigation of the hyperacute phase of stroke using a new in-bore
+occlusion model in rats,” Brain Res. Protoc. 12(3), 137–143 (2004).
+21. U. Dirnagl et al., “Continuous measurement of cerebral cortical blood
+flow by laser-Doppler flowmetry in a rat stroke model,” J. Cereb. Blood
+Flow Metab. 9(5), 589–596 (1989).
+
+Journal of Biomedical Optics
+
+22. D. N. Atochin et al., “Rapid cerebral ischemic preconditioning in mice
+deficient in endothelial and neuronal nitric oxide synthases,” Stroke
+34(5), 1299–1303 (2003).
+23. M. Kusano et al., “Comparison of temporal response to cerebral blood
+flow measured by laser speckle flowgraphy and laser Doppler flowmetry,” in European Conf. on Biomedical Optics, Optical Society of
+America (2011).
+24. E. Morikawa et al., “The significance of brain temperature in focal cerebral ischemia: histopathological consequences of middle cerebral
+artery occlusion in the rat,” J. Cereb. Blood Flow Metab. 12(3),
+380–389 (1992).
+Lu Yuan received her BS degree from Shanghai Jiao Tong University
+in 2012. She is a master’s student at Shanghai Jiao Tong University.
+Her research interests include laser speckle imaging and surgical
+technique of rodent stroke models.
+Yao Li received her BS degree from Shanghai Jiao Tong University in
+2002 and her PhD degree from the State University of New York at
+Stony Brook in 2008. She then joined Stony Brook Medical Center
+as a senior postdoctoral associate. She is a member of IEEE and
+the Organization of Human Brain Mapping. She joined Med-X
+Research Institute in 2010 as an associate professor.
+Hangdao Li received his BS and MS in biomedical engineering from
+Shanghai Jiao Tong University in 2011 and 2013. Currently, he is a
+second-year PhD student at Shanghai Jiao Tong University, focusing
+on studies of optical imaging and transcranial ultrasound stimulation.
+Hongyang Lu received his BS degree in biomedical engineering from
+Shanghai Jiao Tong University in 2010, where he is currently working
+toward his PhD degree in biomedical engineering. His current
+research interests include functional neuroimaging and therapeutic
+strategies on brain injury. He is a student member of the Institute
+of Electrical and Electronics Engineers (IEEE).
+Shanbao Tong is the director of the Neural Engineering Laboratory,
+Shanghai Jiao Tong University (SJTU). He got his BSc in radio technology from Xi’an Jiao Tong University in 1995, his MSc in turbine
+machines, and his PhD in biomedical engineering from Shanghai
+Jiao Tong University in 1998 and 2002, respectively. He became
+an associate professor in 2005 and a full professor in 2009 in
+SJTU. His research interests include neural signal processing, neurophysiology of brain injury, and cortical optical imaging.
+
+096012-5
+
+September 2015
+
+Downloaded From: http://biomedicaloptics.spiedigitallibrary.org/ on 10/04/2016 Terms of Use: http://spiedigitallibrary.org/ss/termsofuse.aspx
+
+•
+
+Vol. 20(9)
+
+

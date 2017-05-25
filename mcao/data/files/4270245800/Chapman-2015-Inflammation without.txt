@@ -1,0 +1,1881 @@
+Neurobiology of Disease 83 (2015) 1–15
+
+Contents lists available at ScienceDirect
+
+Neurobiology of Disease
+journal homepage: www.elsevier.com/locate/ynbdi
+
+Inﬂammation without neuronal death triggers striatal neurogenesis
+comparable to stroke
+Katie Z. Chapman a,1, Ruimin Ge a,1, Emanuela Monni a, Jemal Tatarishvili a, Henrik Ahlenius b,
+Andreas Arvidsson a,c, Christine T. Ekdahl d, Olle Lindvall a,2, Zaal Kokaia a,⁎,2
+a
+
+Laboratory of Stem Cells and Restorative Neurology, Lund Stem Cell Center, University Hospital, SE-221 84 Lund, Sweden
+Stem cells, Aging and Neurodegeneration Group, Lund Stem Cell Center, University Hospital, SE-221 84 Lund, Sweden
+Division of Neurology, University Hospital, SE-221 84 Lund, Sweden
+d
+Inﬂammation and Stem Cell Therapy Group, Wallenberg Neuroscience Center, University Hospital, SE-221 84 Lund, Sweden
+b
+c
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 6 July 2015
+Revised 11 August 2015
+Accepted 17 August 2015
+Available online 20 August 2015
+Keywords:
+CXCL13
+CXCR5
+Inﬂammation
+Lipopolysaccharide
+Microarray
+Microglia
+Neurogenesis
+Striatum
+Stroke
+
+a b s t r a c t
+Ischemic stroke triggers neurogenesis from neural stem/progenitor cells (NSPCs) in the subventricular zone
+(SVZ) and migration of newly formed neuroblasts toward the damaged striatum where they differentiate to
+mature neurons. Whether it is the injury per se or the associated inﬂammation that gives rise to this endogenous
+neurogenic response is unknown. Here we showed that inﬂammation without corresponding neuronal loss
+caused by intrastriatal lipopolysaccharide (LPS) injection leads to striatal neurogenesis in rats comparable to
+that after a 30 min middle cerebral artery occlusion, as characterized by striatal DCX+ neuroblast recruitment
+and mature NeuN+/BrdU+ neuron formation. Using global gene expression analysis, changes in several factors
+that could potentially regulate striatal neurogenesis were identiﬁed in microglia sorted from SVZ and striatum of
+LPS-injected and stroke-subjected rats. Among the upregulated factors, one chemokine, CXCL13, was found to
+promote neuroblast migration from neonatal mouse SVZ explants in vitro. However, neuroblast migration to
+the striatum was not affected in constitutive CXCL13 receptor CXCR5−/− mice subjected to stroke. Infarct volume
+and pro-inﬂammatory M1 microglia/macrophage density were increased in CXCR5−/− mice, suggesting that
+microglia-derived CXCL13, acting through CXCR5, might be involved in neuroprotection following stroke. Our
+ﬁndings raise the possibility that the inﬂammation accompanying an ischemic insult is the major inducer of
+striatal neurogenesis after stroke.
+© 2015 Elsevier Inc. All rights reserved.
+
+1. Introduction
+Ischemic stroke following cerebral artery occlusion is a leading cause
+of chronic disability in humans, and effective treatment to promote
+recovery is lacking. It is well established that neural stem/progenitor
+cells (NSPCs) in the subventricular zone (SVZ) of adult rodents continuously produce new neuroblasts that migrate into the injured striatum
+for several months after stroke (Arvidsson et al., 2002; Thored et al.,
+2006, 2007; Parent et al., 2002). These neuroblasts differentiate to
+mature neurons, become integrated (Yamashita et al., 2006), project
+to substantia nigra (Sun et al., 2012), and seem to be functional (Hou
+et al., 2008). There is also evidence for enhanced SVZ cell proliferation
+and neuroblast formation after stroke in humans (Macas et al., 2006;
+Marti-Fabregas et al., 2010; Minger et al., 2007). The interest in this
+⁎ Corresponding author at: Laboratory of Stem Cells and Restorative Neurology,
+Lund Stem Cell Center, University Hospital, SE-221 84 Lund, Sweden.
+E-mail address: zaal.kokaia@med.lu.se (Z. Kokaia).
+1
+K.Z.C. and R.G. contributed equally to this work.
+2
+O.L. and Z.K. have shared senior authorship.
+Available online on ScienceDirect (www.sciencedirect.com).
+
+http://dx.doi.org/10.1016/j.nbd.2015.08.013
+0969-9961/© 2015 Elsevier Inc. All rights reserved.
+
+potential self-repair mechanism was further increased by a recent
+report showing that neuroblasts from SVZ enter striatum and become
+interneurons in adult humans under normal conditions (Ernst et al.,
+2014). However, in rats, only a fraction of stroke-induced neurons
+survive long-term (Arvidsson et al., 2002), and it is unclear whether
+they contribute to the spontaneous functional recovery after the insult
+(Lagace, 2012).
+Stroke is associated with inﬂammation, which exerts a complex
+inﬂuence on several steps of striatal neurogenesis (Tobin et al.,
+2014). Several months following stroke in rats, activated microglia/
+macrophages continue to be localized in the ipsilateral SVZ concomitant
+with the continuous production of new neuroblasts migrating into
+the striatum (Thored et al., 2009). Factors released from activated
+microglia/macrophages can either stimulate NSPC proliferation in the
+SVZ, as with IGF-1 (Thored et al., 2009; Yan et al., 2006) and IL-15
+(Gomez-Nicola et al., 2011), or in the case of TNF-α signaling through
+TNF-R1, suppress it (Iosif et al., 2008). Activated microglia/macrophages
+are also involved in directing neuroblasts to the damaged area by
+secreting CXCL12 (Robin et al., 2006), MCP-1 (Yan et al., 2007),
+and osteopontin (Yan et al., 2009). Finally, one study indicates that
+
+2
+
+K.Z. Chapman et al. / Neurobiology of Disease 83 (2015) 1–15
+
+inﬂammation associated with stroke contributes to the poor survival
+of the new striatal neurons (Hoehn et al., 2005), similar to what has
+been described for new hippocampal neurons in other inﬂammatory
+environments (Ekdahl et al., 2003; Monje et al., 2003). The number of
+recruited neuroblasts correlates with the volume of striatal injury
+after stroke of different severities (Thored et al., 2006), but whether it
+is the injury per se or the associated inﬂammation that induces striatal
+neurogenesis is unknown.
+We show here that inﬂammation without neuronal death,
+evoked by intrastriatal LPS-injection, is sufﬁcient to trigger striatal
+neurogenesis similar to that after stroke in rats. Using global gene
+expression analysis on sorted rat microglia, we identiﬁed several
+potential regulators of this response with changes observed both
+after LPS and middle cerebral artery occlusion (MCAO). One of the
+upregulated factors, CXCL13, improved migration of mouse SVZ
+neuroblasts in vitro. However, knockout (KO) mice for CXCR5, the
+receptor for CXCL13, showed no impairment of neuroblast migration after stroke but more extensive injury and pro-inﬂammatory
+phenotype of microglia/macrophages.
+
+The internal carotid artery (ICA) was temporarily occluded with a
+microvascular clip. A small incision was made in the common carotid
+and a heat-blunted nylon microﬁlament was advanced into the ICA
+until resistance was felt (approx. 19 mm). Animals recovered from
+anesthesia during the occlusion. 30 min after occlusion, animals were
+re-anesthetized and the ﬁlament was withdrawn. Temperature was
+maintained at 37 ± 0.5 °C while animals were under anesthesia. Sham
+surgeries were carried out in the same way but the ﬁlament was only
+advanced 2 mm inside the ICA. MCAO animals that did not fulﬁll
+predeﬁned inclusion criteria for successful 30 min occlusion (N40%
+striatal damage; No cortical damage; No subarachnoid hemorrhage)
+were excluded following NeuN staining. In mice, the procedure was
+modiﬁed as follows: Right carotid arteries were isolated, and the
+common carotid artery and the external carotid artery were ligated.
+The ICA was temporarily occluded with a microvascular clip, and a
+silicon-coated microﬁlament was placed into the external carotid artery
+via a small incision and advanced into the ICA until resistance was
+felt (approx. 9 mm). Occlusion was maintained for 35 min before the
+ﬁlament was withdrawn.
+
+2. Materials and methods
+2.3. Immunohistochemistry
+2.1. Animals and experimental design
+All procedures were carried out in accordance with the guidelines
+set by the Malmö-Lund Ethical Committee for the use of laboratory
+animals, and were conducted in accordance with the European Union
+directive on the subject of animal rights. Procedures were carried
+out on male Wistar rats (250–300 g, Charles River, Germany),
+male C57BL/6 J mice (25–30 g, Charles River, Germany), and male
+CXCR5−/− mice (25–30 g, The Jackson Laboratory, http://jaxmice.
+jax.org/strain/006659.html), housed under 12 h light/12 h dark
+cycle with ad libitum access to food and water.
+In order to characterize immunohistochemically the effect of LPS
+and MCAO, rats were randomly assigned to one of 8 groups (n = 4–8
+per group): LPS, vehicle (veh), 30 min MCAO or sham with either a 2 or
+6 weeks recovery. Each animal was given intraperitoneal (i.p) injections
+of BrdU (50 mg/kg, Sigma) in phosphate-buffered saline (PBS) twice
+daily for 2 weeks beginning on the evening following surgery.
+For analysis of the gene proﬁles in striatal or SVZ microglia, animals
+were randomly assigned to LPS, MCAO or naïve groups. Due to low cell
+numbers, notably in SVZ, each ‘n’ (4) comprised 3 pooled animals.
+For examining the role of CXCL13 and its receptor CXCR5 in vivo,
+wild-type and CXCR5−/− mice (n = 6 and 4, respectively) were subjected
+to 35 min MCAO. Animals were sacriﬁced at 2 weeks after surgery.
+2.2. Surgical procedures
+Animals were anesthetized with isoﬂurane (3.5% induction; 1.5%
+maintenance) in 70% N2O/30% O2. All animals received locally injected
+lidocaine for pain relief. While under anesthesia and in the early
+recovery period (2 h), animals were placed on a heat pad maintained
+at 37 °C.
+LPS from Salmonella enterica, serotype abortus equi (Sigma-Aldrich;
+15 μg in 1.5 μl of artiﬁcial CSF (aCSF)) or vehicle (aCSF) was stereotaxically injected using a self-made glass microneedle ﬁxed to a gas-tight
+syringe (Hamilton company) into the right striatum (coordinates:
+1.2 mm rostral, 2.5 mm lateral to bregma, 4.5 mm ventral from brain
+surface, toothbar at −3.3 mm) (Paxinos and Watson, 1998). In a pilot
+experiment in mice, a dose–response curve was established with
+0.01 to 100 μg LPS administered in ten-fold increasing concentrations
+as above (coordinates: 0.9 mm rostral, 1.6 mm lateral to bregma and
+3.5 mm ventral from brain surface, toothbar at 0 mm).
+The intraluminal ﬁlament technique was used to induce transient
+MCAO (Koizumi et al., 1986). In rats, the right carotid arteries were isolated and the common and external carotids were proximally ligated.
+
+Rats and mice were deeply anesthetized with an overdose of
+pentobarbital and transcardially perfused with saline followed by 4%
+paraformaldehyde (PFA). Brains were post-ﬁxed overnight in 4% PFA,
+placed in 20% sucrose for 24 h, and then cut into 8 series of 30 μm
+thick coronal sections on dry ice. For each staining, one full series
+was used. Fluorescence double-staining was used for visualization
+of BrdU +/DCX +, BrdU +/NeuN +, Iba1 +/NeuN +, Iba1 +/Ki67 +,
+Iba1 +/ED1 +, CD16/32 +/Iba1 +, DCX +/HuD +, DCX +/PDGFRα +,
+DCX +/S100B and GFAP +/Nestin + cells.
+All sections for BrdU staining were pre-treated with 1 M HCl
+for 10 min at 65 °C and 20 min at room temperature. All double
+stains were carried out according to the following protocol:
+Free-ﬂoating sections were pre-incubated with the appropriate
+serum and then incubated with primary antibodies overnight at 4 °C.
+Sections were incubated for 2 h in the dark with secondary antibodies
+conjugated with Cy3 or Alexa Fluor 488 (1:200, Molecular Probes, Life
+Technologies), Cy3-conjugated donkey anti-rat/goat anti-rabbit/donkey
+anti-mouse (all 1:200, Jackson ImmunoResearch), or biotinylated horse
+anti-mouse/anti-goat (both 1:200, Vector Laboratories). The primary
+antibodies used are listed in Table 1.
+Single labeling for NeuN was performed with biotinylated horse
+anti-mouse antibody and visualized with avidin–biotin–peroxidase
+complex (Elite ABC kit, Vector Laboratories), followed by peroxidasecatalyzed diaminobenzidine reaction.
+
+Table 1
+Primary antibodies used for immunohistochemical staining.
+Antibody
+
+Host species
+
+Concentration
+
+Company
+
+Anti-BrdU
+Anti-NeuN
+Anti-PDGFRα
+Anti-DCX
+Anti-Iba1
+Anti-ED1
+Anti-ki67
+Anti-HuD
+Anti-S100B
+Anti-GFAP
+Anti-nestin
+Anti-CD16/32
+Anti-iNOS
+Anti-RECA
+
+Rat
+Mouse
+Mouse
+Goat
+Rabbit
+Rat
+Mouse
+Rabbit
+Rabbit
+Rabbit
+Mouse
+Rat
+Rabbit
+Mouse
+
+1:200
+1:100
+1:300
+1:400
+1:1000
+1:200
+1:500
+1:200
+1:200
+1:400
+1:200
+1:200
+1:200
+1:400
+
+Abcam
+Merck Millipore
+Santa Cruz Biotechnology
+Santa Cruz Biotechnology
+Wako
+AbD Serotec
+Novocastra, Leica Biosystems
+Sigma-Aldrich
+Sigma-Aldrich
+Zymed, Life Technologies
+Merck Millipore
+BD Biosciences
+BD Biosciences
+AbD Serotec
+
+K.Z. Chapman et al. / Neurobiology of Disease 83 (2015) 1–15
+
+2.4. Microscopical analysis
+All assessments were performed blinded to treatment conditions.
+Neuronal death was assessed by an estimation of the total number of remaining NeuN + cells in the striatum using the optical fractionator
+technique (West et al., 1991). This was carried out using the Computer
+Assisted Stereological Toolbox (C.A.S.T-GRID) software (Olympus,
+Denmark) as described previously (Arvidsson et al., 2003), but with
+sampling from three coronal sections at approx + 0.9 mm, + 1.2 mm
+(LPS injection site) and +1.5 mm from Bregma (Paxinos and Watson,
+1998). In brief, images from the microscope were acquired with a digital
+camera and displayed live on a monitor screen. Using a 1.25× objective,
+the striatum was delineated on the screen according to predeﬁned
+criteria: dorsal and lateral boundaries along the corpus callosum and
+the medial sides of claustrum and dorsal endopiriform nucleus; ventral
+boundary along a line drawn from the border of the dorsal endopiriform
+nucleus at the level of the ﬂexure of the piriform cortex to the anterior
+commissure, or at more caudal levels along a line following the posterior part of the anterior commissure; and the medial boundary along a
+line drawn from the anterior commissure to the ventral tip of the lateral
+ventricle and the lateral side of the ventricle, or at more caudal levels
+along the lateral side of globus pallidus and the lateral side of the lateral
+ventricle. The thickness of each section was measured at high magniﬁcation at multiple locations within the delineated striatum using a
+microcator attached to the stage of the microscope. The striatum
+was then systematically sampled at high magniﬁcation and cells at
+each sampling point were counted using a three-dimensional probe
+(counting frame combined with optical dissector) following accepted
+stereological cell counting methods (Gundersen, 1978; West, 1999).
+Counting frame area and stepping distances were chosen to sample
+100–200 cells per striatum, keeping the number of cells counted at
+each sampling point as close to 1 as possible. Number of cells per
+striatum was calculated by dividing the number of cells counted with
+the sampling fraction. Images of SVZ in sections with NeuN and cresyl
+violet staining from the same aforementioned rostrocaudal levels
+were ﬁrst taken under 40 × magniﬁcation. The SVZ was then deﬁned
+by cells stained only with cresyl violet and area was measured
+using Visiopharm software (Visiopharm, Denmark). For volume
+measurement, striatum was ﬁrst delineated using the pre-deﬁned
+criteria described above. Area was then measured using Visiopharm
+software (Visiopharm, Denmark) in coronal sections from + 2.2 mm
+to −0.4 mm from bregma. Striatal volume was estimated by multiplying
+the areas with the distance between sections (240 μm).
+Numbers of Iba1+, BrdU+/DCX+, BrdU−/DCX+, BrdU+/NeuN+
+single or double-labeled cells in the rat striatum were counted using a
+0.0625 mm2 quadratic grid on an epiﬂuorescence microscope with a
+40 × objective on the three coronal sections described above. Cell
+counts are presented as the total number in these 3 sections. Because
+striatal volume was decreased in MCAO animals (by 20% and 38% at 2
+and 6 weeks after the insult, respectively, compared to sham groups),
+the NeuN +, Iba1 +, BrdU +/DCX +, BrdU −/DCX + and BrdU +/
+NeuN + cell counts in 3 coronal sections were, therefore, multiplied
+with the shrinkage ratio to compensate for the effect of shrinkage on
+cell density. The shrinkage ratio was calculated by dividing Iba1+ cell
+density in all striatal sections (+ 2.2 mm to − 0.4 mm from bregma)
+with Iba1 + cell density in the 3 coronal sections (+ 0.9 mm,
++1.2 mm and +1.5 mm from bregma). Distribution of cells was calculated as described previously (Thored et al., 2006). Additionally,
+50 DCX + cells per animal were analyzed using epiﬂuorescence microscopy to assess co-expression with HuD, PDGFRα or S100β.
+Since it was not feasible to count astrocyte numbers due to the
+extensive astrogliosis seen in both MCAO and LPS-injected animals,
+each animal was given a score of 0–3 by a blinded observer based on a
+semi-quantitative scale of astrocyte activation as obverved by GFAP
+and nestin staining: Score 0: Astrocytes appear branched and thin
+with no aggregation; no double positive nestin/GFAP cells; no obvious
+
+3
+
+increase in astrocyte numbers compared to contralateral side. Score 1:
+Some astrocytes exhibit a more swollen, ‘active’ phenotype but with
+minimal aggregation; active astrocytes are limited to less than 1/3 of
+striatum with only small increase in numbers; less than 1/3 of ‘active’
+GFAP positive cells are nestin positive. Score 2: Astrocytes exhibit
+‘active’ phenotype and aggregation, with clear increase in numbers;
+more than 1/3 but less than 2/3 of ‘active’ GFAP positive cells are nestin
+postive; activation localized or more diffuse. Score 3: Astrocytes exhibit
+‘active’ phenotype and aggregation, with clear increase in numbers;
+more than 2/3 of ‘active’ GFAP postive cells are nestin postive and
+activation is widespread.
+In mice, the quantiﬁcation of DCX + cell number/distribution,
+microglia/macrophage density and infarct volume was performed in
+three coronal sections at + 0.02, + 0.5, + 0.98 mm from bregma.
+DCX + cell number/distribution was quantiﬁed using a 0.0625 mm2
+quadratic grid on an epiﬂuorescence microscope with a 40 × objective.
+Iba1+, Iba1+/ED1+, CD16/32+ (M1 marker) microglia/macrophage
+densities were assessed by ﬁrst deﬁning the striatal region, and
+counting positive cells using the Visiopharm software (Visiopharm,
+Denmark), and then calculating cell density by dividing cell number
+by striatal area. For infarct volume estimation, images of NeuN-DAB
+stained sections were ﬁrst taken under 4 × magniﬁcation. Intact
+areas identiﬁed by NeuN + cells in the ipsilateral and contralateral
+hemispheres were delineated and then measured using Visiopharm
+software. The area of unlesioned tissue in the ipsilateral hemisphere
+was subtracted from that of the contralateral hemisphere to get infarct
+area, and this area was subsequently multiplied by the distance
+between the sections (240 μm) to get infarct volume.
+Mouse and rat cells double-labeled with different markers
+in epiﬂuorescence microscopy were randomly selected and
+co-expression validated by confocal microscopy (Carl Zeiss Jena
+GmbH, Germany) using orthogonal views of single optical sections
+from confocal Z-series.
+2.5. Microglia isolation and ﬂow cytometry
+Microglia were isolated according to a modiﬁed version of a
+previously described method (Cardona et al., 2006). Rats or mice were
+decapitated, brains were rapidly removed and placed in Leibovitz-15
+(L-15) media. Brains were then placed in a brain matrix and cut into
+1 mm coronal sections and the striatum and SVZ were then microdissected in L15 media. All solutions and instruments were kept
+ice-cold until this point. In a laminar hood, tissue was diced and
+re-suspended in a + 37 °C papain, neutral protease (dispase II),
+DNAse (PPD) solution and incubated for 30 min at + 37 °C. The PPD
+solution was prepared as follows: 2.5 U/ml papain (Worthington
+Biochemical Corporation), 250 U/ml DNAse I (Worthington Biochemical
+Corporation), and 1 U/ml dispase II (Roche) were dissolved in
+DMEM containing 4.5 g/l glucose at + 37 °C, ﬁlter-sterilized and
+stored at −20 °C prior to use. Tissue was then triturated, and excess
+DMEM/F12 with glutamine (500 μl/50 ml) and 10% fetal bovine serum
+(FBS) medium was added. Cells were washed by centrifugation,
+re-suspended in medium and strained through a 40 μm strainer. Cells
+were then re-centrifuged and re-suspended in 4 ml 37% percoll. 4 ml
+70% percoll was slowly underlaid and 30% percoll added on top followed
+by an additional 2 ml of media. A gradient was then run for 40 min,
+200 ×g, +18 °C. Minimal acceleration and brake settings were
+used. The thick viscous layer of debris formed was removed and the
+halo-like ring of brain-microglia formed between the 70% and 37%
+gradients was collected and washed by centrifugation in media.
+Cells were then re-suspended in FACS block buffer (0.1% FBS in
+PBS) with antibodies for 30 min at + 4 °C. For rat microglia sorting,
+Allophycocyanin (APC)-conjugated mouse anti-rat CD11b (1:100;
+Life Technologies) and R-Phycoerythrin (RPE)-conjugated mouse
+anti-rat CD45 (1:10; AbD Serotec) antibodies were used. For mouse microglia sorting, Brilliant Violet 421-conjugated rat anti-mouse/human
+
+4
+
+K.Z. Chapman et al. / Neurobiology of Disease 83 (2015) 1–15
+
+CD11b (1:200, BioLegend) and Brilliant Violet 510-conjugated rat
+anti-mouse CD45 (1:20, BioLegend) antibodies were used. Cells were
+then washed by centrifugation at + 4 °C and re-suspended in 400 μl
+FACS buffer (1% BSA in PBS) to be ready for FACS sorting (BD FACSAria™
+III, Becton Dickinson, Franklin lakes, NJ). 2 min prior to sorting, 2 μl
+propidium iodide (PI) was added to the sample for the identiﬁcation
+of dead cells. A minimum of 50 000 and 10 000 cells were collected
+for striatum and SVZ samples, respectively. Cells were directly sorted
+into RLT buffer (Qiagen) containing 1% beta-Mercaptoethanol and
+were immediately frozen on powdered dry ice. RNA was extracted
+from these isolated microglia with the micro RNeasy kit (Qiagen)
+according to manufacturer's instructions.
+
+and the SVZs were dissected from the lateral wall of the anterior horn of
+the lateral ventricle and cut into small explants (approx. 100–200 μm
+in diameter). These were then mixed with Matrigel (Corning) and
+cultured in four-well dishes. After polymerization (25 min), 500 μL
+of Neurobasal medium supplemented with B-27, N2-supplement, glutamine, and penicillin/streptomycin (all from Gibco-Life Technologies)
+were added. Cultures were maintained in a humidiﬁed, 5% CO2, 37 °C
+incubator with mouse CXCL13 (2, 5, 10, or 20 μg/mL; R&D Systems) or
+CXCL12 (50 ng/mL; R&D Systems). The length of migratory chains
+was measured from the edge of the explants at three angles using
+Image J software (NIH, Bethesda, MD, USA) after 24 h.
+2.10. Statistical analysis
+
+2.6. RNA extraction and quantitative PCR
+Total RNA was extracted from cells or tissue using a RNeasy
+Plus micro kit (Qiagen) or a RNeasy Lipid Tissue Mini Kit (Qiagen),
+respectively, and then reversed to cDNA using a iScript Advanced
+cDNA Synthesis Kit (Bio-rad). For quantitative PCR, TaqMan Gene expression master mix (Life Technologies) and TaqMan probe for β-actin
+and CXCL13 were used. The DNA band was examined after running in
+a 2% agarose gel at 90 mV for 1 h.
+
+Comparisons were performed using Prism 6 software (GraphPad
+Software, Inc.) by one-way or two-way ANOVA followed by Bonferroni's
+post hoc test, or Student's unpaired t test. To achieve normal distribution
+of data, counts of DCX+ cells in stroke and LPS-treated groups values
+were subjected to log 10 transformation and parametric statistical
+analysis was then performed. Data are presented as means ± SEM,
+and differences are considered signiﬁcant at p b 0.05.
+3. Results
+
+2.7. GeneChip microarray assay
+Sample preparation for microarray hybridization was carried out as
+described in the NuGEN Ovation Pico WTA System V2 and Encore Biotin
+Module manuals (NuGEN Technologies, Inc, San Carlos, CA). In brief, 2 to
+10 ng of total RNA was reverse transcribed into double-stranded cDNA
+in a two-step process, introducing a SPIA tag sequence. Good quality
+of RNA and cDNA was conﬁrmed by the company performing microarray analysis (KFB—Center of Excellence for Fluorescent Bioanalytics,
+Regensburg, Germany; www.kfb-regensburg.de). Bead-puriﬁed cDNA
+was ampliﬁed by a SPIA ampliﬁcation reaction followed by an additional
+bead puriﬁcation. 3.0 μg of SPIA cDNA were fragmented, terminally
+biotin-labeled and hybridized to an Affymetrix Rat Gene 1.1 ST Array
+Plate. For hybridization, washing, staining and scanning, an Affymetrix
+GeneTitan® system was used (Affymetrix, Inc., Santa Clara, CA).
+Sample processing was performed at an Affymetrix Service Provider
+and Core Facility, “KFB—Center of Excellence for Fluorescent Bioanalytics”
+(Regensburg, Germany; www.kfb-regensburg.de).
+2.8. Global gene expression microarray analysis
+Summarized probe set signals were calculated by the RMA
+(Arvidsson et al., 2002) algorithm with the Affymetrix GeneChip
+Expression Console Software. Average signal values, comparison
+fold changes and signiﬁcance P values were calculated using affy
+and limma package in R software by comparing SVZ/Striatum samples
+of LPS or MCAO groups with that of naïve groups. Only genes with
+changes greater than 1.5 fold and with an adjusted p value b 0.05
+were identiﬁed. Genes coding secreted proteins were identiﬁed by
+GO:0005576. Common upregulated or downregulated genes in SVZ
+and striatum of LPS and MCAO groups were identiﬁed using VENNY
+software (http://bioinfogp.cnb.csic.es/tools/venny/index.html). Among
+genes that were signiﬁcantly changed in striatal microglia sorted from
+MCAO or LPS condition compared with Naïve one, we identiﬁed factors
+that differed signiﬁcantly between MCAO and LPS conditions (p b 0.05)
+and for which the fold difference was N1.5.
+2.9. Migration assay and immunohistochemistry in SVZ explants
+This procedure has been described elsewhere (Wang et al., 2012). In
+brief, mouse pups were decapitated at postnatal days 4–5 (P4–P5),
+brains were removed, placed in ice-cold L-15 medium and cut into
+250 μm sections on a vibratome. Sections containing SVZ were collected
+
+3.1. Intrastriatal LPS injection causes massive inﬂammation without
+neuronal loss in rat striatum
+We ﬁrst determined whether intracerebral administration of
+LPS could induce microglia/macrophage activation without causing
+neuronal cell death. In a pilot experiment, we injected different doses
+of LPS ranging from 0.01 to 100 μg into mouse striatum. Substantial
+microglia/macrophage activation without any neuronal death was
+found in the striatum 2 weeks after injection of 10 μg LPS in mice
+(data not shown). Because the neurogenic response after stroke is
+more robust in rats, we wanted to explore whether inﬂammation
+without injury could be triggered by LPS injection also in rats. We conﬁrmed that we could induce microglia/macrophage activation without
+signiﬁcant neuronal death in the rat striatum using 15 μg LPS. At
+2 weeks after LPS injection, there was a 2-fold increase in the total
+number of Iba1 + microglia/macrophages compared to vehicle in rat
+striatum (Fig. 1A, B). The difference between LPS and vehicle did not
+remain at 6 weeks.
+The degree of brain damage was assessed using stereological
+methods to estimate the total number of NeuN + mature neurons
+in the striatum. No signiﬁcant differences between LPS- and vehicleinjected animals were detected at either 2 or 6 weeks (Fig. 2A, B).
+We did notice, however, in two out of eight LPS-injected animals a
+thin line of neuronal death around the injection tract, which was
+not observed in any of the vehicle-injected animals (data not
+shown). We also measured stereologically the volume of the striatum in the animals injected with LPS and vehicle. We observed no
+differences in striatal volume either between ipsi- and contralateral
+sides in LPS-injected animals (15.9 ± 0.4 and 15.4 ± 0.4 mm3, respectively, at 2 weeks, and 14.4 ± 0.5 and 15.4 ± 0.7 mm3, respectively, at 6 weeks), or between LPS- and vehicle-injected animals
+ipsilateral to the injection (15.9 ± 0.4 and 17.3 ± 0.4 mm3, respectively, at 2 weeks, and 14.4 ± 0.5 and 15.7 ± 0.4 mm3, respectively,
+at 6 weeks). Striatal volume also did not differ between time points.
+Taken together, these ﬁndings do not provide any evidence for a
+signiﬁcant loss of striatal volume, possibly caused by degradation
+of neuronal connections, after LPS injection.
+3.2. Striatal neurogenesis is similar after stroke and LPS injection
+Stroke was induced by 30 min MCAO and lead to injury conﬁned
+to the striatum, mostly in its dorsolateral part. Using stereological
+
+K.Z. Chapman et al. / Neurobiology of Disease 83 (2015) 1–15
+
+5
+
+Fig. 1. LPS-injection and MCAO cause massive inﬂammation characterized by microglia/macrophage and astrocyte activation in the rat striatum. A, Representative images
+of Iba1 + microglia/macrophages at 2 weeks after vehicle (Veh), LPS, Sham and MCAO treatment. B–D, Numbers of Iba1 + cells in the striatum at 2 and 6 weeks after Veh,
+LPS, Sham and MCAO treatment. E, Astrocyte activation score after MCAO and LPS treatment at 2 and 6 weeks. Means ± SEM. 2 weeks: Veh n = 4, LPS n = 4, Sham n = 4,
+MCAO n = 8; 6 weeks: Veh n = 4, LPS n = 4, Sham n = 4, MCAO n = 4. * p b 0.05, One-way ANOVA with Bonferroni's post hoc test. Scale bar, 200 μm.
+
+methods, we detected a loss of mature NeuN+ neurons in the striatum
+by 81.7% and 66.4% after MCAO compared to sham animals at 2 and 6
+weeks, respectively (Fig. 2A, C). Iba1+ microglia/macrophage numbers
+were markedly increased at 2 weeks after stroke, but at 6 weeks had
+returned to sham levels (Fig. 1A, C). There was no difference in the
+number of Iba1 + cells between LPS and MCAO groups either at 2 or
+6 weeks (Fig. 1D).
+
+We assessed the activation of astrocytes after stroke and LPS
+injection using a semi-quantitative scale. At 2 weeks both MCAO and
+LPS had induced a marked increase in astrocyte activation compared
+with controls, which all scored zero (Fig. 1E). By 6 weeks, the level of
+activation had decreased in both LPS and MCAO animals but had not
+reached baseline levels. No differences in astrocyte activation scores
+were observed between MCAO and LPS animals at either time-point.
+
+Fig. 2. LPS-injection causes no injury but MCAO leads to extensive neuronal death in the rat striatum. A, Representative images of NeuN-DAB staining at 2 weeks after Veh, LPS,
+Sham and MCAO treatment. B–D, Numbers of NeuN+ cells in the striatum at 2 and 6 weeks after Veh, LPS, Sham and MCAO treatment. Means ± SEM. 2 weeks: Veh n = 4, LPS n = 4,
+Sham n = 4, MCAO n = 8; 6 weeks: Veh n = 4, LPS n = 4, Sham n = 4, MCAO n = 4. * p b 0.05, One-way ANOVA with Bonferroni's post hoc test. Scale bar, 0.5 mm. STR, striatum. Dashed
+line, infarct region.
+
+6
+
+K.Z. Chapman et al. / Neurobiology of Disease 83 (2015) 1–15
+
+For identifying newly generated cells, we used BrdU, which
+was given to the animals during the ﬁrst two weeks after MCAO,
+LPS injection or control procedures. Both MCAO and LPS gave rise
+to the recruitment of large numbers of new DCX + neuroblasts into
+the striatum (Fig. 3A–C), whereas only very few DCX + cells were
+detected in animals subjected to sham surgery or vehicle injection.
+At 2 weeks, the majority of the DCX + cells co-expressed BrdU,
+indicating that they had been formed after the insults. The high
+number of DCX + cells was maintained at 6 weeks in both MCAO
+and LPS animals but at this time-point, 4 weeks after the cessation
+of BrdU injections, only a minority of DCX + cells were also BrdU +.
+Because DCX is expressed for only 2–3 weeks after neurons have
+been formed (Brown et al., 2003), our ﬁndings indicate that following LPS injection there is, as shown previously after 2 h MCAO
+(Thored et al., 2006), a long-lasting production of neuroblasts
+entering the striatum. No differences in the number of DCX + cells
+between MCAO and LPS animals were detected in the striatum either
+at 2 or 6 weeks (Fig. 3D).
+At both 2 and 6 weeks, the number of Ki67+ cells in SVZ was similar
+to that in controls following both stroke and LPS injections (Fig. 3E).
+Thus, we obtained no evidence of increased SVZ NSPC proliferation at
+
+either of the two timepoints. However, whereas the area of SVZ was
+increased in MCAO compared to sham-operated animals, consistent
+with our previous report (Thored et al., 2006), we detected no difference in SVZ area between LPS- and vehicle-injected groups (Fig. 3F).
+We did not observe any DCX + cells in the striatum which
+co-expressed the oligodendrocyte progenitor marker PDGFRα or
+the astrocyte marker S100β following LPS injection, conﬁrming
+that the DCX + cells were of neuronal lineage. Moreover, using confocal microscopy, we found that 94% of randomly selected DCX +
+cells also expressed the neuronal marker HuD (data not shown).
+We explored whether the insults had given rise to the formation of
+mature neurons by counting the number of NeuN +/BrdU + cells in
+the striatum. At 2 weeks such cells were scarce but at 6 weeks a substantial number of NeuN+/BrdU+ cells were found in both stroke and LPS
+groups (MCAO, 2 weeks: 6.01 ± 1.42, 6 weeks: 94.74 ± 49.43; LPS, 2
+weeks: 0, 6 weeks: 34 ± 10.3, Fig. 4A–D). Thus, the neurogenic response
+after MCAO and LPS injection leads to the formation of mature neurons
+in the striatum. We estimated the percentage of neuroblasts giving rise
+to mature neurons after stroke and LPS injection by calculating the ratio
+between the number of NeuN +/BrdU + cells at 6 weeks and the
+number of DCX +/BrdU + cells at 2 weeks. Interestingly, we found a
+
+Fig. 3. LPS-injection and MCAO trigger similar neuroblast recruitment to the striatum but no change in SVZ cell proliferation. A, Representative images of DCX+ neuroblast migration in the
+striatum at 2 weeks after Veh, LPS, Sham and MCAO treatment. B–D, Numbers of DCX+/BrdU+ and DCX+/BrdU− cells in the striatum at 2 and 6 weeks after Veh, LPS, Sham and MCAO
+treatment. E, Numbers of Ki67+ cells in the SVZ at 2 and 6 weeks after Veh, LPS, Sham and MCAO treatment. F, SVZ area at 2 and 6 weeks after Veh, LPS, Sham and MCAO treatment.
+Means ± SEM. 2 weeks: Veh n = 4, LPS n = 4, Sham n = 4, MCAO n = 8; 6 weeks: Veh n = 4, LPS n = 4, Sham n = 4, MCAO n = 4. In B–D, values were subjected to log 10 transformation
+before statistical analysis. One-way ANOVA with Bonferroni's post hoc test. * p b 0.05, Scale bar, 100 μm. STR, striatum; LV, lateral ventricle.
+
+K.Z. Chapman et al. / Neurobiology of Disease 83 (2015) 1–15
+
+7
+
+Fig. 4. LPS-injection and MCAO lead to the formation of mature neurons in the rat striatum. A, Representative images of NeuN+/BrdU+ cells in the rat striatum at 6 weeks after LPS
+and MCAO treatment. B–D, Numbers of NeuN+/BrdU+ cells at 2 and 6 weeks after Veh, LPS, Sham and MCAO treatment. Means ± SEM. 2 weeks: Veh n = 4, LPS n = 4, Sham n = 4,
+MCAO n = 8; 6 weeks: Veh n = 4, LPS n = 4, Sham n = 4, MCAO n = 4. *p b 0.05, One-way ANOVA with Bonferroni's post hoc test. Scale bar, 10 μm.
+
+Fig. 5. New neuroblasts and mature neurons are located closer to the SVZ in MCAO compared to LPS rats. Distribution of new neuroblasts in the striatum at 2 and 6 weeks (A, B) and
+mature neurons at 6 weeks (C) after LPS-injection and MCAO. Means ± SEM. 2 weeks: LPS n = 4, MCAO n = 8; 6 weeks: LPS n = 4, MCAO n = 4. *p b 0.05, Two-way ANOVA with
+Bonferroni's post hoc test.
+
+8
+
+K.Z. Chapman et al. / Neurobiology of Disease 83 (2015) 1–15
+
+substantially higher ratio following stroke (20%) than after LPS
+injection (5%), suggesting that the differentiation and/or survival of
+the newly formed neuroblasts differ between the two inﬂammatory
+environments.
+Finally, we compared the migration within the striatum of new
+neuroblasts and mature neurons generated after MCAO and LPS
+injection. Both at 2 and 6 weeks after the insult, a higher percentage
+of DCX+ cells were localized close to the SVZ in MCAO group compared
+with LPS group (Fig. 5A, B). Similarly, more NeuN+/BrdU+ cells were
+found close to the SVZ at 6 weeks in the stroke-affected than in the
+LPS-injected rats (Fig. 5C). This reduction in neuroblast migration is
+unlikely to be caused by the occurrence of a lesion in MCAO-subjected
+rats, as there was no correlation between lesion size and the percentage
+of DCX+ cells close to SVZ (2 week: r = −0.5362, p = 0.1707; 6 week:
+r = 0.5161, p = 0.4839).
+3.3. Inﬂammation after LPS injection and stroke is associated with changes
+in microglia phenotype in both subventricular zone and striatum
+We previously observed a long-lasting increase in microglia/
+macrophage numbers in the SVZ following 2 h MCAO (Thored
+et al., 2009). Here we found that following 30 min MCAO and LPS
+injection, the number of Iba1 + microglia/macrophages in the SVZ
+did not differ from sham and vehicle groups, respectively, at either
+2 or 6 weeks (data not shown). We compared the morphological
+
+characteristics of microglia between MCAO, LPS and respective controls
+in both ipsilateral striatum and SVZ. Microglia were classiﬁed into one
+of four increasingly activated phenotypic states: from ramiﬁed through
+intermediate, and amoeboid to round (Lehrmann et al., 1997). In both
+control groups, close to 100% of microglia were classiﬁed as ramiﬁed
+at both time-points in both brain regions. In contrast, both MCAO and
+LPS administration lead to a substantial switch toward the more activated amoeboid/round phenotypes in both striatum and SVZ at 2 weeks
+(Fig. 6A–C). In both treatment groups, microglia/macrophages shifted
+to a less activated proﬁle over time in the striatum, whereas the elevated levels of activation were virtually unchanged at 6 weeks in the SVZ.
+Because of the difference between MCAO and LPS groups in the
+survival/differentiation of the newly formed neurons at 6 weeks, we
+also assessed the densities of pro-inﬂammatory microglia/macrophages
+in the striatum. However, at both 2 and 6 weeks after stroke and LPSinjection, we found no difference between the two groups in the densities of iNOS+ pro-inﬂammatory M1 microglia/macrophages (MCAO, 2
+weeks: 30.79 ± 19.49, 6 weeks: 2.51 ± 0.94; LPS, 2 weeks: 28.4 ±
+6.49, 6 weeks: 4.16 ± 1.42 cells/mm2).
+3.4. Microglia sorting and subsequent global gene expression analysis
+identify potential regulators of stroke- and LPS-induced striatal neurogenesis
+To identify microglia-derived factors that could potentially regulate
+striatal neurogenesis after both MCAO and LPS-injection, we ﬁrst
+
+Fig. 6. LPS-injection and MCAO give rise to increased percentage of activated microglia/macrophages in both the striatum and SVZ. A, Representative images of Iba1+ ramiﬁed, intermediate, amoeboid and round microglia/macrophages. B, C, Percentage of ramiﬁed, intermediate, amoeboid and round microglia/macrophages in the SVZ and striatum at 2 and 6 weeks
+after Veh, LPS, sham and MCAO treatment. Means ± SEM. 2 weeks: Veh n = 4, LPS n = 4, Sham n = 4, MCAO n = 8; 6 weeks: Veh n = 4, LPS n = 4, Sham n = 4, MCAO n = 4.
+*p b 0.05, Two-way ANOVA with Bonferroni's post hoc test. Scale bar, 10 μm.
+
+K.Z. Chapman et al. / Neurobiology of Disease 83 (2015) 1–15
+
+puriﬁed, using percoll gradients and FACS, microglia from the SVZ and
+striatum of naïve, MCAO and LPS-injected rat brains using CD45low
+CD11b + as microglial markers 2 weeks after stroke and LPS injection. For the microglia/macrophages sorted from the striatum, 98.8%,
+95.7% and 90% of the total number of CD11b + microglia/macrophages
+were CD45lowCD11b + microglia in naïve, MCAO and LPS groups,
+respectively (Fig. 7A). The RNA of sorted cells was then extracted and
+microarray analysis was performed using Affymetrix Rat Gene 1.1 ST
+Array. We hypothesized that genes coding for secreted factors that are
+changed in microglia sorted from striatum and/or SVZ of both LPSinjected and MCAO-subjected rats could potentially regulate different
+steps of neurogenesis. We identiﬁed several secreted protein-coding
+genes that were either upregulated or downregulated in microglia
+sorted from both SVZ and striatum (Table 2), only in microglia
+sorted from SVZ (Table 3) or only in microglia sorted from striatum
+(Table 4), in both MCAO-subjected and LPS-injected rats compared
+to the naïve condition. We also identiﬁed genes in sorted striatal
+microglia for which expression levels differed signiﬁcantly between
+MCAO and LPS conditions (Table 5). Among the changed genes, we
+focused on one factor, CXCL13, which was upregulated in microglia
+sorted from both SVZ and striatum of both MCAO and LPS groups.
+CXCL13 has been found to promote human neural progenitor cell
+migration in vitro (Weiss et al., 2010). Moreover, since CXCL13
+belongs to the same superfamily as CXCL12, a well-established stimulator of neuroblast migration (Thored et al., 2006), we hypothesized that
+microglia-derived CXCL13 might induce striatal neuroblast migration
+after MCAO. We conﬁrmed that Cxcl13 mRNA was also expressed on
+CD45lowCD11b + microglia sorted from mouse striatum after stroke
+(Fig. 7B), and then dissected the role of CXCL13 on neuroblast migration
+using in vitro and in vivo mouse models (see below).
+We were also interested in the expression of Cysteinyl leukotriene
+receptor 1 (CysLT1) signaling molecules, since CysLT1 signaling has
+been reported to be involved in regulating progenitor proliferation as
+well as neurogenesis after traumatic brain injury in zebraﬁsh (Kyritsis
+et al., 2012). To test whether signaling by Leukotriene C4 through
+
+9
+
+CysLT1 is involved in the neuroblast recruitment observed after MCAO
+and LPS injection, we analyzed expession of Ltc4s, the gene coding the
+enzyme LTC4S for LTC4 synthesis, in our microarray data. However, in
+sorted SVZ rat microglia we found that the mRNA level of Ltc4s was
+not changed in MCAO and downregulated in LPS compared with naïve
+conditions. In striatum samples, Ltc4s mRNA level was downregulated
+in both MCAO and LPS groups (Fig. 7C).
+3.5. CXCL13 has a mild stimulatory effect on migration of subventricular
+zone-derived neuroblasts in vitro but neuroblast recruitment and migration
+in striatum are unimpaired in vivo in CXCR5−/− mice following stroke
+In order to examine the role of CXCL13 on neuroblast migration, we
+cultured SVZ explants from neonatal mice in the presence of CXCL13 or
+CXCL12 (Fig. 8A). After a 24 h incubation, we measured the length of the
+neuroblast migratory chains extending from the explants. CXCL13
+increased chain length with doses higher than 5 μg/ml. We found that
+CXCL12 was considerably more potent in this assay, inducing a similar
+level of neuroblast migration at a dose of 50 ng/ml (Fig. 8B).
+The in vitro migration assay indicated that CXCL13 might be involved
+in neuroblast migration after stroke. While CXCL13 has been shown to
+bind also to CXCR3, it is the only known ligand for CXCR5 (Jenh et al.,
+2001). We therefore took advantage of CXCR5 knockout mice for
+exploring the role of CXCL13–CXCR5 signaling in striatal neuroblast
+migration in vivo. CXCR5−/− and wild-type mice were subjected to
+35 min MCAO, which gives rise to ischemic injury in the striatum and
+overlying cerebral cortex, and were sacriﬁced after 2 weeks. Because
+CXCR5 has been reported to alter ventricular cell proliferation in
+zebraﬁsh (Kizil et al., 2012), we analyzed cell proliferation in the SVZ
+of the two animal groups following stroke. However, no differences in
+number of Ki67+ cells were detected between ipsi- and contralateral
+SVZ or between CXCR5−/− and wild-type mice (CXCR5−/−, ipsilateral:
+805 ± 83.29, contralateral: 831 ± 26.64; wild-type, ipsilateral: 794 ±
+37.15, contralateral: 721 ± 43.03). We also found that the deletion
+of the Cxcr5 gene did not lead to any difference in the magnitude of
+
+Fig. 7. Microglia sorting and subsequent global gene expression analysis identify potential regulators of MCAO- and LPS-induced striatal neurogenesis. A, Representative FACS plots of rat
+striatal CD45lowCD11b+ microglia sorted using PE-conjugated anti-CD45 and APC− conjugated anti-CD11b antibodies in naïve, MCAO and LPS rats 2 weeks after treatment. B, Q-PCR gel
+band of Cxcl13 mRNA in CD45lowCD11b+ microglia sorted from striatum of MCAO-subjected mice with spleen tissue as positive control. C, Relative Ltc4s mRNA level in microglia sorted
+from SVZ and striatum of naïve, MCAO-subjected, and LPS-injected rats. Means ± SEM. Naïve n = 4, LPS n = 4, MCAO n = 4, *p b 0.05, One-way ANOVA with Bonferroni's post hoc test.
+
+10
+
+K.Z. Chapman et al. / Neurobiology of Disease 83 (2015) 1–15
+
+Table 2
+Genes coding for secreted proteins that are upregulated or downregulated (p b 0.05, fold change N1.5) in microglia sorted from both the SVZ and striatum in both MCAO and LPS conditions
+compared with the naïve condition. Genes listed alphabetically.
+Gene name
+
+Gene full name
+
+Gene accession
+
+Fold change in
+MCAO (SVZ)
+
+Fold change in
+MCAO (Striatum)
+
+Fold change
+in LPS (SVZ)
+
+Fold change in
+LPS (Striatum)
+
+Upregulated genes
+Adm
+Adrenomedullin
+Anxa2
+Annexin A2
+Apoc1
+Apolipoprotein C-I
+C3
+Complement component 3
+Csf1
+Colony stimulating factor 1 (macrophage)
+Cxcl13
+Chemokine (C–X–C motif) ligand 13
+F10
+Coagulation factor X
+Fgf2
+Fibroblast growth factor 2
+Glipr1
+GLI pathogenesis-related 1
+Il1rn
+Interleukin 1 receptor antagonist
+Lgals3bp
+Lectin, galactoside-binding, soluble, 3 binding protein
+Npb
+Neuropeptide B
+Plau
+Plasminogen activator, urokinase
+Tnfsf12
+Tumor necrosis factor ligand superfamily member 12
+
+NM_012715
+NM_019905
+NM_012824
+NM_016994
+NM_023981
+NM_001017496
+NM_017143
+NM_019305
+NM_001011987
+NM_022194
+NM_139096
+NM_153293
+NM_013085
+NM_001001513
+
+4.87
+12.79
+6.74
+1.98
+10.30
+3.64
+3.11
+6.39
+3.80
+7.19
+5.61
+2.08
+7.74
+2.08
+
+4.44
+10.50
+10.41
+2.18
+15.22
+20.55
+3.12
+5.25
+5.78
+6.46
+4.64
+2.61
+11.76
+1.98
+
+3.51
+2.88
+12.94
+3.49
+2.76
+106.77
+3.10
+1.54
+2.03
+12.33
+4.87
+3.67
+3.02
+2.37
+
+2.45
+3.45
+18.90
+3.31
+3.19
+326.08
+3.26
+1.89
+3.31
+9.13
+3.62
+9.05
+2.97
+1.85
+
+Downregulated genes
+Crispld1
+Cysteine-rich secretory protein LCCL domain containing 1
+Enpp2
+Ectonucleotide pyrophosphatase/phosphodiesterase 2
+Fam5b
+Family with sequence similarity 5, member B
+Glipr2
+GLI pathogenesis-related 2
+Grem1
+Gremlin 1, cysteine knot superfamily, homologue (Xenopus laevis)
+Hbegf
+Heparin-binding EGF-like growth factor
+Il6
+Interleukin 6
+Slit2
+Slit homologue 2 (Drosophila)
+
+NM_001134963
+NM_057104
+NM_173115
+ENSRNOT00000019916
+NM_019282
+NM_012945
+NM_012589
+NM_022632
+
+2.99
+1.94
+2.20
+1.87
+1.80
+2.73
+4.71
+2.61
+
+3.94
+2.20
+3.70
+2.85
+3.42
+3.40
+5.80
+2.90
+
+6.59
+2.41
+4.85
+2.56
+1.57
+3.42
+4.51
+5.35
+
+3.48
+1.53
+4.11
+2.59
+3.14
+3.44
+4.38
+3.46
+
+neuroblast recruitment to the striatum after stroke (CXCR5−/−: 201 ±
+89.36, wild-type: 212.4 ± 40.79). We then counted the DCX + cell
+distribution pattern in three different 250 μm wide columns extending
+laterally from the SVZ. In contrast to in vitro data, we could not detect
+any effect of deleting the Cxcr5 gene on neuroblast migration in vivo
+(data not shown).
+3.6. Ischemic injury and M1 density of microglia/macrophages in striatum
+are increased in CXCR5−/− mice following stroke
+Finally, we determined whether deletion of CXCR5 inﬂuenced the
+size of the ischemic lesion and characteristics of the inﬂammatory
+response following stroke. Interestingly, CXCR5−/− mice showed
+a 45.5% larger injury volume compared to wild-type animals
+(CXCR5 −/−: 11.64 ± 0.56 mm 3 , wild-type: 6.341 ± 1.67 mm3 ;
+Fig. 9A). In both wild-type and CXCR5−/− mice, the ischemic lesion
+extended to but never involved the SVZ (4 out of 6 wild-type mice,
+2 out of 4 CXCR5−/− mice). In agreement, we detected no difference
+in SVZ size between the two animal groups (wild-type: 0.074 ±
+0.007, CXCR5 −/−: 0.071 ± 0.003, mm 2). There was no difference
+Table 3
+Genes coding for secreted proteins that are upregulated or downregulated (p b 0.05,
+fold change N1.5) only in SVZ microglia (not in striatal microglia), in both MCAO and
+LPS conditions compared with the naïve condition. Genes listed alphabetically.
+Gene
+name
+
+Gene full name
+
+Upregulated genes
+Aebp1
+AE binding protein 1
+Apoa1bp Apolipoprotein A-I
+binding protein
+Dpp7
+Dipeptidylpeptidase 7
+Plaur
+Plasminogen activator,
+urokinase receptor
+Tuba4a
+Tubulin, alpha 4A
+Downregulated genes
+Il1a
+Interleukin 1 alpha
+Pdyn
+Prodynorphin
+Vegp2
+Von Ebners gland
+protein 2
+
+Gene accession
+
+Fold change
+Fold change
+in MCAO (SVZ) in LPS (SVZ)
+
+NM_001100970 2.05
+NM_001106440 2.28
+
+2.96
+1.88
+
+NM_031973
+NM_134352
+
+3.27
+1.73
+
+1.55
+2.75
+
+NM_001007004 3.73
+
+2.20
+
+NM_017019
+NM_019374
+NM_053574
+
+3.96
+2.09
+1.61
+
+2.08
+1.66
+1.63
+
+between the two groups in the density of either Iba1+ or Iba1+/ED1+
+microglia/macrophages in the ischemic striatum (CXCR5−/−, Iba1+:
+1309 ± 137.6, Iba1+/ED1+: 357.2 ± 10.54; wild-type, Iba1+: 1452 ±
+218.4, Iba1 +/ED1 +: 395.1 ± 81.36 cells/per mm2 ). We also
+found no difference in astrocyte activation between wild-type
+and CXCR5−/− mice using the semi-quantitative scale (wild-type:
+1.889 ± 0.111, CXCR5−/−: 2.0 ± 0.136). However, in CXCR5−/− mice
+we found a markedly higher density of CD16/32 + M1 microglia/
+macrophages (CXCR5−/− : 868.8 ± 124.1, wild-type: 437.8 ±
+99.07; Fig. 9B), almost all of which were Iba1 + (96%, Fig. 9C).
+Thus, deletion of CXCR5 gene caused a more severe injury and a
+more pro-inﬂammatory environment in the ischemic striatum.
+
+4. Discussion
+We show here that brain inﬂammation is sufﬁcient for inducing a
+regenerative response from NSPCs located in the SVZ of the adult rodent
+brain. LPS-induced striatal inﬂammation without neuronal loss
+triggered the migration of neuroblasts into the striatum and their differentiation into mature neurons. The magnitude of neuroblast production
+in response to inﬂammation was similar to that observed after a 30 min
+MCAO, which caused major neuronal loss in the striatum. Stroke
+and LPS-induced inﬂammation gave rise to a long-lasting (at least 6
+weeks) recruitment of neuroblasts into the striatum, indicating that
+the molecular mechanisms regulating the neurogenic response after
+both insults are still operating at 6 weeks. It should be emphasized
+that LPS and MCAO are known to trigger inﬂammation via different
+mechanisms but through some overlapping signaling pathways. LPS
+interacts with LPS-binding protein (LBP) to form LPS–LBP complex,
+which is recognized by toll-like receptor 4 (TLR4) with two co-receptors
+(CD14 and MD2) leading to nuclear factor-κB (NF-κB), mitogenactivated protein kinases (MAPK) and other signaling molecules
+activation then induction of pro-inﬂammatory genes (Morris et al.,
+2014). After stroke, on the other hand, various damage-associated
+molecular patterns (DAMPs) released from dead cells are recognized
+by pattern recognition receptors (PRRs) such as TLRs and scavenger
+receptors (Iadecola and Anrather, 2011). Activation of these receptors
+triggers upregulation of pro-inﬂammatory cytokines and chemokines
+
+K.Z. Chapman et al. / Neurobiology of Disease 83 (2015) 1–15
+
+11
+
+Table 4
+Genes coding for secreted proteins that are upregulated or downregulated (p b 0.05, fold change N1.5) only in striatal microglia (not in SVZ microglia), in both MCAO and LPS conditions
+compared with the naïve condition. Genes listed alphabetically.
+Gene name
+
+Gene accession
+
+Fold change in MCAO (striatum)
+
+Fold change in LPS (striatum)
+
+Upregulated genes
+Acpp
+Acid phosphatase, prostate
+Angptl4
+Angiopoietin-like 4
+Cd14
+CD14 molecule
+Cxcl10
+Chemokine (C–X–C motif) ligand 10
+Cxcl9
+Chemokine (C–X–C motif) ligand 9
+Il1b
+Interleukin 1 beta
+Olr1
+Oxidized low density lipoprotein (lectin-like) receptor 1
+Rnpep
+Arginyl aminopeptidase (aminopeptidase B)
+Serping1
+Serine (or cysteine) peptidase inhibitor, clade G, member 1
+Slc1a5
+Solute carrier family 1 (neutral amino acid transporter), member 5
+Timp1
+TIMP metallopeptidase inhibitor 1
+
+Gene full name
+
+NM_020072
+NM_199115
+NM_021744
+NM_139089
+NM_145672
+NM_031512
+NM_133306
+NM_031097
+NM_199093
+NM_175758
+NM_053819
+
+4.75
+2.09
+3.02
+2.56
+1.87
+2.47
+5.96
+3.06
+3.00
+3.42
+3.81
+
+1.76
+2.04
+8.88
+3.55
+2.51
+5.08
+1.93
+1.75
+2.76
+2.53
+2.47
+
+Downgulated genes
+Epdr1
+Ependymin related protein 1 (zebraﬁsh)
+Il4ra
+Interleukin 4 receptor, alpha
+Il6r
+Interleukin 6 receptor, alpha
+Resp18
+Regulated endocrine-speciﬁc protein 18
+
+NM_001007625
+NM_133380
+NM_017020
+NM_019278
+
+2.33
+1.65
+1.77
+2.14
+
+2.00
+2.54
+2.44
+1.86
+
+via NF-κB, MAPK, type I interferon and other signaling pathways (Chen
+and Nunez, 2010).
+We found that the level of microglia/macrophage activation, as
+assessed by counts of Iba1 + cells, was similar after LPS and stroke.
+After LPS injection and 30 min MCAO, we did not observe any increased
+number of microglia/macrophages in the SVZ as previously shown after
+2 h MCAO (Thored et al., 2009). In the striatum, microglia/macrophages
+numbers were transiently increased at 2 weeks but had returned to
+control levels at 6 weeks. The increased microglia/macrophage
+activation in the striatum after both insults at 2 weeks had shifted to a
+less activated proﬁle at 6 weeks, whereas activation was maintained
+in the SVZ at this time-point. Moreover, our microarray data showed
+that around 40% of the genes with signiﬁcant changes in microglia
+from striatum and SVZ after LPS treatment are also altered in the same
+direction after stroke, indicating partial similarity of microglia activation
+pattern after LPS and MCAO. Based on these ﬁndings, we hypothesize
+that also the inﬂammation associated with stroke could be essential
+for triggering striatal neurogenesis. However, whether this is the case
+has to be determined in future studies.
+Cell proliferation in the SVZ was similar to control at both timepoints after stroke and LPS, probably because the increased proliferation
+triggered by the insults had occurred before 2 weeks (Thored et al.,
+2006; Zhang et al., 2004). The new neuroblasts migrated less in the
+striatum in animals subjected to MCAO than in those given LPS
+injection, with more cells remaining close to the SVZ. We obtained no
+evidence that this was due to stroke-induced striatal injury hindering
+the migration of neuroblasts. Interestingly, the microarray analysis indicated that both Ccl2, a factor previously reported to recruit neuroblasts
+into ischemic striatum (Yan et al., 2007), and Cxcl13 (see below) had
+higher expression level in microglia sorted from striatum after LPS
+compared with MCAO condition (Table 5). Besides, the spatial arrangement of speciﬁc reactive astrocytes and their barrier formation and
+secreted molecules might also contribute to the extent of migration of
+SVZ neuroblasts (Wanner et al., 2013). Hypothetically, differences between MCAO and stroke in levels of chemokines recruiting neuroblasts
+and the barrier characteristics of the astroglial response could underlie
+the differences in migration of the newly formed neurons.
+When we estimated the percentage of neuroblasts giving rise to
+mature neurons after stroke and LPS delivery, we found substantially
+higher value following stroke (20%) than after LPS (5%). Although the
+inﬂammatory environments induced by LPS-injection and MCAO
+share many common features, we also observed discrepancies that
+most likely underlie the differences in differentiation/survival of the
+newly formed neuroblasts and neurons. For example, the microarray
+analysis provided evidence that the expression of the gene coding
+
+IL-1β, a factor detrimental for neuronal survival (Rothwell, 2003), was
+higher in microglia sorted from striatum of LPS-injected as compared
+to those from MCAO-subjected rats. In contrast, gene expression of
+IGF-1, a factor beneﬁcial for neuronal survival (Zheng et al., 2000),
+was higher in microglia from striatum of stroke-affected compared
+with LPS-injected rats (Table 5).
+In agreement with our results, Kyritsis and collaborators (Kyritsis
+et al., 2012) recently demonstrated that not only traumatic brain injury,
+but also the induction of an inﬂammatory response without cell death,
+gave rise to enhanced neurogenesis in the adult zebraﬁsh brain. LTC4
+signaling was found to be the major mediator, and the injection of
+LTC4 increased progenitor proliferation and neurogenesis. Importantly,
+inﬂammation was shown to initiate the cellular regenerative response,
+which was distinct from constitutive neurogenesis. Our study provides
+the ﬁrst experimental evidence for a similar role of inﬂammation in
+triggering neurogenesis in the adult mammalian brain. It is unlikely
+however, that this effect is mediated by LTC4 released from microglia
+or other immune cells. First, our global gene expression data indicated
+that the expression of the LTC4 synthase gene in sorted microglia
+was either unchanged or decreased in the SVZ and striatum. Second,
+whereas radial glial cells in the zebraﬁsh predominantly express the
+CysLT1 receptor (Kyritsis et al., 2012), adult rat NSPCs express the
+leukotriene receptor GPR17 but CysLT1 is undetectable (Huber et al.,
+2011). Administering the CysLT1 antagonist Pranlukast in zebraﬁsh
+reduced proliferation and neurogenesis (Kyritsis et al., 2012). In contrast, the inhibitor of GPR17 and CysLT1, Montelukast, strongly elevated
+rat NSPCs proliferation in vitro (Huber et al., 2011).
+We have focused on the role of microglia/macrophages, as a
+continuation of our previous work (Thored et al., 2009), in which
+we demonstrated long-term accumulation of microglia/macrophages
+in the SVZ concomitant with persistent striatal neurogenesis after
+stroke. However, the astrocyte activation as part of the neuroinﬂammation after both LPS and stroke could also be involved in the regulation of
+neurogenesis. In line with this idea, Zamanian et al. found a core of gene
+expression changes (166 genes with more than 2-fold upregulation) in
+reactive mouse brain astrocytes, which were shared between ischemic
+stroke and systemic LPS injections (Zamanian et al., 2012). Possibly,
+such common changes could contribute to triggering the neurogenic
+responses observed after both stroke and LPS.
+The microarray data on sorted microglia from the SVZ and striatum
+pointed to a number of secreted factors which were altered in both
+MCAO and LPS conditions and could potentially act as regulators
+of striatal neurogenesis. Several of the upregulated factors in both SVZ
+and striatum have previously been reported to inﬂuence SVZ NSPC
+proliferation/differentiation and adult neurogenesis (Table 2). For
+
+12
+
+K.Z. Chapman et al. / Neurobiology of Disease 83 (2015) 1–15
+
+Table 5
+Genes coding for secreted proteins that are changed in MCAO or LPS condition compared with naïve one (p b 0.05, fold change N1.5) and exhibit different expression levels between MCAO
+and LPS conditions (p b 0.05, fold difference N1.5) in microglia sorted from striatum. Genes listed alphabetically.
+Gene name
+
+Gene accession
+
+Fold difference
+
+Higher expression in LPS compared to MCAO
+C3
+Complement component 3
+Capg
+Capping protein (actin ﬁlament), gelsolin-like
+Ccl12
+Chemokine (C–C motif) ligand 12
+Ccl17
+Chemokine (C–C motif) ligand 17
+Ccl2
+Chemokine (C–C motif) ligand 2
+Ccl22
+Chemokine (C–C motif) ligand 22
+Ccl7
+Chemokine (C–C motif) ligand 7
+Cd14
+CD14 molecule
+Cfp
+Complement factor properdin
+Cp
+Ceruloplasmin
+Cx3cl1
+Chemokine (C–X3–C motif) ligand 1
+Cxcl13
+Chemokine (C–X–C motif) ligand 13
+Dpp4
+Dipeptidylpeptidase 4
+Fas
+Fas (TNF receptor superfamily, member 6)
+Fuca2
+Fucosidase, alpha-L-2, plasma
+Hpse
+Heparanase
+Htra1
+HtrA serine peptidase 1
+Il15
+Interleukin 15
+Il1b
+Interleukin 1 beta
+Lcn2
+Lipocalin 2
+Lif
+Leukemia inhibitory factor
+Lyz2
+Lysozyme 2
+Metrnl
+Meteorin, glial cell differentiation regulator-like
+Npb
+Neuropeptide B
+Pcsk1n
+Proprotein convertase subtilisin/kexin type 1 inhibitor
+Pf4
+Platelet factor 4
+Plbd1
+Phospholipase B domain containing 1
+Prf1
+Perforin 1 (pore forming protein)
+Ptn
+Pleiotrophin
+S100a9
+S100 calcium binding protein A9
+Serpini1
+Serine (or cysteine) peptidase inhibitor, clade I, member 1
+Smpdl3a
+Sphingomyelin phosphodiesterase, acid-like 3A
+Wfdc21
+WAP four-disulﬁde core domain 21
+
+Gene full name
+
+NM_016994
+NM_001013086
+NM_001105822
+NM_057151
+NM_031530
+NM_057203
+NM_001007612
+NM_021744
+NM_001106757
+NM_012532
+NM_134455
+NM_001017496
+NM_012789
+NM_139194
+NM_001004218
+NM_022605
+NM_031721
+NM_013129
+NM_031512
+NM_130741
+NM_022196
+NM_012771
+NM_001014104
+NM_153293
+NM_019279
+NM_001007729
+NM_001013927
+NM_017330
+NM_017066
+NM_053587
+NM_053779
+NM_001005539
+NM_001003706
+
+LPS vs MCAO
+1.52
+2.13
+6.12
+1.73
+3.15
+4.85
+5.85
+2.95
+2.99
+4.27
+14.15
+15.87
+1.76
+1.93
+1.59
+9.15
+1.62
+2.17
+2.05
+10.77
+1.65
+2.13
+1.58
+3.46
+2.15
+4.36
+12.23
+1.85
+1.57
+5.04
+2.82
+3.97
+2.84
+
+Higher expression in MCAO compared to LPS
+Adm
+Adrenomedullin
+Ang1
+Angiogenin, ribonuclease A family, member 1
+Anxa2
+Annexin A2
+C1r
+Complement component 1, r subcomponent
+C1rl
+Complement component 1, r subcomponent-like
+C4b
+Complement component 4, gene 2
+Cd34
+CD34 molecule
+Cfd
+Complement factor D (adipsin)
+Chad
+Chondroadherin
+Clstn1
+Calsyntenin 1
+Crim1
+Cysteine rich transmembrane BMP regulator 1 (chordin like)
+Csf1
+Colony stimulating factor 1 (macrophage)
+Cxcl14
+Chemokine (C–X–C motif) ligand 14
+Dpp7
+Dipeptidylpeptidase 7
+Edn3
+Endothelin 3
+Fcrla
+Fc receptor-like A
+Fgf2
+Fibroblast growth factor 2
+Gas6
+Growth arrest speciﬁc 6
+Glipr1
+GLI pathogenesis-related 1
+Htra3
+HtrA serine peptidase 3
+Igf1
+Insulin-like growth factor 1
+Il1rl1
+Interleukin 1 receptor-like 1
+Il33
+Interleukin 33
+Lamb2
+Laminin, beta 2
+Ltbp3
+Latent transforming growth factor beta binding protein 3
+Mfge8
+Milk fat globule-EGF factor 8 protein
+Olr1
+Oxidized low density lipoprotein (lectin-like) receptor 1
+Osm
+Oncostatin M
+Pdgfa
+Platelet-derived growth factor alpha polypeptide
+Plau
+Plasminogen activator, urokinase
+Pnp
+Purine nucleoside phosphorylase
+Pros1
+Protein S (alpha)
+Pycard
+PYD and CARD domain containing
+Qsox1
+Quiescin Q6 sulfhydryl oxidase 1
+Rnase10
+Ribonuclease, RNase A family, 10 (non-active)
+Rnase4
+Ribonuclease, RNase A family 4
+St14
+Suppression of tumorigenicity 14 (colon carcinoma)
+St3gal2
+ST3 beta-galactoside alpha-2,3-sialyltransferase 2
+Tac4
+Tachykinin 4
+
+NM_012715
+NM_001006992
+NM_019905
+NM_001134555
+NM_001002804
+NM_001002805
+NM_001107202
+NM_001077642
+NM_019164
+ENSRNOT00000022100
+NM_001169103
+NM_023981
+NM_001013137
+NM_031973
+NM_001077650
+NM_001100682
+NM_019305
+NM_057100
+NM_001011987
+ENSRNOT00000010852
+NM_001082478
+NM_001127689
+NM_001014166
+NM_012974
+NM_001191561
+NM_001040186
+NM_133306
+NM_001006961
+NM_012801
+NM_013085
+NM_001106031
+NM_031086
+NM_172322
+NM_001109898
+NM_001012467
+NM_020082
+NM_053635
+NM_031695
+NM_172328
+
+MCAO vs LPS
+1.82
+3.15
+3.04
+4.64
+1.93
+5.53
+18.37
+2.66
+7.17
+1.73
+2.85
+4.76
+3.24
+2.11
+2.11
+4.83
+2.78
+2.64
+1.75
+24.47
+5.29
+2.27
+2.14
+2.05
+2.10
+2.43
+3.09
+2.19
+1.57
+3.96
+1.84
+2.02
+1.94
+2.00
+2.70
+4.94
+5.66
+2.59
+1.78
+
+K.Z. Chapman et al. / Neurobiology of Disease 83 (2015) 1–15
+
+13
+
+Table 5 (continued)
+Gene name
+
+Gene full name
+
+Higher expression in MCAO compared to LPS
+Tgfb1
+Transforming growth factor, beta 1
+Timp1
+TIMP metallopeptidase inhibitor 1
+Vcl
+Vinculin
+Vegfb
+Vascular endothelial growth factor B
+
+example, FGF2 has been shown to maintain a slow-dividing neural stem
+cell pool in adult mouse SVZ (Zheng et al., 2004). Another factor,
+TNFSF12, inhibits adult mouse SVZ NSPC proliferation and promotes
+neuronal differentiation (Scholzke et al., 2011). Moreover, Complement
+3 (C3) knockout mice show decreased ischemia-induced neurogenesis
+in SVZ (Rahpeymai et al., 2006). Among the downregulated genes
+in both structures (Table 2), IL-6 has been demonstrated to inhibit
+hippocampal neurogenesis in vitro (Monje et al., 2003), and SLIT2 was
+identiﬁed as negative regulator of neurite growth (Byun et al., 2012).
+If the gene changes are translated to the corresponding alterations in
+protein levels, these factors could contribute to the occurrence of striatal
+neurogenesis in both conditions. Interestingly, our microarray analysis
+found that Timp1, a factor identiﬁed as inhibiting the Notch shedding
+enzyme ADAM10 (Rapti et al., 2008; Muraguchi et al., 2007; Amour
+et al., 2000), was upregulated in microglia sorted from the striatum of
+LPS-injected and MCAO-subjected rats (Table 4). As Notch signaling
+was recently shown to inhibit striatal neurogenesis from local
+astrocytes in mice (Magnusson et al., 2014), our ﬁndings suggest
+that microglia-derived factors might be involved in regulating this
+neurogenic program in striatal astrocytes following stroke.
+An upregulation of CXCL13 was detected in microglia isolated from
+SVZ and striatum after both stroke and LPS. Previous studies have
+shown that CXCL13 via its receptor CXCR5 is a potent chemokine for
+recruitment of human neural precursor cells across brain endothelial
+
+Gene accession
+
+Fold difference
+
+NM_021578
+NM_053819
+NM_001107248
+NM_053549
+
+2.06
+1.54
+1.97
+1.64
+
+cells (Weiss et al., 2010). Moreover, neuroblastoma cells expressing
+CXCR5 have been found to migrate toward CXCL13 in vitro (Airoldi
+et al., 2008; Del Grosso et al., 2011). In accordance, we found that
+CXCL13 promoted neuroblast migration from neonatal mouse SVZ
+explants, although the effect was weaker than that of CXCL12, which
+has been shown to promote neuroblast migration after stroke (Thored
+et al., 2006). Inconsistent with the in vitro data, the number of
+neuroblasts recruited from SVZ to the striatum and their migration
+toward the injury following stroke did not differ between the
+CXCR5−/− and wild-type mice. This is in contrast to a recent report
+showing that intact CXCR5−/− mice exhibited increased numbers
+of DCX+ cells but decreased proliferation in the dentate gyrus (Stuart
+et al., 2014). Meanwhile, using immunohistochemistry we found that
+CXCR5 protein co-localized with DCX in neuroblasts from P5 mouse
+SVZ explants (data not shown), but we could not detect either CXCR5
+mRNA using Q-PCR in DCX+ neuroblasts sorted from the SVZ of intact
+DCX-GFP mice or CXCR5 protein on DCX + neuroblasts in SVZ of
+adult mice subjected to stroke with immunohistochemistry (data not
+shown). Taken together, these ﬁndings suggest that CXCR5 expression
+is reduced to undetectable levels in SVZ neuroblasts in adult mice, probably causing the discrepancies between our in vitro and in vivo results.
+The CXCR5−/− mice exhibited a much larger ischemic injury in both
+the striatum and cerebral cortex and had microglia/macrophages with a
+more proinﬂammatory phenotype, illustrated by a higher M1 density,
+
+Fig. 8. CXCL13 promotes neuroblast migration from neonatal mouse SVZ explants. A, Representative images of neuroblasts migrating from SVZ explants at 24 h after Control (PBS),
+CXCL13 and CXCL12 treatment. B, Length of neuroblast migratory chain after Control, CXCL13 and CXCL12 treatment. Means ± SEM. Control n = 27; CXCL13 2 μg/ml n = 24, 5 μg/ml
+n = 14, 10 μg/ml n = 12, 20 μg/ml n = 8; CXCL12 n = 18. *p b 0.05, One-way ANOVA with Bonferroni's post hoc test. Scale bar, 100 μm.
+
+14
+
+K.Z. Chapman et al. / Neurobiology of Disease 83 (2015) 1–15
+
+Fig. 9. CXCR5−/− mice exhibit larger lesion and more pro-inﬂammatory microglia/macrophage proﬁle after MCAO. Quantiﬁcation and representative images of NeuN-DAB staining (A) and
+CD16/32+ M1 microglia/macrophages (B) at 2 weeks after 35 min MCAO in the brains of wild-type and CXCR5−/− mice. Representative images of CD16/32+/Iba1+ microglia/macrophages
+(C). Scale bars, 0.5 mm (A), 10 μm (B, C). STR, striatum. Dashed line, infarct region.
+
+compared to wild-type animals after stroke. CXCR5 is expressed on
+virtually all B lymphocytes (Kim et al., 2001), and CXCL13 signaling
+through CXCR5 is chemotactic for B lymphocytes and controls their circulation and redistribution in lymphoid organs (Legler et al., 1998;
+Gunn et al., 1998). B lymphocytes are recruited to the ischemic
+hemisphere after stroke (Ren et al., 2011; Lehmann et al., 2014), and
+regulatory B cells secreting IL-10 have been reported to limit the infarct
+volume and inhibit microglia/macrophage activation after MCAO in
+mice (Ren et al., 2011). Based on the similar phenotype in CXCR5−/−
+and B cell-deﬁcient μMT−/− mice after stroke (Ren et al., 2011),
+it is tempting to speculate that the neuroprotective action of CXCL13–
+CXCR5 signaling, for the ﬁrst time indicated by our ﬁndings, is mediated
+by B cells.
+Although previous studies have established that inﬂammation
+can inﬂuence different steps of neurogenesis, i.e., cell proliferation,
+migration, differentiation, survival and functional synaptic integration,
+our study provides the ﬁrst experimental evidence that inﬂammation
+per se triggers a neurogenic response in the mammalian brain. These
+ﬁndings support the notion that the cross-talk between immune
+cells and NSPCs and their progeny is of crucial importance for efﬁcient neuroregenerative responses following disease and damage in
+the adult brain (Kokaia et al., 2012). Better understanding of the
+molecular mechanisms involved in this dialog could provide novel
+therapeutic targets to promote more efﬁcient repair of the damaged
+and degenerated brain.
+
+Conﬂict of interest disclosure
+The authors declare no conﬂicts of interests.
+
+Acknowledgments
+We thank Stefan Lang for assisting with microarray analysis, Zhi Ma
+and Teona Roschupkina for help with cell sorting, Zhaolu Wang for help
+with cell counting, and Linda Jansson for technical assistance. This work
+was supported by the Swedish Research Council, the European Union
+project TargetBraIn (279017), AFA Foundation (100231), Torsten
+Söderberg Foundation and Swedish Government Initiative for Strategic
+Research Areas (StemTherapy).
+
+References
+Airoldi, I., Cocco, C., Morandi, F., Prigione, I., Pistoia, V., 2008. CXCR5 may be involved in
+the attraction of human metastatic neuroblastoma cells to the bone marrow. Cancer
+Immunol. Immunother. 57 (4), 541–548.
+Amour, A., Knight, C.G., Webster, A., Slocombe, P.M., Stephens, P.E., Knauper, V., et al.,
+2000. The in vitro activity of ADAM-10 is inhibited by TIMP-1 and TIMP-3. FEBS
+Lett. 473 (3), 275–279.
+Arvidsson, A., Collin, T., Kirik, D., Kokaia, Z., Lindvall, O., 2002. Neuronal replacement from
+endogenous precursors in the adult brain after stroke. Nat. Med. 8 (9), 963–970.
+Arvidsson, A., Kirik, D., Lundberg, C., Mandel, R.J., Andsberg, G., Kokaia, Z., et al., 2003.
+Elevated GDNF levels following viral vector-mediated gene transfer can increase
+neuronal death after stroke in rats. Neurobiol. Dis. 14 (3), 542–556.
+Brown, J.P., Couillard-Despres, S., Cooper-Kuhn, C.M., Winkler, J., Aigner, L., Kuhn, H.G.,
+2003. Transient expression of doublecortin during adult neurogenesis. J. Comp.
+Neurol. 467 (1), 1–10.
+Byun, J., Kim, B.T., Kim, Y.T., Jiao, Z., Hur, E.M., Zhou, F.Q., 2012. Slit2 inactivates GSK3beta
+to signal neurite outgrowth inhibition. PLoS ONE 7 (12), e51895.
+Cardona, A.E., Huang, D., Sasse, M.E., Ransohoff, R.M., 2006. Isolation of murine microglial
+cells for RNA analysis or ﬂow cytometry. Nat. Protoc. 1 (4), 1947–1951.
+Chen, G.Y., Nunez, G., 2010. Sterile inﬂammation: sensing and reacting to damage. Nat.
+Rev. Immunol. 10 (12), 826–837.
+Del Grosso, F., Coco, S., Scarufﬁ, P., Stigliani, S., Valdora, F., Benelli, R., et al., 2011. Role of
+CXCL13–CXCR5 crosstalk between malignant neuroblastoma cells and Schwannian
+stromal cells in neuroblastic tumors. Mol. Cancer Res. 9 (7), 815–823.
+
+K.Z. Chapman et al. / Neurobiology of Disease 83 (2015) 1–15
+Ekdahl, C.T., Claasen, J.H., Bonde, S., Kokaia, Z., Lindvall, O., 2003. Inﬂammation is
+detrimental for neurogenesis in adult brain. Proc. Natl. Acad. Sci. U. S. A. 100 (23),
+13632–13637.
+Ernst, A., Alkass, K., Bernard, S., Salehpour, M., Perl, S., Tisdale, J., et al., 2014. Neurogenesis
+in the striatum of the adult human brain. Cell 156 (5), 1072–1083.
+Gomez-Nicola, D., Valle-Argos, B., Pallas-Bazarra, N., Nieto-Sampedro, M., 2011.
+Interleukin-15 regulates proliferation and self-renewal of adult neural stem cells.
+Mol. Biol. Cell 22 (12), 1960–1970.
+Gundersen, H.J., 1978. Estimators of the number of objects per area unbiased by edge
+effects. Microschim. Acta 81 (2), 107–117.
+Gunn, M.D., Ngo, V.N., Ansel, K.M., Ekland, E.H., Cyster, J.G., Williams, L.T., 1998. A
+B-cell-homing chemokine made in lymphoid follicles activates Burkitt's
+lymphoma receptor-1. Nature 391 (6669), 799–803.
+Hoehn, B.D., Palmer, T.D., Steinberg, G.K., 2005. Neurogenesis in rats after focal cerebral
+ischemia is enhanced by indomethacin. Stroke 36 (12), 2718–2724.
+Hou, S.W., Wang, Y.Q., Xu, M., Shen, D.H., Wang, J.J., Huang, F., et al., 2008. Functional
+integration of newly generated neurons into striatum after cerebral ischemia in the
+adult rat brain. Stroke 39 (10), 2837–2844.
+Huber, C., Marschallinger, J., Tempfer, H., Furtner, T., Couillard-Despres, S., Bauer, H.C., et
+al., 2011. Inhibition of leukotriene receptors boosts neural progenitor proliferation.
+Cell. Physiol. Biochem. 28 (5), 793–804.
+Iadecola, C., Anrather, J., 2011. The immunology of stroke: from mechanisms to
+translation. Nat. Med. 17 (7), 796–808.
+Iosif, R.E., Ahlenius, H., Ekdahl, C.T., Darsalia, V., Thored, P., Jovinge, S., et al., 2008.
+Suppression of stroke-induced progenitor proliferation in adult subventricular zone
+by tumor necrosis factor receptor 1. J. Cereb. Blood Flow Metab. 28 (9), 1574–1587.
+Jenh, C.H., Cox, M.A., Hipkin, W., Lu, T., Pugliese-Sivo, C., Gonsiorek, W., et al., 2001.
+Human B cell-attracting chemokine 1 (BCA-1; CXCL13) is an agonist for the human
+CXCR3 receptor. Cytokine 15 (3), 113–121.
+Kim, C.H., Rott, L.S., Clark-Lewis, I., Campbell, D.J., Wu, L., Butcher, E.C., 2001.
+Subspecialization of CXCR5+ T cells: B helper activity is focused in a germinal
+center-localized subset of CXCR5+ T cells. J. Exp. Med. 193 (12), 1373–1381.
+Kizil, C., Dudczig, S., Kyritsis, N., Machate, A., Blaesche, J., Kroehne, V., et al., 2012. The
+chemokine receptor cxcr5 regulates the regenerative neurogenesis response in the
+adult zebraﬁsh brain. Neural Dev. 7, 27.
+Koizumi, J.Y.Y., Nakazawa, T., Ooneda, G., 1986. Experimental studies of ischemic
+brain edema. 1. A new experimental model of cerebral embolism in rats in which
+recirculation can be introduced in the ischemic area. Jpn. J. Stroke 8, 1–8.
+Kokaia, Z., Martino, G., Schwartz, M., Lindvall, O., 2012. Cross-talk between neural stem
+cells and immune cells: the key to better brain repair? Nat. Neurosci. 15 (8),
+1078–1087.
+Kyritsis, N., Kizil, C., Zocher, S., Kroehne, V., Kaslin, J., Freudenreich, D., et al., 2012. Acute
+inﬂammation initiates the regenerative response in the adult zebraﬁsh brain. Science
+338 (6112), 1353–1356.
+Lagace, D.C., 2012. Does the endogenous neurogenic response alter behavioral recovery
+following stroke? Behav. Brain Res. 227 (2), 426–432.
+Legler, D.F., Loetscher, M., Roos, R.S., Clark-Lewis, I., Baggiolini, M., Moser, B., 1998. B
+cell-attracting chemokine 1, a human CXC chemokine expressed in lymphoid
+tissues, selectively attracts B lymphocytes via BLR1/CXCR5. J. Exp. Med. 187 (4),
+655–660.
+Lehmann, J., Hartig, W., Seidel, A., Fuldner, C., Hobohm, C., Grosche, J., et al., 2014.
+Inﬂammatory cell recruitment after experimental thromboembolic stroke in
+rats. Neuroscience 279, 139–154.
+Lehrmann, E., Christensen, T., Zimmer, J., Diemer, N.H., Finsen, B., 1997. Microglial and
+macrophage reactions mark progressive changes and deﬁne the penumbra in the
+rat neocortex and striatum after transient middle cerebral artery occlusion. J. Comp.
+Neurol. 386 (3), 461–476.
+Macas, J., Nern, C., Plate, K.H., Momma, S., 2006. Increased generation of neuronal
+progenitors after ischemic injury in the aged adult human forebrain. J. Neurosci. 26
+(50), 13114–13119.
+Magnusson, J.P., Goritz, C., Tatarishvili, J., Dias, D.O., Smith, E.M., Lindvall, O., et al., 2014. A
+latent neurogenic program in astrocytes regulated by Notch signaling in the mouse.
+Science 346 (6206), 237–241.
+Marti-Fabregas, J., Romaguera-Ros, M., Gomez-Pinedo, U., Martinez-Ramirez, S.,
+Jimenez-Xarrie, E., Marin, R., et al., 2010. Proliferation in the human ipsilateral
+subventricular zone after ischemic stroke. Neurology 74 (5), 357–365.
+Minger, S.L., Ekonomou, A., Carta, E.M., Chinoy, A., Perry, R.H., Ballard, C.G., 2007.
+Endogenous neurogenesis in the human brain following cerebral infarction. Regen.
+Med. 2 (1), 69–74.
+Monje, M.L., Toda, H., Palmer, T.D., 2003. Inﬂammatory blockade restores adult
+hippocampal neurogenesis. Science 302 (5651), 1760–1765.
+Morris, M.C., Gilliam, E.A., Li, L., 2014. Innate immune programing by endotoxin and its
+pathological consequences. Front. Immunol. 5, 680.
+Muraguchi, T., Takegami, Y., Ohtsuka, T., Kitajima, S., Chandana, E.P., Omura, A., et al.,
+2007. RECK modulates Notch signaling during cortical neurogenesis by regulating
+ADAM10 activity. Nat. Neurosci. 10 (7), 838–845.
+Parent, J.M., Vexler, Z.S., Gong, C., Derugin, N., Ferriero, D.M., 2002. Rat forebrain
+neurogenesis and striatal neuron replacement after focal stroke. Ann. Neurol.
+52 (6), 802–813.
+
+15
+
+Paxinos, G., Watson, C., 1998. The Rat Brain in Stereotaxic Coordinates. Academic
+Press, San Diego.
+Rahpeymai, Y., Hietala, M.A., Wilhelmsson, U., Fotheringham, A., Davies, I., Nilsson, A.K., et
+al., 2006. Complement: a novel factor in basal and ischemia-induced neurogenesis.
+EMBO J. 25 (6), 1364–1374.
+Rapti, M., Atkinson, S.J., Lee, M.H., Trim, A., Moss, M., Murphy, G., 2008. The isolated
+N-terminal domains of TIMP-1 and TIMP-3 are insufﬁcient for ADAM10 inhibition.
+Biochem. J. 411 (2), 433–439.
+Ren, X., Akiyoshi, K., Dziennis, S., Vandenbark, A.A., Herson, P.S., Hurn, P.D., et al., 2011.
+Regulatory B cells limit CNS inﬂammation and neurologic deﬁcits in murine
+experimental stroke. J. Neurosci. 31 (23), 8556–8563.
+Robin, A.M., Zhang, Z.G., Wang, L., Zhang, R.L., Katakowski, M., Zhang, L., et al., 2006.
+Stromal cell-derived factor 1alpha mediates neural progenitor cell motility after
+focal cerebral ischemia. J. Cereb. Blood Flow Metab. 26 (1), 125–134.
+Rothwell, N., 2003. Interleukin-1 and neuronal injury: mechanisms, modiﬁcation, and
+therapeutic potential. Brain Behav. Immun. 17 (3), 152–157.
+Scholzke, M.N., Rottinger, A., Murikinati, S., Gehrig, N., Leib, C., Schwaninger, M., 2011.
+TWEAK regulates proliferation and differentiation of adult neural progenitor cells.
+Mol. Cell. Neurosci. 46 (1), 325–332.
+Stuart, M.J., Corrigan, F., Baune, B.T., 2014. Knockout of CXCR5 increases the population of
+immature neural cells and decreases proliferation in the hippocampal dentate gyrus.
+J. Neuroinﬂammation 11, 31.
+Sun, X., Zhang, Q.W., Xu, M., Guo, J.J., Shen, S.W., Wang, Y.Q., et al., 2012. New striatal
+neurons form projections to substantia nigra in adult rat brain after stroke. Neurobiol.
+Dis. 45 (1), 601–609.
+Thored, P., Arvidsson, A., Cacci, E., Ahlenius, H., Kallur, T., Darsalia, V., et al., 2006.
+Persistent production of neurons from adult brain stem cells during recovery after
+stroke. Stem Cells 24 (3), 739–747.
+Thored, P., Wood, J., Arvidsson, A., Cammenga, J., Kokaia, Z., Lindvall, O., 2007. Long-term
+neuroblast migration along blood vessels in an area with transient angiogenesis and
+increased vascularization after stroke. Stroke 38 (11), 3032–3039.
+Thored, P., Heldmann, U., Gomes-Leal, W., Gisler, R., Darsalia, V., Taneera, J., et al., 2009.
+Long-term accumulation of microglia with proneurogenic phenotype concomitant
+with persistent neurogenesis in adult subventricular zone after stroke. Glia 57 (8),
+835–849.
+Tobin, M.K., Bonds, J.A., Minshall, R.D., Pelligrino, D.A., Testai, F.D., Lazarov, O., 2014.
+Neurogenesis and inﬂammation after ischemic stroke: what is known and where
+we go from here. J. Cereb. Blood Flow Metab. 34 (10), 1573–1584.
+Wang, Z., Andrade, N., Torp, M., Wattananit, S., Arvidsson, A., Kokaia, Z., et al., 2012.
+Meteorin is a chemokinetic factor in neuroblast migration and promotes strokeinduced striatal neurogenesis. J. Cereb. Blood Flow Metab. 32 (2), 387–398.
+Wanner, I.B., Anderson, M.A., Song, B., Levine, J., Fernandez, A., Gray-Thompson, Z., et al.,
+2013. Glial scar borders are formed by newly proliferated, elongated astrocytes that
+interact to corral inﬂammatory and ﬁbrotic cells via STAT3-dependent mechanisms
+after spinal cord injury. J. Neurosci. 33 (31), 12870–12886.
+Weiss, N., Deboux, C., Chaverot, N., Miller, F., Baron-Van Evercooren, A., Couraud, P.O., et
+al., 2010. IL8 and CXCL13 are potent chemokines for the recruitment of human neural
+precursor cells across brain endothelial cells. J. Neuroimmunol. 223 (1–2), 131–134.
+West, M.J., 1999. Stereological methods for estimating the total number of neurons and
+synapses: issues of precision and bias. Trends Neurosci. 22 (2), 51–61.
+West, M.J., Slomianka, L., Gundersen, H.J., 1991. Unbiased stereological estimation of the
+total number of neurons in thesubdivisions of the rat hippocampus using the optical
+fractionator. Anat. Rec. 231 (4), 482–497.
+Yamashita, T., Ninomiya, M., Hernandez Acosta, P., Garcia-Verdugo, J.M., Sunabori, T.,
+Sakaguchi, M., et al., 2006. Subventricular zone-derived neuroblasts migrate and
+differentiate into mature neurons in the post-stroke adult striatum. J. Neurosci. 26
+(24), 6627–6636.
+Yan, Y.P., Sailor, K.A., Vemuganti, R., Dempsey, R.J., 2006. Insulin-like growth factor-1 is an
+endogenous mediator of focal ischemia-induced neural progenitor proliferation. Eur.
+J. Neurosci. 24 (1), 45–54.
+Yan, Y.P., Sailor, K.A., Lang, B.T., Park, S.W., Vemuganti, R., Dempsey, R.J., 2007. Monocyte
+chemoattractant protein-1 plays a critical role in neuroblast migration after focal
+cerebral ischemia. J. Cereb. Blood Flow Metab. 27 (6), 1213–1224.
+Yan, Y.P., Lang, B.T., Vemuganti, R., Dempsey, R.J., 2009. Osteopontin is a mediator of the
+lateral migration of neuroblasts from the subventricular zone after focal cerebral
+ischemia. Neurochem. Int. 55 (8), 826–832.
+Zamanian, J.L., Xu, L., Foo, L.C., Nouri, N., Zhou, L., Giffard, R.G., et al., 2012. Genomic
+analysis of reactive astrogliosis. J. Neurosci. 32 (18), 6391–6410.
+Zhang, R., Zhang, Z., Zhang, C., Zhang, L., Robin, A., Wang, Y., et al., 2004. Stroke
+transiently increases subventricular zone cell division from asymmetric to
+symmetric and increases neuronal differentiation in the adult rat. J. Neurosci.
+24 (25), 5810–5815.
+Zheng, W.H., Kar, S., Dore, S., Quirion, R., 2000. Insulin-like growth factor-1 (IGF-1):
+a neuroprotective trophic factor acting via the Akt kinase pathway. J. Neural
+Transm. Suppl. 60, 261–272.
+Zheng, W., Nowakowski, R.S., Vaccarino, F.M., 2004. Fibroblast growth factor 2 is required
+for maintaining the neural stem cell pool in the mouse brain subventricular zone.
+Dev. Neurosci. 26 (2–4), 181–196.
+
+

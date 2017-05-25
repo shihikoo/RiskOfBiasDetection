@@ -1,0 +1,838 @@
+Neurobiology of Disease 65 (2014) 220 –232
+
+Contents lists available at ScienceDirect
+
+Neurobiology of Disease
+journal homepage: www.elsevier.com/locate/ynbdi
+
+GABAA receptor dephosphorylation followed by internalization is
+coupled to neuronal death in in vitro ischemia
+Miranda Mele a,b,c, Luís Ribeiro a,b, Ana R. Inácio d, Tadeusz Wieloch d, Carlos B. Duarte a,b,⁎
+a
+
+CNC—Center for Neuroscience and Cell Biology, University of Coimbra, 3004-517 Coimbra, Portugal
+Department of Life Sciences, University of Coimbra, 3004-517 Coimbra, Portugal
+Institute for Interdisciplinary Research, University of Coimbra (IIIUC), 3030-789 Coimbra, Portugal
+d
+Wallenberg Neuroscience Center, Lund University, 221 84 Lund, Sweden
+b
+c
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 18 October 2013
+Revised 8 January 2014
+Accepted 30 January 2014
+Available online 7 February 2014
+Keywords:
+Neuroprotection
+GABAA receptors
+Brain ischemia
+Receptor trafﬁc
+Gephyrin
+Calpains
+
+a b s t r a c t
+Cerebral ischemia is characterized by an early disruption of GABAergic neurotransmission contributing to an imbalance of the excitatory/inhibitory equilibrium and neuronal death, but the molecular mechanisms involved are
+not fully understood. Here we report a downregulation of GABAA receptor (GABAAR) expression, affecting both
+mRNA and protein levels of GABAAR subunits, in hippocampal neurons subjected to oxygen-glucose deprivation
+(OGD), an in vitro model of ischemia. Similar alterations in the abundance of GABAAR subunits were observed
+in in vivo brain ischemia. OGD reduced the interaction of surface GABAAR with the scaffold protein gephyrin,
+followed by clathrin-dependent receptor internalization. Internalization of GABAAR was dependent on glutamate
+receptor activation and mediated by dephosphorylation of the β3 subunit at serine 408/409. Expression of
+phospho-mimetic mutant GABAAR β3 subunits prevented receptor internalization and protected hippocampal
+neurons from ischemic cell death. The results show a key role for β3 GABAAR subunit dephosphorylation in
+the downregulation of GABAergic synaptic transmission in brain ischemia, contributing to neuronal death.
+GABAAR phosphorylation might be a therapeutic target to preserve synaptic inhibition in brain ischemia.
+© 2014 Elsevier Inc. All rights reserved.
+
+Introduction
+The activity of neuronal networks in the CNS is mainly determined
+by the balance between glutamatergic and GABAergic neurotransmission, which is up- and down-regulated, respectively, during ischemic insults resulting from an insufﬁcient blood supply to the brain (Choi,
+1992; Lipton, 1999). In contrast to the role of glutamate in ischemic
+damage, alterations in inhibitory neurotransmission remain poorly
+understood.
+The down regulation of GABAergic neurotransmission in the ischemic brain occurs at the pre- and post-synaptic levels (Schwartz-Bloom
+and Sah, 2001). Exposure of hippocampal slices to oxygen and
+glucose-deprivation (OGD) induces an early release of GABA by exocytosis, followed by a delayed phase of neurotransmitter release mediated
+by reversal of the plasma membrane transporter (Allen et al., 2004). The
+downregulation of vesicular GABA transporters (Gomes et al., 2011)
+may contribute to the delayed inhibition of the exocytotic release of
+GABA. GABAA receptors (GABAAR) are the major players in fast synaptic
+inhibition in the CNS, and a downregulation of the surface expression
+of GABAARs has also been shown in different models of ischemia
+⁎ Corresponding author at: Center for Neuroscience and Cell Biology, University of
+Coimbra, 3004-517 Coimbra, Portugal. Fax: +351 239822776.
+E-mail address: cbduarte@ci.uc.pt (C.B. Duarte).
+Available online on ScienceDirect (www.sciencedirect.com).
+0969-9961/$ – see front matter © 2014 Elsevier Inc. All rights reserved.
+http://dx.doi.org/10.1016/j.nbd.2014.01.019
+
+(Schwartz-Bloom and Sah, 2001). This is likely to play an important
+role in the demise process since stabilization of the GABAAR surface
+expression is correlated with neuroprotection in neurons subjected to
+OGD (Liu et al., 2010; Mielke and Wang, 2005), and inhibition of
+AP2/clathrin-dependent internalization of GABA A R also reduces
+OGD-induced cell death (Smith et al., 2012). Together, these evidences indicate that the number of cell surface GABAAR and receptor internalization play a key role in ischemic cell death, but the
+molecular mechanisms involved in receptor internalization have
+not been elucidated.
+It is generally assumed that the majority of GABAARs in the brain are
+assembled from at least 2 α-, 2 β-, and 1 γ2-subunits (Rudolph and
+Mohler, 2004). GABAARs present a dynamic mobility between synaptic
+and extrasynaptic localization (Thomas et al., 2005), being the accumulation of the receptor at the inhibitory synapses regulated by its scaffold
+protein gephyrin (Jacob et al., 2005). Although the strength of inhibitory
+signaling is determined by the number of GABAAR at the synapse, the internalization of these receptors occurs outside the synapse (Bogdanov
+et al., 2006). The rate of internalization of GABAARs is negatively regulated by phosphorylation of β3 or γ2 GABAAR subunits on their intracellular loop (Kittler et al., 2005, 2008). Furthermore, NMDAR signaling via
+calcineurin and GABAAR phosphorylation also controls the stability of
+synaptic GABAARs (Muir et al., 2010), but how brain ischemia affects
+the mechanisms of regulation of GABAAR trafﬁcking has not been
+investigated.
+
+M. Mele et al. / Neurobiology of Disease 65 (2014) 220 –232
+
+In the present work we investigated the molecular mechanisms underlying GABAAR downregulation during OGD, an in vitro model of global ischemia. Combining cell imaging and biochemical approaches we
+show that OGD decreases GABAAR/gephyrin interaction and induces
+the internalization of GABAAR via clathrin‐dependent endocytosis. In
+addition, we demonstrate that OGD-induced dephosphorylation and internalization of β3 GABAAR subunits contributes to neuronal death.
+Overall, we propose that GABAAR/gephyrin dissociation and receptor
+dephosphorylation are key steps for GABAergic down‐modulation during cerebral ischemia and the subsequent neuronal cell death.
+Material and methods
+Hippocampal cultures
+Primary cultures of rat hippocampal neurons were prepared from
+the hippocampi of E18-E19 Wistar rat embryos, after treatment with
+trypsin (0.06%, 15 min, 37 °C; GIBCO Invitrogen) in Ca2+- and Mg2+free Hank's balanced salt solution (HBSS; 5.36 mM KCl, 0.44 mM
+KH2PO4, 137 mM NaCl, 4.16 mM NaHCO3, 0.34 mM Na2HPO4.2H2O,
+5 mM glucose, 1 mM sodium pyruvate, 10 mM HEPES and 0.001% phenol red). The hippocampi were then washed with HBSS containing 10%
+fetal bovine serum (GIBCO Invitrogen), to stop trypsin activity, and
+transferred to Neurobasal medium (GIBCO Invitrogen) supplemented
+with B27 supplement (1:50 dilution; GIBCO Invitrogen), 25 μM glutamate, 0.5 mM glutamine and 0.12 mg/ml gentamycin. The cells were
+dissociated in this solution and were then plated on 6 well plates
+(90.0 × 103 cells/cm2), previously coated with poly-D-lysine (0.1 mg/
+ml), or on poly-D-lysine coated glass coverslips, at a density of 80.0 ×
+103 cells/cm2. The cultures were maintained in a humidiﬁed incubator
+with 5% CO2/95% air, at 37 °C, for 15 days.
+Oxygen-glucose deprivation
+Hippocampal neurons (15 DIV) were incubated in a glucose-free saline buffer (116 mM NaCl, 25 mM sucrose, 10 mM HEPES, 5.4 mM KCl,
+0.8 mM MgSO4, 1 mM NaH2PO4, 1.8 mM CaCl2, 25 mM NaHCO3) in an
+anaerobic chamber with 10% H2, 85% N2, 5% CO2 (Forma Anaerobic System, Thermo Fisher Scientiﬁc), at 37 °C, for the indicated period of time.
+The OGD buffer was then replaced by a conditioned medium and the
+cultures were returned to the humidiﬁed 95% air/5% CO2 incubator for
+the indicated post-incubation time period. Under control conditions
+(Sham) the cells were incubated in the saline buffer described above,
+supplemented with 25 mM glucose instead of sucrose, and kept in the
+humidiﬁed 95% air/5% CO2 incubator at 37 °C. When appropriate the
+cells were pre-incubated with glutamate receptor or calpain inhibitors
+(20 μM NBQX [Tocris] and 100 μM APV [Tocris] were added 30 min before OGD; 50 μM ALLN [Calbiochem] or 50 μM MDL28170 [Calbiochem],
+1 h before OGD), and the drugs were also present during and after the
+insult.
+Western blotting
+Total cell extracts were prepared after washing the cells twice with
+ice-cold PBS buffer. The cells were lysed with RIPA buffer (150 mM
+NaCl, 50 mM Tris–HCl, 5 mM EGTA, 1% Triton, 0.5% DOC and 0.1% SDS,
+at a ﬁnal pH 7.5) supplemented with 1 mM DTT and a cocktail of protease inhibitors (0.1 mM PMSF, 1 μg/ml chymostatin, 1 μg/ml leupeptin,
+1 μg/ml antipain, 1 μg/ml pepstatin; Sigma–Aldrich Química). For phosphorylation studies the lysis buffer contained 10 mM HEPES, 150 mM
+NaCl, 10 mM EDTA and 1% Triton (pH 7.4), and was supplemented
+with phosphatase inhibitors (50 mM NaF and 1.5 mM sodium
+orthovanadate). After centrifugation at 16,100 ×g for 10 min, protein
+levels present in the supernatants were quantiﬁed using the BCA method (Thermo Scientiﬁc). Samples were then diluted with a 2× concentrated denaturing buffer (125 mM Tris, pH 6.8, 100 mM glycine, 4%
+
+221
+
+SDS, 200 mM DTT, 40% glycerol, 3 mM sodium orthovanadate, and
+0.01% bromophenol blue). Protein samples were separated by SDSPAGE, in 10% polyacrylamide gels, transferred to PVDF membranes
+(Millipore) and immunoblotted. Membranes were incubated with
+primary antibodies (overnight at 4 °C), washed and exposed to
+alkaline phosphatase-conjugated secondary antibodies (1:20,000
+dilution; 1 h at room temperature) (GE Healthcare or Jackson
+ImmunoResearch). Alkaline phosphatase activity was visualized
+using ECF on the Storm 860 Gel and Blot Imaging System (GE
+Healthcare). The following primary antibodies were used: antiAlpha1 GABAA receptor (1:1000, NeuroMab), anti-Alpha2 GABAA receptor (1:1000, Synaptic System), anti-Beta 3 GABA A receptor
+(1:1000, NeuroMab), anti-Phospho-Ser408/409 Beta 3 GABAA receptor
+(1:1000, Symansis), anti-Gama 2 GABAA receptor (1:1000, Synaptic
+Systems) and anti-Gephyrin (1:1000, Synaptic Systems). AntiSynaptophysin (1:10,000, Abcam) and anti-β-tubulin (1:300,000,
+Sigma) antibodies were used as loading controls.
+Fluorescence assay of receptor internalization
+Cultured living hippocampal neurons (15 DIV) were incubated at RT
+for 10 min in the presence of a high concentration (1:100) of an antiAlpha1 GABAA receptor antibody (Millipore), directed against the Nterminus of the α1 subunits, or an anti-myc antibody (1:300, Cell Signaling). The cells were then washed with PBS at 37 °C, to remove the
+unbound antibody, and were further incubated in an antibody free conditioned medium at the same temperature (for different periods) to
+allow the internalization of antibody-bound receptors. After this incubation neurons were ﬁxed for 15 min in 4% sucrose/paraformaldehyde.
+Next, neurons were exposed to a super-saturating concentration
+(1:300) of the ﬁrst of two secondary antibodies (Alexa Fluor 488 goat
+anti-rabbit; Invitrogen) for 1 h at RT. After permeabilization (0.25% Triton X-100 for 5 min) the cells were incubated with the second secondary antibody (Alexa Fluor 568 goat anti-rabbit, 1:500 Invitrogen) for 1 h
+at RT. This strategy allows distinguishing the surface receptors from
+those receptors that have been internalized before ﬁxation (Goodkin
+et al., 2005). The coverslips were then mounted on slides with a ﬂuorescence mounting medium (DAKO). Images were acquired on Axio Observer 2.1 ﬂuorescence microscope (Zeiss) coupled to an Axiocam
+HRm digital camera, using a 63 × oil objective and were quantiﬁed
+using the ImageJ image analysis software. For each experiment analyzed
+the cells were stained and imaged using identical settings. The ratio of
+internalization was calculated using the internalized antibody signal/
+total antibody signal ratio.
+Immunocytochemistry
+Hippocampal neurons were ﬁxed in 4% sucrose/paraformaldehyde
+(in PBS) and permeabilized with 0.3% Triton X-100 in PBS. The neurons
+were then incubated with 10% BSA in PBS for 30 min at 37 °C, and incubated with the primary antibody anti-myc (1:500, Cell Signaling) diluted in 3% BSA in PBS, overnight at 4 °C. The cells were washed with PBS
+and incubated with the secondary antibody (anti-mouse IgG) conjugated with Alexa Fluor 488 (Invitrogen), for 1 h at RT. The coverslips were
+mounted in a ﬂuorescence mounting medium (DAKO, Denmark). Imaging was performed in an Axio Observer 2.1 ﬂuorescence microscope,
+coupled to an Axiocam HRm digital camera, using a 63× oil objective.
+The cells to count were chosen by the myc (green) channel to check
+for the presence of transfected neurons. Measurements were performed
+in three independent preparations, and at least 50 cells were counted
+per experimental condition for each preparation.
+Surface co-immunoprecipitation assay
+After stimulation using the indicated experimental conditions hippocampal neurons were washed twice with ice-cold PBS and incubated
+
+222
+
+M. Mele et al. / Neurobiology of Disease 65 (2014) 220 –232
+
+with Sulfo-NHS–SS–biotin (0.25 mg/ml in PBS; Thermo Scientiﬁc)
+for 15 min on ice. Cells were then washed twice with 50 mM NH4Cl
+and two times more with PBS. After biotinylation, the cells were lysed
+with RIPA buffer and α1-containing GABAARs were immunoprecipitated.
+Protein G Plus-Agarose beads (50 μl; Santa Cruz Biotechnology) were
+added to Lysis buffer (1 ml) containing 5 μg of an anti-GABAAR alpha 1
+subunit (NeuroMab) monoclonal antibody and incubated for 2 h on a
+head-over-head shaker at 4 °C. Antibody excess was removed by two
+rinses with lysis buffer. Lysed samples (400 μg) were added to the
+beads and incubated for 6 h on a head-over-head shaker at 4 °C. Beads
+were centrifuged at 800 ×g to remove the antibody, and the samples
+were then washed three times with lysis buffer. The residual buffer
+was removed and bead–IP–GABAARs were incubated with 50 μl of 1%
+SDS (80 min at 37 °C) to disrupt the interaction between the beads
+and IP–GABAARs. Finally, beads were centrifuged at 800 ×g, and the supernatants were mixed with 150 μl of lysis buffer before being used in
+NeutAvidin pull-downs.
+NeutAvidin® Plus UltraLink Resin beads (40 μl; Thermo scientiﬁc)
+were added to the samples and mixed on a head-over-head shaker for
+4 h. Beads were then centrifuged at 800 ×g and washed three times
+with lysis buffer. The residual lysis buffer was removed and then 60 μl
+of 2 × loading buffer was added. Samples were heated at 90 °C for
+5 min and beads were centrifuged at 800 ×g. The bead supernatants
+were used for Western blot analysis.
+Neuron transfection with calcium phosphate
+Transfection of cultured hippocampal neurons with mychuGABA A R β3 (WT), myc-huGABA A R β3 (p-mimetic) or mychuGABA A R β3 (p-null) constructs was performed by the calcium
+phosphate coprecipitation method. Brieﬂy, 2 μg of plasmid DNA
+was diluted in Tris-EDTA (TE) pH 7.3 and mixed with 2.5 M CaCl2.
+This DNA/TE/calcium mix was added to 10 mM HEPES-buffered saline solution (270 mM NaCl, 10 mM KCl, 1.4 mM Na2 HPO4, 11 mM
+dextrose, 42 mM HEPES, pH 7.2). The precipitates were allowed to
+form for 30 min at room temperature, protected from light, with vortex
+mixing every 5 min, to ensure that the precipitates had similar small
+sizes. Meanwhile, cultured hippocampal neurons were incubated with
+a cultured-conditioned medium with 2 mM kynurenic acid (Sigma).
+The precipitates were added drop-wise to each well and incubated for
+2 h at 37 °C, in an incubator with 95% air/5%CO2. The cells were then
+washed with acidic culture medium containing 2 mM kynurenic acid
+and returned to the 95% air/5% CO2 incubator for 20 min at 37 °C. Finally,
+the medium was replaced with the initial culture-conditioned medium,
+and the cells were further incubated in a 95% air/5% CO2 incubator for
+48 h at 37 °C to allow protein expression. Cell cultures were then subjected to OGD for 90 min, and 8 h after the insult the cells were ﬁxed to proceed with the cell death assay. In the case of the ﬂuorescence
+internalization assay cells were subjected to 70 min of OGD.
+Mutagenesis
+The plasmid containing the human WT GABAAR β3 subunit sequence was a kind offer of Doctor Martin Wallner (Department of
+
+Molecular and Medical Pharmacology, David Geffen School of Medicine,
+UCLA). In the same vector, two myc-Tag sequences (GAGCAGAAGCTG
+ATCTCAGAGGAGGATCTGGAGC AGAAGCTGATCTCAGAGGAGGATCTG)
+were added between the 4th and 5th codons of human GABAAR β3
+cDNA that code for the amino acids belonging to the N-terminus
+of the protein (NZYTech). To obtain the phospho-mimetic and a
+phospho-null mutants of the human GABAAR β3 subunit, we performed
+a site directed mutagenesis of the serine residues 432/433 (homologous
+of mouse 408/409), using QuikChange® II XL Site-Directed Mutagenesis
+Kit (Agilent Technology). Brieﬂy, speciﬁc primers were designed to
+mutate the two serine residues to two aspartate residues (5′
+gcacaagaagacccatctacggaggagggatgatcagctcaaaattaaaatacctgatctaac
+3′), in the case of the phospho-mimetic mutant, and to two alanine
+residues (5′ gacccatctacggaggagggctgcacagctcaaaattaaaat 3′) in the
+case of the phospho-null mutant (primers were synthesized by
+Sigma–Aldrich). For each mutagenesis the reaction contained
+13.5 ng of dsDNA template (myc-huGABAAR β3), 5 μl of 10 × reaction buffer, 125 ng of each oligonucleotide primer, 1 μl of dNTP
+mix, 3 μl of QuikSolution, ddH 2 O to ﬁnal volume of 50 μl and 1 μl
+of PfuUltra HF DNA polymerase (2.5 U/μl). The following thermal cycling was then performed: 95 °C for 1 min, 18 cycles (95 °C for 50 s,
+60 °C for 50 s, 68 °C for 6 min 30 s) and 68 °C for 7 min. The parental
+methylated dsDNA was then digested using 1 μl of Dpn I enzyme
+(New England BioLabs) at 37 °C for 1 h. Dpn I digested dsDNA was
+used to transform E. coli Top 10 cells to be then ampliﬁed. The obtained plasmid DNA was extracted using Plasmid Mini Kit
+(Quiagen) and sequenced to conﬁrm the mutagenesis (STABvida).
+
+Middle cerebral artery occlusion
+Focal cerebral ischemia was induced by the transient occlusion of
+the right middle cerebral artery (MCA), using the intraluminal ﬁlament
+placement technique as described previously (Nygren and Wieloch,
+2005). Brieﬂy, adult male mice were anesthetized by inhalation of
+2.5% isoﬂurane (IsobaVet, Schering-Plough Animal Health) in O2:N2O
+(30:70). Anesthesia was subsequently reduced to 1.5–1.8% isoﬂurane
+and sustained throughout the occlusion period. Body temperature was
+kept at ~37 °C throughout the surgery period. To monitor regional cerebral blood ﬂow (rCBF), an optical ﬁber probe (Probe 318-I, Perimed)
+was ﬁxed to the skull at 2 mm posterior and 4 mm lateral to bregma,
+and connected to a laser Doppler ﬂow meter (Periﬂux System 5000,
+Perimed). A ﬁlament composed of 6–0 polydioxanone suture (PSD II,
+Ethicon) with a silicone tip (diameter of 225–275 μm) was inserted
+into the external carotid artery and advanced into the common carotid
+artery. The ﬁlament was retracted, moved into the internal carotid artery, and advanced until the origin of the MCA, given by the sudden
+drop in rCBF (~70% of baseline). After 45 min, the ﬁlament was withdrawn and reperfusion observed. The animals were placed in a heating
+box at 37 °C for the ﬁrst 2 h after surgery and thereafter transferred into
+a heating box at 35 °C, to avoid postsurgical hypothermia. Thirty minutes and 24 h after the onset of reperfusion, 0.5 ml of 5% glucose was
+administered subcutaneously. Temperature and sensorimotor deﬁcits
+were assessed at 1, 2 h and 24 h after the surgery. Body weight was controlled daily. In sham surgeries, the ﬁlament was advanced up to the
+
+Fig. 1. α1, α2, β3 and γ2 GABAAR subunit protein levels are downregulated in in vitro (OGD) and in vivo (MCAO) transient brain ischemia. Cultured hippocampal neurons (15 DIV) were
+exposed to OGD for 90 min in the presence or in the absence of 50 μM ALLN and 50 μM MDL28170. α1 (A), β3 (B), α2 (C), and γ2 (D) GABAAR subunit total protein levels were determined
+by Western blot analysis, 8 h after the insult, and the results were normalized with the loading control synaptophysin. (F) Effect of transient in vivo ischemia (MCAO) on α1, β3, γ2
+(reprobing of β3 membrane) and δ GABAAR subunit total protein levels, as determined 48 h after the lesion in the infarct core, penumbra and contralateral cortex. GABAAR subunit protein
+levels were determined by Western blot as indicated above. (G) Representative image of the regions dissected from the ipsilateral brain hemisphere of C57BL/6 mice subjected to sham
+surgery or MCAO, considered as infarct core (IC) and penumbra (delineated). Scale bar: 3 mm. (G′) Representative image of the cerebral infarct core following a transient (45 min) occlusion of the MCA, in C57BL/6 mice, as given by lack of TTC staining in contiguous 1 mm tick coronal slices (white). Scale bar, 3 mm. Results are the mean ± SEM of at least 3 independent
+experiments/animals performed in different preparations, and are expressed as percentage of the control. Statistical analysis was performed by one-way ANOVA, followed by Dunnett's or
+Bonferroni test. *p b 0.05, **p b0.01, #p b 0.05, ##p b 0.01—signiﬁcantly different when compared to control conditions, as depicted in the ﬁgure. NS - not signiﬁcant when compared to
+control conditions.
+
+M. Mele et al. / Neurobiology of Disease 65 (2014) 220 –232
+
+internal carotid artery, and withdrawn before reaching the MCA. The
+Ethics Committee for Animal Research at Lund University approved animal housing conditions, handling, and surgical procedures. Eleven to
+
+223
+
+36 week old C57BL/6J male mice (weight: 23.0 g to 37.9 g; Lund University breeding facility) were housed under diurnal conditions with ad
+libitum access to water and food before and after surgery.
+
+224
+
+M. Mele et al. / Neurobiology of Disease 65 (2014) 220 –232
+
+Mice were anesthetized 48 h after MCA occlusion (MCAO) or sham
+surgery, by inhalation of 2.5% isoﬂurane, and were then perfused
+transcardially with 0.9% NaCl for 2 min before decapitation. Upon removal of meninges, brains were rapidly isolated and frozen by immersion in isopentane at − 40 °C, further cooled down to − 70 °C and
+stored at −80 °C. The infarct core and remaining ipsilateral tissue (designated as penumbra for simpliﬁcation) were dissected, as well as the
+contralateral cortex, from coronal brain sections covering the majority
+of damage. More speciﬁcally, consecutive 2 mm, 1 mm and 2 mm
+thick brain sections were made, starting at 2 mm from the olfactory
+bulb. Dissections were performed at −15 °C, a temperature that allows
+an easy detachment of the infarct core and penumbra. The cortical–
+striatal infarcts obtained were illustrated in Inacio et al. (2011). Equivalent brain regions were dissected from sham-operated mice, which
+were also designated as infarct core and penumbra, and contralateral
+cortex. For each animal, corresponding regions from each of 3 consecutive brain sections were pulled together. Samples were then homogenized and processed for Western blotting as previously described
+(Inacio et al., 2011). Cellular protein extraction was performed by
+mechanical homogenization of the tissue and incubation in lysis buffer:
+20 mM Tris (pH 7.5), 150 mM NaCl, 1 mM EDTA, 1 mM EGTA, 1% TritonX100, 2.5 mM sodium pyrophosphate, 1 mM β-glycerolphosphate, 1 mM
+orthovanadate and 1 mM PMSF, supplemented with a protease inhibitor
+cocktail (P8340, Sigma–Aldrich). Following 30 min incubation at 4 °C,
+samples were centrifuged at 18,000 ×, for 15 min. Total protein concentration in lysates was determined by the Bradford assay, using bovine albumin (Sigma) as standard.
+Statistical analysis
+Statistical analysis was performed using one-way ANOVA analysis of
+variance, followed by Dunnett's or Bonferroni post-hoc test, or using
+Student's t test, as indicated in the ﬁgure captions.
+Results
+OGD induces cell death and downregulates GABAAR subunit total protein
+levels by a calpain-dependent mechanism
+OGD is a well-established in vitro model of global cerebral ischemia
+(Dawson et al., 1996; Goldberg and Choi, 1993; Martin et al., 1994). Exposure of cultured hippocampal neurons to OGD for 60 min‐120 min induced a time-dependent cell death, as determined by analysis of nuclear
+morphology 7 h or 12 h after the insult (S. Fig. 1). The short periods of
+OGD tested, 60 min or 75 min, induced ~ 20% cell death, while 90 min
+or 120 min of OGD induced ~ 30% and ~ 40% cell death, respectively.
+We did not observe signiﬁcant differences in cell death between the
+two post-incubation times used, 7 h and 12 h.
+To assess the effect of OGD on GABAAR subunit total protein levels,
+cultured hippocampal neurons were subjected to 90 min of OGD, and
+further incubated in the culture conditioned medium for 8 h. GABAAR
+subunit protein levels were analyzed by Western blot using speciﬁc antibodies against α1, α2, β3, γ2 and δ subunits. α1, α2, β3, γ2 and subunits are localized preferentially at the synapses (Alldred et al., 2005;
+Nusser et al., 1998), mediating phasic inhibition (Brickley et al., 1996),
+in contrast with the δ subunit which is extrasynaptic (Nusser et al.,
+1998). The results show a downregulation of all the synaptic GABAAR
+subunits, of ~40% for α1 subunits, ~20% for α2 subunits, and ~ 35% for
+β3 and γ2 subunits (Fig. 1A–D), but no effect was found for the δ subunit
+(Fig. 1E). Shorter periods of OGD (60 min) did not affect GABAAR total
+protein levels (not shown). Similar to the results obtained in hippocampal neurons subjected to OGD, a downregulation of α1, β3 and γ2 subunits was observed in the infarct core of mice subjected to transient
+MCAO, a model of focal brain ischemia, but no effect was found for the
+δ subunit. No signiﬁcant changes in GABAAR subunit protein levels
+were observed in the penumbra (Fig. 1F).
+
+The OGD-induced [Ca2+]i overload activates calpains (Brorson et al.,
+1995; Saido et al., 1994; Vanderklish and Bahr, 2000) which cleave numerous intracellular proteins in the ischemic brain (Bevers and Neumar,
+2008). To investigate whether calpains are involved in the OGD-induced
+downregulation of GABAAR subunits, hippocampal neurons were subjected to OGD in the presence or in the absence of the chemical inhibitors ALLN or MDL28170. Western blot analysis performed 8 h after
+injury showed that MDL28170 fully abrogated the effect of OGD on
+α1, β3, α2 and γ2 GABAAR subunits (p N 0.05) (Fig. 1A–E). Furthermore, ALLN clearly prevented the reduction of β3 and α2 subunits in
+hippocampal neurons subjected to OGD (Fig. 1B,C).
+OGD downregulates the GABAAR subunit mRNA through activation of
+glutamate receptors
+Considering the effect of OGD on the protein levels of GABAAR subunits, which is maintained 8 h after injury, we hypothesized that
+in vitro ischemia could also downregulate the mRNA for the various subunits causing a long-term effect on the synthesis of new receptors.
+Quantitative PCR experiments showed a decrease in the expression
+levels of α1, α2, β2, β3 and γ GABAAR subunits in hippocampal neurons
+subjected to OGD for 90 min, and further incubated in the conditioned
+medium for 5 h (S. Fig. 2), but no effect was observed for shorter periods
+of in vitro ischemia (75 min), even when determined 7 h after the insult
+(S. Fig. 3A–D). The former experimental conditions led to a 70% reduction in the mRNA levels of α1, 50% in α2 and β2, 25% in β3 and 40% in
+γ2 subunits, which are typically found in synaptic receptors. In contrast,
+no changes in the mRNA levels for the extrasynaptic GABAAR δ subunits
+were observed, even for 90 min of OGD (S. Fig. 2 F). The OGD-induced
+downregulation of mRNA levels for α1, α2, β2, β3 and γ2 subunits
+was prevented by incubation with the NMDA and non-NMDA glutamate receptors inhibitors APV (100 μM) and NBQX (20 μM) (S. Fig. 2A
+′–E′). We have previously shown a role for glutamate receptors in
+hippocampal neuronal death following OGD, as determined by nuclear
+morphology analysis (Caldeira et al., 2013). Although OGD decreased
+the mRNA levels for α1, α2, β2, β3 subunits, inhibition of transcription
+is unlikely to contribute to the observed downregulation of GABAAR protein levels since transcription blockage with actinomycin D for 9.5 h (the
+maximal duration of the OGD experiments) did not affect the abundance
+of α1, α2, β3 and γ2 protein levels (S. Fig. 4).
+Downregulation of GABAAR α1 subunit/gephyrin interaction during OGD
+The number of GABAAR at the synapse determines the strength of inhibitory signaling. These receptors are very dynamic structures in the
+cell membrane, moving between synaptic and extrasynaptic sites
+(Thomas et al., 2005), and their accumulation at the synapse is regulated by interaction with the scaffold protein gephyrin (Jacob et al., 2005).
+To evaluate if GABAAR/gephyrin interaction is altered in ischemic conditions, a surface co-immunoprecipitation protocol was used. Exposure of
+hippocampal neurons to OGD for 70 min, which does not affect total
+GABAAR α1 subunit protein levels, signiﬁcantly reduced the interaction
+between surface-expressed receptor subunit and gephyrin (Fig. 2A,C),
+as demonstrated by immunoprecipitation of surface subunits followed
+by Western blot with an anti-gephyrin antibody (Fig. 2C). This effect
+was completely inhibited by cyclosporin A (1 μM), a calcineurin inhibitor, but was insensitive to okadaic acid (0.5 μM), an inhibitor of PP1α
+and PP2A phosphatases. In contrast, the decrease in total surface expression of GABAAR α1 subunits induced by OGD was completely abrogated in the presence of okadaic acid (Fig. 2B and C), but was insensitive
+to cyclosporin A (1 μM). These results indicate that different protein
+phosphatases mediate the effect of OGD on the dissociation of GABAAR
+α1 subunits from gephyrin and the decrease in surface expression of
+GABAARs, presumably due to an increase in the rate of internalization.
+Control experiments showed no changes in total gephyrin (S. Fig. 5B)
+
+M. Mele et al. / Neurobiology of Disease 65 (2014) 220 –232
+
+225
+
+Fig. 2. OGD reduces the interaction of surface α1 GABAAR subunits with gephyrin. (A–C) A surface co-immunoprecipitation protocol was used to determine GABAAR/gephyrin interaction.
+Cultured hippocampal neurons were exposed to OGD for 70 min and biotinylated as described in the methods section. Where indicated the cells were incubated with okadaic acid (0.5 μM)
+or with cyclosporin A (1 μM) during the OGD period. The surface GABAAR α1 subunits were analyzed by Western blot with a speciﬁc antibody after puriﬁcation with a surface coimmunoprecipitation assay (B). The co-immunoprecipitation of gephyrin with the surface GABAAR α1 subunits was also analyzed by Western blot with a speciﬁc antibody, and the
+ratio between gephyrin associated with surface GABAAR α1 and the plasma membrane associated GABAAR α1 subunit is expressed in panel (A). A representative image is shown in
+panel (C). Results are means ± SEM of at least 3 independent experiments performed in different preparations, and expressed as percentage of the control. GABAAR α1 protein levels
+was used as loading control. Statistical analysis was performed by one-way ANOVA, followed by Dunnett's or Bonferroni test. **p b 0.01, ***p b 0,001, ##p b 0,01, ###p b 0.01—signiﬁcantly
+different when compared to control conditions.
+
+and GABAAR α1 (S. Fig. 5A) subunit protein levels under the experimental conditions used in these experiments.
+Although okadaic acid did not affect the interaction between
+gephyrin and GABAAR α1 subunits, Western blot experiments showed
+a shift of the band corresponding to gephyrin in extracts prepared
+from neurons incubated with okadaic acid (S. Fig. 5B, S. Fig. 6). This
+shift did not correspond to an increase of total gephyrin protein levels,
+as conﬁrmed by Western blot quantiﬁcation (S. Fig. 5B). To investigate
+whether the shift in the gephyrin band was due to phoshorylation of
+the scaffold protein, λ-phosphatase assay was performed. Indeed, the
+observed shift in the gephyrin band was not observed when cell lysates
+were incubated with λ-phosphatase (S. Fig. 6). Also, no shift in gephyrin
+immunoreactivity was observed in extracts prepared from hippocampal
+neurons subjected to OGD, further suggesting that the phosphorylation
+sites regulated by protein phosphatases sensitive to okadaic acid are not
+involved in the regulation of the interaction between gephyrin and
+GABAAR α1 subunits.
+OGD increases α1 GABAAR subunit internalization
+From the functional point of view, it is the population of GABAAR associated with the plasma membrane that is expected to play a role in the
+modulation of the demise process after OGD. To determine the rate at
+which the cell-surface GABAARs are internalized, we used an antibody
+feeding technique (Connolly et al., 1999; Lin et al., 2000) that allows
+distinguishing the cell-surface and the internalized pools of native
+GABAARs. Cell-surface GABAARs on living cultured hippocampal neurons were labeled with an anti-GABAAR-α1 (N-terminus) antibody.
+Control experiments showed that astrocytes present in the cultures
+(~ 10% of the cells) are not stained with the anti-GABAAR-α1 (Nterminus) antibody (not shown).
+Under resting conditions the GABAAR α1 subunit presented a constant rate of internalization for 30 min, when about 80% of the surface
+receptors were internalized. This rate of internalization, of about 10%
+of the surface receptors/10 min, was calculated both in the soma and
+neurites. In both compartments there was a pool of GABAAR α1 subunit,
+corresponding to about 20% of the labeled proteins, which was stable
+and did not undergo internalization during 60 min (Fig. 3A). Therefore,
+in all other experiments the internalization of GABAAR α1 subunits was
+followed for 10–20 min.
+The effect of OGD on GABAAR α1 subunit internalization was tested
+in hippocampal neurons subjected to the ischemic injury for 70 min,
+
+which does not affect the total protein levels of the receptor subunit
+(S. Fig. 5). The experimental conditions used induce about 20% cell
+death as measured 7 h–12 h after the insult (S. Fig. 1). Labeling of surface receptors was performed immediately after OGD, to capture the
+initial alterations in the mechanisms regulating the receptor trafﬁcking,
+and receptor internalization was measured for different periods of time
+(0–20 min). Immunocytochemistry analysis revealed ~25% increase in
+the ratio of α1 subunit internalization compared to the correspondent
+sham condition, when tested for 20 min (Fig. 3B and C), both in the
+soma and neurite compartments. This effect was abolished when internalization was blocked by a hyperosmolar concentration of sucrose
+(350 mM) (Fig. 3D and F), and with the speciﬁc dynamin inhibitor
+dynasor (125 μM) (Fig. 3E and G). The OGD-induced internalization of
+GABAAR-α1 subunits was fully abrogated (p N 0.05) when the cells
+were treated with the NMDA receptor antagonist APV (100 μM), and
+similar results were obtained in the presence of NMDA (100 μM APV)
+and AMPA (20 μM NBQX) receptor antagonists (Fig. 4). The results obtained with the antibody feeding assay were similar in the soma and
+neurites, and show that OGD-induces the internalization of GABAARα1 subunits by a dynamin-dependent mechanism that requires activation of NMDA receptors.
+OGD-induced dephosphorylation of GABAAR β3 subunits leads to receptor
+internalization and mediates cell death
+The internalization of GABAAR is a process negatively regulated by
+phosphorylation of β3 or γ2 GABAAR subunits intracellular loop
+(Kittler et al., 2005, 2008). The GABAAR β3 subunits are present in a
+large proportion of receptor subtypes in the hippocampus and cortex,
+regions that are particularly vulnerable to excitotoxicity (Lo et al.,
+2003). To evaluate if the observed increase of GABAAR internalization
+(Fig. 3) is mediated by receptor dephosphorylation, the levels of GABAAR β3 subunit phosphorylation were evaluated by Western blot analysis
+using a phospho-speciﬁc antibody against the β3 subunit serine residues 408/409 (mouse sequence) (Fig. 5). After 70 min of OGD, GABAAR
+β3 subunit phosphorylation was reduced by 60% (Fig. 5A,B), and a decrease in β3 subunit phosphorylation was also observed in the infarct
+core after transient MCAO (Fig. 5C,D). The effect of OGD on GABAAR
+β3 subunit phosphorylation level was reduced when the NMDA receptor inhibitor AP-5 (100 μM) was used (Fig. 5A). These observations are
+correlated with the role of NMDA receptors in OGD-induced internalization of GABAAR α1 subunits (Fig. 4). Furthermore, the effect of OGD on
+
+226
+
+M. Mele et al. / Neurobiology of Disease 65 (2014) 220 –232
+
+Fig. 3. OGD increases α1 GABAAR subunit internalization by clathrin-mediated endocytosis. Receptor internalization was assessed through an antibody-feeding assay and analyzed by ﬂuorescence microscopy in cells labelled with an anti-GABAAR-α1 (N-terminus) antibody. A time-course analysis of receptor internalization was performed in basal conditions (in the culture
+conditioned medium) to validate the method (A). After quantiﬁcation of the images at the soma and dendritic compartments, the results were expressed as a ratio of internalized receptors/total receptor immunoreactivity. Different internalization periods were also tested in cells subjected to OGD (70 min) or maintained under control conditions (sham) before incubation with the anti-α1 GABAAR subunit antibody (B, C). Panels (D–G) show the effect of an hyperosmolar concentration of sucrose (350 mM) (D, F) and treatment with the dynamin
+inhibitor Dynasor (125 μM) (E, G) on the internalization of the α1 GABAAR subunit. Internalization of α1 GABAAR subunits was allowed for 20 min. When the effect of an hyperosmolar
+treatment was tested, the cells were incubated with 350 mM sucrose during the incubation period of surface receptor live staining and during the internalization period. The same strategy
+was adopted in the experiments with dynasor. Results are means ± SEM of at least 3 independent experiments, performed in different preparations. At least 10 cells were analyzed for
+each experimental condition/experiment. Internalization ratio was calculated by the ratio internalized antibody signal/total antibody signal. Statistical analysis was performed by one-way
+ANOVA, followed by Dunnett's or Bonferroni test. *p b 0.05, **p b 0.01, ***p b 0.001, ##p b 0,01, ###p b 0.01—signiﬁcantly different when compared to control conditions.
+
+M. Mele et al. / Neurobiology of Disease 65 (2014) 220 –232
+
+227
+
+Fig. 4. OGD-induced GABAAR α1 subunit internalization is mediated by activation of glutamate receptors. Cultured hippocampal neurons were subjected to OGD (70 min) or maintained
+under control conditions (sham), and the internalization of GABAAR (20 min) was assessed through an antibody-feeding assay. When the effect of glutamate receptor antagonists was
+tested, the cells were pre-incubated (or not) with NBQX (20 μM) and AP-5 (100 μM) for 30 min before OGD, and the inhibitors were also present during the whole experimental period.
+Representative ﬂuorescence images are shown in panel (B) and the results in (A) are means ± SEM of at least 3 independent experiments performed in independent preparations. At least
+10 cells were analyzed in each condition per experiment. Ratio of internalization was calculated by internalized antibody signal/total antibody immunoreactivity. Statistical analysis was
+performed by one-way ANOVA, followed by Dunnett's or Bonferroni test. **p b 0.01—signiﬁcantly different when compared to the sham condition.
+
+β3 subunit dephosphorylation was prevented when neurons were incubated with 0.5 μM okadaic acid (PP1/PP2A phosphatase inhibitor) but
+not in the presence of 1 μ M cyclosporin A (calcineurin inhibitor)
+(Fig. 5B).
+In vitro studies showed that phosphorylation of GABAAR β3 subunit,
+on serine residues 408/409, negatively regulates receptor endocytosis
+(Terunuma et al., 2008). These two serine residues are located in an
+AP2-binding motif conserved within the intracellular domain of all
+GABAAR subunit isoforms (KTHLRRRSSQLK) (Kittler et al., 2005). To
+evaluate the role of β3 subunit dephosphorylation in the increase of
+GABAAR internalization during OGD, and its contribution to the
+excitotoxicity-induced neuronal death, we made phosphomutants of
+the GABAAR β3 subunit. Cultured hippocampal neurons (13 DIV) were
+transfected with the myc-tagged wild-type or the phospho-mimetic
+form (SS432/433DD) (homologous of mouse 408/409) of the huGABAAR β3 subunit, subjected to OGD for 90 min and further incubated in the
+culture conditioned medium for 12 h. The transfected cells were identiﬁed by immunocytochemistry with an anti-myc antibody (as shown in
+Fig. 6B), and nuclear morphology analysis of transfected cells (Fig. 6A)
+showed a protective effect of the phospho-mimetic form of the receptor
+that reduced OGD-induced cell death by about 50% when compared
+with the wild-type β3 subunit. In contrast, non-transfected cells in the
+two types of cultures exhibited a similar rate of OGD-induced neuronal
+death (Fig. 6A′), showing the speciﬁcity of the effects resulting from the
+
+expression of the phospho-mimetic form (SS432/433DD) of the
+huGABAAR β3 subunit.
+The surface expression of the myc-tagged GABAAR β3 subunit mutant was evaluated by immunocytochemistry with an anti-myc antibody under non-permeabilizing conditions (see Fig. 6C). The SS432/
+433DD mutant of the GABAAR β3 subunits presented an increased surface expression in transfected hippocampal neurons, both in control
+condition and after OGD (70 min), when compared to the WT GABAAR
+β3 subunits (Fig. 6D and D′). In contrast, transfection with the phosphonull mutant of GABAAR β3 subunits reduced the surface expression of
+the receptor, both in the somal (Fig. 6D) and neuritic compartments
+(Fig. 6D′). The total expression of the myc-tagged wild-type, phosphomimetic (SS432/433DD) and phospho-null (SS432/433AA) forms of
+the GABAAR β3 subunit was evaluated by immunocytochemistry with
+an anti-myc antibody after permeabilization, showing similar expression
+level of these proteins (S. Fig. 7). The internalization rate of myc-tagged
+wild type, phospho-mimetic and phospho-null GABAAR β3 subunits, in
+cultured hippocampal neurons maintained under control conditions or
+subjected to OGD, was assessed using the antibody feeding technique
+(see Fig. 6F). A decrease in internalization ratio was observed for the
+phospho-mimetic mutant when compared with the WT GABAAR β3, in
+contrast with the phospho-null mutant which showed no alteration in
+internalization. Differential analysis of soma (Fig. 6E) and neurites
+(Fig. 6E′) showed similar results for the two cellular compartments.
+
+228
+
+M. Mele et al. / Neurobiology of Disease 65 (2014) 220 –232
+
+Fig. 5. OGD-induced GABAAR internalization is mediated by β3 subunit dephosphorylation. GABAAR β3 subunit phosphorylation was evaluated by Western blot analysis using a phosphospeciﬁc antibody against the β3 subunit serine 408/409 (A, B). The cells were subjected to OGD (70 min) or maintained under control conditions (sham), and the following inhibitors were
+tested: APV (100 μM) (A), okadaic acid (0.5 μM) and cyclosporin A (1 μM) (B). When the effect of glutamate receptor antagonists was tested, the cells were pre-incubated with the drugs
+for 30 min and they were also present during the entire experiment. GABAAR β3 subunit phosphorylation was determined with a speciﬁc antibody, which binds to the phosphorylated
+serine 408/409. (C–D) Effect of in vivo ischemia (MCAO) on β3 GABAAR subunit phosphorylation levels, as determined 48 h after the lesion, in the infarct core, penumbra and contralateral
+cortex. GABAAR β3 subunit phosphorylation was evaluated by Western blot (reprobing of the membrane showing β3 subunit protein levels in Fig. 1F), as indicated above. Results
+were normalized to the total protein levels of GABA A R β3 subunit or synaptophysin, and were expressed as percentage of control. The bars represent the means ± SEM of
+at least 3 independent experiments performed in different preparations. Statistical analysis was performed by one-way ANOVA, followed by Dunnett's or Bonferroni test.
+*p b 0.05 **p b 0.01, ***p b 0.001, ###p b 0.001—signiﬁcantly different when compared to control conditions.
+
+Discussion
+Stroke, or cerebral ischemia, is characterized by an early disruption
+of GABAergic neurotransmission due to alterations at both pre- and
+post-synaptic sides of the GABAergic synapse (Schwartz-Bloom and
+Sah, 2001), but the molecular mechanisms involved are not fully
+
+understood. In this work we show a key role for protein phosphatases
+in the regulation of GABAAR α1 subunit interaction with the anchoring
+protein gephyrin, which is responsible for receptor clustering at the synapse, and in the internalization of GABAAR in hippocampal neurons subjected to OGD, an in vitro model of global ischemia. In particular, the
+dephosphorylation of β3 GABAARs subunits was found to play a key
+
+Fig. 6. OGD-induced GABAAR β3 subunit dephosphorylation leads to receptor internalization and increases cell death. (A) Cultured hippocampal neurons were transfected with the myctagged wild-type or the phospho-mimetic form (Ser408/409) of the GABAAR β3 subunit and subjected to OGD for 90 min, before incubation in the culture conditioned medium for 12 h.
+Where indicated (sham) the cells were treated under control conditions. The transfected cells were identiﬁed by immunocytochemistry with an anti-myc antibody, and the viability of
+transfected (A) and non-transfected (A′) cells was evaluated with Hoechst 33342. Representative images are shown in panel (B). The arrows point to the nuclei of hippocampal neurons
+transfected with the wild type or the phospho-mimetic forms of GABAAR β3 subunit. Under the same conditions, hippocampal neurons transfected with the phospho-mimetic form of the
+GABAAR β3 subunit show a decrease in cell death (the arrow in the panel B points to the nuclei of transfected cells). The effect of OGD on the surface expression of the myc-tagged GABAAR
+β3 subunits (phospho-mimetic and phospho-null forms) was evaluated by immunocytochemistry, in the somal (D) and neuritic compartments (D′), with an anti-myc antibody under
+non-permeabilizing conditions. Representative images are shown in panel (C). The rate of internalization of myc-tagged wild type, phospho-mimetic and phospho-null GABAAR β3
+(Ser432/433) (homologous of mouse 408/409) subunits in cultured hippocampal neurons maintained under control conditions (sham) or subjected to OGD is shown in panels (E, E′)
+and (F). The internalization ratio, obtained by the antibody feeding assay, was calculated based on the immunoreactivity of the internalized antibody/total antibody signal. At least 10
+cells were analyzed in each condition per experiment. In the case of nuclear cell morphology analysis, for each experimental condition two coverslips were analyzed and at least 40
+cells were counted per coverslip. Results are means ± SEM of at least 3 independent experiments, performed in different preparations. Statistical analysis was performed by one-way
+ANOVA, followed by Dunnett's or Bonferroni test. *p b 0.05; **p b 0.01, ***p b 0.001—signiﬁcantly different when compared to the sham condition. NS - not signiﬁcant when compared
+to control conditions.
+
+M. Mele et al. / Neurobiology of Disease 65 (2014) 220 –232
+
+role in receptor internalization following OGD and the resulting loss of
+inhibitory activity contributes to neuronal death.
+Using the antibody feeding assay we observed an increased internalization of GABAAR α1 and β3 subunits in hippocampal neurons subjected to OGD. The α1 GABAAR subunit is greatly expressed in the
+hippocampus (Hortnagl et al., 2013; Laurie et al., 1992; Wisden et al.,
+1992), a brain region that is highly vulnerable to ischemic conditions
+
+229
+
+(Kirino and Sano, 1984; Schmidt-Kastner and Freund, 1991; Sugawara
+et al., 1999). The OGD-induced internalization of GABAAR α1 subunits
+was mediated by clathrin-dependent endocytosis, and required glutamate receptor activation. A similar mechanism was shown to contribute
+to the internalization of GABAAR in an in vitro model of epilepsy, a condition also characterized by excitation/inhibition imbalance (Goodkin
+et al., 2005).
+
+230
+
+M. Mele et al. / Neurobiology of Disease 65 (2014) 220 –232
+
+GABAARs are clustered at the synapse through interaction with
+gephyrin (Tyagarajan and Fritschy, 2010), and the GABAAR α1 subunits
+were shown to interact directly with the scaffold protein (Mukherjee
+et al., 2011; Tretter et al., 2011). This is in agreement with the results obtained in the present study showing that surface GABAAR α1 subunits
+co-immunoprecipitate with gephyrin. The interaction between α1
+GABAAR subunit and gephyrin promotes the receptor accumulation at
+inhibitory synapses, by limiting its lateral diffusion, and this interaction
+depends on residues 360–375 of the α1 subunit that bind directly to
+gephyrin (Mukherjee et al., 2011). Modulating this interaction via covalent modiﬁcations, such as phosphorylation, may be a potent mechanism to control the strength of fast GABAergic signaling. We observed
+that OGD signiﬁcantly decreases the co-immunoprecipitation of surface
+GABAAR α1 subunits with gephyrin, by a mechanism sensitive to
+calcineurin inhibition. Since calcineurin had no effect on the apparent
+mobility of gephyrin in SDS-PAGE, the results suggest that the phosphatase may dephosphorylate GABAAR (Kapur and Lothman, 1990). The
+induction of long-term depression at CA1 inhibitory synapses also resulted in a reduction in the synaptic GABAAR number by a calcineurindependent mechanism (Wang et al., 2003), while a direct effect of calcineurin on the functional properties of GABAAR was proposed in a different study (Jones and Westbrook, 1997). The effect of calcineurin on
+the dissociation of gephyrin-GABAAR α1 complexes induced by OGD
+clearly favors the former mechanism of action. However, at this point
+it is not possible to rule out an effect of OGD on the activity of protein
+kinase(s) responsible for the phosphorylation of the amino acid residues targeted by calcineurin (Chapell et al., 1998; Connolly et al.,
+1999; Filippova et al., 2000; Jovanovic et al., 2004).
+The possibility that gephyrin phosphorylation might regulate
+GABAAR binding to gephyrin, and their post-synaptic localization or
+trafﬁcking, has not been investigated. Evidences available for glycine receptors (GlyR) demonstrate that proline-directed phosphorylation of
+
+gephyrin may induce a conformational change favoring GlyR binding
+(Tyagarajan and Fritschy, 2010; Zita et al., 2007). Several studies identiﬁed gephyrin as a target for serine/threonine directed phosphorylation
+(Beausoleil et al., 2006; Lundby et al., 2012), and a recent study detailed
+18 different phosphorylation residues on gephyrin (Herweg and
+Schwarz, 2012), suggesting a key role for phosphorylation in the regulation of gephyrin function. Moreover, given that phosphorylation and
+[Ca2 +]i rise make gephyrin susceptible to proteolysis by calpain
+(Tyagarajan et al., 2013) the neuronal activity-driven gephyrin dynamics could very likely be phosphorylation-dependent. Accordingly,
+gephyrin phosphorylation on Ser268 is important for scaling (up or
+down) GABAergic transmission (Tyagarajan et al., 2013).
+In contrast with the role of calcineurin in OGD-induced dissociation
+of gephyrin–GABAAR α1 complexes, the dephosphorylation of GABAAR
+β3 subunits under the same conditions is mediated by okadaic acidsensitive protein phosphatases (PP1 and/or PP2A). Recruitment of
+GABAARs into the endocytic pathway is facilitated via the interactions
+of the intracellular domains of β1–3 and γ2 subunits with μ2-AP2
+(Kittler et al., 2005, 2008). This motif incorporates the major sites of
+phosphorylation for PKC and PKA, corresponding to serine residues
+S408 and S409 in the case of the GABAAR β3 subunit (mouse sequence)
+(Brandon et al., 2002; McDonald and Moss, 1997). Phosphorylation of
+these sites has been shown to impair GABAAR endocytosis by
+preventing the interaction of the β3 subunit with AP2 (Jacob et al.,
+2009; Kittler et al., 2005). The role of GABAAR β3 dephosphorylation
+in receptor internalization and neuronal death in hippocampal neurons
+subjected to OGD is supported by the following evidences: i) OGD reduced the phosphorylation of GABAAR β3 subunit by a mechanism sensitive to okadaic acid, as determined by Western blot with a
+phosphospeciﬁc antibody against serine residues 408/409; ii) the
+phospho-mimetic mutant of GABAAR β3 subunit (SS432/433AA) was
+accumulated at cell surface and showed no OGD-induced
+
+Fig. 7. Model of GABA A R internalization during cerebral ischemia. Ischemic insult (1) over-activates NMDAR signaling (2) and the resulting activation of calcineurin decreases GABA A R/gephyrin interaction (3). In parallel, OGD reduces phosphorylation of the GABA A R β3 subunit by a mechanism sensitive to okadaic acid (4), inducing
+the internalization of GABA A R via clathrin dependent endocytosis (5, 6).
+
+M. Mele et al. / Neurobiology of Disease 65 (2014) 220 –232
+
+internalization; iii) the same mutation reduced signiﬁcantly OGDinduced cell death. The neuroprotection provided by the phosphomimetic mutant of GABAAR β3 subunit, resulting from receptor activation by endogenous GABA, is highly remarkable considering that less
+than 10% of the cells present in the culture are GABAergic (Baptista
+et al., 2010). The triple arginine motif of the β3 GABAAR subunit that
+mediates direct binding of the receptor to the clathrin adaptor protein
+AP2 plays a key role in regulating the surface distribution of the receptor
+(Smith et al., 2012). A peptide overlapping the AP2 binding region in the
+β3 subunit, to compete the β3/AP2 interaction, was shown to decrease
+OGD-induced cell death. However, this strategy does not rule out nonspeciﬁc effects on the internalization of other plasma membrane proteins, which may interact with AP2 on the same binding motif. This evidence together with our result showing the protective effect of GABAAR
+stabilization in the membrane, strongly support the idea that GABAA R internalization is a potential target for ischemia therapy and the
+use of a molecule/peptide interacting with the β3 subunit residue
+responsible for the receptor internalization could be a good strategy
+to test in vivo for the treatment of cerebral ischemia.
+In addition to the effect on the surface expression of GABAARs, OGD
+also downregulated the total protein levels and mRNA for several
+GABAAR subunits, which is likely to have a delayed and long-lasting effect on GABAergic synaptic transmission. At least some of the effects of
+OGD on GABAAR subunits (e.g. α2 and β3) are mediated by calpains. In
+addition to the effect on GABAAR subunits, the activation of calpains in
+ischemic condition results in the cleavage of a number of neuronal substrates that affect neuronal structure and function, leading to inhibition
+of neuronal survival mechanisms (Vosler et al., 2008). The OGD-induced
+downregulation of the mRNA levels for α1, α2, β2, β3 and γ2 GABAA receptor subunits was mediated by activation of glutamate receptors and
+would prevent the replenishment of the GABAAR pool degraded in response to the injury. Interestingly, under the OGD conditions used the
+mRNA levels for the GABAAR δ subunit were not signiﬁcantly altered.
+Considering that this subunit is found at extrasynaptic regions (Nusser
+et al., 1998), the results suggest that OGD has differential effects on
+the synaptic and extrasynaptic pools of GABAARs.
+In conclusion, we showed that the (de)phosphorylation site of
+GABAAR β3 subunits on serines 408/409 (mouse sequence) is a master
+regulator of GABAAR surface localization in ischemic conditions, and receptor internalization contributes to the death of hippocampal neurons
+after transient OGD. Recruitment of GABAAR for internalization is induced by glutamate receptor activation and follows the impairment in
+their interaction with the scaffold protein gephyrin, by a mechanism
+that is also regulated by protein phosphatases (Fig. 7). The degradation
+of GABAARs and the downregulation of their mRNAs may further reduce
+GABAergic synaptic transmission. Taken together, these results suggest
+that modulation of GABAAR phosphorylation might be a therapeutic target to preserve synaptic inhibition in brain ischemia.
+Acknowledgments
+This work was funded by Fundação para a Ciência e a Tecnologia (FCT)
+and Fundo Europeu para o Desenvolvimento Regional (FEDER) (Pest-C/
+SAU/LA0001/2011 and PTDC/NEU-NMC/0198/2012) and the Swedish Research Council (grant no. 8466). We would also like to thank Dr. Martin
+Wallner (Department of Molecular and Medical Pharmacology, David
+Geffen School of Medicine, UCLA) for providing the plasmid containing
+the human WT GABAAR β3 subunit sequence, and Elisabete Carvalho for
+assistance in the preparation of cell cultures. The authors declare no competing ﬁnancial interests.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at http://dx.
+doi.org/10.1016/j.nbd.2014.01.019.
+
+231
+
+References
+Alldred, M.J., et al., 2005. Distinct gamma2 subunit domains mediate clustering and synaptic function of postsynaptic GABAA receptors and gephyrin. J. Neurosci. 25,
+594–603.
+Allen, N.J., et al., 2004. Sequential release of GABA by exocytosis and reversed uptake leads
+to neuronal swelling in simulated ischemia of hippocampal slices. J. Neurosci. 24,
+3837–3849.
+Baptista, M.S., et al., 2010. Role of the proteasome in excitotoxicity-induced cleavage of
+glutamic acid decarboxylase in cultured hippocampal neurons. PLoS One 5, e10139.
+Beausoleil, S.A., et al., 2006. A probability-based approach for high-throughput protein
+phosphorylation analysis and site localization. Nat. Biotechnol. 24, 1285–1292.
+Bevers, M.B., Neumar, R.W., 2008. Mechanistic role of calpains in postischemic neurodegeneration. J. Cereb. Blood Flow Metab. 28, 655–673.
+Bogdanov, Y., et al., 2006. Synaptic GABAA receptors are directly recruited from their
+extrasynaptic counterparts. EMBO J. 25, 4381–4389.
+Brandon, N., et al., 2002. Multiple roles of protein kinases in the modulation of gammaaminobutyric acid(A) receptor function and cell surface expression. Pharmacol.
+Ther. 94, 113–122.
+Brickley, S.G., et al., 1996. Development of a tonic form of synaptic inhibition in rat cerebellar granule cells resulting from persistent activation of GABAA receptors. J. Physiol.
+497 (Pt. 3), 753–759.
+Brorson, J.R., et al., 1995. Delayed antagonism of calpain reduces excitotoxicity in cultured
+neurons. Stroke 26, 1259–1266 (discussion 1267).
+Caldeira, M.V., et al., 2013. Excitotoxic stimulation downregulates the ubiquitinproteasome system through activation of NMDA receptors in cultured hippocampal
+neurons. Biochim. Biophys. Acta 1832, 263–274.
+Chapell, R., et al., 1998. Activation of protein kinase C induces gammaaminobutyric acid type A receptor internalization in Xenopus oocytes. J. Biol.
+Chem. 273, 32595–32601.
+Choi, D.W., 1992. Excitotoxic cell death. J. Neurobiol. 23, 1261–1276.
+Connolly, C.N., et al., 1999. Cell surface stability of gamma-aminobutyric acid type A receptors. Dependence on protein kinase C activity and subunit composition. J. Biol.
+Chem. 274, 36565–36572.
+Dawson, V.L., et al., 1996. Resistance to neurotoxicity in cortical cultures from neuronal
+nitric oxide synthase-deﬁcient mice. J. Neurosci. 16, 2479–2487.
+Filippova, N., et al., 2000. Regulation of recombinant gamma-aminobutyric acid
+(GABA)(A) and GABA(C) receptors by protein kinase C. Mol. Pharmacol. 57,
+847–856.
+Goldberg, M.P., Choi, D.W., 1993. Combined oxygen and glucose deprivation in cortical
+cell culture: calcium-dependent and calcium-independent mechanisms of neuronal
+injury. J. Neurosci. 13, 3510–3524.
+Gomes, J.R., et al., 2011. Cleavage of the vesicular GABA transporter under excitotoxic conditions is followed by accumulation of the truncated transporter in nonsynaptic sites.
+J. Neurosci. 31, 4622–4635.
+Goodkin, H.P., et al., 2005. Status epilepticus increases the intracellular accumulation of
+GABAA receptors. J. Neurosci. 25, 5511–5520.
+Herweg, J., Schwarz, G., 2012. Splice-speciﬁc glycine receptor binding, folding, and
+phosphorylation of the scaffolding protein gephyrin. J. Biol. Chem. 287,
+12645–12656.
+Hortnagl, H., et al., 2013. Patterns of mRNA and protein expression for 12 GABAA receptor
+subunits in the mouse brain. Neuroscience 236, 345–372.
+Inacio, A.R., et al., 2011. Lack of macrophage migration inhibitory factor in mice does not
+affect hallmarks of the inﬂammatory/immune response during the ﬁrst week after
+stroke. J. Neuroinﬂammation 8, 75.
+Jacob, T.C., et al., 2005. Gephyrin regulates the cell surface dynamics of synaptic GABAA receptors. J. Neurosci. 25, 10469–10478.
+Jacob, T.C., et al., 2009. GABAA receptor membrane trafﬁcking regulates spine maturity.
+Proc. Natl. Acad. Sci. U. S. A. 106, 12500–12505.
+Jones, M.V., Westbrook, G.L., 1997. Shaping of IPSCs by endogenous calcineurin activity.
+J. Neurosci. 17, 7626–7633.
+Jovanovic, J.N., et al., 2004. Brain-derived neurotrophic factor modulates fast synaptic inhibition by regulating GABAA receptor phosphorylation, activity, and cell-surface stability. J. Neurosci. 24, 522–530.
+Kapur, J., Lothman, E.W., 1990. NMDA receptor activation mediates the loss of GABAergic
+inhibition induced by recurrent seizures. Epilepsy Res. 5, 103–111.
+Kirino, T., Sano, K., 1984. Selective vulnerability in the gerbil hippocampus following transient ischemia. Acta Neuropathol. 62, 201–208.
+Kittler, J.T., et al., 2005. Phospho-dependent binding of the clathrin AP2 adaptor complex
+to GABAA receptors regulates the efﬁcacy of inhibitory synaptic transmission. Proc.
+Natl. Acad. Sci. U. S. A. 102, 14871–14876.
+Kittler, J.T., et al., 2008. Regulation of synaptic inhibition by phospho-dependent binding
+of the AP2 complex to a YECL motif in the GABAA receptor gamma2 subunit. Proc.
+Natl. Acad. Sci. U. S. A. 105, 3616–3621.
+Laurie, D.J., Neurosci, J., et al., 1992. The distribution of thirteen GABAA receptor subunit
+mRNAs in the rat brain. III. Embryonic and postnatal development. J. Neurosci. 12,
+4151–4172.
+Lin, J.W., et al., 2000. Distinct molecular mechanisms and divergent endocytotic pathways
+of AMPA receptor internalization. Nat. Neurosci. 3, 1282–1290.
+Lipton, P., 1999. Ischemic cell death in brain neurons. Physiol. Rev. 79, 1431–1568.
+Liu, B., et al., 2010. Preservation of GABAA receptor function by PTEN inhibition protects
+against neuronal death in ischemic stroke. Stroke 41, 1018–1026.
+Lo, E.H., et al., 2003. Mechanisms, challenges and opportunities in stroke. Nat. Rev.
+Neurosci. 4, 399–415.
+Lundby, A., et al., 2012. Quantitative maps of protein phosphorylation sites across 14 different rat organs and tissues. Nat. Commun. 3, 876.
+
+232
+
+M. Mele et al. / Neurobiology of Disease 65 (2014) 220 –232
+
+Martin, R.L., et al., 1994. The early events of oxygen and glucose deprivation: setting the
+scene for neuronal death? Trends Neurosci. 17, 251–257.
+McDonald, B.J., Moss, S.J., 1997. Conserved phosphorylation of the intracellular
+domains of GABA A receptor beta2 and beta3 subunits by cAMP-dependent
+protein kinase, cGMP-dependent protein kinase protein kinase C and Ca 2 + /
+calmodulin type II-dependent protein kinase. Neuropharmacology 36,
+1377–1385.
+Mielke, J.G., Wang, Y.T., 2005. Insulin exerts neuroprotection by counteracting the
+decrease in cell-surface GABA receptors following oxygen-glucose deprivation in
+cultured cortical neurons. J. Neurochem. 92, 103–113.
+Muir, J., et al., 2010. NMDA receptors regulate GABAA receptor lateral mobility and clustering at inhibitory synapses through serine 327 on the gamma2 subunit. Proc.
+Natl. Acad. Sci. U. S. A. 107, 16679–16684.
+Mukherjee, J., et al., 2011. The residence time of GABAARs at inhibitory synapses is
+determined by direct binding of the receptor alpha1 subunit to gephyrin.
+J. Neurosci. 31, 14677–14687.
+Nusser, Z., et al., 1998. Segregation of different GABA A receptors to synaptic
+and extrasynaptic membranes of cerebellar granule cells. J. Neurosci. 18,
+1693–1703.
+Nygren, T., Wieloch, T., 2005. Enriched environment enhances recovery of motor
+function after focal ischemia in mice, and downregulates the transcription factor NGFI-A. J. Cereb. Blood Flow Metab. 25, 1625–1633.
+Rudolph, U., Mohler, H., 2004. Analysis of GABAA receptor function and dissection of the
+pharmacology of benzodiazepines and general anesthetics through mouse genetics.
+Annu. Rev. Pharmacol. Toxicol. 44, 475–498.
+Saido, T.C., et al., 1994. Calpain: new perspectives in molecular diversity and
+physiological-pathological involvement. FASEB J. 8, 814–822.
+Schmidt-Kastner, R., Freund, T.F., 1991. Selective vulnerability of the hippocampus in
+brain ischemia. Neuroscience 40, 599–636.
+Schwartz-Bloom, R.D., Sah, R., 2001. gamma-Aminobutyric acid(A) neurotransmission
+and cerebral ischemia. J. Neurochem. 77, 353–371.
+
+Smith, K.R., et al., 2012. Stabilization of GABAA receptors at endocytic zones is mediated by
+an AP2 binding motif within the GABAA receptor beta3 subunit. J. Neurosci. 32,
+2485–2498.
+Sugawara, T., et al., 1999. Mitochondrial release of cytochrome c corresponds to the selective vulnerability of hippocampal CA1 neurons in rats after transient global cerebral
+ischemia. J. Neurosci. 19, RC39.
+Terunuma, M., et al., 2008. Deﬁcits in phosphorylation of GABAA receptors by intimately
+associated protein kinase C activity underlie compromised synaptic inhibition
+during status epilepticus. J. Neurosci. 28, 376–384.
+Thomas, P., et al., 2005. Dynamic mobility of functional GABAA receptors at inhibitory synapses. Nat. Neurosci. 8, 889–897.
+Tretter, V., et al., 2011. Molecular basis of the gamma-aminobutyric acid A receptor
+alpha3 subunit interaction with the clustering protein gephyrin. J. Biol. Chem. 286,
+37702–37711.
+Tyagarajan, S.K., Fritschy, J.M., 2010. GABAA receptors, gephyrin and homeostatic synaptic
+plasticity. J. Physiol. 588, 101–106.
+Tyagarajan, S.K., et al., 2013. ERK and GSK3beta regulate gephyrin postsynaptic aggregation and GABAergic synaptic function in a calpain-dependent mechanism. J. Biol.
+Chem. 288, 9634–9647.
+Vanderklish, P.W., Bahr, B.A., 2000. The pathogenic activation of calpain: a marker and
+mediator of cellular toxicity and disease states. Int. J. Exp. Pathol. 81, 323–339.
+Vosler, P.S., et al., 2008. Calpain-mediated signaling mechanisms in neuronal injury and
+neurodegeneration. Mol. Neurobiol. 38, 78–100.
+Wang, J., et al., 2003. Interaction of calcineurin and type-A GABA receptor gamma 2 subunits
+produces long-term depression at CA1 inhibitory synapses. J. Neurosci. 23, 826–836.
+Wisden, W., et al., 1992. The distribution of 13 GABAA receptor subunit mRNAs in the rat
+brain. I. Telencephalon, diencephalon, mesencephalon. J. Neurosci. 12, 1040–1062.
+Zita, M.M., et al., 2007. Post-phosphorylation prolyl isomerisation of gephyrin represents
+a mechanism to modulate glycine receptors function. EMBO J. 26, 1761–1771.
+
+

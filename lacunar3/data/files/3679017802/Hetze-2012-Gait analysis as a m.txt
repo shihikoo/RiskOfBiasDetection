@@ -1,0 +1,642 @@
+﻿[Link]
+dx.doi.org/10.1016/j.jneumeth.2012.02.001
+[Link]
+http://www.sciencedirect.com/science/journal/01650270
+[Link]
+http://www.elsevier.com/locate/jneumeth
+[Link]
+mailto:andreas.meisel@charite.de
+[Link]
+dx.doi.org/10.1016/j.jneumeth.2012.02.001
+Journal of Neuroscience Methods 206 (2012) 7–14
+Contents lists available at SciVerse ScienceDirect
+Journal of Neuroscience Methods
+journal homepage: www.elsevier.com/locate/jneumeth
+Clinical Neuroscience
+Gait analysis as a method for assessing neurological outcome in a mouse model
+of stroke
+Susann Hetze1, Christine Römer1, Carena Teufelhart, Andreas Meisel∗, Odilo Engel
+Center of Stroke Research Berlin, Neurocure Clinical Research Center, Department for Experimental Neurology, Charité Universitaetsmedizin Berlin, Charitéplatz 1,
+10117 Berlin, Germany
+a r t i c l e i n f o
+Article history:
+Received 19 October 2011
+Received in revised form 2 January 2012
+Accepted 1 February 2012
+Keywords:
+Gait analysis
+Stroke
+MCAo
+Mouse
+Stroke model
+Behavior
+Long term functional outcome
+Catwalk
+a b s t r a c t
+Ameliorating stroke induced neurological deficits is one of the most important goals of stroke therapy. In
+order to improve stroke outcome, novel treatment approaches as well as animal stroke models predictive
+for the clinical setting are of urgent need. One of the main obstacles in experimental stroke research is
+measuring long-term outcome, in particular in mouse models of stroke. On the other hand, assessing
+functional deficits in animal models of stroke is critical to improve the prediction of preclinical findings.
+Automated gait analysis provides a sensitive tool to examine locomotion and limb coordination in small
+rodents. Comparing mice before and 10 days after experimental stroke (60min MCAo) we observed a
+significant decrease in maximum contact area, stride length and swing speed in the hind limbs, especially
+the contralateral one. Mice showed a disturbed interlimb coordination represented by changes in regularityindexandphasedispersion.Toassesswhethergaitanalysisisapplicabletoassessimprovementsby
+neuroprotective compounds, we applied a model calculation and approached common statistical problems. In conclusion, gait analysis is a promising tool to assess mid- to long-term outcome in experimental
+stroke research.
+© 2012 Elsevier B.V. All rights reserved.
+1. Introduction
+Ischemic stroke is the one of most frequent causes of death
+worldwide especially in developed countries (World Health
+Organisation(WHO),2008)and,beingthemostfrequentreasonfor
+adult disability (Johnston et al., 2009), puts a huge financial burden
+on health care systems (Kolominsky-Rabas et al., 2006; Saka et al.,
+2009). Three months after stroke, half of the survivors have still
+not gained full recovery, and 25% of survivors are unable to master
+their daily life without professional care (Ward et al., 2005). Consequently
+, improving the life quality of stroke patients is one of the
+main aims of stroke research. However, treatment options are to
+date very limited and many promising substances in stroke models
+havefailedinclinicalstudies(Endresetal.,2008).Analyzingneurological symptoms as gait impairments may improve the evaluation
+of neurological outcome both in humans and animals. In addition
+they can be suitable for the assessment of the effectiveness of new
+treatment concepts.
+∗ Corresponding author at: Department of Neurology, Charité Universitaetsmedizin Berlin, Charitéplatz 1, 10117 Berlin, Germany. Tel.: +49 30 450 560 026;
+fax: +49 30 450 560 915.
+E-mail address: andreas.meisel@charite.de (A. Meisel).
+1 These authors contributed equally.
+In humans, impairment of balance control after stroke is the
+main cause for gait deficits, preventing normal performance of
+movementsthatrequirecomplexcoordination(e.g.pelvicandknee
+controlinstancephase,swingphasehip,kneeandankleflexionand
+extension) (Olney et al., 1989; Olney and Richards, 1995). Inability to perform normal movements after stroke results primarily
+from an impaired swing initiation (Chen et al., 2005), which can
+be explained by an inadequate leg propulsion and compensatory
+mechanisms (Nadeau et al., 1999; Peterson et al., 2010).
+In contrast to the availability of proper tests in patients and
+ample of tests available for evaluating motor as well as cortical impairment, animal behavior after cerebral ischemia remains
+to be difficult to assess in particular in mouse models of stroke.
+Although tests for locomotion like rope walk (Carlini et al., 1967),
+grid walk (Kunkel-Bagden et al., 1993), ladder rung test (Metz and
+Whishaw, 2002) and foot print analysis (de Medinaceli et al., 1982)
+unravel distinct neurological impairments after stroke, their sensitivity is too low to distinguish subtle motor impairments. Contrary
+to patients, laboratory rodents, especially mice, show a quick functional recovery, which may be explained by their ecological niche
+as prey animals, implying a need of compensatory mechanisms
+for hiding sickness symptoms as a key for survival. (Tizard, 2008)
+Assessing gait parameters with high speed cameras could unravel
+these “hidden changes”, using as walkway either a glass plate for
+the individual’s comfortable speed (Hamers et al., 2001) or a treadmill to obtain current walking speed (Hampton et al., 2004).
+0165-0270/$ – see front matter © 2012 Elsevier B.V. All rights reserved.
+doi:10.1016/j.jneumeth.2012.02.001
+(DEMO PDF Extractor SDK 8.0.0.2542-2138026057)
+8 S. Hetze et al. / Journal of Neuroscience Methods 206 (2012) 7–14
+Several groups have investigated gait impairments in different
+stroke models. Nevertheless, majority of this work has been carried
+out in rats. In studies (Encarnacion et al., 2011; Vandeputte et al.,
+2010; Wang et al., 2008) with rats similar altered gait parameters
+were found indicating that gait analysis is a feasible method for
+animal models of stroke. Contrary to the situation in the rat, only
+very little is known about gait changes after experimental stroke in
+mice. This is a great disadvantage, since, to date, mice are the most
+commonly used animals in stroke research, despite the difficulty of
+performing behavioral tests in them. Lubjuhn and coworkers found
+two parameters changed in a permanent distal MCAo model, but
+do not report on inter-limb coordination (Lubjuhn et al., 2009).
+In this study we aim at describing gait changes in mice after
+transient filament MCAo, modeling a severe infarction in the media
+territory.Weputspecialemphasisonlong-termoutcome,sincethis
+is of urgent need for bench to bedside translation. To our knowledge
+, until today there are no studies that have used gait analysis
+as an outcome parameter for neuroprotection in mouse models of
+stroke. Hence our second goal is to establish gait analysis as valid
+tool for measuring mid- to long-term outcome after experimental
+stroke in mice.
+2. Materials and methods
+2.1. Animals and housing
+Male C57Bl6/J mice (Charles River Laboratories, Sulzfeld,
+Germany) were housed in cages lined with chip bedding and
+environmental enrichment (mouse tunnel and igloo; Plexx B.V.,
+Elst, The Netherlands) on a 12h light/dark cycle (change 7:00 o’
+clock) with ad libitum access to water and food (standard chow).
+At the time of the experiment, mice were 11–14 weeks old. All
+experiments were performed in accordance with the European
+directive on the protection of animals used for scientific purposes
+and approved by the relevant authority, Landesamt für Gesundheit
+und Soziales, Berlin, Germany.
+To compare consistence, but also due to protection of animals
+reasons, we included the control animals of different experiments
+fulfilling the following criteria 0.2ml Saline immediately after
+stroke (Placebo treatment), 60min Middle cerebral artery occlusion with Bederson score of 2 after operation (see below) and
+Gait analysis before and 10 days after stroke. In total, 31 mice
+from 5 experiments were included. Inter experiment comparisons
+revealed no significant or relevant difference in all gait parameters.
+2.2. Stroke model
+The surgical procedure of Middle cerebral artery occlusion
+(MCAo) was performed as described elsewhere in detail (Engel
+et al., 2011) according to the standard operating procedures of our
+lab (Dirnagl and Members of the MCAO-SOP Group, 2010). In brief,
+after a ventral cervical midline incision a 12mm silicon-coated
+nylonfilamentwasintroducedoverthecommoncarotidarteryand
+the internal carotid artery into the circle of Willis blocking the origin of the middle cerebral artery. After an ischemia time of 60min
+the filament was removed for reperfusion. Body temperature was
+controlled throughout the whole procedure and Isoflurane (Abott,
+Wiesbaden, Germany) in a 1:2 mixture oxygen/nitrous oxide was
+used for anaesthesia. We verified success of operation by using the
+Bederson score (Dirnagl and Members of the MCAO-SOP Group,
+2010).
+2.3. Gait analysis
+Gait analysis in mice was performed with an automated
+computer assisted method (CatWalkTM, Noldus Information
+Technology, Wageningen, The Netherlands) according to manufactures instructions and published procedures (Hamers et al., 2001).
+The equipment was located in a dark and silent room (<20lux of
+illumination). In brief the system consists of an elevated 1.3m long
+glass plate which is illuminated with a fluorescent light coming
+from the side and is internally reflected in the glass. When mice
+are passing the walkway and their paws contacting the glass plate,
+light leaves the glass plate due to the changed refractive index and
+is reflected downwards. A high-speed camera underneath the glass
+plate captures the images which are subsequently analyzed by the
+connected computer program. Home cage was used as bait at the
+end of the walkway, and animals were trained in 3 sessions before
+first measurement. We acquired a minimum of 3 compliant runs,
+which had to fulfill minimum run duration of 0.5s, maximum run
+durationof5s,andamaximumspeedvariationof60%.Runs,where
+animals turned or walked backwards, were excluded and the animal got another try. Runs in which the software was unable to
+calculate phase dispersion (Fig. 1) due to, for instance, anchor paw
+being undetected, were excluded from statistical analysis.
+Gait parameters can be classified into three main categories
+(Hamers et al., 2006): Parameters related to (a) individual paws,
+like width and length of a paw print, duration of paw contact, the
+pressure caused by a paw, etc. (b) the position of footprints, for
+instance relative print position, stride length and base of support
+(Fig. 1A) and (c) time dependent relationship between footprints
+such as phase dispersion and support formula (Fig. 1B and C). The
+definitions for gait parameters we focused at are summarized in
+Table 1.
+2.4. Magnetic resonance imaging
+One day after MCAO surgery MRI was performed in a subgroup of animals on a Bruker 7 T PharmaScan® 70/16 with a
+Bruker 98/38mmRF Coil, operating on Paravision software platform (Bruker, Karlsruhe, Germany). Mice were anesthetized with
+1.5% isoflurane in an oxygen/nitrous oxide mixture, and body
+temperature was monitored with an MR-compatible physiology
+monitoring unit and maintained within physiological limits using
+a heated water jacket. They were then fixed using a stereotactic frame and positioned in the magnet bore. T2 weighted MRI
+was achieved with a TurboRARE sequence (imaging parameters:
+256×256 in plane resolution, 20 slices with a thickness of 500m,
+FOV 28.5mm, TR 3500ms, TE 56ms, acquisition time 6min). The
+axial slices were chosen to cover the region between the olfactory bulb and the cerebellum. The size of the lesion apparent in
+theT2weightedimagingwasdeterminedsemi-automaticallyusing
+Analyze 5.0 software (AnalyzeDirect, Overland Park, KS, USA).
+2.5. Statistical analysis
+Data were analyzed with SPSS 14.0 for Windows (SPSS Inc.,
+Chicago,IL,USA).Normaldistributionofvariableswasverifiedwith
+Kolmogorov–Smirnovtest.AtypeIerror(˛)of0.05andtypeIIerror
+(ˇ) of 0.2 was accepted. Parametric student’s t-test was applied to
+calculate p values. Correlations between body weight and maximum contact area were assessed using Spearman’s rho correlation
+coefficient. P-value of less than 0.05 was considered statistically
+significant (*p<0.05; **p<0.01; ***p<0.001). Data are expressed as
+mean±standard deviation (SD) and represented as Box plots with
+whiskers Minimum to Maximum.
+For calculating effect sizes and a priori sample sizes the program G*Power 3.1.2 (Faul et al., 2007) was applied. Additionally
+we used the comparison for effect sizes described by Matthews
+and Altman (1996a) and standard procedures such as the standard
+error of differences (Bland, 2000).
+(WITH PDF Extractor SDK TRIAL VERSION)
+S. Hetze et al. / Journal of Neuroscience Methods 206 (2012) 7–14 9
+Fig. 1. Graphical representation of selected gait parameters (A) and calculation of Phase dispersions (B,C). Phase dispersion is the timing between initial contacts of a limb
+pair (RF–RH) in relation to the step cycle time of the anchor limb (RF) (B) If Phase dispersion exceeds 75%, the target paw is assigned to the next anchor (C) (BOS=base of
+support; PD=phase dispersion; B and C modified from Kloos et al. (2005) (with permission of Elsevier Ltd., Oxford, UK).
+3. Results
+Table1providesanoverviewoftheinvestigatedgaitparameters
+and their changes from before to ten days after MCAo. In a subgroup of animals we measured brain lesions using MRI 1 day after
+MCAO surgery. Stroke affected both, striatum and cortex with a
+mean infarct volume of 18.1% of the hemisphere (edema corrected,
+SD4.9,n=10;Fig.2).Rundurationdidnotdifferrelevantlybetween
+the groups, despite animals walked slightly slower 10 days after
+experimental stroke (Fig. 3A).
+3.1. Body weight changes cannot explain gait changes after stroke
+Mice subjected to MCAo had a body weight of 23.37±1.53g
+before and 22.31±1.64g 10 days after surgery (Student’s t-test,
+t(60)=2.620, p=0.011). Body weights did not correlate with any of
+the measured Catwalk gait parameters (data not shown).
+3.2. Spatial and kinetic characteristics of individual paws
+Maximal contact area of hind paws and right front paw decreased
+in ischemic mice. Maximal contact areas of front (Student’s ttest
+, t(60)=2.092, p=0.041) and hind paws (Student’s t-test,
+t(60)=5.710, p<0.0005) on affected right side were decreased 10
+days after left-sided MCAo compared to baseline (before MCAo).
+Also the maximal contact area of the (left) hind paw, ipsilateral
+to the ischemic lesion, was decreased following MCAo (Student’s
+t-test, t(60)=4.084, p=0.001) (Fig. 3B).
+Stride length of hind paws decreases after MCAo. The distance between consecutive steps with right (Student’s t-test,
+t(60)=2.885, p=0.005) as well as left hind paw (Student’s t-test,
+t(60)=2.883, p=0.005) was shortened in mice 10 days after MCAo
+comparedtothehealthyconditionofthesamegroupofmicebefore
+MCAo (Fig. 4A). In contrast, the stride length of neither of the front
+paws was affected by cerebral ischemia.
+(8.0.0.2542.1779563233 PDF Extractor SDK TRIAL VERSIOn)
+10 S. Hetze et al. / Journal of Neuroscience Methods 206 (2012) 7–14
+Table 1
+Overview of stroke sensitive Gait parameters.
+Parameter Definition Paw Mean±SD before MCAo Mean±SD after MCAo P d
+(a) Spatial paw statistics
+Max. contact Area of an individual RF * 25.00 ± 4.248 22.75 ± 4.231 0.041 0.54
+Area (mm2) paw print at moment of RH *** 23.43 ± 3.710 16.98 ± 5.086 <0.0005 1.46
+its maximal contact LF 24.95 ± 4.055 23.53 ± 4.833 0.214 0.32
+with the ground LH *** 23.42 ± 5.462 18.41 ± 5.746 0.001 0.89
+Max. intensity Intensity of maximal RF 114.7 ± 9.990 113.2 ± 10.39 0.554 0.15
+(%) contact of a paw with RH *** 142.9 ± 12.81 125.6 ± 22.68 <0.0005 0.98
+the ground LF 115.2 ± 9.011 115.4 ± 11.81 0.942 0.01
+LH ** 141.0 ± 11.46 127.7 ± 23.61 0.007 0.70
+(b) Kinetic paw statistics
+Run duration Time for passing the * 2.439 ± 0.663 2.793 ± 0.553 0.026 0.62
+(s) walkway
+Normalized Swing speed (speed of RF 1335 ± 171.4 1323 ± 198.0 0.798 0.06
+swing speed movement) RH *** 1311 ± 180.2 1102 ± 193.9 <0.0005 1.12
+(s) * run duration LF 1316 ± 157.3 1294 ± 112.4 0.532 0.16
+LH ** 1368 ± 309.2 1180 ± 175.7 0.005 0.78
+Stand (s) Time of one paw RF *** 0.132 ± 0.030 0.163 ± 0.033 <0.0005 0.94
+contact with the ground RH 0.133 ± 0.030 0.133 ± 0.035 0.996 0.01
+LF *** 0.133 ± 0.032 0.161 ± 0.033 0.001 0.87
+LH 0.137 ± 0.034 0.145 ± 0.037 0.346 0.35
+(c) Comparative paw statistics
+Stride length Distance between RF 57.58 ± 8.163 56.08 ± 7.541 0.456 0.02
+(mm) successive steps of the RH ** 54.92 ± 9.718 48.07 ± 8.973 0.005 0.78
+same paw (Fig. 1) LF 57.42 ± 8.152 56.06 ± 7.588 0.500 0.13
+LH ** 55.08 ± 8.772 49.02 ± 7.744 0.005 0.72
+Base of BOS in Fig. 1A RF-LF * 11.93 ± 7.297 8.226 ± 6.222 0.036 0.51
+support (mm) RH-LH * 22.07 ± 14.14 14.55 ± 10.52 0.021 0.62
+Print positions Distance position of RF-RH 10.15 ± 4.431 12.45 ± 6.331 0.102 0.49
+hind paw to previous LF-LH 9.569 ± 5.045 10.73 ± 6.039 0.414 0.22
+position of ipsilateral
+front paw
+Duty cycle Represents relative RF * 53.34 ± 3.764 55.58 ± 3.380 0.016 0.72
+(%) stand phase as part of RH ** 53.66 ± 5.098 49.68 ± 5.527 0.005 0.79
+step cycle LF * 53.00 ± 3.256 55.16 ± 3.773 0.019 0.56
+LH 55.25 ± 6.049 53.17 ± 5.074 0.147 0.41
+(d) Coordination statistics
+Phase Contact Target paw in RF>LH *** 1.606 ± 5.189 7.866 ± 6.321 <0.0005 1.12
+dispersion relation to step cycle of LF>RH *** 2.407 ± 5.371 10.32 ± 5.758 <0.0005 1.45
+(%) anchor paw LH>RH ** 43.05 ± 7.401 37.02 ± 7.581 0.002 0.82
+(Fig. 1) LF>RF 48.71 ± 3.602 48.62 ± 3.895 0.931 0.01
+RF>RH 45.75 ± 4.199 44.80 ± 5.978 0.470 0.25
+LF>LH 45.96 ± 5.299 44.16 ± 5.601 0.199 0.31
+Regularity Average of normal step ** 93.12 ± 5.965 87.40 ± 9.306 0.006 0.73
+index (%) sequence
+P values smaller than 0.05 are set in bold.
+RF: right fore limb; RH: right hind limb; LF: left fore limb; LH: left hind limb; d=Cohen’s effect size.
+* P<0.05.
+** P<0.01.
+*** P<0.001.
+Normalized swing speed of hind paws is decreased in ischemic
+mice. Swing speed describes the speed of a paw while it has no
+contact with a glass plate. In order to overcome a possible bias
+derived from animals’ individual run speed, we calculated the
+distance in mm characterizing how much an animal moves forward with a particular paw over the time of the whole run (swing
+speed×run duration). Compared with the healthy mice (before
+MCAo), ischemia reduces the swing distances with left (Student’s
+t-test, t(60)=2.943, p=0.005) and right hind paws (Student’s t-test,
+t(60)=4.420, p<0.0005) (Fig. 4B).
+Taken together, our data from gait analysis 10 days after leftsided MCAo demonstrate that ischemia strongly affects both hind
+paws, with contralateral right more pronounced than the left hind
+paws. Paw print area, stride length and normalized swing speed
+were decreased by cerebral lesion.
+3.3. Changes in gait coordination
+Ischemia induces irregularities in step sequence patterns. Interpaw coordination during gait is based on normal step sequence
+patterns of an animal. The overall inter-paw coordination during
+gait(gaitregularityindexofstepsequence)isreduced10daysafter
+stroke onset (Student’s t-test, t(60)=2.879, p=0.006) (Fig. 5C).
+Inter-paw coordination during gait is impaired after MCAo. A
+valuable parameter in assessing inter-paw coordination is also
+phase dispersion which characterizes the placement of two paws
+(“target” and “anchor”) during the cycle of consecutive initial
+contacts with an “anchor” paw (Kloos et al., 2005). The lower
+group size results from the exclusion criteria of non-detected
+paws as described above. Investigating diagonal limb pairs (LF
+to RH and RF to LH) 10 days after MCAo the time of hind paw
+(8.0.0.2542,1472803871 PDF Extractor SDK TRIAL)
+S. Hetze et al. / Journal of Neuroscience Methods 206 (2012) 7–14 11
+Fig. 2. Characteristic T2-weighted MRI of a mouse brain 1 day after a 60min MCAo.
+contact succeeding respective front paw contact with a glass
+plate is prolonged compared to the healthy condition of the mice
+before MCAo (Student’s t-test, t(54)=−5.311, p<0.0005 for LF
+to RH; and Student’s t-test, t(56)=−4.141, p<0.0005 for RF to
+LH; Fig. 5A). Ischemia impairs the coordination between left and
+right hind paws, which was demonstrated by a shortened time
+interval between right and left hind paw contact with a glass plate
+(Student’s t-test, t(60)=3.170, p<0.002). Inter-paw coordination
+in ipsilateral pairs, i.e. LF to LH and RF to RH, as well as between
+front paws was not altered by MCAo (Fig. 5B).
+In line with the alterations in individual paws, we observed
+irregularities in normal step sequence patterns as well as in general inter-paw coordination in diagonal pairs (LF to RH and RF to
+LH) after MCAo.
+3.4. Analysis of applicability
+Taken together, gait is altered after experimental stroke in mice.
+To test the applicability of gait analysis we applied a model calculation assuming an arbitrary neuroprotective agent called “substance
+X”. On the one hand an improvement by 100%, so complete recovery
+, is rather an unachievable goal, on the other hand only a
+minor improvement may be not relevant for a clinical setting.
+Thus, we define that substance X should improve gait deficits at
+least by 50%, which is in our experience a feasible and realistic
+value.
+Here we use phase dispersions LF-RH as an example for examining different statistical methods commonly used in analyzing
+behavioral data. As described above, this parameter changes from
+2.4%(±5.4)beforeto10.3%(±5.7)afterexperimentalstroke,resulting in a calculated mean phase dispersion of 6.5% (±5.5) among
+animals treated with substance X. The effect size (Cohen, 1988) for
+three groups is f=0.6, per definition a strong effect. Computing the
+required sample size with the preconditions ˛=0.05 and ˇ=0.8
+(Power) one gets a critical F of 3.24 and a required total sample size
+of 45, hence 15 per group. This is a commonly used group size for
+stroke studies.
+However,thisisonlyvalidforthecomparisonbetweenthethree
+groups. Usually neuroprotection studies aim to demonstrate a protective effect for verum (e.g. substance X) compared to placebo (e.g.
+vehicle)treatment.Whereastheeffectsizecomparingbaselineand
+placebo is relative large (d=1.5), the effect size comparing placebo
+andsubstanceXaccountswithd=0.75onlyforamediumsizeeffect.
+Hence one would need only 8 animals per group to show a significant difference between baseline and placebo (˛=0.05; ˇ=0.8;
+two-tailed), but 30 per group to show a significant difference in
+Student’s t-test between the both treatments.
+To deal with the often smaller groups of animals, one may be
+tempted to compare both treatments against baseline to show that
+only placebo treatment results in significant changes in gait. This
+maybemisleading,sincethe p-valueisdependentontheeffectsize
+and also on the precision of the effect’s estimation, so its standard
+error (Matthews and Altman, 1996b). Hence without providing all
+information including effect size, sample size per group and distribution
+, this might result in false positive conclusions.
+In our model calculation, we “observed” a large difference
+in effect size between treatment with substance X and placebo.
+Consequently we would need a statistical test that assumes as
+null hypothesis that the true effect sizes are the same in both
+groups.
+Matthews and Altman described a suitable procedure based on
+the differences between the treatments and the standard error of
+the difference (Matthews and Altman, 1996a). Applying this, we
+detect a significant difference between placebo and substance X
+(Table 2). To calculate the group sizes needed, first we take the
+formula for the test statistic
+Z =
+¯ x1 − ¯ x2
+se2
+1
++ se2
+2
+(3.1)
+Fig.3. (A)Rundurationisnotrelevantlyaltered10daysfollowingstroke,despiteanimalswalkedslightlyslower10daysafterexperimentalstroke(greyboxes).(B)Maximum
+contact area is significantly decreased in both hind paws and slightly in right front paw (Student’s t-test; *p<0.05; ***p<0.001).
+(PDF Extractor SDK TRIAL VERSION)
+12 S. Hetze et al. / Journal of Neuroscience Methods 206 (2012) 7–14
+Table 2
+Example calculation for Phase dispersion LF-RH to compare effect sizes. Substance X is an arbitrarily chosen drug improving outcome by 50% (two sided test).
+Group Placebo Substance X
+Stroke Before After Before After
+Mean 2.4 10.3 2.4 6.35
+SE 0.96 1.03 0.96 1.03
+N 31 31 31 31
+Effect 10.3–2.4=7.9 6.35–2.4=3.95
+SEdifference 1.41 1.41
+Difference between Placebo’s and Substance X’s differences 3.95
+Z 1.98→P<0.05
+Fig.4. Stridelength(A)andnormalizedswingspeed(swingspeed×runduration;B)
+before (white boxes) and ten days after (grey boxes) experimental stroke. Both hind
+paws exhibit deficits in the swing subtask (Student’s t-test; **p<0.01; ***p<0.001). Fig. 5. Inter-limb coordination is disturbed 10 days after MCAo (A, B) Phase dispersions are altered for the diagonal pairs and the coordination between the hind paws.
+(C) A lower step sequence regularity index reflects more irregular step patterns.
+(EVAL PDF Extractor SDK 8.0.0.2542-814672618)
+S. Hetze et al. / Journal of Neuroscience Methods 206 (2012) 7–14 13
+where x1 and x2 represent the differences before and after stroke of
+the respective group and sei is the corresponding standard error of
+thedifference.Replacedthe xvaluesbythedifferencesandinserted
+sediff =
+
+s2
+1
+n1
++
+s2
+2
+n2
+(3.2)
+for the appropriate standard errors of the difference with s2 as variance and n as group size, we can solve the equitation for n, if we
+assume that n is equal in all groups (n1 =n2 =n):
+n =
+s2
+before
++ s2
+Placebo
++ s2
+before
++ s2
+X
+((xbefore − xPlacebo) − (xbefore − xX)/z)
+2
+(3.3)
+For significant values, per definition z has to be greater than 1.96 or
+smaller than −1.96 for two sided tests, other values can be inserted
+from our experiments and the assumptions described above. As a
+result we get a required sample size of 21 for a 50% improvement,
+16 for a 60% improvement and 12 for a 70% improvement. If only
+improvement is of interest, e.g. in testing neuroprotective drugs,
+one could use this test as one-sided test (z would have then to be
+larger 1.65 or smaller −1.65), hence further reducing sample size
+(Bland and Altman, 1994).
+4. Discussion
+Gait is a coordinated action of different subtasks. Hypothesizing
+that severe cerebral ischemia in mice disturbs the well coordinated
+interplay between the 4 limbs, we observed significant differences
+in the swing speed and stride length of the hind paws. Hence
+we conclude that the swing subtask in hind limbs is impaired
+in mid- to long-term outcome after stroke. A decreased intensity
+of foot prints in both hind paws may be an indicator of reduced
+propulsionbyhindpaws.Incomparison,hemipareticpatientsafter
+stroke show deficits in swing initiation and forward propulsion
+(Hall et al., 2011). In addition, we observed a decrease of maximum contact area in both hind paws after experimental stroke,
+alsosuggestingalesseffectiveuseinweightbearingandpropulsion
+(Vrinten and Hamers, 2003). The strong effects of stroke in the hind
+paws, especially in the contralateral one, may reflect the neuroanatomical conditions. In addition, the impairment of one subtask
+couldexplainpartiallytheobserveddisturbanceininter-limbcoordination.However,sincewealsoseeaworsecoordinationbetween
+the hind limbs, we assume that also the overall coordination of gait
+is impaired.
+In our study, post-stroke mice have an increase in stand time
+in both front paws. The duty cycle, meaning the fraction of weight
+bearing in the whole step cycle, was slightly increased in both front
+paws and decreased in hind paws. This may represent a compensatory mechanism in which the front paws support the impaired
+function of the hind paws.
+In terms of interlimb coordination, we observed changes in regularity index, as well as in phase dispersions in the diagonal pairs
+and in the back girdle pair. It is of great importance to consider,
+that the change from walk to trot affects the lateral and diagonal
+phase dispersions, but not the girdle pairs (Hamers et al., 2006). In
+our study, mice passed the walkway trotting, which was favored
+by setting a short time limit for valid runs. Additionally, we did
+not observe the typical signs of walking in phase dispersion. During walk, diagonal pairs’ phase dispersion is around 75%, where we
+detected a change from 0 to 2% (typical for trot) to about 7–10%
+after stroke. We did not observe the typical change in lateral phase
+dispersion switching from walk to trot, but untypically in girdle
+pairs’ phase dispersion. The not well timed placement of diagonal
+pairs may affect the stability of the diagonal support phase in trot,
+whichmayaccountformoreirregularsteppatterns.Thus,interlimb
+coordination is impaired in the MCAo model.
+In line with data from ischemic rats, we observed significant
+changes in the maximum contact area and inter-limb coordination. Wang et al. reported in a rat model of distal Middle cerebral
+artery occlusion (MCAo) a decreased paw print intensity, maximal
+area of paw contact and a disturbed limb coupling both 4 days
+and 5 weeks after stroke. Interestingly, a treatment with excessive
+enriched environment improved these deficits significantly (Wang
+et al., 2008). In a rat photothrombotic model, stroke decreased
+intensities and contact areas of the contralateral hind paw. However
+, these changes were observed at a very early time point of one
+day after experimental stroke (Vandeputte et al., 2010). Similar to
+our observations, swing speed in the contralateral hind paw was
+diminished over 12 weeks in rat model of severe stroke. In addition
+, for up to two weeks the duty cycle and paw print intensity
+were decreased as well as the disturbed inter-limb coordination
+was disturbed (Encarnacion et al., 2011).
+In the only published investigation in mice, Lubjuhn and colleagues described several functional tests after permanent distal
+MCAo,amongthemthreedifferentsystemstomeasuregait.Incontrast to our study differences in stance and brake duration two days
+after surgery were observed using automated systems with and
+without treadmill. In contrast, differences in stride length were not
+observed(Lubjuhnetal.,2009).Sincethemodelofpermanentdistal
+MCAo results in cortical lesions and ours affects cortex and striatum these differences might be explained by the different stroke
+models. Furthermore, they do not report on the inter-limb coordination or any other temporal parameters that could reveal deficits
+in walking subtasks.
+An important limitation of the Catwalk system is the dependency on walking speed, as gait velocity is an important influence
+factor on many gait parameters, and consequently we either correctedforthisorusedparametersindependentfromwalkingspeed.
+Although infarct volume does not necessarily correlate with functional impairment (Encarnacion et al., 2011; Jones et al., 2009), it
+is a limitation of our study that we did not correlate functional
+impairment and infarct volume due to our experimental setup.
+Furthermore, this study is only valid for the model and time point
+we have investigated. From the work of other groups (Encarnacion
+et al., 2011) we assume that differences are more pronounced at
+earlier time points. In human stroke research 3 month after stroke
+onset are accepted as time point for assessing long-term outcome.
+Incontrast,generallyacceptedtimepointsformeasuringlong-term
+outcome in stroke models of mice have not been defined. Since
+the acute phase is completed within the first week after stroke
+(Dirnagl et al., 2003), measurement ten days after stroke reflects
+mid- to long-term outcome, considering the short recovery time of
+mice compared to humans after stroke. Longer follow up intervals
+are needed to investigate whether gait analysis is appropriate for
+long-term outcome in murine stroke research.
+Analyzingtheapplicabilityofgaitanalysisintestingnovelstroke
+treatments, there are only a few parameters which show an effect
+large enough to detect gait improvements. But even then, one
+would need 15–20 animals per group to detect neuroprotective or
+regenerative effects at this late time point. This may be hampered
+by the high mortality, caused by neurological reasons and medical
+complications like infections (Meisel and Meisel, 2011). Especially
+between day 3 and day 6 animals are at a high risk to develop pneumonia with a high attributable mortality (Engel and Meisel, 2010),
+whichmayalsoinfluencetheindividualsmotivationtowalk.Taken
+together gait analysis is a valuable tool to detect changes, but it is
+only one piece of the puzzle in measuring neurological outcome
+after experimental stroke.
+In conclusion, our data suggest that gait is similarly altered in
+mice and human stroke. Hence gait analysis – together with other
+tests – may be a good predictor for the effectiveness of potential
+therapeutic compounds in bench to bedside translation. However
+(TRIAL VER. PDF Extractor SDK 8.0.0.2542.1997265650)
+[Link]
+http://precedings.nature.com/documents/3492/version/2
+14 S. Hetze et al. / Journal of Neuroscience Methods 206 (2012) 7–14
+it remains a challenging task to measure functional deficits in laboratory rodents after experimental stroke. For further research, very
+sensitive measures for skilled walk may be a promising way to
+increase the effect size and the sensitivity comparing treatments.
+Conflict of Interest
+No conflict of interest to declare.
+Acknowledgements
+The authors would like to thank Solveig Flaig for the mathematical advice, Sonja Hochmeister for providing data from one experimentandSabineKolodziej,MareikeThielkeandVerenaWörtmann
+for the excellent technical assistance. This work was supported by
+the German Research Foundation (Exc 257), the Federal Ministry of
+Education and Research (01 EO 08 01), the Helmholtz Association
+(SO-022NG) and has received funding from the European Community
+’s Seventh Framework Programme (FP7/2007-2013) under
+grant agreement no 201024 (all given to AM).
+References
+Bland JM, Altman DG. One and two sided tests of significance. BMJ 1994;309:248.
+Bland M. An introduction to medical statistics. 3rd ed Oxford: Oxford University
+Press; 2000.
+Carlini EA, Teresa M, Silva A, Cesare LC, Endo RM. Effects of chronic administration of
+beta-(3,4-dimethoxyphenyl)-ethylamine and beta-(3,4,5-trimethoxyphenyl)-
+ethylamine on the climbing rope performance of rats. Med Pharmacol Exp Int J
+Exp Med 1967;17:534–42.
+Chen G, Patten C, Kothari DH, Zajac FE. Gait differences between individuals with
+post-strokehemiparesisandnon-disabledcontrolsatmatchedspeeds.GaitPosture 2005;22:51–6.
+Cohen J, editor. Statistical power analysis for the behavioral sciences. 2nd ed Hillsdale
+, NJ: Erlbaum; 1988.
+de Medinaceli L, Freed WJ, Wyatt RJ. An index of the functional condition of rat
+sciatic nerve based on measurements made from walking tracks. Exp Neurol
+1982;77:634–43.
+Dirnagl U, Members of the MCAO-SOP Group. Standard operating procedures (SOP) in experimental stroke research: SOP for middle cerebral artery occlusion in the mouse. Nature Precedings. Available online
+http://precedings.nature.com/documents/3492/version/2, 2010.
+Dirnagl U, Simon RP, Hallenbeck JM. Ischemic tolerance and endogenous neuroprotection. Trends Neurosci 2003;26:248–54.
+Encarnacion A, Horie N, Keren-Gill H, Bliss TM, Steinberg GK, Shamloo M. Long-term
+behavioralassessmentoffunctioninanexperimentalmodelforischemicstroke.
+J Neurosci Methods 2011.
+Endres M, Engelhardt B, Koistinaho J, Lindvall O, Meairs S, Mohr JP, et al. Improving
+outcome after stroke: overcoming the translational roadblock. Cerebrovasc Dis
+2008;25:268–78.
+Engel O, Kolodziej S, Dirnagl U, Prinz V. Modeling stroke in mice – middle cerebral
+artery occlusion with the filament model. J Vis Exp 2011:e2423.
+Engel O, Meisel A. Models of infection before and after stroke: investigating new
+targets. Infect Disord Drug Targets 2010:9.
+Faul F, Erdfelder E, Lang AG, Buchner A. G*Power 3: a flexible statistical power
+analysis program for the social, behavioral, and biomedical sciences. Behav Res
+Methods 2007;39:175–91.
+Hall AL, Peterson CL, Kautz SA, Neptune RR. Relationships between muscle contributions to walking subtasks and functional walking status in persons with
+post-stroke hemiparesis. Clin Biomech (Bristol, Avon) 2011.
+Hamers FP, Koopmans GC, Joosten EA. CatWalk-assisted gait analysis in the assessment of spinal cord injury. J Neurotrauma 2006;23:537–48.
+Hamers FP, Lankhorst AJ, van Laar TJ, Veldhuis WB, Gispen WH. Automated quantitative gait analysis during overground locomotion in the rat: its application
+to spinal cord contusion and transection injuries. J Neurotrauma 2001;18:
+187–201.
+Hampton TG, Stasko MR, Kale A, Amende I, Costa AC. Gait dynamics in trisomic mice: quantitative neurological traits of Down syndrome. Physiol Behav
+2004;82:381–9.
+Johnston SC, Mendis S, Mathers CD. Global variation in stroke burden and mortality
+: estimates from monitoring, surveillance, and modelling. Lancet Neurol
+2009;8:345–54.
+Jones TA, Allred RP, Adkins DL, Hsu JE, O’Bryant A, Maldonado MA. Remodeling the
+brain with behavioral experience after stroke. Stroke 2009;40:S136–8.
+Kloos AD, Fisher LC, Detloff MR, Hassenzahl DL, Basso DM. Stepwise motor and allor-nonesensoryrecoveryisassociatedwithnonlinearsparingafterincremental
+spinal cord injury in rats. Exp Neurol 2005;191:251–65.
+Kolominsky-Rabas PL, Heuschmann PU, Marschall D, Emmert M, Baltzer N, Neundorfer B, et al. Lifetime cost of ischemic stroke in Germany: results and national
+projectionsfromapopulation-basedstrokeregistry:theErlangenStrokeProject.
+Stroke 2006;37:1179–83.
+Kunkel-Bagden E, Dai HN, Bregman BS. Methods to assess the development and
+recovery of locomotor function after spinal cord injury in rats. Exp Neurol
+1993;119:153–64.
+Lubjuhn J, Gastens A, von Wilpert G, Bargiotas P, Herrmann O, Murikinati S, et al.
+Functional testing in a mouse stroke model induced by occlusion of the distal
+middle cerebral artery. J Neurosci Methods 2009;184:95–103.
+Matthews JN, Altman DG. Interaction 3: How to examine heterogeneity. BMJ
+1996a;313:862.
+Matthews JN, Altman DG. Statistics notes. Interaction 2: Compare effect sizes not P
+values. BMJ 1996b;313:808.
+Meisel C, Meisel A. Suppressing immunosuppression after stroke. New Engl J Med
+2011;365:2134–6.
+Metz GA, Whishaw IQ. Cortical and subcortical lesions impair skilled walking in the
+ladder rung walking test: a new task to evaluate fore- and hindlimb stepping,
+placing, and co-ordination. J Neurosci Methods 2002;115:169–79.
+Nadeau S, Gravel D, Arsenault AB, Bourbonnais D. Plantarflexor weakness as a limiting factor of gait speed in stroke subjects and the compensating role of hip
+flexors. Clin Biomech (Bristol, Avon) 1999;14:125–35.
+Olney SJ, Colborne GR, Martin CS. Joint angle feedback and biomechanical gait analysis in stroke patients: a case report. Phys Ther 1989;69:863–70.
+Olney SJ, Richards C. Hemiparetic gait following stroke. Part I: Characteristics. Gait
+Posture 1995;4:136–48.
+PetersonCL,HallAL,KautzSA,NeptuneRR.Pre-swingdeficitsinforwardpropulsion,
+swinginitiationandpowergenerationbyindividualmusclesduringhemiparetic
+walking. J Biomech 2010;43:2348–55.
+Saka O, McGuire A, Wolfe C. Cost of stroke in the United Kingdom. Age Ageing
+2009;38:27–32.
+Tizard I. Sickness behavior, its mechanisms and significance. Anim Health Res Rev
+2008;9:87–99.
+Vandeputte C, Taymans JM, Casteels C, Coun F, Ni Y, Van Laere K, et al. Automated
+quantitative gait analysis in animal models of movement disorders. BMC Neurosci 2010;11:92.
+Vrinten DH, Hamers FF. ‘CatWalk’ automated quantitative gait analysis as a novel
+method to assess mechanical allodynia in the rat; a comparison with von Frey
+testing. Pain 2003;102:203–9.
+Wang Y, Bontempi B, Hong SM, Mehta K, Weinstein PR, Abrams GM, et al. A
+comprehensive analysis of gait impairment after experimental stroke and the
+therapeutic effect of environmental enrichment in rats. J Cereb Blood Flow
+Metab 2008;28:1936–50.
+Ward A, Payne KA, Caro JJ, Heuschmann PU, Kolominsky-Rabas PL. Care needs and
+economicconsequencesafteracuteischemicstroke:theErlangenStrokeProject.
+Eur J Neurol 2005;12:264–7.
+World Health Organisation (WHO), editor. The global burden of disease – update
+2004. Geneva: WHO Library Cataloguing-in-Publication Data; 2008.
+(TRIAL PDF Extractor SDK 8.0.0.2542-2109662325)
+

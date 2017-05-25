@@ -1,0 +1,947 @@
+RESEARCH ARTICLE
+
+Astrocytic Transforming Growth Factor-Beta
+Signaling Reduces Subacute
+Neuroinflammation After Stroke in Mice
+Egle Cekanaviciute,1,2 Nancy Fathali,1 Kristian P. Doyle,1 Aaron M. Williams,1
+Jullet Han,1 and Marion S. Buckwalter1,3
+Astrocytes limit inflammation after CNS injury, at least partially by physically containing it within an astrocytic scar at the injury
+border. We report here that astrocytic transforming growth factor-beta (TGFb) signaling is a second, distinct mechanism that
+astrocytes utilize to limit neuroinflammation. TGFbs are anti-inflammatory and neuroprotective cytokines that are upregulated
+subacutely after stroke, during a clinically accessible time window. We have previously demonstrated that TGFbs signal to
+astrocytes, neurons and microglia in the stroke border days after stroke. To investigate whether TGFb affects astrocyte immunoregulatory functions, we engineered “Ast-Tbr2DN” mice where TGFb signaling is inhibited specifically in astrocytes.
+Despite having a similar infarct size to wildtype controls, Ast-Tbr2DN mice exhibited significantly more neuroinflammation
+during the subacute period after distal middle cerebral occlusion (dMCAO) stroke. The peri-infarct cortex of Ast-Tbr2DN
+mice contained over 60% more activated CD11b1 monocytic cells and twice as much immunostaining for the activated microglia and macrophage marker CD68 than controls. Astrocytic scarring was not altered in Ast-Tbr2DN mice. However, AstTbr2DN mice were unable to upregulate TGF-b1 and its activator thrombospondin-1 2 days after dMCAO. As a result, the
+normal upregulation of peri-infarct TGFb signaling was blunted in Ast-Tbr2DN mice. In this setting of lower TGFb signaling
+and excessive neuroinflammation, we observed worse motor outcomes and late infarct expansion after photothrombotic
+motor cortex stroke. Taken together, these data demonstrate that TGFb signaling is a molecular mechanism by which astrocytes limit neuroinflammation, activate TGFb in the peri-infarct cortex and preserve brain function during the subacute period
+after stroke.
+GLIA 2014;62:1227–1240
+
+Key words: astrocytes, cytokines, immunity, ischemia, inflammation
+
+Introduction
+
+A
+
+strocytes are uniquely positioned to regulate inflammatory responses after CNS injury. They become activated
+during the subacute period after injury that is characterized
+by neuroinflammation (Barreto et al., 2011; Chen and Swanson, 2003) and respond to injury in a highly localized manner. Previous research in our laboratory demonstrated that
+after stroke astrocytes in the peri-infarct cortex respond to the
+major regulatory cytokine transforming growth factor-beta
+(TGFb), as measured by nuclear localization of its downstream mediator phosphorylated Smad2 (pSmad2) in glial
+fibrillary acidic protein (GFAP)-expressing astrocytes (Doyle
+et al., 2010; Massague and Wotton, 2000). However, the
+
+functions of astrocytic TGFb signaling during the subacute
+period after stroke remain to be discovered.
+Astrocytes react to injury by increasing GFAP expression. GFAP1 astrocytes eventually form a physical barrier,
+also known as the astrocytic scar, which limits immune cell
+infiltration and protects adjacent uninjured tissue (Schachtrup
+et al., 2010; Sofroniew and Vinters, 2010). This process of
+astrocytic scar formation requires astrocytic STAT3 and
+GFAP (Li et al., 2008; Wanner et al., 2013).
+In addition to forming a scar, astrocytes respond to CNS
+injury by producing proinflammatory cytokines and chemokines.
+For example, astrocytes produce the chemokines CCL2, CXCL1
+and CXCL2 after ischemia or spinal cord injury (Pineau et al.,
+
+View this article online at wileyonlinelibrary.com. DOI: 10.1002/glia.22675
+Published online April 15, 2014 in Wiley Online Library (wileyonlinelibrary.com). Received Dec 5, 2013, Accepted for publication Mar 31, 2014.
+Address correspondence to Marion S. Buckwalter, MD, PhD, Departments of Neurology and Neurological Sciences, and Neurosurgery, Stanford University School
+of Medicine, 1201 Welch Road, Stanford, CA 94305-5489. E-mail: marion.buckwalter@stanford.edu
+From the 1Department of Neurology and Neurological Sciences, Stanford University School of Medicine, Stanford, California; 2Neurosciences Graduate Program,
+Stanford University, Stanford, California; 3Department of Neurosurgery, Stanford University School of Medicine, Stanford, California.
+
+C 2014 Wiley Periodicals, Inc. 1227
+V
+
+2010; Zamanian et al., 2012), and CCL2 and CCL5 after traumatic brain injury (Babcock et al., 2003; Glabinski et al., 1996).
+These pro-inflammatory chemokines may be beneficial by attracting immune cells, which have been shown to reduce tissue damage
+by clearing dead cells (Dheen et al., 2007; Iadecola and Anrather,
+2011). In contrast, excessive inflammation can be harmful by
+inducing free-radical damage to neurons (Brown, 2010) and
+increasing cerebral edema, which can cause brain herniation and
+further tissue damage (Heiss, 2012). Therefore, it is essential to
+limit neuroinflammation during the subacute period after injury
+in order to reduce neuronal damage.
+We hypothesized that the activation of astrocytic TGFb
+signaling that we observed in the subacute period after stroke
+might represent an active anti-inflammatory function of astrocytes. The TGFb isoform TGF-b1 is upregulated by the
+majority of brain injuries (Finch et al., 1993) and signals to
+all cell types in the injured brain (Buckwalter and WyssCoray, 2004; Pratt and McPherson, 1997). It is specifically
+increased during the subacute period that coincides with neuroinflammation after stroke (Yamashita et al., 1999). TGFbs
+have anti-inflammatory functions in the immune system
+(Crowe et al., 2000; Fadok et al., 1998) and are acutely neuroprotective at the time of stroke (Pang et al., 2001; Ruocco
+et al., 1999). However, TGFb functions in astrocytes during
+the subacute period after stroke are not known.
+To investigate how endogenous TGFb signaling regulates
+astrocyte function after stroke in vivo, we engineered a transgenic mouse model to inhibit TGFb signaling in GFAP1
+astrocytes during the subacute period after stroke by expressing
+a mutant receptor that is unable to initiate downstream signaling when bound by either TGFb isoform (Frugier et al., 2005;
+Shi and Massague, 2003). Temporal specificity was achieved
+using a GFAP promoter that is upregulated in the peri-infarct
+cortex during this time. We demonstrate that inhibiting astrocytic TGFb signaling resulted in excessive immune cell infiltration and activation 2–3 days after stroke. This increase in
+neuroinflammation was not associated with changes in infarct
+size, or in astrocytic GFAP upregulation and scar formation.
+However, inhibiting TGFb signaling abolished the normal
+upregulation of TGF-b1 and its activator thrombospondin-1,
+and blunted TGFb pathway activation in the peri-infarct cortex. Finally, inhibiting astrocytic TGFb signaling was also associated with worse motor outcomes. We conclude that TGFb
+signaling is critical for astrocytic control of neuroinflammation
+and preserving function in the peri-infarct cortex during the
+subacute period after stroke.
+
+Materials and Methods
+Mice
+All use of animals was conducted according to protocols approved by
+the Stanford Institutional Animal Care and Use Committee and the
+
+1228
+
+NIH Guide for Care and Use of Animals. Ast-Tbr2DN transgenic
+mice were a cross between the lines B6.FVB-Tg(tetO-EGFP,Tgfbr2)8Mcle/J (JAX #005738) and B6.Cg-Tg(GFAP-tTA)110Pop/J
+(JAX #005964), both obtained from Jackson Labs. The first line (Frugier et al., 2005; Lin and Yang, 2013; Rani et al., 2011) carries a bitetO promoter that drives the expression of two genes: a dominant
+negative mutant Type II TGFb receptor, which has a truncated intracellular domain and prevents all TGFb signaling (Shi and Massague,
+2003), and enhanced green fluorescent protein (eGFP). Thus, eGFP
+expressing cells are also expected to express high levels of the mutant
+receptor. The second transgenic line expresses GFAP-tTA, which
+directs bi-tetO promoter-mediated expression to GFAP1 astrocytes
+(Florian et al., 2011; Halassa et al., 2009; Pascual et al., 2005). Similar to the native GFAP promoter, the GFAP promoter in GFAP-tTA
+mice strongly increases transgene expression after injury (Brenner
+et al., 1994). All experiments were done using 2-month-old females.
+Singly transgenic B6.FVB-Tg(tetO-EGFP,-Tgfbr2)8Mcle/J mice were
+used as wildtype littermate controls.
+
+Surgery
+Distal middle cerebral artery occlusion (dMCAO) strokes were
+induced as previously described (Doyle et al., 2010). For photothrombotic stroke, the skull was cleaned of connective tissue and
+lightly shaved using a sterile razor blade. The Dolan-Jenner MH-100
+Metal Halide Fiber Optic Illuminator (Edmundoptics, #56371) light
+source with a 5-mm diameter optic cable (Edmundoptics, #39365)
+was placed on top of the skull and 403 microscope objective was
+used to focus the light. The light was turned on twice for 15 min,
+beginning 5 min after a 40 mg kg21 Rose Bengal (Sigma, #3300005G) injection (10 mg mL21 in sterile saline, administered intraperitoneally), to form two overlapping circular lesions in the right motor
+cortex. Body temperature was maintained at 37 C, and immediately
+following surgery mice received 10 mg kg21 of Cefazolin (VWR,
+#89149-888) and 0.1 mg kg21 of Buprenorphine (Henry Schein,
+#6030894) for infection prophylaxis and pain management.
+
+Flow Cytometry
+We homogenized the stroked hemisphere and collected a monocyteenriched population of cells using a Percoll gradient (Arac et al.,
+2011). The cells were stained with the following markers and antibodies: AquaAmine Live/Dead stain (Invitrogen, #L34957) CD11bPE (eBioscience, #12–0112-82) and CD45-APC (eBioscience, #17–
+0451-82), counted on the FACSAria III cell sorter (BD Biosciences)
+and analyzed using FlowJo software (TreeStar).
+
+Perfusion and Brain Processing for
+Immunohistochemistry
+Mice were sedated with 3.8% chloral hydrate and terminally perfused with 0.9% NaCl containing 10 U mL21 heparin. Brains were
+fixed in 4% paraformaldehyde in phosphate buffer for 24 h, rinsed
+with PBS, and then sunk in 30% sucrose in PBS. Coronal brain sections 40-lm thick were cut using a freezing sliding microtome
+(Microm HM430) into 24 sequential tubes, so that each tube contained every 24th section spaced 960-lm apart, and were stored in
+cryoprotective medium at 220 C.
+
+Volume 62, No. 8
+
+Cekanaviciute et al.: Astrocytic TGFb Reduces Neuroinflammation
+
+Immunohistochemistry
+We analyzed images with MetaMorph and ImageJ software. We evaluated GFAP colocalization with eGFP and with pSmad2 in four coronal sections per mouse, evenly spaced 480-lm apart. To avoid bias,
+co-localization of pSmad2 with GFAP was scored first, and eGFP
+expression was examined afterwards. We quantified CD68 immunostaining in the peri-infarct cortex in five sections per mouse at 2.53
+magnification, evenly spaced 960-lm apart. We quantified GFAP
+immunostaining in the peri-infarct cortex in two sections per mouse
+at 2.53 magnification, 960-lm apart. We counted MHCII1 cells in
+three sections per mouse 960-lm apart.
+
+Infarct Size Evaluation
+Infarct size was quantified using an immunostain with an anti-NeuN
+antibody that marks neuronal nuclei, counterstained with cresyl violet, which marks all cell nuclei. The infarct was traced on six sections
+per mouse, 480-lm apart, and expressed as % of the ipsilateral
+hemisphere after dMCAO (Woo et al., 2012) or as volume after
+photothrombotic stroke (Clarkson et al. 2011).
+
+Antibodies
+We used the following primary antibodies for immunohistochemistry: anti-phosphorylated Smad2 (rabbit, 1:1000, Millipore,
+#AB3849), anti-GFAP (rabbit, 1:1000, DAKO, #Z0334), biotinylated anti-GFAP (mouse, 1:200, Abcam, #ab79203), anti-eGFP
+(chicken, 1:200, Millipore, #AB16901), biotinylated anti-NeuN
+(mouse, 1:200, Millipore, #MAB377B), anti-CD68 (rat, 1:1000,
+Serotec, #MCA1957S), anti-MHCII (rat, 1:500, BD Pharmingen,
+#553621), anti-NG2 (rabbit, 1:500, Millipore, #AB5320), and antiphosphoAkt (rabbit, 1:1000, Abcam, #ab81283).
+We used the following secondary antibodies for immunohistochemistry: AlexaFluor-488 donkey anti-chicken (Jackson Immunoresearch, #703-096-155), AlexaFluor-555 streptavidin (Invitrogen/
+Molecular Probes, #S-32355), AlexaFluor-555 donkey anti-rabbit
+(Invitrogen, #A31572), AlexaFluor-555 donkey anti-rat (Jackson
+Immunoresearch, #712-165-153), AlexaFluor-647 donkey anti-rabbit
+(Invitrogen, #A-31573), AlexaFluor-647 streptavidin (Invitrogen/
+Molecular Probes, #S-21374), and biotinylated rabbit anti-rat (Vector Laboratories, #BA-4001).
+We used the following antibodies for Western blots: phosphorylated Smad2 (rabbit, 1:200, Millipore, #AB3849), Smad2 (rabbit,
+1:200, Cell Signaling, #3122), phosphorylated Akt (mouse, 1:200,
+Cell Signaling, #4051), Akt (rabbit, 1:200, Cell Signaling, #9272),
+actin (rabbit, 1:20,000, Sigma, #A5060), goat anti-rabbit HRP
+(1:20,000, Santa Cruz, #sc-2004) and goat anti-mouse HRP
+(1:20,000, DAKO, #P0447). Actin was used as a loading control.
+All secondary antibodies were used at 1:200 dilution.
+
+Sample Preparation for Protein and mRNA
+Measurements
+After perfusion, we dissected tissue samples from the peri-infarct cortex and the contralateral cortex directly opposite the stroke core, as
+well as from cortex and striatum in sham mice. The peri-infarct cortex was defined as the cortical area within 2.5-mm radius from the
+stroke core at the time of tissue extraction.
+
+August 2014
+
+For protein assays, tissue was flash frozen and kept at 280 C
+until homogenization in cell lysis buffer with Complete Mini protease
+inhibitor (Roche, #11836153001) and 0.1% Na3VO4. Samples were
+sonicated for 10 s, centrifuged at 14,000 rpm for 10 min, and the protein concentration in the supernatant was equalized using a BCA Pierce
+protein assay kit (ThermoScientific, #23227). Four to six animals per
+group were used for all protein assays. For Western blots, tissue lysates
+were mixed with 20% dithiothreitol in 43 NuPage LDS loading buffer
+(Invitrogen, #NP0007). Samples were loaded onto 4–12% NuPage BisTris gels (Invitrogen, #NP0335) and subsequently transferred onto polyvinylidene fluoride membranes (Amersham, #RPN303F).
+
+Multiplex Luminex Assay and ELISA
+Multiplex luminex assay was performed by the Human Immune
+Monitoring Center at Stanford University (himc.stanford.edu). Each
+sample was measured in duplicate. Plates were read using a Luminex
+200 instrument with a lower bound of 100 beads per sample per
+cytokine. Results were analyzed using Cluster 3.0 and visualized
+using JavaTreeView software. TGF-b1 protein concentration was
+measured using a Mouse/Rat/Porcine/Canine TGF-b1 Quantikine
+ELISA kit (R&D Systems, #MB100B). To activate latent TGF-b1,
+protein samples were activated by 1M HCl and quenched by 1M
+NaOH, following the manufacturer’s instructions.
+
+Quantitative RT-PCR
+We isolated mRNA and performed qPCR as previously described (Shi
+et al., 2010). We quantified the expression of the following genes:
+thrombospondin-1 (Thbs1-001, RefSeq mRNA: NM_011580.3, forward primer: 50 -GCAAAGACTGTGTTGGCGATGTGA-30 , reverse
+primer: 50 -ACTCATCGACGTCTTTGCACTGGA-30 ), iNOS (Nos2,
+RefSeq mRNA: NM_010927.3, forward primer: 50 -TGACGGCAAA
+CATGACTTCAG-30 , reverse primer: 50 -GCCATCGGGCATCTGG
+TA-30 ), fibronectin-1 (Fn1, RefSeq mRNA: NM_010233.1, forward
+primer: 50 -AGGCAATGGACGCATCAC-30 , reverse primer: 50 -TTC
+CTCGGTTGTCCTTCTTG-30 ), and tenascin-C (Tnc, RefSeq
+mRNA: NM_011607.3, forward primer: 50 -GCAACCAAGGACAAT
+GTGTG-30 , reverse primer: 50 -TGTGGTTTCAGACACCCGTA-30 ).
+We used GAPDH as a control (Gapdh-001, RefSeq mRNA:
+NM_008084.2, forward primer: 50 -TGCACCACCAACTGCTTA
+G-30 , reverse primer: 50 -GATGCAGGGATGATGTTC-30 ).
+
+Behavioral Scores
+For the beam balance test (Manaenko et al., 2011) we used the following
+scoring system: 5—mice move across the beam to their home cage in 6 s,
+4—mice move to their home cage in 11 s or within 6 s but do not get into
+the cage, 3—mice move more than half the distance to their home cage
+within 11 s and stay on the beam for at least 6 s, 2—mice do not move
+more than half the distance to their home cage within 11 s and stay on the
+beam for at least 6 s, 1—mice do not move, but stay on the beam for 11 s,
+0—mice fall off the beam within 11 s.
+The Modified Garcia Score is a well-established sensorimotor
+assessment system consisting of seven individual tests, of which we
+used the 5 that measure motor function (Doyle et al., 2012; Garcia
+et al., 1995). We scored each test from 0 to 3 (maximal score 5 15):
+(1) climbing, (2) forelimb walking, (3) forelimb strength, (4) lateral
+turning, and (5) limb symmetry as described (Doyle et al., 2012).
+
+1229
+
+FIGURE 1: TGFb signaling is specifically inhibited in astrocytes in Ast-Tbr2DN mice. A. Representative images of the TGFb pathway activation
+marker pSmad2 co-localized with a GFAP1 cell nucleus in the peri-infarct cortex of a wildtype mouse 24 h after dMCAO. Note that astrocytes
+are not the only cell types responding to TGFb. Arrow, a GFAP1 cell expressing pSmad2 after dMCAO. Scale bar, 20 lm. B. Diagram of the AstTbr2DN mouse model. The tetracycline transactivator protein (tTA) is driven by a GFAP promoter. tTA then binds the bidirectional bi-tetO promoter to drive two genes, eGFP and the dominant negative mutant type II TGFb receptor, Tbr2DN. C. Representative images of eGFP expression in Ast-Tbr2DN mice in uninjured cortex (sham) and in the peri-infarct cortex 2 days after dMCAO (D2). Scale bar, 200 lm. D. Representative
+images showing specific eGFP expression in GFAP1 cells in Ast-Tbr2DN mice. Scale bar, 50 lm. E, F. eGFP1 astrocytes in Ast-Tbr2DN mice are
+less likely to demonstrate nuclear expression of pSmad2 than controls 24 h after dMCAO. Representative images (E) and quantification (F).
+Arrow head, a typical GFAP1/eGFP1 cell that does not express nuclear pSmad2. Scale bar, 20 lm. N 5 4 mice per group, 100 GFAP1 cells per
+mouse. Bars, mean 6 SEM. *P < 0.05, **P < 0.01, one-way ANOVA, Bonferroni correction to compare with sham or wildtype.
+
+Statistical Analysis
+All experimental data were acquired in a blinded and unbiased fashion. Statistical analyses were performed using Prism 6 software
+(GraphPad). Means between two groups were compared using twotailed, unpaired Student’s t test for parametric data, and Mann–
+Whitney test for nonparametric data. Means between more than two
+groups were compared using one-way ANOVA with Bonferroni correction for multiple comparisons. Comparisons of means from two
+genotypes at multiple timepoints were performed using two-way
+ANOVA when mouse cohorts were different at each timepoint, and
+repeated measures ANOVA when the same mice were used throughout the course of the experiment. For cluster analysis, cytokine
+detection in 80% of samples was used as a threshold, and the difference between clusters was computed based on Pearson’s correlation.
+
+Results
+Construction of an “Ast-Tbr2DN” Mouse Model to
+Inhibit Astrocytic TGFb Signaling
+To investigate astrocytic TGFb signaling after stroke, we selected
+the model of distal middle cerebral artery occlusion (dMCAO)
+1230
+
+(Colak et al., 2011). The advantages of dMCAO are that it is
+directly caused by arterial occlusion and produces a highly consistent stroke with a clearly defined border. We previously reported
+that TGFb signaling increases in GFAP1 astrocytes in the periinfarct cortex during the first week after dMCAO, as represented
+by nuclear localization of pSmad2 (Doyle et al., 2010) (Fig. 1A).
+To study the function of endogenous astrocytic TGFb
+signaling after stroke, we engineered a dominant negative
+(Ast-Tbr2DN) transgenic mouse model that inhibits TGFb
+signaling specifically in GFAP1 astrocytes (Fig. 1B). Adult
+Ast-Tbr2DN mice were indistinguishable from wildtypes
+prior to stroke based on gross anatomy, expression of GFAP,
+immune cell markers and cytokines, and motor function
+(data not shown). We verified that stroke upregulates the
+transgene specifically in GFAP1 astrocytes by coimmunostaining for GFAP and the transgene marker eGFP. We observed
+that eGFP expression was present at baseline in 10% of
+astrocytes. As expected, transgene expression significantly
+increased after dMCAO in the peri-infarct cortex (Fig. 1C).
+Volume 62, No. 8
+
+Cekanaviciute et al.: Astrocytic TGFb Reduces Neuroinflammation
+
+FIGURE 2: Inhibiting astrocytic TGFb signaling increases inflammation in the peri-infarct cortex during the subacute period after dMCAO.
+A, B. Representative flow cytometry plots (A) and quantification (B) of CD11b1 CD45 medium and CD11b1 CD45 high monocytes in the
+peri-infarct cortex of Ast-Tbr2DN mice and wildtype controls. C. Representative images of CD68 immunostaining along the rostralcaudal axis across the peri-infarct cortex 3 days after dMCAO. The coronal section showing the largest stroke was arbitrarily designated
+as 0 lm, and CD681 cell activation was more prominent in Ast-Tbr2DN mice both rostral (21,920 lm) and caudal to that location
+(11,920 lm) Scale bar, 200 lm. D. Quantification of CD68 immunostaining 3 days after dMCAO in the peri-infarct cortex, extending
+1,920 lm rostral and caudal from the section with maximal stroke size, demonstrates much more extensive spread of CD68 activation in
+Ast-Tbr2DN mice. E, F. Representative images (E) and quantification (F) of MHC II immunostaining in the peri-infarct cortex 3 days after
+dMCAO. Scale bar, 100lm. G. Quantification of iNOS mRNA in Ast-Tbr2DN mice and wildtype controls. N 5 6–12 mice per group. Bars,
+mean 6 SEM. *P < 0.05, Student’s t test.
+
+eGFP expression was completely specific to astrocytes at all
+timepoints and did not co-localize with any other cell types
+(Fig. 1D and data not shown).
+To verify that the mutant TGFb receptor was functional
+in reducing TGFb signaling in eGFP1 astrocytes in AstTbr2DN mice, we immunostained for the downstream
+TGFb signaling marker nuclear pSmad2 and quantified its
+colocalization with GFAP and with eGFP in the peri-infarct
+cortex. To avoid bias, we scored the colocalization of pSmad2
+and GFAP prior to examining eGFP. Significantly fewer
+GFAP1/eGFP1 astrocytes in Ast-Tbr2DN mice co-localized
+August 2014
+
+with nuclear pSmad2 when compared with astrocytes in wildtype mice (Fig. 1E,F). By contrast, GFAP1/eGFP2 astrocytes
+in Ast-Tbr2DN mice showed the same proportion of nuclear
+pSmad2 as astrocytes in wildtype mice (Fig. 1F). Thus, in
+Ast-Tbr2DN mice the mutant type II TGFb receptor blocks
+TGFb signaling in GFAP1/eGFP1 astrocytes.
+Inhibiting Astrocytic TGFb Signaling Increases the
+Magnitude and Spread of Inflammation in the
+Peri-Infarct Cortex
+We next investigated whether normal astrocytic TGFb signaling is required to limit neuroinflammation after stroke. Two
+1231
+
+FIGURE 3: Inhibiting astrocytic TGFb signaling does not affect stroke size or early astrocytic scar formation after dMCAO. A. Quantification of infarct size in Ast-Tbr2DN mice and wildtype controls. B, C. Representative images (B) and quantification (C) of reactive astrocyte
+marker GFAP expression in the peri-infarct cortex of Ast-Tbr2DN mice and wildtype controls 3 days after dMCAO. Scale bar, 500 lm.
+D, E. Quantification of glial scar components fibronectin-1 (D) and tenascin-C (E) mRNA levels 2 days after dMCAO.
+
+days after stroke the immune response consists predominantly
+of activated monocytic cells, both CNS microglia and peripheral macrophages (Denker et al., 2007; Iadecola and Anrather,
+2011; Stevens et al., 2002). We used FACS to count activated
+microglia and macrophages in the stroked hemisphere of AstTbr2DN mice and wildtype controls (Fig. 2A,B). CD11b1
+cells with medium CD45 expression were classified as activated CNS microglia, and CD11b1 cells with high CD45
+expression as peripheral macrophages (Mizutani et al., 2012).
+The stroked hemisphere of Ast-Tbr2DN mice contained significantly (67%) more cells in combined microglial and macrophage populations, with a particularly pronounced 110%
+increase in macrophages (Fig. 2B).
+To assess whether inhibiting astrocytic TGFb signaling
+affected the localization as well as the magnitude of the
+immune cell infiltration, we immunostained for CD68, which
+is a marker for activated microglia and macrophages. CD681
+cells with activated amoeboid morphology were present in the
+peri-infarct cortex in both genotypes. We quantified the percentage of cortical area that was covered by CD68 immunostaining in a series of sections spanning the entire stroke
+region. In keeping with the flow cytometry results, the area
+covered by CD681 cells was 1.9-fold larger in Ast-Tbr2DN
+peri-infarct cortex as in wildtype controls (Fig. 2C,D).
+To verify this increased spread of activated monocytic
+lineage cells, and to examine their activation state, we examined immunostaining for major histocompatibility complex
+class II (MHC II). MHC II regulates antigen presentation
+and is used as a marker for proinflammatory microglia and
+1232
+
+macrophages (Mantovani et al., 2004). As with the activated
+microglia and macrophage cell counts, and the CD68 immunostaining, we observed almost twice as many MHC II1 cells
+in the peri-infarct cortex of Ast-Tbr2DN mice as in wildtype
+controls (Fig. 2E,F). Furthermore, MHC II1 cells, like
+CD681 cells, appeared to be disseminated further from the
+infarct in Ast-Tbr2DN mice.
+Activated microglia and macrophages also express inducible nitric oxide synthase (iNOS) (Kigerl et al., 2009; Mantovani et al., 2004) which leads to free radical formation and
+increases neuronal damage (Brown, 2010). To assess whether
+inhibiting astrocytic TGFb signaling increases iNOS expression after stroke, we used qPCR to measure iNOS mRNA
+levels in the peri-infarct cortex of Ast-Tbr2DN and wildtype
+mice (Fig. 2G). We observed twofold more iNOS mRNA in
+Ast-Tbr2DN than wildtype mice after stroke, which approximately correlates with the increased number of activated
+microglia and peripheral macrophages (Fig. 2B,D,F). These
+findings indicate that inhibiting astrocytic TGFb signaling
+increases the magnitude and the extent of inflammation in
+the peri-infarct cortex as well as its potential neurotoxicity via
+iNOS production.
+Inhibiting Astrocytic TGFb Signaling Does Not
+Affect Initial Stroke Size or Astrocytic Activation in
+the Peri-Infarct Cortex
+One possible reason for a larger immune response in AstTbr2DN mice could be a larger stroke. However, at this
+timepoint, 2 days after stroke, when we observed increased
+Volume 62, No. 8
+
+Cekanaviciute et al.: Astrocytic TGFb Reduces Neuroinflammation
+
+FIGURE 4: Astrocytic TGFb signaling is required to upregulate functional TGFb in the peri-infarct cortex during the subacute period after
+dMCAO. A. Cluster analysis of cytokine and chemokine expression in the peri-infarct and contralateral cortex of Ast-Tbr2DN mice and
+wildtype controls 2 days after dMCAO using a luminex assay. Heat map represents log2 levels of normalized protein expression. White
+squares, protein not detectable. White rectangle indicates TGF-b1, which was the only cytokine that was significantly different between
+Ast-Tbr2DN mice and wildtype controls. B. Quantification of TGFb levels in the peri-infarct cortex of Ast-Tbr2DN mice and wildtype controls 2 days after dMCAO using a luminex assay. C. Quantification of TGF-b1 levels in the peri-infarct cortex at baseline and 2 days after
+dMCAO using ELISA with acid activation step. D. Quantification of mRNA levels of the TGFb activator thrombospondin-1 (Thbs1) in AstTbr2DN mice and wildtype controls at baseline and 2 days after dMCAO. N 5 5–6 mice per group. Bars, mean 6 SEM. *P < 0.05,
+**P < 0.01, ***P < 0.001, Student’s t test and two-way ANOVA (interaction between genotype and time).
+
+inflammation, stroke sizes were not different between genotypes (Fig. 3A).
+A second possibility that could explain more immune
+cells in the brain after stroke might be an inadequate physical
+astrocytic barrier (Voskuhl et al., 2009; Wanner et al., 2013).
+However, we did not observe any morphological differences
+in GFAP1 astrocytes between genotypes, including in the
+peri-infarct cortex. Furthermore, there were no genotypedependent differences in % area covered by GFAP immunostaining in the peri-infarct cortex 3 days after stroke
+August 2014
+
+(Fig. 3B,C). Finally, we did not observe any differences
+between genotypes in GFAP immunostaining even after the
+immune response largely subsided, 7 days after stroke (wildtype: 12.59% 6 1.44%, Ast-Tbr2DN: 15.13% 6 2.23%,
+P 5 0.37).
+To perform a more thorough evaluation of early astrocyte activation and barrier formation, we also measured two
+extracellular matrix proteins that are upregulated in astrocytes
+during the subacute period after CNS injury (Schachtrup
+et al., 2010; Smith and Hale, 1997; Zamanian et al., 2012):
+1233
+
+fibronectin-1 and tenascin C. As with GFAP, there was no
+difference in expression of either gene in Ast-Tbr2DN mice
+compared with wildtype controls (Fig. 3D,E). Thus, our
+results suggest astrocytic TGFb signaling during the subacute
+period after stroke did not alter neuroinflammation by altering the astrocytic scar.
+Astrocytic TGFb Signaling is Required to
+Upregulate the Expression of TGF-b1 and its
+Activator Thrombospondin-1 in the Peri-Infarct
+Cortex during the Subacute Period after Stroke
+Because astrocytes respond to CNS injury by producing cytokines and chemokines, we next investigated whether inhibiting astrocytic TGFb signaling could increase inflammation
+by altering the cytokine milieu in the peri-infarct cortex. We
+measured a panel of 26 distinct pro- and anti-inflammatory
+cytokines and chemokines in the peri-infarct and contralateral
+cortex 2 days after stroke using a multiplex luminex assay.
+Three of these cytokines (IL-3, IL-10, and GCSF) were undetectable in the peri-infarct cortex.
+Unbiased cluster analysis of the remaining 23 proteins
+revealed distinct patterns of expression based on genotype
+(Fig. 4A). However, TGF-b1 itself was the only cytokine
+that, on an individual basis, showed significant genotypedependent differences, and thus it was the main factor that
+influenced sample clustering. There was a threefold reduction
+in TGF-b1 in the Ast-Tbr2DN peri-infarct cortex compared
+with wildtype (Fig. 4B), suggesting that inhibiting astrocytic
+TGFb signaling disrupts a feed-forward mechanism by which
+TGFb signaling in astrocytes normally propagates its own
+upregulation after stroke. We confirmed by ELISA that AstTbr2DN mice have normal levels of TGF-b1 before stroke,
+but then fail to upregulate it normally in the peri-infarct cortex (Fig. 4C).
+Of the 3 TGFb isoforms, TGF-b1 is the one most
+upregulated by injury, including stroke in both animal models and human patients (Dhandapani and Brann, 2003;
+Finch et al., 1993; Krupinski et al., 1996), though TGF-b2
+can also be increased by stroke (Vivien and Ali, 2006). To
+investigate whether TGFb mRNA is upregulated by
+dMCAO, and whether astrocytic TGFb signaling reduces its
+expression at an mRNA level as well as protein level, we
+quantified the expression of TGF-b1, 2 and 3 mRNA by
+qPCR. We found that both TGF-b1 and TGF-b2, but not
+TGF-b3 in wildtype mice are significantly increased by 2
+days after dMCAO (TGF-b1: 3.55 6 0.70-fold, *P 5 0.011;
+TGF-b2: 2.24 6 0.26-fold, **P 5 0.0028; TGF-b3: 0.92 6
+0.15-fold, P 5 0.82, Student’s t test). However, we did not
+observe any differences between Ast-Tbr2DN mice and
+wildtype controls in either TGF-b1 or TGF-b2 mRNA
+expression (data not shown). In addition, TGF-b1 was the
+1234
+
+isoform that was most highly expressed after stroke, as its
+mRNA was expressed at 95.01 6 1.22-fold higher level than
+TGF-b2 mRNA. Thus, astrocytic TGFb signaling is
+required to induce TGF-b1 production primarily at the protein rather than the mRNA level.
+After secretion TGF-b1 is stored in an inactive form in
+a latent complex that is bound to the extracellular matrix.
+This latent store of TGF-b1 requires activation in order to
+initiate TGFb signaling (Annes et al., 2003). One major
+TGFb activator is thrombospondin-1, which initiates
+protease-mediated cleavage of TGFb from the latent complex
+and serves as the main TGFb activator in vivo (Crawford
+et al., 1998). In addition, TGF-b1 is known to stimulate the
+production of thrombospondin-1 by astrocytes (Cambier
+et al., 2005; Yonezawa et al., 2010). Therefore, we investigated thrombospondin-1 as a potential astrocytic TGFbsignaling dependent activator of TGF-b1 in the peri-infarct
+cortex.
+We found that Ast-Tbr2DN mice fail to upregulate
+thrombospondin-1 mRNA 2 days after stroke, while wildtype
+mice upregulate it fivefold (Fig. 4D). This finding suggests
+that after stroke astrocytic TGFb signaling participates in a
+positive feedback loop where it is required to upregulate both
+TGF-b1 and also its activator thrombospondin-1. There is
+one other TGFb activator that is produced by astrocytes,
+integrin b8 (Cambier et al., 2005; Mu et al., 2002). However, we observed no significant difference in integrin b8
+mRNA between Ast-Tbr2DN mice and wildtype controls 2
+days after stroke (wildtype: 1.04 6 0.155, Ast-Tbr2DN:
+1.02 6 0.148).
+
+Ast-Tbr2DN Mice Exhibit a Global Reduction in
+TGFb Signaling after Stroke
+TGFb signaling is upregulated subacutely in peri-infarct cortex in wildtype mice (Doyle et al., 2010). To evaluate
+whether the relative deficiency of TGF-b1 and
+thrombospondin-1 in Ast-Tbr2DN mice caused an overall
+reduction in downstream TGFb signaling in the peri-infarct
+cortex, we examined Smad2 phosphorylation by Western
+blot. As with TGF-b1 protein levels, there was no difference
+before stroke (Fig. 5A,B). However, 2 days after stroke,
+Smad2 phosphorylation was significantly reduced in the AstTbr2DN peri-infarct cortex (Fig. 5C,D), consistent with a
+decrease in TGF-b1 and its activator thrombospondin-1. By
+7 days after stroke, thrombospondin-1 mRNA in AstTbr2DN mice reached wildtype levels (normalized WT:
+1.00 6 0.23, Ast-Tbr2DN: 1.36 6 0.27, P 5 0.35). At this
+later timepoint, Smad2 phosphorylation also returned to
+normal (normalized WT: 1.00 6 0.05, Ast-Tbr2DN:
+0.87 6 0.09, P 5 0.25). Thus, the primary effect of astrocytic
+Volume 62, No. 8
+
+Cekanaviciute et al.: Astrocytic TGFb Reduces Neuroinflammation
+
+FIGURE 5: Inhibiting astrocytic TGFb signaling reduces global TGFb signaling in the peri-infarct cortex. A–D. Quantification of the TGFb
+downstream signaling mediator Smad2 and its activated phosphorylated form, pSmad2, in the peri-infarct cortex of wildtype controls
+and Ast-Tbr2DN mice at baseline (A, B) and 2 days after dMCAO (C, D). Representative Western blot images (A, C) and quantification
+(B, D). E, F. Representative Western blot images (E) and quantification (F) of the TGFb downstream signaling mediator Akt phosphorylation in the peri-infarct cortex of wildtype controls and Ast-Tbr2DN mice 2 days after dMCAO. G. Representative images of pAkt colocalization with the neuronal nuclear marker NeuN and nuclear marker DAPI in wildtype controls and Ast-Tbr2DN mice 2 days after
+dMCAO. Scale bar, 20 lm. Arrows, wildtype neuronal nuclei showing pAkt immunostaining. Asterisks, Ast-Tbr2DN neuronal nuclei showing no pAkt immunostaining. H. Quantification of pAkt co-localization with neuronal nuclear marker NeuN in wildtype controls and AstTbr2DN mice 2 days after dMCAO. N 5 5–6 mice per group. Bars, mean 6 SEM. *P < 0.05, ***P < 0.001, Student’s t test.
+
+TGFb signaling on these parameters was on the subacute
+upregulation of TGFb signaling after stroke.
+To assess whether this overall decrease in subacute
+TGFb signaling meant that there was a global effect throughout the peri-infarct region (i.e., an effect on TGFb pathway
+activation in non-astrocyte cell types), we examined Akt pathway activation in neurons. We selected Akt phosphorylation
+because it is neuroprotective after ischemia and a neuronal
+target of TGFb signaling after stroke (Zhao et al., 2006; Zhu
+et al., 2004). Indeed, Western blots for phosphorylated and
+total Akt indicated an overall decrease in Akt phosphorylation
+August 2014
+
+in the peri-infarct cortex of Ast-Tbr2DN mice 2 days after
+stroke compared with controls (Fig. 5E,F). We next immunostained for pAkt 2 days after stroke and found that pAkt was
+primarily, although not exclusively, neuronal. It colocalized
+with the neuronal nuclear marker NeuN, and its immunostaining was decreased throughout the peri-infarct cortex in
+Ast-Tbr2DN mice (Fig. 5G). Furthermore, when we quantified the percent of neurons that exhibited any nuclear pAkt
+immunostaining, there were significantly fewer pAkt1/
+NeuN1 nuclei in Ast-Tbr2DN mice than in WT mice (Fig.
+5H). Thus, the relative deficiency in TGFb signaling after
+1235
+
+FIGURE 6: Ast-Tbr2DN mice develop larger infarcts and worse motor outcomes up to 4 weeks after photothrombotic stroke. A, B.
+Quantification of fold increase in infarct size in Ast-Tbr2DN mice compared with wildtype controls 1 day (A) and 28 days (B) after photothrombotic stroke. Bars, mean 6 SEM. *P < 0.05, Student’s t test. C. Quantification of motor outcomes during the first 4 weeks after photothrombotic stroke using the Beam Balance Test. D–H. Quantification of motor outcomes during the first 4 weeks after
+photothrombotic stroke using tests for Limb Symmetry (D), Forelimb Strength (E), Lateral Turning (F), Forelimb Walking (G) and Climbing
+(H). I. Combined motor test score. N 5 10–12 mice per group. Bars, mean 6 SEM. *P < 0.05, **P < 0.01, ***P < 0.001, Mann–Whitney test
+and repeated measures ANOVA testing for differences between genotypes.
+
+stroke in Ast-Tbr2DN mice causes decreased TGFb signaling
+in neurons as well as in astrocytes.
+Inhibiting Astrocytic TGFb Signaling Worsens Motor
+Outcomes during the First Week after Stroke
+The dMCAO stroke model does not produce motor deficits,
+so to investigate whether increased inflammation and neuronal damage in Ast-Tbr2DN mice is physiologically important
+for motor recovery, we targeted the motor cortex using the
+photothrombotic stroke model. As with dMCAO, there was
+no difference in infarct sizes early after stroke (Fig. 6A).
+However, by 4 weeks we observed 1.5-fold larger strokes in
+Ast-Tbr2DN mice than in wildtype controls (Fig. 6B).
+To test motor outcomes, we subjected Ast-Tbr2DN
+mice and wildtype controls to the beam balance test as well
+as to a battery of motor tests, which are collectively known as
+the modified Garcia test, weekly for 4 weeks following photothrombotic stroke. Neither wildtype nor Ast-Tbr2DN mice
+showed any behavioral impairment at baseline.
+In the beam balance test, Ast-Tbr2DN mice performed
+significantly worse during the first week after stroke
+1236
+
+(Fig. 6C), though both genotypes achieved full recovery by 4
+weeks. By comparison, neither genotype demonstrated full
+motor recovery in the modified Garcia test by 4 weeks after
+stroke. In this test Ast-Tbr2DN mice exhibited a larger motor
+deficit within the first week after stroke that persisted
+throughout the testing (Fig. 6D–H). This deficit in AstTbr2DN mice appeared as a trend in subtests of limb symmetry, forelimb strength and lateral turning (Fig. 6D–F) and
+was highly significant in forelimb walking and climbing
+(Fig. 6G,H). Overall, the combined motor test score indicated significantly worse motor outcomes in Ast-Tbr2DN
+mice (Fig. 6I). Together, these results show that astrocytic
+TGFb signaling limits both infarct expansion and the severity
+of motor deficits.
+
+Discussion
+We demonstrate here that astrocytic TGFb signaling functions to limit immune cell infiltration and activation after
+stroke. Interestingly, the immunoregulatory effects of astrocytic TGFb signaling are a distinct mechanism, independent
+Volume 62, No. 8
+
+Cekanaviciute et al.: Astrocytic TGFb Reduces Neuroinflammation
+
+FIGURE 7: Model of the functions of astrocytic TGFb signaling
+after stroke. TSP-1, thrombospondin-1; TGFb, transforming
+growth factor beta. [Color figure can be viewed in the online
+issue, which is available at wileyonlinelibrary.com.]
+
+of the physical barrier formed by astrocytes: we observed no
+differences in the expression of GFAP and ECM components
+between mice with normal and reduced astrocytic TGFb signaling. Instead, our results are consistent with a model in
+which TGFb signaling in astrocytes upregulates beneficial
+TGFb signaling in the peri-infarct cortex during the subacute
+time window after stroke by upregulating the expression of
+TGF-b1 and its activator thrombospondin-1 (Fig. 7). This
+positive feedback loop then limits neuroinflammation and
+neuronal injury in the peri-infarct cortex via the immunosuppressive and neuroprotective functions of TGFb.
+We found that astrocytic TGFb signaling limits the
+magnitude and spread of the immune response to stroke, but
+found no evidence that it affected immune cell polarization.
+Ast-Tbr2DN mice with reduced astrocytic TGFb signaling
+exhibited a twofold increase in the number of activated
+microglia and macrophages 2 days after stroke. We next
+quantified two markers of proinflammatory macrophages and
+microglia, MHC II and iNOS, and observed a corresponding
+twofold upregulation, consistent with twice as many cells
+rather than a change in immune cell phenotype. In addition,
+since Ast-Tbr2DN and wildtype stroke volumes were not significantly different at this time point, this excessive neuroinflammation was not caused by a difference in stroke size.
+Excessive neuroinflammation in Ast-Tbr2DN mice was
+however associated with increased neuronal dysfunction and
+injury, represented by impaired motor recovery and late
+infarct expansion in the photothrombotic stroke model. The
+photothrombotic stroke model was used not only to measure
+motor outcomes but also to increase accuracy in measuring
+late infarct size because it produces a much larger stroke than
+the dMCAO model. In contrast, dMCAO in C57BL/6J mice
+does not produce a motor deficit, and the infarct cannot be
+easily measured by 4 weeks after stroke due to cortical atrophy. However, neither dMCAO nor photothrombotic stroke
+sizes were different between genotypes 1 day after infarction,
+before the peak immune response.
+August 2014
+
+Neuronal dysfunction in Ast-Tbr2DN mice may have
+occurred secondary to the twofold increase in iNOS, which is
+known to be neurotoxic by stimulating free radical production (Brown, 2010). In addition, both TGFb and TGFb
+pathway activation were also significantly lower in AstTbr2DN peri-infarct cortex 2 days after stroke. TGFb is well
+known to be directly anti-apoptotic and neuroprotective following stroke (Pang et al., 2001; Ruocco et al., 1999), in part
+by activating the PI3K/Akt pathway that leads to Akt phosphorylation in neurons (Zhu et al., 2002, 2004). Indeed, we
+did observe a lower probability of nuclear pAkt immunostaining in Ast-Tbr2DN mouse neurons after stroke and an overall reduction in pAkt in peri-infarct cortex. Thus, when
+TGFb signaling is normally upregulated in wildtype mice in
+the subacute period after stroke it may provide neuroprotection against secondary injury in the peri-infarct cortex. However, it is important to note that TGFb signaling involves
+multiple pathways in addition to the classic canonical pathways mediated by Smads. The Akt pathway is only one of
+the noncanonical signaling pathways activated by TGFb.
+Other noncanonical pathways that it activates, such as MAPK
+and Erk mediated signaling (Zhang, 2009), could also potentially affect TGFb-induced neuroprotection after stroke.
+This study is, to our knowledge, the first time that an
+astrocytic signaling pathway has been shown to limit neuroinflammation without affecting the physical barrier formed by
+astrocytes. Either ablating proliferating GFAP1 astrocytes or
+deleting the inflammatory mediator STAT3 in astrocytes
+reduces the physical barrier and increases immune cell infiltration after traumatic brain and spinal cord injuries (Bush
+et al., 1999; Wanner et al., 2013). Similarly, expressing a
+dominant negative inhibitor of proinflammatory NF-jB signaling both increases astrocytic scarring and reduces the
+expression of proinflammatory cytokines after spinal cord
+injury and ischemia (Brambilla et al., 2005; Dvoriantchikova
+et al., 2009). In contrast, here we found that when astrocytic
+TGFb signaling is inhibited, there is more immune cell infiltration without changes in the expression of GFAP or two
+other components of the physical barrier, tenascin-C, and
+fibronectin.
+Although inhibiting astrocytic TGFb signaling did not
+change the physical barrier formed by astrocytes, we did
+observe that it significantly altered cytokine expression in the
+peri-infarct cortex. Astrocytes with reduced TGFb signaling
+were unable to stimulate the expression of the injuryresponsive TGFb isoform TGF-b1 and its activator
+thrombospondin-1 in the subacute time window after stroke.
+Interestingly, thrombospondin-1 has not previously been
+implicated in TGFb activation after stroke. While our findings cannot exclude the existence of other TGFb activating
+molecules that are affected by astrocytic TGFb-signaling after
+1237
+
+stroke, thrombospondin-1 is known to be a major activator
+of TGFb in vivo (Crawford et al., 1998), and TGFb is
+known to induce thrombospondin-1 transcription in astrocytes (Ikeda et al., 2010).
+Thus, our results indicate that instead of altering the
+physical barrier formed by astrocytes, TGFb signaling affects
+what the astrocytes secrete. We therefore speculate that in
+addition to their ability to generate a physical barrier, astrocytes form a “secretory” barrier to injury, composed at least
+in part by molecules such as TGFb that astrocytes secrete to
+limit neuroinflammation.
+Our results further reveal that normal astrocytic TGFb
+signaling regulates this secretory barrier in a time and
+location-specific manner: inhibiting astrocytic TGFb signaling
+primarily affected the levels of active TGFb during the subacute time period and in the peri-infarct cortex. This subacute
+time window was also the critical time period in which
+TGFb signaling in GFAP1 astrocytes was required to limit
+inflammation. By comparison, inhibiting astrocytic TGFb
+signaling had no effect on inflammatory cells or cytokines,
+astrocyte activation, or motor performance at baseline. Similarly, we did not observe any differences between genotypes
+on or after 7 days after stroke either in neuroinflammation or
+in worsening of the behavioral deficit. Thrombospondin-1
+expression also returned to wildtype levels by 7 days, potentially because sufficient thrombospondin-1 was produced by
+activated microglia and macrophages (Lanz et al., 2010;
+Ortiz-Masia et al., 2012). This temporal specificity suggests a
+clinically relevant time window to target astrocytic TGFb signaling for maximal benefit.
+In the context of previous studies on global differences
+in TGFb levels after injury, it was surprising that decreased
+astrocytic TGFb signaling did not reduce GFAP expression
+and alter the astrocytic scar after stroke. TGF-b1 directly
+stimulates astrocytic expression of GFAP (Reilly et al., 1998;
+Romao et al., 2008) as well as the ECM components fibronectin and tenascin-C (Schachtrup et al., 2010; Smith and
+Hale, 1997). In addition, mice that overexpress mutant, constitutively active TGF-b1 in the hippocampus have increased
+GFAP expression (Wyss-Coray et al., 1997), while global
+depletion of TGFb reduces GFAP expression after traumatic
+brain injury (Logan et al., 1994; Yoshioka et al., 2011). By
+contrast, we show that inhibiting endogenous astrocytic
+TGFb signaling and global TGFb upregulation did not affect
+the expression of these physical barrier components. This
+incongruity could be caused by differences in TGFb activation between injury models, or because global TGFb signaling in our model was partially rather than completely
+inhibited. Alternatively, increased immune infiltration in AstTbr2DN mice early after stroke could increase GFAP expression via another pathway, for example, NF-jB signaling (Gao
+1238
+
+et al., 2013; Krohn et al., 1999), which would compensate
+for reduced GFAP expression caused by reduced astrocytic
+TGFb signaling.
+In conclusion, we demonstrate that inhibiting endogenous astrocytic TGFb signaling during the subacute period
+after stroke prevents the upregulation of functional TGFb
+and its signaling in the peri-infarct cortex and strongly exacerbates infiltration and activation of innate immune cells.
+Because TGFb is upregulated universally in acute and chronic
+brain injury, it may represent a universal pathway that mediates the endogenous immunoregulatory functions of astrocytes. The anti-inflammatory and prorecovery functions of
+astrocytic TGFb signaling may therefore extend to other
+acute insults, such as traumatic brain injury or CNS infection, which are also characterized by increased TGF-b1
+(Buckwalter and Wyss-Coray, 2004).
+
+Acknowledgment
+Grant sponsor: AHA; Grant number: 10GRNT4140073
+(M.S.B.) and 11PRE6970002 (E.C.); Grant sponsor:
+NINDS; Grant number: R01067132 (M.S.B.); Grant sponsor: Stanford Graduate Fellowship (E.C.).
+The authors thank Dr. Yael Rosenberg-Hasson of the Stanford Human Immune Monitoring Center, Bianca Gomez of
+the Stanford Shared FACS Facility and Dr. Andrew Olson of
+the Stanford Neuroscience Microscopy Services for technical
+assistance with data collection. They thank Drs. Anita Koshy,
+Brenda Porter, and Katrin Andreasson for critical review of
+the manuscript.
+
+References
+Annes JP, Munger JS, Rifkin DB. 2003. Making sense of latent TGFbeta activation. J Cell Sci 116:217–224.
+Arac A, Brownell SE, Rothbard JB, Chen C, Ko RM, Pereira MP, Albers GW,
+Steinman L, Steinberg GK. 2011. Systemic augmentation of alphaB-crystallin
+provides therapeutic benefit twelve hours post-stroke onset via immune modulation. Proc Natl Acad Sci USA 108:13287–13292.
+Babcock AA, Kuziel WA, Rivest S, Owens T. 2003. Chemokine expression by
+glial cells directs leukocytes to sites of axonal injury in the CNS. J Neurosci
+23:7922–7930.
+Barreto G, White RE, Ouyang Y, Xu L, Giffard RG. 2011. Astrocytes: Targets
+for neuroprotection in stroke. Cent Nerv Syst Agents Med Chem 11:164–173.
+Brambilla R, Bracchi-Ricard V, Hu WH, Frydel B, Bramwell A, Karmally S,
+Green EJ, Bethea JR. 2005. Inhibition of astroglial nuclear factor kappaB
+reduces inflammation and improves functional recovery after spinal cord
+injury. J Exp Med 202:145–156.
+Brenner M, Kisseberth WC, Su Y, Besnard F, Messing A. 1994. GFAP promoter directs astrocyte-specific expression in transgenic mice. J Neurosci 14:
+1030–1037.
+Brown GC. 2010. Nitric oxide and neuronal death. Nitric Oxide 23:153–165.
+Buckwalter M, Wyss-Coray T. 2004. Modelling neuroinflammatory phenotypes
+in vivo. J Neuroinflammation 1:10.
+Bush TG, Puvanachandra N, Horner CH, Polito A, Ostenfeld T, Svendsen CN,
+Mucke L, Johnson MH, Sofroniew MV. 1999. Leukocyte infiltration, neuronal
+
+Volume 62, No. 8
+
+Cekanaviciute et al.: Astrocytic TGFb Reduces Neuroinflammation
+degeneration, and neurite outgrowth after ablation of scar-forming, reactive
+astrocytes in adult transgenic mice. Neuron 23:297–308.
+
+Heiss WD. 2012. The ischemic penumbra: How does tissue injury evolve?
+Ann N Y Acad Sci 1268:26–34.
+
+Cambier S, Gline S, Mu D, Collins R, Araya J, Dolganov G, Einheber S,
+Boudreau N, Nishimura SL. 2005. Integrin alpha(v)beta8-mediated activation
+of transforming growth factor-beta by perivascular astrocytes: An angiogenic
+control switch. Am J Pathol 166:1883–1894.
+
+Iadecola C, Anrather J. 2011. The immunology of stroke: From mechanisms
+to translation. Nat Med 17:796–808.
+
+Chen Y, Swanson RA. 2003. Astrocytes and brain injury. J Cereb Blood Flow
+Metab 23:137–149.
+Clarkson AN, Overman JJ, Zhong S, Mueller R, Lynch G, Carmichael ST.
+2011. AMPA receptor-induced local brain-derived neurotrophic factor signaling mediates motor recovery after stroke. J Neurosci 31:3766–3775.
+Colak G, Filiano AJ, Johnson GV. 2011. The application of permanent middle
+cerebral artery ligation in the mouse. J Vis Exp 53.
+Crawford SE, Stellmach V, Murphy-Ullrich JE, Ribeiro SMF, Lawler J, Hynes
+RO, Boivin GP, Bouck N. 1998. Thrombospondin-1 is a major activator of
+TGF-b1 in vivo. Cell 93:1159–1170.
+Crowe MJ, Doetschman T, Greenhalgh DG. 2000. Delayed wound healing in
+immunodeficient TGF-beta 1 knockout mice. J Invest Dermatol 115:3–11.
+Denker SP, Ji S, Dingman A, Lee SY, Derugin N, Wendland MF, Vexler ZS.
+2007. Macrophages are comprised of resident brain microglia not infiltrating
+peripheral monocytes acutely after neonatal stroke. J Neurochem 100:
+893–904.
+Dhandapani KM, Brann DW. 2003. Transforming growth factor-beta: A neuroprotective factor in cerebral ischemia. Cell Biochem Biophys 39:13–22.
+Dheen ST, Kaur C, Ling EA. 2007. Microglial activation and its implications in
+the brain diseases. Curr Med Chem 14:1189–1197.
+Doyle KP, Cekanaviciute E, Mamer LE, Buckwalter MS. 2010. TGFbeta signaling in the brain increases with aging and signals to astrocytes and innate
+immune cells in the weeks after stroke. J Neuroinflamm 7:62.
+
+Ikeda H, Miyatake M, Koshikawa N, Ochiai K, Yamada K, Kiss A, Donlin MJ,
+Panneton WM, Churchill JD, Green M, Siddiqui AM, Leinweber AL,
+Crews NR, Ezerskiy LA, Rendell VR, Belcheva MM, Coscia CJ. 2010.
+Morphine modulation of thrombospondin levels in astrocytes and its implications for neurite outgrowth and synapse formation. J Biol Chem 285:
+38415–38427.
+Kigerl KA, Gensel JC, Ankeny DP, Alexander JK, Donnelly DJ, Popovich PG.
+2009. Identification of two distinct macrophage subsets with divergent effects
+causing either neurotoxicity or regeneration in the injured mouse spinal cord.
+J Neurosci 29:13435–13444.
+Krohn K, Rozovsky I, Wals P, Teter B, Anderson CP, Finch CE. 1999. Glial
+fibrillary acidic protein transcription responses to transforming growth factorbeta1 and interleukin-1beta are mediated by a nuclear factor-1-like site in the
+near-upstream promoter. J Neurochem 72:1353–1361.
+Krupinski J, Kumar P, Kumar S, Kaluza J. 1996. Increased expression of TGFb1 in brain tissue after ischemic stroke in humans. Stroke 27:852–857.
+Lanz TV, Ding Z, Ho PP, Luo J, Agrawal AN, Srinagesh H, Axtell R, Zhang H,
+Platten M, Wyss-Coray T, Steinman L. 2010. Angiotensin II sustains brain
+inflammation in mice via TGF-beta. J Clin Invest 120:2782–2794.
+Li L, Lundkvist A, Andersson D, Wilhelmsson U, Nagai N, Pardo AC, Nodin
+C, Stahlberg A, Aprico K, Larsson K, Yabe T, Moors L, Fotheringham A,
+Davies I, Carmeliet P, Schwartz JP, Pekna M, Kubista M, Blomstrand F,
+Maragakis N, Nilsson M, Pekny M. 2008. Protective role of reactive astrocytes
+in brain ischemia. J Cereb Blood Flow Metab 28:468–481.
+Lin HY, Yang LT. 2013. Differential response of epithelial stem cell populations in hair follicles to TGF-beta signaling. Dev Biol 373:394–406.
+
+Doyle KP, Fathali N, Siddiqui MR, Buckwalter MS. 2012. Distal hypoxic stroke:
+A new mouse model of stroke with high throughput, low variability and a
+quantifiable functional deficit. J Neurosci Methods 207:31–40.
+
+Logan A, Berry M, Gonzalez A, Frautschy S, Sporn M, Baird A. 1994. Effects
+of transforming growth factor beta 1 on scar production in the injured central
+nervous systems of the rat. Eur J Neurosci 6:355–363.
+
+Dvoriantchikova G, Barakat D, Brambilla R, Agudelo C, Hernandez E, Bethea
+JR, Shestopalov VI, Ivanov D. 2009. Inactivation of astroglial NF-kappa B promotes survival of retinal neurons following ischemic injury. Eur J Neurosci 30:
+175–185.
+
+Manaenko A, Fathali N, Khatibi NH, Lekic T, Hasegawa Y, Martin R, Tang J,
+Zhang JH. 2011. Arginine-vasopressin V1a receptor inhibition improves neurologic outcomes following an intracerebral hemorrhagic brain injury. Neurochem Int 58:542–548.
+
+Fadok VA, Bratton DL, Konowal A, Freed PW, Westcott JY, Henson PM.
+1998. Macrophages that have ingested apoptotic cells in vitro inhibit proinflammatory cytokine production through autocrine/paracrine mechanisms
+involving TGF-b, PGE2, and PAF. J Clin Invest 101:890–898.
+
+Mantovani A, Sica A, Sozzani S, Allavena P, Vecchi A, Locati M. 2004. The
+chemokine system in diverse forms of macrophage activation and polarization. Trends Immunol 25:677–686.
+
+Finch CE, Laping NJ, Morgan TE, Nichols NR, Pasinetti GM. 1993. TGF-b1 is
+an organizer of responses to neurodegeneration. J Cell Biochem 53:314–322.
+Florian C, Vecsey CG, Halassa MM, Haydon PG, Abel T. 2011. Astrocytederived adenosine and A1 receptor activity contribute to sleep loss-induced
+deficits in hippocampal synaptic plasticity and memory in mice. J Neurosci
+31:6956–6962.
+Frugier T, Koishi K, Matthaei KI, McLennan IS. 2005. Transgenic mice carrying
+a tetracycline-inducible, truncated transforming growth factor beta receptor
+(TbetaRII). Genesis 42:1–5.
+
+Massagu
+e J, Wotton D. 2000. Transcriptional control by the TGF-b/Smad signaling system. EMBO J 19:1745–1754.
+Mizutani M, Pino PA, Saederup N, Charo IF, Ransohoff RM, Cardona AE.
+2012. The fractalkine receptor but not CCR2 is present on microglia from
+embryonic development throughout adulthood. J Immunol 188:29–36.
+Mu D, Cambier S, Fjellbirkeland L, Baron JL, Munger JS, Kawakatsu H,
+Sheppard D, Broaddus VC, Nishimura SL. 2002. The integrin alpha(v)beta8
+mediates epithelial homeostasis through MT1-MMP-dependent activation of
+TGF-beta1. J Cell Biol 157:493–507.
+
+Gao Z, Zhu Q, Zhang Y, Zhao Y, Cai L, Shields CB, Cai J. 2013. Reciprocal
+modulation between microglia and astrocyte in reactive gliosis following the
+CNS injury. Mol Neurobiol 48:690–701.
+
+Ortiz-Masia D, Diez I, Calatayud S, Hernandez C, Cosin-Roger J, Hinojosa J,
+Esplugues JV, Barrachina MD. 2012. Induction of CD36 and
+thrombospondin-1 in macrophages by hypoxia-inducible factor 1 and its relevance in the inflammatory process. PLoS One 7:e48535.
+
+Garcia JH, Wagner S, Liu KF, Hu XJ. 1995. Neurological deficit and extent of
+neuronal necrosis attributable to middle cerebral artery occlusion in rats. Statistical validation. Stroke 26:627–634; discussion 635.
+
+Pang L, Ye W, Che XM, Roessler BJ, Betz AL, Yang GY. 2001. Reduction of
+inflammatory response in the mouse brain with adenoviral-mediated transforming growth factor-1 expression. Stroke J Cereb Circ 32:544–552.
+
+Glabinski AR, Balasingam V, Tani M, Kunkel SL, Strieter RM, Yong VW,
+Ransohoff RM. 1996. Chemokine monocyte chemoattractant protein-1 is
+expressed by astrocytes after mechanical injury to the brain. J Immunol 156:
+4363–4368.
+
+Pascual O, Casper KB, Kubera C, Zhang J, Revilla-Sanchez R, Sul JY, Takano
+H, Moss SJ, McCarthy K, Haydon PG. 2005. Astrocytic purinergic signaling
+coordinates synaptic networks. Science 310:113–116.
+
+Halassa MM, Florian C, Fellin T, Munoz JR, Lee SY, Abel T, Haydon PG,
+Frank MG. 2009. Astrocytic modulation of sleep homeostasis and cognitive
+consequences of sleep loss. Neuron 61:213–219.
+
+August 2014
+
+Pineau I, Sun L, Bastien D, Lacroix S. 2010. Astrocytes initiate inflammation in
+the injured mouse spinal cord by promoting the entry of neutrophils and
+inflammatory monocytes in an IL-1 receptor/MyD88-dependent fashion. Brain
+Behav Immun 24:540–553.
+
+1239
+
+Pratt BM, McPherson JM. 1997. TGF-beta in the central nervous system:
+Potential roles in ischemic injury and neurodegenerative diseases. Cytokine
+Growth Factor Rev 8:267–292.
+Rani R, Smulian AG, Greaves DR, Hogan SP, Herbert DR. 2011. TGF-beta limits IL-33 production and promotes the resolution of colitis through regulation
+of macrophage function. Eur J Immunol 41:2000–2009.
+Reilly JF, Maher PA, Kumari VG. 1998. Regulation of astrocyte GFAP expression by TGF-beta1 and FGF-2. Glia 22:202–210.
+Romao LF, Sousa Vde O, Neto VM, Gomes FC. 2008. Glutamate activates
+GFAP gene promoter from cultured astrocytes through TGF-beta1 pathways.
+J Neurochem 106:746–756.
+Ruocco A, Nicole O, Docagne F, Ali C, Chazalviel L, Komesli S, Yablonsky F,
+Roussel S, MacKenzie ET, Vivien D, Buisson A. 1999. A transforming growth factorbeta antagonist unmasks the neuroprotective role of this endogenous cytokine in
+excitotoxic and ischemic brain injury. J Cereb Blood Flow Metab 19:1345–1353.
+Schachtrup C, Ryu JK, Helmrick MJ, Vagena E, Galanakis DK, Degen JL,
+Margolis RU, Akassoglou K. 2010. Fibrinogen triggers astrocyte scar formation by promoting the availability of active TGF-beta after vascular damage.
+J Neurosci 30:5843–5854.
+Shi J, Johansson J, Woodling NS, Wang Q, Montine TJ, Andreasson K. 2010.
+The prostaglandin E2 E-prostanoid 4 receptor exerts anti-inflammatory effects
+in brain innate immunity. J Immunol 184:7207–7218.
+Shi Y, Massague J. 2003. Mechanisms of TGF-beta signaling from cell membrane to the nucleus. Cell 113:685–700.
+
+Wanner IB, Anderson MA, Song B, Levine J, Fernandez A, Gray-Thompson Z,
+Ao Y, Sofroniew MV. 2013. Glial scar borders are formed by newly proliferated, elongated astrocytes that interact to corral inflammatory and fibrotic
+cells via STAT3-dependent mechanisms after spinal cord injury. J Neurosci
+33:12870–12886.
+Woo MS, Wang X, Faustino JV, Derugin N, Wendland MF, Zhou P, Iadecola
+C, Vexler ZS. 2012. Genetic deletion of CD36 enhances injury after acute
+neonatal stroke. Ann Neurol 72:961–970.
+Wyss-Coray T, Borrow P, Brooker MJ, Mucke L. 1997. Astroglial overproduction of TGF-beta 1 enhances inflammatory central nervous system disease in
+transgenic mice. J Neuroimmunol 77:45–50.
+Yamashita K, Gerken U, Vogel P, Hossmann K, Wiessner C. 1999. Biphasic
+expression of TGF-beta1 mRNA in the rat brain following permanent occlusion of the middle cerebral artery. Brain Res 836:139–145.
+Yonezawa T, Hattori S, Inagaki J, Kurosaki M, Takigawa T, Hirohata S,
+Miyoshi T, Ninomiya Y. 2010. Type IV collagen induces expression of
+thrombospondin-1 that is mediated by integrin alpha1beta1 in astrocytes.
+Glia 58:755–767.
+Yoshioka N, Kimura-Kuroda J, Saito T, Kawamura K, Hisanaga S, Kawano H.
+2011. Small molecule inhibitor of type I transforming growth factor-beta
+receptor kinase ameliorates the inhibitory milieu in injured brain and promotes regeneration of nigrostriatal dopaminergic axons. J Neurosci Res 89:
+381–393.
+Zamanian JL, Xu L, Foo LC, Nouri N, Zhou L, Giffard RG, Barres BA. 2012.
+Genomic analysis of reactive astrogliosis. J Neurosci 32:6391–6410.
+
+Smith GM, Hale JH. 1997. Macrophage/microglia regulation of astrocytic
+tenascin: synergistic action of transforming growth factor-beta and basic
+fibroblast growth factor. J Neurosci 17:9624–9633.
+
+Zhang YE. 2009. Non-Smad pathways in TGF-beta signaling. Cell Res 19:
+128–139.
+
+Sofroniew MV, Vinters HV. 2010. Astrocytes: Biology and pathology. Acta
+Neuropathol 119:7–35.
+
+Zhao H, Sapolsky RM, Steinberg GK. 2006. Phosphoinositide-3-kinase/akt survival signal pathways are implicated in neuronal survival after stroke. Mol
+Neurobiol 34:249–270.
+
+Stevens SL, Bao J, Hollis J, Lessov NS, Clark WM, Stenzel-Poore MP. 2002.
+The use of flow cytometry to evaluate temporal changes in inflammatory cells
+following focal cerebral ischemia in mice. Brain Res 932:110–119.
+Vivien D, Ali C. 2006. Transforming growth factor-beta signalling in brain disorders. Cytokine Growth Factor Rev 17:121–128.
+
+Zhu Y, Culmsee C, Klumpp S, Krieglstein J. 2004. Neuroprotection by transforming growth factor-beta1 involves activation of nuclear factor-kappaB
+through phosphatidylinositol-3-OH kinase/Akt and mitogen-activated protein
+kinase-extracellular-signal regulated kinase1,2 signaling pathways. Neuroscience 123:897–906.
+
+Voskuhl RR, Peterson RS, Song B, Ao Y, Morales LB, Tiwari-Woodruff S,
+Sofroniew MV. 2009. Reactive astrocytes form scar-like perivascular barriers
+to leukocytes during adaptive immune inflammation of the CNS. J Neurosci
+29:11511–11522.
+
+Zhu Y, Yang G-Y, Ahlemeyer B, Pang L, Che X-M, Culmsee C, Klumpp
+S, Krieglstein J. 2002. Transforming growth factor-b1 increases bad
+phosphorylation and protects neurons against damage. J Neurosci 22:
+3898–3909.
+
+1240
+
+Volume 62, No. 8
+
+

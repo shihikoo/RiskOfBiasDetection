@@ -1,0 +1,1130 @@
+﻿[Link]
+Delta:1_given name
+[Link]
+Delta:1_surname
+[Link]
+Delta:1_given name
+[Link]
+Delta:1_surname
+[Link]
+Delta:1_given name
+[Link]
+Delta:1_surname
+[Link]
+Delta:1_given name
+[Link]
+mailto:wlyao82@126.com
+[Link]
+mailto:chzhang@tjh.tjmu.edu.cn
+[Link]
+http://crossmark.crossref.org/dialog/?doi=10.1016/j.neuint.2015.10.006&domain=pdf
+[Link]
+www.sciencedirect.com/science/journal/01970186
+[Link]
+www.elsevier.com/locate/nci
+[Link]
+http://dx.doi.org/10.1016/j.neuint.2015.10.006
+[Link]
+http://dx.doi.org/10.1016/j.neuint.2015.10.006
+[Link]
+http://dx.doi.org/10.1016/j.neuint.2015.10.006
+PFKFB3-mediated glycolysis is involved in reactive astrocyte
+proliferation after oxygen-glucose deprivation/reperfusion and is
+regulated by Cdh1
+Youyou Lv, Bo Zhang, Chunchun Zhai, Jin Qiu, Yue Zhang, Wenlong Yao*,
+Chuanhan Zhang**
+Department of Anesthesiology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430030, China
+a r t i c l e  i n f o 
+Article history:
+Received 26 May 2015
+Received in revised form
+9 October 2015
+Accepted 15 October 2015
+Available online 21 October 2015
+Keywords:
+PFKFB3
+Astrocyte
+Oxygen-glucose deprivation
+Proliferation
+Glycolysis
+Cdh1
+a b s t r a c t 
+Reactive astrocyte proliferation is involved in many central degenerative diseases. The enzyme 6-
+phosphofructo-2-kinase/fructose-2,6-bisphosphatase isoform 3 (PFKFB3), an allosteric activator of 6-
+phosphofructo-1-kinase (PFK1), controls glycolytic flux. Furthermore, APC/C-Cdh1 plays a crucial role
+in brain metabolism by regulating PFKFB3 expression. Previous studies have defined the roles of PFKFB3-
+mediated glycolysis in pathological angiogenesis, cell autophagy, and amyloid plaque deposition in
+proliferating cells. However, the role of PFKFB3 in reactive astrocyte proliferation after cerebral ischemia
+is unknown. In this study, we cultured rat primary cortical astrocytes and established an oxygen-glucose
+deprivation/reperfusion (OGD/R) model to mimic cerebral ischemia in vivo. Astrocyte proliferation was
+measured by western blotting for proliferating cell nuclear antigen (PCNA) and by EdU incorporation. We
+found that OGD/R up-regulated PFKFB3 and PFK1 expression, which was accompanied by reactive
+astrocyte proliferation. Knockdown of PFKFB3 by siRNA transfection significantly inhibited reactive
+astrocyte proliferation and lactate release, an indicator of glycolysis. We found that PFKFB3 and PFK1
+expression were down-regulated and lactate release was decreased when OGD/R-induced astrocyte
+proliferation was inhibited by a Cdh1-expressing lentivirus. Thus, reactive astrocyte proliferation can be
+effectively suppressed by down-regulation of PFKFB3 through control of glycolytic flux, which is
+downstream of APC/C-Cdh1.
+© 2015 Elsevier Ltd. All rights reserved.
+1. Introduction
+Reactive astrocyte proliferation has been identified in most or
+all types of neurological insult, including intracerebral hemorrhage
+, ischemic stroke, and various neurodegenerative diseases
+(Colangelo et al., 2014; Nedergaard and Dirnagl, 2005; Pekny et al.,
+2014). Between 1 and 3 h after cerebral ischemia, reactive astrocytes
+release neurotrophic factors and antioxidants to protect
+neurons against the damaging effects of free radicals. However, at
+later stages, glial scars, formed from reactive astrocyte proliferation
+and subsequent accumulation, act as an astrocytic barrier that
+physically impedes axon regeneration and growth. Thus, early and
+effective regulation of excessive astrocyte proliferation may
+inhibit glial scar formation to create a favorable environment for
+neuronal regeneration and thereby improve recovery from
+ischemic injury.
+The enzyme 6-phosphofructo-2-kinase/fructose-2,6-bisphosph
+atase isoform 3 (PFKFB3), which is an isoform of 6-
+phosphofructo-2-kinase (PFK2), controls glycolytic flux by determining
+the intracellular concentration of fructose-2,6-
+bisphosphate, an allosteric activator of 6-phosphofructo-1-kinase
+(PFK1). As a key controller of glycolysis, PFKFB3 is involved in
+many diseases including cancer (Yamamoto et al., 2014), neurodegeneration
+(Fu et al., 2015; RodriguezeRodriguez et al., 2012),
+and rheumatoid arthritis (Yang et al., 2014). Previous studies have
+Abbreviations: APC/C, anaphase promoting complex/cyclosome; DAPI, diamidino-2-phenylindole
+; GFAP, glial fibrillary acidic protein; OGD/R, oxygen-glucose
+deprivation and reperfusion; PFK1, 6-phosphofructo-1-kinase; PFK2, 6-
+phosphofructo-2-kinase; PFKFB3, 6-phosphofructo-2-kinase/fructose-2,6-
+bisphosphatase isoform 3.
+* Corresponding author.
+** Corresponding author.
+E-mail addresses: wlyao82@126.com (W. Yao), chzhang@tjh.tjmu.edu.cn
+(C. Zhang).
+Contents lists available at ScienceDirect
+Neurochemistry International
+journal homepage: www.elsevier.com/locate/nci
+http://dx.doi.org/10.1016/j.neuint.2015.10.006
+0197-0186/© 2015 Elsevier Ltd. All rights reserved.
+Neurochemistry International 91 (2015) 26e33
+( 8.0.0.2542.999578032 PDF Extractor SDK EVAL VERSION)
+defined several roles for PFKFB3-mediated glycolysis in pathological
+angiogenesis (Schoors et al., 2014), cell autophagy (Yang et al.,
+2014), and amyloid plaque deposition (Fu et al., 2015) in proliferating
+cells. Furthermore, PFKFB3-mediated glycolysis is linked to
+cell cycle progression and cell proliferation in transformed cells. In
+proliferating cells, silencing of PFKFB3 (through siRNA transfection
+or the small molecule antagonist, 3PO) markedly attenuated
+glycolytic activity, lactate production, and the rate of proliferation
+(Calvo et al., 2006; Telang et al., 2012). Astrocytes are the most
+abundant cell type in the mammalian brain and are also characterized
+as proliferating cells. Disruption of energy metabolism in
+the brain is a hallmark of cerebral ischemia. On the basis of these
+studies, we hypothesized that PFKFB3-mediated glycolysis may
+serve an important function in the regulation of reactive astrocyte
+proliferation after cerebral ischemia.
+Eukaryotic cell proliferation depends strictly on the E3 ubiquitin
+ligase activity of anaphase promoting complex/cyclosome (APC/C).
+APC/C controls cell cycle transition through ubiquitination and
+degradation of multiple cyclins (Peters, 2006). Cdh1 is an important
+co-activator of APC/C during late mitosis and G1. Studies have
+defined several roles for APC/C-Cdh1 in the regulation of neuronal
+survival (Almeida, 2012; Almeida et al., 2005), neuronal differentiation
+(Harmey et al., 2009; Yao et al., 2010), axon growth (Kannan
+et al., 2012; Konishi et al., 2004), synaptic development (van
+Roessel et al., 2004) and brain metabolism (Herrero-Mendez
+et al., 2009). APC/C-Cdh1 substrates are targeted for degradation
+through specific recognition motifs, including the KEN box (Pfleger
+and Kirschner, 2000). PFKFB3 contains a KEN box motif that targets
+it to APC/C-Cdh1-mediated degradation (Herrero-Mendez et al.,
+2009). In both neurons and astrocytes, it has been demonstrated
+that APC/C-Cdh1 targets PFKFB3 for proteasomal degradation
+(Herrero-Mendez et al., 2009).
+As noted above, cerebral ischemia can lead to astrocyte activation
+and glial scar formation. Oxygen-glucose deprivation and
+reperfusion (OGD/R) is an in vitro model that mimics in vivo
+astrogliosis after hypoxic-ischemic brain injury (Huang et al.,
+2008). A previous study in our laboratory demonstrated that APC/
+C-Cdh1 activity was down-regulated in rat astrocytes after OGD/R
+(Qiu et al., 2013). Therefore, we hypothesized that, upon OGD/R,
+PFKFB3 might be degraded by activation of APC/C-Cdh1 leading to
+down regulation of glycolysis, thus reducing the amount of available
+energy and substrates for subsequent ischemic astrocyte
+proliferation. In this study, the expression of PFKFB3 and PFK1 (key
+glycolysis enzymes), and the concentration of lactate in the culture
+medium, which is a metabolite of glucose metabolism through the
+glycolysis pathway, were used as indicators of glycolysis. Firstly, we
+established an OGD/R model to investigate whether PFKFB3 upregulation
+and the activation of glycolysis were accompanied by
+reactive astrocyte proliferation. Secondly, astrocytes were transfected
+with PFKFB3 siRNA (siPFKFB3) and examined under OGD/R
+conditions to investigate the effects of PFKFB3 down-regulation on
+astrocyte proliferation. Thirdly, a Cdh1-expressing lentivirus was
+used to investigate the effects of Cdh1 overexpression on PFKFB3
+protein expression and the activation of glycolysis in astrocytes
+after OGD/R.
+2. Materials and methods
+2.1. Primary astrocyte culture
+All animal procedures followed NIH guidelines and were
+approved by the Ethics Committee of Tongji Hospital, Huazhong
+University of Science and Technology (Wuhan, China). Primary
+astrocyte cultures were prepared from the cerebral cortex of
+newborn (1e2days) SpragueeDawley rats as previously described
+(McCarthy and de Vellis, 1980; Qiu et al., 2013). Briefly, the cerebral
+cortex was digested with 0.125% trypsin for 15 min at 37C, and the
+cells were plated in DMEM/F-12 medium (Gibco, USA) supplemented
+with 10% fetal bovine serum, 100 units/mL penicillin,
+and100 mg/mL streptomycin in culture flasks that had previously
+been coated with poly-D-lysine (0.1 mg/mL; Sigma). These cells
+were grown in a humidified incubator (37 C; 5% CO2), with the
+medium replaced every 3 days. When cells reached confluence, in
+approximately 7e9 days in vitro, the mixed cultures were shaken
+overnight at 37 C to minimize microglia and oligodendroglia
+contamination. The remaining astrocytes were trypsinized and
+seeded at a density of 3  104 cells/cm2. More than 95% of the
+cultured cells were astrocytes as identified by immunofluorescent
+staining for glial fibrillary acidic protein (GFAP). All cell culture
+experiments were repeated at least three times, and representative
+pictures were shown for each experiment.
+2.2. OGD/R application
+OGD/R was performed as an in vitro model of hypoxicischemic
+insult. Briefly, primary astrocytes were washed twice
+and placed in an anaerobic chamber. The culture medium was
+replaced with glucose-free DMEM (Gibco, USA) perfused with an
+anaerobic gas mixture (95% N2,5%CO 2)at37Cfor3htoproduce
+OGD. OGD was terminated by replacing the exposure medium
+with standard medium and then returning the cells to the
+incubator under normoxic conditions (37 C, 5% CO2) for 24 h. 
+Control cells were treated identically except that they were not
+exposed to OGD.
+2.3. siRNA transfection
+Astrocytes were transfected with a control non-targeting siRNA
+or specific PFKFB3 siRNAs using a transfection kit (RiboBio,
+Guangzhou, China) according to the manufacturer's instructions.
+Briefly, siRNAs (50 nM) were dissolved in the supplied buffer and
+incubated for 5 min at room temperature. Reagents were then
+added to the siRNA-buffer solution for 10 min at room temperature.
+Finally, the siRNA-reagent complexes were added to the culture
+medium and cells were incubated for 3 days in a humidified
+incubator (37 C, 5% CO2) before treatment.
+2.4. Cdh1-expressing lentivirus treatment
+The Cdh1-expressing lentivirus vector was constructed previously
+(Qiu et al., 2012). As the lentivirus expresses greenfluorescent
+protein (GFP), the optimal multiplicity of infection (MOI) and
+infection duration was determined according to the level expression
+of GFP under fluorescence microscopy. Astrocytes were
+transfected with either a control lentivirus or the Cdh1-expressing
+lentivirus for 10 h at an MOI of 20.The medium was then replaced
+with standard culture medium. At 72 h after lentivirus treatment,
+cells were subjected to OGD/R.
+2.5. Cell extract preparation and western blotting
+Proteins were extracted from primary astrocytes by lysis in RIPA
+buffer (Beyotime Biotechnology, China). Sample protein concentrations
+were determined with a BCA Protein Analysis kit (Biyotime
+Institute of Biotechnology, China). Equal amounts of extracts
+(30 mg) were separated by electrophoresis in 10% sodium dodecyl
+sulfate-polyacrylamide gels (SDS-PAGE) and transferred to PVDF
+membranes. After blocking, membranes were incubated overnight
+at 4 C with the following primary antibodies: Cdh1(ab154539,
+1:500, Abcam, UK), PFK1(ab154804, 1:1000, Abcam, UK),
+Y. Lv et al. / Neurochemistry International 91 (2015) 26e33 27
+(PDF Extractor SDK TRIAL VERSION)
+PFKFB3(A5262,1:500, ABclonal, USA), PCNA(ab2426,1:200, Abcam,
+UK), or b-actin (1:500, Boster Biological Technology, Wuhan, China
+).Membranes were then incubated with a horseradish peroxidase
+(HRP)-conjugated secondary antibody (1:5000, Boster
+Biological Technology, Wuhan, China) for 1 h at room temperature.
+Blots were detected by enhanced chemiluminescence (ECL) reagents
+(Thermo Scientific, USA). Signals were imaged with a
+Chemi-Doc XRS imaging system (Bio-Rad). The relative expression
+levels of Cdh1, PFK1, PFKFB3, and PCNA were normalized to that of
+the housekeeping gene b-actin.
+2.6. Real-time PCR
+Total RNA was extracted from astrocytes with Trizol (Invitrogen)
+according to the manufacturer's protocol. Real-time PCR was performed
+with the following PCR primers: b-actin, forward, 50-TGACAGGATGCAGAAGGAGA-30 and reverse, 50-TAGAGCCACCAATC
+CACACA-30; PFKFB3, forward, 50-CCTCTGCTTTTGAAACAGGC-30 and
+reverse, 50-ATCCAGACAGACACTGCACG-30.A SYBR PrimeScript RTPCR
+Kit (Takara) and PrimeScript™ RT Master Mix (Takara) were
+employed to detect levels of gene expression. All samples were read
+in triplicate, and values were normalized to b-actin expression.
+2.7. EdU incorporation assay
+For EdU incorporation experiments, astrocytes were subcultured
+on 12-well plates. After OGD/R, EdU (RiboBio, Guangzhou
+, China) was added at a final concentration of 10 mMfor24h.
+Cells were then washed with PBS, followed by fixation with PBS
+containing 4% formaldehyde for 30 min and permeabilization with
+PBS containing 0.5% Triton X-100 for 10 min. After extensive
+washing with PBS, cells were incubated for 30 min with Apollo®
+567 staining reaction buffer. After washed three times with PBS,
+cell nuclei were stained with Hoechst 33342. All procedures were
+performed according to the manufacturer's instructions. Images of
+the cells were captured by fluorescence microscopy (Nikon,
+Japan).
+2.8. Lactate release assay
+Lactate is the end product of glycolysis. The glycolytic capacity
+of the cells was assessed by determining the lactate concentration
+in the culture medium (Almeida et al., 2010). The medium was
+collected at 24 h reperfusion after OGD for assaying the release of
+lactate. Lactate concentrations in the culture medium were
+measured with a lactate assay kit (Nanjing Jiancheng Bioengineering
+Institute, China) according to the manufacturer's instructions.
+All experiments were performed at least in triplicate.
+Briefly, 0.02 mL aliquots of the culture medium, 0.02 mL aliquots of
+3 mmol/L of lactate standard, or 0.02 mL aliquots of distilled water
+were mixed in a 15 mL centrifuge tube with 1 mL of enzyme mix
+and 0.2 mL of chromogeninc reagent, and incubated at 37 C
+water-bath for 10 min, then added 2 mL of terminal reagent. Optical
+density was measured at 530 nm with a spectrophotometer
+and sample absorbance was calculated by subtracting the background
+absorbance of the distilled water control from the total
+absorbance.
+2.9. Statistical analysis
+All data are presented as mean ± SEM. Statistical analysis was
+performed using SPSS 17.0 (SPSS Inc., USA). Student's t-test, oneway
+ANOVA, and Tukey's multiple comparison test were used as
+appropriate for comparisons between different groups. A p
+value< 0.05 was considered statistically significant.
+3. Results
+3.1. PFKFB3 up-regulation after OGD/R is accompanied by astrocyte
+proliferation
+Immunocytochemistry showed that PFKFB3 and PFK1 were
+present in nucleus of astrocytes in the control group (Fig. 1A, B).
+After OGD/R, PFKFB3 and PFK1 protein expression increased
+significantly. We also examined the expression of PFKFB3 and PFK1
+by western blotting, which indicated that OGD/R significantly
+increased the expression of PFKFB3 and PFK1 (Fig. 1C). The
+expression of PCNA, an important factor required for DNA synthesis
+, can be used an index of cell proliferation. As shown in Fig. 1D,
+western blot analyses of primary astrocyte cultures revealed
+increased PCNA expression after OGD/R. Up-regulation of PCNA
+expression demonstrates that the in vitro OGD/R successfully activated
+astrocytes and induced their proliferation. Thus, PFKFB3 and
+PFK1 expression positively correlated with reactive proliferation.
+3.2. PFKFB3 siRNA inhibits reactive astrocyte proliferation after
+OGD/R
+We next investigated the role of PFKFB3 on reactive gliosis
+through siRNA knockdown experiments. Real-time PCR analysis
+showed that PFKFB3 siRNAs potently reduced PFKFB3 mRNA
+expression in astrocytes under normal conditions (Fig. 2A) and
+reduced the increase in PFKFB3 mRNA after OGD/R (Fig. 2B).We
+then examined the effects of PFKFB3 silencing on cell proliferation
+after OGD/R by using an EdU incorporation assay (Fig. 2C). As expected
+, OGD/R increased cell proliferation; however, PFKFB3 siRNA
+transfection markedly suppressed OGD/R-induced cell proliferation
+(Fig. 2C, D). Moreover, western blot analysis showed that PFKFB3
+siRNA transfection also decreased OGD/R-induced PCNA protein
+expression (Fig. 2E).
+3.3. PFKFB3 siRNA decreases PFKFB3 expression and lactate release
+after OGD/R
+As PFKFB3 is the most potent allosteric activator of the key
+glycolytic enzyme PFK1, we expected that selective PFKFB3 inhibition
+in astrocytes would reduce PFK1 protein activity, which, in
+turn, would suppress the glycolytic capacity of astrocytes after
+OGD/R. Western blot analyses were used to measure the protein
+expression of PFKFB3. The results showed that siPFKFB3 transfection
+decreased PFKFB3 protein expression in astrocytes under
+both normal conditions (Fig. 3A, C) and OGD/R conditions (Fig. 3 B,
+D). We next assessed the concentration of lactate, the end product
+of glycolysis, in culture media to determine the glycolytic capacity
+of the cells. Notably, OGD/R increased the concentration of lactate
+in the medium, while transfection with siPFKFB3 significantly
+decreased the OGD/R-induced increase in lactate levels (Fig. 3E).
+These data demonstrate that PFKFB3 up-regulation is required to
+maintain glycolyticflux in astrocytes.
+3.4. PFKFB3-mediated glycolysis is involved in the inhibition of
+reactive astrocyte proliferation via over-expression of Cdh1
+Primary astrocytes were infected with a previously validated
+Cdh1-expressing lentivirus (Qiu et al., 2013). At 72 h after lentiviral
+infection, cells were treated with OGD/R. Proteins were then
+extracted for western blotting. As demonstrated in Fig. 4AeF, lentiviral
+infection increased Cdh1 protein expression in OGD/R-
+treated cells. Furthermore, up-regulation of Cdh1 reduced the
+OGD/R-induced increase inPFKFB3 and PFK1 protein expression.
+Treatment with the Cdh1-expressing lentivirus also significantly
+Y. Lv et al. / Neurochemistry International 91 (2015) 26e33 28
+(EVALUATION PDF Extractor SDK 8.0.0.2542.214868238)
+decreased lactate concentrations after OGD/R (Fig. 4G). We also
+confirmed that Cdh1 overexpression suppressed OGD/R-induced
+reactive proliferation of astrocytes by performing an EdU incorporation
+assay (Fig. 4H, I).
+4. Discussion
+We cultivated primary rat astrocytes under OGD (95% N2,5%CO 2
+and glucose withdrawal) for 3 h and reperfusion for 24 h, then
+successfully induced astrocyte proliferation, mimicking reactive
+astrocyte proliferation after hypoxic-ischemic injury, as demonstrated
+previously (Schmid-Brunclik et al., 2008). The increase in
+astrocyte proliferation after OGD/R was confirmed by EdU incorporation
+, which indicates DNA replication, and by increased PCNA
+protein expression. Our results demonstrated that OGD/R-induced
+astrocyte proliferation was accompanied by increased PFKFB3
+mRNA and protein expression as well as glycolytic activation.
+Notably, PFKFB3 siRNA reduced both PFKFB3 mRNA and protein
+expression after OGD/R, while down-regulation of PFKFB3
+decreased lactate release in astrocytes after OGD/R, which, in turn,
+suppressed astrocyte proliferation. Furthermore, infection with a
+Cdh1-expressing lentivirus effectively increased the expression of
+Cdh1 and decreased the expression of PFKFB3 after OGD/R in primary
+astrocytes, which resulted in decreased PFK1 protein
+expression and lactate release.
+Cell proliferation is accompanied by the activation of glycolysis
+in both cancer cells and proliferating non-neoplastic cells (Hume
+et al., 1978; Vander Heiden et al., 2011). The purpose and
+Fig. 1. OGD/R-induced up-regulation of PFKFB3 expression is accompanied by astrocyte proliferation. Primary astrocyte cultures were subjected to oxygen-glucose deprivation
+(OGD) for 3 h followed by reperfusion (OGD/R) for 24 h (A) OGD/R increased PFKFB3 expression in astrocytes.PFKFB3 (red), GFAP (green), and DAPI (blue). Scale bar, 200 mm. (B)
+OGD/R increased PFK1 expression in astrocytes. PFK1 (red), GFAP (green), and DAPI (blue). Scale bar, 200 mm. (C) Representative western blot and corresponding densitometry and
+statistical analysis of PFKFB3 and PFK1.Both PFKFB3 and PFK1 protein expression were significantly higher in the OGD/R group than in the control. (D) Representative western blot
+and corresponding densitometry and statistical analysis of PCNA. PCNA protein expression was higher in the OGD/R group than in the control. Values were normalized to those of
+the housekeeping geneb-actin and are expressed as relative optical density. Values are the mean±SEM (n¼3, *P<0.05 vs. control). (For interpretation of the references to color in
+this figure caption, the reader is referred to the web version of this article.)
+Y. Lv et al. / Neurochemistry International 91 (2015) 26e33 29
+(TRIAL VER. PDF Extractor SDK 8.0.0.2542.1823708240)
+mechanism of this ‘‘aerobic glycolysis’’,first identified in cancer and
+known as the Warburg effect (Warburg, 1956), remains unclear,
+although it may be required for the synthesis of macromolecules
+necessary for cell mass duplication during the division of rapidly
+proliferating cells (Lunt and Vander Heiden, 2011). A recent study
+(Almeida et al., 2010) in HEK293 cells revealed that proliferation is
+associated with an increase in glycolysis and PFKFB3 protein
+expression. Furthermore, Colombo et al. found that proliferation
+was accompanied by an increase in the expression of the most
+abundant splice variant of PFKFB3 in T lymphocytes and that the
+proportion of cells in S phase positively correlated with the rate of
+lactate generation (Colombo et al., 2010). Our results demonstrate
+an increase in PFKFB3 mRNA and protein expression, which is
+accompanied by reactive proliferation in cultured cortical astrocytes
+, after OGD/R. Minchenko et al. found that PFKFB3 mRNA was
+abundant in rat cortical astrocytesin vitrounder normal conditions,
+and its expression was significantly increased in the brain under
+hypoxic conditions in vivo (Minchenko et al., 2003). Therefore,
+these studies indicate that up-regulation of PFKFB3 is associated
+with astrocyte proliferation and may contribute to astrocyte proliferation
+after OGD/R.
+Astrocytes are the most abundant cell type in the mammalian
+brain and play an important role in the regulation of cerebral energy
+metabolism. Under hypoxia, glucose metabolism is strongly stimulated
+through the glycolysis pathway in astrocytes (Zwingmann and
+Leibfritz, 2003). Amaral et al. investigated the metabolic alterations
+in astrocytes after ischemia. They found glycolytic metabolism was
+predominant in the late recovery after ischemia (Amaral et al.,
+2010). PFKFB3, an isoform of PFK2, is a critical mediator of glycolysis.
+PFKFB3 exhibits a strong net kinase activity; thus the observed
+repression of PFKFB3 should result in reduced glycolysis as a result
+of decreased fructose-2,6-bisphosphate production. The latter
+compound is an activator of PFK1, which is the key regulator of the
+mammalian glycolytic pathway. Thus, inhibition of PFKB3 expression
+may result in diminished allosteric activation of PFK1, reduced
+glycolytic consumption of glucose-6-phosphate, and reduced
+glycolytic flux. For example, overexpression of a phosphatasedeficient PFKFB in the heart led to increased glycolysis, and
+chronic elevation of glycolysis in failing hearts could be injurious to
+an already compromised heart (Wang et al., 2008). Additionally,
+knockdown of PFKFB3/iPFK2 in N-43/5 neurons decreases the rate
+of glycolysis. By contrast, overexpression of PFKFB3/iPFK2 in N-43/5
+neurons increases the rate of glycolysis (Li et al., 2013). However,
+Ando et al. suggest that elevated expression of PFKFB3 alone is not
+sufficient to increase glycolysis, which requires ectopic expression of
+HK2 (Masaru Ando et al., 2010). In our results, PFKFB3 siRNA abolished
+the up-regulation of PFKFB3 protein and the increase in lactate
+release after OGD/R in astrocytes. These data demonstrate that
+PFKFB3 up-regulation is required to maintain glycolytic flux in astrocytes
+after OGD/R.
+Fig. 2. PFKFB3 siRNA inhibits astrocyte proliferation after OGD/R. Astrocytes were transfected with a negative control siRNA (NC siRNA) or PFKFB3 siRNA (siPFKFB3). At 72 h after
+siRNA treatment, cells were subjected to OGD for 3 h and reperfusion for 24 h (A) PFKFB3 silencing measured by real-time PCR 24 h post-transfection. Results were normalized tobactin
+gene expression and expressed as fold change versus control. (B) Analysis of PFKFB3 mRNA expression in the control, OGD/R, OGD/R þ siPFKFB3, and OGD/R þ NC siRNA
+groups. (C)Cells were double stained with EdU (red) and Hoechst 33342 (blue) to assess astrocyte proliferation. Scale bar, 200mm. (D) Percentage of EdU-positive cells in each group.
+(E) PCNA protein expression was assessed by western blotting and densitometry. Western blot analysis revealed that siPFKFB3 transfection decreased PCNA protein expression.
+Values were normalized to b-actin expression and expressed as relative optical density (n ¼ 3, *P< 0.05 vs. control, #P< 0.05 vs. OGD/R group, &P< 0.05 vs. OGD/R þ NC siRNA
+group). (For interpretation of the references to color in this figure caption, the reader is referred to the web version of this article.)
+Y. Lv et al. / Neurochemistry International 91 (2015) 26e33 30
+(8.0.0.2542,746420950 PDF Extractor SDK TRIAL)
+Several previous studies have demonstrated that the E3 ubiquitin
+ligase APC/C-Cdh1 simultaneously regulates the cell cycle and
+metabolism by selectively targeting key regulatory enzymes for
+proteasomal degradation (Herrero-Mendez et al., 2009; Li and
+Zhang, 2009). APC/C-Cdh1 substrates are targeted for degradation
+through specific recognition motifs, including the KEN box. PFKFB3,
+a key regulator of glycolysis, contains a KEN box motif (Herrero-
+Mendez et al., 2009). During cell cycle progression, PFKFB3 is
+generated continuously and ubiquitinated until it becomes active
+only when Cdh1, the activating protein of APC/C, is absent during
+the last two thirds of the G1 phase (Estevez-Garcia et al., 2014). In
+physiological conditions, low Cdh1 protein abundance and reduced
+APC/C-Cdh1 activity have been reported in astrocytes; however,
+overexpression of Cdh1 in astrocytes decreased PFKFB3 protein
+expression (Herrero-Mendez et al., 2009). These studies indicate
+that Cdh1 is an upstream regulator of PFKFB3 in astrocytes. In
+previous studies, we found that hippocampal Cdh1 activity was
+significantly decreased after global cerebral ischemia in rats in vivo
+(Zhang et al., 2011), and that Cdh1 expression was decreased in
+astrocytes after OGD/R in vitro (Qiu et al., 2013). In the present
+study, we found that PFKFB3 expression was increased in astrocytes
+after OGD/R. Therefore, we hypothesized that Cdh1 may be
+involved in PFKFB3 regulation in astrocytes during OGD/R. To test
+this hypothesis, a Cdh1-expressing lentivirus was constructed to
+investigate the effects of Cdh1 on PFKFB3 expression. By observing
+GFP under fluorescence microscopy and by detecting a GFP fusion
+protein and downstream substrates (Skp2 and SnoN) by western
+blotting, we previously revealed that infection with the Cdh1-
+expressing lentivirus can effectively increase APC/C-Cdh1 activity
+in astrocytes (Qiu et al., 2013). In the present study, infection with
+the Cdh1-expressing lentivirus resulted in down-regulation of
+PFKFB3 in astrocytes. In addition, Cdh1 protein overexpression also
+decreased PFK1 expression and lactate release. These results are
+compatible with the notion that OGD/R inhibits APC/C-Cdh1 activity
+, as measured by its ability to promote the degradation of
+PFKFB3, an already known APC/C-Cdh1 substrate (Herrero-Mendez
+et al., 2009) and suggests that Cdh1 may alter glucose metabolism
+in astrocytes via degradation of PFKFB3.
+The upstream regulation of APC/C-Cdh1 in OGD/R can be
+speculated from previous studies. On one hand, numerous studies
+showed that cell cycle regulators including cyclins, cyclin
+dependent kinases (CDKs) were aberrantly activated after CNS
+injuries, including ischemia and trauma (Qiu et al., 2013;
+Rashidian et al., 2005; Timsit and Menn, 2007). Cell cycle inhibition
+provides neuroprotection and reduces glial proliferation
+and scar formation after CNS injuries (Di Giovanni et al., 2005; Qiu
+et al., 2013; Zhu et al., 2007). On the other hand, Cdh1 is mediated
+by cyclin-dependent kinases (Cdks) occurred on multiple
+conserved proline-directed sites, which promote its nuclear
+export and inhibit its binding to APC (Jaquenoud et al., 2002).
+Moreover, it has been demonstrated that the activity of APC/CCdh1
+is regulated in excitotoxicity (Maestre et al., 2008, 2008;
+RodriguezeRodriguez et al., 2012), i.e. a condition well known
+to occur during OGD/R. In those studies, during excitotoxicity, the
+concomitant Ca2þ rise activates calpain, which promotes p25
+formation from p35, thus over-activating Cdk5 that hyperphosphorylates
+Cdh1 leading to APC/C-Cdh1 inhibition. Therefore,
+in consistent, excitotoxicity occurring during OGD/R could regulate
+the activity of APC/C-Cdh1.
+There are some limitations in our study. Compared with isotopic
+labeled measurement (RodriguezeRodriguez et al., 2012), lactate
+accumulation may be not a reliable indicator of glycolysis activity,
+as other sources and pathway (e.g. glutamine and the pentose
+phosphate pathway) can contribute to the lactate formation.
+However, the increase of lactate released into the medium was
+considered as one marker of enhanced glycolysis function (Haji-
+Michael et al., 1999). This method was also used for evaluation of
+glycolysis capacity in other studies (Almeida et al., 2010).
+PFKFB3 is also regulated by several proteins, including HIF-1,
+PTEN, Akt, and MK2, through various mechanisms in cancer cells
+(Cordero-Espinoza and Hagen, 2013; Duran et al., 2009;
+Novellasdemunt et al., 2013; Obach et al., 2004; Yalcin et al.,
+2009). Thus, Cdh1 is likely not the only regulator of PFKFB3 and
+may be regulated by other proteins in astrocytes after OGD/R.
+Further studies are required to investigate the potential mechanisms
+underlying the regulation of PFKFB3 in astrocytes. PFKFB3-
+Fig. 3. PFKFB3 siRNA reduces PFKFB3 protein expression and lactate release after OGD/R. (A, C) Compared with that of the control group, siPFKFB3 transfection decreased PFKFB3
+protein expression under normal conditions, as measured by western blot analysis. (B, D) Compared with that of the OGD/R þ NC siRNA group, siPFKFB3 transfection decreased
+PFKFB3 protein expression after OGD/R, as measured by western blot analysis. Values were normalized to those of the housekeeping gene b-actin and are expressed as relative
+optical density. (E) Transfection with siPFKFB3 significantly decreased lactate concentrations after OGD/R. (n¼3, *P<0.05 vs. control, #P<0.05 vs. OGD/R group, &P<0.05 vs. OGD/
+R þ NC siRNA group), ns, not significantly different.
+Y. Lv et al. / Neurochemistry International 91 (2015) 26e33 31
+( 8.0.0.2542.320173980 PDF Extractor SDK EVALUATION)
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref1
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref1
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref1
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref2
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref2
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref2
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref2
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref3
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref3
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref3
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref4
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref4
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref4
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref4
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref4
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref5
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref5
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref5
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref5
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref5
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref6
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref6
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref6
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref7
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref7
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref7
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref7
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref7
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref8
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref8
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref8
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref8
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref9
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref9
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref9
+mediated glucose metabolism may be an important target for
+neuroprotection and could be a promising therapeutic target in
+central nervous system diseases characterized by astrocyteassociated
+damage.
+5. Conclusions
+Overall, the findings presented here revealed activation and
+proliferation of astrocytes in response to OGD/Rin vitro, which was
+paralleled by up-regulation of PFKFB3 protein expression. Knockdown
+of PFKFB3 using siRNA inhibited astrocyte proliferation
+through decreased glycolysis after OGD/R in vitro. Overexpression
+of Cdh1, an upstream regulator of PFKFB3, decreased PFKFB3 and
+PFK1 expression, which then reduced glycolyticflux. This suggests
+that PFKFB3 and Cdh1 maybe promising therapeutic targets for
+nervous system injuries associated with excessive astrogliosis.
+Acknowledgments
+This project was supported by the National Natural Science
+Foundation of China (grant no. 81171158, no. 81000476, and no.
+81100819).
+References
+Almeida, A., 2012. Regulation of APC/C-Cdh1 and its function in neuronal survival.
+Mol. Neurobiol. 46 (3), 547e554.
+Almeida, A., Bolanos, J.P., Moncada, S., 2010. E3 ubiquitin ligase APC/C-Cdh1 accounts
+for the Warburg effect by linking glycolysis to cell proliferation. Proc.
+Natl. Acad. Sci. U. S. A. 107 (2), 738e741.
+Almeida, A., Bolanos, J.P., Moreno, S., 2005. Cdh1/Hct1-APC is essential for the
+survival of postmitotic neurons. J. Neurosci. 25 (36), 8115e8121.
+Amaral, A.I., Teixeira, A.P., Martens, S., Bernal, V., Sousa, M.F., Alves, P.M., 2010.
+Metabolic alterations induced by ischemia in primary cultures of astrocytes:
+merging 13C NMR spectroscopy and metabolic flux analysis. J. Neurochem. 113
+(3), 735e748.
+Calvo, M.N., Bartrons, R., Castano, E., Perales, J.C., Navarro-Sabate, A., Manzano, A.,
+2006. PFKFB3 gene silencing decreases glycolysis, induces cell-cycle delay and
+inhibits anchorage-independent growth in HeLa cells. FEBS Lett. 580 (13),
+3308e3314.
+Colangelo, A.M., Alberghina, L., Papa, M., 2014. Astrogliosis as a therapeutic target
+for neurodegenerative diseases. Neurosci. Lett. 565, 59e64.
+Colombo, S.L., Palacios-Callender, M., Frakich, N., De Leon, J., Schmitt, C.A., Boorn, L.,
+Davis, N., Moncada, S., 2010. Anaphase-promoting complex/cyclosome-Cdh1
+coordinates glycolysis and glutaminolysis with transition to S phase in human
+T lymphocytes. Proc. Natl. Acad. Sci. U. S. A. 107 (44), 18868e18873.
+Cordero-Espinoza, L., Hagen, T., 2013. Increased concentrations of fructose 2,6-
+bisphosphate contribute to the Warburg effect in phosphatase and tensin homolog
+(PTEN)-deficient cells. J. Biol. Chem. 288 (50), 36020e36028.
+Di Giovanni, S., Movsesyan, V., Ahmed, F., Cernak, I., Schinelli, S., Stoica, B.,
+Faden, A.I., 2005. Cell cycle inhibition provides neuroprotection and reduces
+glial proliferation and scar formation after traumatic brain injury. Proc. Natl.
+Fig. 4. Cdh1 overexpression inhibits PFKFB3 and PFK1 protein expression in astrocytes and decreases lactate release after OGD/R. Astrocytes were transfected with a control
+lentivirus or Cdh1-expressing lentivirus. After 72 h, cells were subjected to OGD for 3 h and reperfusion for 24 h Cdh1, PFKFB3, and PFK1 protein expression were assessed by
+western blot analysis (AeC) and densitometry (DeF). Western blot analysis revealed that Cdh1-expressing lentivirus treatment increased Cdh1 protein expression and that the upregulation
+of Cdh1 reduced PFKFB3 and PFK1 levels. Lactate concentrations in the medium after OGD/R were significantly decreased by the Cdh1-expressing lentivirus (G). Cells
+were double stained with EdU (red) and Hoechst 33342 (blue) to assess astrocyte proliferation in each group (H). Scale bar, 200 mm. (I) Percentage of EdU-positive cells in each
+group. Values were normalized to those of the housekeeping gene b-actin and are expressed as relative optical density (n ¼ 3, *p < 0.05 vs. control, #p < 0.05 vs. OGD/R group,
+&P< 0.05 vs. OGD/R þ Cdh1-CV, ns, not significantly different). (For interpretation of the references to color in this figure caption, the reader is referred to the web version of this
+article.)
+Y. Lv et al. / Neurochemistry International 91 (2015) 26e33 32
+( 8.0.0.2542.13414618 PDF Extractor SDK EVAL VERSION)
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref9
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref9
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref10
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref10
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref10
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref10
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref10
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref11
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref11
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref11
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref11
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref11
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref12
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref12
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref12
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref12
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref13
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref13
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref13
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref13
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref14
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref14
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref14
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref14
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref15
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref15
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref15
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref15
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref15
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref16
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref16
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref16
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref16
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref17
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref17
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref17
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref18
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref18
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref18
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref18
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref19
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref19
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref19
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref19
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref20
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref20
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref20
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref20
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref21
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref21
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref21
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref21
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref22
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref22
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref23
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref23
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref23
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref24
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref24
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref24
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref24
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref24
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref25
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref25
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref25
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref25
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref25
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref25
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref26
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref26
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref26
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref27
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref27
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref27
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref27
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref27
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref28
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref28
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref28
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref29
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref29
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref29
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref29
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref29
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref30
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref30
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref30
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref30
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref30
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref31
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref31
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref31
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref32
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref32
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref32
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref33
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref33
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref33
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref34
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref34
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref34
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref34
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref35
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref35
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref35
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref35
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref36
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref36
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref36
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref36
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref36
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref37
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref37
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref37
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref37
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref38
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref38
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref38
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref38
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref38
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref39
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref39
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref39
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref39
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref39
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref39
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref39
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref40
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref40
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref40
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref41
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref41
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref41
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref42
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref42
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref42
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref42
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref43
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref43
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref43
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref43
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref43
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref44
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref44
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref44
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref44
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref44
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref45
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref45
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref46
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref46
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref46
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref46
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref47
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref47
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref47
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref47
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref48
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref48
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref48
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref49
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref49
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref49
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref50
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref50
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref50
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref50
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref51
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref51
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref51
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref51
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref52
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref52
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref52
+[Link]
+http://refhub.elsevier.com/S0197-0186(15)30056-5/sref52
+Acad. Sci. U. S. A. 102 (23), 8333e8338.
+Duran, J., Obach, M., Navarro-Sabate, A., Manzano, A., Gomez, M., Rosa, J.L.,
+Ventura, F., Perales, J.C., Bartrons, R., 2009. Pfkfb3 is transcriptionally upregulated
+in diabetic mouse liver through proliferative signals. FEBS J. 276 (16),
+4555e4568.
+Estevez-Garcia, I.O., Cordoba-Gonzalez, V., Lara-Padilla, E., Fuentes-Toledo, A., Falfan-Valencia
+, R., Campos-Rodriguez, R., Abarca-Rojano, E., 2014. Glucose and
+glutamine metabolism control by APC and SCF during the G1-to-S phase
+transition of the cell cycle. J. Physiol. Biochem. 70 (2), 569e581.
+Fu, W., Shi, D., Westaway, D., Jhamandas, J.H., 2015. Bioenergetic mechanisms in
+astrocytes may contribute to amyloid plaque deposition and toxicity. J. Biol.
+Chem. 290 (20), 12504e12513.
+Haji-Michael, P.G., Ladriere, L., Sener, A., Vincent, J.L., Malaisse, W.J., 1999. Leukocyte
+glycolysis and lactate output in animal sepsis and ex vivo human blood.
+Metabolism 48 (6), 779e785.
+Harmey, D., Smith, A., Simanski, S., Moussa, C.Z., Ayad, N.G., 2009. The anaphase
+promoting complex induces substrate degradation during neuronal differentiation.
+J. Biol. Chem. 284 (7), 4317e4323.
+Herrero-Mendez, A., Almeida, A., Fernandez, E., Maestre, C., Moncada, S.,
+Bolanos, J.P., 2009. The bioenergetic and antioxidant status of neurons is
+controlled by continuous degradation of a key glycolytic enzyme by APC/CCdh1.
+Nat. Cell Biol. 11 (6), 747e752.
+Huang, X.J., Zhang, W.P., Li, C.T., Shi, W.Z., Fang, S.H., Lu, Y.B., Chen, Z., Wei, E.Q.,
+2008. Activation of CysLT receptors induces astrocyte proliferation and death
+after oxygen-glucose deprivation. Glia 56 (1), 27e37.
+Hume, D.A., Radik, J.L., Ferber, E., Weidemann, M.J., 1978. Aerobic glycolysis and
+lymphocyte transformation. Biochem. J. 174 (3), 703e709.
+Jaquenoud, M., van Drogen, F., Peter, M., 2002. Cell cycle-dependent nuclear export
+of Cdh1p may contribute to the inactivation of APC/CCdh1. EMBO J. 21 (23),
+6515e6526.
+Kannan, M., Lee, S.J., Schwedhelm-Domeyer, N., Stegmuller, J., 2012. The E3 ligase
+Cdh1-anaphase promoting complex operates upstream of the E3 ligase Smurf1
+in the control of axon growth. Development 139 (19), 3600e3612.
+Konishi, Y., Stegmuller, J., Matsuda, T., Bonni, S., Bonni, A., 2004. Cdh1-APC controls
+axonal growth and patterning in the mammalian brain. Science 303 (5660),
+1026e1030.
+Li, H., Guo, X., Xu, H., Woo, S.L., Halim, V., Morgan, C., Wu, C., 2013. A role for
+inducible 6-phosphofructo-2-kinase in the control of neuronal glycolysis.
+J. Nutr. Biochem. 24 (6), 1153e1158.
+Li, M., Zhang, P., 2009. The function of APC/CCdh1 in cell cycle and beyond. Cell Div.
+4, 2.
+Lunt, S.Y., Vander Heiden, M.G., 2011. Aerobic glycolysis: meeting the metabolic
+requirements of cell proliferation. Annu. Rev. Cell Dev. Biol. 27, 441e464.
+Maestre, C., Delgado-Esteban, M., Gomez-Sanchez, J.C., Bola~ nos, J.P., Almeida, A.,
+2008. Cdk5 phosphorylates Cdh1 and modulates cyclinB1 stability in excitotoxicity.
+EMBO J. 27, 2736e2745.
+Masaru Ando, I.U., Kogure, Kayo, Asano, Yumi, Nakajima, Wataru, Abe, Yoshinori,
+Kawauchi, Keiko, Tanaka, Nobuyuki, 2010. Interleukin 6 Enhances glycolysis
+through expression of the glycolytic enzymes Hexokinase 2 and 6-
+Phosphofructo-2-kinase/Fructose-2,6-bisphosphatase-3. J. Nippon. Med. Sch.
+77 (2), 97e105.
+McCarthy, K.D., de Vellis, J., 1980. Preparation of separate astroglial and oligodendroglial
+cell cultures from rat cerebral tissue. J. Cell Biol. 85 (3), 890e902.
+Minchenko, O., Opentanova, I., Caro, J., 2003. Hypoxic regulation of the 6-
+phosphofructo-2-kinase/fructose-2,6-bisphosphatase gene family (PFKFB-1e4)
+expression in vivo. FEBS Lett. 554 (3), 264e270.
+Nedergaard, M., Dirnagl, U., 2005. Role of glial cells in cerebral ischemia. Glia 50 (4),
+281e286.
+Novellasdemunt, L., Bultot, L., Manzano, A., Ventura, F., Rosa, J.L., Vertommen, D.,
+Rider, M.H., Navarro-Sabate, A., Bartrons, R., 2013. PFKFB3 activation in cancer
+cells by the p38/MK2 pathway in response to stress stimuli. Biochem. J. 452 (3),
+531e543.
+Obach, M., Navarro-Sabate, A., Caro, J., Kong, X., Duran, J., Gomez, M., Perales, J.C.,
+Ventura, F., Rosa, J.L., Bartrons, R., 2004. 6-Phosphofructo-2-kinase (pfkfb3)
+gene promoter contains hypoxia-inducible factor-1 binding sites necessary for
+transactivation in response to hypoxia. J. Biol. Chem. 279 (51), 53562e53570.
+Pekny, M., Wilhelmsson, U., Pekna, M., 2014. The dual role of astrocyte activation
+and reactive gliosis. Neurosci. Lett. 565, 30e38.
+Peters, J.M., 2006. The anaphase promoting complex/cyclosome: a machine
+designed to destroy. Nat. Rev. Mol. Cell Biol. 7 (9), 644e656.
+Pfleger, C.M., Kirschner, M.W., 2000. The KEN box: an APC recognition signal
+distinct from the D box targeted by Cdh1. Genes. Dev. 14 (6), 655e665.
+Qiu, J., Yao, W., Qian, W., Zhang, C., 2012. Construction and identification of recombinant
+lentivirus vector of rat Cdhl gene. Int. J. Anesth. Resuse 33 (3),
+182e185.
+Qiu, J., Zhang, C., Lv, Y., Zhang, Y., Zhu, C., Wang, X., Yao, W., 2013. Cdh1 inhibits
+reactive astrocyte proliferation after oxygen-glucose deprivation and reperfusion.
+Neurochem. Int. 63 (2), 87e92.
+Rashidian, J., Iyirhiaro, G., Aleyasin, H., Rios, M., Vincent, I., Callaghan, S., Bland, R.J.,
+Slack, R.S., During, M.J., Park, D.S., 2005. Multiple cyclin-dependent kinases
+signals are critical mediators of ischemia/hypoxic neuronal death in vitro and
+in vivo. Proc. Natl. Acad. Sci. U. S. A. 102 (39), 14080e14085.
+Rodriguez-Rodriguez, P., Fernandez, E., Almeida, A., Bolanos, J.P., 2012. Excitotoxic
+stimulus stabilizes PFKFB3 causing pentose-phosphate pathway to glycolysis
+switch and neurodegeneration. Cell Death Differ. 19 (10), 1582e1589.
+Schmid-Brunclik, N., Burgi-Taboada, C., Antoniou, X., Gassmann, M.,
+Ogunshola, O.O., 2008. Astrocyte responses to injury: VEGF simultaneously
+modulates cell death and proliferation. Am. J. Physiol. Regul. Integr. Comp.
+Physiol. 295 (3), R864eR873.
+Schoors, S., De Bock, K., Cantelmo, A.R., Georgiadou, M., Ghesquiere, B.,
+Cauwenberghs, S., Kuchnio, A., Wong, B.W., Quaegebeur, A., Goveia, J., Bifari, F.,
+Wang, X., Blanco, R., Tembuyser, B., Cornelissen, I., Bouche, A., Vinckier, S., Diaz-
+Moralli, S., Gerhardt, H., Telang, S., Cascante, M., Chesney, J., Dewerchin, M.,
+Carmeliet, P., 2014. Partial and transient reduction of glycolysis by PFKFB3
+blockade reduces pathological angiogenesis. Cell Metab. 19 (1), 37e48.
+Telang, S., Clem, B.F., Klarer, A.C., Clem, A.L., Trent, J.O., Bucala, R., Chesney, J., 2012.
+Small molecule inhibition of 6-phosphofructo-2-kinase suppresses t cell activation.
+J. Transl. Med. 10, 95.
+Timsit, S., Menn, B., 2007. Cerebral ischemia, cell cycle elements and Cdk5. Biotechnol.
+J. 2 (8), 958e966.
+van Roessel, P., Elliott, D.A., Robinson, I.M., Prokop, A., Brand, A.H., 2004. Independent
+regulation of synaptic size and activity by the anaphase-promoting complex.
+Cell 119 (5), 707e718.
+Vander Heiden, M.G., Lunt, S.Y., Dayton, T.L., Fiske, B.P., Israelsen, W.J., Mattaini, K.R.,
+Vokes, N.I., Stephanopoulos, G., Cantley, L.C., Metallo, C.M., Locasale, J.W., 2011.
+Metabolic pathway alterations that support cell proliferation. Cold Spring Harb
+Symp. Quant. Biol. 76, 325e334.
+Wang, Q., Donthi, R.V., Wang, J., Lange, A.J., Watson, L.J., Jones, S.P., Epstein, P.N.,
+2008. Cardiac phosphatase-deficient 6-phosphofructo-2-kinase/fructose-2,6-
+bisphosphatase increases glycolysis, hypertrophy, and myocyte resistance to
+hypoxia. Am. J. Physiol. Heart Circ. Physiol. 294 (6), 2889e2897.
+Warburg, O., 1956. On the origin of cancer cells. Science 123 (3191), 309e314.
+Yalcin, A., Telang, S., Clem, B., Chesney, J., 2009. Regulation of glucose metabolism by
+6-phosphofructo-2-kinase/fructose-2,6-bisphosphatases in cancer. Exp. Mol.
+Pathol. 86 (3), 174e179.
+Yamamoto, T., Takano, N., Ishiwata, K., Ohmura, M., Nagahata, Y., Matsuura, T.,
+Kamata, A., Sakamoto, K., Nakanishi, T., Kubo, A., Hishiki, T., Suematsu, M., 2014.
+Reduced methylation of PFKFB3 in cancer cells shunts glucose towards the
+pentose phosphate pathway. Nat. Commun. 5, 3480.
+Yang, Z., Goronzy, J.J., Weyand, C.M., 2014. The glycolytic enzyme PFKFB3/phosphofructokinase
+regulates autophagy. Autophagy 10 (2), 382e383.
+Yao, W., Qian, W., Zhu, C., Gui, L., Qiu, J., Zhang, C., 2010. Cdh1-APC is involved in the
+differentiation of neural stem cells into neurons. Neuroreport 21 (1), 39e44.
+Zhang, Y., Yao, W., Qiu, J., Qian, W., Zhu, C., Zhang, C., 2011. The involvement of
+down-regulation of Cdh1-APC in hippocampal neuronal apoptosis after global
+cerebral ischemia in rat. Neurosci. Lett. 505 (2), 71e75.
+Zhu, Z., Zhang, Q., Yu, Z., Zhang, L., Tian, D., Zhu, S., Bu, B., Xie, M., Wang, W., 2007.
+Inhibiting cell cycle progression reduces reactive astrogliosis initiated by
+scratch injury in vitro and by cerebral ischemia in vivo. Glia 55 (5), 546e558.
+Zwingmann, C., Leibfritz, D., 2003. Regulation of glial metabolism studied by 13CNMR.
+NMR Biomed. 16 (6e7), 370e399.
+Y. Lv et al. / Neurochemistry International 91 (2015) 26e33 33
+(BY PDF Extractor SDK TRIAL VERSION)
+

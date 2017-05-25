@@ -1,0 +1,615 @@
+Magnetic Resonance Imaging 33 (2015) 102–109
+
+Contents lists available at ScienceDirect
+
+Magnetic Resonance Imaging
+journal homepage: www.mrijournal.com
+
+Investigating microbleeding in cerebral ischemia rats using
+susceptibility-weighted imaging
+Yuwei Jiang a, b, Dazhi Yin a, b, Dongrong Xu b, Weiwei Men a, Rui Cao c, Bing Li d, Mingxia Fan a,⁎
+a
+Shanghai Key Laboratory of Magnetic Resonance, Key Laboratory of Brain Functional Genomics, Institute of Cognitive Neuroscience, East China Normal University, Shanghai 200062,
+P.R. China
+b
+MRI Unit/Epidemiology Division, Department of Psychiatry, Columbia University & New York State Psychiatric Institute, NY, 10032, USA
+c
+Department of Rehabilitation, Huashan Hospital, Fudan University, Shanghai 200433, P.R. China
+d
+Jinshan Hospital, Fudan University, Shanghai 201508, P.R. China
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 29 October 2013
+Revised 21 August 2014
+Accepted 22 September 2014
+Keywords:
+Susceptibility-weighted imaging (SWI)
+Cerebral ischemia
+Cerebral microbleeding (CMB)
+Rats
+Blood–Brain barrier (BBB) opening
+
+a b s t r a c t
+Purpose: To detect the distribution and prevalence of cerebral microbleeding (CMB) in rats after acute
+ischemic stroke using susceptibility-weighted imaging (SWI).
+Method: After middle cerebral artery occlusion, 3 T MR scanning was performed on 10 rats at 4 h and 24 h
+after ischemia. T2-weighted images (T2WI), T2 maps and diffusion-weighted images (DWI) were
+generated to estimate the severity of the brain ischemia. The SWI data were used to analyze location
+counts, size and distribution of the CMBs. The brain injury was evaluated and determined by hematoxylin
+and eosin (H&E) staining.
+Result: At 24 h after onset of ischemia, 13 CMBs were found in seven of the nine ischemic rats, whereas only
+two CMBs were found at 4 h after ischemia onset in one of the nine ischemic rats. All visible CMBs detected
+in the SWI data were located in the ischemic lateral cortex, with diameters ranging from 0.2 to 0.5 mm. In
+addition, we observed thickened vessels near the CMBs in the ischemic hemisphere in the SWI minimum
+intensity projections that did not appear in the symmetrical regions on the contralateral hemisphere.
+Histopathological results conﬁrmed the CMBs, and increased microvascular density was observed in the
+ipsilateral hemisphere.
+Conclusion: SWI technique allows the detection of CMBs and the accompanying thickened vessels in vivo in
+a rat model of cerebral ischemia, which appear to be challenging tasks using T2WI and DTI. The results
+reported in this work provide a better understanding of the pathophysiological mechanism of acute stroke.
+© 2014 Elsevier Inc. All rights reserved.
+
+1. Introduction
+Cerebral microbleeding (CMB) is the manifestation of sub-clinical
+neurological impairment in patients with blood components in brain
+tissues [1]. CMBs commonly occur among the elderly. They are
+caused by brain microvascular disease and are closely correlated
+with aging, blood pressure and heart disease. Recently, increases in
+the measurements of clinical CMBs have been interpreted as chronic
+small vessel ischemia and perivascular demyelination [1–3]. Stroke
+is one of the most common causes of mortality and disability in
+people throughout the world; ischemic stroke accounted for 86% of
+all stroke. Cerebral ischemia causes dramatic changes in the
+structure and function of the blood–brain barrier (BBB), such as
+vascular brain edema, which leads to the opening of tight junctions
+between capillary endothelial cells in the brain and a signiﬁcant
+⁎ Corresponding author at: 3663 North Zhongshan Rd, Putuo District, Shanghai, P.R.
+China. Tel.: +86 21 62233778; fax: +86 21 62233871.
+E-mail address: mxfan@phy.ecnu.edu.cn (M. Fan).
+http://dx.doi.org/10.1016/j.mri.2014.09.002
+0730-725X/© 2014 Elsevier Inc. All rights reserved.
+
+increase in the permeability of the BBB. BBB damage associated with
+the presence of small vessel disease leakage is present during
+biphasic BBB openings. It is thought that CMBs are the result of
+extravasations of blood components caused by abnormal BBB
+permeability; a number of articles have described CMBs in acute
+ischemic stroke patients [4,5].
+To enable better prognosis and treatment of cerebral ischemia, it
+is essential to more precisely predict the extent and severity of
+histological brain damage caused by cerebral ischemia in individual
+subjects. Therefore, the estimation of CMBs in experimental settings
+would be an important contribution to a better assessment of acute
+ischemic stroke. Experimental animal models of stroke have
+provided evidence for biphasic BBB openings during periods of
+cerebral ischemia from 1 to 4 hours and 24 to 48 hours [6]. However,
+there has been little research on CMBs in acute stroke animal models
+with BBB opening.
+In recent years, with the rapid development of MRI, increasing
+attention has been paid to small-vessel disease, and it has been
+demonstrated that gradient-echo (GRE) T2*-weighted MRI is
+
+Y. Jiang et al. / Magnetic Resonance Imaging 33 (2015) 102–109
+
+particularly sensitive for the detection of CMBs [1,7,8]. T2* dephasing
+occurs due to inhomogeneities in the local magnetic ﬁeld caused by
+hemosiderin deposition [7]. CMBs in the human brain are described
+as ellipsoid areas of signal abnormality with a diameter smaller than
+5 mm and no peripheral edema, and they are caused by the rupture
+of the microvasculature in the basal ganglia and subcortex [9].
+However, CMBs in animal models, such as rats, are much smaller and
+more difﬁcult to observe using the T2*-weighted GRE sequence. A
+susceptibility-weighted imaging (SWI) is characterized within the
+high-pass-ﬁltered phase images. The phase images can be transformed into a special phase mask, which can be multiplied to the
+magnitude of the images to generate a kind of new SWI image and to
+enhance the conspicuity of magnet-sensitive substances. This
+contributes to an enhanced T2* effect of paramagnetic substances,
+such as hemosiderin or deoxyhemoglobin. The enhanced T2*
+dephasing showed as hypointensity caused by hemosiderin deposition contained in CMBs allows for the detection of more numerous
+small microbleeds, which are more conspicuous than they are in
+T2*-weighted sequences [10,11]. An MRI examination at different
+time points provides a more informative and precise assessment of
+brain injury without further impairment; another examination was
+also performed after treatment. The objectives of the present study
+were to (1) perform SWI in a rat model of acute ischemic stroke to
+determine the distribution and prevalence of CMBs and (2) identify
+the correlation between the presence and distribution of CMBs and
+biphasic BBB opening.
+2. Materials and methods
+2.1. Animal model
+Sixteen healthy adult SD rats aged 8 to 12 weeks and weighing
+250 to 300 g were used in this study. All rats were cage reared,
+provided sufﬁcient food and drinking water and were housed under
+light for 12 hours per day at room temperature (23 ± 1) °C.
+According to the method described by Longa [12], a nylon
+intraluminal suture was placed in the left cervical internal carotid
+artery (ICA), the post cerebral artery (PCA) and the middle cerebral
+artery (MCA) sequentially, and the suture was advanced into the
+intracranial part of the artery to block the left MCA without reaching
+the anterior cerebral artery (ACA). In this way, 10 out of 16 adult SD
+rats were subjected to ischemic stroke in the left hemisphere of the
+brain due to permanent MCA occlusion (MCAO), and the other 6
+healthy rats were used for control experiment. A heat source was
+used to ensure that the rectal and temporalis temperatures were
+(37 ± 0.5) °C with a brain temperature of 30 ~ 33 °C. All of the
+animal studies were performed according to a protocol approved by
+the Institutional Animal Care and Use Committee of East China
+Normal University.
+2.2. Magnetic resonance imaging measurements
+T2-weighted images (T2WI), T2 maps, diffusion-weighted
+images (DWI) and SWI scans of the rat brain were collected using
+a 3 T Siemens whole body scanner (MAGNETOM Trio, Erlangen,
+Germany) at 4 h and 24 h after induction ischemia; these time
+points are believed to correspond to BBB opening [6]. Each rat's head
+was positioned inside a 5-cm-diameter, 5-cm-long dual-tuned, dualquadrature, birdcage radiofrequency mouse coil. The scanning
+parameters were as follows: (1) to observe ischemic injury in the
+brain, T2WI was performed with a T2 spin echo (SE) sequence, a
+50 × 50 mm 2 ﬁeld of view (FOV), a spatial resolution of
+0.2 × 0.2 × 1.0 mm 3, a repetition time/echo time (TR/TE) of 3330/
+68 ms, a ﬂip angle of 120°, parallel imaging used integrated parallel
+acquisition techniques with an acceleration factor of 2 (iPAT = 2),
+
+103
+
+and a total of 18 slices. The acquisition time (AT) was 5:21. (2) To
+measure the development of tissue water/edema, T2 maps were
+acquired using a T2 multi-echo sequence, an FOV of 50 × 50 mm 2, a
+spatial resolution of 0.3 × 0.3 × 1.0 mm 3, a TR/TE of 3330/16, 32, 48,
+64, 80, and 96 ms, a ﬂip angle of 180°, iPAT = 2, and a total of 15
+slices. The AT was 6:04. (3) To detect changes in cerebral ischemia,
+DWIs were acquired by an echo-planar pulse sequence with nine
+orthogonal directions at different ‘b’ values (0, 1000 s/mm 2), a TR/TE
+of 3300/99 ms, an FOV of 67 × 67 mm 2, a spatial resolution of
+0.7 × 0.7 × 2.0 mm 3, iPAT = 2, and a total of 8 slices. The AT was
+6:21. (4) To detect CMBs, SWI data (including SWI images, SWI
+ﬁltered phase images, magnitude images and minimum intensity
+projections) were acquired using a 3D-GRE sequence with an FOV
+of 50 × 50 mm 2, a spatial resolution of 0.2 × 0.2 × 1.0 mm 3, TR/
+TE = 32/20 ms, a ﬂip angle of 20°, iPAT = 2, and a total of 24 slices.
+The AT was 8:55.
+2.3. Image analysis
+All MRI images were analyzed using SPIN (Signal Processing in
+NMR, MRI Institute of Biomedical Research, Detroit). We used only
+T2WI and DWI data for visual examination of the occurrence and
+location of cerebral ischemia. According to the theory of the
+measurement of T2 relaxation time, we used the multi-echo T2
+map results to reconstruct T2 map images. On the reconstructed T2
+maps, all of the T2 relaxation time was acquired from a single coronal
+slice of the septal hippocampus (visually located at 6–7 mm from the
+front tip of the frontal cortex, which based on the rat brain atlas)
+[13]. The selected slice displayed the largest area of edema.
+Measurement of the T2 relaxation time was performed in two
+regions of interest (ROI) on this coronal slice: the ischemic ipsilateral
+hemisphere and the contralateral hemisphere, excluding the
+ventricles (Fig. 1A, B, C, D).
+On the SWI and SWI-ﬁltered phase images, the CMBs were
+numbered sequentially from the rostral-most slice to the caudalmost slice on all coronal slices over the entire brain of each rat. The
+CMBs on the phase images appeared as small spherical regions of
+hypointensity. Because of the volume averaging, the small CMBs
+could not be ignored with 1-mm slice thickness. The locations of the
+CMBs and the areas with T2 hyperintensity/reduced ADC were
+observed on T2WI, ADC maps, SWI and anatomical drawings within
+similar slices. Using minimum intensity projections (mIPs), the
+CMBs were easily distinguished from a transverse section of a vessel.
+Two observers independently evaluated the CMBs. The CMBs stated
+in the results were agreed upon by the two observers.
+2.4. Histopathological evaluation
+All rats were anesthetized with 10% chloral hydrate (0.33 ml/
+100 g) and then perfused transcardially with 0.1 M phosphate buffer
+saline (PBS) followed by 4% paraformaldehyde (PFA) in 0.1 M PBS
+after MRI scanning. The brains were post-ﬁxed overnight in 4% PFA
+and cryoprotected in 20% and 30% sucrose; then, 30-μm slices were
+cut using a freezing stage microtome. The locations of the brain
+specimens corresponded to the scanning direction of MRI slices.
+Hematoxylin and eosin (H&E) staining was used to validate the
+results of the MRI scanning. The selected slices, which correspond to
+the position of the MRI slices, were examined and recorded using
+digital photomicrography (Olympus AH-3) under 100× and 200 ×
+magniﬁcations. The edema and morphological changes in the entire
+brain were recorded using a digital single-lens reﬂex camera (Canon
+EOS 550D). The CMBs and cell nucleus of the H&E histological images
+were measured at the regions corresponding to the ROIs of T2WI and
+SWI data.
+
+104
+
+Y. Jiang et al. / Magnetic Resonance Imaging 33 (2015) 102–109
+
+Fig. 1. The measurement of T2 relaxation time for rats. Measurement of the T2 relaxation time at the ROIs on the coronal slice: the ischemic contra- (A) and ipsilateral (B)
+hemisphere at 4 h and the ischemic contra- (C) and ipsilateral (D) hemisphere at 24 h. (E) Comparison of the T2 relaxation times at different time points for the same ROI. The T2
+relaxation time of the left (ischemia lateral) hemisphere rose quickly at 24 h compared with 4 h, while it had no signiﬁcant difference in the right (contralateral) hemisphere
+between 4 h and 24 h. This ﬁnding provided evidence that there was a close correlation between the severity of the ischemia injury in ipsilateral areas and the time point
+(**p b 0.01 vs. 4 h). (F) Comparison of the T2 relaxation time of the different ROIs at the same time point. The T2 relaxation time was longer in the areas of the left (ipsilateral)
+hemisphere compared with the right (contralateral) hemisphere at 4 h as well as at 24 h, which indicated that the severity of the ischemic injury was related to the location of the
+infarct (**p b 0.01 vs. contralateral).
+
+2.5. Statistical data
+Quantitative T2-values are presented as the mean ± S.D. For
+comparison between the left and right hemispheres at the same time
+point (4 h or 24 h) as well as for comparison in the same hemisphere
+at different time points (4 h and 24 h), paired-sample T tests were
+performed. A p-value b 0.05 was regarded as signiﬁcant. All
+statistical tests were performed using SPSS 16.0.
+3. Results
+One of the 10 MCAO rats did not survive the MRI scanning;
+therefore, 9 MCAO rats and 6 healthy rats were included in this
+study. Visual inspections showed that intensities were found to be
+equally homogeneous in T2WI, DWI/ADC map and SWI of the
+
+healthy rats between left and right hemisphere (as shown in Fig. 2).
+Furthermore, the mean T2-value of healthy rats between left
+hemisphere (71.4 ± 5.07 ms) and right hemisphere (71.3 ±
+4.38 ms, p = 0.885) had no statistical difference.
+3.1. Brain ischemic injury investigated with T2WI combined with
+T2-relaxometry and DWI
+The T2 values from the ischemic and normal tissues for the ipsiand contralateral hemispheres at 4 h and 24 h are shown in Fig. 1E
+and F. At 4 h after the induction of ischemia, the mean T2-value of
+the ipsilateral hemisphere (89.9 ± 3.78 ms) was 18.98% ± 5.092%
+higher than that of the contralateral hemisphere (75.5 ± 2.37 ms,
+p b 0.001). However, DWI detected larger regions of higher
+intensity, and accordingly, the ADC maps displayed lower
+
+Y. Jiang et al. / Magnetic Resonance Imaging 33 (2015) 102–109
+
+105
+
+Fig. 2. T2WI, DWI/ADC and SWI images of the whole brain for a healthy rat. T2WI, DWI/ADC and SWI images showed the equally homogeneous intensities between left and right hemisphere.
+
+hypointensity in the same ipsi-ischemic hemisphere (Fig. 3, DWI and
+ADC images). At 24 h, all ischemic rats showed increased T2
+hyperintensity in the ipsilateral hemisphere, which was 59.87% ±
+5.118% higher than that in the contralateral hemisphere. The areas of
+T2 hyperintensity were mainly located in the ipsilateral cortex and
+basal ganglia. The difference in the mean T2 value between the
+ipsilateral (121.7 ± 3.82 ms) and contralateral (78.4 ± 2.47 ms)
+hemispheres were signiﬁcantly increased (p b 0.001). The ADC
+declined rapidly in the location of the ischemic tissues, and the
+hypointensity in 8 of the rats extended to the entire ipsilateral
+hemisphere in the ADC maps at 24 h. The mean T2-value of the
+ischemic lateral hemisphere increased dramatically from 4 h
+(89.9 ± 3.78 ms) to 24 h (121.7 ± 3.82 ms, p b 0.001). Meanwhile,
+the difference between the mean T2 values of the contralateral
+hemisphere between 4 h (75.5 ± 2.37 ms) and 24 h (78.4 ±
+2.47 ms) was not signiﬁcant (p = 0.318).
+
+24 h; all of the CMBs were located in the ischemic cortex. In the
+remaining 2 rats, there were no CMBs detected on the SWI data.
+Compared with that at 4 h, the number of microbleeding rats and
+CMBs increased at 24 h. Fig. 5 showed that the 2 CMBs with
+diameters of 0.3 mm in one rat at 4 h increased to 0.4 mm and
+0.5 mm at 24 h. The other 11 newly appearing CMBs in 7 rats at 24 h
+included 1 with a diameter of 0.2 mm, 6 with a diameter of 0.3 mm,
+and 4 with a diameter of 0.4 mm. On the SWI (SWI images, SWI
+ﬁltered phase images and mIPs), a notably thickened vessel was
+observed on the ischemic side in each of the 7 rats (only 1 rat with
+CMBs) at 4 h, and it appeared at the same location in 6 rats of these 7
+rats (all with CMBs) at 24 h; this thickened vessel was not found in
+the identical region of the contralateral side (triangle in Fig. 4D). The
+2 CMBs in one rat at 4 h appeared near the thickened vessel (the
+CMBs and a thick vessel were in the same or adjacent slice); at 24 h,
+only 8 of 13 CMBs were observed in the same slice with the vessels.
+
+3.2. Cerebral microbleeds investigated by SWI at the time of BBB
+opening after ischemic injury
+
+3.3. Histopathological evaluation
+
+The CMBs were observed on SWI (SWI images, SWI ﬁltered phase
+images and mIPs) as shown in Fig. 4. At 4 h after the induction of
+ischemia, 2 CMBs were found in 1 MCAO rat; both CMBs were
+located in the ipsilateral ischemic cortex. In total, 13 CMBs (including
+the 2 CMBs detected at 4 h) were detected in 7 out of the 9 rats at
+
+The rat whole brain sections after H&E staining were microscopically examined, and signiﬁcant morphological differences were
+found between the ipsilateral and the contralateral hemispheres
+(Fig. 4E); 24 hours after ischemia, the volume of the ischemic rat
+brain tissue increased signiﬁcantly, and nuclear condensation and
+eosinophilic cytoplasmic staining were observed (Fig. 4E), which
+
+Fig. 3. T2WI, DWI/ADC images of the whole brain for a MCAO rat at 4 h and 24 h. The T2WI showed that cerebral injury was obvious at 24 h, as the signal intensity in the region of
+the ipsilateral hemisphere was higher than that in the contralateral hemisphere. The size of the region of DWI hyperintensity and ADC hypointensity increased from 4 h to 24 h,
+indicating that the cerebral injury was aggravated with ischemic duration.
+
+106
+
+Y. Jiang et al. / Magnetic Resonance Imaging 33 (2015) 102–109
+
+Fig. 4. A CMB that emerged at the ipsi-ischemic cortex at 24 h after the MCAO on a SWI slice (A, B, C, D) and a H&E section (E, F, G, H). (A) A typical CMB displayed as a clear, dark,
+spherical region of hypointensity in one slice of an SWI ﬁltered phase image. The rectangle in the ﬁgure (A) represents the ROI from B to D. (B) The same CMB (depicted in A)
+displayed in the phase image (arrow). (C) The same CMB (depicted in A and B) displayed in the SWI images matched with the phase image (arrow in C). (D) The same CMB
+(depicted in A, B and C) was close to a widening vessel (triangle in D) in the mIPs. Figure (E) is a section of whole brain of H&E staining. The left side of E (arrow-side)
+demonstrates the signiﬁcantly increased volume of ischemic rat brain tissue, nuclear condensation and eosinophilic cytoplasmic staining, comparing with the contralateral
+normal tissue pattern. Figure (F) shows a short and thick vessel (triangle in F) near the ventricle on the ipsilateral hemisphere, magniﬁcation = ×100. Around the thick vessel,
+comparing with the contralateral normal tissue of the ventricle, the MVD was increased. Figure (G) shows a typical CMB (arrow) examined at the region of ipsilateral cortex of
+(E) and the similar region of (B), magniﬁcation = ×100. Figure (H) shows the same CMB of (B) with a magniﬁcation = ×200. Blood clots (the long arrow in Fig. 4H) and single
+red-cells (the short arrow in Fig. 4H) frequently appeared inside the CMBs, and there were no vessels crossing the CMBs.
+
+was consistent with the T2WI images at 24 h. The result suggested
+that there was severe edema in the ischemic brain. The alterations in
+the ipsilateral cortex were reﬂected in the ROIs of the SWI data,
+where CMBs were signiﬁcantly observed (Fig. 4 G, H). However,
+some smaller scattered CMBs in the basal ganglia were not observed
+in the SWI data.
+Using the ventricle as a reference, no signiﬁcant difference was
+found in the non-ischemic contralateral hemisphere around the
+ventricle, while the apoptotic cells including eosinophilic cytoplasmic
+staining and nuclear condensation were observed in the ischemic
+ipsilateral hemisphere. Furthermore, shorter and thicker blood vessels
+at the region of the ipsilateral basal ganglia and increased microvessel
+density (MVD) in the ipsilateral hemisphere were observed (Fig. 4 F).
+
+4. Discussion
+On a serial MRI examination, ischemia in the rat brain changed
+with time after permanent MCAO. T2WI images showed slight
+
+hyperintensity at 4 h after permanent MCAO; after 24 h, the ischemic
+regions in the ischemic ipsilateral hemisphere had expanded
+considerably, and they all displayed hyperintensity. Measurements
+on the T2 maps also demonstrated that water content/edema
+formation in the ischemic hemisphere was signiﬁcantly elevated as
+the duration of ischemia increased compared with that in the
+contralateral hemisphere. Areas of hyperintensity on the DWI,
+corresponding to areas of hypointensity on the ADC maps, were
+evident in the ischemic ipsilateral hemisphere at the 4-h time point,
+and they involved more brain tissue than was detected on T2WI. The
+ability to differentiate hemosiderin from other tissues using the
+technique of SWI facilitated the successful detection of CMBs with a
+diameter as small as 0.2 mm as well as small thick vessels in the
+ischemic brain at 4 h and 24 h after the induction of ischemia.
+Histopathological studies conﬁrmed the MRI ﬁndings in the rat brain
+using T2WI and SWI.
+In our study, we used 9 rats to account for individual variability,
+and the reported results statistically reﬂect the differences detectable across the two time points. Moreover, the MRI data acquired at
+
+Y. Jiang et al. / Magnetic Resonance Imaging 33 (2015) 102–109
+
+107
+
+Fig. 5. The CMBs increased in number and size over time in the phase images. (A) and (C) were from two successive slices at 4 h, (E) and (G) were from two similar successive
+slices at 24 h after MCAO. (B), (D), (F) and (H) were the ROI from the rectangle frames represented in (A), (C), (E) and (G), respectively. (B) and (F) showed that the diameter of
+one CMB changed from 0.3 mm (arrow in B) at 4 h to 0.5 mm (arrow in F) at 24 h. (D) and (H) showed that the diameter of another CMB changed from 0.3 mm (the long arrow in
+D) at 4 h to 0.4 mm (the long arrow in H) at 24 h. Moreover, another two new CMBs (the short arrow in H) appeared around the previous CMB (described in D and H).
+
+the two different time points used exactly the same imaging protocol
+and localization on the same MRI scanner, which followed the
+popularly-used schema in the literature [6], we thus are conﬁdent
+with results in terms of test–retest reliability.
+4.1. CMBs located within the ischemic areas
+The ischemic signals were detected earlier and observed to
+involve more neuronal regions on DWI than that on the T2WI.
+Mainly due to the disruption of cell metabolism, the ischemic lesions
+ﬁrst cause cytotoxic edema and then lead to the swelling of the brain
+cells. In the case of cytotoxic edema, ischemia and hypoxia lead to
+membrane depolarization, and extracellular water molecules ﬂow
+into the cells, resulting in a decrease of the ADC; thus, the ADC may
+be a sensitive parameter during cytotoxic edema [14]. Subsequently,
+in the process of cerebral ischemia, the increase in the permeability
+of the damaged BBB causes intravascular ﬂuid ﬂow outside of the
+vessels, resulting in vasogenic brain edema. The reduction of the ADC
+occurs within minutes of the initiation of ischemia [15,16]. However,
+T2WI is sensitive to vasogenic edema. Besides the visual qualitative
+comparison of T2WI, DWI/ADC map, it has been previously
+conﬁrmed that quantitative T2-mapping can detect dynamic
+changes of water content in living tissues at different time points,
+which invariably reﬂects the state of the barrier function at the BBB
+[17]. Quantiﬁcation of edema formation in both hemispheres using
+T2-relaxometry over time further suggested that the T2-relaxometry
+of the ipsilateral ischemic hemisphere increased rapidly from 4 h to
+24 h. As DWI is more sensitive for the detection of infarction than
+traditional T2WI [18], it was understandable that the regions of ADC
+hypointensity covered more areas than the regions of T2
+hyperintensity. In addition, recent studies have proposed that
+CMBs are commonly characterized by a small volume without T2
+hyperintensity [19,20]; there were two rats with increased T2
+hyperintensity but without any CMBs, Therefore, these ﬁndings
+further implied that microbleeding and edema formation had no
+direct correlation, and other than using T2 hyperintensity as an
+indicator to assess the severity of brain injury, SWI could also
+demonstrate the individual difference in brain injury in both
+experimental and clinical settings.
+
+4.2. The relation between CMBs and BBB opening
+Acute stroke occurs commonly in cases of BBB damage, which
+emphasizes the permeability of the vessels. At the time of BBB
+opening, the structure and function of the BBB change dramatically.
+Active enzymes in the plasma enter the brain parenchyma, leading to
+ﬁbrinoid necrosis of the artery walls and an increase in endothelial
+permeability, which contributes to the possibility of blood
+extravasation of the small vessels.
+Previous studies have found that impairment of the BBB in MCAO
+accompanies damage to the microvasculature and parenchyma in
+the ipsilateral preoptic area, striatum, and cortex [21]. The CMBs
+found on SWI were concentrated in the ipsilateral cortex, and no
+CMBs were observed in the ipsilateral preoptic area or the striatum.
+This ﬁnding conﬁrms that the ischemic cortex is a bleeding-prone
+area. Notably, H&E staining showed some smaller CMBs scattered
+throughout the regions of the ipsilateral basal ganglia; the loss of
+CMB signals on SWI data cannot be ignored. In fact, a 3.0 T MR
+scanner is most suitable for human research; in the case of animal
+studies, restricted magnetic ﬁeld and signal-to-noise is insufﬁcient
+for clear demonstrations of very small lesions such as those induced
+in this study. When we observed the CMBs in the rat brains, we
+excluded all suspected and atypical signals; these signals may also
+include very small CMBs in the ipsilateral basal ganglia. Given the
+limitations of the 3.0 T MR scanner, a 7.0 T or 9.4 T MR scanner
+should be considered for further research.
+On the other hand, the number of CMBs detected in the ischemic
+ipsilateral hemisphere was closely related to the duration of the
+infarct and the severity of the ischemic injury. In fact, previous
+research indicates that the permeability of the BBB does not change
+during the initial 4 hours [15]; therefore, the ﬁnding that only 2
+CMBs appeared in 1 rat at 4 h is understandable, and it also
+suggested that the CMBs might not occur during the earlier phases of
+the infarct. However, at 24 h, 2 CMBs that were found at 4 h with a
+diameter of 0.3 mm had increased to diameters of 0.4 mm and
+0.5 mm, and 2 new CMBs emerged nearby in the same rat.
+Furthermore, 9 new CMBs were also found in the other 6 rats. This
+result suggested that the CMBs increased when the BBB damage was
+aggravated at the time of the second BBB opening. Moreover, the
+
+108
+
+Y. Jiang et al. / Magnetic Resonance Imaging 33 (2015) 102–109
+
+following are the most likely reasons that no CMBs appeared in the
+remaining 2 rats. First, there were individual differences in ischemic
+evolution. For the ﬁrst rat, the severity of ischemia did not increase
+from 4 h to 24 h, and there was no signiﬁcant difference in the ADC
+hypointensity presented at 4 h and 24 h. Second, there was a partial
+volume effect. For the second rat, the ADC hypointensity increased
+from 4 h to 24 h, similar to the other 7 rats; however, no CMBs
+emerged in the ischemic lateral cortex, and it was presumed that the
+CMBs may have been affected by the tissue thickness because the
+diameter of a CMB was smaller than the 1-mm slice thickness in this
+SWI examination.
+The SWI data displayed a distinct thick vessel in the ischemic
+hemisphere, which was not found in the corresponding region of the
+contralateral hemisphere. Collateral circulation and the formation of
+new blood vessels through angiogenesis after an ischemic stroke are
+most likely responsible for the thickening of the vessel. Coyle and
+Heistad [22] reported that sudden occlusion of the MCA in
+normotensive rats increased blood ﬂow by anastomosing branches
+into the territory of the occluded artery. Although it is impossible to
+completely avoid the ischemic infarction in the core regions, the full
+anastomosis compensation can prevent the progression of penumbra regions into infarcts. In this experiment, a nylon intraluminal
+suture was inserted from the ICA to embolize the PCA and MCA, and
+although it did not reach the ACA, it seriously affected its blood
+supply. Therefore, with some potential for collateral formation
+caused by focal cerebral ischemia, the blood ﬂow increases quickly.
+On the other hand, after cerebral ischemia, the formation of new
+blood vessels can occur, which was observed based on the
+appearance of increased MVD in penumbra of the cortex of ischemic
+rats [23,24]. The outcome of the shorter thick blood vessels at the
+region of ipsilateral basal ganglia and increased microvessel density
+(MVD) in the ipsilateral hemisphere on H&E sections (Fig. 4F)
+suggest the possibility of increased blood ﬂow. Because the vessel on
+the SWI mIP image is the projection of 8 slices, it is understandable
+that it is longer than the vessel presented on the H&E section. At 4 h
+after MCAO, a thick vessel that was not associated with the CMBs in
+the ischemic hemisphere of 6 rats, and only the third thick vessel
+associated with 2 CMBs, was observed in the ischemic hemisphere of
+one rat, indicating that widening of the vessels could occur earlier
+than CMB. It should be noted that based on visual assessment, 1 thick
+vessel at 4 h disappeared at 24 h. Based on the nuclear apoptosis on
+the H&E sections, this result may be inﬂuenced by the aggravation of
+the ischemia at 24 h, which induced ischemic structural and
+functional failure, and poor collateral circulation led to the persistent
+decline in blood ﬂow as a result of MCAO. Of the 13 CMBs, 5 were not
+close to the thick vessels, so it was not possible that they represented
+blood extravasation of the thick vessels; this implies that the
+ischemic brain tissues around the thick vessels had a high potential
+for microbleeding. Overall, SWI took advantage of ﬂow compensation and blood oxygenation level-dependent (BOLD) effects [25–27],
+validating its ability to detect the CMBs and nearby thick vessels.
+5. Conclusions
+SWI demonstrated the occurrence of CMBs at the time of BBB
+opening in an MCAO model of cerebral ischemia in rats. The SWI
+sequence has been conﬁrmed to be a sensitive practical approach for
+small CMB detection in the animal brain because of the susceptibility
+differences between hemosiderin and the background tissues. At
+24 h, which was presumed to correspond to the second BBB opening,
+the number and size of CMBs increased compared with those
+detected at 4 h after MCAO, indicating that the occurrence of CMBs
+was related to the duration of BBB opening, and it increased with
+ischemia severity. Overall, the CMBs and thick vessels in the rats
+with MCAO-induced stroke were successfully detected using SWI,
+
+suggesting that SWI measurement of CMBs can complement the
+prognosis and treatment of ischemic stroke with conventional MRI.
+In the future, additional studies should be conducted with larger
+numbers of MCAO rats at additional time points, as well as in other
+models of stroke, such as a reperfusion-based animal model of stroke,
+to obtain additional information regarding the pathophysiology
+of stroke.
+Acknowledgments
+This research was supported by the 12th Five-Year Plan supporting
+project of Ministry of Science and Technology of the People's Republic
+of China (grant no. 2013BAI10B03), an Open Foundation of Shanghai
+Key Laboratory of Magnetic Resonance, East China Normal University,
+and in part by China National Nature Science Foundation grants (grant
+no. 81471734 and grant no. 81471651).
+
+References
+[1] Liu PF, Cui YZ, Na J, Gao PY. Cerebral microbleeds — prevalence, distribution and
+risk factors in northeast population without preceding large-area stroke. Chin
+Med J 2010;123(3):286–90.
+[2] Ovbiagele B, Saver JL, Sanossian N, Salamon N, Villablanca P, Alger JR, et al.
+Predictors of cerebral microbleeds in acute ischemic stroke and TIA patients.
+Cerebrovasc Dis 2006;22:378–83.
+[3] Dichgans M, Holtmannspötter M, Herzog J, Peters N, Bergmann M, Yousry TA.
+Cerebral microbleeds in CADASIL: a gradient-echo magnetic resonance imaging
+and autopsy study. Stroke 2002;33:67–71.
+[4] Benbassat J, Baumal R, Herishanu Y. Treatment of acute ischemic stroke in
+patients with cerebral microbleeds: a decision analysis. Q J Med 2011;104:
+73–82.
+[5] Kidwell CS, Saver JL, Starkman S, Duckwiler G, Jahan R, Vespa P, et al. Late
+secondary ischemic injury in patients receiving intraarterial thrombolysis. Ann
+Neurol 2002;52:698–703.
+[6] Pillai DR, Dittmar MS, Baldaranov D, Heidemann RM, Henning EC, Schuierer G,
+et al. Cerebral ischemia–reperfusion injury in rats—a 3 T MRI study on biphasic
+blood–brain barrier opening and the dynamics of edema formation. J Cereb
+Blood Flow Metab 2009;29:1846–55.
+[7] Hiroyuki K, Masahiro I, Kimiaki I, Akira T, Yasuto I. Silent cerebral microbleeds on
+T2*-weighted MRI correlation with stroke subtype, stroke recurrence, and
+leukoaraiosis. Stroke 2002;33:1536–40.
+[8] Kidwell CS, Saver JL, Villablanca JP, Duckwiler G, Fredieu A, Gough K, et al.
+Magnetic resonance imaging detection of microbleeds before thrombolysis: an
+emerging application. Stroke 2002;33:95–8.
+[9] Viswanathan A, Chabriat H. Cerebral microhemorrhage. Stroke 2006;37:550–5.
+[10] Muhammad A, Alexander SB, Haacke EM, Wolff M, Kirsch, Daniel KK. Imaging
+cerebral microbleeds using susceptibility weighted imaging: one step toward
+detecting vascular dementia. J Magn Reson Imaging 2010;31(1):142–8.
+[11] Santhosh K, Kesavadas C, Thomas B, Gupta AK, Thamburaj K, Kapilamoorthy TR.
+Susceptibility weighted imaging: a new tool in magnetic resonance imaging of
+stroke. Clin Radiol 2009;64:74–83.
+[12] Longa EZ, Weinstein PR, Carlson S, Cummins R. Reversible middle cerebral artery
+occlusion without craniectomy in rats. Stroke 1989;20:84–91.
+[13] George P, Charles W. The rat brain in stereotaxic coordinates. 6th ed. London:
+Elsevier Inc.; 2009 LXIII.
+[14] Sotak CH. Nuclear magnetic resonance (NMR) measurement of the apparent
+diffusion coefﬁcient (ADC) of tissue water and its relationship to cell volume
+changes in pathological states. Neurochem Int 2004;45:569–82.
+[15] Benveniste H, Hedlund LW, Johnson GA. Mechanism of detection of acute
+cerebral ischemia in rats by diffusion- weighted magnetic resonance microscopy. Stroke 1992;23:746–54.
+[16] Liu KF, Li F, Tatlisumak T, Garcia JH, Sotak CH, Fisher M, et al. Regional variations
+in the apparent diffusion coefﬁcient and the intracellular distribution of water in
+rat brain during acute focal ischemia. Stroke 2001;32:1897–905.
+[17] Verheul HB, Berkelbach van der Sprenkel JW, Tulleken CA, Tamminga KS, Nicolay
+K. Temporal evolution of focal cerebral ischemia in the rat assessed by T2weighted and diffusion-weighted magnetic resonance imaging. Brain Topogr
+1992;5:171–6.
+[18] Wan YD, Zhang YT, Liu SL. Different MRI examination on early cerebral ischemia
+in rats. Chin J Med Imaging Technol 2004;20(6):841–3.
+[19] Tanaka A, Ueno Y, Nakayama Y, Takano K, Takebayashi S. Small chronic
+hemorrhages and ischemic lesions in association with spon-taneous intracerebral hematomas. Stroke 1999;30:1637–42.
+[20] Zhang L, Qi JP, Zhu WZ, Wang CY. MR susceptibility weighted imaging in the
+diagnosis of cerebral microbleeding. Radiol Pract 2009;24(1):19–21.
+[21] Zhang Z, Zhang RL, Jiang Q, Raman SB, Cantwell L, Chopp M. A new rat model of
+thrombotic focal cerebral ischemia. J Cereb Blood Flow Metab 1997;17:123–35.
+
+Y. Jiang et al. / Magnetic Resonance Imaging 33 (2015) 102–109
+[22] Coyle P, Heistad DD. Development of collaterals in the cerebral circulation. Blood
+Vessels 1991;28:183–9.
+[23] Zhang ZG, Zhang L, Tsang W, Soltanian-Zadeh H, Morris D, Zhang R, et al.
+Correlation of VEGF and angiopoietin expression with disruption of blood–brain
+barrier and angiogenesis after focal cerebral ischemia. J Cereb Blood Flow Metab
+2002;22:379–92.
+[24] Zhang ZG, Zhang L, Jiang Q, Zhang R, Davies K, Powers C, et al. VEGF enhances
+angiogenesis and promotes blood-brain barrier leakage in the ischemic brain.
+J Clin Invest 2000;106:829–38.
+
+109
+
+[25] Ding G, Jiang Q, Li L, Zhang L, Zhang ZG, Ledbetter KA, et al. Angiogenesis
+detected after embolic stroke in rat brain using magnetic resonance T2*WI.
+Stroke 2008;39:1563–8.
+[26] Reichenbach JR, Venkatesan R, Schillinger DJ, Kido DK, Haacke ME. Small-vessels
+in the human brain: MR venography with deoxyhemoglobin as an intrinsic
+contrast agent. Radiology 1997;204:272–7.
+[27] Jiang Q, Zhang ZG, Ding GL, Zhang L, Ewing JR, Wang L, et al. Investigation of
+neural progenitor cell induced angiogenesis after embolic stroke in rat using
+MRI. Neuroimage 2005;28:698–707.
+
+
