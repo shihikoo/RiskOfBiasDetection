@@ -1,1303 +1,0 @@
-Infarct Volume Prediction by Early Magnetic Resonance
-Imaging in a Murine Stroke Model Depends on Ischemia
-Duration and Time of Imaging
-Christoph Leithner, MD; Martina Füchtemeier, PhD; Devi Jorks, MD;
-Susanne Mueller, Dipl-Ing (FH); Ulrich Dirnagl, MD; Georg Royl, MD
-
-Downloaded from http://stroke.ahajournals.org/ by guest on October 4, 2016
-
-Background and Purpose—Despite standardization of experimental stroke models, final infarct sizes after middle cerebral
-artery occlusion (MCAO) vary considerably. This introduces uncertainties in the evaluation of drug effects on stroke.
-Magnetic resonance imaging may detect variability of surgically induced ischemia before treatment and thus improve
-treatment effect evaluation.
-Methods—MCAO of 45 and 90 minutes induced brain infarcts in 83 mice. During, and 3 and 6 hours after MCAO, we
-performed multiparametric magnetic resonance imaging. We evaluated time courses of cerebral blood flow, apparent
-diffusion coefficient (ADC), T1, T2, accuracy of infarct prediction strategies, and impact on statistical evaluation of
-experimental stroke studies.
-Results—ADC decreased during MCAO but recovered completely on reperfusion after 45 and partially after 90-minute
-MCAO, followed by a secondary decline. ADC lesion volumes during MCAO or at 6 hours after MCAO largely
-determined final infarct volumes for 90 but not for 45 minutes MCAO. The majority of chance findings of final infarct
-volume differences in random group allocations of animals were associated with significant differences in early ADC
-lesion volumes for 90, but not for 45-minute MCAO.
-Conclusions—The prediction accuracy of early magnetic resonance imaging for infarct volumes depends on timing of
-magnetic resonance imaging and MCAO duration. Variability of the posterior communicating artery in C57Bl6 mice
-contributes to differences in prediction accuracy between short and long MCAO. Early ADC imaging may be used to
-reduce errors in the interpretation of post MCAO treatment effects on stroke volumes.   (Stroke. 2015;46:3249-3259.
-DOI: 10.1161/STROKEAHA.114.007832.)
-Key Words: brain ◼ cerebral blood flow ◼ magnetic resonance imaging ◼ mice ◼ stroke
-
-E
-
-xperimental studies in models of disease are the underpinning of modern biomedicine. Worryingly, robustness, reproducibility, and thus predictiveness of experimental medicine have
-recently been questioned,1–3 a discussion which lead to a widespread concern about rigor in science (eg, Economist October
-19, 2013, "How science goes wrong"). Stroke research has been
-the epitome of these concerns because it experienced an almost
-complete failure to transfer successful treatments in experimental models of stroke to more effective treatment of patients at a
-grand scale.4 This apparent lack of predictiveness of biomedical
-research has been attributed to many factors, but poor experimental design, statistical quality, and bias feature top of the list.5–7
-In most animal stroke studies, the treatment effect is evaluated by statistical comparison of infarct sizes of treatment
-
-versus placebo groups. Group means are compared, and treatment is declared effective depending on a predefined type I
-error level (α), most commonly P<0.05. Notably, experimental stroke studies, in contrast to clinical stroke trials, almost
-never predefine criteria for the type II error (β). Given α and
-β, the acceptance of a treatment effect (ie, the rejection of
-the null hypothesis) depends on the effect size, which relates
-to a property of the experimental drug, and the variance of
-the measured infarct sizes, which relates to biological factors as much as to the properties of the model and its execution. A distinct advantage of experimental stroke models is
-that parameters with high variability in the clinical setting,
-such as onset, location and duration of vessel occlusion as
-well as timing of lesion size determination (eg, by magnetic
-
-Received October 29, 2014; final revision received August 25, 2015; accepted September 2, 2015.
-From the Department of Experimental Neurology, Charité Universitätsmedizin, Berlin, Germany (C.L., M.F., D.J., S.M., U.D., G.R.); Center for Stroke
-Research Berlin, Berlin, Germany (C.L., D.J., S.M., U.D., G.R.); NeuroCure Cluster of Excellence, Berlin, Germany (C.L., U.D.); German Center for
-Neurodegenerative Diseases (DZNE) (M.F., U.D.) and German Center for Cardiovascular Diseases (DZHK) (U.D.), Berlin site, Charitéplatz, Berlin,
-Germany; and Department of Neurology, University of Lübeck, Lübeck, Germany (G.R.).
-Guest Editor for this article was Miguel A. Perez-Pinzon, PhD.
-The online-only Data Supplement is available with this article at http://stroke.ahajournals.org/lookup/suppl/doi:10.1161/STROKEAHA.
-114.007832/-/DC1.
-Correspondence to Christoph Leithner, MD, Department of Experimental Neurology, Charité Universitätsmedizin, Charitéplatz 1, D-10117 Berlin,
-Germany. E-mail christoph.leithner@charite.de
-© 2015 American Heart Association, Inc.
-Stroke is available at http://stroke.ahajournals.org	
-
-DOI: 10.1161/STROKEAHA.114.007832
-
-3249
-
-3250  Stroke  November 2015
-
-Downloaded from http://stroke.ahajournals.org/ by guest on October 4, 2016
-
-resonance imaging [MRI]) can be standardized, potentially
-reducing variability of results. Despite these advantages, variability of infarct sizes is substantial, owing to the variability of the surgical procedure8,9 and interanimal variability of
-brain blood vessel anatomy10–12 among other factors. Because
-of the substantial infarct size variability (SDs usually ≈30%
-of the mean) and small group sizes (between 4 and 10) in
-experimental stroke research, it is likely that false-positive
-results and an overestimation of effect sizes abound in publications.6 At the same time, treatment effects may frequently
-remain undetected.
-What can we do to cope with the large variability of infarct
-sizes besides increasing group sizes and improving our experimental paradigm and skill of experimentalists? One approach
-would be to measure the early ischemic lesion volume before
-onset of treatment with noninvasive brain imaging and then
-compare early ischemic lesion volumes between treatment
-and placebo groups or infarct volumes predicted by early
-ischemic lesion volumes with those observed. Furthermore,
-pretreatment determination of early lesion volumes may allow
-unbiased exclusion of outliers, such as animals with failed
-middle cerebral artery occlusion (MCAO) or extreme variations of early ischemia volumes.
-Here, we tested whether a pretreatment MRI approach
-may be used to gain information on pretreatment ischemic
-lesion variability in a common murine stroke model and to
-what extent early ischemic lesions predict final infarct sizes.
-We characterized the early time courses of commonly used,
-widely available MRI parameters for 2 different MCAO durations and 3 early measurement time points. We subsequently
-used these data to evaluate the potential of pretreatment MRI
-to improve the analysis of experimental stroke treatment
-studies.
-
-Materials and Methods
-We performed all animal experiments in accordance with international guidelines. The local official committee approved all animal
-experiments (Landesamt für Arbeitsschutz, Gesundheitsschutz und
-technische Sicherheit, Berlin, Germany). Eighty-three males, 8- to
-10-week-old C57Bl/6 (Charles River, Sulzfeld, Germany) or 129S6/
-SvEv (BfR, Berlin, Germany) mice were used. All experiments
-were performed according to Standard Operating Procedures of the
-Department of Experimental Neurology.
-
-MCAO
-
-MRI and Image Processing
-Details on acquisition and processing of MRI are provided as onlineonly Data Supplement. Cerebral blood flow (CBF; a flow sensitive
-alternating inversion recovery protocol),13,14 apparent diffusion coefficient (ADC), and T1 and T2 MRI were acquired. Early lesion
-volumes were delineated by 2 raters blinded to final infarcts. Rater
-independent evaluation of early lesion volumes was performed for
-validation of rater-dependent results. Final infarcts were delineated
-on T2-weighted (T2w) images obtained 48 hours after MCAO.
-
-Infarct Probability Analysis and Contribution of
-Posterior Slices
-From T2w images at 48 hours, coregistered to a standard brain, we calculated maps, which show the percentage of animals exhibiting infarction
-for each voxel (Figure 2). In the following, we refer to these as spatial
-infarct frequency maps.15 As mice of the 45-minute MCAO group with
-MR during MCAO were SV129 and all other C57Bl/6, we restricted
-this analysis to the 4 groups with MRI 3 or 6 hours after MCAO.
-To evaluate the contribution of infarcts in posterior slices to variability of infarct sizes, we determined the contribution of infarct volumes
-of individual brain slices to the total infarct volume (infarct volume in
-single slices divided by total infarct volume, Figure 2, C1). The same
-analysis was performed for the contribution to the SD (Figure 2, C2).
-The number of animals needed to detect a difference in infarct volumes
-of 30% was calculated separately for all slices using mean and SD of
-infarct volumes of the respective slice (with α set to 0.05 and the power
-to 0.8, Figure 2, C3). To evaluate whether ADC measurement during
-MCAO could detect involvement of posterior slices, we analyzed the
-correlation of early ADC lesion volumes with final infarcts for slices ≈3
-to 5 mm from the rhinal fissure (Figure 2, C5, core MCA territory), versus ≈6 to 8 mm from the rhinal fissure (MCA/posterior cerebral artery
-[PCA] watershed and PCA territory, Figure 2, C6).
-
-Coefficient of Determination of Infarct Sizes by
-Early MRI Lesion Sizes
-We calculated the coefficients of determination (r2) of visually delineated lesion sizes for early MRI with T2w imaging at 48 hours for all
-groups. To assess reliability of this procedure, 2 raters, blinded to the
-results of each other, evaluated lesion sizes and coefficients of determination were compared. Animals with no infarct on T2w imaging at
-48 hours were excluded.
-
-Infarct Volume Prediction
-We determined receiver-operating characteristics (ROC) curves and
-calculated area under the curve (AUC) for the following prediction
-models: (1) early ADC lesion, (2) spatial infarct frequency, and (3) a
-combination of both. ROC curves were generated from infarct probability maps by calculating sensitivity and specificity of infarct prediction on a voxel-wise basis for each probability threshold. A detailed
-description of the calculation of infarct probability maps is provided
-
-Mice were placed on a heating pad and anesthetized with isoflurane
-in a mixture of oxygen and dinitrogen monoxide (N2O). A coated
-5.0-nylon monofilament was introduced into the left external carotid
-artery (ECA) and carefully advanced to the origin of the left MCA
-via the internal carotid artery. The common carotid artery as well as
-the ECA were ligated and remained occluded during reperfusion. A
-single, experienced surgeon performed MCAO.
-
-Experimental Groups
-To evaluate the effect of MCAO duration and timing of MRI on infarct prediction accuracy, we performed experiments on 6 experimental groups (Figure 1). MCAO durations of 45 and 90 minutes were
-chosen to induce moderate and large infarct sizes, respectively. MRI
-was performed during MCAO or at 3 or 6 hours after MCAO onset.
-Group sizes were 10 to 20 animals (Table I in the online-only Data
-Supplement).
-
-Figure 1. Experimental paradigm. Experiments were performed
-on 6 groups. Groups 1 to 3 were subjected to 90 minutes
-middle cerebral artery occlusion (MCAO) and groups 4 to 6 to
-45 minutes MCAO. Early magnetic resonance imaging (MRI) was
-performed either during MCAO (groups 1 and 4), 3 hours after
-MCAO (groups 2 and 5), or 6 hours after MCAO (groups 3 and
-6). T2-weighted MRI was performed at 48 hours after MCAO for
-lesion size determination in all groups.
-
-Leithner et al   Stroke Volume Prediction by Early MRI    3251
-
-Downloaded from http://stroke.ahajournals.org/ by guest on October 4, 2016
-
-Figure 2. Spatial infarct frequency maps and contribution of posterior slices. A, Spatial infarct frequency maps with color-coded percentages of mice exhibiting infarction for each voxel. White color indicates zero or negative difference. Note the small difference and low
-variability of lesions in anterior slices in the core middle cerebral artery (MCA) territory. B, The vascular supply of the mouse brain. The
-posterior cerebral artery (PCA) arises from the internal carotid artery (ICA). Therefore, blood supply to the PCA territory depends largely on
-the posterior communicating artery (PComA) during MCA occlusion (MCAO). The posterior slices that contain the PCA territory contribute
-less to the mean infarct volume (C1), but largely to the SD (C2). This results in a high number needed to detect a 30% treatment effect
-(at α =0.05 and power=0.8), if isolated slices would be analyzed (C3). Analyzing total infarct volumes (all slices together) yielded required
-sample sizes of ≈30 to 40 (15–20 animals per group). The difference of infarct volumes between 45 and 90 minutes MCAO is large in
-posterior slices (C4). Correlation for early apparent diffusion coefficient (ADC) with late T2 lesion is high for 90-minute MCAO in posterior
-slices (C6) compared with anterior slices (C5) indicating that early magnetic resonance imaging can predict involvement of posterior slices
-in the final infarct for 90 minutes, but not for 45-minute MCAO. ACA indicates anterior cerebral artery; BA, basilar artery; CCA, common
-carotid artery; ECA, external carotid artery; PPA, pterygopalatine artery; SCA, superior cerebellar artery; and SD, standard deviation.
-
-in the online-only Data Supplement. We did not apply the mismatch
-concept (prediction of lesion growth by mismatch between early
-ADC and CBF lesions) because early ADC lesions did not represent
-infarct core, our CBF method could not distinguish between benign
-oligemia and critical hypoperfusion on an individual animal basis and
-4 of our 6 groups had MRI after reperfusion.
-
-Analysis of the Impact on Treatment Effect
-Evaluation
-To illustrate possible effects of the variance in early ADC lesions on experimental stroke studies, we created an artificial 2 group design from
-our data by using permutations resulting in data sets with all possible
-assignments of animals of 1 of our experimental groups to 2 groups (eg,
-for division of 11 animals of experimental group 1 in 2 groups of 5 and
-6 animals, respectively, there are 462 different possible allocations):
-The T2w lesions at 48 hours of these 2 groups were then compared
-using a t test. If a significant difference was detected (P<0.05), this
-was considered a type I error, as all animals had been treated equally
-and the detected difference was, therefore, a chance finding. In case of
-a significant difference, we subsequently compared early ADC lesion
-volumes using a t test. If P<0.05 in this comparison, we considered that
-early MRI had identified a difference in early ADC lesion volumes as
-
-a confounder leading to a type I error. We used this simple approach to
-illustrate more intuitively the effect of early ADC lesion differences on
-chance findings of infarct sizes differences for different MCAO durations and MR measurement time points. For comparison of 2 small
-samples, Janusonis et al16 have suggested ANCOVA to correct for pretreatment baseline variability. We therefore added ANCOVA as an additional test to evaluate the impact of early ADC lesion volume.
-
-Results
-Lesion Sizes and Variability of Lesion Sizes
-Of 83 animals, 3 (3.6%) died before imaging at 48 hours and
-1 had artifacts on T2w imaging precluding reliable lesion volume determination at 48 hours. These 4 animals were excluded
-from further analysis. Of the remaining 79 animals, 8 (10%)
-had no T2w lesion at 48 hours, indicating failed MCAO.
-Excluding animals with failed MCAO reduced the coefficient
-of variation from 56% to 44% for 45-minute MCAO and from
-51% to 36% for 90-minute MCAO. Final lesion sizes along
-with SD and coefficient of variation are shown in Table I in
-the online-only Data Supplement.
-
-3252  Stroke  November 2015
-
-Downloaded from http://stroke.ahajournals.org/ by guest on October 4, 2016
-
-Of the 8 animals with no lesion, 4 had ADC imaging during MCAO and none of the 4 had an early ADC lesion. In contrast, all 24 animals with MRI during MCAO and infarcts at
-48 hours exhibited an early ADC lesion, indicating that early
-ADC can be used to exclude animals with failed MCAO. As
-evidenced by the reduction of coefficients of variation, exclusion of animals with failed MCAO improves statistical assessment of treatment studies.
-Figure 2 shows infarct probability maps for 45-minute
-MCAO, 90-minute MCAO, and the difference in infarct
-probability for these MCAO durations. The anterior slices
-covering the core MCA territory showed similar infarct areas
-with little variability. This is reflected in a high contribution of these slices to infarct volume and low contribution
-to SD (Figure 2, C1 and C2). In contrast, posterior slices
-contributed less to mean infarct volume, but substantially
-to SD of infarct volumes. Hence, analyzing single slices,
-the number needed to detect a significant difference in an
-experimental stroke study is low in anterior slices but much
-higher in posterior slices (Figure 2, C3). The difference in
-mean infarct volumes between 45- and 90-minute MCAO
-was low in anterior slices—7% ≈3 to 4 mm from the rhinal
-fissure—but increased to 81%, ≈9 mm from the rhinal fissure. The initial ADC lesion during MCAO correlated well
-with the ischemic T2w lesion at 48 hours in posterior slices
-for 90-minute MCAO, but not for 45-minute MCAO because
-most mice did not develop infarctions in the posterior slices
-
-despite substantial initial ADC lesions in the 45-minute
-MCAO group.
-
-Early MRI Characteristics
-In-group average MRI (coregistered to an average brain
-template) of early ADC, CBF, T1map, and T2w along with
-T2w images at 48 hours are shown in Figure I in the onlineonly Data Supplement. As visible on these images, ADC and
-CBF deliver discernable lesions in the early phase, whereas
-T2-weighted imaging shows pronounced hyperintense lesion
-areas at 48 hours after MCAO. The ADC lesion largely disappears at 3 hours after 45 minutes of MCAO. For 90-minute MCAO, a part of the ADC lesion recovers although ADC
-further decreases in the core MCA territory. The ADC lesion
-reappears at 6 hours after 45-minute MCAO.
-Figure 3 illustrates changes in lesion volume and absolute
-values of ADC and CBF in the early phase during or shortly
-after MCAO. ADC dropped to values below those of the nonischemic hemisphere within minutes after MCAO. Again,
-ADC lesion shrinkage at 3 hours and regrowth at 6 hours is
-visible. During reperfusion, at 3 hours after onset of MCAO,
-ADC had recovered completely (45-minute MCAO) or partly
-(90-minute MCAO, Figure 3; Figure II in the online-only Data
-Supplement).
-The complete recovery of ADC lesions at 3 hours after
-45-minute MCAO is reflected not only in visually determined
-lesion volumes and absolute ADC values of the ischemic
-
-Figure 3. Time courses of lesion volumes, absolute apparent diffusion coefficient (ADC) and cerebral blood flow (CBF). ADC exhibited
-large ischemic lesion volumes during middle cerebral artery occlusion (MCAO) with partial (90-minute MCAO) or complete recovery
-(45-minute MCAO, top). This is reflected in recovery of absolute ADC values for the ischemic hemisphere and in the area that later proceeded to infarction (middle). CBF was largely reduced during MCAO in the ischemic hemisphere, but recovered to ≈60% of the contralateral hemisphere after reperfusion. Of note, recovery of CBF did not significantly differ between the entire hemisphere and the area that
-later proceeded to infarction (bottom). T2w indicates T2 weighted.
-
-Leithner et al   Stroke Volume Prediction by Early MRI    3253
-
-Downloaded from http://stroke.ahajournals.org/ by guest on October 4, 2016
-
-hemisphere but also in the absolute ADC values in the region
-that later developed a T2w lesion (Figure 3, middle row)
-and in ADC histograms (Figure II in the online-only Data
-Supplement). At 6 hours after MCAO, ADC declined again
-in both groups (Figure 3; Figure II in the online-only Data
-Supplement). CBF was largely reduced during MCAO in the
-ischemic hemisphere and recovered only partly on reperfusion at 3 and 6 hours after onset of MCAO. The perfusion
-deficit persisting after removal of the thread that occludes the
-MCA is explained by the permanent occlusion of the common
-and ECA. Reperfusion occurs via collaterals, for example, the
-posterior and anterior communicating arteries. At 6 hours after
-MCAO, average hemispheric CBF reached ≈60% of the nonischemic hemisphere regardless of occlusion time. CBF within
-the later ischemic T2w lesion did not differ relevantly from
-CBF of areas, which did not proceed to infarction (Figure 3).
-This provides evidence that reperfusion in the MCA territory
-was complete to the degree possible when ECA and common
-carotid artery remain occluded. Furthermore, we found no
-relevant correlation of average hemispheric CBF with ADC
-values at 3 or 6 hours after MCAO. We have no clear explanation for the overall reduced CBF in group 2 compared with
-the other groups, but repetitive anesthesia with short recovery
-period may have contributed to this finding.
-
-Correlation of Early MRI With Final Infarcts
-To evaluate which parameter could best be used in the early
-evaluation of ischemia, visually determined lesion volumes of
-early ADC, CBF, T1map, and T2w imaging were compared
-with T2w lesion volumes determined 48 hours after MCAO.
-Lesion delineation was performed blinded to final infarcts.
-Correlation of early lesion sizes with T2w lesion sizes at 48
-hours was consistently high for MR during (r2=0.87 and 0.79
-for 2 raters, respectively) or at 6 hours (r2=0.85 and 0.78) after
-90-minute MCAO (Figure 4). There was a weak-to-moderate
-correlation of early ADC lesions with late T2w lesions for
-45-minute MCAO and measurement at 6 hours after MCAO
-(r2=0.35 and 0.54). Of note, when excluding animals with no
-T2w lesion at 48 hours, there was no significant correlation
-of ADC lesions during MCAO with T2w lesions at 48 hours
-for 45-minute MCAO. The other parameters did not correlate
-well with late T2w lesions for all time points. For CBF, the
-reason is most likely the fact that persisting occlusion of common carotid artery and ECA caused a persisting CBF reduction covering the entire hemisphere. T1map and T2w imaging
-did not show robust lesions in the early phase in our study.
-
-Infarct Prediction by Early MRI
-We evaluated 3 different models predicting infarction (T2w
-lesion at 48 hours) 3-dimensionally (3D) on a voxel-wise
-basis. ROC curves were determined for prediction via early
-ADC, spatial infarct frequency, and a combination of early
-ADC and spatial infarct frequency. Figure 5A shows the
-AUCs for different occlusion times, MRI measurement time
-points, and prediction models. AUCs were high (consistently
->0.90) for prediction by spatial infarct frequency or a combination of spatial infarct frequency and ADC. Prediction
-by early ADC alone was good for MRI during MCAO and
-
-at 6 hours after MCAO, with AUC values ≈0.8. In a further step, we calculated the root mean square deviation of
-predicted infarct volumes from measured infarct volumes
-for optimal infarction probability thresholds as determined
-from ROC curves. The results were compared with the root
-mean square deviation derived from linear regression analysis of visually obtained ADC lesion volumes (Figure 5B).
-The best prediction was obtained for visually determined
-ADC lesions for 90-minute MCAO when MRI was obtained
-during MCAO or at 6 hours after MCAO. At first glance,
-there is a discrepancy between highest AUC (Figure 5A) for
-prediction via spatial infarct frequency maps and the smallest root mean square deviation obtained from linear regression analysis of visually determined ADC lesions. However,
-this is explained by the fact that voxels with equal ADC
-may or may not proceed to infarction, which reduces AUC
-for a voxel-wise prediction model. However, if the number
-of voxels that proceed to infarction despite normal ADC (or
-number of voxels which recover despite reduced ADC) is
-proportional to the final infarct, prediction by linear regression can still perform well. Furthermore, it has to be kept in
-mind that AUC depends equally on sensitivity and specificity. In a model that produces small infarcts, ROC analysis
-may suggest a good prediction if infarcts sizes are generally
-overestimated, as sensitivity will be high, but specificity
-not much reduced because of a high number of voxels correctly identified not to proceed to infarction (true negatives).
-Then, the root mean square deviation of predicted infarcts
-may nevertheless be relatively high with respect to average
-infarct volume.
-
-Figure 4. Coefficients of determination of final infarct. The figure shows coefficients of determination (r2) for the final infarct
-(T2-weighted [T2w] lesion at 48 h) by early magnetic resonance
-imaging for visual lesion delineation by 2 independent raters
-(left and right), blinded to the groups, final infarct sizes, and
-the results of each other while delineating the lesions. A high
-coefficient of determination for final infarct size was observed
-consistently among raters for apparent diffusion coefficient (ADC)
-lesions evaluated during or at 6 hours after 90 minutes middle
-cerebral artery occlusion (MCAO). For 45 minutes MCAO, the
-coefficients of determination were weak to moderate. When
-measured 3 hours after MCAO, early ADC lesions did not correlate well with final infarct size. White fields indicate no delineable
-lesion in that particular measurement sequence. CBF indicates
-cerebral blood flow.
-
-3254  Stroke  November 2015
-
-Downloaded from http://stroke.ahajournals.org/ by guest on October 4, 2016
-
-Figure 5. Comparison of prediction models. A, Results of receiver-operating characteristics analysis. ADC pixelw. denotes voxelwise
-prediction of infarct probability using a combination of visually determined apparent diffusion coefficient (ADC) lesion with absolute ADC
-values. spat. inf. denotes prediction by spatial infarct frequency. Combined denotes infarct probability prediction by a combination of
-ADC and spatial infarct frequency. B, The relative root mean square deviation for prediction models used in A plus prediction of infarct
-sizes via visually determined ADC lesion and regression analysis (ADC visual). Root mean square deviation denotes the square root of the
-mean squared difference between predicted and measured infarct volume divided by the mean infarct volume. Error bars denote SDs.
-MCAO indicates middle cerebral artery occlusion.
-
-Impact on the Evaluation of Treatment Effects in
-Experimental Stroke Studies
-By simulation we assessed, whether early MRI may identify
-differences in early ischemic lesion volumes as a confounder
-for differences in final infarct sizes. To this end, all theoretically possible ways of partitioning 1 experimental group (ie,
-from 1 population) into 2 groups (samples) were tested for a
-chance finding of a significant difference of T2w lesion sizes
-at 48 hours (ie, falsely concluding that the 2 samples come
-from different populations). The results are shown in Table.
-For example, group 1 (MCAO 90 minutes and MRI during
-MCAO) contained 11 animals and thus 462 different divisions
-in 2 groups of 5 and 6 animals, respectively, were possible. A
-t test revealed a significant difference (P<0.05) of T2w lesions
-sizes in 23 (5.0%) of these 462 possible divisions. As the animals came from the same population, these represent chance
-findings of a treatment effect.
-In case of significant chance findings, we evaluated further
-the impact of early ADC to the finding by (1) a t test comparing early ADC lesion volumes and (2) ANCOVA with early
-ADC lesion volumes as covariate.16
-In 15 of these 23 cases, early ADC lesions were significantly different, thus indicating that the detected difference
-at 48 hours was because of a difference of the early ischemic
-lesion. ANCOVA failed to confirm allocation treatment effect
-in the majority and indicated a significant effect of early ADC
-
-on final infarct volume in all 23 cases. Using these strategies,
-significant confounding by early ADC was present and after
-adjustment for confounding, significant group differences disappeared in the majority of cases for groups 1 and 3, but not
-for the other groups (Table).
-
-Discussion
-The main findings of our study are: (1) ADC decreases within
-minutes during transient MCAO in mice, but shows a triphasic
-time course with full or partial recovery after reperfusion and
-secondary decline within a few hours, depending on duration
-of MCAO. The secondary decline in ADC is not paralleled by
-a secondary decline in CBF. (2) In C57/bl6 mice, the posterior
-slices covering MCA/PCA watershed and PCA territory have
-a major contribution to infarct size variability and infarct size
-differences between 45- and 90-minute MCAO. (3) Accuracy
-of infarct size prediction using ADC depends strongly on timing of MRI and duration of MCAO. Early ADC lesion volumes during MCAO and at 6 hours after MCAO accurately
-predict infarct volumes for 90 minutes MCAO. (4) Chance
-findings of infarct volume differences can be explained by differences in early ADC lesion volume for 90-minute MCAO,
-but not for 45-minute MCAO. Hence, depending on MCAO
-duration and timing of MRI, one potential confounder leading
-to type I errors in treatment effect evaluation may be identified
-using early ADC imaging.
-
-Leithner et al   Stroke Volume Prediction by Early MRI    3255
-Table. 
-
-Random Division of 1 Experimental Group in 2 Groups and Comparison Of Infarct Sizes
-Group 1
-
-MCAO duration, min
-MRI timing
-
-Group 2
-
-Group 3
-
-Group 4
-
-Group 5
-
-Group 6
-
-90
-
-90
-
-90
-
-45
-
-45
-
-45
-
-During MCAO
-
-3 h after MCAO
-
-6 h after MCAO
-
-During MCAO
-
-3 h after MCAO
-
-6 h after MCAO
-
-No. of animals
-
-11
-
-9
-
-10
-
-13
-
-13 (18)*
-
-10
-
-No. of permutations (possible allocations in 2 groups)
-
-462
-
-126
-
-126
-
-1716
-
-1716
-
-126
-
-No. of P<0.05 for comparison of T2w lesion volumes
-at 48 h
-
-23 (5.0%)
-
-5 (4.0%)
-
-6 (4.8%)
-
-87 (5.1%)
-
-89 (5.2%)
-
-6 (4.8%)
-
-No. of P<0.05 for comparison of initial ADC lesions
-if difference in 48 h T2w lesions was significant
-
-15/23 (65%)
-
-0/5 (0%)
-
-4/6 (67%)
-
-2/87 (2.3%)
-
-0/89 (0%)
-
-0/6 (0%)
-
-No. of significant effects for group in ANCOVA if
-difference in T2w lesions at 48 h was significant
-
-4/23 (17%)
-
-4/5 (80%)
-
-0/6 (0%)
-
-61/87 (70%)
-
-53/89 (60%)
-
-6/6 (100%)
-
-23/23 (100%)
-
-1/5 (20%)
-
-4/6 (67%)
-
-2/87 (2.3%)
-
-12/89 (13%)
-
-2/6 (33%)
-
-No. of significant effects for early ADC in ANCOVA
-if difference in T2w lesions at 48 h was significant
-
-Downloaded from http://stroke.ahajournals.org/ by guest on October 4, 2016
-
-As expected, this yielded significant effects (by chance) in ≈5% of possible allocations (simulating a type-I error, the absolute number is shown in row 6). In case of
-a chance finding of a significant difference, further tests were performed: for the majority of cases, early ADC lesion volumes differed significantly (t test) in groups 1
-and 3, but not in the other groups (row 7). ANCOVA failed to confirm an effect of group (ie, the putative treatment effect) in the majority of cases in groups 1 and 3, but
-confirmed it in the other groups. ANCOVA confirmed an effect of ADC in the vast majority of cases for groups 1 and 3. ADC indicates apparent diffusion coefficient; MCAO,
-middle cerebral artery occlusion; MRI, magnetic resonance imaging; and T2w, T2 weighted.
-*In group 5, 13 of 18 animals were randomly selected for analysis.
-
-Characteristics of Early MRI in Mouse Stroke
-The observed triphasic ADC time course with an initial rapid
-decline, followed by recovery after reperfusion and secondary decline within hours confirms earlier reports in rats.17–21
-Full recovery of ADC at 3 hours after MCAO onset has been
-reported for MCAO duration of 8 to 30 minutes in rats and
-mice.22–24 Of note, this does not reflect complete tissue recovery, as MR spectroscopy may still detect significant changes
-in neurochemical profiles.22,25 The initial as well as the secondary decline of ADC has been shown to be associated with ATP
-depletion but not secondary deterioration of perfusion in rats.26
-Our CBF data at 6 hours after reperfusion (Figure 3; Figure II
-in the online-only Data Supplement) confirm this notion for
-mice. Reperfusion was not relevantly different in areas proceeding to infarction when compared with those that did not.
-This indicates complete reperfusion to the degree possible
-with persisting common and external carotid artery occlusion
-(with CBF at ≈60% of the contralateral hemisphere). We cannot rule out the possibility, however, that the persisting hypoperfusion, although safely above levels of immediate ischemic
-threat, may have contributed to secondary ischemic damage.
-ADC recovery was largely complete 3 hours after MCAO
-onset for 45-minute MCAO (Figure 3; Figure II in the onlineonly Data Supplement). This may indicate almost exclusive secondary ischemic damage (with temporary restoration of energy
-metabolism and reversal of cytotoxic edema after reperfusion)
-for this occlusion duration. A similar ADC time course (with
-temporary ADC recovery) has been demonstrated in patients
-with stroke undergoing successful intra-arterial thrombolysis.27
-Interestingly, ADC reversal28,29 as well as ADC lesion growth30
-have both been well described in human stroke studies using
-MRI, but reports on secondary ischemic injury after early ADC
-reversal are rare. This may be because of imaging protocols of
-stroke studies, which do not include repetitive MRI in the first
-hours after reperfusion. Hence, temporary ADC reversal may
-simply occur undetected. However, it could also indicate that
-secondary ischemic damage after initial temporary restoration
-
-of energy metabolism is less frequently encountered as pathophysiological sequence in patients with stroke when compared
-with experimental stroke studies.
-The reversal of ADC on reperfusion has implications for
-infarct prediction: although ADC lesion volumes determined
-during 90-minute MCAO accurately predicted T2w ischemic
-lesions at 48 hours, ADC reversal largely prohibited infarct
-prediction by ADC when lesions were determined at 3 hours
-after MCAO onset. Secondary ADC decline again permitted
-accurate prediction when ADC lesions were determined 6
-hours after 90-minute MCAO (Figure 4). The time course of
-ADC after reperfusion has to be taken into account when planning an experimental stroke study that includes infarct prediction via early ADC measurement. Our data on 45-minute
-MCAO indicate that accurate prediction of infarct sizes may
-not be possible for short occlusion times. One tempting interpretation is that for short occlusion times, variability of pathophysiological events leading to secondary ischemic damage
-but not initial ischemic lesion volumes determine final infarct
-volume variability.
-
-Involvement of Posterior Slices/PCA Territory
-In contrast to most humans, the PCA is supplied via the internal carotid artery in mice. As ECA, common carotid artery,
-and MCA are occluded in the most commonly used MCAO
-models, tissue fate in the PCA territory depends on collateral
-supply from the posterior communicating artery (Figure 2)
-and details of the MCAO model used.31 The high variability
-of the posterior communicating artery calibre and patency in
-C57Bl/6 mice32 explains our observation of high variability of
-infarct volumes in posterior slices (Figure 2). This observation
-is also in line with studies demonstrating large SDs compared
-with mean infarct volumes in posterior slices in mice.11,33,34
-Evaluating only anterior slices in experimental stroke studies may, therefore, improve treatment effect detection, if the
-evaluated treatment effect equally reduces infarct volumes in
-anterior when compared with posterior slices. However, in our
-
-3256  Stroke  November 2015
-study the difference in anterior slice infarct volumes between
-45- and 90-minute MCAO was low compared with posterior
-slices. This may indicate that the time course of ischemic
-damage is different for the PCA/MCA watershed and PCA
-territory in our MCAO model. A potential explanation is that
-collateral flow via the posterior communicating artery may be
-sufficient to prevent permanent ischemic damage commonly
-in 45-minute MCAO but variably in 90-minute MCAO, in line
-with results reported by McColl et al.35 It could be that not
-only variability of infarct volumes in control groups but also
-neuroprotective treatment effects are larger in the posterior
-slices in the MCAO model. Our data therefore indicate that
-posterior slices should routinely be evaluated in experimental
-stroke treatment studies in mice.
-
-Infarct Prediction Strategies
-Downloaded from http://stroke.ahajournals.org/ by guest on October 4, 2016
-
-We compared 2 different infarct prediction strategies: voxelwise prediction using ROC analysis and prediction by linear
-regression analysis of lesion volumes. AUC values from ROC
-analysis in our study were largely in line with previous reports
-for prediction by early ADC or a combination of early ADC
-with spatial infarct frequency data in rats.15,36–38 Interestingly,
-prediction by spatial infarct frequency alone yielded AUCs
-consistently higher than those determined from early ADC.
-One shortcoming of our study, which may contribute to this
-finding, is the fact that we measured T2w lesions 48 hours after
-MCAO, when significant edema was noted for large infarcts
-(42±12 μL, ≈20% of the average volume of a hemisphere,
-for 90-minute MCAO). Infarct prediction by spatial infarct
-frequency alone as judged by AUC was also superior for
-45-minute ischemia, where the average volume of edema was
-lower (21±12 μL). A factor that might have decreased prediction accuracy by early MRI is inaccuracy of coregistration of
-early MRIs with T2w images at 48 hours. Of note, an almost
-perfect correlation has been demonstrated between infarcts
-determined by T2w MRI at 48 hours and triphenyltetrasodiumchloride histology (r=0.94)39 and T2w images between 48
-and 168 hours after MCAO and hematoxylin/eosin histology
-(r=0.98).40 We found an almost perfect correlation of edema
-with infarct volume, indicating that edema did not relevantly
-reduce infarct size prediction by linear regression.
-To our knowledge, previous reports have not published
-AUCs derived form spatial infarct frequency prediction alone
-(a strategy that does not use early MRI). Our data indicate that
-prediction via early MRI does not necessarily outperform prediction by spatial infarct frequency, which can be generated
-from late MR or histology without the need for early MRI.
-However, as equal infarct volumes are then predicted for all
-animals, there is no correlation of predicted with measured
-infarct volumes for this approach.
-We found that linear regression of visually determined
-ADC lesions achieved the smallest root mean squared deviations of predicted from measured infarct volumes for 90-minute MCAO when MRI was performed during MCAO or at
-6 hours after MCAO (Figure 5B). This finding was consistent between 2 independent raters blinded to final lesions and
-experimental group. This indicates that depending on MCAO
-duration, MRI time point and prediction model, regression
-
-analysis of early with late lesion sizes may be superior to
-voxel-wise prediction by ROC analysis. One possible explanation is that the volume with initially normal ADC that proceeds to infarction as well as the volume of initially decreased
-ADC that does not proceed to infarction is correlated to final
-lesion volume. Although ROC would classify these volumes
-as false-negative or false-positive, thereby decreasing sensitivity, specificity, and AUC, the prediction accuracy by regression analysis may not be relevantly reduced.
-
-Type-I Errors and Early MRI
-Our study suggests that depending on MCAO duration and
-timing of MRI, early ADC lesion volume determination
-could contribute to avoiding type I errors. We evaluated this
-by randomly allocating animals of 1 experimental group to 2
-groups and testing for a chance finding of a significant infarct
-volume difference. We found such differences for 5% of possible allocations, as expected at a significance level of 0.05
-(Table). For 90-minute MCAO and MRI during MCAO or at
-6 hours after MCAO, in about two thirds of such chance findings of final infarct volume differences, early ADC volumes
-also exhibited significant differences. ANCOVA confirmed an
-effect of group in only a small minority of these cases and
-indicated an effect of early ADC lesion volumes in nearly all
-(Table). Thus, in a treatment study with no effect of the treatment, early MRI would have indicated that chance differences
-in early ischemic lesion volume had confounded final infarct
-volume differences in 90-minute MCAO groups with MRI
-performed during or at 6 hours after MCAO.
-In contrast, for 45-minute MCAO, chance findings of final
-infarct volume differences could not be uncovered by early
-ADC imaging reliably (Table). One possible explanation may
-be derived from our 3D analysis of infarct volumes. ADC
-lesions variably detected in posterior slices during 45-minute MCAO frequently did not exhibit infarctions at 48 hours
-(Figure 2, C6), in contrast to animals with 90-minute MCAO.
-Correlation of infarct sizes with early ADC lesions in 45-minute MCAO was also weak in the anterior slices. Thus, variability of transformation of an early ADC lesion into final infarct
-beyond 6 hours after transient ischemia may play a larger role
-for 45-minute MCAO than for 90-minute MCAO and this cannot be detected by early ADC imaging.
-
-Implications for Experimental Stroke Studies
-Our results do not argue for routine early MRI in experimental stroke studies. However, our data indicate that early imbalances in ischemic lesion volumes are a major source of type I
-errors for long duration MCAO. Thus, detecting differences in
-early ischemic lesion volumes may help to reduce these errors
-and could be used as one tool among others to improve quality
-of experimental stroke studies. Although imbalances in early
-ischemic lesion volumes can also contribute to type I errors for
-short MCAO, our data indicate that other factors may play a
-larger role. Thus, early MRI is less promising for experimental
-stroke studies with short occlusion times. When MCAO duration is short enough to leave some animals with no infarction
-despite successful occlusion of the MCA, early MRI may still
-be used to confirm successful MCAO. However, confirming
-
-Leithner et al   Stroke Volume Prediction by Early MRI    3257
-successful MCAO may also be done more easily using LaserDoppler-Flowmetry. Our data show that reduction of variability
-by exclusion of animals with failed MCAO can be substantial.
-In any case, if MRI is performed for other reasons before
-treatment, ADC imaging may be added and timing may be
-adapted to enable evaluation of early ADC lesion volumes.
-When performed during MCAO, the confounding factor of
-anesthesia necessary for MRI can be minimized by rapid
-transfer to the MR scanner after MCAO and a short imaging
-protocol. Finally, early MRI may deliver important information in experimental stroke studies with relevant mortality.
-In these studies, early ADC can clarify whether deaths were
-related to infarct size and thus help to improve interpretation
-of a potential treatment effect in surviving animals.
-
-Weaknesses of Our Study
-Downloaded from http://stroke.ahajournals.org/ by guest on October 4, 2016
-
-We started performing the experiments in SV129 mice (group
-4), but had to switch to C57Bl/6 mice for logistical reasons.
-Hence, the results of this group have to be compared with
-the other groups with care. It has been shown that infarct
-volumes and cerebrovascular anatomy vary with genetic
-background11,12 and larger infarcts have been observed in the
-C57Bl/6 compared with the SV129 strain.41 However, a study
-by Pham et al found no differences of infarct sizes, ADC, or
-CBF at any time point between SV129 and C57Bl/6 mice after
-transient MCAO.42
-MRI was performed using isoflurane anesthesia for noninvasiveness and easier handling of animals. Isoflurane can
-increase CBF13 and reduce infarct sizes. It cannot be excluded
-that a substantial CBF increase alters the ADC time course
-and that altered ADC time courses or infarct volumes influence the accuracy of infarct prediction using early ADC measurements. This may increase or decrease prediction accuracy.
-When applying our protocol to experimental studies, it should
-therefore be kept in mind that anesthesia may influence the
-correlation between early ADC lesions and final infarcts.
-We measured T2w lesion sizes 48 hours after MCAO
-onset. Although determination of the infarct volume at this
-time point enabled low mortality (only 3 mice died before 48
-hours after MCAO), significant edema was noted. This may
-have contributed to inaccuracy of voxel-by-voxel infarct prediction by early ADC. Infarct determination at a later time
-point, or a more sophisticated coregistration procedure could
-have reduced this error. Correction of lesion sizes for edema
-did not significantly alter infarct size prediction by linear
-regression analysis, as edema volume was highly correlated
-with infarct volume (r2=0.93).
-We used simple prediction models that are easy to implement but may be less accurate when compared with more
-sophisticated models. Using complex mathematical analyses (artificial neural networks and support vector machines),
-Huang et al15 demonstrated increased prediction accuracy in
-rats when combining CBF, ADC, and spatial infarct frequency
-information. In line with our study, prediction was more
-accurate for ADC than for CBF and accuracy increased with
-MCAO duration.38 Desai et al43 showed that prediction could
-be improved by measuring ADC changes at multiple time
-points. Wu et al37 and Bouts et al44 found high prediction accuracy in rats using a general linear model combining perfusion
-
-and diffusion information. Christensen et al45 have demonstrated increased prediction accuracy of perfusion imaging by
-more sophisticated CBF parameter analysis.
-Our goal was not to achieve the highest AUC for a voxel-byvoxel infarct prediction model. Rather, we aimed at most accurately predicting overall infarct sizes (with accuracy defined as
-lowest difference between predicted and measured infarct sizes).
-Our data show that highest AUC does not necessarily translate
-in minimal mean difference between predicted and measured
-infarct sizes. In contrast, although infarct prediction by spatial
-infarct frequency yielded high AUCs comparable with those of
-sophisticated prediction models for rats,15,37,38 the mean difference
-between predicted and measured infarct sizes was smaller when
-prediction was simply derived from linear regression for visually
-determined early ADC lesions. These arguments notwithstanding
-improvements in MRI measurement and prediction algorithms
-can further strengthen the potential for early MRI to improve the
-statistical evaluation of experimental stroke studies.
-
-Summary
-Despite standardized procedures in animal experiments,
-infarct sizes show considerable variability in the intraluminal
-thread model in mice. This variability is larger in the posterior parts of the brain in C57Bl/6 mice, most likely because
-of variability of the posterior communicating artery territories. Early MRI may be used to partly control this variability.
-ADC is the most promising parameter. The accuracy of early
-ADC lesions to predict final infarcts depends on the timing of
-MRI and duration of MCAO. Our data suggest that accuracy is
-highest for MRI during or at 6 hours after 90-minute MCAO.
-Transient ADC recovery precludes accurate infarct prediction
-by ADC for a few hours after reperfusion, and infarct prediction is less accurate for shorter occlusion times.
-Prediction of final infarct volumes using early ADC measurement may be used to improve power of experimental
-designs, specifically by detecting imbalances in early ischemic lesion volumes, by excluding animals with failed MCAO
-from further analysis and by improving the evaluation of treatment studies with relevant mortality.
-
-Acknowledgments
-We thank Marco Foddis for excellent MCAO surgery.
-
-Sources of Funding
-This study was supported by the European Union’s Seventh
-Framework Programme (FP7/2008–2013) under grant agreements
-no. 201024 and no. 202213 (European Stroke Network), and the
-German Ministry for Health and Education (Bundesministerium für
-Bildung und Forschung [BMBF]).
-
-Disclosures
-None.
-
-References
-	 1.	 Dirnagl U. Bench to bedside: the quest for quality in experimental stroke
-research. J Cereb Blood Flow Metab. 2006;26:1465–1478. doi: 10.1038/
-sj.jcbfm.9600298.
-	 2.	 Prinz F, Schlange T, Asadullah K. Believe it or not: how much can we
-rely on published data on potential drug targets? Nat Rev Drug Discov.
-2011;10:712. doi: 10.1038/nrd3439-c1.
-
-3258  Stroke  November 2015
-
-Downloaded from http://stroke.ahajournals.org/ by guest on October 4, 2016
-
-	 3.	 Begley CG, Ellis LM. Drug development: raise standards for preclinical
-cancer research. Nature. 2012;483:531–533. doi: 10.1038/483531a.
-	 4.	 O’Collins VE, Macleod MR, Donnan GA, Horky LL, van der Worp BH,
-Howells DW. 1,026 experimental treatments in acute stroke. Ann Neurol.
-2006;59:467–477. doi: 10.1002/ana.20741.
-	 5.	 Ioannidis JP. Why most published research findings are false. PLoS Med.
-2005;2:e124. doi: 10.1371/journal.pmed.0020124.
-	 6.	 Button KS, Ioannidis JP, Mokrysz C, Nosek BA, Flint J, Robinson ES,
-et al. Power failure: why small sample size undermines the reliability
-of neuroscience. Nat Rev Neurosci. 2013;14:365–376. doi: 10.1038/
-nrn3475.
-	 7.	Howells DW, Sena ES, Macleod MR. Bringing rigour to translational medicine. Nat Rev Neurol. 2014;10:37–43. doi: 10.1038/
-nrneurol.2013.232.
-	 8.	Kanemitsu H, Nakagomi T, Tamura A, Tsuchiya T, Kono G, Sano
-K. Differences in the extent of primary ischemic damage between
-middle cerebral artery coagulation and intraluminal occlusion
-models. J Cereb Blood Flow Metab. 2002;22:1196–1204. doi:
-10.1097/00004647-200210000-00007.
-	 9.	 Chen Y, Ito A, Takai K, Saito N. Blocking pterygopalatine arterial blood
-flow decreases infarct volume variability in a mouse model of intraluminal suture middle cerebral artery occlusion. J Neurosci Methods.
-2008;174:18–24. doi: 10.1016/j.jneumeth.2008.06.021.
-	10.	Barone FC, Knudsen DJ, Nelson AH, Feuerstein GZ, Willette RN.
-Mouse strain differences in susceptibility to cerebral ischemia are related
-to cerebral vascular anatomy. J Cereb Blood Flow Metab. 1993;13:683–
-692. doi: 10.1038/jcbfm.1993.87.
-	 11.	 Maeda K, Hata R, Hossmann KA. Differences in the cerebrovascular anatomy of C57black/6 and SV129 mice. Neuroreport. 1998;9:1317–1319.
-	 12.	 Zhang H, Prabhakar P, Sealock R, Faber JE. Wide genetic variation in
-the native pial collateral circulation is a major determinant of variation
-in severity of stroke. J Cereb Blood Flow Metab. 2010;30:923–934. doi:
-10.1038/jcbfm.2010.10.
-	 13.	 Leithner C, Gertz K, Schröck H, Priller J, Prass K, Steinbrink J, et al.
-A flow sensitive alternating inversion recovery (FAIR)-MRI protocol to
-measure hemispheric cerebral blood flow in a mouse stroke model. Exp
-Neurol. 2008;210:118–127. doi: 10.1016/j.expneurol.2007.10.003.
-	14.	 Leithner C, Müller S, Füchtemeier M, Lindauer U, Dirnagl U, Royl
-G. Determination of the brain-blood partition coefficient for water in
-mice using MRI. J Cereb Blood Flow Metab. 2010;30:1821–1824. doi:
-10.1038/jcbfm.2010.160.
-	15.	 Huang S, Shen Q, Duong TQ. Artificial neural network prediction of
-ischemic tissue fate in acute stroke imaging. J Cereb Blood Flow Metab.
-2010;30:1661–1670. doi: 10.1038/jcbfm.2010.56.
-	 16.	 Janusonis S. Comparing two small samples with an unstable, treatmentindependent baseline. J Neurosci Methods. 2009;179:173–178. doi:
-10.1016/j.jneumeth.2009.01.017.
-	 17.	 Dijkhuizen RM, Knollema S, van der Worp HB, Ter Horst GJ, De Wildt
-DJ, Berkelbach van der Sprenkel JW, et al. Dynamics of cerebral tissue injury and perfusion after temporary hypoxia-ischemia in the rat:
-evidence for region-specific sensitivity and delayed damage. Stroke.
-1998;29:695–704.
-	18.	 van Lookeren Campagne M, Thomas GR, Thibodeaux H, Palmer JT,
-Williams SP, Lowe DG, et al. Secondary reduction in the apparent diffusion coefficient of water, increase in cerebral blood volume, and delayed
-neuronal death after middle cerebral artery occlusion and early reperfusion in the rat. J Cereb Blood Flow Metab. 1999;19:1354–1364. doi:
-10.1097/00004647-199912000-00009.
-	 19.	 Shen Q, Fisher M, Sotak CH, Duong TQ. Effects of reperfusion on ADC
-and CBF pixel-by-pixel dynamics in stroke: characterizing tissue fates
-using quantitative diffusion and perfusion imaging. J Cereb Blood Flow
-Metab. 2004;24:280–290. doi: 10.1097/01.WCB.0000110048.43905.
-E5.
-	20.	Olah L, Wecker S, Hoehn M. Secondary deterioration of apparent diffusion coefficient after 1-hour transient focal cerebral ischemia in rats. J Cereb Blood Flow Metab. 2000;20:1474–1482. doi:
-10.1097/00004647-200010000-00009.
-	 21.	 Bardutzky J, Shen Q, Henninger N, Schwab S, Duong TQ, Fisher M.
-Characterizing tissue fate after transient cerebral ischemia of varying
-duration using quantitative diffusion and perfusion imaging. Stroke.
-2007;38:1336–1344. doi: 10.1161/01.STR.0000259636.26950.3b.
-	 22.	 Berthet C, Lei H, Gruetter R, Hirt L. Early predictive biomarkers for
-lesion after transient cerebral ischemia. Stroke. 2011;42:799–805. doi:
-10.1161/STROKEAHA.110.603647.
-
-	 23.	 Sicard KM, Henninger N, Fisher M, Duong TQ, Ferris CF. Differential
-recovery of multimodal MRI and behavior after transient focal cerebral
-ischemia in rats. J Cereb Blood Flow Metab. 2006;26:1451–1462. doi:
-10.1038/sj.jcbfm.9600299.
-	 24.	 Li F, Han SS, Tatlisumak T, Liu KF, Garcia JH, Sotak CH, et al. Reversal
-of acute apparent diffusion coefficient abnormalities and delayed neuronal death following transient focal cerebral ischemia in rats. Ann Neurol.
-1999;46:333–342.
-	 25.	 Lei H, Berthet C, Hirt L, Gruetter R. Evolution of the neurochemical
-profile after transient focal cerebral ischemia in the mouse brain. J Cereb
-Blood Flow Metab. 2009;29:811–819. doi: 10.1038/jcbfm.2009.8.
-	 26.	 Olah L, Wecker S, Hoehn M. Relation of apparent diffusion coefficient
-changes and metabolic disturbances after 1 hour of focal cerebral ischemia and at different reperfusion phases in rats. J Cereb Blood Flow
-Metab. 2001;21:430–439. doi: 10.1097/00004647-200104000-00012.
-	 27.	 Kidwell CS, Saver JL, Starkman S, Duckwiler G, Jahan R, Vespa P, et al.
-Late secondary ischemic injury in patients receiving intraarterial thrombolysis. Ann Neurol. 2002;52:698–703. doi: 10.1002/ana.10380.
-	 28.	 Olivot JM, Mlynash M, Thijs VN, Purushotham A, Kemp S, Lansberg
-MG, et al. Relationships between cerebral perfusion and reversibility
-of acute diffusion lesions in DEFUSE: insights from RADAR. Stroke.
-2009;40:1692–1697. doi: 10.1161/STROKEAHA.108.538082.
-	 29.	 An H, Ford AL, Vo K, Powers WJ, Lee JM, Lin W. Signal evolution and
-infarction risk for apparent diffusion coefficient lesions in acute ischemic
-stroke are both time- and perfusion-dependent. Stroke. 2011;42:1276–
-1281. doi: 10.1161/STROKEAHA.110.610501.
-	 30.	 Nagakane Y, Christensen S, Brekenfeld C, Ma H, Churilov L, Parsons
-MW, et al; EPITHET Investigators. EPITHET: positive result after
-reanalysis using baseline diffusion-weighted imaging/perfusionweighted imaging co-registration. Stroke. 2011;42:59–64. doi: 10.1161/
-STROKEAHA.110.580464.
-	 31.	 Akamatsu Y, Shimizu H, Saito A, Fujimura M, Tominaga T. Consistent
-focal cerebral ischemia without posterior cerebral artery occlusion and
-its real-time monitoring in an intraluminal suture model in mice. J
-Neurosurg. 2012;116:657–664. doi: 10.3171/2011.11.JNS111167.
-	 32.	 Kitagawa K, Matsumoto M, Yang G, Mabuchi T, Yagita Y, Hori M, et al.
-Cerebral ischemia after bilateral carotid artery occlusion and intraluminal suture occlusion in mice: evaluation of the patency of the posterior
-communicating artery. J Cereb Blood Flow Metab. 1998;18:570–579.
-doi: 10.1097/00004647-199805000-00012.
-	 33.	 Hata R, Mies G, Wiessner C, Fritze K, Hesselbarth D, Brinker G, et al. A
-reproducible model of middle cerebral artery occlusion in mice: hemodynamic, biochemical, and magnetic resonance imaging. J Cereb Blood Flow
-Metab. 1998;18:367–375. doi: 10.1097/00004647-199804000-00004.
-	34.	 Koumura A, Hamanaka J, Kawasaki K, Tsuruma K, Shimazawa M,
-Hozumi I, et al. Fasudil and ozagrel in combination show neuroprotective effects on cerebral infarction after murine middle cerebral artery
-occlusion. J Pharmacol Exp Ther. 2011;338:337–344. doi: 10.1124/
-jpet.110.177675.
-	35.	 McColl BW, Carswell HV, McCulloch J, Horsburgh K. Extension of
-cerebral hypoperfusion and ischaemic pathology beyond MCA territory after intraluminal filament occlusion in C57Bl/6J mice. Brain Res.
-2004;997:15–23.
-	36.	 Shen Q, Ren H, Fisher M, Duong TQ. Statistical prediction of tissue fate in acute ischemic brain injury. J Cereb Blood Flow Metab.
-2005;25:1336–1345. doi: 10.1038/sj.jcbfm.9600126.
-	37.	 Wu O, Sumii T, Asahi M, Sasamata M, Ostergaard L, Rosen BR, et
-al. Infarct prediction and treatment assessment with MRI-based algorithms in experimental stroke models. J Cereb Blood Flow Metab.
-2007;27:196–204. doi: 10.1038/sj.jcbfm.9600328.
-	 38.	 Huang S, Shen Q, Duong TQ. Quantitative prediction of acute ischemic
-tissue fate using support vector machine. Brain Res. 2011;1405:77–84.
-doi: 10.1016/j.brainres.2011.05.066.
-	39.	Barone FC, Clark RK, Feuerstein G, Lenkinski RE, Sarkar SK.
-Quantitative comparison of magnetic resonance imaging (MRI) and histologic analyses of focal ischemic damage in the rat. Brain Res Bull.
-1991;26:285–291.
-	 40.	 Jacobs MA, Knight RA, Soltanian-Zadeh H, Zheng ZG, Goussev AV,
-Peck DJ, et al. Unsupervised segmentation of multiparameter MRI in
-experimental cerebral ischemia with comparison to T2, diffusion, and
-ADC MRI parameters and histopathological validation. J Magn Reson
-Imaging. 2000;11:425–437.
-	41.	Connolly ES Jr, Winfree CJ, Stern DM, Solomon RA, Pinsky DJ.
-Procedural and strain-related variables significantly affect outcome in a
-
-Leithner et al   Stroke Volume Prediction by Early MRI    3259
-murine model of focal cerebral ischemia. Neurosurgery. 1996;38:523–
-531; discussion 532.
-	 42.	 Pham M, Helluy X, Braeuninger S, Jakob P, Stoll G, Kleinschnitz C,
-et al. Outcome of experimental stroke in C57Bl/6 and Sv/129 mice
-assessed by multimodal ultra-high field MRI. Exp Transl Stroke Med.
-2010;2:6. doi: 10.1186/2040-7378-2-6.
-	 43.	 Desai V, Shen Q, Duong TQ. Incorporating ADC temporal profiles to
-predict ischemic tissue fate in acute stroke. Brain Res. 2012;1458:86–92.
-doi: 10.1016/j.brainres.2012.04.004.
-
-	44.	Bouts MJ, Tiebosch IA, van der Toorn A, Viergever MA, Wu O,
-Dijkhuizen RM. Early identification of potentially salvageable tissue with MRI-based predictive algorithms after experimental ischemic
-stroke. J Cereb Blood Flow Metab. 2013;33:1075–1082. doi: 10.1038/
-jcbfm.2013.51.
-	 45.	 Christensen S, Mouridsen K, Wu O, Hjort N, Karstoft H, Thomalla G, et
-al. Comparison of 10 perfusion MRI parameters in 97 sub-6-hour stroke
-patients using voxel-based receiver operating characteristics analysis.
-Stroke. 2009;40:2055–2061. doi: 10.1161/STROKEAHA.108.546069.
-
-Downloaded from http://stroke.ahajournals.org/ by guest on October 4, 2016
-
-Infarct Volume Prediction by Early Magnetic Resonance Imaging in a Murine Stroke
-Model Depends on Ischemia Duration and Time of Imaging
-Christoph Leithner, Martina Füchtemeier, Devi Jorks, Susanne Mueller, Ulrich Dirnagl and
-Georg Royl
-Downloaded from http://stroke.ahajournals.org/ by guest on October 4, 2016
-
-Stroke. 2015;46:3249-3259; originally published online October 8, 2015;
-doi: 10.1161/STROKEAHA.114.007832
-Stroke is published by the American Heart Association, 7272 Greenville Avenue, Dallas, TX 75231
-Copyright © 2015 American Heart Association, Inc. All rights reserved.
-Print ISSN: 0039-2499. Online ISSN: 1524-4628
-
-The online version of this article, along with updated information and services, is located on the
-World Wide Web at:
-http://stroke.ahajournals.org/content/46/11/3249
-
-Data Supplement (unedited) at:
-http://stroke.ahajournals.org/content/suppl/2015/10/08/STROKEAHA.114.007832.DC1.html
-
-Permissions: Requests for permissions to reproduce figures, tables, or portions of articles originally published
-in Stroke can be obtained via RightsLink, a service of the Copyright Clearance Center, not the Editorial Office.
-Once the online version of the published article for which permission is being requested is located, click
-Request Permissions in the middle column of the Web page under Services. Further information about this
-process is available in the Permissions and Rights Question and Answer document.
-Reprints: Information about reprints can be found online at:
-http://www.lww.com/reprints
-Subscriptions: Information about subscribing to Stroke is online at:
-http://stroke.ahajournals.org//subscriptions/
-
-SUPPLEMENTAL	  MATERIAL	  
-	  
-	  
-Material and Methods online supplement
-	  
-Magnetic Resonance Imaging
-We performed MRI using a 7 Tesla rodent scanner (Pharmascan 70 ⁄ 16, Bruker BioSpin,
-Ettlingen, Germany). For early MR imaging a 1H-Phased-Array mouse head surface coil
-(Rapid Biomed, Rimpar, Germany) and a linear 72-mm volume resonator were used. For late
-imaging a linear 20mm-1H-RF-quadratur-volume resonator was used. We used Paravision 4.0
-for data acquisition and primary image processing. Mice were placed on a heated water
-blanket to ensure constant body temperature of 37 °C. Anaesthesia was induced with 3 %
-isoflurane and maintained with 1.2-1.5 % delivered in O2 / N2O mixture (30/70 %) via a
-facemask under ventilation monitoring. For T2 weighted (T2w) and ADC imaging, 10 slices
-with a slice thickness of 1mm and a field of view of 2 x 2 cm were positioned over the mouse
-brain. For CBF imaging, three slices with a slice thickness of 2 mm were measured covering
-the six middle slices of the T2w and ADC measurement. Imaging parameters for diffusion
-weighted imaging were: TR/TE = 3000 / 40.9 ms, 3 diffusion directions, diffusion duration
-(δ) = 5 ms, diffusion separation (Δ) = 25 ms, b-values 0 and 1300 s/mm2, matrix 128x128. For
-T2 imaging at 48 hours, a T2 weighted turbo-spin echo sequence with fat suppression and the
-following parameters was used: TR/TE = 4200/36 ms, rare factor 8, 4 averages, matrix
-256x256. CBF imaging was performed as described previously1 with the modification that a
-mouse head surface coil and a 128x128 image matrix were used. For quantification, a brainblood partition coefficient of 0.89ml/g was used2. In a relevant minority of animals (~ 20%)
-imaging artifacts precluded reliable quantification of CBF; these animals were excluded from
-further analysis of CBF data, but included in analysis of the other MRI parameters.
-	  
-Image processing
-All image data were processed using custom written Matlab scripts. Brain surface was
-manually or semi-automatically delineated in all slices. Early MR images of each mouse were
-then co-registered to T2w images at 48 hours using bicubic interpolation to a 256x256 matrix
-for ADC and CBF/T1map images. For co-registration of CBF images (slice thickness 2 mm)
-to T2w images (slice thickness 1 mm), CBF values of one CBF image were co-registered to
-the two corresponding T2w images. An average brain surface template was calculated from
-all mice and all individual images co-registered to this average template for spatial infarct
-frequency analysis (see below) and calculation of average MR images.
-Edema correction
-In animals with large ischemic lesions, T2w images at 48 hours showed relevant edema. We
-therefore determined the volume of ischemic and non-ischemic hemispheres for all animals
-and corrected T2w lesion sizes at 48 hours for edema following the equation provided by
-Gerriets and coworkers3: LVc = HVc + HVi – (HVc + HVi – Lvu)*((HVc + HVi)/2*HVc)).
-LVc - lesion volume, corrected for edema, HVc – hemispheric volume contralateral to the
-infarct, HVi – hemispheric volume ipsilateral to the infarct, LVu – lesion volume uncorrected
-for edema).
-
-Lesion volume determination
-Visual lesion determination or visual artifact exclusion after automated lesion selection is still
-widely used in human studies. We determined lesion volumes by manual delineation for all
-modalities (CBF, ADC, T2w, T1map), aided by a script that suggested lesion contours based
-on voxels with equal values. We performed determination of early lesion volumes with
-random order of animals and MR sequences blinded to late MRI. To assess the reliability of
-this procedure, results of two independent raters (CL and GR) were compared. The procedure
-has a low vulnerability to imaging artifacts but might introduce bias. To obtain
-complementary unbiased lesion volumes, we determined ADC lesion volumes both absolute
-and relative to the non-ischemic hemisphere. Thresholds of 0.0006 mm2/s and 80 % of the
-average ADC of the non-ischemic hemisphere were used.
-Further ADC analysis
-To further characterize early ADC changes and corroborate findings of our lesion volume
-analysis, we calculated the changes in ADC histograms for all experimental groups. Voxels
-were assigned to ADC bins with 0.00001 mm2/s width and volumes for each bin of the
-ischemic hemisphere were subtracted from volumes of the nonischemic hemisphere.
-Furthermore, the coefficients of determination of early T2w lesion volumes at 48 hours by
-ADC lesion volumes were calculated for a wide range of ADC thresholds (figure 5). To
-calculate ADC lesion volumes at each threshold, the volume of voxels below this threshold in
-the nonischemic hemisphere was subtracted from the volume in the ischemic hemisphere.
-Differences smaller than 15 µl were set to zero and outliers (more than two standard
-deviations from the mean) removed prior to correlation analysis.
-Prediction models and infarct probability maps
-1) ADC prediction of infarct probability: First, ADC values of all voxels of all ischemic
-hemispheres of one experimental group were divided in bins with 0.00001 mm2/s width. For
-all ADC bins the percentage of voxels, which proceeded to infarction, was calculated.
-Thereby a function was generated, which related absolute ADC value to infarct probability.
-Second, for each voxel, the infarct probability predicted for its ADC value was obtained from
-this curve, added to the infarct probability obtained from the visually delineated ADC lesion
-(assumed to be 1 for voxels within the lesion and 0 for all other voxels) and the result divided
-by 2.
-2) Prediction by spatial infarct frequency: The method of generating spatial infarct frequency
-maps is described above. Infarct probability was directly obtained from these maps for
-prediction by spatial infarct frequency alone. Note that this prediction strategy does not use
-early MRI but solely T2w imaging at 48 hours and thus predicts the same infarct for every
-animal (the ‘average’ infarct for this model). This prediction strategy may be viewed as a
-control which enables us to determine the additional information that is gained by early MRI
-as compared to the assumption that every animal will develop an ‘average’ infarct determined
-from other animals with the same MCAO duration.
-3) Combination of ADC with spatial infarct frequency maps: The infarct probability maps
-generated for ADC and spatial infarct frequency were added and the result divided by 2.
-In a second step, infarct sizes predicted by all three models were calculated for all infarct
-probability thresholds and the root mean squared error for predicted infarcts was calculated.
-The lowest root mean squared error achieved was compared to the root mean squared error
-for prediction by visually determined ADC lesion volumes and linear regression analysis
-(Figure 5B).
-
-Supplementary Figure I.
-
-Supplementary figure I. Average MR images. The figure shows coregistered average MR
-images for ADC, CBF, T1map, early (B0) and late T2w (48h) for all groups (MCAO 45 and
-90 minutes, three different MR measurement time points).
-
-Supplementary Figure II.
-
-Supplementary figure II. Comparison of ADC lesion size determination methods. A)
-Two raters, blinded to the final infarct and to the results of each other visually delineated
-ADC lesion (green and blue). This yielded largely the same lesion volumes as determination
-by absolute (0.0006 mm2/s) or relative (80% of average contralateral ADC) thresholds (upper
-panels). B) ADC histograms (difference non-ischemic – ischemic hemisphere) demonstrate
-the complete recovery of ADC for 45 minutes MCAO (middle panels). C) ADC lesions
-determined via an ADC threshold correlated well with final infarcts for 90 minutes MCAO
-and MRI performed during or at six hours after MCAO. The best ADC threshold was detected
-at around 0.00055-0.00065 mm2/s (lower right panel).
-	  
-	  
-	  
-
-Supplementary	  Table	  I.
-MCAO	  
-
-early	   MRI	   time	   group	  size	  
-
-T2w	  
-
-lesion	   Standard	  
-
-coefficient	  
-
-duration	  
-
-point	  
-
-48h	  
-
-deviation	  
-
-variation	  
-
-[μl]	  
-
-[μl]	  
-
-[%]	  
-
-45	  minutes	  
-
-during	  MCAO	  
-
-n=16	  (13)	  
-
-25	  (31)	  
-
-17	  (14)	  
-
-70	  (45)	  
-
-	  
-
-3h	  
-
-n=19	  (18)	  
-
-42(44)	  
-
-20	  (18)	  
-
-49	  (41)	  
-
-	  
-
-6h	  
-
-n=10	  (10)	  
-
-54	  (54)	  
-
-16	  (16)	  
-
-29	  (29)	  
-
-	  
-
-all	  
-
-n=45	  (41)	  
-
-39	  (43)	  
-
-22	  (19)	  
-
-56	  (44)	  
-
-90	  minutes	  
-
-during	  MCAO	  
-
-n=12	  (11)	  
-
-65(71)	  
-
-30(23)	  
-
-46	  (32)	  
-
-	  
-
-3h	  
-
-n=10	  (9)	  
-
-66	  (73)	  
-
-32	  (25)	  
-
-49	  (34)	  
-
-	  
-
-6h	  
-
-n=12	  (10)	  
-
-56	  (62)	  
-
-36	  (27)	  
-
-64	  (43)	  
-
-	  
-
-all	  
-
-n=34	  (30)	  
-
-63	  (71)	  
-
-32	  (25)	  
-
-51	  (36)	  
-
-of	  
-
-	  
-
-	  
-Supplementary Table I. Final ischemic lesion sizes after MCAO. Lesion sizes were
-visually determined from T2w MRI at 48 hours and corrected for edema. The table gives
-mean and standard deviations in µl for different MCAO durations and early MRI
-measurement time points. Three animals which died prior to imaging at 48 hours and one
-animal with artifacts on T2w imaging at 48 hours were excluded. Numbers in parentheses
-denote analysis omitting all animals with no (<3µl) T2w lesion at 48 hours (failed MCAO).
-Note that exclusion of animals with no T2w lesion significantly reduces the coefficient of
-variation of infarct sizes.
-
-References
-	  
-1.	  
-
-Leithner	  C,	  Gertz	  K,	  Schröck	  H,	  Priller	  J,	  Prass	  K,	  Steinbrink	  J,	  et	  al.	  A	  flow	  sensitive	  
-alternating	  inversion	  recovery	  (FAIR)-­‐MRI	  protocol	  to	  measure	  hemispheric	  
-cerebral	  blood	  flow	  in	  a	  mouse	  stroke	  model.	  Exp.	  Neurol.	  2008;210:118–127.	  	  
-
-2.	  
-
-Leithner	  C,	  Müller	  S,	  Füchtemeier	  M,	  Lindauer	  U,	  Dirnagl	  U,	  Royl	  G.	  Determination	  
-of	  the	  brain-­‐blood	  partition	  coefficient	  for	  water	  in	  mice	  using	  MRI.	  J.	  Cereb.	  Blood	  
-Flow	  Metab.	  2010;30:1821–1824.	  	  
-
-3.	  
-
-Gerriets	  T,	  Stolz	  E,	  Walberer	  M,	  Müller	  C,	  Kluge	  A,	  Bachmann	  A,	  et	  al.	  Noninvasive	  
-quantification	  of	  brain	  edema	  and	  the	  space-­‐occupying	  effect	  in	  rat	  stroke	  models	  
-using	  magnetic	  resonance	  imaging.	  Stroke.	  2004;35:566–571.	  	  
-
-	  
-
-
