@@ -89,9 +89,9 @@ RiskOfBiasIdentification <- function(myData){
   # }
   
   # Set regular expression  
-  randomRegex <- ''
-  blindingRegex <- ''
-  sampleRegex <- ''
+  randomRegex <- '((?<!not )(\brandom(ly)?.*(assign|divid|treat|split|determin|receiv|alloc|subdiv|categor))|((?<!not )(assign|divid|treat|split|determin|receiv|alloc|subdiv|categor).(at)?.*random))|(?<!not )(\brandomi[sz]).*(in|to)|were randomi[sz]ed'
+  blindingRegex <- '(?<!not )(((\bblind (as )?to)|blind(ed|ly)|blind.(manner|eval|observ|investigat|rate|rati|experiment|research|test|quantif|cod|with respect to|method|analy[s|z]?|condition)?|((perform|count|conduct|genotyp|cod|test)e?d?.(blind))|(\'blind\')|(\""blind\""))|((observer(s)?|experimenter(s)?|researcher(s)?|tester(s)?|rater(s)?|person(s)?|investigator(s)?|operator(s)?) (unaware|not aware|unaware|without awareness)?( of)?))|((unaware|not aware|unaware|without awareness)( of )(the )?(pre)?(treatment|genotyp|group|drug|experimental condition))|(naive to the identity of)'
+  sampleRegex <- '(?<!not )(\bpower|would be needed if the null hypothesis|(to estimate the|used to determine the|based on these assumptions a) sample size|(the study|gave appropriate|increase the|descrease the|the planned|statistical) power|a power of|(?<!failed to )achieve statistical significance|was powered at|minimum number of (mice|rats|animals|subjects|patients) were used|\bchance of|\to detect a|minimum clinically worthwhile effect|power of more than|\to reject the null hypothesis|effectively powered|power and statistical analysis|are required per group|per group were required|minimum number required to give|required to give statistically valid results|through a priori calculation)'
   
   # Apply regular expression to newdata$cleanText and then store into flag
   myData$randomFlag <- regularExpressionIdentification(myData$cleanText, randomRegex)
